@@ -14,6 +14,8 @@ const { neon } = require('@neondatabase/serverless');
 const OpenAI = require('openai').default;
 
 const MAX_QUERY_LENGTH = 1000;
+const MAX_BOOK_FILTER_LENGTH = 120;
+const BOOK_FILTER_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 
 // Lazy-initialized clients
 let sql;
@@ -26,6 +28,62 @@ function getPostgresUrl() {
     process.env.POSTGRES_URL_NON_POOLING ||
     process.env.DATABASE_URL_UNPOOLED
   );
+}
+
+function normalizeOrigin(value) {
+  if (!value) {
+    return null;
+  }
+
+  try {
+    const normalized = /^https?:\/\//i.test(value)
+      ? value
+      : `https://${value}`;
+    return new URL(normalized).origin;
+  } catch {
+    return null;
+  }
+}
+
+function getAllowedOrigins() {
+  const configuredOrigins = String(process.env.ALLOWED_ORIGINS || '')
+    .split(',')
+    .map(origin => normalizeOrigin(origin.trim()))
+    .filter(Boolean);
+  const derivedOrigins = [
+    process.env.SITE_URL,
+    process.env.PUBLIC_SITE_URL,
+    process.env.VERCEL_PROJECT_PRODUCTION_URL,
+    process.env.VERCEL_URL,
+  ]
+    .map(normalizeOrigin)
+    .filter(Boolean);
+
+  return new Set([...configuredOrigins, ...derivedOrigins]);
+}
+
+function applyCors(req, res) {
+  const requestOrigin = normalizeOrigin(req.headers.origin);
+  const allowedOrigins = getAllowedOrigins();
+
+  res.setHeader('Vary', 'Origin');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+  if (!requestOrigin) {
+    return true;
+  }
+  if (allowedOrigins.size === 0 || !allowedOrigins.has(requestOrigin)) {
+    return false;
+  }
+
+  res.setHeader('Access-Control-Allow-Origin', requestOrigin);
+  return true;
+}
+
+function setSecurityHeaders(res) {
+  res.setHeader('Referrer-Policy', 'same-origin');
+  res.setHeader('X-Content-Type-Options', 'nosniff');
 }
 
 function getClients() {
@@ -206,14 +264,14 @@ async function searchClaims(queryEmbedding, limit = 10, bookFilter = null) {
 }
 
 module.exports = async function handler(req, res) {
-  // Set CORS headers
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  setSecurityHeaders(res);
+  if (!applyCors(req, res)) {
+    return res.status(403).json({ error: 'Origin not allowed' });
+  }
 
   // Handle CORS preflight
   if (req.method === 'OPTIONS') {
-    return res.status(200).end();
+    return res.status(204).end();
   }
 
   // Only allow GET
@@ -246,6 +304,9 @@ module.exports = async function handler(req, res) {
   }
   if (query.length > MAX_QUERY_LENGTH) {
     return res.status(400).json({ error: 'Query is too long' });
+  }
+  if (book && (book.length > MAX_BOOK_FILTER_LENGTH || !BOOK_FILTER_PATTERN.test(book))) {
+    return res.status(400).json({ error: 'Invalid book filter' });
   }
 
   try {

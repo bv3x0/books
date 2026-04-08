@@ -343,7 +343,8 @@ GET /api/search?q=your+query&limit=20&book=orality-and-literacy
 1. Add Neon Postgres via Vercel Marketplace (auto-adds `POSTGRES_URL`)
 2. Run schema in Neon console (see `scripts/migrate-vectors.py` for SQL)
 3. Add `OPENAI_API_KEY` to Vercel env vars
-4. Migrate vectors: `python scripts/migrate-vectors.py`
+4. Optional but recommended: set `ALLOWED_ORIGINS` to a comma-separated list of trusted site origins for `/api/search`
+5. Migrate vectors: `python scripts/migrate-vectors.py`
 
 ## Project Structure
 
@@ -402,7 +403,9 @@ From the operator side, the CLI behavior is unchanged; this note matters if you 
 
 - Book names validated: `[a-zA-Z0-9\s_-]{1,100}`, no path traversal
 - API keys from env vars only, never committed
+- `/api/search` only serves browser origins explicitly allowed by `ALLOWED_ORIGINS` or the active Vercel deployment URLs
 - Local editor/agent settings and deployment logs are kept out of version control
+- GitHub Actions runs scheduled dependency audits, CodeQL analysis, and PR dependency review
 - Static site output = minimal attack surface
 
 ## Public release checklist
