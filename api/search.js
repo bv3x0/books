@@ -116,7 +116,7 @@ async function getClaimsSchema() {
   return claimsSchemaPromise;
 }
 
-// Rate limiting
+// In-memory rate limiting for the serverless search endpoint
 const RATE_LIMIT_REQUESTS = 10;
 const RATE_LIMIT_WINDOW = 60 * 1000;
 const rateLimitStore = new Map();

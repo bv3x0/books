@@ -404,7 +404,7 @@ From the operator side, the CLI behavior is unchanged; this note matters if you 
 - Book names validated: `[a-zA-Z0-9\s_-]{1,100}`, no path traversal
 - API keys from env vars only, never committed
 - `/api/search` only serves browser origins explicitly allowed by `ALLOWED_ORIGINS` or the active Vercel deployment URLs
-- Local editor/agent settings and deployment logs are kept out of version control
+- Local editor/agent settings, caches, and deployment logs are kept out of version control
 - GitHub Actions runs scheduled dependency audits, CodeQL analysis, and PR dependency review
 - Static site output = minimal attack surface
 
