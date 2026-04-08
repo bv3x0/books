@@ -17,6 +17,13 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from app.bootstrap import project_python_executable
+
+
+PYTHON = project_python_executable()
 
 
 def run_cmd(cmd: list[str]) -> int:
@@ -43,7 +50,7 @@ def print_completed_process_output(result: subprocess.CompletedProcess[str]) -> 
 
 
 def add_command(args: argparse.Namespace) -> int:
-    cmd = ["python3", "app/main.py", args.book]
+    cmd = [PYTHON, "app/main.py", args.book]
     if args.toc:
         cmd.append("--toc")
     if args.retry:
@@ -70,7 +77,7 @@ def add_command(args: argparse.Namespace) -> int:
 
 
 def publish_command(args: argparse.Namespace) -> int:
-    cmd = ["python3", "app/cli/publish.py", "publish"]
+    cmd = [PYTHON, "app/cli/publish.py", "publish"]
     if args.reconcile != "none":
         cmd.extend(["--reconcile", args.reconcile])
     if args.sync_vectors:
@@ -138,7 +145,7 @@ def ship_command(args: argparse.Namespace) -> int:
 
 
 def smoke_command(_args: argparse.Namespace) -> int:
-    return run_cmd(["python3", "scripts/smoke_test.py"])
+    return run_cmd([PYTHON, "scripts/smoke_test.py"])
 
 
 def build_parser() -> argparse.ArgumentParser:

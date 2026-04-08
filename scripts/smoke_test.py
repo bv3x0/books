@@ -22,6 +22,13 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from app.bootstrap import project_python_executable
+
+
+PYTHON = project_python_executable()
 
 
 @dataclass(frozen=True)
@@ -61,11 +68,11 @@ def verify_outputs() -> bool:
 def main() -> int:
     os.chdir(PROJECT_ROOT)
     steps = [
-        SmokeStep("CLI help: ingest", ["python3", "app/main.py", "--help"]),
-        SmokeStep("CLI help: publish", ["python3", "app/cli/publish.py", "--help"]),
-        SmokeStep("CLI help: workflow", ["python3", "scripts/workflow.py", "--help"]),
+        SmokeStep("CLI help: ingest", [PYTHON, "app/main.py", "--help"]),
+        SmokeStep("CLI help: publish", [PYTHON, "app/cli/publish.py", "--help"]),
+        SmokeStep("CLI help: workflow", [PYTHON, "scripts/workflow.py", "--help"]),
         SmokeStep("API syntax: search", ["node", "--check", "api/search.js"]),
-        SmokeStep("Publish current data", ["python3", "app/cli/publish.py", "publish"]),
+        SmokeStep("Publish current data", [PYTHON, "app/cli/publish.py", "publish"]),
         SmokeStep("Vercel root build", ["npm", "run", "vercel-build"]),
     ]
 

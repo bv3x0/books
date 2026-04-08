@@ -299,7 +299,7 @@ class MaintenanceServiceTests(unittest.TestCase):
 
         self.assertTrue(ok.ok)
         stream.assert_called_once_with(
-            ["python3", str(script_path), "--apply-all"], cwd=root
+            [maintenance_service.PYTHON, str(script_path), "--apply-all"], cwd=root
         )
 
     def test_run_integrity_check_builds_allow_drift_flag(self):
@@ -321,7 +321,7 @@ class MaintenanceServiceTests(unittest.TestCase):
 
         self.assertTrue(ok.ok)
         stream.assert_called_once_with(
-            ["python3", str(script_path), "--allow-vector-drift"], cwd=root
+            [maintenance_service.PYTHON, str(script_path), "--allow-vector-drift"], cwd=root
         )
 
     def test_sync_vectors_to_postgres_skips_without_env(self):

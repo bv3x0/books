@@ -1,4 +1,6 @@
-baseURL = "https://example.com/"
+# Hugo uses this to generate absolute permalinks during production builds.
+# Keep it aligned with the live site domain; replacing it with a placeholder breaks navigation.
+baseURL = "https://bbnotes.vercel.app/"
 languageCode = "en-us"
 title = "Book Summaries"
 theme = "shibui"

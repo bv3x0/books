@@ -8,9 +8,13 @@ import os
 import subprocess
 from pathlib import Path
 
+from app.bootstrap import project_python_executable
 from app.core.publisher import PROJECT_ROOT, report_semantic_backlog
 from app.logger import log
 from app.services.step_result import StepResult
+
+
+PYTHON = project_python_executable()
 
 
 def _stream_command(cmd: list[str], cwd: Path) -> StepResult:
@@ -49,7 +53,7 @@ def run_integrity_check(allow_vector_drift: bool = True) -> StepResult:
         log.warning("Integrity script not found, skipping")
         return StepResult.skipped("Integrity script not found")
 
-    cmd = ["python3", str(script_path)]
+    cmd = [PYTHON, str(script_path)]
     if allow_vector_drift:
         cmd.append("--allow-vector-drift")
     return _stream_command(cmd, cwd=PROJECT_ROOT)
@@ -66,7 +70,7 @@ def run_reconcile(mode: str) -> StepResult:
         log.error("Reconcile script not found.")
         return StepResult.failed("Reconcile script not found")
 
-    cmd = ["python3", str(script_path)]
+    cmd = [PYTHON, str(script_path)]
     if normalized_mode == "full":
         cmd.append("--apply-all")
     elif normalized_mode == "reuse":
@@ -98,4 +102,4 @@ def sync_vectors_to_postgres() -> StepResult:
         log.warning("  (Semantic search will use stale data until vectors are synced)")
         return StepResult.skipped("Vector sync skipped: Postgres env not set")
 
-    return _stream_command(["python3", str(script_path)], cwd=PROJECT_ROOT)
+    return _stream_command([PYTHON, str(script_path)], cwd=PROJECT_ROOT)
