@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-08T15:31:04.372375Z",
+  "updated_at": "2026-04-08T19:55:42.818572Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -180,6 +180,7 @@
         "a disease in the public mind": 2,
         "introduction-to-christianity": 3,
         "occult philosophy in the elizabethan age": 1,
+        "revelations of divine love": 1,
         "revolt-against-the-modern-world": 4,
         "the first ghosts": 1,
         "through the eye of a needle": 1,
@@ -189,12 +190,13 @@
         "a disease in the public mind",
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
+        "revelations of divine love",
         "revolt-against-the-modern-world",
         "the first ghosts",
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "intellectual_hierarchy": {
       "id": "intellectual_hierarchy",
@@ -2177,6 +2179,7 @@
         "dark night of the soul": 2,
         "horror of philosophy": 1,
         "occult philosophy in the elizabethan age": 3,
+        "revelations of divine love": 6,
         "the interior castle": 2,
         "the mystical theology of the eastern church": 3,
         "the secret teachings of all ages": 1
@@ -2186,11 +2189,12 @@
         "dark night of the soul",
         "horror of philosophy",
         "occult philosophy in the elizabethan age",
+        "revelations of divine love",
         "the interior castle",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages"
       ],
-      "claim_count": 13
+      "claim_count": 19
     },
     "direct_experience": {
       "id": "direct_experience",
@@ -2603,14 +2607,16 @@
       "book_claims": {
         "a secret history of christianity": 1,
         "introduction-to-christianity": 10,
+        "revelations of divine love": 1,
         "revolt-against-the-modern-world": 3
       },
       "books": [
         "a secret history of christianity",
         "introduction-to-christianity",
+        "revelations of divine love",
         "revolt-against-the-modern-world"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "divine_intervention": {
       "id": "divine_intervention",
@@ -3144,6 +3150,7 @@
         "mystery teachings from the living earth": 2,
         "occult philosophy in the elizabethan age": 1,
         "orthodoxy": 1,
+        "revelations of divine love": 1,
         "the interior castle": 1,
         "thus spake zarathustra": 3
       },
@@ -3153,10 +3160,11 @@
         "mystery teachings from the living earth",
         "occult philosophy in the elizabethan age",
         "orthodoxy",
+        "revelations of divine love",
         "the interior castle",
         "thus spake zarathustra"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "spiritual_transformation": {
       "id": "spiritual_transformation",
@@ -3173,6 +3181,7 @@
         "le mystere des cathedrales": 1,
         "occult philosophy in the elizabethan age": 2,
         "psychomagic": 2,
+        "revelations of divine love": 1,
         "revolt-against-the-modern-world": 6,
         "the adventure of consciousness": 1,
         "the interior castle": 2,
@@ -3187,12 +3196,13 @@
         "le mystere des cathedrales",
         "occult philosophy in the elizabethan age",
         "psychomagic",
+        "revelations of divine love",
         "revolt-against-the-modern-world",
         "the adventure of consciousness",
         "the interior castle",
         "transcendental magic"
       ],
-      "claim_count": 25
+      "claim_count": 26
     },
     "christological_development": {
       "id": "christological_development",
@@ -4931,6 +4941,7 @@
         "introduction-to-christianity": 1,
         "memories-dreams-reflections": 2,
         "on heroes": 1,
+        "revelations of divine love": 1,
         "the adventure of consciousness": 1,
         "the interpretation of fairy tales": 1,
         "the mystical theology of the eastern church": 1,
@@ -4944,13 +4955,14 @@
         "introduction-to-christianity",
         "memories-dreams-reflections",
         "on heroes",
+        "revelations of divine love",
         "the adventure of consciousness",
         "the interpretation of fairy tales",
         "the mystical theology of the eastern church",
         "the problem of the puer animus",
         "the soul of the world"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "historical_phases": {
       "id": "historical_phases",
@@ -5105,14 +5117,16 @@
       "book_claims": {
         "alchemical active imagination": 1,
         "introduction-to-christianity": 4,
+        "revelations of divine love": 5,
         "the mystical theology of the eastern church": 1
       },
       "books": [
         "alchemical active imagination",
         "introduction-to-christianity",
+        "revelations of divine love",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 6
+      "claim_count": 11
     },
     "persecution": {
       "id": "persecution",
@@ -5293,6 +5307,7 @@
         "memories-dreams-reflections": 1,
         "mystery teachings from the living earth": 2,
         "psychomagic": 1,
+        "revelations of divine love": 6,
         "ride the tiger": 2,
         "the interior castle": 4,
         "the problem of the puer animus": 2,
@@ -5311,6 +5326,7 @@
         "memories-dreams-reflections",
         "mystery teachings from the living earth",
         "psychomagic",
+        "revelations of divine love",
         "ride the tiger",
         "the interior castle",
         "the problem of the puer animus",
@@ -5318,7 +5334,7 @@
         "things hidden since the foundation of the world",
         "thus spake zarathustra"
       ],
-      "claim_count": 27
+      "claim_count": 33
     },
     "dream_consciousness": {
       "id": "dream_consciousness",
@@ -7973,16 +7989,18 @@
       "book_claims": {
         "american nations": 1,
         "confessions": 4,
+        "revelations of divine love": 5,
         "the discarded image": 1,
         "through the eye of a needle": 1
       },
       "books": [
         "american nations",
         "confessions",
+        "revelations of divine love",
         "the discarded image",
         "through the eye of a needle"
       ],
-      "claim_count": 7
+      "claim_count": 12
     },
     "political_reform": {
       "id": "political_reform",
@@ -9186,6 +9204,7 @@
         "kabbalistic visions": 2,
         "memories-dreams-reflections": 1,
         "origins of the kabbalah": 3,
+        "revelations of divine love": 10,
         "transcendental magic": 2
       },
       "books": [
@@ -9196,9 +9215,10 @@
         "kabbalistic visions",
         "memories-dreams-reflections",
         "origins of the kabbalah",
+        "revelations of divine love",
         "transcendental magic"
       ],
-      "claim_count": 17
+      "claim_count": 27
     },
     "predestination": {
       "id": "predestination",
@@ -13392,15 +13412,17 @@
         "beelzebubs tales": 1,
         "confessions": 1,
         "cult of the saints": 1,
-        "introduction-to-christianity": 2
+        "introduction-to-christianity": 2,
+        "revelations of divine love": 4
       },
       "books": [
         "beelzebubs tales",
         "confessions",
         "cult of the saints",
-        "introduction-to-christianity"
+        "introduction-to-christianity",
+        "revelations of divine love"
       ],
-      "claim_count": 5
+      "claim_count": 9
     },
     "providential_history": {
       "id": "providential_history",
@@ -17277,6 +17299,7 @@
         "evil the shadow side of reality": 1,
         "introduction-to-christianity": 23,
         "orthodoxy": 2,
+        "revelations of divine love": 15,
         "the mystical theology of the eastern church": 2,
         "the secret teachings of all ages": 1,
         "the sickness unto death": 2,
@@ -17287,12 +17310,13 @@
         "evil the shadow side of reality",
         "introduction-to-christianity",
         "orthodoxy",
+        "revelations of divine love",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages",
         "the sickness unto death",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 37
+      "claim_count": 52
     },
     "eschatology": {
       "id": "eschatology",
@@ -17308,6 +17332,7 @@
         "nick land explains the numogram": 1,
         "occult philosophy in the elizabethan age": 1,
         "origins of the kabbalah": 1,
+        "revelations of divine love": 11,
         "the mystical theology of the eastern church": 3,
         "the secret teachings of all ages": 1,
         "through the eye of a needle": 2
@@ -17320,11 +17345,12 @@
         "nick land explains the numogram",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
+        "revelations of divine love",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages",
         "through the eye of a needle"
       ],
-      "claim_count": 33
+      "claim_count": 44
     },
     "christian_optimism": {
       "id": "christian_optimism",
@@ -17638,6 +17664,7 @@
         "catafalque": 1,
         "fooled by randomness": 3,
         "orthodoxy": 2,
+        "revelations of divine love": 3,
         "the discarded image": 1,
         "the reality of being": 1
       },
@@ -17645,10 +17672,11 @@
         "catafalque",
         "fooled by randomness",
         "orthodoxy",
+        "revelations of divine love",
         "the discarded image",
         "the reality of being"
       ],
-      "claim_count": 8
+      "claim_count": 11
     },
     "epistemic_authority": {
       "id": "epistemic_authority",
@@ -18703,14 +18731,16 @@
       "book_claims": {
         "beyond good and evil": 1,
         "introduction-to-christianity": 1,
+        "revelations of divine love": 5,
         "transcendental magic": 1
       },
       "books": [
         "beyond good and evil",
         "introduction-to-christianity",
+        "revelations of divine love",
         "transcendental magic"
       ],
-      "claim_count": 3
+      "claim_count": 8
     },
     "baptismal_theology": {
       "id": "baptismal_theology",
@@ -18951,6 +18981,7 @@
       "book_claims": {
         "confessions": 1,
         "introduction-to-christianity": 8,
+        "revelations of divine love": 12,
         "the interior castle": 4,
         "the sickness unto death": 1,
         "the soul of the world": 1,
@@ -18959,12 +18990,13 @@
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "revelations of divine love",
         "the interior castle",
         "the sickness unto death",
         "the soul of the world",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 16
+      "claim_count": 28
     },
     "divine_relationship": {
       "id": "divine_relationship",
@@ -19137,6 +19169,7 @@
         "occult philosophy in the elizabethan age": 8,
         "orthodoxy and the religion of the future": 1,
         "presence in the modern world": 1,
+        "revelations of divine love": 2,
         "the interior castle": 1,
         "the mystical theology of the eastern church": 1
       },
@@ -19145,10 +19178,11 @@
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future",
         "presence in the modern world",
+        "revelations of divine love",
         "the interior castle",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 19
+      "claim_count": 21
     },
     "divine_theophany": {
       "id": "divine_theophany",
@@ -19175,16 +19209,18 @@
       "book_claims": {
         "introduction-to-christianity": 6,
         "kabbalistic visions": 1,
+        "revelations of divine love": 1,
         "the adventure of consciousness": 1,
         "the soul of the world": 1
       },
       "books": [
         "introduction-to-christianity",
         "kabbalistic visions",
+        "revelations of divine love",
         "the adventure of consciousness",
         "the soul of the world"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "personal_disclosure": {
       "id": "personal_disclosure",
@@ -19254,6 +19290,7 @@
         "introduction-to-christianity": 15,
         "orthodoxy": 1,
         "orthodoxy and the religion of the future": 3,
+        "revelations of divine love": 10,
         "the interior castle": 1,
         "the mystical theology of the eastern church": 3
       },
@@ -19263,10 +19300,11 @@
         "introduction-to-christianity",
         "orthodoxy",
         "orthodoxy and the religion of the future",
+        "revelations of divine love",
         "the interior castle",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 26
+      "claim_count": 36
     },
     "divine_presence": {
       "id": "divine_presence",
@@ -19344,6 +19382,7 @@
         "confessions": 3,
         "introduction-to-christianity": 12,
         "orthodoxy": 2,
+        "revelations of divine love": 2,
         "the mystical theology of the eastern church": 2,
         "the problem of the puer animus": 1,
         "the tarot sadhu": 1
@@ -19352,11 +19391,12 @@
         "confessions",
         "introduction-to-christianity",
         "orthodoxy",
+        "revelations of divine love",
         "the mystical theology of the eastern church",
         "the problem of the puer animus",
         "the tarot sadhu"
       ],
-      "claim_count": 21
+      "claim_count": 23
     },
     "timeless_being": {
       "id": "timeless_being",
@@ -19556,6 +19596,7 @@
         "confessions": 1,
         "introduction-to-christianity": 12,
         "occult philosophy in the elizabethan age": 2,
+        "revelations of divine love": 13,
         "the discarded image": 1,
         "the interior castle": 1,
         "the mystical theology of the eastern church": 1,
@@ -19565,12 +19606,13 @@
         "confessions",
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
+        "revelations of divine love",
         "the discarded image",
         "the interior castle",
         "the mystical theology of the eastern church",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 19
+      "claim_count": 32
     },
     "natural_divinity": {
       "id": "natural_divinity",
@@ -19615,14 +19657,16 @@
       "book_claims": {
         "confessions": 5,
         "introduction-to-christianity": 3,
+        "revelations of divine love": 3,
         "revolt-against-the-modern-world": 1
       },
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "revelations of divine love",
         "revolt-against-the-modern-world"
       ],
-      "claim_count": 9
+      "claim_count": 12
     },
     "natural_law": {
       "id": "natural_law",
@@ -20044,13 +20088,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 16,
+        "revelations of divine love": 1,
         "transcendental magic": 1
       },
       "books": [
         "introduction-to-christianity",
+        "revelations of divine love",
         "transcendental magic"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "textual_analysis": {
       "id": "textual_analysis",
@@ -20200,6 +20246,7 @@
         "beelzebubs tales": 1,
         "introduction-to-christianity": 4,
         "kabbalistic visions": 2,
+        "revelations of divine love": 3,
         "revolt-against-the-modern-world": 1,
         "the tarot sadhu": 1
       },
@@ -20207,10 +20254,11 @@
         "beelzebubs tales",
         "introduction-to-christianity",
         "kabbalistic visions",
+        "revelations of divine love",
         "revolt-against-the-modern-world",
         "the tarot sadhu"
       ],
-      "claim_count": 9
+      "claim_count": 12
     },
     "hominization": {
       "id": "hominization",
@@ -20471,6 +20519,7 @@
         "introduction-to-christianity": 11,
         "memories-dreams-reflections": 1,
         "presence in the modern world": 1,
+        "revelations of divine love": 2,
         "revolt-against-the-modern-world": 2,
         "the interior castle": 5
       },
@@ -20479,10 +20528,11 @@
         "introduction-to-christianity",
         "memories-dreams-reflections",
         "presence in the modern world",
+        "revelations of divine love",
         "revolt-against-the-modern-world",
         "the interior castle"
       ],
-      "claim_count": 21
+      "claim_count": 23
     },
     "finality": {
       "id": "finality",
@@ -20667,14 +20717,16 @@
       "book_claims": {
         "introduction-to-christianity": 4,
         "presence in the modern world": 1,
+        "revelations of divine love": 1,
         "the interior castle": 1
       },
       "books": [
         "introduction-to-christianity",
         "presence in the modern world",
+        "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "gift_theology": {
       "id": "gift_theology",
@@ -20853,6 +20905,7 @@
         "circles of power": 1,
         "dark night of the soul": 1,
         "introduction-to-christianity": 1,
+        "revelations of divine love": 11,
         "the interior castle": 7,
         "the mystical theology of the eastern church": 3,
         "through the eye of a needle": 1
@@ -20862,11 +20915,12 @@
         "circles of power",
         "dark night of the soul",
         "introduction-to-christianity",
+        "revelations of divine love",
         "the interior castle",
         "the mystical theology of the eastern church",
         "through the eye of a needle"
       ],
-      "claim_count": 15
+      "claim_count": 26
     },
     "priestly_mediation": {
       "id": "priestly_mediation",
@@ -20956,6 +21010,7 @@
         "in search of the miraculous": 2,
         "introduction-to-christianity": 1,
         "occult philosophy in the elizabethan age": 1,
+        "revelations of divine love": 2,
         "the interior castle": 1,
         "the mask and face of contemporary spiritualism": 1,
         "the mystical theology of the eastern church": 1,
@@ -20970,13 +21025,14 @@
         "in search of the miraculous",
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
+        "revelations of divine love",
         "the interior castle",
         "the mask and face of contemporary spiritualism",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages",
         "thus spake zarathustra"
       ],
-      "claim_count": 14
+      "claim_count": 16
     },
     "spiritual_contradiction": {
       "id": "spiritual_contradiction",
@@ -21668,15 +21724,17 @@
         "kabbalistic visions": 2,
         "memories-dreams-reflections": 1,
         "occult philosophy in the elizabethan age": 3,
+        "revelations of divine love": 5,
         "the interior castle": 1
       },
       "books": [
         "kabbalistic visions",
         "memories-dreams-reflections",
         "occult philosophy in the elizabethan age",
+        "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 7
+      "claim_count": 12
     },
     "sacred_marriage": {
       "id": "sacred_marriage",
@@ -24451,6 +24509,7 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 5,
         "origins of the kabbalah": 1,
+        "revelations of divine love": 5,
         "the closing of the american mind": 1,
         "the interior castle": 2,
         "the mystical theology of the eastern church": 1
@@ -24458,11 +24517,12 @@
       "books": [
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
+        "revelations of divine love",
         "the closing of the american mind",
         "the interior castle",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 10
+      "claim_count": 15
     },
     "scholarly_expertise": {
       "id": "scholarly_expertise",
@@ -28538,6 +28598,7 @@
         "confessions": 1,
         "dark night of the soul": 2,
         "orthodoxy and the religion of the future": 2,
+        "revelations of divine love": 5,
         "revolt-against-the-modern-world": 2,
         "the interior castle": 2,
         "thus spake zarathustra": 1
@@ -28546,11 +28607,12 @@
         "confessions",
         "dark night of the soul",
         "orthodoxy and the religion of the future",
+        "revelations of divine love",
         "revolt-against-the-modern-world",
         "the interior castle",
         "thus spake zarathustra"
       ],
-      "claim_count": 10
+      "claim_count": 15
     },
     "western_spirituality": {
       "id": "western_spirituality",
@@ -29465,6 +29527,7 @@
       "book_claims": {
         "in search of the miraculous": 1,
         "psychomagic": 1,
+        "revelations of divine love": 1,
         "ride the tiger": 1,
         "the interior castle": 1,
         "the mask and face of contemporary spiritualism": 3
@@ -29472,11 +29535,12 @@
       "books": [
         "in search of the miraculous",
         "psychomagic",
+        "revelations of divine love",
         "ride the tiger",
         "the interior castle",
         "the mask and face of contemporary spiritualism"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "embodied_healing": {
       "id": "embodied_healing",
@@ -33155,6 +33219,7 @@
         "beyond good and evil": 1,
         "mystery teachings from the living earth": 2,
         "origins of the kabbalah": 1,
+        "revelations of divine love": 1,
         "ride the tiger": 1,
         "the mystical theology of the eastern church": 2,
         "through the eye of a needle": 2,
@@ -33166,13 +33231,14 @@
         "beyond good and evil",
         "mystery teachings from the living earth",
         "origins of the kabbalah",
+        "revelations of divine love",
         "ride the tiger",
         "the mystical theology of the eastern church",
         "through the eye of a needle",
         "thus spake zarathustra",
         "transcendental magic"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "fiscal_crisis": {
       "id": "fiscal_crisis",
@@ -34896,15 +34962,17 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
+        "revelations of divine love": 1,
         "the reality of being": 1,
         "the sickness unto death": 2
       },
       "books": [
         "introduction-to-christianity",
+        "revelations of divine love",
         "the reality of being",
         "the sickness unto death"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "intellectual_humility": {
       "id": "intellectual_humility",
@@ -37916,13 +37984,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 3,
-        "origins of the kabbalah": 1
+        "origins of the kabbalah": 1,
+        "revelations of divine love": 4
       },
       "books": [
         "introduction-to-christianity",
-        "origins of the kabbalah"
+        "origins of the kabbalah",
+        "revelations of divine love"
       ],
-      "claim_count": 4
+      "claim_count": 8
     },
     "existential_freedom": {
       "id": "existential_freedom",
@@ -39288,15 +39358,17 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 7,
+        "revelations of divine love": 2,
         "the mystical theology of the eastern church": 2,
         "the secret teachings of all ages": 1
       },
       "books": [
         "introduction-to-christianity",
+        "revelations of divine love",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages"
       ],
-      "claim_count": 10
+      "claim_count": 12
     },
     "perseverance": {
       "id": "perseverance",
@@ -43735,14 +43807,16 @@
       "book_claims": {
         "beelzebubs tales": 1,
         "horror of philosophy 2": 1,
+        "revelations of divine love": 7,
         "thus spake zarathustra": 2
       },
       "books": [
         "beelzebubs tales",
         "horror of philosophy 2",
+        "revelations of divine love",
         "thus spake zarathustra"
       ],
-      "claim_count": 4
+      "claim_count": 11
     },
     "philosophical_method": {
       "id": "philosophical_method",
@@ -44731,14 +44805,16 @@
       "book_claims": {
         "confessions": 3,
         "introduction-to-christianity": 8,
+        "revelations of divine love": 3,
         "the mystical theology of the eastern church": 4
       },
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "revelations of divine love",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 15
+      "claim_count": 18
     },
     "professional_ethics": {
       "id": "professional_ethics",
@@ -44894,13 +44970,15 @@
       "related": [],
       "book_claims": {
         "confessions": 1,
-        "orthodoxy": 1
+        "orthodoxy": 1,
+        "revelations of divine love": 1
       },
       "books": [
         "confessions",
-        "orthodoxy"
+        "orthodoxy",
+        "revelations of divine love"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "spiritual_gifts": {
       "id": "spiritual_gifts",
@@ -45703,14 +45781,16 @@
       "book_claims": {
         "confessions": 1,
         "dark night of the soul": 2,
+        "revelations of divine love": 1,
         "the interior castle": 8
       },
       "books": [
         "confessions",
         "dark night of the soul",
+        "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "detachment": {
       "id": "detachment",
@@ -45791,14 +45871,16 @@
       "book_claims": {
         "confessions": 1,
         "dark night of the soul": 2,
+        "revelations of divine love": 1,
         "the interior castle": 2
       },
       "books": [
         "confessions",
         "dark night of the soul",
+        "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "suffering": {
       "id": "suffering",
@@ -46420,13 +46502,15 @@
       "related": [],
       "book_claims": {
         "dark night of the soul": 1,
+        "revelations of divine love": 7,
         "the interior castle": 3
       },
       "books": [
         "dark night of the soul",
+        "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 4
+      "claim_count": 11
     },
     "spiritual_direction": {
       "id": "spiritual_direction",
@@ -46468,13 +46552,15 @@
       "related": [],
       "book_claims": {
         "dark night of the soul": 1,
+        "revelations of divine love": 4,
         "the interior castle": 3
       },
       "books": [
         "dark night of the soul",
+        "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 4
+      "claim_count": 8
     },
     "infused_knowledge": {
       "id": "infused_knowledge",
@@ -46505,6 +46591,374 @@
       "books": [
         "dark night of the soul",
         "the interior castle"
+      ],
+      "claim_count": 3
+    },
+    "moral_theology": {
+      "id": "moral_theology",
+      "label": "Moral Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "confessions": 1,
+        "revelations of divine love": 1
+      },
+      "books": [
+        "confessions",
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "divine_goodness": {
+      "id": "divine_goodness",
+      "label": "Divine Goodness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "confessions": 1,
+        "revelations of divine love": 3
+      },
+      "books": [
+        "confessions",
+        "revelations of divine love"
+      ],
+      "claim_count": 4
+    },
+    "sin_and_redemption": {
+      "id": "sin_and_redemption",
+      "label": "Sin And Redemption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "cult of the saints": 1,
+        "revelations of divine love": 3
+      },
+      "books": [
+        "cult of the saints",
+        "revelations of divine love"
+      ],
+      "claim_count": 4
+    },
+    "beatific_vision": {
+      "id": "beatific_vision",
+      "label": "Beatific Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "dark night of the soul": 1,
+        "revelations of divine love": 1
+      },
+      "books": [
+        "dark night of the soul",
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "spiritual_seeking": {
+      "id": "spiritual_seeking",
+      "label": "Spiritual Seeking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "in search of the miraculous": 2,
+        "revelations of divine love": 1
+      },
+      "books": [
+        "in search of the miraculous",
+        "revelations of divine love"
+      ],
+      "claim_count": 3
+    },
+    "faith_and_love": {
+      "id": "faith_and_love",
+      "label": "Faith And Love",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 3,
+        "revelations of divine love": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "revelations of divine love"
+      ],
+      "claim_count": 4
+    },
+    "universal_salvation": {
+      "id": "universal_salvation",
+      "label": "Universal Salvation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 3,
+        "revelations of divine love": 2
+      },
+      "books": [
+        "introduction-to-christianity",
+        "revelations of divine love"
+      ],
+      "claim_count": 5
+    },
+    "faith_theology": {
+      "id": "faith_theology",
+      "label": "Faith Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 1,
+        "revelations of divine love": 4
+      },
+      "books": [
+        "introduction-to-christianity",
+        "revelations of divine love"
+      ],
+      "claim_count": 5
+    },
+    "eucharistic_theology": {
+      "id": "eucharistic_theology",
+      "label": "Eucharistic Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 2,
+        "revelations of divine love": 2
+      },
+      "books": [
+        "introduction-to-christianity",
+        "revelations of divine love"
+      ],
+      "claim_count": 4
+    },
+    "christian_mysticism": {
+      "id": "christian_mysticism",
+      "label": "Christian Mysticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "occult philosophy in the elizabethan age": 4,
+        "revelations of divine love": 2
+      },
+      "books": [
+        "occult philosophy in the elizabethan age",
+        "revelations of divine love"
+      ],
+      "claim_count": 6
+    },
+    "spiritual_choice": {
+      "id": "spiritual_choice",
+      "label": "Spiritual Choice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "occult philosophy in the elizabethan age": 1,
+        "revelations of divine love": 1
+      },
+      "books": [
+        "occult philosophy in the elizabethan age",
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "literary_style": {
+      "id": "literary_style",
+      "label": "Literary Style",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "on heroes": 1,
+        "revelations of divine love": 2
+      },
+      "books": [
+        "on heroes",
+        "revelations of divine love"
+      ],
+      "claim_count": 3
+    },
+    "spiritual_obstacles": {
+      "id": "spiritual_obstacles",
+      "label": "Spiritual Obstacles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1,
+        "revolt-against-the-modern-world": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 2
+    },
+    "divine_indwelling": {
+      "id": "divine_indwelling",
+      "label": "Divine Indwelling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 3,
+        "the interior castle": 3
+      },
+      "books": [
+        "revelations of divine love",
+        "the interior castle"
+      ],
+      "claim_count": 6
+    },
+    "spiritual_consolation": {
+      "id": "spiritual_consolation",
+      "label": "Spiritual Consolation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 4,
+        "the interior castle": 3
+      },
+      "books": [
+        "revelations of divine love",
+        "the interior castle"
+      ],
+      "claim_count": 7
+    },
+    "mystical_revelation": {
+      "id": "mystical_revelation",
+      "label": "Mystical Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1,
+        "the interior castle": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "the interior castle"
+      ],
+      "claim_count": 2
+    },
+    "sin_and_grace": {
+      "id": "sin_and_grace",
+      "label": "Sin And Grace",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 9,
+        "the interior castle": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "the interior castle"
+      ],
+      "claim_count": 10
+    },
+    "divine_longing": {
+      "id": "divine_longing",
+      "label": "Divine Longing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1,
+        "the interior castle": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "the interior castle"
+      ],
+      "claim_count": 2
+    },
+    "mariology": {
+      "id": "mariology",
+      "label": "Mariology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1,
+        "the mystical theology of the eastern church": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "the mystical theology of the eastern church"
+      ],
+      "claim_count": 2
+    },
+    "atonement": {
+      "id": "atonement",
+      "label": "Atonement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 6,
+        "the sickness unto death": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "the sickness unto death"
+      ],
+      "claim_count": 7
+    },
+    "spiritual_childhood": {
+      "id": "spiritual_childhood",
+      "label": "Spiritual Childhood",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1,
+        "the tarot sadhu": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "the tarot sadhu"
+      ],
+      "claim_count": 2
+    },
+    "christian_community": {
+      "id": "christian_community",
+      "label": "Christian Community",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 3,
+        "through the eye of a needle": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "through the eye of a needle"
+      ],
+      "claim_count": 4
+    },
+    "pastoral_theology": {
+      "id": "pastoral_theology",
+      "label": "Pastoral Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2,
+        "through the eye of a needle": 1
+      },
+      "books": [
+        "revelations of divine love",
+        "through the eye of a needle"
       ],
       "claim_count": 3
     },
@@ -85190,20 +85644,6 @@
       ],
       "claim_count": 1
     },
-    "moral_theology": {
-      "id": "moral_theology",
-      "label": "Moral Theology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "confessions": 1
-      },
-      "books": [
-        "confessions"
-      ],
-      "claim_count": 1
-    },
     "divine_consolation": {
       "id": "divine_consolation",
       "label": "Divine Consolation",
@@ -86842,20 +87282,6 @@
       ],
       "claim_count": 2
     },
-    "divine_goodness": {
-      "id": "divine_goodness",
-      "label": "Divine Goodness",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "confessions": 1
-      },
-      "books": [
-        "confessions"
-      ],
-      "claim_count": 1
-    },
     "love_as_weight": {
       "id": "love_as_weight",
       "label": "Love As Weight",
@@ -87583,20 +88009,6 @@
         "cult of the saints"
       ],
       "claim_count": 2
-    },
-    "sin_and_redemption": {
-      "id": "sin_and_redemption",
-      "label": "Sin And Redemption",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "cult of the saints": 1
-      },
-      "books": [
-        "cult of the saints"
-      ],
-      "claim_count": 1
     },
     "eschatological_anxiety": {
       "id": "eschatological_anxiety",
@@ -89183,20 +89595,6 @@
     "steps_of_divine_love": {
       "id": "steps_of_divine_love",
       "label": "Steps Of Divine Love",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "dark night of the soul": 1
-      },
-      "books": [
-        "dark night of the soul"
-      ],
-      "claim_count": 1
-    },
-    "beatific_vision": {
-      "id": "beatific_vision",
-      "label": "Beatific Vision",
       "description": "",
       "aliases": [],
       "related": [],
@@ -123172,20 +123570,6 @@
       ],
       "claim_count": 1
     },
-    "spiritual_seeking": {
-      "id": "spiritual_seeking",
-      "label": "Spiritual Seeking",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "in search of the miraculous": 2
-      },
-      "books": [
-        "in search of the miraculous"
-      ],
-      "claim_count": 2
-    },
     "altered_states": {
       "id": "altered_states",
       "label": "Altered States",
@@ -125971,20 +126355,6 @@
         "introduction-to-christianity"
       ],
       "claim_count": 1
-    },
-    "faith_and_love": {
-      "id": "faith_and_love",
-      "label": "Faith And Love",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 3
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 3
     },
     "theological_synthesis": {
       "id": "theological_synthesis",
@@ -128842,20 +129212,6 @@
       ],
       "claim_count": 1
     },
-    "universal_salvation": {
-      "id": "universal_salvation",
-      "label": "Universal Salvation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 3
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 3
-    },
     "faith_inclusivity": {
       "id": "faith_inclusivity",
       "label": "Faith Inclusivity",
@@ -130371,20 +130727,6 @@
     "christian_virtues": {
       "id": "christian_virtues",
       "label": "Christian Virtues",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 1
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 1
-    },
-    "faith_theology": {
-      "id": "faith_theology",
-      "label": "Faith Theology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -132061,20 +132403,6 @@
         "introduction-to-christianity"
       ],
       "claim_count": 1
-    },
-    "eucharistic_theology": {
-      "id": "eucharistic_theology",
-      "label": "Eucharistic Theology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 2
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 2
     },
     "liturgical_origins": {
       "id": "liturgical_origins",
@@ -151788,20 +152116,6 @@
       ],
       "claim_count": 1
     },
-    "christian_mysticism": {
-      "id": "christian_mysticism",
-      "label": "Christian Mysticism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "occult philosophy in the elizabethan age": 4
-      },
-      "books": [
-        "occult philosophy in the elizabethan age"
-      ],
-      "claim_count": 4
-    },
     "authoritative_texts": {
       "id": "authoritative_texts",
       "label": "Authoritative Texts",
@@ -156817,20 +157131,6 @@
     "biblical_allusion": {
       "id": "biblical_allusion",
       "label": "Biblical Allusion",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "occult philosophy in the elizabethan age": 1
-      },
-      "books": [
-        "occult philosophy in the elizabethan age"
-      ],
-      "claim_count": 1
-    },
-    "spiritual_choice": {
-      "id": "spiritual_choice",
-      "label": "Spiritual Choice",
       "description": "",
       "aliases": [],
       "related": [],
@@ -162809,20 +163109,6 @@
     "flawed_heroism": {
       "id": "flawed_heroism",
       "label": "Flawed Heroism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "on heroes": 1
-      },
-      "books": [
-        "on heroes"
-      ],
-      "claim_count": 1
-    },
-    "literary_style": {
-      "id": "literary_style",
-      "label": "Literary Style",
       "description": "",
       "aliases": [],
       "related": [],
@@ -182868,6 +183154,594 @@
       ],
       "claim_count": 1
     },
+    "medieval_monasticism": {
+      "id": "medieval_monasticism",
+      "label": "Medieval Monasticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "pastoral_care": {
+      "id": "pastoral_care",
+      "label": "Pastoral Care",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "english_mysticism": {
+      "id": "english_mysticism",
+      "label": "English Mysticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_imagery": {
+      "id": "spiritual_imagery",
+      "label": "Spiritual Imagery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "religious_desire": {
+      "id": "religious_desire",
+      "label": "Religious Desire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "death_and_dying": {
+      "id": "death_and_dying",
+      "label": "Death And Dying",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "contemplative_surrender": {
+      "id": "contemplative_surrender",
+      "label": "Contemplative Surrender",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "created_order": {
+      "id": "created_order",
+      "label": "Created Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "spiritual_desire": {
+      "id": "spiritual_desire",
+      "label": "Spiritual Desire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "divine_condescension": {
+      "id": "divine_condescension",
+      "label": "Divine Condescension",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "faith_and_revelation": {
+      "id": "faith_and_revelation",
+      "label": "Faith And Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "sin_as_privation": {
+      "id": "sin_as_privation",
+      "label": "Sin As Privation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "divine_reward": {
+      "id": "divine_reward",
+      "label": "Divine Reward",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "service_to_god": {
+      "id": "service_to_god",
+      "label": "Service To God",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "desolation": {
+      "id": "desolation",
+      "label": "Desolation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "faith_and_feeling": {
+      "id": "faith_and_feeling",
+      "label": "Faith And Feeling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "passion_of_christ": {
+      "id": "passion_of_christ",
+      "label": "Passion Of Christ",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "mystical_participation": {
+      "id": "mystical_participation",
+      "label": "Mystical Participation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "christocentric_spirituality": {
+      "id": "christocentric_spirituality",
+      "label": "Christocentric Spirituality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "soul_and_body": {
+      "id": "soul_and_body",
+      "label": "Soul And Body",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "suffering_and_glory": {
+      "id": "suffering_and_glory",
+      "label": "Suffering And Glory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "divine_joy": {
+      "id": "divine_joy",
+      "label": "Divine Joy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "salvation": {
+      "id": "salvation",
+      "label": "Salvation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "purgation": {
+      "id": "purgation",
+      "label": "Purgation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_formation": {
+      "id": "spiritual_formation",
+      "label": "Spiritual Formation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 5
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 5
+    },
+    "contemplative_beholding": {
+      "id": "contemplative_beholding",
+      "label": "Contemplative Beholding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "contrition": {
+      "id": "contrition",
+      "label": "Contrition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "faith_and_trust": {
+      "id": "faith_and_trust",
+      "label": "Faith And Trust",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "divine_peace": {
+      "id": "divine_peace",
+      "label": "Divine Peace",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "fall_and_redemption": {
+      "id": "fall_and_redemption",
+      "label": "Fall And Redemption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "motherhood_of_god": {
+      "id": "motherhood_of_god",
+      "label": "Motherhood Of God",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 5
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 5
+    },
+    "hope": {
+      "id": "hope",
+      "label": "Hope",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "reverent_fear": {
+      "id": "reverent_fear",
+      "label": "Reverent Fear",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 3
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 3
+    },
+    "faith_and_doubt": {
+      "id": "faith_and_doubt",
+      "label": "Faith And Doubt",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "soul_as_city": {
+      "id": "soul_as_city",
+      "label": "Soul As City",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_assurance": {
+      "id": "spiritual_assurance",
+      "label": "Spiritual Assurance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "faith_and_practice": {
+      "id": "faith_and_practice",
+      "label": "Faith And Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "divine_regard": {
+      "id": "divine_regard",
+      "label": "Divine Regard",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_longing": {
+      "id": "spiritual_longing",
+      "label": "Spiritual Longing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "penance": {
+      "id": "penance",
+      "label": "Penance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "divine_care": {
+      "id": "divine_care",
+      "label": "Divine Care",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 2
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 2
+    },
+    "universal_praise": {
+      "id": "universal_praise",
+      "label": "Universal Praise",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "revelations of divine love": 1
+      },
+      "books": [
+        "revelations of divine love"
+      ],
+      "claim_count": 1
+    },
     "metaphysical_cosmology": {
       "id": "metaphysical_cosmology",
       "label": "Metaphysical Cosmology",
@@ -187221,20 +188095,6 @@
         "revolt-against-the-modern-world"
       ],
       "claim_count": 2
-    },
-    "spiritual_obstacles": {
-      "id": "spiritual_obstacles",
-      "label": "Spiritual Obstacles",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 1
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 1
     },
     "temporary_personality": {
       "id": "temporary_personality",
@@ -227038,20 +227898,6 @@
       ],
       "claim_count": 1
     },
-    "divine_indwelling": {
-      "id": "divine_indwelling",
-      "label": "Divine Indwelling",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the interior castle": 3
-      },
-      "books": [
-        "the interior castle"
-      ],
-      "claim_count": 3
-    },
     "spiritual_torpor": {
       "id": "spiritual_torpor",
       "label": "Spiritual Torpor",
@@ -227247,20 +228093,6 @@
         "the interior castle"
       ],
       "claim_count": 1
-    },
-    "spiritual_consolation": {
-      "id": "spiritual_consolation",
-      "label": "Spiritual Consolation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the interior castle": 3
-      },
-      "books": [
-        "the interior castle"
-      ],
-      "claim_count": 3
     },
     "love_of_god": {
       "id": "love_of_god",
@@ -227990,20 +228822,6 @@
       ],
       "claim_count": 3
     },
-    "mystical_revelation": {
-      "id": "mystical_revelation",
-      "label": "Mystical Revelation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the interior castle": 1
-      },
-      "books": [
-        "the interior castle"
-      ],
-      "claim_count": 1
-    },
     "contemplative_phenomenology": {
       "id": "contemplative_phenomenology",
       "label": "Contemplative Phenomenology",
@@ -228298,20 +229116,6 @@
       ],
       "claim_count": 1
     },
-    "sin_and_grace": {
-      "id": "sin_and_grace",
-      "label": "Sin And Grace",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the interior castle": 1
-      },
-      "books": [
-        "the interior castle"
-      ],
-      "claim_count": 1
-    },
     "mystical_knowledge": {
       "id": "mystical_knowledge",
       "label": "Mystical Knowledge",
@@ -228367,20 +229171,6 @@
         "the interior castle"
       ],
       "claim_count": 2
-    },
-    "divine_longing": {
-      "id": "divine_longing",
-      "label": "Divine Longing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the interior castle": 1
-      },
-      "books": [
-        "the interior castle"
-      ],
-      "claim_count": 1
     },
     "purgatorial_purification": {
       "id": "purgatorial_purification",
@@ -237622,20 +238412,6 @@
       ],
       "claim_count": 1
     },
-    "mariology": {
-      "id": "mariology",
-      "label": "Mariology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the mystical theology of the eastern church": 1
-      },
-      "books": [
-        "the mystical theology of the eastern church"
-      ],
-      "claim_count": 1
-    },
     "spiritual_life": {
       "id": "spiritual_life",
       "label": "Spiritual Life",
@@ -246302,20 +247078,6 @@
       ],
       "claim_count": 1
     },
-    "atonement": {
-      "id": "atonement",
-      "label": "Atonement",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the sickness unto death": 1
-      },
-      "books": [
-        "the sickness unto death"
-      ],
-      "claim_count": 1
-    },
     "speculative_philosophy": {
       "id": "speculative_philosophy",
       "label": "Speculative Philosophy",
@@ -252927,20 +253689,6 @@
     "solar_illumination": {
       "id": "solar_illumination",
       "label": "Solar Illumination",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the tarot sadhu": 1
-      },
-      "books": [
-        "the tarot sadhu"
-      ],
-      "claim_count": 1
-    },
-    "spiritual_childhood": {
-      "id": "spiritual_childhood",
-      "label": "Spiritual Childhood",
       "description": "",
       "aliases": [],
       "related": [],
@@ -259672,20 +260420,6 @@
       ],
       "claim_count": 1
     },
-    "christian_community": {
-      "id": "christian_community",
-      "label": "Christian Community",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 1
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 1
-    },
     "monastic_rule": {
       "id": "monastic_rule",
       "label": "Monastic Rule",
@@ -261257,20 +261991,6 @@
     "urban_poverty": {
       "id": "urban_poverty",
       "label": "Urban Poverty",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 1
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 1
-    },
-    "pastoral_theology": {
-      "id": "pastoral_theology",
-      "label": "Pastoral Theology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -279932,8 +280652,8 @@
     }
   },
   "stats": {
-    "total_concepts": 19304,
-    "total_claims": 31807,
-    "books_indexed": 95
+    "total_concepts": 19346,
+    "total_claims": 32107,
+    "books_indexed": 96
   }
 }
