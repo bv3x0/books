@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body>
+  <!-- Reading progress bar -->
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+  </div>
+
+  <header>
+    {{ partial "header.html" . }}
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      updateProgressBar();
+      window.addEventListener('scroll', updateProgressBar);
+
+      function updateProgressBar() {
+        var winScroll = window.scrollY;
+        var height = document.documentElement.scrollHeight - window.innerHeight;
+        var scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+        document.documentElement.style.setProperty('--scroll-width', Math.min(scrolled, 100) + '%');
+      }
+    });
+  </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Sticky navigation functionality
+      const stickyNav = document.getElementById('sticky-nav');
+      if (!stickyNav) return; // Only run on pages with sticky nav
+
+      const breadcrumbPart = document.getElementById('breadcrumb-part');
+      const breadcrumbChapter = document.getElementById('breadcrumb-chapter');
+      const toggleBtn = document.getElementById('sticky-nav-toggle');
+      const dropdown = document.getElementById('sticky-nav-dropdown');
+      const separator = document.querySelector('.breadcrumb-separator');
+      const toc = document.querySelector('.toc');
+
+      // Get all h2 and h3 headers in the content
+      const headers = Array.from(document.querySelectorAll('main h2, main h3'));
+      if (headers.length === 0) return;
+
+      // Track current part (h2) and chapter (h3)
+      let currentPart = null;
+      let currentChapter = null;
+
+      // Create IntersectionObserver for headers
+      const headerObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const header = entry.target;
+            if (header.tagName === 'H2') {
+              currentPart = header;
+              currentChapter = null; // Reset chapter when entering new part
+            } else if (header.tagName === 'H3') {
+              currentChapter = header;
+            }
+            updateBreadcrumb();
+          }
+        });
+      }, {
+        rootMargin: '-10% 0px -80% 0px', // Trigger when header is near top of viewport
+        threshold: 0
+      });
+
+      // Also track when scrolling up past headers
+      const scrollTracker = () => {
+        const scrollY = window.scrollY;
+        let newPart = null;
+        let newChapter = null;
+
+        for (const header of headers) {
+          const rect = header.getBoundingClientRect();
+          const headerTop = scrollY + rect.top;
+
+          if (headerTop <= scrollY + 100) { // Header is above viewport top + offset
+            if (header.tagName === 'H2') {
+              newPart = header;
+              newChapter = null;
+            } else if (header.tagName === 'H3') {
+              newChapter = header;
+            }
+          }
+        }
+
+        if (newPart !== currentPart || newChapter !== currentChapter) {
+          currentPart = newPart;
+          currentChapter = newChapter;
+          updateBreadcrumb();
+        }
+      };
+
+      // Observe all headers
+      headers.forEach(header => headerObserver.observe(header));
+
+      // Also update on scroll for more accurate tracking
+      let scrollTimeout;
+      window.addEventListener('scroll', () => {
+        clearTimeout(scrollTimeout);
+        scrollTimeout = setTimeout(scrollTracker, 50);
+      }, { passive: true });
+
+      // Update breadcrumb display
+      function updateBreadcrumb() {
+        if (currentPart) {
+          breadcrumbPart.textContent = currentPart.textContent;
+          breadcrumbPart.dataset.id = currentPart.id;
+          breadcrumbPart.style.display = '';
+        } else {
+          breadcrumbPart.style.display = 'none';
+        }
+
+        if (currentChapter) {
+          breadcrumbChapter.textContent = currentChapter.textContent;
+          breadcrumbChapter.dataset.id = currentChapter.id;
+          breadcrumbChapter.style.display = '';
+          separator.style.display = '';
+        } else {
+          breadcrumbChapter.style.display = 'none';
+          separator.style.display = 'none';
+        }
+      }
+
+      // Show/hide sticky nav based on TOC visibility
+      if (toc) {
+        const tocObserver = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              stickyNav.classList.remove('visible');
+            } else {
+              // Only show if we've scrolled past the TOC (not before it)
+              const tocRect = toc.getBoundingClientRect();
+              if (tocRect.bottom < 0) {
+                stickyNav.classList.add('visible');
+              } else {
+                stickyNav.classList.remove('visible');
+              }
+            }
+          });
+        }, {
+          threshold: 0,
+          rootMargin: '0px'
+        });
+        tocObserver.observe(toc);
+      } else {
+        // No TOC, show after scrolling a bit
+        window.addEventListener('scroll', () => {
+          if (window.scrollY > 300) {
+            stickyNav.classList.add('visible');
+          } else {
+            stickyNav.classList.remove('visible');
+          }
+        }, { passive: true });
+      }
+
+      // Breadcrumb click navigation
+      breadcrumbPart.addEventListener('click', () => {
+        const id = breadcrumbPart.dataset.id;
+        if (id) {
+          const target = document.getElementById(id);
+          if (target) {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        }
+      });
+
+      breadcrumbChapter.addEventListener('click', () => {
+        const id = breadcrumbChapter.dataset.id;
+        if (id) {
+          const target = document.getElementById(id);
+          if (target) {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        }
+      });
+
+      // Dropdown toggle
+      toggleBtn.addEventListener('click', () => {
+        const isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+        toggleBtn.setAttribute('aria-expanded', !isExpanded);
+        dropdown.setAttribute('aria-hidden', isExpanded);
+      });
+
+      // Close dropdown when clicking a link
+      dropdown.addEventListener('click', (e) => {
+        if (e.target.tagName === 'A') {
+          toggleBtn.setAttribute('aria-expanded', 'false');
+          dropdown.setAttribute('aria-hidden', 'true');
+        }
+      });
+
+      // Close dropdown when clicking outside
+      document.addEventListener('click', (e) => {
+        if (!stickyNav.contains(e.target)) {
+          toggleBtn.setAttribute('aria-expanded', 'false');
+          dropdown.setAttribute('aria-hidden', 'true');
+        }
+      });
+
+      // Initialize breadcrumb state
+      scrollTracker();
+    });
+  </script>
+
+</body>
+
+</html>

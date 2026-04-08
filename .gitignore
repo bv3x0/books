@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+app/logs/
+vercel-log.txt
+
+
+# Results/temp files
+results/
+*.jsonl
+
+# Vector database (too large for git)
+index/vectors.db
+
+# Books (PDFs, too large for git)
+/books/
+
+# Hugo
+blog/public/
+/public/
+blog/resources/_gen/
+.hugo_build.lock
+
+# Vercel
+.vercel
+
+node_modules/
+.env*.local

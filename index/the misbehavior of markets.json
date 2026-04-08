@@ -1,0 +1,2223 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Misbehavior of Markets: A Fractal View of Financial Turbulence",
+    "author": "Benoit Mandelbrot and Richard L. Hudson",
+    "year": 2004,
+    "categories": [
+      "business & economics",
+      "mathematics",
+      "science"
+    ],
+    "thesis": "Financial markets are fundamentally turbulent systems that follow fractal patterns with 'fat tails' and long-term dependence, making them far riskier than the normal distribution models of modern finance theory predict."
+  },
+  "claims": [
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-001",
+      "text": "Financial markets follow three states of randomness\u2014mild, slow, and wild\u2014analogous to the three states of matter, with conventional financial theory incorrectly assuming only the simplest 'mild' pattern like coin tosses",
+      "chapter": "TO THE SCIENTIFIC READER: AN ABSTRACT",
+      "concepts": [
+        "randomness_classification",
+        "fractal_modeling",
+        "market_volatility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "misbehave very badly",
+          "speaker": null
+        },
+        {
+          "text": "A multifractal model of wild price variation can create a more reliable financial theory",
+          "speaker": null
+        },
+        {
+          "text": "alone in facing the high odds of catastrophic price changes",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-002",
+      "text": "Mandelbrot's wartime experience taught him independence when his father escaped a German prison camp by leaving the main group of fleeing prisoners to walk alone through the forest, avoiding a Stuka dive-bomber attack that killed the others on the main road",
+      "chapter": "PRELUDE",
+      "concepts": [
+        "scientific_independence",
+        "contrarian_analysis",
+        "wartime_experience"
+      ],
+      "entities": {
+        "people": [
+          "Benoit Mandelbrot"
+        ],
+        "places": [
+          "France",
+          "Limoges"
+        ],
+        "events": [
+          "German occupation of France",
+          "World War II"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "It was the way my father behaved throughout his life. He was an independent man\u2014and so am I",
+          "speaker": "Mandelbrot"
+        },
+        {
+          "text": "This early lesson in independence made Mandelbrot 'aguerri, or war-hardened' and shaped his contrarian scientific approach",
+          "speaker": null
+        },
+        {
+          "text": "Mandelbrot calls himself a maverick who moves orthogonally\u2014at right angles\u2014to every fashion",
+          "speaker": "Mandelbrot"
+        }
+      ]
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-003",
+      "text": "Mandelbrot's 1962 work on market behavior was called 'the most revolutionary development in the theory of speculative prices' since 1900 by MIT economist Paul Cootner, who then criticized its implications for making existing statistical tools obsolete",
+      "chapter": "PRELUDE",
+      "concepts": [
+        "revolutionary_ideology",
+        "academic_resistance",
+        "interdisciplinary_methods"
+      ],
+      "entities": {
+        "people": [
+          "Paul H. Cootner",
+          "Benoit Mandelbrot"
+        ],
+        "places": [
+          "MIT"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If he is right, almost all of our statistical tools are obsolete\u2014least squares, spectral analysis, workable maximum-likelihood solutions, all our established sample theory, closed distributions",
+          "speaker": "Cootner"
+        },
+        {
+          "text": "The economics establishment finds Mandelbrot 'intriguing' but 'bewildering' and has 'grudgingly adopted many of his ideas (though often without giving him full credit)'",
+          "speaker": null
+        },
+        {
+          "text": "His approach treats a stock exchange as a 'black box' system studied with physics-based conceptual and mathematical tools",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-004",
+      "text": "Fractal geometry studies roughness and irregularity in nature, finding ordered patterns where others see only troublesome disorder, with applications from coastlines to computer graphics",
+      "chapter": "PRELUDE",
+      "concepts": [
+        "fractal_geometry",
+        "pattern_recognition",
+        "roughness_analysis"
+      ],
+      "entities": {
+        "people": [
+          "Benoit Mandelbrot"
+        ],
+        "places": [],
+        "events": [
+          "Wolf Prize for Physics 1993"
+        ],
+        "works": [
+          "The Fractal Geometry of Nature"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "'Roughness is the uncontrolled element in life' found in jagged metal fractures, rugged coastlines, phone line static, and irregular stock charts",
+          "speaker": null
+        },
+        {
+          "text": "The Fractal Geometry of Nature",
+          "speaker": "Mandelbrot"
+        },
+        {
+          "text": "changed our view of nature",
+          "speaker": "the Wolf Prize citation"
+        }
+      ]
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-005",
+      "text": "The August 1998 Russian financial crisis produced three major market drops that standard theory calculated as having odds of one in 500 billion for occurring in the same month, yet they happened anyway",
+      "chapter": "Risk, Ruin, and Reward",
+      "concepts": [
+        "market_crashes",
+        "probability_miscalculation",
+        "risk_underestimation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Russia",
+          "New York"
+        ],
+        "events": [
+          "Russian financial crisis 1998",
+          "August 1998 market crashes"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "August 4: Dow fell 3.5%, August 21: fell 4.4%, August 31: fell 6.8%",
+          "speaker": null
+        },
+        {
+          "text": "one in 20 million",
+          "speaker": null
+        },
+        {
+          "text": "an event that, if you traded daily for nearly 100,000 years, you would not expect to see even once",
+          "speaker": null
+        },
+        {
+          "text": "about one in 500 billion",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-006",
+      "text": "The October 19, 1987 market crash had a probability 'less than one in 10^50' according to standard financial models\u2014'odds so small they have no meaning' and represent 'a number outside the scale of nature'",
+      "chapter": "Risk, Ruin, and Reward",
+      "concepts": [
+        "extreme_events",
+        "mathematical_impossibility",
+        "model_failure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "October 19, 1987 crash",
+          "Black Monday"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "the worst day of trading in at least a century",
+          "speaker": null
+        },
+        {
+          "text": "span the powers of ten from the smallest subatomic particle to the breadth of the measurable universe\u2014and still never meet such a number",
+          "speaker": null
+        },
+        {
+          "text": "Similar 'impossible' events: 1997 Dow fell 7.7% (odds: one in 50 billion), July 2002 had three steep falls in seven days (odds: one in four trillion)",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-007",
+      "text": "Mandelbrot's life has been 'a study of risk' from wartime survival as a Polish refugee with false identity papers to founding fractal geometry that reveals hidden order in seemingly random financial and natural phenomena",
+      "chapter": "Risk, Ruin, and Reward",
+      "concepts": [
+        "personal_risk_experience",
+        "interdisciplinary_applications",
+        "risk_management"
+      ],
+      "entities": {
+        "people": [
+          "Benoit Mandelbrot"
+        ],
+        "places": [
+          "France",
+          "Poland"
+        ],
+        "events": [
+          "World War II"
+        ],
+        "works": [
+          "Star Trek II: the Wrath of Khan"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "with a borrowed identity and touched-up ration coupons, masquerading (badly) as a simple country boy",
+          "speaker": null
+        },
+        {
+          "text": "Fractal geometry has helped model weather, river flows, brainwaves, seismic tremors, galaxy distribution, Internet traffic, and movie animation",
+          "speaker": null
+        },
+        {
+          "text": "help people avoid losing as much money as they do, through foolhardy underestimation of the risk of ruin",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-008",
+      "text": "Financial markets appear deterministic with identifiable causes but should be analyzed probabilistically as 'black boxes' because we cannot know all the complex psychological and anticipatory factors that drive prices",
+      "chapter": "By the Toss of a Coin or the Flight of an Arrow?",
+      "concepts": [
+        "market_determinism",
+        "probabilistic_analysis",
+        "anticipation_effects"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "IBM stock rose '$1 a share because the company announced it signed more computer-service contracts than expected, and so 5,218 real people...ordered 12,542,300 real IBM shares with $768,016,733 in real cash'",
+          "speaker": null
+        },
+        {
+          "text": "A stock price rises not because of good news from the company, but because the brightening outlook for the stock means investors anticipate it will rise further",
+          "speaker": null
+        },
+        {
+          "text": "Anticipation is the stuff of dreams and vapors",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-009",
+      "text": "Random processes can generate surprising complexity and structure, as demonstrated by Kolmogorov's insight that 'chance phenomena, considered collectively and on a grand scale, create a non-random regularity'",
+      "chapter": "By the Toss of a Coin or the Flight of an Arrow?",
+      "concepts": [
+        "emergent_complexity",
+        "random_patterns",
+        "statistical_regularity"
+      ],
+      "entities": {
+        "people": [
+          "Andrei Nikolaievitch Kolmogorov",
+          "Willy Feller"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A simple coin-tossing game over 10,000 tosses creates complex patterns with long up-and-down cycles and clustered 'zero-crossings'",
+          "speaker": null
+        },
+        {
+          "text": "Feller's 1950 diagram of cumulative winnings from coin tosses resembles stock charts enough that chartists might mistake it for real market data",
+          "speaker": null
+        },
+        {
+          "text": "Such patterns emerge from pure chance yet appear to show deliberate trends and cycles",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-010",
+      "text": "Three distinct states of randomness exist\u2014mild (bell curve), slow (intermediate), and wild (power law)\u2014with financial markets exhibiting the dangerous 'wild' form rather than the mild randomness assumed by standard theory",
+      "chapter": "By the Toss of a Coin or the Flight of an Arrow?",
+      "concepts": [
+        "randomness_taxonomy",
+        "phase_metaphors",
+        "wild_variation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Mild randomness, then, is like the solid phase of matter: low energies, stable structures, well-defined volume",
+          "speaker": "the author"
+        },
+        {
+          "text": "Wild randomness is like the gaseous phase of matter: high energies, no structure, no volume. No telling what it can do, where it will go",
+          "speaker": "the author"
+        },
+        {
+          "text": "Computer error noise ('1/f noise') exemplifies wild variation that 'cannot be predicted or prevented; it can only be accommodated, with error-correcting software'",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-011",
+      "text": "Bachelier's 1900 Paris doctoral defense before mathematician Henri Poincar\u00e9 introduced probability theory to financial markets but was graded only 'mention honorable' rather than the top 'tr\u00e8s honorable' that would have launched his academic career",
+      "chapter": "Bachelier and His Legacy",
+      "concepts": [
+        "academic_prejudice",
+        "financial_mathematics_origins",
+        "career_obstacles"
+      ],
+      "entities": {
+        "people": [
+          "Louis Bachelier",
+          "Henri Poincar\u00e9"
+        ],
+        "places": [
+          "University of Paris",
+          "Paris Bourse"
+        ],
+        "events": [
+          "doctoral defense March 1900"
+        ],
+        "works": [
+          "Th\u00e9orie de la Sp\u00e9culation"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "the subject chosen by M. Bachelier is a bit distant from those usually treated by our candidates",
+          "speaker": "Poincar\u00e9"
+        },
+        {
+          "text": "The thesis 'Th\u00e9orie de la Sp\u00e9culation' studied bond trading on the Paris Bourse\u2014'a thriving den of capitalism' rather than respectable academic mathematics",
+          "speaker": null
+        },
+        {
+          "text": "the next twenty-seven years battling for recognition and tenure from the French academic establishment",
+          "speaker": "Bachelier"
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-012",
+      "text": "Bachelier was not merely wrong but 'difficult' with extraordinary immodesty, describing his work as 'the renewal of a science' that 'surpassed the great treatise of Laplace' and was 'absolutely unique' with no precedent",
+      "chapter": "Bachelier and His Legacy",
+      "concepts": [
+        "academic_personality",
+        "professional_reputation",
+        "intellectual_arrogance"
+      ],
+      "entities": {
+        "people": [
+          "Louis Bachelier",
+          "Pierre-Simon Laplace"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "a malcontent",
+          "speaker": null
+        },
+        {
+          "text": "he did not complete equations on the blackboard without reference to his notes",
+          "speaker": null
+        },
+        {
+          "text": "forgot the Greek alphabet",
+          "speaker": null
+        },
+        {
+          "text": "He is not an eagle",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-013",
+      "text": "Bachelier created the 'random walk' model by viewing bond markets as 'fair games' where prices have equal probability of rising or falling, adapting heat diffusion equations to calculate probability distributions for price movements",
+      "chapter": "Bachelier and His Legacy",
+      "concepts": [
+        "random_walk_theory",
+        "heat_diffusion_analogy",
+        "empirical_validation"
+      ],
+      "entities": {
+        "people": [
+          "Louis Bachelier"
+        ],
+        "places": [
+          "Paris exchange"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The factors that determine activity on the Exchange are innumerable",
+          "speaker": null
+        },
+        {
+          "text": "mathematical forecasting",
+          "speaker": null
+        },
+        {
+          "text": "the laws of probability for price variation that the market at that instant dictates",
+          "speaker": null
+        },
+        {
+          "text": "a strange and unexpected analogy between the 'diffusion' of heat through a substance and how a bond price wanders up and down",
+          "speaker": null
+        },
+        {
+          "text": "Testing his equations against real options data, he calculated 40% odds of profit for a forty-five-day option; actual data showed 39% profitability",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-014",
+      "text": "The Efficient Market Hypothesis emerged from Bachelier's ideas, asserting that security prices fully reflect all relevant information, making it impossible to consistently beat the market through any predictable strategy",
+      "chapter": "Bachelier and His Legacy",
+      "concepts": [
+        "efficient_markets",
+        "information_pricing",
+        "passive_investing"
+      ],
+      "entities": {
+        "people": [
+          "Eugene F. Fama",
+          "Paul A. Samuelson"
+        ],
+        "places": [
+          "University of Chicago",
+          "MIT"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In an ideal market, security prices fully reflect all relevant information",
+          "speaker": "Eugene Fama"
+        },
+        {
+          "text": "Three ways to potentially beat the market all fail: chart reading (trends get arbitraged away), fundamental analysis (other analysts spot problems too), and insider trading (market notices suspicious behavior)",
+          "speaker": null
+        },
+        {
+          "text": "They also serve who only sit and hold",
+          "speaker": "Samuelson"
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-015",
+      "text": "The Capital Asset Pricing Model (CAPM) is used by 73.5% of U.S. Fortune 500 CFOs and 77% of European companies for crucial financial decisions, despite professors noting 'it is not clear that the CAPM is a very good model'",
+      "chapter": "The House of Modern Finance",
+      "concepts": [
+        "capital_asset_pricing",
+        "corporate_finance",
+        "regulatory_applications"
+      ],
+      "entities": {
+        "people": [
+          "William F. Sharpe"
+        ],
+        "places": [
+          "New York",
+          "Northern Ireland"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "CAPM helps value assets from stocks to factories by calculating expected returns as the risk-free rate plus beta times the market risk premium",
+          "speaker": null
+        },
+        {
+          "text": "Both utility regulators citing CAPM to raise electricity prices in New York and cut them in Northern Ireland shows it's a double-edged sword",
+          "speaker": null
+        },
+        {
+          "text": "The same model appears in corporate finance decisions, regulatory rate-setting, and investment portfolio construction worldwide",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-016",
+      "text": "Harry Markowitz revolutionized investing by recognizing that investors care about both risk and reward, not just profit, leading to his mathematical portfolio theory that optimizes the trade-off between expected return and volatility",
+      "chapter": "The House of Modern Finance",
+      "concepts": [
+        "portfolio_theory",
+        "risk_reward_tradeoff",
+        "diversification_mathematics"
+      ],
+      "entities": {
+        "people": [
+          "Harry Markowitz",
+          "William Shakespeare"
+        ],
+        "places": [
+          "University of Chicago"
+        ],
+        "events": [],
+        "works": [
+          "Security Analysis",
+          "Theory of Investment Value",
+          "Merchant of Venice"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "I had not taken any finance courses, nor did I own any securities",
+          "speaker": null
+        },
+        {
+          "text": "My ventures are not in one bottom trusted, Nor to one place",
+          "speaker": "Shakespeare"
+        },
+        {
+          "text": "if you mix some stocks that flip tails with others that flip heads, you can lower the risk of your overall portfolio without sacrificing much profit",
+          "speaker": "Markowitz"
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-017",
+      "text": "Sharpe simplified Markowitz's complex calculations by showing that if everyone follows optimal portfolio theory, there would be just one market portfolio, leading to his CAPM formula that reduces portfolio math from millions of calculations to thousands",
+      "chapter": "The House of Modern Finance",
+      "concepts": [
+        "market_portfolio",
+        "computational_simplification",
+        "beta_calculation"
+      ],
+      "entities": {
+        "people": [
+          "William F. Sharpe",
+          "Harry Markowitz"
+        ],
+        "places": [
+          "University of California Los Angeles",
+          "RAND Corp"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If everybody in the market plays by Markowitz's rules there would be not as many efficient portfolios as people in the market, but just one for all",
+          "speaker": null
+        },
+        {
+          "text": "CAPM reduces calculations from 3.9 million with Markowitz, you prune to 2,801 with Sharpe for the entire New York Stock Exchange",
+          "speaker": null
+        },
+        {
+          "text": "I sat by the phone. The phone didn't ring for months, not realizing how long it took people to read journals",
+          "speaker": "the author"
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-018",
+      "text": "Black-Scholes options pricing formula emerged from Fischer Black and Myron Scholes' counterintuitive insight that option values depend only on current volatility and contract terms, not predictions of final stock prices",
+      "chapter": "The House of Modern Finance",
+      "concepts": [
+        "options_pricing",
+        "volatility_modeling",
+        "academic_publishing"
+      ],
+      "entities": {
+        "people": [
+          "Fischer Black",
+          "Myron S. Scholes",
+          "Robert C. Merton"
+        ],
+        "places": [
+          "MIT",
+          "Arthur D. Little Inc"
+        ],
+        "events": [
+          "Chicago Board Options Exchange opening 1973"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When valuing an option, you do not need to know how the game will end\u2014that is, what the stock price will finally be when the option expires",
+          "speaker": "Black"
+        },
+        {
+          "text": "They tested their theory by buying National General warrants their formula identified as cheap, but 'lost their shirts' when a takeover reduced warrant values",
+          "speaker": null
+        },
+        {
+          "text": "One reason these journals didn't take the paper seriously was my non-academic return address",
+          "speaker": "Black"
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-019",
+      "text": "Real foreign exchange traders at Citigroup London explicitly reject efficient market theory, with analysts stating 'The biggest edge you can have is the private information of who's buying what' and 'We do not believe the market is efficient'",
+      "chapter": "The Case Against the Modern Theory of Finance",
+      "concepts": [
+        "market_inefficiency",
+        "volatility_surface",
+        "trend_following"
+      ],
+      "entities": {
+        "people": [
+          "Jessica James"
+        ],
+        "places": [
+          "Canary Wharf",
+          "London"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "about one-ninth of all the world's internationally traded dollars, yen, euros, pounds, zlotys, and pesos",
+          "speaker": "Citigroup"
+        },
+        {
+          "text": "Options traders focus on the 'volatility surface' that 'should be flat as a pancake' according to Black-Scholes but is actually 'a wild, complex shape'",
+          "speaker": null
+        },
+        {
+          "text": "A simple trend-following strategy of buying when dollar-yen rates rise above their 69-day moving average yielded '7.97 percent average annual return' over a decade",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-020",
+      "text": "The assumption that people are rational wealth-maximizers is refuted by behavioral economics research showing systematic cognitive biases, such as people taking sure gains but gambling to avoid sure losses in equivalent situations",
+      "chapter": "The Case Against the Modern Theory of Finance",
+      "concepts": [
+        "behavioral_economics",
+        "cognitive_bias",
+        "investor_irrationality"
+      ],
+      "entities": {
+        "people": [
+          "Paul De Grauwe",
+          "Marianna Grimaldi"
+        ],
+        "places": [
+          "Catholic University of Leuven"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "how people misinterpret information, how their emotions distort their decisions, and how they miscalculate probabilities",
+          "speaker": null
+        },
+        {
+          "text": "Example: Most people choose a sure $100 over flipping for $200/$0, but gamble on losing $200/$0 rather than pay sure $100\u2014'sublimely irrational' despite mathematical equivalence",
+          "speaker": null
+        },
+        {
+          "text": "price bubbles and crashes",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-021",
+      "text": "Price changes demonstrably do not follow the bell curve, with kurtosis values far exceeding the normal level of 3\u2014such as 43.36 for the S&P 500 from 1970-2001, indicating dangerously fat tails",
+      "chapter": "The Case Against the Modern Theory of Finance",
+      "concepts": [
+        "fat_tails",
+        "kurtosis_measurement",
+        "distribution_abnormality"
+      ],
+      "entities": {
+        "people": [
+          "Wim Schoutens"
+        ],
+        "places": [],
+        "events": [
+          "October 1987 crash"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "fifty-eight days when the Dow moved more than 3.4 percent",
+          "speaker": null
+        },
+        {
+          "text": "should come once every 300,000 years",
+          "speaker": null
+        },
+        {
+          "text": "the twentieth century saw forty-eight such days",
+          "speaker": null
+        },
+        {
+          "text": "an uncomfortably hot dish",
+          "speaker": null
+        },
+        {
+          "text": "bland standards of the statistical kitchen",
+          "speaker": null
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-022",
+      "text": "Multiple 'anomalies' systematically violate CAPM predictions, including the P/E effect, small-firm-in-January effect, and market-to-book effect, leading Fama and French to declare their findings 'a shot straight at the heart of the model'",
+      "chapter": "The Case Against the Modern Theory of Finance",
+      "concepts": [
+        "market_anomalies",
+        "factor_models",
+        "capm_failure"
+      ],
+      "entities": {
+        "people": [
+          "Eugene Fama",
+          "Kenneth French"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Low P/E ratio stocks consistently outperform high P/E stocks, contradicting the theory that 'Only beta, the degree to which a stock does or does not move with the rest of the market, should matter'",
+          "speaker": null
+        },
+        {
+          "text": "Small company stocks outperformed large companies by 4.3% annually, with the effect concentrated in January due to tax-loss selling",
+          "speaker": null
+        },
+        {
+          "text": "could account for most of what differentiated the profitability of one stock from another",
+          "speaker": "Fama and French"
+        }
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-023",
+      "text": "Turbulent wind flow exhibits the same intermittent, clustered pattern as stock market volatility, with both showing 'bump, bump, bump' alternations between wild motion and quiet activity concentrated in time",
+      "chapter": "Turbulent Markets: A Preview",
+      "concepts": [
+        "turbulent_flow",
+        "intermittency_patterns",
+        "volatility_clustering"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "eddies form; and on those eddies yet more, smaller eddies form. A cascade of whirlpools, scaled from great to small, spontaneously appears",
+          "speaker": null
+        },
+        {
+          "text": "Peak activity is 1929\u20131934, and again in 1987",
+          "speaker": null
+        },
+        {
+          "text": "The same 'discontinuities', 'intermittency', and 'concentration of major events in time' characterize both wind and financial data",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-024",
+      "text": "The October 27, 1997 stock market crash exemplified financial turbulence with cascading selling that forced trading halts, resembling Leonardo da Vinci's description of flood waters 'growing turbid with the earth from ploughed fields, destroying the houses therein'",
+      "chapter": "Turbulent Markets: A Preview",
+      "concepts": [
+        "market_crashes",
+        "cascading_failures",
+        "temporal_concentration"
+      ],
+      "entities": {
+        "people": [
+          "Leonardo da Vinci"
+        ],
+        "places": [
+          "New York Stock Exchange"
+        ],
+        "events": [
+          "October 27, 1997 crash"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "cascades of selling washed across the exchange",
+          "speaker": null
+        },
+        {
+          "text": "prices plummeted at an average rate of 0.10 percent a minute, or 6 percent an hour",
+          "speaker": null
+        },
+        {
+          "text": "American business was falling $100 million a second",
+          "speaker": null
+        },
+        {
+          "text": "The fastest action concentrated into just three isolated minutes, demonstrating extreme temporal clustering of volatility",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-025",
+      "text": "Multifractal models can generate realistic 'forgeries' of financial charts by using fractal generators with trading time deformation, as demonstrated in a cartoon construction that mimics real price behavior",
+      "chapter": "Turbulent Markets: A Preview",
+      "concepts": [
+        "multifractal_modeling",
+        "time_deformation",
+        "fractal_generation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "a box, one unit wide by one unit tall' and a 'zigzag shape called generator",
+          "speaker": null
+        },
+        {
+          "text": "scrambling the pieces' of the generator randomly, 'the new chart starts to look real",
+          "speaker": null
+        },
+        {
+          "text": "takes normal clock time, deforms it into a unique form of 'trading time,' and then generates a price chart from it all",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-026",
+      "text": "Traditional geometry ignores the roughness that dominates nature, leading Mandelbrot to observe that 'Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line'",
+      "chapter": "Studies in Roughness: A Fractal Primer",
+      "concepts": [
+        "geometric_roughness",
+        "natural_complexity",
+        "euclidean_limitations"
+      ],
+      "entities": {
+        "people": [
+          "Benoit Mandelbrot",
+          "Euclid"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Elements",
+          "The Fractal Geometry of Nature"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "smoothness in exquisite detail",
+          "speaker": null
+        },
+        {
+          "text": "lines, planes, and spheres",
+          "speaker": null
+        },
+        {
+          "text": "concepts in men's minds and works, not in the irregularity and complexity of nature",
+          "speaker": null
+        },
+        {
+          "text": "minor imperfections from an idealized shape\u2014like the slight fuzz on an otherwise perfectly smooth peach skin",
+          "speaker": null
+        },
+        {
+          "text": "Roughness is no mere imperfection from some ideal, not just a detail from a gross plan. It is of the very essence of many natural objects",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-027",
+      "text": "Fractals exhibit self-similarity where parts echo the whole at different scales, like cauliflower florets that are 'each a cauliflower in miniature' or tree branches that are 'complete smaller trees'",
+      "chapter": "Studies in Roughness: A Fractal Primer",
+      "concepts": [
+        "self_similarity",
+        "fractal_construction",
+        "scaling_patterns"
+      ],
+      "entities": {
+        "people": [
+          "Eug\u00e8ne Delacroix",
+          "Swedenborg"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "La Revue Britannique"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "the lungs are made of a number of small lungs, the liver of small livers",
+          "speaker": "Eug\u00e8ne Delacroix"
+        },
+        {
+          "text": "pieces of rocks are similar to larger rocks",
+          "speaker": "Eug\u00e8ne Delacroix"
+        },
+        {
+          "text": "The construction process uses an 'initiator' (starting shape), a 'generator' (template pattern), and a 'rule of recursion' (repetition instruction)",
+          "speaker": null
+        },
+        {
+          "text": "Fractal patterns can be 'self-similar' (scaling equally in all directions) or 'self-affine' (scaling differently horizontally vs. vertically)",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-028",
+      "text": "Fractal dimension provides a new tool to measure roughness, with the British coastline having dimension 1.25 (more complex than a line but less than a plane), while smooth South African shores measure only 1.02",
+      "chapter": "Studies in Roughness: A Fractal Primer",
+      "concepts": [
+        "fractal_dimension",
+        "measurement_relativity",
+        "roughness_quantification"
+      ],
+      "entities": {
+        "people": [
+          "Lewis Fry Richardson"
+        ],
+        "places": [
+          "Britain",
+          "South Africa",
+          "Portugal",
+          "Spain",
+          "Colorado River",
+          "Charles River"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Spanish authorities reckoned their border with Portugal to be 987 kilometers long, whereas the plucky Portuguese counted 1,214 kilometers",
+          "speaker": null
+        },
+        {
+          "text": "U.S. rivers have fractal dimensions of 1.2 in the East but 1.4 in the 'wilder West'\u2014fitting intuition about the 'rugged Colorado' versus 'placid Charles'",
+          "speaker": null
+        },
+        {
+          "text": "Lung airways have dimension 'very close to 3' because the lining 'is so convoluted and folded in upon itself that it partakes something of a three-dimensional nature'",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-029",
+      "text": "The cotton price mystery began when Mandelbrot found the same convex, V-shaped diagram on Harvard economist Houthakker's blackboard that he used for income distribution, leading to the question of why wealth distribution and commodity prices would show identical mathematical patterns",
+      "chapter": "The Mystery of Cotton",
+      "concepts": [
+        "market_volatility",
+        "mathematical_patterns",
+        "data_mystery"
+      ],
+      "entities": {
+        "people": [
+          "Hendrik S. Houthakker",
+          "Benoit Mandelbrot"
+        ],
+        "places": [
+          "Harvard",
+          "New York Cotton Exchange"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "for a while, getting nowhere",
+          "speaker": "Houthakker"
+        },
+        {
+          "text": "there were too many big price jumps and falls",
+          "speaker": "Houthakker"
+        },
+        {
+          "text": "I try to measure the volatility. It changes all the time. Everything changes. Nothing is constant. It's a mess of the worst kind",
+          "speaker": "Houthakker"
+        },
+        {
+          "text": "cardboard boxes of computer punch-cards",
+          "speaker": "Houthakker"
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-030",
+      "text": "Zipf's power law for word frequencies provided the first clue, with his uncle dismissively giving Mandelbrot a discarded review saying 'This is for you. That's the kind of silly stuff you like'",
+      "chapter": "The Mystery of Cotton",
+      "concepts": [
+        "power_laws",
+        "word_frequency",
+        "scaling_relationships"
+      ],
+      "entities": {
+        "people": [
+          "George Kingsley Zipf",
+          "Szolem Mandelbrojt"
+        ],
+        "places": [
+          "University of Paris"
+        ],
+        "events": [],
+        "works": [
+          "Human Behavior and the Principle of Least Effort"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Small quakes are common while big ones are rare, with a precise formula relating intensity to frequency",
+          "speaker": "Zipf"
+        },
+        {
+          "text": "The power law applies to earthquakes, word usage, and all manner of human behavior, organization, and anatomy\u2014even in the size of sexual organs",
+          "speaker": null
+        },
+        {
+          "text": "quantify the richness of someone's vocabulary and give it a numerical grade: high grade, rich vocabulary; low grade, poor vocabulary",
+          "speaker": "Mandelbrot"
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-031",
+      "text": "Pareto's income distribution provided the second clue, showing that wealth follows a power law where 'a very few people are outrageously rich, a small number are very rich, and the vast bulk of people are middling or poor'",
+      "chapter": "The Mystery of Cotton",
+      "concepts": [
+        "income_distribution",
+        "wealth_accumulation",
+        "social_stratification"
+      ],
+      "entities": {
+        "people": [
+          "Vilfredo Pareto"
+        ],
+        "places": [
+          "Basel",
+          "Augsburg",
+          "Paris",
+          "Britain",
+          "Prussia",
+          "Italy",
+          "Peru"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "tax records of Basel, Switzerland, from 1454 and from Augsburg, Germany, in 1471, 1498, and 1512",
+          "speaker": "Pareto"
+        },
+        {
+          "text": "the odds of making more than ten billion once you make more than one billion are the same as those of making more than ten million once you make more than one million",
+          "speaker": null
+        },
+        {
+          "text": "social arrows\u2014very fat at the bottom where the mass of men live, and very thin at the top where sit the wealthy elite",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-032",
+      "text": "L\u00e9vy's stable distributions provided the mathematical framework unifying power laws, with cotton price analysis revealing the same \u03b1 = 1.7 scaling parameter that governs both wild price swings and long-term dependence",
+      "chapter": "The Mystery of Cotton",
+      "concepts": [
+        "stable_distributions",
+        "scaling_invariance",
+        "mathematical_unification"
+      ],
+      "entities": {
+        "people": [
+          "Paul L\u00e9vy",
+          "John von Neumann"
+        ],
+        "places": [
+          "\u00c9cole Polytechnique"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Paul L\u00e9vy was 'near-inaudible' with 'long, gray' appearance who 'was largely ignored by other French mathematicians' despite being 'one of the greatest probabilists'",
+          "speaker": null
+        },
+        {
+          "text": "prima facie evidence of a power-law behavior",
+          "speaker": null
+        },
+        {
+          "text": "A month looks like a day, one set of days like another",
+          "speaker": null
+        },
+        {
+          "text": "all price charts look alike",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-033",
+      "text": "Harold Hurst spent sixty-two years in Egypt solving the mystery of Nile floods by discovering that river variations follow a three-quarters power law rather than the square-root law assumed by dam engineers",
+      "chapter": "Long Memory, from the Nile to the Marketplace",
+      "concepts": [
+        "long_term_dependence",
+        "hydraulic_engineering",
+        "power_law_scaling"
+      ],
+      "entities": {
+        "people": [
+          "Harold Edwin Hurst"
+        ],
+        "places": [
+          "Egypt",
+          "Nile River",
+          "Cairo",
+          "Sudan"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Abu Nil, or Father Nile",
+          "speaker": null
+        },
+        {
+          "text": "from 151 billion cubic meters in the wet year of 1878\u20131879, to 42 billion cubic meters in the drought of 1913\u20131914",
+          "speaker": null
+        },
+        {
+          "text": "the dam should be higher than",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-034",
+      "text": "Hurst found the same three-quarters scaling pattern in fifty-one different natural phenomena worldwide, from 'Lake Huron and the Truckee River near Lake Tahoe' to 'tree rings in Flagstaff pines and Sequoia\u2014even sunspot numbers'",
+      "chapter": "Long Memory, from the Nile to the Marketplace",
+      "concepts": [
+        "universal_scaling",
+        "natural_phenomena",
+        "empirical_validation"
+      ],
+      "entities": {
+        "people": [
+          "F. A. Sharman"
+        ],
+        "places": [
+          "Lake Huron",
+          "Lake Tahoe",
+          "Adelaide",
+          "Washington D.C.",
+          "St. Louis",
+          "Helsinki",
+          "New York"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The pattern appeared in 'rainfall measurements from Adelaide, Australia, to Washington, D.C.' and 'temperature readings from St. Louis to Helsinki'",
+          "speaker": null
+        },
+        {
+          "text": "a common thread from tree rings to sun spots to mud layers",
+          "speaker": "F. A. Sharman"
+        },
+        {
+          "text": "a sensational step towards finding the single universal law of nature",
+          "speaker": "F. A. Sharman"
+        },
+        {
+          "text": "Despite criticism, Hurst's formula works: New York needs reservoirs '105 inches, or two and a half years' supply' for century-scale drought protection",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-035",
+      "text": "Financial markets exhibit long memory where IBM's 1982 decision to work with Intel and Microsoft 'continues to reverberate today in IBM's stock price' thirty years later, and the 1911 Standard Oil breakup still affects descendant companies",
+      "chapter": "Long Memory, from the Nile to the Marketplace",
+      "concepts": [
+        "market_memory",
+        "corporate_interdependence",
+        "historical_persistence"
+      ],
+      "entities": {
+        "people": [
+          "John D. Rockefeller"
+        ],
+        "places": [],
+        "events": [
+          "IBM-Intel-Microsoft partnership 1982",
+          "Standard Oil breakup 1911"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The dependence there is about thirty years long",
+          "speaker": null
+        },
+        {
+          "text": "in 1911 continues to affect its surviving children today, ExxonMobil, ConocoPhillips, ChevronTexaco, and BP Amoco",
+          "speaker": "John D. Rockefeller"
+        },
+        {
+          "text": "In such a world, it is common sense that events in the distant past continue to echo in the present",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-036",
+      "text": "The Hurst exponent H measures dependence strength: H = 0.5 indicates independence (Brownian motion), H > 0.5 shows persistence (trends continue), and H < 0.5 reveals anti-persistence (trends reverse)",
+      "chapter": "Long Memory, from the Nile to the Marketplace",
+      "concepts": [
+        "hurst_exponent",
+        "market_persistence",
+        "measurement_challenges"
+      ],
+      "entities": {
+        "people": [
+          "Edgar E. Peters",
+          "Andrew W. Lo"
+        ],
+        "places": [
+          "MIT",
+          "PanAgora Asset Management"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Interest rates on loans from banks to brokers' had H = 0.7 showing 'long, persistent trends' while 'Wheat and U.K. bonds were about 0.5: independent'",
+          "speaker": null
+        },
+        {
+          "text": "Apple, 0.75, Xerox, 0.73, and IBM, 0.72",
+          "speaker": "Edgar Peters"
+        },
+        {
+          "text": "Anheuser-Busch, 0.64, Texas State Utilities, 0.54",
+          "speaker": "Edgar Peters"
+        },
+        {
+          "text": "The field remains 'more intricate than any one simplistic test could resolve' with competing methodologies yielding different H estimates for the same markets",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-037",
+      "text": "The Noah Effect represents abrupt market changes like the 1987 crash that arrive 'without warning or convincing reason' and seem 'like the end of the financial world,' analogous to the biblical flood that was 'catastrophic, but transient'",
+      "chapter": "Noah, Joseph, and Market Bubbles",
+      "concepts": [
+        "market_discontinuity",
+        "price_jumps",
+        "financial_crashes"
+      ],
+      "entities": {
+        "people": [
+          "Noah"
+        ],
+        "places": [],
+        "events": [
+          "October 19, 1987 crash"
+        ],
+        "works": [
+          "Genesis"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "a hierarchy of turbulence, a pattern that scales up and down with time",
+          "speaker": null
+        },
+        {
+          "text": "a great bank or brokerage house can seem like a little boat in a big storm",
+          "speaker": null
+        },
+        {
+          "text": "discontinuity",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-038",
+      "text": "The Joseph Effect represents almost-cycles and long memory where 'a big 3 percent change in IBM's stock one day might precede a 2 percent jump another day' as past price moves continue to echo in future trading",
+      "chapter": "Noah, Joseph, and Market Bubbles",
+      "concepts": [
+        "long_term_memory",
+        "market_persistence",
+        "cyclical_patterns"
+      ],
+      "entities": {
+        "people": [
+          "Joseph",
+          "Pharaoh"
+        ],
+        "places": [
+          "Egypt"
+        ],
+        "events": [],
+        "works": [
+          "Genesis"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Like Joseph's interpretation of Pharaoh's dream about 'seven fat cattle' followed by 'seven lean kine,' markets show persistent periods of growth or decline",
+          "speaker": null
+        },
+        {
+          "text": "Joseph became 'the first international arbitrageur' by stockpiling grain during good years to profit during the predicted famine",
+          "speaker": null
+        },
+        {
+          "text": "long-range dependence in an otherwise random process\u2014or, put another way, a long-term memory",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-039",
+      "text": "Investment bubbles arise rationally from the interaction of Joseph and Noah effects, as demonstrated by Cisco Systems whose stock soared when investors extrapolated earnings growth trends but crashed when growth expectations proved unsustainable",
+      "chapter": "Noah, Joseph, and Market Bubbles",
+      "concepts": [
+        "market_bubbles",
+        "extrapolation_error",
+        "boom_bust_cycle"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "Internet bubble",
+          "Cisco crash"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "extraordinary 53 percent",
+          "speaker": "Cisco"
+        },
+        {
+          "text": "101 percent a year throughout the 1990s",
+          "speaker": null
+        },
+        {
+          "text": "Potentially The First Trillion Dollar Market Cap Company",
+          "speaker": "Credit Suisse First Boston"
+        },
+        {
+          "text": "earnings flattened",
+          "speaker": null
+        },
+        {
+          "text": "reported its first quarterly loss",
+          "speaker": "Cisco"
+        },
+        {
+          "text": "overshooting and crash",
+          "speaker": null
+        },
+        {
+          "text": "incessantly",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-040",
+      "text": "The rescaled range (R/S) statistical test separates Noah and Joseph effects by comparing data before and after reshuffling, since 'The Joseph Effect depends on the precise order of events, while the Noah Effect depends on the relative size of each event'",
+      "chapter": "Noah, Joseph, and Market Bubbles",
+      "concepts": [
+        "statistical_testing",
+        "effect_separation",
+        "mathematical_duality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "whatever dependence was originally present must have been negligible",
+          "speaker": null
+        },
+        {
+          "text": "the precise sequence must have been important",
+          "speaker": null
+        },
+        {
+          "text": "H is simply equal to 1/\u03b1",
+          "speaker": null
+        },
+        {
+          "text": "a dual relationship",
+          "speaker": null
+        },
+        {
+          "text": "an 'almost-trend' emerging in a stock price",
+          "speaker": null
+        },
+        {
+          "text": "eventually break up",
+          "speaker": null
+        },
+        {
+          "text": "can do so rapidly. A sudden lurch downward, perhaps. A discontinuity",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-041",
+      "text": "Trading time operates differently from clock time, expanding during high volatility when 'fortunes are won or lost' and 'Time flies,' while contracting during quiet periods when 'Time hangs heavy' and traders 'might as well go for a long lunch'",
+      "chapter": "The Multifractal Nature of Trading Time",
+      "concepts": [
+        "time_deformation",
+        "subjective_time",
+        "volatility_clustering"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scores of news items flitting across the electronic crawl",
+          "speaker": null
+        },
+        {
+          "text": "No news, only tired reports",
+          "speaker": null
+        },
+        {
+          "text": "takes normal clock time, deforms it into a unique form of 'trading time,' and then generates a price chart from it all",
+          "speaker": null
+        },
+        {
+          "text": "Time does not run in a straight line, like the markings on a wooden ruler. It stretches and shrinks, as if the ruler were made of balloon rubber",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-042",
+      "text": "Multifractals extend beyond simple fractals by having 'more than one scaling ratio in the same object\u2014some parts of the object shrink quickly, others slowly,' like how gold ore clusters unevenly on Earth's surface",
+      "chapter": "The Multifractal Nature of Trading Time",
+      "concepts": [
+        "multifractal_structure",
+        "scaling_heterogeneity",
+        "natural_clustering"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "black and white",
+          "speaker": null
+        },
+        {
+          "text": "halftones, shades of gray",
+          "speaker": null
+        },
+        {
+          "text": "the world is not black and white",
+          "speaker": null
+        },
+        {
+          "text": "the way gold ore clusters here and there on the surface of the earth",
+          "speaker": null
+        },
+        {
+          "text": "the way the velocity of the wind on a stormy day comes 'intermittently,' in clusters of high gusts",
+          "speaker": null
+        },
+        {
+          "text": "Multifractals manifest both Noah Effect (sharp price changes) and Joseph Effect (long-term dependence) in 'a Noah Effect that can vary over a broad range of differing degrees'",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-043",
+      "text": "The multifractal model uses a 'Baby Theorem' where two parent generators\u2014a 'father' that transforms clock time into trading time and a 'mother' that generates price movements\u2014combine to create realistic financial charts",
+      "chapter": "The Multifractal Nature of Trading Time",
+      "concepts": [
+        "fractal_generation",
+        "mathematical_inheritance",
+        "compound_processes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "takes clock time and transforms it into trading time",
+          "speaker": "the father generator"
+        },
+        {
+          "text": "takes clock time and changes it into a price",
+          "speaker": "the mother"
+        },
+        {
+          "text": "the baby takes the father's trading-time and converts it into a price by the rules the mother provides",
+          "speaker": null
+        },
+        {
+          "text": "Each parent contributes one half of a chromosome to the baby",
+          "speaker": null
+        },
+        {
+          "text": "Like genetics, each parent contributes one half of a chromosome to the baby creating fractal charts with both wild jumps and long-term memory",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-044",
+      "text": "Testing on dollar-Deutschemark exchange data from 1992-1996 showed the multifractal model accurately captures market scaling across time periods from 'two hours to 180 days\u2014an unusually long zone of regularity'",
+      "chapter": "The Multifractal Nature of Trading Time",
+      "concepts": [
+        "empirical_validation",
+        "scaling_ranges",
+        "crossover_effects"
+      ],
+      "entities": {
+        "people": [
+          "Laurent Calvet",
+          "Adlai Fisher"
+        ],
+        "places": [
+          "Yale",
+          "Harvard",
+          "University of British Columbia",
+          "Zurich"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "1,472,241 prices in all",
+          "speaker": null
+        },
+        {
+          "text": "Zurich consulting firm, Olsen & Associates",
+          "speaker": null
+        },
+        {
+          "text": "crossovers",
+          "speaker": null
+        },
+        {
+          "text": "market microstructure",
+          "speaker": null
+        },
+        {
+          "text": "the Noah Effect is fading",
+          "speaker": null
+        },
+        {
+          "text": "Archer Daniel Midlands, Lockheed, Motorola, and UAL were textbook multifractals",
+          "speaker": null
+        }
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-045",
+      "text": "Markets are turbulent systems with the same mathematical patterns as fluid dynamics, exhibiting 'the tell-tale traces of turbulence' in price charts through scaling, long-term dependence, and discontinuous jumps",
+      "chapter": "Ten Heresies of Finance",
+      "concepts": [
+        "market_turbulence",
+        "fractal_scaling",
+        "system_interdependence"
+      ],
+      "entities": {
+        "people": [
+          "Robert W. Stewart"
+        ],
+        "places": [
+          "Vancouver",
+          "Puget Sound",
+          "South Africa"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "stretches of high-frequency noise interrupted by low patches",
+          "speaker": null
+        },
+        {
+          "text": "oil fields, gold, uranium, and diamond mines in South Africa, and storms and earthquakes scale",
+          "speaker": null
+        },
+        {
+          "text": "Every event, no matter how remote or long ago, echoes across all other events",
+          "speaker": null
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-046",
+      "text": "The Equity Premium Puzzle arises because 'real investors know better than the economists' and 'instinctively realize that the market is very, very risky, riskier than the standard models say,' justifying higher stock returns as compensation",
+      "chapter": "Ten Heresies of Finance",
+      "concepts": [
+        "risk_compensation",
+        "portfolio_allocation",
+        "loss_aversion"
+      ],
+      "entities": {
+        "people": [
+          "Rajnish Mehra",
+          "Edward C. Prescott"
+        ],
+        "places": [
+          "Japan",
+          "Europe",
+          "America"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "4.1 percent and 8.4 percent",
+          "speaker": "Rajnish Mehra and Edward Prescott"
+        },
+        {
+          "text": "conventional formulae say the risk premium should not exceed 1 percent or so",
+          "speaker": null
+        },
+        {
+          "text": "53 percent of their financial assets in cash, and barely 8 percent in shares",
+          "speaker": null
+        },
+        {
+          "text": "28 percent in cash, 13 percent in shares",
+          "speaker": null
+        },
+        {
+          "text": "extremes of profit or loss that matter most",
+          "speaker": null
+        },
+        {
+          "text": "Just one out-of-the-average year of losing more than a third of capital...would justifiably scare even the boldest investors",
+          "speaker": null
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-047",
+      "text": "Market timing matters because 'big gains and losses concentrate into small packages of time,' with nearly half the dollar's decline against the yen from 1986-2003 occurring on just ten out of 4,695 trading days",
+      "chapter": "Ten Heresies of Finance",
+      "concepts": [
+        "temporal_concentration",
+        "event_clustering",
+        "market_timing"
+      ],
+      "entities": {
+        "people": [
+          "George Soros"
+        ],
+        "places": [],
+        "events": [
+          "British pound crisis 1992"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "46 percent of the damage to dollar investors happened on 0.21 percent of the days",
+          "speaker": null
+        },
+        {
+          "text": "40 percent of the positive returns from the Standard & Poor's 500 index came during ten days\u2014about 0.5 percent of the time",
+          "speaker": null
+        },
+        {
+          "text": "famously profited about $2 billion by betting against the British pound in just two turbulent weeks in 1992",
+          "speaker": "George Soros"
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-048",
+      "text": "Alexander's 'filter method' trading strategy failed because prices jump discontinuously rather than move smoothly, causing investors to buy at 5.5% rather than the intended 5% trigger level, destroying theoretical profits",
+      "chapter": "Ten Heresies of Finance",
+      "concepts": [
+        "price_discontinuity",
+        "trading_systems",
+        "execution_risk"
+      ],
+      "entities": {
+        "people": [
+          "Stanley S. Alexander",
+          "Albert L. Williams"
+        ],
+        "places": [
+          "IBM",
+          "MIT"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "IBM president Albert Williams asked Mandelbrot to investigate Alexander's claim of '36.8 percent a year' profits from systematic trend-following",
+          "speaker": null
+        },
+        {
+          "text": "It made the difference between a 36.8 percent profit and a loss of as much as 90 percent of the investor's capital",
+          "speaker": null
+        },
+        {
+          "text": "The big, bold profits of Paper 1 must be replaced with rather puny ones",
+          "speaker": "Alexander"
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-049",
+      "text": "Richard Olsen's Oanda.com operates as a 'test reactor' for fractal finance theory, providing a currency trading platform with 10,000 customers trading $1 billion daily while generating unique market research data",
+      "chapter": "In the Lab",
+      "concepts": [
+        "experimental_finance",
+        "heterogeneous_markets",
+        "trading_platform"
+      ],
+      "entities": {
+        "people": [
+          "Richard Olsen",
+          "Michael Stumm"
+        ],
+        "places": [
+          "Zurich"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "quantum theory for finance",
+          "speaker": "Olsen"
+        },
+        {
+          "text": "heterogeneous markets",
+          "speaker": "Olsen"
+        },
+        {
+          "text": "small explosions",
+          "speaker": "Olsen"
+        },
+        {
+          "text": "quotes stutter",
+          "speaker": "Olsen"
+        },
+        {
+          "text": "Olsen Investment Corp. funds returned between '3.15 percent' and '21.05 percent' in 2003 using computerized quasi-fractal models",
+          "speaker": null
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-050",
+      "text": "Jean-Philippe Bouchaud's Capital Fund Management uses multifractal 'tail chiseling' for risk management while running \u20ac725 million in hedge funds employing statistical arbitrage strategies",
+      "chapter": "In the Lab",
+      "concepts": [
+        "statistical_arbitrage",
+        "tail_chiseling",
+        "crash_protection"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Philippe Bouchaud"
+        ],
+        "places": [
+          "Paris",
+          "Boulevard Haussmann"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "28.1 percent' in 2002 when 'the market overall had fallen by a third' but only '3.32 percent' in 2003, showing 'With statistical arbitrage, there are ups and downs",
+          "speaker": null
+        },
+        {
+          "text": "minimizes the odds of too many of the assets in a portfolio crashing at the same time",
+          "speaker": null
+        },
+        {
+          "text": "it is not small declines that wipe an investor out, it is the crashes",
+          "speaker": null
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-051",
+      "text": "Four major practical problems need resolution before fractal finance can be widely applied: analyzing investments, building portfolios, valuing options, and managing risk",
+      "chapter": "In the Lab",
+      "concepts": [
+        "investment_analysis",
+        "options_pricing",
+        "risk_management"
+      ],
+      "entities": {
+        "people": [
+          "Craig Barrett"
+        ],
+        "places": [
+          "Intel"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "primitive state of natural history three centuries ago",
+          "speaker": "the author"
+        },
+        {
+          "text": "frequently confound species",
+          "speaker": "the author"
+        },
+        {
+          "text": "wide error range",
+          "speaker": "the author"
+        },
+        {
+          "text": "just one flat line",
+          "speaker": "the author"
+        },
+        {
+          "text": "Rococo structure",
+          "speaker": "the author"
+        },
+        {
+          "text": "consistently understated the basic market parameter, \u03b2",
+          "speaker": "the author"
+        },
+        {
+          "text": "6 percent",
+          "speaker": "the author"
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-052",
+      "text": "Mandelbrot challenges financial leaders to allocate just '5 percent' of the $432.5 million Wall Street fraud settlement to fund fundamental market research, arguing 'Is not understanding the market at least as important to the economy as understanding solid-state physics is to IBM?'",
+      "chapter": "In the Lab",
+      "concepts": [
+        "research_funding",
+        "institutional_change",
+        "pragmatic_response"
+      ],
+      "entities": {
+        "people": [
+          "Alan Greenspan",
+          "Eliot Spitzer",
+          "William Donaldson"
+        ],
+        "places": [
+          "Netherlands",
+          "Amsterdam"
+        ],
+        "events": [
+          "Dutch flood 1953",
+          "Wall Street settlement"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Alan Greenspan, Eliot Spitzer, and William Donaldson\u2014Federal Reserve chairman, New York attorney general, and SEC chairman",
+          "speaker": null
+        },
+        {
+          "text": "If we can map the human genome, why can we not map how a man loses his livelihood?",
+          "speaker": null
+        },
+        {
+          "text": "the pragmatic Dutch did not waste time arguing about the math. They cleaned up the damage and rebuilt the dikes higher and stronger",
+          "speaker": null
+        }
+      ],
+      "part": "Part Three: The Way Ahead"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-001",
+      "title": "TO THE SCIENTIFIC READER: AN ABSTRACT",
+      "summary": "Financial markets exhibit 'wild' randomness patterns that fractal geometry can model more accurately than conventional theories assuming 'mild' bell-curve variations.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-001"
+      ]
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-002",
+      "title": "PRELUDE",
+      "summary": "Mandelbrot is introduced as an independent scientific maverick whose fractal geometry discoveries challenge established financial theory with controversial but important insights about market risk.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-002",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-003",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-004"
+      ]
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-003",
+      "title": "Risk, Ruin, and Reward",
+      "summary": "Financial markets are extremely risky with seemingly impossible events like the 1987 crash occurring regularly, revealing fundamental flaws in standard probability models that dramatically underestimate real market dangers.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-005",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-006",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-007"
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-004",
+      "title": "By the Toss of a Coin or the Flight of an Arrow?",
+      "summary": "Financial markets can be described using probability theory despite seeming deterministic, but require understanding different types of randomness beyond the familiar bell curve patterns.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-008",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-009",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-010"
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-005",
+      "title": "Bachelier and His Legacy",
+      "summary": "Louis Bachelier's 1900 doctoral thesis laid the foundations of modern financial theory by applying probability mathematics to market prices, though his work was initially dismissed and only rediscovered decades later.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-011",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-012",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-013",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-014"
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-006",
+      "title": "The House of Modern Finance",
+      "summary": "Modern financial theory rests on three key innovations\u2014Markowitz's portfolio theory, Sharpe's asset pricing model, and Black-Scholes options formula\u2014all built on Bachelier's probabilistic foundations but widely used despite fundamental flaws.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-015",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-016",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-017",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-018"
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-007",
+      "title": "The Case Against the Modern Theory of Finance",
+      "summary": "Modern financial theory's fundamental assumptions about rational investors, normal price distributions, and market continuity are systematically contradicted by real market behavior and trading practices.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-019",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-020",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-021",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-022"
+      ],
+      "part": "Part One: The Old Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-008",
+      "title": "Turbulent Markets: A Preview",
+      "summary": "Financial markets exhibit the same mathematical patterns as turbulent fluid flow, with intermittent bursts of high volatility followed by calm periods, requiring multifractal analysis to model accurately.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-023",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-024",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-025"
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-009",
+      "title": "Studies in Roughness: A Fractal Primer",
+      "summary": "Fractal geometry studies the mathematics of roughness and irregularity in nature, using scaling patterns and fractional dimensions to quantify complex structures from coastlines to financial charts.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-026",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-027",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-028"
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-010",
+      "title": "The Mystery of Cotton",
+      "summary": "Mandelbrot's 1963 analysis of cotton prices revealed that financial markets follow power-law scaling patterns rather than normal distributions, solving a century-old mystery of price variation through three converging mathematical insights.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-029",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-030",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-031",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-032"
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-011",
+      "title": "Long Memory, from the Nile to the Marketplace",
+      "summary": "Harold Hurst's discovery of long-term dependence in Nile floods reveals that financial markets have 'memory' where past events continue to influence present price movements over extended periods.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-033",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-034",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-035",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-036"
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-012",
+      "title": "Noah, Joseph, and Market Bubbles",
+      "summary": "Financial markets exhibit two forms of wildness\u2014the Noah Effect (abrupt price jumps) and Joseph Effect (long-term trends)\u2014which interact to create rational bubbles through overshooting and crash dynamics.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-037",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-038",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-039",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-040"
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-013",
+      "title": "The Multifractal Nature of Trading Time",
+      "summary": "Multifractal models capture financial market behavior by deforming time itself\u2014expanding during dramatic price changes and contracting during quiet periods\u2014to generate realistic price charts.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-041",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-042",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-043",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-044"
+      ],
+      "part": "Part Two: The New Way"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-014",
+      "title": "Ten Heresies of Finance",
+      "summary": "Mandelbrot challenges ten fundamental assumptions of modern finance, arguing that markets are turbulent, discontinuous, and far riskier than conventional theory suggests.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-045",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-046",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-047",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-048"
+      ],
+      "part": "Part Three: The Way Ahead"
+    },
+    {
+      "id": "the-misbehavior-of-markets-a-fractal-view-of-finan-ch-015",
+      "title": "In the Lab",
+      "summary": "Current fractal finance experiments include Olsen's currency trading platform, Bouchaud's statistical arbitrage funds, and various academic research projects, though practical applications remain limited.",
+      "claim_ids": [
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-049",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-050",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-051",
+        "the-misbehavior-of-markets-a-fractal-view-of-finan-052"
+      ],
+      "part": "Part Three: The Way Ahead"
+    }
+  ],
+  "stats": {
+    "claim_count": 52,
+    "chapter_count": 15,
+    "indexed_at": "2026-02-01T01:30:07.863347Z"
+  }
+}

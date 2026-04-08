@@ -1,0 +1,5 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range where site.RegularPages "Section" "books" -}}
+{{- $.Scratch.Add "index" (dict "title" .Title "url" .Permalink "author" (.Params.author | default "") "year" (.Params.year | default "") "keywords" (.Params.bookKeywords | default "") "description" (.Params.description | default "") "content" (.Plain | htmlUnescape)) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

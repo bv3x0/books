@@ -1,0 +1,120 @@
+{{/* Only show TOC sidebar on pages with table of contents */}}
+{{ $hasToC := .Params.toc | default true }}
+{{ $headers := findRE "<h[2-6]" .Content }}
+{{ $showToC := and $hasToC (ge (len $headers) 1) }}
+
+{{/* Get related books for this page */}}
+{{ $slug := .File.BaseFileName }}
+{{ $related := index .Site.Data.related $slug }}
+
+{{ if or $showToC $related }}
+<aside id="toc-sidebar" class="toc-sidebar" aria-label="Table of Contents">
+  {{ if $showToC }}
+  <div class="toc-sidebar-header">
+    <span class="toc-sidebar-title">Table of Contents</span>
+  </div>
+
+  <nav class="toc-sidebar-content" aria-label="Page sections">
+    {{ .TableOfContents }}
+  </nav>
+  {{ end }}
+
+  {{/* Related Books section */}}
+  {{ with $related }}
+  <div class="related-books-section">
+    <div class="toc-sidebar-header">
+      <span class="toc-sidebar-title">Related Books</span>
+    </div>
+    <nav class="toc-sidebar-content" aria-label="Related Books">
+      <ul>
+        {{ range . }}
+        {{- $shortTitle := .title -}}
+        {{- if findRE ":" .title -}}
+          {{- $parts := split .title ":" -}}
+          {{- $shortTitle = index $parts 0 -}}
+        {{- end -}}
+        <li>
+          <a href="/books/{{ .slug }}/">{{ $shortTitle }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+  {{ end }}
+</aside>
+
+<script>
+(function() {
+  // Scroll spy for TOC sidebar
+  const tocSidebar = document.getElementById('toc-sidebar');
+  if (!tocSidebar) return;
+
+  const tocLinks = tocSidebar.querySelectorAll('a');
+  const headers = [];
+
+  // Build array of headers that match TOC links
+  tocLinks.forEach(link => {
+    const id = link.getAttribute('href').slice(1); // Remove #
+    const header = document.getElementById(id);
+    if (header) {
+      headers.push({ id, element: header, link });
+    }
+  });
+
+  if (headers.length === 0) return;
+
+  // Update active link based on scroll position
+  function updateActiveLink() {
+    const scrollY = window.scrollY;
+    const viewportHeight = window.innerHeight;
+    let activeHeader = null;
+
+    // Find the header that's currently in view (with offset for sticky nav)
+    for (let i = headers.length - 1; i >= 0; i--) {
+      const header = headers[i];
+      const rect = header.element.getBoundingClientRect();
+      const headerTop = scrollY + rect.top;
+
+      // Header is considered active if it's above the 20% mark of viewport
+      if (headerTop <= scrollY + viewportHeight * 0.2) {
+        activeHeader = header;
+        break;
+      }
+    }
+
+    // If no header found and we're near the top, activate first
+    if (!activeHeader && scrollY < 100 && headers.length > 0) {
+      activeHeader = headers[0];
+    }
+
+    // Update active states
+    tocLinks.forEach(link => link.classList.remove('active'));
+    if (activeHeader) {
+      activeHeader.link.classList.add('active');
+
+      // Ensure active link is visible in sidebar (scroll into view if needed)
+      const linkRect = activeHeader.link.getBoundingClientRect();
+      const sidebarContent = tocSidebar.querySelector('.toc-sidebar-content');
+      const sidebarRect = sidebarContent.getBoundingClientRect();
+
+      if (linkRect.top < sidebarRect.top || linkRect.bottom > sidebarRect.bottom) {
+        activeHeader.link.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      }
+    }
+  }
+
+  // Throttled scroll handler
+  let scrollTimeout;
+  window.addEventListener('scroll', () => {
+    if (scrollTimeout) return;
+    scrollTimeout = setTimeout(() => {
+      scrollTimeout = null;
+      updateActiveLink();
+    }, 50);
+  }, { passive: true });
+
+  // Initial update
+  updateActiveLink();
+})();
+</script>
+{{ end }}

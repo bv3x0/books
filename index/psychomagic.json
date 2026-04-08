@@ -1,0 +1,1663 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "Psychomagic",
+    "author": "Alejandro Jodorowsky",
+    "year": null,
+    "categories": [
+      "mind",
+      "body",
+      "spirit",
+      "psychology",
+      "art"
+    ],
+    "thesis": "Psychomagic is a therapeutic art form that uses symbolic acts to communicate directly with the unconscious, helping people heal by transforming their problems into creative expressions rather than analyzing them verbally."
+  },
+  "claims": [
+    {
+      "id": "psychomagic-001",
+      "text": "Folk healers in Mexico use creative, seemingly irrational methods that work because they speak to the unconscious",
+      "chapter": "Prologue",
+      "concepts": [
+        "folk_healing",
+        "unconscious_psychology",
+        "therapeutic_method",
+        "cultural_medicine"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mexico"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-002",
+      "text": "The 'sacred trap' concept explains how extraordinary healing requires belief in the possibility of miracles",
+      "chapter": "Prologue",
+      "concepts": [
+        "belief_systems",
+        "therapeutic_framework",
+        "psychological_healing",
+        "miraculous_action"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-003",
+      "text": "Objects form part of the unconscious language and can imprison or heal people",
+      "chapter": "Prologue",
+      "concepts": [
+        "symbolic_objects",
+        "unconscious_communication",
+        "therapeutic_tools",
+        "psychological_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-004",
+      "text": "Psychomagic differs from primitive magic by requiring the patient's understanding rather than superstitious belief",
+      "chapter": "Prologue",
+      "concepts": [
+        "psychomagic",
+        "therapeutic_understanding",
+        "magical_practice",
+        "rational_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-005",
+      "text": "Jodorowsky embodies a 'panic character' who breaks through conventional reality's limitations",
+      "chapter": "A Portrait of the Artist in Panic Character by Interviewer Gilles Farcet",
+      "concepts": [
+        "panic_character",
+        "reality_transcendence",
+        "conventional_limitations",
+        "archetypal_persona"
+      ],
+      "entities": {
+        "people": [
+          "Jodorowsky"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-006",
+      "text": "His approach to reality demonstrates the 'technique employed by Alejandro in order to undermine the resistances of the universe'",
+      "chapter": "A Portrait of the Artist in Panic Character by Interviewer Gilles Farcet",
+      "concepts": [
+        "reality_manipulation",
+        "universal_resistance",
+        "metaphysical_technique",
+        "cosmic_intervention"
+      ],
+      "entities": {
+        "people": [
+          "Alejandro"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-007",
+      "text": "Demonstrates striking intuitive abilities that suggest omniscient powers",
+      "chapter": "A Portrait of the Artist in Panic Character by Interviewer Gilles Farcet",
+      "concepts": [
+        "intuitive_abilities",
+        "psychic_abilities",
+        "omniscient_knowledge",
+        "supernatural_perception"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-008",
+      "text": "Balances the roles of 'transcendental charlatan' and compassionate healer",
+      "chapter": "A Portrait of the Artist in Panic Character by Interviewer Gilles Farcet",
+      "concepts": [
+        "transcendental_charlatan",
+        "compassionate_healing",
+        "dual_existence",
+        "therapeutic_paradox"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-009",
+      "text": "Chile in the 1950s was a uniquely poetic country where five poets created archetypal influences",
+      "chapter": "The Poetic Act",
+      "concepts": [
+        "poetic_culture",
+        "archetypal_influence",
+        "national_character",
+        "literary_atmosphere"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Chile"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-010",
+      "text": "The five poets formed an alchemical mandala with Neruda as water, Parra air, de Rokha fire, Mistral earth, and Huidobro as quintessence",
+      "chapter": "The Poetic Act",
+      "concepts": [
+        "alchemical_mandala",
+        "elemental_poetry",
+        "archetypal_roles",
+        "poetic_cosmology"
+      ],
+      "entities": {
+        "people": [
+          "Neruda",
+          "Parra",
+          "de Rokha",
+          "Mistral",
+          "Huidobro"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-011",
+      "text": "Discovering Marinetti's phrase 'Poetry is an act' led to three years of performing poetic acts",
+      "chapter": "The Poetic Act",
+      "concepts": [
+        "poetic_acts",
+        "performance_poetry",
+        "literary_discovery",
+        "artistic_evolution"
+      ],
+      "entities": {
+        "people": [
+          "Marinetti"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-012",
+      "text": "Poetic acts should be beautiful, aesthetic, without justification, and ultimately positive rather than destructive",
+      "chapter": "The Poetic Act",
+      "concepts": [
+        "poetic_aesthetics",
+        "creative_difficulty",
+        "artistic_philosophy",
+        "constructive_art"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-013",
+      "text": "Rejection of realistic theater in favor of metaphysical and unconscious dimensions",
+      "chapter": "The Theatrical Act",
+      "concepts": [
+        "theatrical_rejection",
+        "metaphysical_theater",
+        "unconscious_dimensions",
+        "artistic_rebellion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-014",
+      "text": "Development of 'ephemeral panic' - theatrical events that could only be performed once",
+      "chapter": "The Theatrical Act",
+      "concepts": [
+        "ephemeral_panic",
+        "theatrical_events",
+        "performance_uniqueness",
+        "artistic_impermanence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-015",
+      "text": "Happenings revealed that many people carry unexpressed acts inside them",
+      "chapter": "The Theatrical Act",
+      "concepts": [
+        "happenings",
+        "unexpressed_acts",
+        "performance_revelation",
+        "psychological_expression"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-016",
+      "text": "The 'Sacramental Melodrama' in Paris represented the culmination of panic theater",
+      "chapter": "The Theatrical Act",
+      "concepts": [
+        "theatrical_performance",
+        "psychological_theater",
+        "artistic_culmination",
+        "panic_expression"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Paris"
+        ],
+        "works": [
+          "Sacramental Melodrama"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-017",
+      "text": "Lucid dreaming evolved through different phases from control to witness consciousness",
+      "chapter": "The Oneiric Act",
+      "concepts": [
+        "lucid_dreaming",
+        "consciousness_development",
+        "dream_control",
+        "witness_consciousness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-018",
+      "text": "Dream work requires facing fears and inner monsters to achieve transformation",
+      "chapter": "The Oneiric Act",
+      "concepts": [
+        "dream_work",
+        "fear_confrontation",
+        "psychological_transformation",
+        "shadow_work"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-019",
+      "text": "Therapeutic dreams can repair emotional wounds and fulfill missing childhood needs",
+      "chapter": "The Oneiric Act",
+      "concepts": [
+        "therapeutic_dreaming",
+        "psychological_healing",
+        "childhood_trauma",
+        "psychological_repair"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-020",
+      "text": "Reality functions like a lucid dream where conscious intention can influence outcomes",
+      "chapter": "The Oneiric Act",
+      "concepts": [
+        "reality_perception",
+        "lucid_dreaming",
+        "conscious_intention",
+        "manifestation_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-021",
+      "text": "Mexico is 'an absolutely oneiric country where the unconscious flourishes' with widespread magical practices",
+      "chapter": "The Magic Act",
+      "concepts": [
+        "unconscious_manifestation",
+        "magical_practice",
+        "cultural_psychology",
+        "oneiric_reality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mexico"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-022",
+      "text": "Meeting Pachita required elaborate protection rituals demonstrating the power of symbolic identity",
+      "chapter": "The Magic Act",
+      "concepts": [
+        "ritual_protection",
+        "symbolic_identity",
+        "spiritual_preparation",
+        "ritual_power"
+      ],
+      "entities": {
+        "people": [
+          "Pachita"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-023",
+      "text": "Pachita's operations demonstrated symbolic surgery that produced real healing effects",
+      "chapter": "The Magic Act",
+      "concepts": [
+        "symbolic_surgery",
+        "healing_demonstration",
+        "psychic_healing",
+        "therapeutic_symbolism"
+      ],
+      "entities": {
+        "people": [
+          "Pachita"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-024",
+      "text": "Psychomagic emerged from understanding that 'the human body accepts directly and naively the symbolic language'",
+      "chapter": "The Magic Act",
+      "concepts": [
+        "psychomagic",
+        "symbolic_communication",
+        "body_psychology",
+        "unconscious_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-025",
+      "text": "Psychomagic emerged from the limitation of awareness without action in therapy",
+      "chapter": "The Psychomagic Act",
+      "concepts": [
+        "psychomagic",
+        "therapeutic_limitation",
+        "action_therapy",
+        "embodied_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-026",
+      "text": "Method requires complete confession followed by creative symbolic prescriptions",
+      "chapter": "The Psychomagic Act",
+      "concepts": [
+        "therapeutic_method",
+        "confession_practice",
+        "symbolic_prescription",
+        "creative_therapy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-027",
+      "text": "Acts are irrational in appearance but rational because person knows why they must be done",
+      "chapter": "The Psychomagic Act",
+      "concepts": [
+        "therapeutic_rationality",
+        "symbolic_action",
+        "conscious_purpose",
+        "irrational_appearance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-028",
+      "text": "Authorization comes from disidentification with ego during prescription process",
+      "chapter": "The Psychomagic Act",
+      "concepts": [
+        "therapeutic_authority",
+        "ego_disidentification",
+        "prescription_process",
+        "therapeutic_authority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-029",
+      "text": "Acts address genealogical patterns and interrupted emotional development",
+      "chapter": "Examples of Psychomagic Acts",
+      "concepts": [
+        "genealogical_patterns",
+        "emotional_development",
+        "therapeutic_method",
+        "family_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-030",
+      "text": "Physical symptoms often represent symbolic emotional states requiring metaphorical solutions",
+      "chapter": "Examples of Psychomagic Acts",
+      "concepts": [
+        "psychosomatic_symptoms",
+        "symbolic_representation",
+        "emotional_embodiment",
+        "metaphorical_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-031",
+      "text": "Corrective acts can repair damage from previous traumatic experiences",
+      "chapter": "Examples of Psychomagic Acts",
+      "concepts": [
+        "corrective_acts",
+        "trauma_recovery",
+        "reparative_therapy",
+        "psychological_repair"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-032",
+      "text": "Symbolic acts speak directly to unconscious through metaphorical language of objects and actions",
+      "chapter": "Psychomagic Letters",
+      "concepts": [
+        "symbolic_action",
+        "unconscious_communication",
+        "metaphorical_language",
+        "therapeutic_symbolism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-033",
+      "text": "Writer's block resolved through symbolic destruction and rebirth ritual",
+      "chapter": "Psychomagic Letters",
+      "concepts": [
+        "writers_block",
+        "symbolic_ritual",
+        "destruction_rebirth",
+        "creative_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-034",
+      "text": "Mixed-race complexes healed through confronting identity directly",
+      "chapter": "Psychomagic Letters",
+      "concepts": [
+        "mixed_race_identity",
+        "identity_healing",
+        "racial_complexes",
+        "direct_confrontation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-035",
+      "text": "Abortion trauma resolved through joint symbolic ritual between partners",
+      "chapter": "Psychomagic Letters",
+      "concepts": [
+        "abortion_trauma",
+        "partner_healing",
+        "symbolic_ritual",
+        "joint_therapy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-036",
+      "text": "Psychomagic acts may seem simple compared to lengthy therapies but address core problems directly",
+      "chapter": "From Imagination to Power",
+      "concepts": [
+        "psychomagic",
+        "therapeutic_efficiency",
+        "core_problem_resolution",
+        "alternative_therapy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-037",
+      "text": "True global healing requires finding interior God - all other therapies are partial",
+      "chapter": "From Imagination to Power",
+      "concepts": [
+        "global_healing",
+        "interior_god",
+        "spiritual_therapy",
+        "partial_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-038",
+      "text": "Primary teaching is development of imagination across all human levels",
+      "chapter": "From Imagination to Power",
+      "concepts": [
+        "imagination_development",
+        "human_levels",
+        "primary_teaching",
+        "creative_faculty"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-039",
+      "text": "Goal is therapeutic power of imagination applied to transform reality",
+      "chapter": "From Imagination to Power",
+      "concepts": [
+        "therapeutic_imagination",
+        "reality_transformation",
+        "applied_psychology",
+        "imaginative_power"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-040",
+      "text": "Jodorowsky represents a new type of evolved being for 'effervescent generation of mutants'",
+      "chapter": "A Synthesis of Experiences by Interviewer Javier Esteban",
+      "concepts": [
+        "evolved_being",
+        "mutant_generation",
+        "human_evolution",
+        "spiritual_development"
+      ],
+      "entities": {
+        "people": [
+          "Jodorowsky"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-041",
+      "text": "Approach emphasizes personal freedom over institutional authority",
+      "chapter": "A Synthesis of Experiences by Interviewer Javier Esteban",
+      "concepts": [
+        "personal_freedom",
+        "institutional_power",
+        "individual_autonomy",
+        "anti_institutional"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-042",
+      "text": "Interview process produced telepathic consciousness states",
+      "chapter": "A Synthesis of Experiences by Interviewer Javier Esteban",
+      "concepts": [
+        "interview_process",
+        "telepathic_consciousness",
+        "altered_consciousness",
+        "psychic_phenomena"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-043",
+      "text": "Represents phenomenon of 'religi\u00f3n a la carta' or individualized spirituality",
+      "chapter": "A Synthesis of Experiences by Interviewer Javier Esteban",
+      "concepts": [
+        "religion_a_la_carta",
+        "individualized_spirituality",
+        "customized_belief",
+        "spiritual_freedom"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-044",
+      "text": "Dreams evolved from nightmares to witnessing consciousness without interference",
+      "chapter": "Keys to the Soul",
+      "concepts": [
+        "dream_evolution",
+        "nightmare_transformation",
+        "witness_consciousness",
+        "non_interference"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-045",
+      "text": "Art cures by reconnecting us with present moment and universal consciousness",
+      "chapter": "Keys to the Soul",
+      "concepts": [
+        "art_healing",
+        "present_moment_awareness",
+        "unified_consciousness",
+        "therapeutic_art"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-046",
+      "text": "Language reflects and transmits consciousness levels - healthy language heals",
+      "chapter": "Keys to the Soul",
+      "concepts": [
+        "consciousness_levels",
+        "language_healing",
+        "psycholinguistics",
+        "therapeutic_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-047",
+      "text": "Psychedelic substances can open consciousness but require proper guidance and limited use",
+      "chapter": "Keys to the Soul",
+      "concepts": [
+        "psychedelic_therapy",
+        "consciousness_expansion",
+        "guided_experience",
+        "substance_moderation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-048",
+      "text": "Tarot functions as 'metaphysical machine' and 'optical language' for self-understanding",
+      "chapter": "Keys to the Soul",
+      "concepts": [
+        "divination_systems",
+        "metaphysical_technique",
+        "symbolic_communication",
+        "self_knowledge"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": [
+          "Tarot"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-049",
+      "text": "We can choose each step of existence rather than being determined by past or origins",
+      "chapter": "The Trail of Life",
+      "concepts": [
+        "free_will",
+        "existential_choice",
+        "self_determination",
+        "temporal_freedom"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-050",
+      "text": "Development requires transformation, not elimination, of what we've received",
+      "chapter": "The Trail of Life",
+      "concepts": [
+        "transformative_action",
+        "inheritance_integration",
+        "personal_evolution",
+        "adaptive_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-051",
+      "text": "Society operates at different levels of consciousness from animal to divine",
+      "chapter": "The Trail of Life",
+      "concepts": [
+        "consciousness_hierarchy",
+        "social_stratification",
+        "spiritual_transformation",
+        "collective_awareness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-052",
+      "text": "Reconciliation with parents requires symbolic 'killing' and rebuilding",
+      "chapter": "The Trail of Life",
+      "concepts": [
+        "parental_reconciliation",
+        "symbolic_death",
+        "psychological_rebirth",
+        "family_transcendence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-053",
+      "text": "True aspiration in life combines longevity with authentic self-expression",
+      "chapter": "The Invisible Bridge",
+      "concepts": [
+        "life_aspiration",
+        "longevity_pursuit",
+        "authentic_expression",
+        "existential_purpose"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-054",
+      "text": "Human beings have four centers that must work in harmony for healing",
+      "chapter": "The Invisible Bridge",
+      "concepts": [
+        "human_energy_centers",
+        "holistic_healing",
+        "consciousness_integration",
+        "psychosomatic_harmony"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-055",
+      "text": "Freedom consists of choosing among possible futures rather than creating entirely new destinies",
+      "chapter": "The Invisible Bridge",
+      "concepts": [
+        "future_selection",
+        "temporal_freedom",
+        "destiny_choice",
+        "predetermined_possibilities"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-056",
+      "text": "Humans are mutants developing new capacities including potential fourth brain",
+      "chapter": "The Invisible Bridge",
+      "concepts": [
+        "human_mutation",
+        "evolutionary_development",
+        "neurological_evolution",
+        "cognitive_enhancement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-057",
+      "text": "Religious intermediaries and institutions have become obsolete obstacles to spiritual development",
+      "chapter": "Visions",
+      "concepts": [
+        "religious_disintermediation",
+        "institutional_obsolescence",
+        "direct_spirituality",
+        "spiritual_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-058",
+      "text": "Mythical figures like Jesus and Buddha are valuable as art rather than historical reality",
+      "chapter": "Visions",
+      "concepts": [
+        "mythological_interpretation",
+        "artistic_symbolism",
+        "historical_deconstruction",
+        "spiritual_aesthetics"
+      ],
+      "entities": {
+        "people": [
+          "Jesus",
+          "Buddha"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-059",
+      "text": "Future humanity will transcend current physical limitations through technology and genetics",
+      "chapter": "Visions",
+      "concepts": [
+        "human_transcendence",
+        "technological_enhancement",
+        "genetic_evolution",
+        "physical_limitation_override"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-060",
+      "text": "Genetic manipulation and cloning are essential for human evolution despite dangers",
+      "chapter": "Visions",
+      "concepts": [
+        "genetic_manipulation",
+        "human_cloning",
+        "evolutionary_acceleration",
+        "biotechnological_risk"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-061",
+      "text": "Illness manifests unresolved psychological problems that the unconscious transforms into physical symptoms",
+      "chapter": "The Art of Healing",
+      "concepts": [
+        "psychosomatic_symptoms",
+        "unconscious_mind",
+        "symptom_formation",
+        "mind_body_connection"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-062",
+      "text": "Shamanic healing works through 'sacred trap' theater that opens mysterious human dimensions",
+      "chapter": "The Art of Healing",
+      "concepts": [
+        "shamanic_healing",
+        "therapeutic_theater",
+        "consciousness_dimensions",
+        "ritual_medicine"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-063",
+      "text": "Patients always resist healing because illness serves psychological functions",
+      "chapter": "The Art of Healing",
+      "concepts": [
+        "psychological_resistance",
+        "illness_function",
+        "healing_barriers",
+        "unconscious_benefits"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-064",
+      "text": "Future medicine must integrate psychology with genealogical understanding",
+      "chapter": "The Art of Healing",
+      "concepts": [
+        "integrative_medicine",
+        "psychological_medicine",
+        "genealogical_healing",
+        "future_healthcare"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-065",
+      "text": "Life is miraculous variety with underlying unity and communication",
+      "chapter": "Understanding Life",
+      "concepts": [
+        "life_unity",
+        "biological_diversity",
+        "universal_communication",
+        "interconnectedness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-066",
+      "text": "Having life purpose prevents reality from devouring us",
+      "chapter": "Understanding Life",
+      "concepts": [
+        "life_purpose",
+        "existential_protection",
+        "reality_confrontation",
+        "meaning_making"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-067",
+      "text": "What we give and receive creates our reality - nothing belongs to us individually",
+      "chapter": "Understanding Life",
+      "concepts": [
+        "reciprocity",
+        "reality_creation",
+        "individual_ownership",
+        "exchange_relationships"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-068",
+      "text": "Creativity provides the antidote to life's suffering and lack of love",
+      "chapter": "Understanding Life",
+      "concepts": [
+        "creative_healing",
+        "suffering_antidote",
+        "love_deficiency",
+        "creative_therapy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-069",
+      "text": "Creativity is the universal key to solving illness and social problems",
+      "chapter": "An Accelerated Course in Creativity",
+      "concepts": [
+        "creativity_solutions",
+        "illness_treatment",
+        "social_healing",
+        "universal_remedy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-070",
+      "text": "Historical development of imagination progressed through incorporating different dimensions",
+      "chapter": "An Accelerated Course in Creativity",
+      "concepts": [
+        "imagination_development",
+        "consciousness_development",
+        "dimensional_integration",
+        "historical_progression"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-071",
+      "text": "Modern consciousness integrates computer processing capabilities",
+      "chapter": "An Accelerated Course in Creativity",
+      "concepts": [
+        "modern_consciousness",
+        "computer_integration",
+        "cognitive_processing",
+        "technological_consciousness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-072",
+      "text": "Breaking creative limitations requires confronting moral and excretory taboos",
+      "chapter": "An Accelerated Course in Creativity",
+      "concepts": [
+        "creative_difficulty",
+        "moral_taboos",
+        "excretory_taboos",
+        "psychological_barriers"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-073",
+      "text": "Imagination operates through four basic mathematical elements plus mixture",
+      "chapter": "Exercises for the Imagination",
+      "concepts": [
+        "imagination_mechanics",
+        "mathematical_elements",
+        "creative_structure",
+        "cognitive_operations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-074",
+      "text": "Addition and subtraction create giants and miniatures",
+      "chapter": "Exercises for the Imagination",
+      "concepts": [
+        "mathematical_operations",
+        "size_transformation",
+        "addition_subtraction",
+        "creative_mathematics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-075",
+      "text": "Division creates autonomous body parts while multiplication adds extra elements",
+      "chapter": "Exercises for the Imagination",
+      "concepts": [
+        "mathematical_operations",
+        "body_autonomy",
+        "element_multiplication",
+        "creative_division"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-076",
+      "text": "Mixture creates monsters and time travel expands temporal possibilities",
+      "chapter": "Exercises for the Imagination",
+      "concepts": [
+        "transformation",
+        "temporal_manipulation",
+        "creative_difficulty",
+        "alchemical_coction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-077",
+      "text": "This chapter appears to continue or repeat techniques from the previous chapter",
+      "chapter": "Techniques for the Imagination",
+      "concepts": [
+        "textual_structure",
+        "technique_repetition",
+        "narrative_continuity",
+        "methodological_approach"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-078",
+      "text": "Work directly with feelings as symbols rather than analyzing their meaning",
+      "chapter": "Therapeutic Applications",
+      "concepts": [
+        "symbolic_thinking",
+        "emotional_processing",
+        "direct_experience",
+        "meaning_interpretation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-079",
+      "text": "Transform negative sensations into positive creative imagery through alchemical visualization",
+      "chapter": "Therapeutic Applications",
+      "concepts": [
+        "transformation",
+        "creative_vision",
+        "alchemical_coction",
+        "sensation_transmutation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-080",
+      "text": "Replace victim mentality with creative self-sufficiency",
+      "chapter": "Therapeutic Applications",
+      "concepts": [
+        "mindset_transformation",
+        "self_empowerment",
+        "creative_autonomy",
+        "psychological_healing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "psychomagic-081",
+      "text": "Barriers preventing fulfillment require creative breakthrough rather than acceptance",
+      "chapter": "Therapeutic Applications",
+      "concepts": [
+        "obstacle_transcendence",
+        "creative_breakthrough",
+        "fulfillment",
+        "acceptance_rejection"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "psychomagic-ch-001",
+      "title": "Prologue",
+      "summary": "Jodorowsky introduces how his study of Mexican folk healers led to the development of Psychomagic, a therapeutic approach that uses symbolic acts instead of verbal analysis to heal psychological wounds.",
+      "claim_ids": [
+        "psychomagic-001",
+        "psychomagic-002",
+        "psychomagic-003",
+        "psychomagic-004"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-002",
+      "title": "A Portrait of the Artist in Panic Character by Interviewer Gilles Farcet",
+      "summary": "Farcet describes Jodorowsky as a 'walking psychomagic act' whose multifaceted career spans theater, film, comics, and healing, characterized by his ability to transform reality through imagination and his role as a 'sacred trickster.'",
+      "claim_ids": [
+        "psychomagic-005",
+        "psychomagic-006",
+        "psychomagic-007",
+        "psychomagic-008"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-003",
+      "title": "The Poetic Act",
+      "summary": "Jodorowsky's creative journey began with Chilean poets who lived poetically, leading him and friends to perform 'poetic acts' that challenged conventional reality through irrational but meaningful gestures.",
+      "claim_ids": [
+        "psychomagic-009",
+        "psychomagic-010",
+        "psychomagic-011",
+        "psychomagic-012"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-004",
+      "title": "The Theatrical Act",
+      "summary": "Jodorowsky evolved from poetic acts to revolutionary theater, rejecting realistic drama for metaphysical expression, ultimately creating 'ephemeral panic' performances that could only be presented once and involved the audience as participants.",
+      "claim_ids": [
+        "psychomagic-013",
+        "psychomagic-014",
+        "psychomagic-015",
+        "psychomagic-016"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-005",
+      "title": "The Oneiric Act",
+      "summary": "Through decades of lucid dreaming practice, Jodorowsky learned to consciously direct dream content, ultimately progressing from controlling dreams to simply witnessing them, and applying dream logic to interpret and transform waking reality.",
+      "claim_ids": [
+        "psychomagic-017",
+        "psychomagic-018",
+        "psychomagic-019",
+        "psychomagic-020"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-006",
+      "title": "The Magic Act",
+      "summary": "Jodorowsky's encounter with Mexican sorcery, particularly the healer Pachita, taught him that symbolic language directly affects the unconscious, leading him to develop Psychomagic as a non-superstitious application of magical principles.",
+      "claim_ids": [
+        "psychomagic-021",
+        "psychomagic-022",
+        "psychomagic-023",
+        "psychomagic-024"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-007",
+      "title": "The Psychomagic Act",
+      "summary": "Psychomagic developed from tarot readings when Jodorowsky realized that awareness alone doesn't heal - concrete symbolic actions are needed, prescribed with full understanding rather than superstitious belief.",
+      "claim_ids": [
+        "psychomagic-025",
+        "psychomagic-026",
+        "psychomagic-027",
+        "psychomagic-028"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-008",
+      "title": "Examples of Psychomagic Acts",
+      "summary": "Jodorowsky provides specific examples of psychomagic prescriptions, showing how simple symbolic acts address complex psychological problems by speaking directly to the unconscious through metaphorical language.",
+      "claim_ids": [
+        "psychomagic-029",
+        "psychomagic-030",
+        "psychomagic-031"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-009",
+      "title": "Psychomagic Letters",
+      "summary": "Letters from clients reporting their psychomagic experiences reveal how symbolic acts produce profound transformations, from overcoming writer's block to healing racial complexes to resolving relationship traumas.",
+      "claim_ids": [
+        "psychomagic-032",
+        "psychomagic-033",
+        "psychomagic-034",
+        "psychomagic-035"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-010",
+      "title": "From Imagination to Power",
+      "summary": "Jodorowsky concludes that Psychomagic is fundamentally about teaching people to use their imagination therapeutically, recognizing imagination as the key to expanded consciousness and true freedom.",
+      "claim_ids": [
+        "psychomagic-036",
+        "psychomagic-037",
+        "psychomagic-038",
+        "psychomagic-039"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-011",
+      "title": "A Synthesis of Experiences by Interviewer Javier Esteban",
+      "summary": "Spanish interviewer Esteban describes the telepathic intensity of interviewing Jodorowsky and positions the book as lessons for a new generation of 'mutants' seeking consciousness transformation beyond traditional religious frameworks.",
+      "claim_ids": [
+        "psychomagic-040",
+        "psychomagic-041",
+        "psychomagic-042",
+        "psychomagic-043"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-012",
+      "title": "Keys to the Soul",
+      "summary": "Jodorowsky explains various techniques for accessing higher consciousness including dream work, art therapy, language transformation, psychedelic experiences, and tarot reading, emphasizing practical methods over theoretical knowledge.",
+      "claim_ids": [
+        "psychomagic-044",
+        "psychomagic-045",
+        "psychomagic-046",
+        "psychomagic-047",
+        "psychomagic-048"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-013",
+      "title": "The Trail of Life",
+      "summary": "Jodorowsky discusses how we can transcend our origins and conditioning through conscious choice rather than destiny, emphasizing the need to transform rather than discard what we've received while recognizing different levels of consciousness in society.",
+      "claim_ids": [
+        "psychomagic-049",
+        "psychomagic-050",
+        "psychomagic-051",
+        "psychomagic-052"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-014",
+      "title": "The Invisible Bridge",
+      "summary": "Jodorowsky explores the nature of human freedom, consciousness mutation, and spiritual development, arguing that we are evolving beings creating multiple possible futures while developing new capacities like a potential fourth brain.",
+      "claim_ids": [
+        "psychomagic-053",
+        "psychomagic-054",
+        "psychomagic-055",
+        "psychomagic-056"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-015",
+      "title": "Visions",
+      "summary": "Jodorowsky envisions the future transformation of humanity through technological advancement, genetic modification, and spiritual evolution, while critiquing current religious institutions as outdated obstacles to human development.",
+      "claim_ids": [
+        "psychomagic-057",
+        "psychomagic-058",
+        "psychomagic-059",
+        "psychomagic-060"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-016",
+      "title": "The Art of Healing",
+      "summary": "Jodorowsky explains his therapeutic approach emphasizing that illness represents unresolved psychological problems, healing requires creative symbolic acts, and conventional medicine must integrate psychological understanding with physical treatment.",
+      "claim_ids": [
+        "psychomagic-061",
+        "psychomagic-062",
+        "psychomagic-063",
+        "psychomagic-064"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-017",
+      "title": "Understanding Life",
+      "summary": "Jodorowsky presents life as miraculous diversity unified by secret connections, emphasizing the need for purpose, creative transformation of suffering, and recognition that reality is a collaborative dream requiring conscious participation.",
+      "claim_ids": [
+        "psychomagic-065",
+        "psychomagic-066",
+        "psychomagic-067",
+        "psychomagic-068"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-018",
+      "title": "An Accelerated Course in Creativity",
+      "summary": "Jodorowsky traces the historical development of human imagination from plant and animal incorporation through cosmic rhythms to modern technological consciousness, arguing that creativity requires breaking free from rational and moral limitations.",
+      "claim_ids": [
+        "psychomagic-069",
+        "psychomagic-070",
+        "psychomagic-071",
+        "psychomagic-072"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-019",
+      "title": "Exercises for the Imagination",
+      "summary": "Jodorowsky outlines basic techniques for developing imagination using mathematical-like operations of addition, subtraction, multiplication, division, and mixture to transform any ordinary element into fantastical creative material.",
+      "claim_ids": [
+        "psychomagic-073",
+        "psychomagic-074",
+        "psychomagic-075",
+        "psychomagic-076"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-020",
+      "title": "Techniques for the Imagination",
+      "summary": "This appears to be a duplicate or continuation of the previous chapter about imagination techniques, so the content is covered in the previous chapter summary.",
+      "claim_ids": [
+        "psychomagic-077"
+      ]
+    },
+    {
+      "id": "psychomagic-ch-021",
+      "title": "Therapeutic Applications",
+      "summary": "Jodorowsky demonstrates how to apply imagination techniques therapeutically by working directly with clients' metaphorical descriptions of their feelings, transforming distressing sensations into healing imagery through creative visualization.",
+      "claim_ids": [
+        "psychomagic-078",
+        "psychomagic-079",
+        "psychomagic-080",
+        "psychomagic-081"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 81,
+    "chapter_count": 21,
+    "indexed_at": "2026-01-22T19:48:51.231692Z"
+  }
+}

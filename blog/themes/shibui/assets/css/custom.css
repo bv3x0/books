@@ -1,0 +1,473 @@
+/* You can add custom style here */
+
+:root {
+    /* Change font from monospace to Verdana */
+    --font-family-mono: Verdana, Geneva, sans-serif;
+
+    /* Widen the main body column from 64ch (~500px) to 685px */
+    --container-width: 600px;
+}
+
+/* ============================================
+   Sticky Section Navigation Bar
+   ============================================ */
+
+.sticky-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: hsla(var(--bg-h), var(--bg-s), var(--bg-l), 0.95);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--color-border);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    transform: translateY(-100%);
+    opacity: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.sticky-nav.visible {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.sticky-nav-content {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: 0.6rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+/* Breadcrumb styling */
+.sticky-nav-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.85rem;
+    overflow: hidden;
+    flex: 1;
+    min-width: 0;
+}
+
+.breadcrumb-part,
+.breadcrumb-chapter {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    padding: 0.15rem 0.3rem;
+    border-radius: 4px;
+    transition: background-color 0.15s ease;
+    color: var(--color-text-primary);
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 0;
+}
+
+.breadcrumb-part:hover,
+.breadcrumb-chapter:hover {
+    background-color: var(--color-bg-secondary);
+}
+
+.breadcrumb-separator {
+    color: var(--color-text-muted);
+    flex-shrink: 0;
+}
+
+/* Toggle button */
+.sticky-nav-toggle {
+    background: none;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 0.35rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-muted);
+    transition: background-color 0.15s ease, color 0.15s ease;
+    flex-shrink: 0;
+}
+
+.sticky-nav-toggle:hover {
+    background-color: var(--color-bg-secondary);
+    color: var(--color-text-primary);
+}
+
+.sticky-nav-toggle[aria-expanded="true"] .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.toggle-icon {
+    transition: transform 0.2s ease;
+}
+
+/* Dropdown */
+.sticky-nav-dropdown {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    border-top: 0 solid var(--color-border);
+}
+
+.sticky-nav-dropdown[aria-hidden="false"] {
+    max-height: 60vh;
+    border-top-width: 1px;
+    overflow-y: auto;
+}
+
+.sticky-nav-toc {
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: 0.75rem 1rem 1rem;
+}
+
+.sticky-nav-toc nav {
+    max-height: 50vh;
+    overflow-y: auto;
+}
+
+.sticky-nav-toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sticky-nav-toc li {
+    margin: 0;
+    padding: 0;
+}
+
+.sticky-nav-toc a {
+    display: block;
+    padding: 0.4rem 0.5rem;
+    font-size: 0.85rem;
+    color: var(--color-text-primary);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.15s ease;
+    margin-left: 0;
+}
+
+.sticky-nav-toc a:hover {
+    background-color: var(--color-bg-secondary);
+}
+
+/* Nested TOC indentation */
+.sticky-nav-toc ul ul {
+    padding-left: 1rem;
+}
+
+.sticky-nav-toc ul ul a {
+    color: var(--color-text-muted);
+    font-size: 0.8rem;
+}
+
+.sticky-nav-toc ul ul a:hover {
+    color: var(--color-text-primary);
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+    .sticky-nav-content {
+        padding: 0.5rem 0.75rem;
+    }
+
+    .sticky-nav-breadcrumb {
+        font-size: 0.8rem;
+    }
+
+    .breadcrumb-part {
+        max-width: 40%;
+    }
+
+    .breadcrumb-chapter {
+        max-width: 50%;
+    }
+
+    .sticky-nav-toc {
+        padding: 0.5rem 0.75rem 0.75rem;
+    }
+}
+
+/* ============================================
+   Homepage Search
+   ============================================ */
+
+.search-container {
+    position: relative;
+    margin-bottom: 2rem;
+}
+
+#search-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    font-family: inherit;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: var(--color-text-muted);
+    box-shadow: 0 0 0 3px hsla(var(--bg-h), var(--bg-s), calc(var(--bg-l) - 10%), 0.1);
+}
+
+#search-input::placeholder {
+    color: var(--color-text-muted);
+}
+
+.search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-top: 1rem;
+    max-height: 70vh;
+    overflow-y: auto;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+}
+
+.search-result-book {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.search-result-book:last-child {
+    border-bottom: none;
+}
+
+.search-result-title {
+    font-weight: 600;
+    color: var(--color-text-primary);
+    text-decoration: none;
+}
+
+.search-result-title:hover {
+    text-decoration: underline;
+}
+
+.search-result-author {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+}
+
+.search-result-snippets {
+    list-style: none;
+    margin: 0.5rem 0 0 0;
+    padding: 0;
+}
+
+.search-result-snippets li {
+    margin: 0.4rem 0;
+    padding-left: 1rem;
+    position: relative;
+}
+
+.search-result-snippets li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: var(--color-text-muted);
+}
+
+.search-result-snippets a {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    text-decoration: none;
+    display: block;
+}
+
+.search-result-snippets a:hover {
+    color: var(--color-text-primary);
+}
+
+.search-result-snippets mark {
+    background-color: hsla(50, 100%, 50%, 0.35);
+    color: inherit;
+    padding: 0.1rem 0.15rem;
+    border-radius: 2px;
+}
+
+.search-no-results {
+    padding: 1rem;
+    color: var(--color-text-muted);
+    text-align: center;
+}
+
+/* ==========================================================================
+   Pagefind Search UI
+   ========================================================================== */
+
+.pagefind-ui {
+    --pagefind-ui-scale: 0.9;
+    --pagefind-ui-primary: var(--color-text-primary);
+    --pagefind-ui-text: var(--color-text-primary);
+    --pagefind-ui-background: var(--color-bg);
+    --pagefind-ui-border: var(--color-border);
+    --pagefind-ui-tag: var(--color-bg-secondary);
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 6px;
+    --pagefind-ui-font: inherit;
+}
+
+.pagefind-ui .pagefind-ui__search-input {
+    font-size: 1rem;
+}
+
+.pagefind-ui .pagefind-ui__result-link {
+    color: var(--color-text-primary);
+}
+
+.pagefind-ui .pagefind-ui__result-excerpt {
+    color: var(--color-text-muted);
+}
+
+.pagefind-ui mark {
+    background-color: hsla(50, 100%, 50%, 0.35);
+    color: inherit;
+}
+
+/* ==========================================================================
+   Deep Link Highlighting
+   ========================================================================== */
+
+/* Highlight the targeted element when navigating via anchor link */
+:target {
+    background-color: hsla(50, 100%, 50%, 0.25);
+    animation: highlight-fade 3s ease-out forwards;
+    padding: 0.25rem;
+    margin: -0.25rem;
+    border-radius: 4px;
+}
+
+@keyframes highlight-fade {
+    0% { background-color: hsla(50, 100%, 50%, 0.4); }
+    100% { background-color: transparent; }
+}
+
+/* ==========================================================================
+   Semantic Search
+   ========================================================================== */
+
+.semantic-search {
+    margin: 1rem 0 2rem;
+}
+
+#semantic-form {
+    display: flex;
+    gap: 0.5rem;
+}
+
+#semantic-q {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    font-family: inherit;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+    transition: border-color 0.15s ease;
+}
+
+#semantic-q:focus {
+    outline: none;
+    border-color: var(--color-text-muted);
+}
+
+#semantic-q::placeholder {
+    color: var(--color-text-muted);
+}
+
+#semantic-form button {
+    padding: 0.75rem 1.25rem;
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: var(--color-bg);
+    color: var(--color-text-primary);
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+#semantic-form button:hover {
+    background-color: var(--color-bg-secondary);
+    border-color: var(--color-text-muted);
+}
+
+.semantic-list {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.semantic-result {
+    margin: 0.75rem 0;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.semantic-result:hover {
+    border-color: var(--color-text-muted);
+    background-color: var(--color-bg-secondary);
+}
+
+.semantic-result a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+.result-score {
+    display: inline-block;
+    min-width: 3rem;
+    font-weight: 600;
+    color: hsla(150, 50%, 45%, 1);
+}
+
+.result-text {
+    color: var(--color-text-primary);
+    line-height: 1.5;
+}
+
+.result-meta {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+}
+
+#semantic-results .error {
+    color: hsla(0, 70%, 55%, 1);
+}
+
+/* Mobile adjustments for semantic search */
+@media (max-width: 600px) {
+    #semantic-form {
+        flex-direction: column;
+    }
+
+    #semantic-form button {
+        width: 100%;
+    }
+}

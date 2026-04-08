@@ -1,0 +1,4991 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Age of Interconnection: A Global History of the Second Half of the Twentieth Century",
+    "author": "Jonathan Sperber",
+    "year": 2023,
+    "categories": [
+      "history",
+      "political science",
+      "social science"
+    ],
+    "thesis": "The years 1945-2001 constituted an Age of Interconnection characterized by unprecedented global integration across economics, politics, culture, and technology, though this interconnection was uneven, discontinuous, and often created as many divisions as it dissolved."
+  },
+  "claims": [
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-001",
+      "text": "The second half of the twentieth century marked an unprecedented era of human environmental impact, with Paul Crutzen coining the term 'anthropocene' to describe humanity becoming the dominant force shaping the global environment",
+      "chapter": "Nature",
+      "concepts": [
+        "anthropocene",
+        "environmental_impact",
+        "global_systems",
+        "resource_exploitation"
+      ],
+      "entities": {
+        "people": [
+          "Paul Crutzen"
+        ],
+        "places": [
+          "Brazil",
+          "Indonesia",
+          "Oregon",
+          "Rwanda",
+          "Aral Sea",
+          "Cleveland",
+          "Rhine River"
+        ],
+        "events": [
+          "Neolithic Revolution",
+          "Industrial Revolution",
+          "Second Industrial Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Human population and economic activity reached levels where environmental impacts moved from local to global scale",
+          "speaker": null
+        },
+        {
+          "text": "The combination of fastest-ever population growth with fastest-ever economic growth overwhelmed traditional environmental absorption capacity",
+          "speaker": null
+        },
+        {
+          "text": "Examples ranged from DDT applications killing mosquitoes but also birds and fish, to the Aral Sea being pumped dry for cotton irrigation",
+          "speaker": null
+        },
+        {
+          "text": "Environmental changes crossed boundaries of nations, social systems, and economic development levels",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-002",
+      "text": "The postwar era treated the natural environment as an unlimited and cost-free resource, with radioactive contamination from nuclear weapons production creating the most extreme examples of environmental disregard",
+      "chapter": "Nature",
+      "concepts": [
+        "nuclear_contamination",
+        "postwar_technology",
+        "environmental_degradation",
+        "resource_exploitation"
+      ],
+      "entities": {
+        "people": [
+          "Aikichi Kuboyama"
+        ],
+        "places": [
+          "Ozersk",
+          "Hanford",
+          "Techa River",
+          "Pacific Ocean"
+        ],
+        "events": [
+          "Second World War",
+          "nuclear testing"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Nuclear weapons production at Ozersk and Hanford involved dumping millions of gallons of radioactive waste with cavalier disregard for safety",
+          "speaker": null
+        },
+        {
+          "text": "At Ozersk, 7.8 million cubic yards of toxic chemicals were dumped into the Techa River between 1949-1951, with villagers receiving a lifetime's radiation dose in a week",
+          "speaker": null
+        },
+        {
+          "text": "Nuclear testing spread radioactive fallout across the entire northern hemisphere through the atmosphere",
+          "speaker": null
+        },
+        {
+          "text": "DDT and organochloride insecticides were aerially sprayed on 100 million acres in the US in 1958, one-sixth of all cultivated land",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-003",
+      "text": "Environmental awareness exploded globally in the 1960s-70s, driven by influential books like Rachel Carson's Silent Spring and the Club of Rome's Limits to Growth, leading to new organizations, government agencies, and legislation worldwide",
+      "chapter": "Nature",
+      "concepts": [
+        "environmental_movement",
+        "public_awareness",
+        "institutional_development",
+        "environmental_legislation"
+      ],
+      "entities": {
+        "people": [
+          "Rachel Carson",
+          "Paul Ehrlich",
+          "Gaylord Nelson",
+          "Robert Poujade"
+        ],
+        "places": [
+          "Sweden",
+          "United States",
+          "Stockholm"
+        ],
+        "events": [
+          "Earth Day 1970",
+          "Stockholm Conference 1972"
+        ],
+        "works": [
+          "Silent Spring",
+          "The Population Bomb",
+          "Limits to Growth"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Environmental organization membership in the US grew sevenfold from 123,000 in 1960 to 819,000 by 1969, reaching nearly 2 million by 1983",
+          "speaker": null
+        },
+        {
+          "text": "Earth Day 1970 involved 13,000 events, 35,000 speakers, and millions of participants across the United States",
+          "speaker": null
+        },
+        {
+          "text": "Sweden established the world's first environment ministry in 1967, followed by the US EPA in 1970 and 180 environmental agencies globally by 1982",
+          "speaker": null
+        },
+        {
+          "text": "Silent Spring sold 100,000 copies in its first two months and was quoted in British Parliament debates, leading to DDT restrictions worldwide",
+          "speaker": "Carson"
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-004",
+      "text": "Three versions of Malthusian theory dominated different periods: Malthus1 (population vs food) in the postwar era, Malthus2 (exponential growth vs all resources) in the 1970s, and Malthus3 (growth undermining biospheric conditions) in the late millennium",
+      "chapter": "Nature",
+      "concepts": [
+        "malthusian_theory",
+        "resource_scarcity",
+        "population_dynamics",
+        "environmental_limits"
+      ],
+      "entities": {
+        "people": [
+          "Thomas Malthus",
+          "Fairfield Osborn",
+          "William Vogt",
+          "Julian Huxley"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Our Plundered Planet",
+          "The Road to Survival",
+          "The Hungry Planet",
+          "Limits to Growth"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Malthus1 fears of mass starvation never materialized due to the Green Revolution increasing agricultural productivity faster than population growth",
+          "speaker": null
+        },
+        {
+          "text": "Limits to Growth",
+          "speaker": "Malthus2"
+        },
+        {
+          "text": "Malthus3 emerged with climate change, where economic activity could undermine the biospheric conditions necessary for continued economic activity",
+          "speaker": null
+        },
+        {
+          "text": "The 1972 'Limits to Growth' accurately predicted 2000 atmospheric CO2 levels but treated it as just one resource problem among many",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-005",
+      "text": "Climate change and ozone depletion emerged as new, unprecedented environmental challenges in the late 20th century, characterized by global scope, lack of immediate perceptibility, and separation of causes from effects",
+      "chapter": "Nature",
+      "concepts": [
+        "climate_change",
+        "ozone_depletion",
+        "international_agreements",
+        "environmental_policy"
+      ],
+      "entities": {
+        "people": [
+          "Svente Arrhenius",
+          "Frederick Seitz",
+          "S. Fred Singer",
+          "Donald Hodel"
+        ],
+        "places": [
+          "Montreal",
+          "Kyoto"
+        ],
+        "events": [
+          "Montreal Protocol 1987",
+          "Kyoto Protocol 1997"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Montreal Protocol successfully eliminated ozone-depleting chemicals, with emissions declining 95% from the 1980s to 2012 and atmospheric concentrations falling 17-31%",
+          "speaker": null
+        },
+        {
+          "text": "Climate action failed dramatically: CO2 emissions increased at faster rates after 2000 than before, despite the Kyoto Protocol",
+          "speaker": null
+        },
+        {
+          "text": "US opposition was crucial - America led on ozone protection but blocked greenhouse gas limitations, with climate skepticism becoming a signature of right-wing politics",
+          "speaker": null
+        },
+        {
+          "text": "CFCs had many uses but substitutes existed; greenhouse gases come primarily from burning fossil fuels for energy, making alternatives much harder to find",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-006",
+      "text": "The discovery and global deployment of antimicrobial drugs between 1935-1955 fundamentally transformed medicine, with penicillin becoming the paradigmatic 'miracle drug' that emerged from wartime necessity and spread worldwide through unprecedented international cooperation",
+      "chapter": "Disease",
+      "concepts": [
+        "antimicrobial_revolution",
+        "medical_technology",
+        "global_health",
+        "wartime_innovation"
+      ],
+      "entities": {
+        "people": [
+          "Alexander Fleming",
+          "Gerhard Domagk",
+          "George Bankoff"
+        ],
+        "places": [
+          "St. Mary's Hospital London",
+          "Peoria Illinois",
+          "Nigeria"
+        ],
+        "events": [
+          "Second World War"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Penicillin production jumped from minute laboratory quantities in 1939 to 17,000 metric tons globally by 1980, enough to treat every person in the world",
+          "speaker": null
+        },
+        {
+          "text": "The WHO's anti-yaws campaign gave penicillin injections to over 43 million people, with 1.5 million Nigerians alone receiving the drug",
+          "speaker": null
+        },
+        {
+          "text": "Unlike today's rigid intellectual property regimes, penicillin manufacturing was spread liberally by victorious Allied powers and UN agencies to countries worldwide",
+          "speaker": null
+        },
+        {
+          "text": "penicillin in lipstick would prevent infection from kisses and that giving it to dictators might 'mellow their brain and subdue their evil desires'",
+          "speaker": "George Bankoff"
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-007",
+      "text": "Global life expectancy increased by over ten years between 1950-1975, with the most dramatic gains in less developed countries where infectious diseases were most prevalent, demonstrating the worldwide impact of public health measures and antimicrobials",
+      "chapter": "Disease",
+      "concepts": [
+        "epidemiological_transition",
+        "disease_eradication",
+        "global_health_campaigns",
+        "life_expectancy"
+      ],
+      "entities": {
+        "people": [
+          "Ali Maow Maalin",
+          "William Stewart"
+        ],
+        "places": [
+          "Somalia",
+          "Merca"
+        ],
+        "events": [
+          "smallpox eradication campaign"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Life expectancy rose from 47 years in 1950-55 to 58 years in 1970-75 globally, with larger increases in poorer countries",
+          "speaker": null
+        },
+        {
+          "text": "The WHO smallpox eradication campaign achieved complete success by 1977, using surveillance-and-vaccination rather than mass vaccination",
+          "speaker": null
+        },
+        {
+          "text": "The last naturally occurring smallpox case was Ali Maow Maalin in Somalia on October 30, 1977",
+          "speaker": null
+        },
+        {
+          "text": "US Surgeon General William Stewart was falsely attributed with saying it was 'time to close the book on infectious diseases' - he never said this, reflecting the era's optimism",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-008",
+      "text": "The WHO malaria eradication program failed spectacularly despite greater resources than the smallpox campaign, with malaria cases surging to unprecedented levels by 2000, particularly in Africa, due to mosquito resistance to DDT and the complex biology of the disease",
+      "chapter": "Disease",
+      "concepts": [
+        "disease_resistance",
+        "vector_control",
+        "public_health_failure",
+        "pesticide_resistance"
+      ],
+      "entities": {
+        "people": [
+          "Rachel Carson"
+        ],
+        "places": [
+          "Mexico",
+          "India",
+          "Africa"
+        ],
+        "events": [
+          "WHO malaria eradication program"
+        ],
+        "works": [
+          "Silent Spring"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "By 1968, WHO counted 45 different species of anopheles mosquito that had developed resistance to DDT",
+          "speaker": null
+        },
+        {
+          "text": "Mexico's anti-malaria campaign saw cases fall from 137/100,000 in 1955 to 10/100,000 in 1960, but malaria rebounded to over 100,000 cases yearly by the 1980s",
+          "speaker": null
+        },
+        {
+          "text": "The program ended in 1969, three years before the US banned DDT, contradicting claims that environmentalists caused the failure",
+          "speaker": null
+        },
+        {
+          "text": "India continued DDT use but saw malaria jump from near-elimination in the 1960s to 6 million cases yearly in the 1980s",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-009",
+      "text": "Tuberculosis treatment was revolutionized by multi-drug antibiotic therapy, transforming it from a chronic, often fatal disease to a curable condition, though success required strict adherence to treatment regimens that proved challenging in poorer countries",
+      "chapter": "Disease",
+      "concepts": [
+        "antibiotic_therapy",
+        "tuberculosis_treatment",
+        "multi_drug_resistance",
+        "global_health_disparities"
+      ],
+      "entities": {
+        "people": [
+          "George Orwell",
+          "Selman Waksman"
+        ],
+        "places": [
+          "Madras",
+          "Switzerland"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Multi-drug therapy using streptomycin, isoniazid, and PAS could cure tuberculosis, but required two full years of treatment initially",
+          "speaker": null
+        },
+        {
+          "text": "The 1966 introduction of rifampin enabled short course therapy of just six months, with only two months of intensive daily treatment",
+          "speaker": null
+        },
+        {
+          "text": "The 1956 Madras trials showed outpatient multi-drug therapy worked as well as sanatorium treatment",
+          "speaker": null
+        },
+        {
+          "text": "Tuberculosis sanitariums closed or were converted to heart disease hospitals or ski resorts in wealthy countries by the 1960s",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-010",
+      "text": "Noninfectious diseases like cancer and heart disease required fundamentally different approaches based on statistical risk factors rather than single causative agents, with cigarette smoking emerging as the most significant preventable risk factor, increasing cancer risk twenty-two-fold",
+      "chapter": "Disease",
+      "concepts": [
+        "risk_factors",
+        "epidemiological_methods",
+        "tobacco_consumption",
+        "chronic_disease"
+      ],
+      "entities": {
+        "people": [
+          "Robert Koch",
+          "John Charles"
+        ],
+        "places": [
+          "United States",
+          "Nazi Germany"
+        ],
+        "events": [
+          "1964 Surgeon General's report"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Unlike infectious diseases with definitive microbial causes, noninfectious diseases had multiple 'risk factors' that only showed effects statistically across large populations",
+          "speaker": null
+        },
+        {
+          "text": "The first national anti-smoking campaign occurred in Nazi Germany, which also promoted organic foods and less meat consumption",
+          "speaker": null
+        },
+        {
+          "text": "Cigarette consumption peaked in the 1990s at over 5.5 trillion per year globally - roughly 900 cigarettes for every person on Earth",
+          "speaker": null
+        },
+        {
+          "text": "Heart disease and stroke mortality rates declined by half to two-thirds in the US between 1950-2000, while cancer death rates remained essentially unchanged",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-011",
+      "text": "The global obesity epidemic emerged as a major health crisis, with obesity rates related to economic development - rare in poor countries but reaching over 20% in wealthy nations by 2008, representing a reversal where prosperity created rather than eliminated disease risk factors",
+      "chapter": "Disease",
+      "concepts": [
+        "obesity_epidemic",
+        "socioeconomic_health_patterns",
+        "nutrition_transition",
+        "chronic_disease"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States",
+          "Brazil"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "US adult obesity rates nearly doubled from 13% in the 1960s to 23% by the late 1990s, while moderate overweight remained stable",
+          "speaker": null
+        },
+        {
+          "text": "In wealthy countries, obesity became concentrated among the poor; in poor countries, it remained a marker of affluence",
+          "speaker": null
+        },
+        {
+          "text": "Brazil showed the transition: by the late 1990s, urban women in the bottom income quartile had higher obesity rates (14%) than the top quartile (9%)",
+          "speaker": null
+        },
+        {
+          "text": "Obesity caused an estimated 250,000-350,000 deaths annually in the US by 1991, representing 12-16% of all deaths",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-012",
+      "text": "AIDS emerged in the 1980s as a terrifying new disease that seemed to herald the return of infectious disease apocalypse, but ultimately remained concentrated in specific populations and regions, with Africa bearing 90% of the global burden while other regions saw declining infection rates",
+      "chapter": "Disease",
+      "concepts": [
+        "aids_pandemic",
+        "global_health_disparities",
+        "infectious_disease_resurgence",
+        "antiretroviral_therapy"
+      ],
+      "entities": {
+        "people": [
+          "Gaetan Dugas",
+          "Halfdan Mahler"
+        ],
+        "places": [
+          "Kinshasa",
+          "Haiti",
+          "Botswana",
+          "Southern Africa"
+        ],
+        "events": [
+          "AIDS pandemic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "HIV originated around 1930 in western equatorial Africa, spreading to Kinshasa in the 1960s, then globally through UN workers, tourism, and blood plasma trade",
+          "speaker": null
+        },
+        {
+          "text": "Multi-drug antiretroviral therapy from 1995 transformed AIDS from invariably fatal to a manageable chronic condition in wealthy countries",
+          "speaker": null
+        },
+        {
+          "text": "In 2004, 1 in 14 Africans aged 15-49 was HIV positive - ten to twenty times the rate on other continents",
+          "speaker": null
+        },
+        {
+          "text": "there is no homosexual in Botswana",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-013",
+      "text": "Antibiotic resistance emerged as a serious global threat by the 1980s-90s, with the development of 'superbugs' like MRSA and multi-drug-resistant tuberculosis, though these remained largely confined to healthcare settings rather than spreading to the general population",
+      "chapter": "Disease",
+      "concepts": [
+        "antibiotic_resistance",
+        "hospital_infections",
+        "drug_resistant_tuberculosis",
+        "global_health_security"
+      ],
+      "entities": {
+        "people": [
+          "Alexander Fleming",
+          "Max Finland"
+        ],
+        "places": [
+          "Netherlands",
+          "Belgium",
+          "Eastern Africa",
+          "Southern Africa"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Alexander Fleming warned of resistance in his 1945 Nobel Prize speech, and cases began appearing within years of antibiotic use",
+          "speaker": null
+        },
+        {
+          "text": "The 1980 'Statement Regarding Worldwide Antibiotic Misuse' marked international recognition of the problem",
+          "speaker": null
+        },
+        {
+          "text": "Hospital infection rates varied dramatically between neighboring countries: 0.6% MRSA in Netherlands vs 23.6% in Belgium",
+          "speaker": null
+        },
+        {
+          "text": "Multi-drug-resistant tuberculosis became especially dangerous when combined with AIDS, as in eastern and southern Africa where TB rates increased sixfold between 1980-2000",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-014",
+      "text": "Nuclear power emerged from World War II with utopian expectations of energy 'too cheap to meter' and atomic-powered transportation, but proved economically unviable and technically problematic, with the industry stagnating after the 1970s due to cost overruns and safety concerns",
+      "chapter": "Technologies",
+      "concepts": [
+        "nuclear_power",
+        "technological_expectations",
+        "energy_economics",
+        "postwar_technology"
+      ],
+      "entities": {
+        "people": [
+          "Lewis Strauss",
+          "Homi Bhabha",
+          "Anatoli Alexandrov",
+          "Kwame Nkrumah"
+        ],
+        "places": [
+          "Obninsk",
+          "Ghana",
+          "Accra",
+          "France"
+        ],
+        "events": [
+          "Second World War",
+          "Three Mile Island",
+          "Chernobyl"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "too cheap to meter",
+          "speaker": "Lewis Strauss"
+        },
+        {
+          "text": "limitless quantities of power",
+          "speaker": "Homi Bhabha"
+        },
+        {
+          "text": "Nuclear aircraft and spacecraft never flew because reactor weight and radiation shielding made them too heavy - an inconvenient fact nuclear physicists had been pointing out for years",
+          "speaker": null
+        },
+        {
+          "text": "Nuclear power's share of global electrical capacity peaked at just 11.9% in 1990, declining to 10.9% by 2000",
+          "speaker": null
+        },
+        {
+          "text": "France's nuclear program required massive government subsidies, with \u00c9lectricit\u00e9 de France becoming the third-largest borrower in US bond markets after Ford and General Motors",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-015",
+      "text": "The oil price shocks of 1973 and 1979 ended the postwar era of cheap petroleum and exposed the limitations of alternative energy sources, with solar power failing to deliver on promises despite massive investment and nuclear fusion remaining perpetually out of reach",
+      "chapter": "Technologies",
+      "concepts": [
+        "energy_crisis",
+        "alternative_energy",
+        "technological_limitations",
+        "oil_shocks"
+      ],
+      "entities": {
+        "people": [
+          "Jimmy Carter",
+          "James Schlesinger"
+        ],
+        "places": [
+          "France"
+        ],
+        "events": [
+          "oil price shocks 1973 and 1979",
+          "cold fusion claims 1989"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Global oil production fell after 1979 and didn't reach that year's level again until 1988, marking the end of exponential petroleum growth",
+          "speaker": null
+        },
+        {
+          "text": "No one can ever embargo the sun",
+          "speaker": "President Carter"
+        },
+        {
+          "text": "The French Super Phoenix fast breeder reactor operated only six months in ten years between 1986-1996 and was constantly under repair",
+          "speaker": null
+        },
+        {
+          "text": "After 60 years of research, controlled nuclear fusion remains unachieved, with 1989 'cold fusion' claims proving unreplicable",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-016",
+      "text": "Automobile ownership spread from North America to Western Europe in the 1970s but stagnated globally thereafter, with most of the world remaining far below the 250 cars per 1,000 people threshold for 'automobilization' due to economic constraints rather than technological limitations",
+      "chapter": "Technologies",
+      "concepts": [
+        "automobilization",
+        "global_inequality",
+        "transportation_technology",
+        "economic_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States",
+          "USSR",
+          "Brazil",
+          "Bras\u00edlia",
+          "East Germany",
+          "China",
+          "India"
+        ],
+        "events": [
+          "1989 border crossings"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "By 2000, only 24 countries worldwide had reached 250+ cars per 1,000 inhabitants, with none in Africa or Latin America and just one in Asia",
+          "speaker": null
+        },
+        {
+          "text": "Communist countries never prioritized private auto ownership: USSR reached only 45/1,000 in 1985, with East Germans abandoning their Trabants during 1989 border crossings",
+          "speaker": null
+        },
+        {
+          "text": "broad boulevards, no sidewalks, and a garage parking place for every single apartment",
+          "speaker": null
+        },
+        {
+          "text": "Even major developing economies lagged far behind: Argentina (146/1,000), Mexico (113/1,000), Brazil (87/1,000), China and India (7 and 6/1,000 respectively) by 2000",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-017",
+      "text": "Jet aviation revolutionized air travel in the 1960s but then stagnated, with supersonic passenger flight proving economically and environmentally unviable, while commercial jets became slower and more mundane despite technological advances",
+      "chapter": "Technologies",
+      "concepts": [
+        "aviation_technology",
+        "supersonic_transport",
+        "transportation_constraints",
+        "technological_stagnation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Britain",
+          "France",
+          "Soviet Union"
+        ],
+        "events": [
+          "1973 Paris air show crash"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Jets comprised only 12 of 4,600 commercial aircraft in 1957 but decisively outnumbered propeller planes by 1969",
+          "speaker": null
+        },
+        {
+          "text": "By 2000, 1.6 billion airline passengers flew annually - about a fourth of the world's population, exceeding automobile ownership in most countries",
+          "speaker": null
+        },
+        {
+          "text": "The Concorde operated from 1976-2003 with only 14 aircraft built, heavily subsidized and chronically underbooked due to sonic boom restrictions and fuel costs",
+          "speaker": null
+        },
+        {
+          "text": "Commercial jets traveled no faster in 2000 than in 1970, with airport security and air traffic congestion making flying generally slower than in the primitive jet age",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-018",
+      "text": "Space exploration achieved the dramatic goal of lunar landing in 1969 but then abandoned human space travel beyond low Earth orbit, with the dreams of Mars colonization defeated by the harsh realities of physics, biology, and the hostile space environment",
+      "chapter": "Technologies",
+      "concepts": [
+        "space_exploration",
+        "physics_limitations",
+        "human_spaceflight",
+        "technological_dreams"
+      ],
+      "entities": {
+        "people": [
+          "Yuri Gagarin",
+          "John Glenn",
+          "Carl Sagan",
+          "Konstantin Tsiolkovsky"
+        ],
+        "places": [
+          "Moon",
+          "Mars",
+          "Venus",
+          "Kolkata"
+        ],
+        "events": [
+          "Sputnik 1957",
+          "Apollo 11 1969",
+          "Viking landings 1976"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The fuel requirements for space travel follow the Tsiolkovsky Equation: each ton of fuel for the Apollo lunar lander required 1,544 tons of fuel to lift from Earth's surface",
+          "speaker": null
+        },
+        {
+          "text": "Venus proved to have 800\u00b0F surface temperatures and sulfuric acid clouds, while Mars had no life, little atmosphere, and subzero temperatures with no surface water",
+          "speaker": null
+        },
+        {
+          "text": "Humans in space face muscle deterioration, cardiac problems, and extreme radiation bursts that would be fatal on long missions beyond Earth's magnetic field",
+          "speaker": null
+        },
+        {
+          "text": "One astronaut on a three-year Mars mission would require 3.837 metric tons of oxygen, water, and food - more mass than most satellites",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-019",
+      "text": "The Green Revolution emerged as the most important but least celebrated technological achievement of the era, tripling wheat yields and doubling corn and rice production globally, preventing mass starvation as world population tripled between 1950-2000",
+      "chapter": "Technologies",
+      "concepts": [
+        "agricultural_revolution",
+        "crop_breeding",
+        "food_security",
+        "population_growth"
+      ],
+      "entities": {
+        "people": [
+          "Norman Borlaug",
+          "Henry Wallace",
+          "Yuan Lonping",
+          "Trofim Lysenko"
+        ],
+        "places": [
+          "Mexico",
+          "India",
+          "Pakistan",
+          "Philippines",
+          "China"
+        ],
+        "events": [
+          "Green Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Norman Borlaug's wheat breeding program helped Mexico transform from major importer to exporter, with yields increasing ninefold in the second half of the 20th century",
+          "speaker": null
+        },
+        {
+          "text": "US corn yields rose from 40% higher in the 1940s than 1930s to 4.5 times 1930s levels by the 1990s, while planted acreage declined 15%",
+          "speaker": null
+        },
+        {
+          "text": "High-yield varieties spread globally in the 1960s-70s except in communist countries and Africa, with China using 30,000 people to hand-pollinate rice crops",
+          "speaker": null
+        },
+        {
+          "text": "Borlaug won the 1970 Nobel Peace Prize, but critics condemned the Green Revolution as American imperialism that increased inequality and environmental damage",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-020",
+      "text": "Microelectronics followed a unique trajectory from postwar military applications through the 'productivity paradox' of the 1980s to the revolutionary emergence of personal computers and the Internet in the final years of the century",
+      "chapter": "Technologies",
+      "concepts": [
+        "microelectronics",
+        "computer_revolution",
+        "internet_development",
+        "technological_diffusion"
+      ],
+      "entities": {
+        "people": [
+          "Walter Schottky",
+          "William Shockley",
+          "John Bardeen",
+          "Walter Brittain",
+          "Gordon Moore",
+          "Robert Solow",
+          "Tim Berners-Lee"
+        ],
+        "places": [
+          "Bell Labs",
+          "Silicon Valley",
+          "East Asia",
+          "CERN Switzerland"
+        ],
+        "events": [
+          "transistor invention 1947",
+          "Internet development",
+          "tech bubble 2000"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The transistor was invented at Bell Labs in 1947 but AT&T licensed it to all comers for just $25,000, reflecting pre-globalization business attitudes",
+          "speaker": null
+        },
+        {
+          "text": "computers were 'everywhere but in the productivity statistics'",
+          "speaker": "Robert Solow"
+        },
+        {
+          "text": "Moore's Law enabled personal computers with graphical user interfaces to become consumer durables, shifting production from US dominance (80% in 1985) to East Asian leadership (47% by 2000)",
+          "speaker": null
+        },
+        {
+          "text": "The World Wide Web emerged very late: only 16 million Internet users (0.5% of global population) in 1995, exploding to 361 million by 2000 - a 22-fold increase in five years",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-021",
+      "text": "The Bretton Woods Conference of 1944 created a new international financial architecture based on fixed exchange rates linked to the US dollar and gold, establishing institutions like the IMF and World Bank that facilitated the fastest economic growth in human history through 1973",
+      "chapter": "Markets",
+      "concepts": [
+        "bretton_woods_system",
+        "international_finance",
+        "economic_development",
+        "currency_systems"
+      ],
+      "entities": {
+        "people": [
+          "John Maynard Keynes",
+          "Dean Acheson",
+          "Harry Dexter White"
+        ],
+        "places": [
+          "Bretton Woods",
+          "New Hampshire"
+        ],
+        "events": [
+          "Bretton Woods Conference 1944"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "John Maynard Keynes accused Americans of hiding plans for economic domination in legal verbiage while Americans suspected Keynes of manipulating proceedings through rapid-fire references to obscure sections",
+          "speaker": null
+        },
+        {
+          "text": "Harry Dexter White's victory over Keynes established the dollar as the global currency, ironically advancing US interests despite White being a Soviet agent",
+          "speaker": null
+        },
+        {
+          "text": "Fixed exchange rates at $35 per ounce of gold created predictable international trade conditions that avoided the economic chaos of the interwar period",
+          "speaker": null
+        },
+        {
+          "text": "Global per capita GDP growth averaged 2.92% annually from 1950-73, the fastest rate in human history and never achieved since",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-022",
+      "text": "Both communist central planning and capitalist markets were heavily regulated in the postwar era, with communist countries using complex material balance calculations while capitalist nations administered prices, routes, and financial transactions through extensive bureaucracies",
+      "chapter": "Markets",
+      "concepts": [
+        "central_planning",
+        "market_regulation",
+        "administrative_capitalism",
+        "economic_systems"
+      ],
+      "entities": {
+        "people": [
+          "Leonid Kantorovich"
+        ],
+        "places": [
+          "USSR",
+          "United States",
+          "West Germany",
+          "United Kingdom"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The USSR's annual industrial plan required 70 volumes and 12,000 pages to coordinate 30,000 commodities, calculated primarily using the abacus through the 1950s",
+          "speaker": null
+        },
+        {
+          "text": "US regulation was pervasive: the Federal Communications Commission set telephone rates, Civil Aeronautics Board assigned air routes and fares, and state 'fair-trade laws' allowed manufacturers to set binding retail prices",
+          "speaker": null
+        },
+        {
+          "text": "West Germany required guild membership and permission to operate crafts businesses, a Nazi-era regulation abolished by occupying powers but triumphantly reinstated in 1953",
+          "speaker": null
+        },
+        {
+          "text": "Exchange controls were so extensive that the Bank of England's Exchange Control division employed 1,600 people in 1950 - a quarter of the bank's entire staff",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-023",
+      "text": "Import Substitution Industrialization (ISI) emerged as a 'Third Way' economic model, with Argentine economist Ra\u00fal Prebisch arguing that developing countries needed government intervention to break free from their role as raw material exporters in the global economic system",
+      "chapter": "Markets",
+      "concepts": [
+        "import_substitution",
+        "development_economics",
+        "center_periphery_theory",
+        "economic_nationalism"
+      ],
+      "entities": {
+        "people": [
+          "Ra\u00fal Prebisch",
+          "Jacob Viner",
+          "Jawaharlal Nehru",
+          "Juan Peron"
+        ],
+        "places": [
+          "Argentina",
+          "Brazil",
+          "India"
+        ],
+        "events": [],
+        "works": [
+          "Havana Manifesto 1949"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "an economic firmament with a sun composed of developed economies at the center, around which peripheral countries rotate in their disorganized orbits",
+          "speaker": "Prebisch"
+        },
+        {
+          "text": "malignant fantasies, distorted historical conjecture and simplistic hypotheses",
+          "speaker": "Jacob Viner"
+        },
+        {
+          "text": "ISI was essentially capitalist despite socialist rhetoric: manufacturing firms remained privately owned, with businessmen making deals with government for import licenses and monopoly positions",
+          "speaker": null
+        },
+        {
+          "text": "Nehru's planning commission had no real planning power, with individual agencies making ad hoc arrangements with favored businesses",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-024",
+      "text": "The economic miracle of 1950-73 ended abruptly with the Nixon administration's 1971 decision to float the dollar, inaugurating an era of currency speculation that grew to $1.3 trillion daily by 1998 and transformed international finance",
+      "chapter": "Markets",
+      "concepts": [
+        "currency_deregulation",
+        "financial_speculation",
+        "balance_of_payments",
+        "eurodollar_market"
+      ],
+      "entities": {
+        "people": [
+          "Richard Nixon",
+          "John Connally",
+          "Milton Friedman",
+          "George Shultz"
+        ],
+        "places": [
+          "United States",
+          "Japan",
+          "Europe"
+        ],
+        "events": [
+          "Nixon shock 1971",
+          "floating of dollar"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Foreign currency trading increased almost 100-fold between 1973-1998, reaching levels where a few months of trading exceeded the entire world's annual GDP",
+          "speaker": null
+        },
+        {
+          "text": "The 'Nixon shock' destroyed Japan's confidence in fixed exchange rates permanently, while balance-of-payments problems spread from small countries to the US itself",
+          "speaker": null
+        },
+        {
+          "text": "Floating currencies created new problems: Herstatt Bank and Franklin National Bank collapsed within a year due to currency speculation losses",
+          "speaker": null
+        },
+        {
+          "text": "The eurodollar market exploded from $7 billion in 1963 to $57 billion by 1970 as unrepatriated dollars accumulated in European banks",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-025",
+      "text": "The oil price shocks of 1973 and 1979 catalyzed the transformation from regulated to market-based economics by creating inflation that made price controls unsustainable and generating massive capital flows that required new financial instruments",
+      "chapter": "Markets",
+      "concepts": [
+        "oil_shocks",
+        "petrodollar_recycling",
+        "financial_crisis",
+        "inflation_economics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "OPEC countries",
+          "Nigeria",
+          "Indonesia",
+          "Lagos"
+        ],
+        "events": [
+          "oil price shocks 1973 and 1979",
+          "cement armada 1975"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "OPEC rejected fixed-price contracts in favor of market pricing, with the Nymex introducing oil futures trading in 1983 to complete petroleum's transformation into a fluctuating commodity",
+          "speaker": null
+        },
+        {
+          "text": "Petrodollar recycling involved $200 billion in loans to oil-importing developing countries between 1974-1980, creating the debt crisis and 'lost decade' of the 1980s",
+          "speaker": null
+        },
+        {
+          "text": "Nigeria exemplified oil wealth mismanagement with $63 billion in capital flight and the absurd 'cement armada' of 1975 when 16 million tons clogged Lagos harbor",
+          "speaker": null
+        },
+        {
+          "text": "Inflation undermined regulated systems by making cost pass-throughs politically and economically impossible when prices rose at double-digit annual rates",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-026",
+      "text": "Shipping containerization revolutionized global trade by making freight movement faster, cheaper, and simpler, enabling the globalization of manufacturing where multinational enterprises could divide production across countries to exploit cost advantages",
+      "chapter": "Markets",
+      "concepts": [
+        "containerization",
+        "global_manufacturing",
+        "supply_chains",
+        "multinational_enterprises"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "global ports",
+          "Taiwan",
+          "China",
+          "Japan"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Container capacity increased to 10 million tons by 1980, with harbors worldwide rebuilt and 1,000 new specialized ships constructed",
+          "speaker": null
+        },
+        {
+          "text": "As late as 1968, 89% of US multinational output was sold in the country where it was produced, but containerization enabled global supply chains",
+          "speaker": null
+        },
+        {
+          "text": "The Barbie doll exemplified globalized production: nylon hair from Japan, plastic from Taiwan, pigments from the US, cotton clothing from China, assembled using Japanese and European machines",
+          "speaker": null
+        },
+        {
+          "text": "By 2000, multinational enterprises accounted for two-thirds of global exports, with 40% of international commerce being 'intra-firm trade' between divisions of the same company",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-027",
+      "text": "The East Asian model of Export-Led Industrialization (ELI) emerged as the most successful economic strategy of the late 20th century, using government intervention to promote exports while forcing domestic manufacturers to compete in international markets",
+      "chapter": "Markets",
+      "concepts": [
+        "export_led_industrialization",
+        "east_asian_model",
+        "industrial_policy",
+        "economic_development"
+      ],
+      "entities": {
+        "people": [
+          "Park Chung Hee"
+        ],
+        "places": [
+          "South Korea",
+          "Taiwan",
+          "Malaysia",
+          "Thailand",
+          "China"
+        ],
+        "events": [
+          "Park's coup 1961"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "South Korea transformed from one of the world's poorest countries in 1960 (below Somalia's per capita GDP) to affluent nation status by 2000 through 9% annual growth over three decades",
+          "speaker": null
+        },
+        {
+          "text": "General Park Chung Hee began his rule by arresting chaebol leaders and putting Samsung's head on trial, then worked closely with businessmen to develop state-guided capitalism",
+          "speaker": null
+        },
+        {
+          "text": "ELI differed from ISI by requiring exporters to compete on quality and price in advanced country markets rather than serving captive domestic markets",
+          "speaker": null
+        },
+        {
+          "text": "The model worked precisely because other countries accepted East Asian exports - had they all restricted imports, no one would have achieved rapid growth",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-028",
+      "text": "The Washington Consensus of the 1990s promoted deregulation, privatization, and openness to capital flows as universal prescriptions for economic growth, but its success depended on informal reregulation through institutions like the G-7 and regional currency arrangements",
+      "chapter": "Markets",
+      "concepts": [
+        "washington_consensus",
+        "financial_crisis",
+        "market_fundamentalism",
+        "global_integration"
+      ],
+      "entities": {
+        "people": [
+          "Margaret Thatcher",
+          "John Williamson",
+          "Myron Scholes",
+          "Robert Merton",
+          "George Soros"
+        ],
+        "places": [
+          "Plaza Hotel New York",
+          "Mexico",
+          "East Asia",
+          "Russia"
+        ],
+        "events": [
+          "Plaza Accords 1985",
+          "LTCM collapse 1998"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "TINA - there is no alternative",
+          "speaker": "Margaret Thatcher"
+        },
+        {
+          "text": "The Plaza Accords of 1985 required coordinated intervention to prevent dollar collapse, contradicting claims that floating currencies automatically adjusted",
+          "speaker": null
+        },
+        {
+          "text": "Multiple financial crises (Mexico 1994, East Asia 1997, Russia 1998) demonstrated the problems of 'la bicicleta financiera' - capital inflows that appreciate currencies and worsen trade balances",
+          "speaker": null
+        },
+        {
+          "text": "Long Term Capital Management's 1998 collapse despite Nobel Prize-winning theories showed how global market interconnection eliminated diversification benefits",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-029",
+      "text": "The Age of Great Trans-Atlantic Migration (1820-1920) was characterized by temporary, reversible movement, with most migrants being single young men who worked for a few years before returning home, contrary to American perceptions of permanent settlement",
+      "chapter": "Migrations",
+      "concepts": [
+        "temporary_migration",
+        "seasonal_labor",
+        "return_migration",
+        "gender_demographics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States",
+          "Argentina",
+          "Brazil",
+          "Manchuria",
+          "Southeast Asia"
+        ],
+        "events": [
+          "Great Trans-Atlantic Migration 1820-1920"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Between 1890 and 1920, 12.6 million people moved from India and China to Southeast Asia, but 11.9 million returned home",
+          "speaker": null
+        },
+        {
+          "text": "From 1857-1914 in Argentina, people leaving the country amounted to 43% of those arriving",
+          "speaker": null
+        },
+        {
+          "text": "The 'swallows' included Chinese laborers working seasonal harvests in Manchuria and Sicilians working wheat harvests in both Argentina and Sicily",
+          "speaker": null
+        },
+        {
+          "text": "About 60-70% of immigrants to the US and Argentina were men, with the proportion actually increasing toward 1914",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-030",
+      "text": "The First World War and its aftermath completely destroyed the pre-1914 global migration system through legal restrictions, new borders, and changed attitudes, leading to the creation of the modern refugee as a new category of forced migration",
+      "chapter": "Migrations",
+      "concepts": [
+        "border_controls",
+        "refugee_creation",
+        "passport_systems",
+        "empire_collapse"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "Vienna",
+          "Galicia",
+          "Shanghai",
+          "Paris"
+        ],
+        "events": [
+          "World War I",
+          "Johnson-Reed Act 1924",
+          "Russian Civil War"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The 1924 Johnson-Reed Act limited European immigration to the US through national quotas that excluded eastern and southern Europeans",
+          "speaker": null
+        },
+        {
+          "text": "The breakup of European empires created new borders requiring passports and visas, unlike the pre-1914 period",
+          "speaker": null
+        },
+        {
+          "text": "The first massive refugee movements included 75,000 fleeing to Vienna from Russian occupation of Galicia and 1.6 million Russians scattered from Shanghai to Paris during the civil war",
+          "speaker": null
+        },
+        {
+          "text": "By summer 1945, there may have been 60 million refugees and displaced persons in Europe including the USSR",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-031",
+      "text": "Post-1945 refugee movements created by partition and decolonization involved unprecedented violence and displacement, with 15 million refugees from Indian partition in 1947 alone representing 'the largest and most violent coerced migration in human history'",
+      "chapter": "Migrations",
+      "concepts": [
+        "partition_violence",
+        "ethnic_cleansing",
+        "stateless_refugees",
+        "decolonization_trauma"
+      ],
+      "entities": {
+        "people": [
+          "Sir Cyril Radcliffe",
+          "Kathryn Hulme"
+        ],
+        "places": [
+          "India",
+          "Pakistan",
+          "Palestine",
+          "Eastern Europe"
+        ],
+        "events": [
+          "Indian Partition 1947",
+          "Palestinian Nakba 1948"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "had never been to South Asia before",
+          "speaker": "Sir Cyril Radcliffe"
+        },
+        {
+          "text": "out-of-date maps and faulty census returns",
+          "speaker": "Sir Cyril Radcliffe"
+        },
+        {
+          "text": "refugees without any refuge",
+          "speaker": null
+        },
+        {
+          "text": "12-14 million ethnic Germans were expelled from Eastern Europe, with as many as 2 million dying during the expulsions",
+          "speaker": null
+        },
+        {
+          "text": "become the accustomed ailment of the century",
+          "speaker": "Kathryn Hulme"
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-032",
+      "text": "The Great Trans-Mediterranean Migration of the 1960s transformed Northern Europe through guest worker programs, but demographic normalization turned temporary laborers into permanent residents with families, creating new ethnic minorities despite government intentions",
+      "chapter": "Migrations",
+      "concepts": [
+        "guest_worker_programs",
+        "demographic_normalization",
+        "permanent_settlement",
+        "labor_shortage"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Northern Europe",
+          "Switzerland",
+          "West Germany",
+          "Mediterranean Basin"
+        ],
+        "events": [
+          "Trans-Mediterranean Migration 1960s"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Foreign residents in seven Northern European countries grew from 5 million in 1950 to 13 million by 1974",
+          "speaker": null
+        },
+        {
+          "text": "By 1973, immigrants made up 30% of Switzerland's labor force, 12% of West Germany's, representing an eightfold increase in Germany since 1960",
+          "speaker": null
+        },
+        {
+          "text": "Demographic normalization occurred as single men were joined by families, transforming the migrant population's age and gender composition",
+          "speaker": null
+        },
+        {
+          "text": "\u00dcberfremdung (swamped by foreigners) captured growing hostility toward permanent settlement",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-033",
+      "text": "Japan's exceptional resistance to immigration, maintaining only 1% foreign population by 2000, demonstrated that demographic pressures and economic needs do not automatically lead to migration acceptance, with the country choosing robots over caregivers for its aging population",
+      "chapter": "Migrations",
+      "concepts": [
+        "ethnic_homogeneity",
+        "immigration_resistance",
+        "demographic_challenges",
+        "cultural_identity_protection"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan",
+          "Brazil"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Japan had 1.5 million foreigners in 2000, barely 1% of population, far below other affluent countries",
+          "speaker": null
+        },
+        {
+          "text": "old-comers (\u014drudokam\u0101)",
+          "speaker": null
+        },
+        {
+          "text": "culturally Brazilian",
+          "speaker": null
+        },
+        {
+          "text": "just another kind of gaijin (foreigner)",
+          "speaker": null
+        },
+        {
+          "text": "grim determination to prevent aliens from threatening its ethnic identity",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-034",
+      "text": "The Hart-Cellar Immigration Act of 1965 and similar laws in Canada and Australia replaced racist national quotas with family reunification and skills criteria, inadvertently creating massive new migration flows from Asia and Latin America that transformed these societies",
+      "chapter": "Migrations",
+      "concepts": [
+        "immigration_law_reform",
+        "family_reunification",
+        "unintended_consequences",
+        "demographic_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States",
+          "Canada",
+          "Australia"
+        ],
+        "events": [
+          "Hart-Cellar Act 1965",
+          "Canadian Immigration Act 1976"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "symbolic gesture",
+          "speaker": null
+        },
+        {
+          "text": "Legal immigration to the US rose from under 300,000 in the 1960s to 9.78 million in the 1990s, setting new records",
+          "speaker": null
+        },
+        {
+          "text": "Asian immigrants shifted from 1/7 of US immigrants in 1965 to 1/3 by 2000, while European share reversed from 1/3 to much smaller proportions",
+          "speaker": null
+        },
+        {
+          "text": "Family reunification provisions encouraged permanent settlement rather than temporary labor migration",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-035",
+      "text": "By 2000, global remittances totaled $120 billion, triple the 1988 amount, creating new financial networks through informal systems like hawala and ethnic businesses that connected migrant communities across continents",
+      "chapter": "Migrations",
+      "concepts": [
+        "remittance_flows",
+        "informal_finance",
+        "transnational_economics",
+        "technological_adaptation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Remittances flowed from wealthier to poorer countries, amounting to three times official foreign aid",
+          "speaker": null
+        },
+        {
+          "text": "Most money traveled through informal routes: carried by hand, ethnic stores, or the hawala currency transfer network",
+          "speaker": null
+        },
+        {
+          "text": "Western Union became the world's leading money transfer business with 170,000 agents worldwide, handling 25% of global remittance traffic",
+          "speaker": null
+        },
+        {
+          "text": "The company successfully transitioned from telegraph technology to electronic funds transfer serving migrants",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-036",
+      "text": "The Cold War was fundamentally different from previous great power conflicts because it was fought primarily through culture, sports, and consumer goods rather than direct military confrontation, with 'soft power' proving decisive in determining the ultimate outcome",
+      "chapter": "The Powers",
+      "concepts": [
+        "soft_power_competition",
+        "cultural_warfare",
+        "consumer_capitalism",
+        "ideological_conflict"
+      ],
+      "entities": {
+        "people": [
+          "Rudolf Nureyev",
+          "Mikhail Baryshnikov",
+          "Mikhail Gorbachev",
+          "Raisa Gorbachev",
+          "Pablo Picasso"
+        ],
+        "places": [
+          "Italy"
+        ],
+        "events": [],
+        "works": [
+          "Encounter magazine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Competition involved which countries could field better soccer teams, win Olympic gold medals, and produce more luxurious consumer goods",
+          "speaker": null
+        },
+        {
+          "text": "defected",
+          "speaker": null
+        },
+        {
+          "text": "Misha, why do we live worse than they do?",
+          "speaker": "Raisa Gorbachev"
+        },
+        {
+          "text": "The CIA funded Encounter magazine while Pablo Picasso depicted US troops murdering civilians for the communist side",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-037",
+      "text": "Divided nations like Germany, China, Korea, and Vietnam became Cold War laboratories where each side claimed to represent the authentic nation while denouncing opponents as foreign puppets, with outcomes determined by economic prosperity and military effectiveness rather than ideological legitimacy",
+      "chapter": "The Powers",
+      "concepts": [
+        "divided_nations",
+        "legitimacy_competition",
+        "economic_development",
+        "proxy_conflicts"
+      ],
+      "entities": {
+        "people": [
+          "Hans Globke",
+          "Willy Brandt"
+        ],
+        "places": [
+          "East Germany",
+          "West Germany",
+          "North Korea",
+          "South Korea",
+          "Vietnam"
+        ],
+        "events": [
+          "German reunification 1990",
+          "Korean War",
+          "Vietnam War"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "East Germany played its only card as an 'anti-fascist' regime led by Nazi opponents, contrasting with West German leaders like Hans Globke who wrote commentary on the Nuremberg laws",
+          "speaker": null
+        },
+        {
+          "text": "West German 'Ostpolitik' of the 1970s sought to achieve reunification through cooperation rather than confrontation",
+          "speaker": null
+        },
+        {
+          "text": "South Korea's per capita GDP became nine times that of North Korea by 1990, deciding the competition to represent the Korean nation",
+          "speaker": null
+        },
+        {
+          "text": "Vietnam was the only divided nation decided by military victory, with massive environmental and human costs",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-038",
+      "text": "The Global Realignment Struggle represented formerly colonized peoples' attempt to overturn European dominance established between 1550-1800, taking different ideological forms from nationalism to socialism to Islamism while consistently challenging Western power structures",
+      "chapter": "The Powers",
+      "concepts": [
+        "decolonization",
+        "racial_solidarity",
+        "economic_realignment",
+        "third_world_formation"
+      ],
+      "entities": {
+        "people": [
+          "W.E.B. DuBois",
+          "Lord Caradon"
+        ],
+        "places": [
+          "Bandung"
+        ],
+        "events": [
+          "Bandung Conference 1955"
+        ],
+        "works": [
+          "The Souls of Black Folk"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "the problem of the twentieth century is the problem of the color-line",
+          "speaker": "W.E.B. DuBois"
+        },
+        {
+          "text": "The 1955 Bandung Conference brought together representatives of 28 countries in the 'first international conference of colored peoples in history'",
+          "speaker": null
+        },
+        {
+          "text": "a division of the world on racial issues with all the Africans and Asians and Russians on one side",
+          "speaker": "Lord Caradon"
+        },
+        {
+          "text": "The struggle continued after decolonization through demands for a 'New International Economic Order' and control of raw materials",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-039",
+      "text": "The Cuban Revolution of 1958 transformed the Global Realignment Struggle by creating the first communist state outside Eurasia and promoting a 'youthful, dynamic, sexy, and rather nonwhite' model of revolution that connected Latin America to the Third World movement",
+      "chapter": "The Powers",
+      "concepts": [
+        "revolutionary_export",
+        "third_world_solidarity",
+        "anti_imperialism",
+        "proxy_revolution"
+      ],
+      "entities": {
+        "people": [
+          "Fidel Castro",
+          "Che Guevara",
+          "Gamal Abd al-Nasir"
+        ],
+        "places": [
+          "Cuba",
+          "Havana",
+          "Congo",
+          "Bolivia"
+        ],
+        "events": [
+          "Cuban Revolution 1958",
+          "Tricontinental Congress 1967"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The 1967 Tricontinental Congress in Havana brought Latin America into the Third World for the first time",
+          "speaker": null
+        },
+        {
+          "text": "the USSR was the 'natural ally' of nonaligned states",
+          "speaker": "Cuba"
+        },
+        {
+          "text": "Che Guevara's failed revolutionary attempts in Congo and Bolivia showed the limits of exporting Cuban-style revolution",
+          "speaker": null
+        },
+        {
+          "text": "Tarzan: a white man coming among black men, leading them and protecting them",
+          "speaker": "Nasser"
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-040",
+      "text": "The Vietnam War represented America's catastrophic misapplication of European Cold War lessons to the Global Realignment Struggle, with the US treating the conflict as containing Soviet expansion while Vietnamese communists fought for genuine national liberation with massive popular support",
+      "chapter": "The Powers",
+      "concepts": [
+        "counterinsurgency",
+        "national_liberation",
+        "strategic_miscalculation",
+        "imperial_overstretch"
+      ],
+      "entities": {
+        "people": [
+          "Le Duan",
+          "Ho Chi Minh",
+          "Vo Nguyen Giap"
+        ],
+        "places": [
+          "Vietnam",
+          "Indonesia"
+        ],
+        "events": [
+          "Vietnam War 1965-1975",
+          "Indonesian communist massacre 1965"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The 'domino theory' justification was undercut when the real threat in Indonesia was eliminated by the 1965 communist massacre before major US escalation in Vietnam",
+          "speaker": null
+        },
+        {
+          "text": "a former clerk in the French colonial railways",
+          "speaker": "Le Duan"
+        },
+        {
+          "text": "strategic hamlets,' Agent Orange, napalm, and 'free-fire zones' that were 'profoundly destructive to America's position in the world",
+          "speaker": null
+        },
+        {
+          "text": "American defeat marked a dual loss in both the Cold War and Global Realignment Struggle, encouraging further challenges to US power",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-041",
+      "text": "The Iranian Revolution of 1979 introduced Islamism as a new force in the Global Realignment Struggle, rejecting both American 'great Satan' and Soviet 'little Satan' while claiming leadership of anti-imperialist resistance through religious rather than secular ideology",
+      "chapter": "The Powers",
+      "concepts": [
+        "islamic_revolution",
+        "anti_imperialism",
+        "terrorism_tactics",
+        "regional_power_shifts"
+      ],
+      "entities": {
+        "people": [
+          "Ayatollah Khomeini"
+        ],
+        "places": [
+          "Iran",
+          "Lebanon"
+        ],
+        "events": [
+          "Iranian Revolution 1979"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "a new leadership and new orientation in the Global Realignment Struggle",
+          "speaker": "Iran's revolutionary government"
+        },
+        {
+          "text": "only Islam is fit to embody the idea of resistance against tyranny",
+          "speaker": "Hezbollah"
+        },
+        {
+          "text": "Suicide bombings by Shi'ite militants forced Western evacuation from Lebanon and represented an 'Islamist expansion of terrorist tactics'",
+          "speaker": null
+        },
+        {
+          "text": "The revolution overthrew America's chosen regional partner despite all the high-tech weaponry lavished on the Shah's forces",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-042",
+      "text": "The Cold War ended not through Western military victory but through communist leaders' decisions to introduce reforms that demolished the ideological foundations of the conflict, with dramatically different outcomes in Europe (regime collapse) versus Asia (regime survival with capitalist adaptation)",
+      "chapter": "The Powers",
+      "concepts": [
+        "communist_reform",
+        "regime_change",
+        "ideological_collapse",
+        "authoritarian_adaptation"
+      ],
+      "entities": {
+        "people": [
+          "Mikhail Gorbachev",
+          "Deng Xiaoping"
+        ],
+        "places": [
+          "Berlin",
+          "Tiananmen Square"
+        ],
+        "events": [
+          "Fall of Berlin Wall November 9, 1989",
+          "Tiananmen Square 1989"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "inflation, shortages, increasing economic chaos and declining GDP",
+          "speaker": "Gorbachev"
+        },
+        {
+          "text": "The fall of the Berlin Wall on November 9, 1989 occurred when an inexperienced East German official accidentally announced immediate border opening",
+          "speaker": null
+        },
+        {
+          "text": "China's Tiananmen Square crackdown in 1989 showed the different Asian response to reform pressures compared to Eastern Europe",
+          "speaker": null
+        },
+        {
+          "text": "Deng Xiaoping's 1992 'southern tour' endorsed continued economic reforms while maintaining Communist Party control",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-043",
+      "text": "Al Qaeda's September 11, 2001 attack on the World Trade Center and Pentagon represented the culmination of Islamist efforts to lead the Global Realignment Struggle, demonstrating that the end of the Cold War had not eliminated anti-Western resistance but transformed it under religious auspices",
+      "chapter": "The Powers",
+      "concepts": [
+        "islamist_terrorism",
+        "anti_american_jihad",
+        "global_resistance",
+        "unipolar_decline"
+      ],
+      "entities": {
+        "people": [
+          "Osama bin Laden",
+          "Ayman al-Zawahiri"
+        ],
+        "places": [
+          "World Trade Center",
+          "Pentagon",
+          "Saudi Arabia"
+        ],
+        "events": [
+          "September 11, 2001 attacks"
+        ],
+        "works": [
+          "Declaration of Jihad 1996"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Declaration of Jihad",
+          "speaker": "Osama bin Laden"
+        },
+        {
+          "text": "Al Qaeda leaders saw all attacks on Muslims worldwide as American responsibility due to US status as 'hyperpower'",
+          "speaker": null
+        },
+        {
+          "text": "the eighth anniversary of the arrival of US troops in Saudi Arabia",
+          "speaker": null
+        },
+        {
+          "text": "that the unipolar decade of international relations was over",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-044",
+      "text": "Global class structure shifted from occupation-based hierarchy to relationship with global labor markets, creating three tiers: those who shape global markets, those protected from them, and those fully exposed to market forces",
+      "chapter": "Societies",
+      "concepts": [
+        "class_transformation",
+        "globalization_effects",
+        "labor_market_hierarchy",
+        "social_stratification"
+      ],
+      "entities": {
+        "people": [
+          "Saskia Sassen"
+        ],
+        "places": [
+          "Shenzhen",
+          "Mumbai",
+          "Detroit",
+          "Rust Belt",
+          "Prato",
+          "Italy"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "too big to fail",
+          "speaker": null
+        },
+        {
+          "text": "Protected class includes professionals with licensing requirements, unionized workers, civil servants with tenure",
+          "speaker": null
+        },
+        {
+          "text": "Largest group consists of workers exposed to globalization - outsourced jobs, immigrant competition, former communist workers",
+          "speaker": null
+        },
+        {
+          "text": "lopsided diamond",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-045",
+      "text": "The Era of Upheaval (1960s-1970s) created youth as a distinct global social group through expanded education and prosperity-driven consumer culture, particularly music and fashion",
+      "chapter": "Societies",
+      "concepts": [
+        "youth_culture",
+        "consumer_capitalism",
+        "cultural_diffusion",
+        "generational_identity"
+      ],
+      "entities": {
+        "people": [
+          "Ole Gr\u00fcnbaum"
+        ],
+        "places": [
+          "Dar es Salaam",
+          "Buenos Aires",
+          "Carnaby Street"
+        ],
+        "events": [
+          "Era of Upheaval"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "University attendance jumped dramatically - US from 14% to 40% of 18-24 age group by 1975",
+          "speaker": null
+        },
+        {
+          "text": "Young people gained disposable income and spent on consumer goods, portable radios, record players",
+          "speaker": null
+        },
+        {
+          "text": "England seemed a kind of other world where youth can do pretty much what they want",
+          "speaker": null
+        },
+        {
+          "text": "Conservative backlash included Tanzania's Youth League arresting women in miniskirts as 'tools of imperialist capitalism'",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-046",
+      "text": "Demographic revolution created global division between 'lands of age' with low fertility and aging populations versus 'lands of youth' with high birth rates, fundamentally altering economic and social structures",
+      "chapter": "Societies",
+      "concepts": [
+        "demographic_change",
+        "demographic_aging",
+        "fertility_decline",
+        "generational_imbalance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan",
+          "Germany",
+          "Africa",
+          "Middle East"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Global population doubled from 2.5 to 6 billion between 1950-2000, but growth rates declined 40-50% in final era",
+          "speaker": null
+        },
+        {
+          "text": "Wealthy countries approached zero population growth by 2000; some former Axis/communist countries entered natural decline",
+          "speaker": null
+        },
+        {
+          "text": "Total Fertility Rate fell 45% globally 1950-2000, while life expectancy rose 40%",
+          "speaker": null
+        },
+        {
+          "text": "higher than in all of human history",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-047",
+      "text": "Gender regimes underwent revolutionary transformation starting in the 1960s, with women's education and workforce participation surging while traditional marriage patterns collapsed globally",
+      "chapter": "Societies",
+      "concepts": [
+        "gender_revolution",
+        "women_education",
+        "reproductive_autonomy",
+        "family_transformation"
+      ],
+      "entities": {
+        "people": [
+          "Betty Friedan",
+          "Beate Rotermund"
+        ],
+        "places": [
+          "Mexico",
+          "Netherlands"
+        ],
+        "events": [
+          "Sexual Revolution",
+          "International Women's Year 1975"
+        ],
+        "works": [
+          "The Feminine Mystique",
+          "Our Bodies Ourselves"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Women became majority of university students in most developed countries by 1995 - complete reversal of centuries-old pattern",
+          "speaker": null
+        },
+        {
+          "text": "Labor force participation of women aged 25-29 took off after 1975 in wealthy countries, surpassing rates in less-developed nations",
+          "speaker": null
+        },
+        {
+          "text": "Birth control pill, introduced 1957, became global gateway drug to contraception - 40% of Dutch women of fertile age using it",
+          "speaker": null
+        },
+        {
+          "text": "Illegitimacy rates soared across continents as connection between marriage and childbearing severed",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-048",
+      "text": "Communist regimes attempted gender revolution through women's labor force participation but maintained patriarchal structures, while lineage-based societies in Asia and Africa adapted traditional gender roles to modern pressures",
+      "chapter": "Societies",
+      "concepts": [
+        "communist_gender_policy",
+        "lineage_transformation",
+        "marriage_systems",
+        "patriarchal_adaptation"
+      ],
+      "entities": {
+        "people": [
+          "Anna Pauker",
+          "Milada Hor\u00e1kov\u00e1",
+          "Elena Ceau\u0219escu"
+        ],
+        "places": [
+          "China",
+          "India",
+          "Eastern Europe"
+        ],
+        "events": [
+          "Cultural Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Communist countries achieved 70-90% female labor force participation by 1960, but women faced 'double burden' of work and household duties",
+          "speaker": null
+        },
+        {
+          "text": "feudal marriage system",
+          "speaker": null
+        },
+        {
+          "text": "In China, young people began choosing spouses and refusing to live with groom's parents, transforming bride wealth into cash for independent households",
+          "speaker": null
+        },
+        {
+          "text": "South Asian arranged marriages persisted even among diaspora, while dowries expanded and sometimes led to 'dowry murders'",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-049",
+      "text": "The immediate postwar era saw unprecedented global labor self-assertion, with massive strikes from New York to S\u00e3o Paulo to French West Africa establishing institutional foundations for worker power",
+      "chapter": "Labor",
+      "concepts": [
+        "labor_ascendancy",
+        "postwar_strikes",
+        "union_expansion",
+        "global_labor_movement"
+      ],
+      "entities": {
+        "people": [
+          "Juan Per\u00f3n",
+          "S\u00e9kou Tour\u00e9"
+        ],
+        "places": [
+          "Oakland",
+          "Dakar",
+          "Mombasa",
+          "Dar es Salaam",
+          "Gold Coast"
+        ],
+        "events": [
+          "Argentine general strike 1945",
+          "French West African railway strike"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "1946 US strike wave involved one worker in ten, including 100,000-person Oakland general strike",
+          "speaker": null
+        },
+        {
+          "text": "French West African railway strike of 1945-46 lasted five months with 17,000 workers - longest in African history",
+          "speaker": null
+        },
+        {
+          "text": "Trade union membership surged globally - Britain from 7 to 13 million members under Labour government",
+          "speaker": null
+        },
+        {
+          "text": "Even in colonial Africa, dockers and railway workers led successful strikes and won collective bargaining agreements",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-050",
+      "text": "The 1970s Era of Upheaval marked labor's global peak through rank-and-file militancy and wildcat strikes that challenged both management authority and existing union leadership",
+      "chapter": "Labor",
+      "concepts": [
+        "labor_militancy",
+        "wildcat_strikes",
+        "workplace_control",
+        "rank_and_file_rebellion"
+      ],
+      "entities": {
+        "people": [
+          "Charles de Gaulle"
+        ],
+        "places": [
+          "France",
+          "Detroit",
+          "Turin",
+          "Lordstown Ohio"
+        ],
+        "events": [
+          "May 1968",
+          "Cordobazo 1969",
+          "British miners strike 1974"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "May 1968 France saw 7-10 million strikers occupy workplaces, forcing wage increases and de Gaulle's resignation",
+          "speaker": null
+        },
+        {
+          "text": "US postal workers' 200,000-person wildcat strike in 1970 was largest in American history, defying federal law and union leaders",
+          "speaker": null
+        },
+        {
+          "text": "Auto plants became flashpoints - Detroit's revolutionary union movements among Black workers, Turin's 'hot autumn' with southern Italians",
+          "speaker": null
+        },
+        {
+          "text": "Strike activity peaked globally in 1970s at three times what it would be twenty years later",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-051",
+      "text": "Three catastrophic strike defeats in the early 1980s - US air traffic controllers, Mumbai textile workers, and British coal miners - demonstrated labor's inability to adapt 1970s militant tactics to changed political and economic environment",
+      "chapter": "Labor",
+      "concepts": [
+        "labor_defeats",
+        "strike_failures",
+        "political_environment_change",
+        "employer_offensive"
+      ],
+      "entities": {
+        "people": [
+          "Ronald Reagan",
+          "Datta Samant",
+          "Arthur Scargill",
+          "Margaret Thatcher"
+        ],
+        "places": [
+          "United States",
+          "Mumbai",
+          "Britain"
+        ],
+        "events": [
+          "PATCO strike 1981",
+          "Mumbai textile strike 1982-83",
+          "British miners strike 1984-85"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "PATCO controllers endorsed Reagan expecting favorable treatment, but were fired en masse when they struck for $10,000 raises and 4-day weeks",
+          "speaker": null
+        },
+        {
+          "text": "Mumbai's 250,000 textile workers struck for 18 months under Datta Samant but faced employer dismissals and government hostility",
+          "speaker": null
+        },
+        {
+          "text": "British miners under Arthur Scargill struck without membership vote during low-demand spring, lost public support and union solidarity",
+          "speaker": null
+        },
+        {
+          "text": "All three strikes used 1970s playbook of mass demands and militant tactics but faced permanent replacement workers and unsympathetic governments",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-052",
+      "text": "Globalization and casualization of labor systematically undermined the permanent employment relationships that had been labor's foundation, creating worldwide precariat of temporary and contract workers",
+      "chapter": "Labor",
+      "concepts": [
+        "labor_casualization",
+        "precarious_employment",
+        "globalization_effects",
+        "structural_adjustment"
+      ],
+      "entities": {
+        "people": [
+          "Mark Holstrom"
+        ],
+        "places": [
+          "India",
+          "United States",
+          "Germany",
+          "Ghana",
+          "Microsoft"
+        ],
+        "events": [
+          "Structural adjustment programs"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Mark Holstrom's 1970s observation of Indian 'apartheid' - contract workers earning half regular workers' wages - became normal in US and Germany by 2000",
+          "speaker": null
+        },
+        {
+          "text": "US trucking shifted from unionized employment to independent contractors, eliminating job benefits and workplace safety",
+          "speaker": null
+        },
+        {
+          "text": "Microsoft's orange-badge contractors worked alongside blue-badge permanent employees but without same pay or benefits",
+          "speaker": null
+        },
+        {
+          "text": "In Africa, structural adjustment programs devastated public sector employment - Ghana from 397,000 to 156,000 jobs in six years",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-053",
+      "text": "Four workplace case studies reveal how technological change and globalization transformed specific occupations from dock work and auto assembly to flight attendants and computer programming",
+      "chapter": "Labor",
+      "concepts": [
+        "technological_disruption",
+        "service_sector_transformation",
+        "skilled_labor_degradation",
+        "global_labor_arbitrage"
+      ],
+      "entities": {
+        "people": [
+          "Ted Turner"
+        ],
+        "places": [
+          "Liverpool",
+          "Turin",
+          "Japan",
+          "Silicon Valley"
+        ],
+        "events": [
+          "Containerization",
+          "Airline deregulation"
+        ],
+        "works": [
+          "On the Waterfront",
+          "Modern Times"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Containerization eliminated dock work's physical demands and most jobs - Liverpool from 25,000 to 2,000 dockers by 1989",
+          "speaker": null
+        },
+        {
+          "text": "Japanese 'quality circles' in auto manufacturing became way to restore management control rather than genuine worker participation",
+          "speaker": null
+        },
+        {
+          "text": "Flight attendants evolved from 1950s 'movie stars' to overwhelmed service workers managing 130+ passengers in shorter flight times",
+          "speaker": null
+        },
+        {
+          "text": "Computer programming faced cost-cutting through H1-B visas and outsourcing - only 20% of CS graduates still in field after 20 years",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-054",
+      "text": "Leisure time increased dramatically across the wealthy world through reduced household labor for women and shorter paid work for men, though this masked growing inequality between educated affluent overworked and poor underemployed with involuntary leisure",
+      "chapter": "Leisure",
+      "concepts": [
+        "leisure_expansion",
+        "household_labor_decline",
+        "leisure_inequality",
+        "work_time_polarization"
+      ],
+      "entities": {
+        "people": [
+          "Valerie Ramey",
+          "Jonathan Gershuny"
+        ],
+        "places": [
+          "United States",
+          "Europe"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "American women's household labor declined 12 hours per week by 1975, most among non-employed women influenced by feminist aspirations",
+          "speaker": null
+        },
+        {
+          "text": "By 2000, college graduates worked 30% more hours than high school dropouts, reversing centuries-old pattern",
+          "speaker": null
+        },
+        {
+          "text": "Poor had more leisure because they were unemployed or part-time, while affluent worked longer but took elaborate vacations",
+          "speaker": null
+        },
+        {
+          "text": "Americans worked 2-4 weeks more per year than other wealthy countries by 2000, as US diverged from global leisure trends",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-055",
+      "text": "Television colonized leisure time globally, with viewing consuming one-third to one-half of all free hours and creating transmitted reality that influenced behavior and politics through personal connection rather than rhetorical performance",
+      "chapter": "Leisure",
+      "concepts": [
+        "television_dominance",
+        "broadcast_technology",
+        "transmitted_reality",
+        "media_influence"
+      ],
+      "entities": {
+        "people": [
+          "Jean d'Arcy",
+          "Vladimir Zworykin",
+          "Manfred von Ardenne",
+          "Joseph McCarthy"
+        ],
+        "places": [
+          "Japan",
+          "Germany",
+          "United States",
+          "Britain"
+        ],
+        "events": [
+          "1936 Berlin Olympics",
+          "Tokyo Olympics 1964"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "TV sets achieved market saturation faster than any consumer durable except related broadcast devices",
+          "speaker": null
+        },
+        {
+          "text": "Japan 1953: 20,000 people watched boxing on street TV, causing trams to halt and balcony collapse from weight of spectators",
+          "speaker": null
+        },
+        {
+          "text": "art of transmission' giving viewers 'ability to be present, by proxy, everywhere, simultaneously",
+          "speaker": "Jean d'Arcy"
+        },
+        {
+          "text": "Senator Joseph McCarthy's downfall came when CBS showed sympathetic Air Force lieutenant on TV, generating 8,000 letters 100-to-1 against McCarthy",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-056",
+      "text": "Television remained primarily national rather than global until the Late-Millennium Era, when satellite-cable technology and deregulation created multinational media conglomerates and multichannel viewing that fragmented shared cultural experience",
+      "chapter": "Leisure",
+      "concepts": [
+        "broadcast_globalization",
+        "media_concentration",
+        "national_content",
+        "cultural_imperialism"
+      ],
+      "entities": {
+        "people": [
+          "Ted Turner",
+          "Rupert Murdoch",
+          "Marshall McLuhan"
+        ],
+        "places": [
+          "Atlanta",
+          "Mexico",
+          "Latin America"
+        ],
+        "events": [
+          "Television deregulation"
+        ],
+        "works": [
+          "Telenovelas",
+          "Roots",
+          "Holocaust"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Majority of world's population only had TV in homes by 2010; rural areas in Africa and Asia still largely excluded by 2015",
+          "speaker": null
+        },
+        {
+          "text": "UNESCO 1991-92 study showed nationally produced content was 67-92% of viewing time in most countries studied",
+          "speaker": null
+        },
+        {
+          "text": "Ted Turner's CNN and satellite 'super-stations' pioneered global broadcasting, followed by Rupert Murdoch's media empire",
+          "speaker": null
+        },
+        {
+          "text": "M&A activity peaked at 766 deals worth $200 billion in 2000, but US maintained dominance with $6.5 billion in TV exports",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-057",
+      "text": "Tourism exploded from elite practice to mass global movement with 1.2 billion international arrivals by 2017, driven by jet aircraft, package tours, and prosperity, but remained stratified by wealth both within and between countries",
+      "chapter": "Leisure",
+      "concepts": [
+        "tourism_expansion",
+        "jet_travel_revolution",
+        "vacation_packages",
+        "leisure_stratification"
+      ],
+      "entities": {
+        "people": [
+          "Thomas Cook",
+          "Billy Butlin",
+          "G\u00e9rard Blitz",
+          "Arthur Frommer"
+        ],
+        "places": [
+          "Mallorca",
+          "Mediterranean",
+          "Caribbean",
+          "Nepal"
+        ],
+        "events": [
+          "Introduction of jet aircraft"
+        ],
+        "works": [
+          "Europe on $5 a Day"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "International arrivals increased sixtyfold from 1950-2017, reaching one person in six worldwide",
+          "speaker": null
+        },
+        {
+          "text": "Commercial jet aircraft revolutionized tourism - German foreign vacationers rose from 1 million (1954) to 16 million (1979)",
+          "speaker": null
+        },
+        {
+          "text": "All-inclusive resorts like Club Med and Billy Butlin's holiday camps created enclosed fantasy worlds for professional classes",
+          "speaker": null
+        },
+        {
+          "text": "Only 3% of Americans flying overseas for leisure in 1999 were blue-collar workers; tourism remained concentrated among educated affluent",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-058",
+      "text": "New forms of Late-Millennium tourism - sex tourism, ecotourism, and trekking - revealed complex global inequalities as affluent tourists from wealthy countries sought authentic experiences in poorer nations, often transforming and degrading what they came to experience",
+      "chapter": "Leisure",
+      "concepts": [
+        "alternative_tourism",
+        "global_inequality",
+        "authentic_experience",
+        "environmental_degradation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Salvador de Bahia",
+          "Thailand",
+          "Nepal",
+          "Dominican Republic"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sex tourism began with Japanese business tours to South Korea, expanded globally with Salvador de Bahia as leading center",
+          "speaker": null
+        },
+        {
+          "text": "'Duristas' (broke tourists) in Brazil and beach boys in Dominican Republic created complex economic and emotional relationships beyond simple cash transactions",
+          "speaker": null
+        },
+        {
+          "text": "Ecotourism and trekking claimed environmental benefits but tourists' presence deteriorated the natural environments they sought to experience",
+          "speaker": null
+        },
+        {
+          "text": "Nepal shifted from hippie hashish paradise in 1970s to wealthy trekkers after government banned marijuana and promoted mountain hiking",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-059",
+      "text": "Consumer society is distinguished from mere consumption by four features: purchased rather than self-produced goods, declining proportion spent on necessities (following Engel's law), purchasing driven by emotion rather than rational calculation, and consumption as identity marker",
+      "chapter": "Consumers",
+      "concepts": [
+        "consumer_theory",
+        "economic_rationality",
+        "social_identity",
+        "retail_transformation"
+      ],
+      "entities": {
+        "people": [
+          "Ernst Engel",
+          "Otto von Bismarck"
+        ],
+        "places": [
+          "Prussia"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ernst Engel's law states that higher household income means smaller proportion spent on food, unlike most social science 'laws' this one seems mostly valid",
+          "speaker": null
+        },
+        {
+          "text": "Throughout history only small groups like monarchs and aristocracy consumed along these lines, but expansion began in 17th-18th centuries with global trade in bitter stimulants",
+          "speaker": null
+        },
+        {
+          "text": "spectacle, fantasy, and desire played an ever-larger role, and rational calculations faded into the background",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-060",
+      "text": "Henry Ford pioneered mass production but failed at consumerism by rejecting advertising, model changes, and emotional appeal, while his rival General Motors succeeded by embracing these elements and offering financing",
+      "chapter": "Consumers",
+      "concepts": [
+        "mass_production",
+        "fordism",
+        "consumer_credit",
+        "corporate_strategy"
+      ],
+      "entities": {
+        "people": [
+          "Henry Ford"
+        ],
+        "places": [
+          "Detroit",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ford paid workers enough to buy cars but rejected advertising, new models, different colors, and emotional appeals - bringing his enterprise to near collapse",
+          "speaker": null
+        },
+        {
+          "text": "General Motors exploited advertising, model variety, and offered its own financing for vehicles, making the company's fortune",
+          "speaker": null
+        },
+        {
+          "text": "Even outside America, Ford's survey found European workers would need 2-4 times going wage rates to achieve American consumer lifestyle",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-061",
+      "text": "Argentina under Juan Per\u00f3n attempted to create full consumer society in 1940s-50s through 'la vida digna' (dignified life) but failed due to inflation, price controls, and economic contradictions",
+      "chapter": "Consumers",
+      "concepts": [
+        "populist_politics",
+        "import_substitution",
+        "price_controls",
+        "political_consumerism"
+      ],
+      "entities": {
+        "people": [
+          "Juan Per\u00f3n",
+          "Evita"
+        ],
+        "places": [
+          "Argentina",
+          "Buenos Aires"
+        ],
+        "events": [
+          "Korean War"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Per\u00f3n promised widespread ownership of electrical devices, yearly vacations, and even four-door sedan called 'justicialista' named after his political party",
+          "speaker": null
+        },
+        {
+          "text": "By 1950 nearly every Argentine household owned a radio and meat consumption reached world record 250 pounds per person",
+          "speaker": null
+        },
+        {
+          "text": "Rapid salary increases created 60-80% annual inflation, leading to price controls, shortages, and Evita's squads of housewives enforcing legal prices",
+          "speaker": null
+        },
+        {
+          "text": "Evita's foundation created 'proveeduria' - Peronist supermarkets selling at controlled prices in large, well-lit retail spaces",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-062",
+      "text": "The 1960s marked the breakthrough of consumer society in wealthy countries outside the US, with ownership of TVs, refrigerators, and vacuum cleaners rising from 25% to 75% of households in France between 1960-1968",
+      "chapter": "Consumers",
+      "concepts": [
+        "consumer_diffusion",
+        "household_technology",
+        "retail_innovation",
+        "gender_roles"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "France",
+          "Western Europe",
+          "Japan"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Pattern was similar across Western Europe and Japan, with wealthier northern countries reaching this point earlier, poorer southern ones following in 1970s",
+          "speaker": null
+        },
+        {
+          "text": "Automobiles followed electrical goods with 5-10 year lag, while supermarkets and self-service food retailing moved in sync with refrigerator purchases",
+          "speaker": null
+        },
+        {
+          "text": "Tupperware sales methods - parties given by housewife saleswomen - expanded internationally, becoming particularly popular in Japan where per capita sales ran twice US levels by mid-1960s",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-063",
+      "text": "Common beliefs about consumer society - that it was driven by advertising manipulation, credit expansion, defunding public spending, and Americanization - are largely false or oversimplified",
+      "chapter": "Consumers",
+      "concepts": [
+        "advertising_economics",
+        "consumer_credit",
+        "public_spending",
+        "cultural_transfer"
+      ],
+      "entities": {
+        "people": [
+          "Paul Lazarsfeld",
+          "Ernst Dichter",
+          "Arthur Charles Nielsen"
+        ],
+        "places": [
+          "Vienna",
+          "Denmark"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "US advertising expenditures peaked as percentage of GDP in the 1920s at 3%, never reaching 2.5% in second half of 20th century despite absolute growth",
+          "speaker": null
+        },
+        {
+          "text": "Market research was actually European invention by left-wing social democrats, with Vienna's Paul Lazarsfeld and Ernst Dichter founding American methods",
+          "speaker": null
+        },
+        {
+          "text": "Credit was regular feature of 19th century consumer purchases well before consumer society; new forms of department stores and supermarkets initially insisted on cash payment",
+          "speaker": null
+        },
+        {
+          "text": "Government expenditures and consumer society grew together in postwar era, not in opposition to each other",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-064",
+      "text": "Deregulation and privatization in late 20th century, promoted as benefiting consumers, often produced mixed or negative results, with airline deregulation failing to deliver promised benefits",
+      "chapter": "Consumers",
+      "concepts": [
+        "deregulation",
+        "market_competition",
+        "consumer_welfare",
+        "transportation_policy"
+      ],
+      "entities": {
+        "people": [
+          "Steven Morrison",
+          "Clifford Winston"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Airline deregulation advocates claimed it would produce better service and lower fares, but worldwide passenger growth rates actually declined in 1980s-90s compared to earlier decades",
+          "speaker": null
+        },
+        {
+          "text": "Morrison and Winston's study claiming $8 billion in consumer benefits counted $6 billion from reduced airport waiting time but ignored increased flight delays and longer hub-and-spoke routing",
+          "speaker": null
+        },
+        {
+          "text": "Post-deregulation airlines competed to make travel 'maximally unpleasant,' cramming more passengers into tighter spaces and charging fees for previously included services",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-065",
+      "text": "Cell phones became the first major consumer technology not pioneered in the United States, with Europe leading adoption and the technology enabling global participation in consumer society for the first time",
+      "chapter": "Consumers",
+      "concepts": [
+        "communication_technology",
+        "cultural_diffusion",
+        "infrastructure_development",
+        "consumer_electronics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "Japan",
+          "Bell Labs",
+          "North America"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cellular technology invented at Bell Labs and first implemented in Japan 1979, but Europe had 39% of world's 740 million users in 2000 vs 16% in North America",
+          "speaker": null
+        },
+        {
+          "text": "American travelers in 1990s Europe noticed teenagers, migrant laborers, and welfare recipients using mobile devices while US cell phones remained primarily for business use",
+          "speaker": null
+        },
+        {
+          "text": "Digital cell phones made telephony part of consumer society worldwide, allowing countries to bypass expensive copper wire networks entirely",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-066",
+      "text": "China's transition from Mao's austerity to aggressive consumerism exemplified Late-Millennium Era shifts, moving from 'four big items' (sewing machines, watches, bicycles, radios) to becoming world's largest automobile market by 2009",
+      "chapter": "Consumers",
+      "concepts": [
+        "economic_transformation",
+        "consumer_aspiration",
+        "savings_behavior",
+        "nationalist_consumption"
+      ],
+      "entities": {
+        "people": [
+          "Mao"
+        ],
+        "places": [
+          "China",
+          "South Korea"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "1980s brought 'six big items' - color TVs, refrigerators, cameras, electric fans, washing machines, tape recorders - representing typical Western consumer goods",
+          "speaker": null
+        },
+        {
+          "text": "1990s expanded to computers and cell phones, while Chinese savings rates remained extraordinarily high at 27-38% of disposable household income",
+          "speaker": null
+        },
+        {
+          "text": "This transition accompanied by critiques like South Korea's 'frugality campaigns' calling for moral frugality - usually meaning buy domestic not imported goods",
+          "speaker": null
+        }
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-067",
+      "text": "Belief in progress as unified advancement in science, technology, economy, and morality dominated both capitalist and communist sides during the Cold War, with leaders like Adlai Stevenson calling it 'a basic law of life' and Soviet officials linking technological progress to building communist society",
+      "chapter": "Beliefs",
+      "concepts": [
+        "modernization",
+        "technological_optimism",
+        "development_ideology",
+        "cold_war_consensus"
+      ],
+      "entities": {
+        "people": [
+          "Adlai Stevenson",
+          "Nelson Rockefeller",
+          "Ronald Reagan",
+          "Nikolai Bulganin",
+          "Walter Rostow"
+        ],
+        "places": [
+          "United States",
+          "Soviet Union"
+        ],
+        "events": [
+          "Cold War"
+        ],
+        "works": [
+          "Stages of Economic Growth"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "progress is our most important product",
+          "speaker": "General Electric"
+        },
+        {
+          "text": "battle for technological progress is synonymous with battle to build communist society",
+          "speaker": "Nikolai Bulganin"
+        },
+        {
+          "text": "Stages of Economic Growth",
+          "speaker": "Rostow"
+        },
+        {
+          "text": "Both superpowers shared belief that bringing progress to 'underdeveloped' Third World was necessary and desirable",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-068",
+      "text": "Three mid-century critics of progress - J.R.R. Tolkien, Sayyid Qutb, and Dwight Macdonald - anticipated later widespread rejection of progress ideology, each from different philosophical positions but sharing skepticism about technological advancement as human improvement",
+      "chapter": "Beliefs",
+      "concepts": [
+        "progress_critique",
+        "technological_skepticism",
+        "spiritual_qualities",
+        "cultural_criticism"
+      ],
+      "entities": {
+        "people": [
+          "J.R.R. Tolkien",
+          "Sayyid Qutb",
+          "Dwight Macdonald"
+        ],
+        "places": [
+          "United States",
+          "Egypt",
+          "New York"
+        ],
+        "events": [
+          "World War II"
+        ],
+        "works": [
+          "Lord of the Rings",
+          "politics magazine",
+          "The Root is Man"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Tolkien's Lord of the Rings portrayed war between technological progress and totalitarian rule versus nature lovers and traditional monarchy, seeing WWII as pitting his country against evil totalitarianism but allied with atheist USSR",
+          "speaker": null
+        },
+        {
+          "text": "based on science, industry and materialism' that 'destroyed spiritual values' and promoted primitive sexuality",
+          "speaker": "Sayyid Qutb"
+        },
+        {
+          "text": "vaporized the whole structure of Progressive assumptions",
+          "speaker": "Dwight Macdonald"
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-069",
+      "text": "The Era of Upheaval (1965-1980) demolished belief in progress through environmental concerns, economic stagnation, and technological disillusionment, with Google ngrams showing steady decline in frequency of the word 'progress' across multiple languages after peaks in 1960s-70s",
+      "chapter": "Beliefs",
+      "concepts": [
+        "environmental_limits",
+        "technological_disillusionment",
+        "ideological_collapse",
+        "cultural_transformation"
+      ],
+      "entities": {
+        "people": [
+          "J.R.R. Tolkien"
+        ],
+        "places": [
+          "Vietnam"
+        ],
+        "events": [
+          "Vietnam War"
+        ],
+        "works": [
+          "Limits to Growth"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Tolkien's works sold 140 million copies in 40 languages as youth culture embraced techno-skepticism despite author's conservative Catholicism",
+          "speaker": null
+        },
+        {
+          "text": "Club of Rome's 'Limits to Growth' made Malthusian ideas about resource constraints seem incompatible with progress",
+          "speaker": null
+        },
+        {
+          "text": "Modernization theory discredited by Vietnam War disaster where it was used to justify 'forced draft modernization' through bombing and 'strategic hamlets'",
+          "speaker": null
+        },
+        {
+          "text": "Nuclear energy shifted from progressive symbol in 1950s to target of leftist environmentalist criticism by 1970s",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-070",
+      "text": "Nationalism spread globally and triumphed over all challengers including international communism, European federalism, and world government enthusiasm, becoming the dominant form of political identity and loyalty by century's end",
+      "chapter": "Beliefs",
+      "concepts": [
+        "world_government",
+        "european_federalism",
+        "communist_nationalism",
+        "political_identity"
+      ],
+      "entities": {
+        "people": [
+          "Helmut Kohl",
+          "Nicolae Ceau\u0219escu",
+          "Charles de Gaulle"
+        ],
+        "places": [
+          "Europe",
+          "France",
+          "Romania"
+        ],
+        "events": [
+          "European Defense Community"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Post-WWII world government enthusiasm found 80% of Americans supporting international peace organization and French municipalities declaring themselves 'mondialis\u00e9' (global territory)",
+          "speaker": null
+        },
+        {
+          "text": "We are the party of Europe. Europe is our form of refusing a return to the past",
+          "speaker": "Helmut Kohl"
+        },
+        {
+          "text": "1954 French National Assembly voted down European Defense Community treaty then stood singing Marseillaise, ending dreams of transnational European government",
+          "speaker": null
+        },
+        {
+          "text": "Communist regimes turned to nationalism by 1960s-70s as international solidarity failed, with Romanian leader Ceau\u0219escu promoting protochronism theory that all major European literary trends originated in Romania",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-071",
+      "text": "Sports replaced military ceremonies as the primary venue for national identity expression, with standardized rules, global competitions, and electronic media creating powerful new forms of nationalism through international athletic contests",
+      "chapter": "Beliefs",
+      "concepts": [
+        "sports_nationalism",
+        "media_globalization",
+        "ceremonial_practices",
+        "national_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Los Angeles",
+          "Berlin",
+          "Mexico City",
+          "Argentina",
+          "Brazil",
+          "Uruguay"
+        ],
+        "events": [
+          "1932 Olympics",
+          "1936 Olympics",
+          "1970 World Cup"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Modern Olympic medal ceremony debuted in 1932 Los Angeles Olympics with national flags and anthems making athletes' success a national triumph",
+          "speaker": null
+        },
+        {
+          "text": "1936 Berlin Olympics reached 300 million radio listeners worldwide, while 1970 World Cup from Mexico City was first in color TV with slow motion replays",
+          "speaker": null
+        },
+        {
+          "text": "Soccer styles became national identity markers: Argentina's 'la neustra,' Brazil's 'futebol arte,' Uruguay's 'garra charr\u00faa'",
+          "speaker": null
+        },
+        {
+          "text": "Soccer fans sometimes battle fans from other countries with fatal consequences, while World Cup final draws 1.5 billion TV viewers",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-072",
+      "text": "Pan-Arabism under Gamal 'Abd al-Nasir briefly united much of Arab world in 1950s-60s through 'Voice of the Arabs' radio and United Arab Republic with Syria, but collapsed due to Great Power politics and internal contradictions",
+      "chapter": "Beliefs",
+      "concepts": [
+        "pan_arabism",
+        "radio_propaganda",
+        "arab_nationalism",
+        "regional_unification"
+      ],
+      "entities": {
+        "people": [
+          "Gamal 'Abd al-Nasir",
+          "Muammar Qaddafi",
+          "Saddam Hussein"
+        ],
+        "places": [
+          "Egypt",
+          "Syria",
+          "Iraq",
+          "Kuwait",
+          "Iran"
+        ],
+        "events": [
+          "Suez Crisis",
+          "United Arab Republic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "for the Arab nation",
+          "speaker": null
+        },
+        {
+          "text": "struggle against Western imperialism",
+          "speaker": null
+        },
+        {
+          "text": "From the rebellious Gulf/To the roaring ocean/At your service, 'Abd al-Nasir",
+          "speaker": null
+        },
+        {
+          "text": "United Arab Republic with Syria proclaimed 1958 but collapsed after three years when Syrian military coup declared independence with no opposition",
+          "speaker": null
+        },
+        {
+          "text": "Saddam Hussein's 1980s attempt to revive Pan-Arabism through invasions of Iran and Kuwait failed without widespread Arab nationalist echo",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-073",
+      "text": "Religious belief underwent dramatic upheaval with secularization in wealthy countries but revival of integralist forms globally, characterized by biblical/Quranic literalism and apocalyptic expectations rather than modernist accommodation with reason and science",
+      "chapter": "Beliefs",
+      "concepts": [
+        "spiritual_renewal",
+        "secularization",
+        "biblical_fundamentalism",
+        "global_evangelization"
+      ],
+      "entities": {
+        "people": [
+          "'Abd al-'Aziz Ibn Bab"
+        ],
+        "places": [
+          "Los Angeles",
+          "Latin America",
+          "Seoul",
+          "Saudi Arabia",
+          "Pakistan",
+          "India"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Church attendance plummeted by half 1965-75 in Western Europe and North America, with only 3 of 15 West European countries having majority monthly church attendance by 1999",
+          "speaker": null
+        },
+        {
+          "text": "Pentecostalism exploded globally from Los Angeles origins, reaching tens of millions in Latin America and making Seoul's Yoido Full Gospel Church world's largest with 900,000 congregation",
+          "speaker": null
+        },
+        {
+          "text": "half the students were from Pakistan or India - they created the madrasas from which Taliban emerged",
+          "speaker": "Pakistani student"
+        },
+        {
+          "text": "sun revolved around earth and any Muslim denying this was heretic",
+          "speaker": "'Abd al-'Aziz Ibn Bab"
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-074",
+      "text": "The Catholic Church's Second Vatican Council (1962-1965) attempted modernist reform through 'aggiornamento' (updating) but created crisis of authority leading to declining attendance and clerical vocations rather than renewed faith",
+      "chapter": "Beliefs",
+      "concepts": [
+        "religious_modernization",
+        "institutional_change",
+        "theological_authority",
+        "liberation_theology"
+      ],
+      "entities": {
+        "people": [
+          "Pope John XXIII",
+          "Pope Paul VI",
+          "Marie-Dominique Chenu",
+          "Andrew Chestnut"
+        ],
+        "places": [
+          "Vatican",
+          "Germany"
+        ],
+        "events": [
+          "Second Vatican Council"
+        ],
+        "works": [
+          "Humanae vitae"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Council transformed mass from Latin to vernacular with priest facing congregation, redefined church as 'people of God,' and endorsed religious freedom as fundamental human right",
+          "speaker": null
+        },
+        {
+          "text": "Humanae vitae",
+          "speaker": "Pope Paul VI"
+        },
+        {
+          "text": "Rome has lost, in a stroke, the authority it took sixteen centuries to construct",
+          "speaker": "Marie-Dominique Chenu"
+        },
+        {
+          "text": "the Catholic Church has chosen the poor, but the poor chose the Pentecostals",
+          "speaker": "Andrew Chestnut"
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-075",
+      "text": "Post-WWII war crimes trials faced fundamental juridical problems that continue to plague efforts to prevent mass murder: ex post facto laws, punishment of regime criminality, individual responsibility questions, and state sovereignty issues",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "international_law",
+        "war_crimes",
+        "state_sovereignty",
+        "legal_precedent"
+      ],
+      "entities": {
+        "people": [
+          "Henry Kissinger",
+          "Radhabinod Pal",
+          "Jawaharlal Nehru"
+        ],
+        "places": [
+          "Nuremberg",
+          "Tokyo"
+        ],
+        "events": [
+          "International Military Tribunal",
+          "UN War Crimes Commission"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "UN War Crimes Commission assisted in 8,200 cases involving 22,000 defendants in Europe and Asia, including 151 cases of rape - five decades before Yugoslavia trials supposedly first treated rape as war crime",
+          "speaker": null
+        },
+        {
+          "text": "nullem crimen sine lege",
+          "speaker": null
+        },
+        {
+          "text": "nulle poena sine lege",
+          "speaker": null
+        },
+        {
+          "text": "Commission was defunded in 1948 with records kept secret until 2015, while trials were turned over to former Axis governments who showed little interest in continuing them",
+          "speaker": null
+        },
+        {
+          "text": "international law was tool for certain states to dominate others",
+          "speaker": "Radhabinod Pal"
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-076",
+      "text": "Raphael Lemkin's concept of genocide, formalized in 1948 UN Convention, proved both too narrow and too broad for analyzing mass murder, excluding political killings while potentially encompassing non-murderous cultural suppression",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "genocide",
+        "international_law",
+        "cultural_destruction",
+        "political_violence"
+      ],
+      "entities": {
+        "people": [
+          "Raphael Lemkin"
+        ],
+        "places": [],
+        "events": [
+          "1948 UN Genocide Convention"
+        ],
+        "works": [
+          "Axis Rule in Occupied Europe"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Lemkin's original 1944 definition included cultural, moral, social and physical destruction through actions like banning native language, economic exploitation, and encouraging alcoholism",
+          "speaker": null
+        },
+        {
+          "text": "UN Convention rejected cultural offenses over Lemkin's objections, defining genocide exclusively in physical terms: murder, bodily harm, preventing births, kidnapping children",
+          "speaker": null
+        },
+        {
+          "text": "Definition excludes systematic killing of political opponents or victims of social engineering - actually the largest sources of death in Age of Interconnection",
+          "speaker": null
+        },
+        {
+          "text": "Broad interpretation could classify campaigns against female genital mutilation or monotheist rejection of animist practices as genocide preparation",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-077",
+      "text": "Mao's Great Leap Forward (1959-1961) caused history's greatest mass murder with 30-35 million deaths through failed economic planning, utopian social engineering, and systematic torture and execution of those reporting realistic production figures",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "utopian_planning",
+        "agricultural_collectivization",
+        "mass_starvation",
+        "totalitarian_control"
+      ],
+      "entities": {
+        "people": [
+          "Mao Zedong",
+          "Zhou Enlai",
+          "Li Jingquan"
+        ],
+        "places": [
+          "China",
+          "Henan Province",
+          "Sichuan"
+        ],
+        "events": [
+          "Great Leap Forward",
+          "Cultural Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Plan required doubling steel output through millions of 'backyard steel-mills' using household items, while deep plowing destroyed topsoil and overcrowded rice plantings failed",
+          "speaker": null
+        },
+        {
+          "text": "Rural people forced into collective canteens and sex-segregated barracks with children separated from parents, working 28 days per month in military-style brigades",
+          "speaker": null
+        },
+        {
+          "text": "Wind of exaggeration",
+          "speaker": null
+        },
+        {
+          "text": "Agricultural exports continued unabated while party cadres feasted on sweet potatoes typically fed to pigs as ordinary people starved",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-078",
+      "text": "Cambodia's Khmer Rouge (1975-1979) killed two million people - 25% of the population - through extreme version of Maoist policies combined with fierce nationalism that particularly targeted ethnic minorities like Muslim Cham, ethnic Chinese, and Vietnamese",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "revolutionary_violence",
+        "ethnic_cleansing",
+        "technological_primitivism",
+        "cold_war_competition"
+      ],
+      "entities": {
+        "people": [
+          "Pol Pot",
+          "Henry Kissinger"
+        ],
+        "places": [
+          "Cambodia",
+          "Phnom Penh",
+          "Vietnam",
+          "Thailand"
+        ],
+        "events": [
+          "Khmer Rouge rule"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Immediately evacuated entire population of Phnom Penh (400,000 people) and abolished money, banking, commerce while instituting sex-segregated barracks and child separation",
+          "speaker": null
+        },
+        {
+          "text": "To spare you brings no benefits; to destroy you brings no loss",
+          "speaker": "Khmer Rouge cadres"
+        },
+        {
+          "text": "we have no machines",
+          "speaker": "Khmer Rouge"
+        },
+        {
+          "text": "Unlike Mao's industrialization goals, Khmer Rouge glorified technological primitivism and denounced tractors as 'iron buffaloes'",
+          "speaker": null
+        },
+        {
+          "text": "China and US cynically supported regime even after Vietnamese overthrow as Cold War power politics trumped moral considerations",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-079",
+      "text": "Indonesia's 1965-1966 anti-communist massacres killed 500,000-1 million people through army-organized but popularly-participated violence, mobilizing Islamic and nationalist groups against the world's largest non-ruling communist party",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "anti_communism",
+        "political_mobilization",
+        "civil_society_participation",
+        "cold_war_intervention"
+      ],
+      "entities": {
+        "people": [
+          "Sukarno",
+          "Mohamed Suharto",
+          "D.N. Aidit"
+        ],
+        "places": [
+          "Indonesia",
+          "Jakarta",
+          "Malaysia",
+          "Java",
+          "Bali"
+        ],
+        "events": [
+          "September 30 Movement",
+          "Konfrontasi"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Indonesian Communist Party (PKI) had 3.5 million members plus 20 million in affiliated groups, making it world's largest non-ruling communist party by early 1960s",
+          "speaker": null
+        },
+        {
+          "text": "After September 30 Movement killed six generals, army created anti-communist front mobilizing civil defense networks, issuing propaganda that communists sexually mutilated generals and threatened Islam",
+          "speaker": null
+        },
+        {
+          "text": "Islamist ulema issued fatwa declaring communists infidels deserving death, while cries of 'Allahu Akhbar' resounded as communists were murdered across archipelago",
+          "speaker": null
+        },
+        {
+          "text": "Western powers welcomed the violence with US, UK, and Australia providing tacit support while Sweden oddly provided military supplies for the killings",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-080",
+      "text": "Guatemala's General Efraim R\u00edos Montt combined Pentecostal Christianity with systematic counterinsurgency, killing 80,000 people in 1982-1983 while offering highland Mayans choice between submission to divinely-sanctioned government or death",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "religious_authoritarianism",
+        "counterinsurgency",
+        "evangelical_politics",
+        "indigenous_persecution"
+      ],
+      "entities": {
+        "people": [
+          "Efraim R\u00edos Montt",
+          "Romeo Lucas Garc\u00eda"
+        ],
+        "places": [
+          "Guatemala",
+          "Guatemala City"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Born-again general gave weekly TV speeches with hand on Bible, believing God had chosen him to transform Guatemala into land of piety and righteousness",
+          "speaker": null
+        },
+        {
+          "text": "Unlike predecessor's indiscriminate violence, R\u00edos Montt's campaign was systematic: communities refusing to renounce guerrillas were eliminated, those submitting were resettled with newly-built Pentecostal churches",
+          "speaker": null
+        },
+        {
+          "text": "October 1982 gathering drew 300,000 Pentecostals to Guatemala City for open-air meeting with TV evangelists and the devout general, seen as fulfillment of biblical prophecy",
+          "speaker": null
+        },
+        {
+          "text": "Violence proved popular among highland Mayans because it wasn't indiscriminate - villages knew what to do to survive, and many Mayan soldiers participated in counterinsurgency",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-081",
+      "text": "Yugoslavia's 1990s ethnic cleansing resulted from deliberate political exploitation of WWII memories by leaders like Slobodan Milo\u0161evi\u0107 and Franjo Tudjman, who invented ethnic differences between groups sharing same language and customs",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "ethnic_cleansing",
+        "state_collapse",
+        "global_interventionism",
+        "invented_ethnicity"
+      ],
+      "entities": {
+        "people": [
+          "Slobodan Milo\u0161evi\u0107",
+          "Franjo Tudjman",
+          "Josip Tito"
+        ],
+        "places": [
+          "Yugoslavia",
+          "Bosnia",
+          "Croatia",
+          "Serbia",
+          "Srebrenica"
+        ],
+        "events": [
+          "Dayton Accords"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Tudjman glorified Croatian Usta\u0161a government that murdered 100,000+ Serbs under Nazi occupation, while Milo\u0161evi\u0107 promoted Serbian Chetniks over communist partisans who had fought for multiethnic Yugoslavia",
+          "speaker": null
+        },
+        {
+          "text": "Serb nationalists coined phrase 'etni\u010dko \u010di\u0161\u0107enje' (ethnic cleansing) for attacks that were not actually ethnic since Serbs, Croats, and Bosnian Muslims spoke same language",
+          "speaker": null
+        },
+        {
+          "text": "UN peacekeepers proved 'worse than nothing' - lightly armed and authorized only to defend themselves, they became hostages while Dutch peacekeepers drank champagne as Serbs led away 8,000 Srebrenica men to be shot",
+          "speaker": null
+        },
+        {
+          "text": "Only US/NATO military intervention resolved conflict, with Dayton Accords recognizing partition established by ethnic cleansing",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-082",
+      "text": "Rwanda's 1994 genocide killed 800,000-1 million people (three-quarters of Tutsi population) through mass popular participation in murders that exploited invented racial differences created by colonial missionaries and administrators",
+      "chapter": "Mass Murder",
+      "concepts": [
+        "racial_invention",
+        "popular_participation",
+        "religious_complicity",
+        "mass_genocide"
+      ],
+      "entities": {
+        "people": [
+          "Juv\u00e9nal Habyarimana",
+          "Melchior Ndadaye"
+        ],
+        "places": [
+          "Rwanda",
+          "Burundi",
+          "Uganda",
+          "Kigali"
+        ],
+        "events": [
+          "Rwandan genocide"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "White Fathers missionaries created racial understanding of pastoralist Tutsis as descendants of Noah's son Ham - tall, slender, fair - versus short, dark Hutu farmers, allowing only Tutsis access to higher education",
+          "speaker": null
+        },
+        {
+          "text": "Radio Milles Collines broadcast calls for extermination of 'Inyenzi' (cockroaches) while crowds publicly slaughtered Tutsi cattle in festive atmosphere before attacking owners",
+          "speaker": null
+        },
+        {
+          "text": "Unlike church sanctuary respected in early 1960s violence, 1994 crowds no longer respected sacred premises and many Hutu clergy condoned or joined murderous assaults",
+          "speaker": null
+        },
+        {
+          "text": "Popular participation was extraordinary - neighbors and acquaintances tracked down fleeing victims, with informants needed precisely because 'racial' differences were largely invisible",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-083",
+      "text": "The immediate post-World War II period generated unprecedented global utopian aspirations centered on three elements: worldwide governance through the United Nations, emancipation from fascist oppression creating new social orders, and liberation from imperialism establishing a transformed international system",
+      "chapter": "Utopias",
+      "concepts": [
+        "global_governance",
+        "post_war_reconstruction",
+        "anti_imperialism",
+        "international_organization"
+      ],
+      "entities": {
+        "people": [
+          "Jan Smuts",
+          "Harold Rome",
+          "Paul Robeson",
+          "Mohandas Gandhi",
+          "Jawaharlal Nehru"
+        ],
+        "places": [
+          "San Francisco",
+          "Manchester",
+          "United Nations"
+        ],
+        "events": [
+          "UN founding conference 1945",
+          "Pan-African Congress 1945"
+        ],
+        "works": [
+          "March of the United Nations",
+          "UN Charter"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The UN was extraordinarily popular - 81% of Americans supported joining 'a world organization with police power to maintain world peace' and six major US cities bid to host UN headquarters",
+          "speaker": null
+        },
+        {
+          "text": "Mankind has arrived at the crisis of its fate... of its future as a civilized world",
+          "speaker": "Jan Smuts"
+        },
+        {
+          "text": "The 'March of the United Nations' song by Harold Rome became a global anthem, sung from the United States to the Philippines and India through the 1980s",
+          "speaker": null
+        },
+        {
+          "text": "Both anti-imperialist leaders like Gandhi and Nehru and Pan-Africanists at the Manchester Congress endorsed world government as essential for their liberation struggles",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-084",
+      "text": "Post-liberation aspirations from European fascism envisioned new societies emerging from resistance movements, but these hopes were quickly undermined by the return of pre-war political figures and institutions, inadequate punishment of collaborators, and the priority of consumer prosperity over social transformation",
+      "chapter": "Utopias",
+      "concepts": [
+        "resistance_movements",
+        "social_transformation",
+        "communist_expansion",
+        "consumer_culture"
+      ],
+      "entities": {
+        "people": [
+          "Benito Mussolini",
+          "Pius XII",
+          "Vittorio Emanuele III"
+        ],
+        "places": [
+          "France",
+          "Italy",
+          "Val d'Ossola",
+          "Savoy",
+          "Saxony"
+        ],
+        "events": [
+          "French Liberation 1944",
+          "Italian partisan republics"
+        ],
+        "works": [
+          "Charter of National Council of Resistance"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "French resistance Charter of March 1944 demanded not just liberation but 'a new republic' with nationalized economic centers and expanded social welfare for both metropolitan France and colonial subjects",
+          "speaker": null
+        },
+        {
+          "text": "Italian partisans created fifteen 'partisan republics' practicing direct democracy, while in Val d'Ossola a woman was appointed as government minister before women had the vote",
+          "speaker": null
+        },
+        {
+          "text": "Communist party membership grew sixfold across Europe outside the USSR, from one million in 1939 to six million by 1945, with dramatic increases in Greece (6,000 to 350,000) and Italy (6,000 to 1.8 million)",
+          "speaker": null
+        },
+        {
+          "text": "By the 1950s, former fascists and collaborators had returned to public life as Cold War priorities superseded justice, while consumer society replaced aspirations for social transformation",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-085",
+      "text": "Anti-imperialist movements generated the most enduring of post-1945 utopian aspirations, linking individual liberation struggles to universal human transformation, but independence often produced disappointment as new nation-states fell short of revolutionary promises",
+      "chapter": "Utopias",
+      "concepts": [
+        "anti_imperialism",
+        "national_liberation",
+        "pan_africanism",
+        "self_determination"
+      ],
+      "entities": {
+        "people": [
+          "Subhas Chandra Bose",
+          "Muhammad Ali Jinnah",
+          "Bhimrao Ambedkar",
+          "Aim\u00e9 C\u00e9saire",
+          "L\u00e9opold Senghor",
+          "S\u00e9kou Tour\u00e9",
+          "Frantz Fanon"
+        ],
+        "places": [
+          "India",
+          "Singapore",
+          "Delhi",
+          "Calcutta",
+          "Ghana",
+          "Martinique",
+          "Senegal"
+        ],
+        "events": [
+          "Quit India campaign",
+          "Indian Independence 1947",
+          "Ghana independence 1957"
+        ],
+        "works": [
+          "UN Resolution 1514"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Subhas Chandra Bose's Indian National Army veterans received 'riotous welcome' with parades and garlands after their trial, with hundreds of thousands in Calcutta chanting 'Jai Hind' on Independence Day 1947",
+          "speaker": null
+        },
+        {
+          "text": "a new society, rich with modern productive power and warm with ancient fraternity",
+          "speaker": "Aim\u00e9 C\u00e9saire"
+        },
+        {
+          "text": "a new civilization, whose center will be in Paris, a new humanism... on the scale of the universe and of humanity",
+          "speaker": "L\u00e9opold Senghor"
+        },
+        {
+          "text": "The 1960 UN Declaration on Independence (Resolution 1514) established national self-determination as an 'inviolable right' after Pan-Africanists fought for its inclusion in human rights frameworks",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-086",
+      "text": "Nuclear weapons created the apocalyptic fear that balanced post-war utopian hopes, with widespread belief that atomic war was inevitable unless fundamental global transformation occurred, leading to the slogan 'one world or none'",
+      "chapter": "Utopias",
+      "concepts": [
+        "nuclear_weapons",
+        "atomic_age",
+        "civil_defense",
+        "disarmament_movement"
+      ],
+      "entities": {
+        "people": [
+          "H. V. Kaltenborn",
+          "Mao Zedong"
+        ],
+        "places": [
+          "Hiroshima",
+          "Nagasaki",
+          "Stockholm"
+        ],
+        "events": [
+          "atomic bombings 1945",
+          "Lucky Dragon incident 1954",
+          "Cuban Missile Crisis 1962"
+        ],
+        "works": [
+          "One World or None",
+          "Stockholm Peace Appeal"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "mortal flames never before seen on the horizons of the universe",
+          "speaker": "The Vatican's newspaper"
+        },
+        {
+          "text": "infernal era",
+          "speaker": "The Vatican's newspaper"
+        },
+        {
+          "text": "the most grimly Pyrrhic of victories",
+          "speaker": "Time magazine"
+        },
+        {
+          "text": "signed the mammalian world's death warrant",
+          "speaker": "St. Louis Post Dispatch"
+        },
+        {
+          "text": "The Federation of American Scientists' pamphlet 'One World or None' sold over 100,000 copies within weeks of 1946 publication",
+          "speaker": null
+        },
+        {
+          "text": "The 1954 Lucky Dragon incident, when Japanese fishermen were irradiated by US H-bomb fallout, sparked global 'ban the bomb' movements and civil defense programs that officials privately admitted were worthless",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-087",
+      "text": "Three prophetic works captured the rapid disillusionment with post-war hopes: Orwell's '1984' depicting endless totalitarian war, Djilas's analysis of communist betrayal, and Fanon's warning that anti-colonial liberation was being corrupted by opportunistic elites",
+      "chapter": "Utopias",
+      "concepts": [
+        "totalitarian_control",
+        "revolutionary_betrayal",
+        "political_disillusionment",
+        "bureaucratic_authoritarianism"
+      ],
+      "entities": {
+        "people": [
+          "George Orwell",
+          "Milovan Djilas",
+          "Frantz Fanon",
+          "Josip Broz Tito"
+        ],
+        "places": [
+          "London",
+          "Yugoslavia",
+          "Algeria",
+          "Martinique"
+        ],
+        "events": [
+          "Spanish Civil War",
+          "Yugoslav resistance",
+          "Algerian War"
+        ],
+        "works": [
+          "1984",
+          "The New Class",
+          "The Wretched of the Earth"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "patched up nineteenth century houses",
+          "speaker": "Orwell"
+        },
+        {
+          "text": "high moral principles",
+          "speaker": "Djilas"
+        },
+        {
+          "text": "devoted, enthusiastic",
+          "speaker": "Djilas"
+        },
+        {
+          "text": "intolerant and Pharisaical morals of a privileged caste",
+          "speaker": "Djilas"
+        },
+        {
+          "text": "Fanon warned that African independence leaders would become authoritarian cronies, turning anti-imperialist movements into vehicles for 'Africanizing' businesses for political allies while neglecting peasants",
+          "speaker": null
+        },
+        {
+          "text": "All three authors died shortly after completing their prophetic works, having witnessed the transformation of their revolutionary hopes into bureaucratic disappointments",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-088",
+      "text": "The 1960s global upheavals represented a second wave of utopian aspirations centered on 'participation' and Third World inspiration, emerging from affluent societies but spreading worldwide through shared generational experiences and television coverage",
+      "chapter": "Utopias",
+      "concepts": [
+        "student_movements",
+        "participatory_democracy",
+        "generational_rebellion",
+        "third_world_solidarity"
+      ],
+      "entities": {
+        "people": [
+          "Tariq Ali",
+          "Malcolm X",
+          "Daniel Cohn-Bendit",
+          "Rudi Dutschke",
+          "Che Guevara",
+          "Mao Zedong"
+        ],
+        "places": [
+          "Pakistan",
+          "Rawalpindi",
+          "Dhaka",
+          "Oxford",
+          "Berkeley",
+          "Paris"
+        ],
+        "events": [
+          "1968 student uprisings",
+          "Bangladesh independence 1971"
+        ],
+        "works": [
+          "Port Huron Statement",
+          "SDS"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Pakistan's 1968 student riots began with customs violations in Rawalpindi but spread nationwide when British-educated Tariq Ali returned to lead demonstrations, culminating in President Ayub Khan's resignation",
+          "speaker": null
+        },
+        {
+          "text": "participatory democracy",
+          "speaker": "SDS Port Huron Statement"
+        },
+        {
+          "text": "motives worthier than money or survival",
+          "speaker": "SDS Port Huron Statement"
+        },
+        {
+          "text": "meaningless work",
+          "speaker": "SDS Port Huron Statement"
+        },
+        {
+          "text": "depersonalization",
+          "speaker": "SDS Port Huron Statement"
+        },
+        {
+          "text": "Sixties activists were typically 'red diaper babies' from left-wing families, but rejected their parents' gradualist politics for aggressive action on new issues like self-actualization and opposition to bureaucratic hierarchy",
+          "speaker": null
+        },
+        {
+          "text": "Vietnam War opposition became central to global student movements everywhere - from France's National Vietnam Committees to West Germany's 1968 Vietnam Congress to Palestinian Fatah's adoption of Vietnamese struggle as their model",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-089",
+      "text": "China's Great Proletarian Cultural Revolution and France's May 1968 events represented the quintessential sixties upheavals, both involving massive youth mobilization with utopian aspirations but ultimately suppressed by state power and nationalist sentiment",
+      "chapter": "Utopias",
+      "concepts": [
+        "cultural_revolution",
+        "student_worker_alliance",
+        "self_management",
+        "state_repression"
+      ],
+      "entities": {
+        "people": [
+          "Mao Zedong",
+          "Zhang Chunqiao",
+          "Wang Hongwen",
+          "Charles de Gaulle",
+          "Daniel Cohn-Bendit"
+        ],
+        "places": [
+          "Beijing",
+          "Shanghai",
+          "Paris",
+          "Nanterre",
+          "Sorbonne"
+        ],
+        "events": [
+          "Cultural Revolution 1966-1976",
+          "May 1968 France",
+          "Night of barricades May 13-14"
+        ],
+        "works": [
+          "Gang of Four"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Mao mobilized Red Guards to attack 'black families' and party bureaucrats, but the movement devolved into biological racism where political position was inherited, with slogans like 'My father is a revolutionary so I inherit the pledge... Your father is a criminal'",
+          "speaker": null
+        },
+        {
+          "text": "Shanghai's 1967 People's Commune, modeled on the Paris Commune of 1871, was suppressed when authorities decided the rebel workers were promoting 'economism' rather than revolutionary devotion",
+          "speaker": null
+        },
+        {
+          "text": "France's May 1968 saw 7-10 million workers on strike after student uprisings, with demands for 'autogestion' (self-management) spreading beyond material concerns to rejection of bureaucratic hierarchy",
+          "speaker": null
+        },
+        {
+          "text": "Both movements ended with state repression and nationalist resurgence - Mao sent Red Guards to countryside for 're-education' while de Gaulle's June radio address sparked massive counter-demonstration on Champs \u00c9lys\u00e9es",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-090",
+      "text": "The legacy of sixties radicalism split between successful political integration into center-left parties, failed extremist movements like Maoists and terrorists, and transformation into single-issue movements focused on environmentalism, feminism, and human rights",
+      "chapter": "Utopias",
+      "concepts": [
+        "political_integration",
+        "extremist_movements",
+        "human_rights",
+        "international_ngos"
+      ],
+      "entities": {
+        "people": [
+          "Willy Brandt",
+          "Helmut Schmidt",
+          "Fran\u00e7ois Mitterrand",
+          "Jos\u00e9 Mujica",
+          "Deng Xiaoping"
+        ],
+        "places": [
+          "West Germany",
+          "France",
+          "Uruguay",
+          "Eastern Europe"
+        ],
+        "events": [
+          "Social Democratic victories 1970s",
+          "Terrorist campaigns 1970s-80s"
+        ],
+        "works": [
+          "Amnesty International",
+          "Doctors without Borders"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Former New Leftists revitalized Social Democratic parties, leading to victories like Willy Brandt in West Germany (1972) and Fran\u00e7ois Mitterrand in France (1981), while Jos\u00e9 Mujica became Uruguay's president in 2010 as a former Tupamaro guerrilla",
+          "speaker": null
+        },
+        {
+          "text": "no longer a communist country",
+          "speaker": null
+        },
+        {
+          "text": "European and Japanese terrorist groups like the Red Army Faction achieved spectacular media attention through kidnappings and assassinations, but their small size and police capabilities led to their eventual defeat",
+          "speaker": null
+        },
+        {
+          "text": "Human rights organizations like Amnesty International expanded rapidly, with international NGOs growing from 2,795 in 1972 to 12,686 in 1984, though some criticized this as abandoning Third World solidarity for paternalist condescension",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-091",
+      "text": "The fall of the Berlin Wall in 1989 generated a third wave of utopian aspirations centered on free-market capitalism under benevolent American hegemony, representing a right-wing utopia of economists and policymakers rather than dissidents and insurgents",
+      "chapter": "Utopias",
+      "concepts": [
+        "free_market",
+        "american_hegemony",
+        "end_of_history",
+        "neoliberalism"
+      ],
+      "entities": {
+        "people": [
+          "Francis Fukuyama",
+          "Friedrich Hayek",
+          "Milton Friedman",
+          "Margaret Thatcher",
+          "Ronald Reagan"
+        ],
+        "places": [
+          "Berlin",
+          "Vienna",
+          "Chicago",
+          "London"
+        ],
+        "events": [
+          "Fall of Berlin Wall 1989",
+          "End of Cold War"
+        ],
+        "works": [
+          "The End of History",
+          "The Road to Serfdom",
+          "Mont P\u00e8lerin Society"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "world-historical singularity",
+          "speaker": null
+        },
+        {
+          "text": "personal freedom and wealth of consumer goods",
+          "speaker": null
+        },
+        {
+          "text": "The End of History",
+          "speaker": "Francis Fukuyama"
+        },
+        {
+          "text": "basic questions about the most desirable economic and political order",
+          "speaker": "Francis Fukuyama"
+        },
+        {
+          "text": "The Road to Serfdom",
+          "speaker": "Friedrich Hayek"
+        },
+        {
+          "text": "The Mont P\u00e8lerin Society, formed in 1947, had promoted economic orthodoxy for decades, with Friedrich Hayek's 'The Road to Serfdom' gaining massive influence through a simplified Reader's Digest version distributed by corporations",
+          "speaker": null
+        },
+        {
+          "text": "Milton Friedman became the leading popularizer of free-market utopianism, insisting that self-interest-oriented market solutions would benefit everyone, including the poor through abolished welfare and weakened unions",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-092",
+      "text": "Post-communist Eastern Europe became the testing ground for free-market utopianism through 'shock therapy,' but the results were catastrophic economic decline, gangsterism, and eventual authoritarian backlash rather than the promised prosperity and democracy",
+      "chapter": "Utopias",
+      "concepts": [
+        "shock_therapy",
+        "economic_transformation",
+        "privatization",
+        "authoritarian_backlash"
+      ],
+      "entities": {
+        "people": [
+          "Leszek Balcerowicz",
+          "Matt Laar",
+          "V\u00e1clav Klaus",
+          "Vladimir Putin",
+          "Viktor Orb\u00e1n",
+          "Sergei Mavrodi"
+        ],
+        "places": [
+          "Poland",
+          "Estonia",
+          "Czech Republic",
+          "Russia",
+          "Hungary",
+          "Albania"
+        ],
+        "events": [
+          "Solidarity movement 1980s",
+          "Post-communist transition 1990s",
+          "Russian financial crisis 1998"
+        ],
+        "works": [
+          "Free to Choose"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Polish Solidarity leaders chose not to rebuild their union, viewing labor organization as an obstacle to market-oriented post-communist Poland under finance minister Leszek Balcerowicz",
+          "speaker": null
+        },
+        {
+          "text": "the only thing he knew about economics was from reading Milton Friedman's Free to Choose",
+          "speaker": "Matt Laar"
+        },
+        {
+          "text": "Russia experienced a 61% GDP decline under shock therapy - the poster child for marketization - while pyramid schemes like MMM offered 1,000% returns until they collapsed",
+          "speaker": null
+        },
+        {
+          "text": "By 2010, most Eastern European countries took over a decade to regain 1989 GDP levels, with maximum declines ranging from 12% (Poland) to 61% (Russia), leading to authoritarian nationalist backlash under leaders like Putin and Orb\u00e1n",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-093",
+      "text": "The post-1989 global order collapsed in the first decade of the twenty-first century through the disastrous 2003 Iraq invasion and the 2008 financial crisis, both products of overconfident belief in American hegemony and unregulated markets",
+      "chapter": "Utopias",
+      "concepts": [
+        "american_overreach",
+        "financial_deregulation",
+        "imperial_blowback",
+        "market_fundamentalism"
+      ],
+      "entities": {
+        "people": [
+          "George W. Bush",
+          "Paul Wolfowitz",
+          "Condoleezza Rice",
+          "L. Paul Bremer",
+          "Osama bin Laden"
+        ],
+        "places": [
+          "Iraq",
+          "Baghdad",
+          "Afghanistan",
+          "Wall Street"
+        ],
+        "events": [
+          "9/11 attacks 2001",
+          "Iraq invasion 2003",
+          "Financial crisis 2008",
+          "Lehman Brothers bankruptcy"
+        ],
+        "works": [
+          "Heritage Foundation"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "the first genuine free-market economy in the Arab world",
+          "speaker": null
+        },
+        {
+          "text": "cornerstone of democracy in the Middle East",
+          "speaker": "Paul Wolfowitz"
+        },
+        {
+          "text": "the fall of the Soviet Union",
+          "speaker": "Condoleezza Rice"
+        },
+        {
+          "text": "The 2008 financial crisis resulted from decades of deregulation based on Milton Friedman's principles, including the refusal to rescue Lehman Brothers due to 'moral hazard' concerns",
+          "speaker": null
+        },
+        {
+          "text": "the United States got what it deserved",
+          "speaker": null
+        },
+        {
+          "text": "arrogant and sometimes criminal",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-094",
+      "text": "Global interconnection accelerated dramatically in the 2000s with international financial transactions rising from $1.5 trillion daily in 1998 to $4 trillion by 2010, while Internet access expanded from under 1% of world population in 1995 to 29% in 2010, though access remained highly unequal between rich and poor countries",
+      "chapter": "Aftermath",
+      "concepts": [
+        "digital_revolution",
+        "global_communications",
+        "internet_censorship",
+        "digital_divide"
+      ],
+      "entities": {
+        "people": [
+          "Xi Jinping",
+          "Marshall McLuhan"
+        ],
+        "places": [
+          "China",
+          "India",
+          "Indonesia",
+          "Chad",
+          "Wuhan"
+        ],
+        "events": [
+          "iPhone launch 2007",
+          "World Internet Conference 2015"
+        ],
+        "works": [
+          "Great Firewall",
+          "Golden Shield Project"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Global migrants increased from 174 million in 2000 to 221 million in 2010, with remittances growing from $126 billion in 2002 to $698 billion in 2018",
+          "speaker": null
+        },
+        {
+          "text": "The smartphone revolution began with Apple's iPhone in 2007, liberating Internet access from wired networks and enabling rapid expansion in developing countries",
+          "speaker": null
+        },
+        {
+          "text": "countries had the right to independently choose their own path of cyber-development",
+          "speaker": "Xi Jinping"
+        },
+        {
+          "text": "Internet access varied dramatically by wealth - over 75% in wealthy countries by 2017, but only 30% in India and Indonesia, and 5% in Chad",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-095",
+      "text": "China's extraordinary economic growth between 2000-2010 at 12.9% annually transformed it from producing 2.3% of world GDP in 1990 to 13.2% in 2010, creating massive global demand for raw materials while flooding world markets with manufactured exports that disrupted employment patterns worldwide",
+      "chapter": "Aftermath",
+      "concepts": [
+        "chinese_economic_miracle",
+        "global_manufacturing",
+        "resource_demand",
+        "trade_imbalances"
+      ],
+      "entities": {
+        "people": [
+          "Mao Zedong",
+          "Deng Xiaoping"
+        ],
+        "places": [
+          "China",
+          "Australia",
+          "Africa",
+          "Latin America"
+        ],
+        "events": [
+          "Great Leap Forward",
+          "Chinese economic reform"
+        ],
+        "works": [
+          "Belt and Road Initiative"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "China's urban population grew by 200 million people between 2000-2010, more than the entire population of all but four countries, while electrical generating capacity tripled from 300 to 1,000 gigawatts",
+          "speaker": null
+        },
+        {
+          "text": "By 2008, China produced more cement than the rest of the world combined, with production from 2011-2013 exceeding total US cement production in the entire twentieth century",
+          "speaker": null
+        },
+        {
+          "text": "China's trade surplus soared from under $12 billion yearly until 1996 to a peak of $349 billion in 2008, with exports creating an estimated 2 million job losses in US manufacturing",
+          "speaker": null
+        },
+        {
+          "text": "Chinese demand drove Africa's first sustained economic growth in thirty years, with GDP growth above 3% every year after 2000, including during the 2009 crisis",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-096",
+      "text": "The 2003 US invasion of Iraq represented the pinnacle of post-Cold War American hubris, based on false premises about weapons of mass destruction and undertaken with minimal troops and planning, ultimately strengthening both Sunni and Shi'ite Islamism while destroying America's global credibility",
+      "chapter": "Aftermath",
+      "concepts": [
+        "american_hegemony",
+        "military_overreach",
+        "nation_building",
+        "iraqi_insurgency"
+      ],
+      "entities": {
+        "people": [
+          "George W. Bush",
+          "Paul Wolfowitz",
+          "Condoleezza Rice",
+          "L. Paul Bremer",
+          "Saddam Hussein"
+        ],
+        "places": [
+          "Iraq",
+          "Baghdad",
+          "Abu Ghraib",
+          "Green Zone"
+        ],
+        "events": [
+          "Iraq invasion 2003",
+          "Abu Ghraib scandal"
+        ],
+        "works": [
+          "Heritage Foundation",
+          "Coalition Provisional Authority"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The invasion used half the troops military planning called for, dismissing UN objections and NATO allies to rely on a 'coalition of the willing' consisting mainly of Britain and Eastern European states whose soldiers didn't participate in combat",
+          "speaker": null
+        },
+        {
+          "text": "L. Paul Bremer's Coalition Provisional Authority disbanded the entire Iraqi army and banned Ba'ath Party members from government, leaving hundreds of thousands of trained, angry men unemployed",
+          "speaker": null
+        },
+        {
+          "text": "The promised Arab free-market utopia collapsed immediately - the electronic stock market lacked electricity, taxes couldn't be collected due to chaos, and no one wanted to buy dilapidated state enterprises",
+          "speaker": null
+        },
+        {
+          "text": "Mass roundups and prisoner torture at Abu Ghraib generated global revulsion, while the unguarded borders allowed Islamist fighters to pour in and merge with dismissed Ba'athist soldiers",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-097",
+      "text": "The 2008 global financial crisis emerged from decades of deregulation based on free-market ideology, spreading worldwide through globalized financial networks and forcing governments to abandon their market fundamentalism overnight to prevent economic collapse",
+      "chapter": "Aftermath",
+      "concepts": [
+        "financial_deregulation",
+        "mortgage_crisis",
+        "global_contagion",
+        "government_intervention"
+      ],
+      "entities": {
+        "people": [
+          "Milton Friedman",
+          "Barack Obama"
+        ],
+        "places": [
+          "Wall Street",
+          "Europe",
+          "Portugal",
+          "Ireland",
+          "Italy",
+          "Greece",
+          "Spain"
+        ],
+        "events": [
+          "Lehman Brothers bankruptcy 2008",
+          "European debt crisis 2010-11"
+        ],
+        "works": [
+          "Washington Consensus"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The crisis originated in US real estate bubbles funded by deregulated mortgage lending, with complex financial instruments like collateralized debt obligations purchased globally using borrowed money",
+          "speaker": null
+        },
+        {
+          "text": "moral hazard",
+          "speaker": "Milton Friedman"
+        },
+        {
+          "text": "The Lehman Brothers bankruptcy was deliberately allowed by government officials following Milton Friedman's moral hazard theory, triggering global panic and production collapses faster than after 1929",
+          "speaker": null
+        },
+        {
+          "text": "Government and central bank intervention totaling trillions of dollars contradicted decades of free-market rhetoric, with even post-communist countries repealing flat taxes and renationalizing pension funds",
+          "speaker": null
+        },
+        {
+          "text": "The subsequent European debt crisis of 2010-11 required massive unemployment and austerity in PIIGS countries (Portugal, Ireland, Italy, Greece, Spain) whose shared euro currency prevented devaluation responses",
+          "speaker": null
+        }
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-098",
+      "text": "The Age of Interconnection was fundamentally an 'age of exponentials' where rapid and accelerating growth occurred across virtually all spheres of human activity, from population and economic output to environmental impact and technological adoption",
+      "chapter": "Conclusions",
+      "concepts": [
+        "exponential_growth",
+        "technological_acceleration",
+        "demographic_change",
+        "environmental_impact"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "Oil price shocks 1970s",
+          "Montreal Protocol"
+        ],
+        "works": [
+          "Limits to Growth",
+          "Club of Rome"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Human population took hundreds of thousands of years to reach 2.5 billion by 1950, then added another 2.5 billion in just 40 years to 1987, exemplifying the vertical acceleration of exponential curves",
+          "speaker": null
+        },
+        {
+          "text": "Global exports grew only 2.5 times between 1900-1950 but then twenty-two-fold in the next fifty years, nearly ten times faster",
+          "speaker": null
+        },
+        {
+          "text": "Atmospheric CO2 increased 25 parts per million from 1750-1960 (over 210 years) but 55 ppm from 1960-2000 (40 years), more than twice as much in one-fifth the time",
+          "speaker": null
+        },
+        {
+          "text": "Many exponential trends ended in the Late-Millennium Era - population growth rates declined, oil consumption growth stopped after 1970s price shocks, and internet access will plateau as saturation approaches",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-099",
+      "text": "The period featured competing global orders rather than true global governance, with the Cold War representing two conflicting visions of worldwide political and economic organization, followed by a brief post-1989 American-led order that quickly collapsed",
+      "chapter": "Conclusions",
+      "concepts": [
+        "global_governance",
+        "cold_war_competition",
+        "institutional_development",
+        "third_world_alternatives"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "North Atlantic",
+          "East Asia",
+          "Asia",
+          "Africa"
+        ],
+        "events": [
+          "Cold War 1947-1991",
+          "Nonaligned Movement"
+        ],
+        "works": [
+          "World Bank",
+          "IMF",
+          "GATT",
+          "COMECON"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Cold War differences were clearest in economic structures - markets versus planning, private versus public ownership - though both sides shared beliefs in progress, science, and technological solutions",
+          "speaker": null
+        },
+        {
+          "text": "The West's global institutions (World Bank, IMF, GATT) proved more durable and influential than communist COMECON, gradually drawing communist states into Western-dominated global markets",
+          "speaker": null
+        },
+        {
+          "text": "Third World attempts at alternative orders through nonaligned movements and New International Economic Order failed due to internal divisions and Cold War pressures",
+          "speaker": null
+        },
+        {
+          "text": "Future global orders must involve East Asian countries as equal partners and potentially address humanity's relationship with the biosphere, not just economic and military alignments",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-100",
+      "text": "Contrary to expectations that economic globalization would create cosmopolitanism, increasing global interconnection actually strengthened nationalism, particularism, and religious intolerance, with global networks serving to spread anti-cosmopolitan ideas rather than suppress them",
+      "chapter": "Conclusions",
+      "concepts": [
+        "globalization_paradox",
+        "nationalism",
+        "biblical_fundamentalism",
+        "cosmopolitan_failure"
+      ],
+      "entities": {
+        "people": [
+          "Karl Marx",
+          "Friedrich Engels"
+        ],
+        "places": [],
+        "events": [
+          "Bosnian ethnic cleansing"
+        ],
+        "works": [
+          "Communist Manifesto"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "national one-sidedness and narrow-mindedness",
+          "speaker": "Marx and Engels"
+        },
+        {
+          "text": "The opposite occurred - enthusiasm for global governance was strongest in the postwar era when economic interchange was relatively low, while Late-Millennium Era globalization coincided with flourishing nationalism",
+          "speaker": null
+        },
+        {
+          "text": "Global media networks spread nationalism through international sports broadcasting, while integralist religions like evangelical Christianity and Salafism used global connections more effectively than modernist competitors",
+          "speaker": null
+        },
+        {
+          "text": "Global economic changes undermined employment and community stability, making nations and religions attractive sources of certainty and belonging in an uncertain world",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-101",
+      "text": "The era was defined by the 'triumph of the prosaic' over both utopian expectations and apocalyptic fears, with globalization creating worldwide stabilizing structures that limited possibilities for radical transformation while preventing the worst-case scenarios",
+      "chapter": "Conclusions",
+      "concepts": [
+        "prosaic_triumph",
+        "utopian_disillusionment",
+        "global_stabilization",
+        "institutional_memory"
+      ],
+      "entities": {
+        "people": [
+          "Margaret Thatcher",
+          "Ronald Reagan",
+          "Mikhail Gorbachev",
+          "Deng Xiaoping",
+          "Nelson Mandela"
+        ],
+        "places": [],
+        "events": [
+          "Green Revolution",
+          "Nuclear deterrence"
+        ],
+        "works": [
+          "United Nations"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Great expectations included global government, atomic energy paradise, space colonization, elimination of disease, revolutionary social transformation, and the 'end of history' under American hegemony",
+          "speaker": null
+        },
+        {
+          "text": "Major fears encompassed nuclear holocaust, mass starvation from overpopulation, resource depletion, environmental destruction, and divine apocalypse through integralist religion",
+          "speaker": null
+        },
+        {
+          "text": "The Green Revolution decisively counteracted population growth fears, while the taming of labor movements, failure of nonaligned countries to form effective blocs, collapse of communism, and spread of consumer society all stabilized global capitalism",
+          "speaker": null
+        },
+        {
+          "text": "While neither utopian hopes nor apocalyptic fears were fully realized, both left important legacies including the UN system, expanded social welfare, human rights movements, environmental protection, and nuclear deterrence preventing world war",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-001",
+      "title": "Nature",
+      "summary": "Human interaction with the natural environment reached a new qualitative level in the second half of the twentieth century, evolving from taking nature for granted in the postwar era to environmental awareness in the 1960s-70s, culminating in global climate challenges that defied traditional policy responses.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-001",
+        "the-age-of-interconnection-a-global-history-of-the-002",
+        "the-age-of-interconnection-a-global-history-of-the-003",
+        "the-age-of-interconnection-a-global-history-of-the-004",
+        "the-age-of-interconnection-a-global-history-of-the-005"
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-002",
+      "title": "Disease",
+      "summary": "The second half of the twentieth century witnessed a dramatic epidemiological transition from infectious to noninfectious diseases as primary causes of mortality, driven by antimicrobial drugs in the early period, followed by the emergence of new challenges including antibiotic resistance and AIDS in the later decades.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-006",
+        "the-age-of-interconnection-a-global-history-of-the-007",
+        "the-age-of-interconnection-a-global-history-of-the-008",
+        "the-age-of-interconnection-a-global-history-of-the-009",
+        "the-age-of-interconnection-a-global-history-of-the-010",
+        "the-age-of-interconnection-a-global-history-of-the-011",
+        "the-age-of-interconnection-a-global-history-of-the-012",
+        "the-age-of-interconnection-a-global-history-of-the-013"
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-003",
+      "title": "Technologies",
+      "summary": "Technological development in the Age of Interconnection followed a pattern where innovations from the Age of Total War spread globally in the postwar decades with great expectations, faced limitations and disillusionment in the 1970s, and found unexpected new applications in the final decades of the century.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-014",
+        "the-age-of-interconnection-a-global-history-of-the-015",
+        "the-age-of-interconnection-a-global-history-of-the-016",
+        "the-age-of-interconnection-a-global-history-of-the-017",
+        "the-age-of-interconnection-a-global-history-of-the-018",
+        "the-age-of-interconnection-a-global-history-of-the-019",
+        "the-age-of-interconnection-a-global-history-of-the-020"
+      ],
+      "part": "Part 1: The Material World"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-004",
+      "title": "Markets",
+      "summary": "The postwar era of regulated capitalism and centralized planning gave way after 1973 to increasing market deregulation and globalization, culminating in the collapse of communism and the emergence of a global market economy characterized by both unprecedented integration and persistent inequality.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-021",
+        "the-age-of-interconnection-a-global-history-of-the-022",
+        "the-age-of-interconnection-a-global-history-of-the-023",
+        "the-age-of-interconnection-a-global-history-of-the-024",
+        "the-age-of-interconnection-a-global-history-of-the-025",
+        "the-age-of-interconnection-a-global-history-of-the-026",
+        "the-age-of-interconnection-a-global-history-of-the-027",
+        "the-age-of-interconnection-a-global-history-of-the-028"
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-005",
+      "title": "Migrations",
+      "summary": "Global migration patterns fundamentally transformed between 1945-2000, shifting from the pre-1914 era of temporary labor migration to permanent settlement driven by war, decolonization, economic opportunities, and changing legal frameworks that created new forms of transnational movement.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-029",
+        "the-age-of-interconnection-a-global-history-of-the-030",
+        "the-age-of-interconnection-a-global-history-of-the-031",
+        "the-age-of-interconnection-a-global-history-of-the-032",
+        "the-age-of-interconnection-a-global-history-of-the-033",
+        "the-age-of-interconnection-a-global-history-of-the-034",
+        "the-age-of-interconnection-a-global-history-of-the-035"
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-006",
+      "title": "The Powers",
+      "summary": "International relations from 1945-2001 were structured by two major conflicts - the Cold War between opposing ideological blocs and the Global Realignment Struggle of formerly colonized peoples seeking to reshape world power - that intersected, transformed each other, and ultimately ended with American dominance giving way to new forms of conflict.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-036",
+        "the-age-of-interconnection-a-global-history-of-the-037",
+        "the-age-of-interconnection-a-global-history-of-the-038",
+        "the-age-of-interconnection-a-global-history-of-the-039",
+        "the-age-of-interconnection-a-global-history-of-the-040",
+        "the-age-of-interconnection-a-global-history-of-the-041",
+        "the-age-of-interconnection-a-global-history-of-the-042",
+        "the-age-of-interconnection-a-global-history-of-the-043"
+      ],
+      "part": "Part 2: Interactions"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-007",
+      "title": "Societies",
+      "summary": "The Age of Interconnection fundamentally transformed the building blocks of human society - classes, generations, and genders - creating new global patterns of inequality and social organization that replaced older national and regional structures.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-044",
+        "the-age-of-interconnection-a-global-history-of-the-045",
+        "the-age-of-interconnection-a-global-history-of-the-046",
+        "the-age-of-interconnection-a-global-history-of-the-047",
+        "the-age-of-interconnection-a-global-history-of-the-048"
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-008",
+      "title": "Labor",
+      "summary": "Labor experienced dramatic ascendancy in the postwar era through strikes and unionization, reached peak militancy in the 1970s, but then suffered decisive defeats in the 1980s as globalization undermined the national institutional frameworks that had protected workers.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-049",
+        "the-age-of-interconnection-a-global-history-of-the-050",
+        "the-age-of-interconnection-a-global-history-of-the-051",
+        "the-age-of-interconnection-a-global-history-of-the-052",
+        "the-age-of-interconnection-a-global-history-of-the-053"
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-009",
+      "title": "Leisure",
+      "summary": "The Age of Interconnection became the age of leisure through declining work hours and expanding free time, dominated by two major activities - television viewing and tourism - that created new forms of global cultural connection and stratification.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-054",
+        "the-age-of-interconnection-a-global-history-of-the-055",
+        "the-age-of-interconnection-a-global-history-of-the-056",
+        "the-age-of-interconnection-a-global-history-of-the-057",
+        "the-age-of-interconnection-a-global-history-of-the-058"
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-010",
+      "title": "Consumers",
+      "summary": "The Age of Interconnection saw the global spread of consumer society from its North Atlantic origins, transforming from aspirational goal in the 1950s to worldwide phenomenon by century's end, though with uneven distribution and eventual stagnation in wealthy countries while expanding rapidly in Asia.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-059",
+        "the-age-of-interconnection-a-global-history-of-the-060",
+        "the-age-of-interconnection-a-global-history-of-the-061",
+        "the-age-of-interconnection-a-global-history-of-the-062",
+        "the-age-of-interconnection-a-global-history-of-the-063",
+        "the-age-of-interconnection-a-global-history-of-the-064",
+        "the-age-of-interconnection-a-global-history-of-the-065",
+        "the-age-of-interconnection-a-global-history-of-the-066"
+      ],
+      "part": "Part 3: Varieties of the Social"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-011",
+      "title": "Beliefs",
+      "summary": "Three major objects of belief - progress, nation, and God - shaped the Age of Interconnection differently: progress peaked in the 1960s then declined dramatically, nationalism triumphed over all challengers to become the dominant form of political identity, while religion experienced both secularization in wealthy countries and revival of integralist forms globally.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-067",
+        "the-age-of-interconnection-a-global-history-of-the-068",
+        "the-age-of-interconnection-a-global-history-of-the-069",
+        "the-age-of-interconnection-a-global-history-of-the-070",
+        "the-age-of-interconnection-a-global-history-of-the-071",
+        "the-age-of-interconnection-a-global-history-of-the-072",
+        "the-age-of-interconnection-a-global-history-of-the-073",
+        "the-age-of-interconnection-a-global-history-of-the-074"
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-012",
+      "title": "Mass Murder",
+      "summary": "Despite post-1945 efforts to prevent genocide through international law and trials, mass murder continued throughout the Cold War and beyond, evolving from ideologically-driven state campaigns in communist and anti-communist contexts to ethnic conflicts in failed states during the 1990s, with perpetrators maintaining near-total impunity.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-075",
+        "the-age-of-interconnection-a-global-history-of-the-076",
+        "the-age-of-interconnection-a-global-history-of-the-077",
+        "the-age-of-interconnection-a-global-history-of-the-078",
+        "the-age-of-interconnection-a-global-history-of-the-079",
+        "the-age-of-interconnection-a-global-history-of-the-080",
+        "the-age-of-interconnection-a-global-history-of-the-081",
+        "the-age-of-interconnection-a-global-history-of-the-082"
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-013",
+      "title": "Utopias",
+      "summary": "Three waves of worldwide utopian aspirations characterized the second half of the twentieth century - post-WWII hopes for global governance and social transformation (1945), radical youth movements and Third World solidarity (1960s), and free-market capitalism under American hegemony (1990s) - all ultimately ending in disillusion despite leaving lasting institutional legacies.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-083",
+        "the-age-of-interconnection-a-global-history-of-the-084",
+        "the-age-of-interconnection-a-global-history-of-the-085",
+        "the-age-of-interconnection-a-global-history-of-the-086",
+        "the-age-of-interconnection-a-global-history-of-the-087",
+        "the-age-of-interconnection-a-global-history-of-the-088",
+        "the-age-of-interconnection-a-global-history-of-the-089",
+        "the-age-of-interconnection-a-global-history-of-the-090",
+        "the-age-of-interconnection-a-global-history-of-the-091",
+        "the-age-of-interconnection-a-global-history-of-the-092",
+        "the-age-of-interconnection-a-global-history-of-the-093"
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-014",
+      "title": "Aftermath",
+      "summary": "The first decade of the twenty-first century saw the acceleration of globalization trends begun in the 1980s, China's dramatic economic rise reshaping global power structures, and the collapse of the post-Cold War American-led order through military overreach and financial crisis.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-094",
+        "the-age-of-interconnection-a-global-history-of-the-095",
+        "the-age-of-interconnection-a-global-history-of-the-096",
+        "the-age-of-interconnection-a-global-history-of-the-097"
+      ],
+      "part": "Part 4: Dreams and Nightmares"
+    },
+    {
+      "id": "the-age-of-interconnection-a-global-history-of-the-ch-015",
+      "title": "Conclusions",
+      "summary": "The second half of the twentieth century was characterized by four unprecedented themes: exponential growth in human activity, competing global orders, the paradoxical coexistence of increasing globalization with strengthening nationalism, and the triumph of prosaic realities over utopian expectations and apocalyptic fears.",
+      "claim_ids": [
+        "the-age-of-interconnection-a-global-history-of-the-098",
+        "the-age-of-interconnection-a-global-history-of-the-099",
+        "the-age-of-interconnection-a-global-history-of-the-100",
+        "the-age-of-interconnection-a-global-history-of-the-101"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 101,
+    "chapter_count": 15,
+    "indexed_at": "2026-01-30T04:40:57.671886Z"
+  }
+}

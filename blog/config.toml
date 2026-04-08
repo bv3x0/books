@@ -1,0 +1,28 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Book Summaries"
+theme = "shibui"
+
+[params]
+  author = "Summarizer"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  collection = "collections"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+  [markup.goldmark.renderer]
+    unsafe = true  # Allow raw HTML in markdown (for claim anchor IDs)

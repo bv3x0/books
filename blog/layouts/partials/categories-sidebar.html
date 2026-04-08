@@ -1,0 +1,59 @@
+{{/* Right sidebar for non-book-note pages */}}
+{{/* Includes latest books and curated collections */}}
+
+{{- $books := where site.RegularPages "Section" "books" -}}
+{{- $latestBooks := first 5 (sort $books "Params.dateAdded" "desc") -}}
+{{- $collections := site.Taxonomies.collections -}}
+{{- $featured := site.Data.collections -}}
+{{- $hasCollections := and $featured $collections -}}
+
+{{ if or (gt (len $latestBooks) 0) $hasCollections }}
+<aside id="categories-sidebar" class="toc-sidebar" aria-label="Site navigation">
+  {{ if $hasCollections }}
+  <div class="toc-sidebar-header">
+    <span class="toc-sidebar-title">Curated Collections</span>
+  </div>
+
+  <nav class="toc-sidebar-content" aria-label="Book collections">
+    <ul>
+      {{- range $featured }}
+      {{- $name := . | lower }}
+      {{- $pages := index $collections $name }}
+      {{- if $pages }}
+      {{- $slug := . | urlize }}
+      <li>
+        <a href="/collections/{{ $slug }}/"{{ if eq $.Title . }} class="active"{{ end }}>
+          {{ . }}
+          <span class="category-count">({{ len $pages }})</span>
+        </a>
+      </li>
+      {{- end }}
+      {{- end }}
+    </ul>
+  </nav>
+  {{ end }}
+
+  {{ if gt (len $latestBooks) 0 }}
+  <div class="categories-secondary-section latest-books-section">
+    <div class="toc-sidebar-header">
+      <span class="toc-sidebar-title">Latest Books</span>
+    </div>
+
+    <nav class="toc-sidebar-content" aria-label="Latest books">
+      <ul>
+        {{- range $latestBooks }}
+        {{- $shortTitle := .Title -}}
+        {{- if findRE ":" .Title -}}
+          {{- $parts := split .Title ":" -}}
+          {{- $shortTitle = index $parts 0 -}}
+        {{- end -}}
+        <li>
+          <a href="{{ .Permalink }}">{{ $shortTitle }}</a>
+        </li>
+        {{- end }}
+      </ul>
+    </nav>
+  </div>
+  {{ end }}
+</aside>
+{{ end }}

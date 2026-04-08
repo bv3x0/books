@@ -1,0 +1,955 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "Boom: Bubbles and the Future of Innovation",
+    "author": "Byrne Hobart and Tobias Huber",
+    "year": null,
+    "categories": [
+      "business & economics",
+      "science",
+      "technology & engineering"
+    ],
+    "thesis": "Despite impressive digital progress, physical world innovation has dramatically slowed since the mid-20th century, but certain financial bubbles can accelerate transformative technological breakthroughs by coordinating resources and reducing collective risk aversion around concrete visions of the future. The most transformative innovations require transcendent spiritual motivation beyond rational calculation, channeled through bubble dynamics that enable massive parallel investment and coordination."
+  },
+  "claims": [
+    {
+      "id": "boom-001",
+      "text": "The Great Stagnation: Quantitative evidence shows technological progress has halved, with declining productivity growth, reproducibility crises in science, and cultural exhaustion manifesting in endless sequels and reboots",
+      "chapter": "Introduction: Doom and Boom",
+      "concepts": [
+        "technological_stagnation",
+        "productivity_decline",
+        "scientific_reproducibility",
+        "cultural_repetition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-002",
+      "text": "Societal Risk Aversion: Modern institutions favor safety and incremental improvements over transformative but risky breakthroughs",
+      "chapter": "Introduction: Doom and Boom",
+      "concepts": [
+        "institutional_risk_aversion",
+        "incremental_innovation",
+        "transformative_breakthroughs"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-003",
+      "text": "Bubbles as Innovation Accelerators: Contrary to conventional wisdom, certain financial bubbles coordinate behavior and funding to enable technological leaps by reducing collective risk aversion",
+      "chapter": "Introduction: Doom and Boom",
+      "concepts": [
+        "asset_bubbles",
+        "innovation_coordination",
+        "collective_risk_aversion",
+        "technological_leaps"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-004",
+      "text": "Spiritual Dimension: True innovation requires transcendent vision and meaning, not just rational cost-benefit analysis",
+      "chapter": "Introduction: Doom and Boom",
+      "concepts": [
+        "mind_transcendent_perception",
+        "innovation_spirituality",
+        "meaning_making",
+        "rational_analysis"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-005",
+      "text": "Evidence of Stagnation: Declining total factor productivity growth, reduced use of progress-related language, cultural repetition, and scientific diminishing returns despite increased funding",
+      "chapter": "The Ideology of Stasis",
+      "concepts": [
+        "productivity",
+        "linguistic_analysis",
+        "cultural_repetition",
+        "scientific_diminishing_returns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-006",
+      "text": "Three Root Causes: Total financialization following Bretton Woods termination (1971), demographic aging reducing testosterone and risk-taking, and bureaucratic quantification attempting to eliminate all uncertainty",
+      "chapter": "The Ideology of Stasis",
+      "concepts": [
+        "monetary_financialization",
+        "demographic_aging",
+        "bureaucratic_quantification",
+        "risk_aversion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": [
+          "Bretton Woods"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-007",
+      "text": "Hyper-Financialization: Post-1971 fiat monetary system created artificial growth divorced from real economy productivity, leading to short-term thinking and asset bubbles without innovation",
+      "chapter": "The Ideology of Stasis",
+      "concepts": [
+        "fiat_currency",
+        "artificial_growth",
+        "short_term_thinking",
+        "asset_bubbles"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-008",
+      "text": "Scientific Decline: Citation-driven metrics reward incremental research over breakthrough science, while bureaucratic grant processes consume 40% of researchers' time",
+      "chapter": "The Ideology of Stasis",
+      "concepts": [
+        "citation_metrics",
+        "incremental_innovation",
+        "bureaucratic_grants",
+        "research_efficiency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-009",
+      "text": "Two Types of Bubbles: Speculative bubbles involve price-driven FOMO, while filter bubbles create shared belief systems; both can generate positive feedback loops for innovation when properly directed",
+      "chapter": "From Bust to Boom: Bubbles as Innovation Accelerators",
+      "concepts": [
+        "speculative_bubbles",
+        "filter_bubbles",
+        "positive_feedback",
+        "innovation_coordination"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-010",
+      "text": "Mean-Reversion vs Inflection: Destructive bubbles extrapolate current trends (housing 2008), while productive bubbles envision radical departures from the present (dot-com enabling internet infrastructure)",
+      "chapter": "From Bust to Boom: Bubbles as Innovation Accelerators",
+      "concepts": [
+        "mean_reversion",
+        "trend_extrapolation",
+        "radical_transformation",
+        "internet_infrastructure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-011",
+      "text": "Parallelization Effect: Bubbles enable simultaneous development of interdependent technologies that would never be built sequentially, creating innovation clusters in time rather than space",
+      "chapter": "From Bust to Boom: Bubbles as Innovation Accelerators",
+      "concepts": [
+        "technology_parallelization",
+        "interdependent_technologies",
+        "innovation_clusters",
+        "temporal_coordination"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-012",
+      "text": "Self-Fulfilling Prophecies: Proper bubbles become reality through collective belief and coordinated action, channeling mimetic desire into productive rather than violent outlets",
+      "chapter": "From Bust to Boom: Bubbles as Innovation Accelerators",
+      "concepts": [
+        "self_fulfilling_prophecies",
+        "collective_belief",
+        "mimetic_desire",
+        "coordinated_action"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-013",
+      "text": "Academic Migration: 1930s European refugee crisis brought leading physicists to America, creating critical mass of expertise unavailable anywhere else",
+      "chapter": "The Manhattan Project",
+      "concepts": [
+        "academic_migration",
+        "refugee_crisis",
+        "critical_mass",
+        "expertise_concentration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "America"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-014",
+      "text": "Existential Stakes: German nuclear threat and later Soviet competition provided urgent mission justifying extreme resource allocation and risk-taking",
+      "chapter": "The Manhattan Project",
+      "concepts": [
+        "existential_stakes",
+        "nuclear_threat",
+        "resource_allocation",
+        "mission_urgency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-015",
+      "text": "Massive Parallelization: Multiple uranium enrichment facilities built simultaneously despite uncertainty about which would work, exemplifying bubble-style over-investment",
+      "chapter": "The Manhattan Project",
+      "concepts": [
+        "uranium_enrichment",
+        "technological_uncertainty",
+        "parallel_investment",
+        "bubble_style_overinvestment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-016",
+      "text": "Cognitive Supply Chain: Project pioneered modern computing through human-machine calculation systems needed for bomb physics, creating spillover innovations",
+      "chapter": "The Manhattan Project",
+      "concepts": [
+        "human_machine_collaboration",
+        "technological_spillovers",
+        "military_research",
+        "computing_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-017",
+      "text": "Definite Optimism: Specific deadline (\"before this decade is out\") converted vague ambition into actionable project despite unknown technical solutions",
+      "chapter": "The Apollo Program",
+      "concepts": [
+        "project_management",
+        "goal_setting",
+        "deadline_driven_innovation",
+        "optimistic_planning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-018",
+      "text": "Bubble Dynamics: Public support followed classic hype cycle with initial enthusiasm, trough of disillusionment, then renewed commitment driven by Cold War competition",
+      "chapter": "The Apollo Program",
+      "concepts": [
+        "public_opinion_cycles",
+        "hype_cycles",
+        "cold_war_competition",
+        "innovation_bubbles"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-019",
+      "text": "Management Innovation: Systems management approach balanced centralized vision with decentralized execution, enabling rapid iteration and creative problem-solving",
+      "chapter": "The Apollo Program",
+      "concepts": [
+        "systems_management",
+        "organizational_innovation",
+        "centralized_decentralized_balance",
+        "rapid_iteration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-020",
+      "text": "Technological Legacy: Apollo's massive integrated circuit purchases created semiconductor industry and enabled Moore's Law, demonstrating how bubbles generate spillover effects",
+      "chapter": "The Apollo Program",
+      "concepts": [
+        "technological_legacy",
+        "semiconductor_industry",
+        "moores_law",
+        "spillover_effects"
+      ],
+      "entities": {
+        "people": [
+          "Moore"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-021",
+      "text": "Prophecy to Reality: Moore's trend extrapolation became industry roadmap, with hardware and software companies planning products around predicted capabilities",
+      "chapter": "Moore's Law",
+      "concepts": [
+        "technological_prophecy",
+        "trend_extrapolation",
+        "industry_roadmaps",
+        "predictive_planning"
+      ],
+      "entities": {
+        "people": [
+          "Moore"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-022",
+      "text": "Two-Sided Bubble: Chip designers built more powerful processors expecting demanding software, while software developers created resource-intensive applications expecting faster chips",
+      "chapter": "Moore's Law",
+      "concepts": [
+        "two_sided_markets",
+        "complementary_innovation",
+        "hardware_software_coevolution",
+        "innovation_bubbles"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-023",
+      "text": "Coordination Mechanism: Shared timeline enabled parallelized innovation across entire technology stack, from manufacturing equipment to consumer applications",
+      "chapter": "Moore's Law",
+      "concepts": [
+        "coordination_mechanisms",
+        "parallel_innovation",
+        "technology_stacks",
+        "synchronized_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-024",
+      "text": "Physical Limits: Current AI demand tests Moore's Law sustainability, but the coordination model remains relevant for emerging technologies",
+      "chapter": "Moore's Law",
+      "concepts": [
+        "physical_limits",
+        "moores_law",
+        "artificial_intelligence",
+        "coordination_models"
+      ],
+      "entities": {
+        "people": [
+          "Moore"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-025",
+      "text": "Policy Enablers: Antitrust pressures, tax incentives, and regulated monopoly status (AT&T) encouraged long-term research investment over short-term profit maximization",
+      "chapter": "The Golden Age of Corporate R&D",
+      "concepts": [
+        "policy_enablers",
+        "antitrust_regulation",
+        "tax_incentives",
+        "long_term_research"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-026",
+      "text": "Du Pont's Materials Revolution: Systematic chemistry research created synthetic materials (nylon, Teflon, plastics) that transformed manufacturing and consumer life",
+      "chapter": "The Golden Age of Corporate R&D",
+      "concepts": [
+        "materials_science",
+        "systematic_investigation",
+        "synthetic_materials",
+        "industrial_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-027",
+      "text": "AT&T's Bell Labs: Regulated monopoly status enabled fundamental research producing transistor, laser, Unix, and information theory with broad licensing",
+      "chapter": "The Golden Age of Corporate R&D",
+      "concepts": [
+        "regulated_monopoly",
+        "fundamental_research",
+        "technology_licensing",
+        "corporate_labs"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "AT&T",
+          "Bell Labs"
+        ],
+        "works": [
+          "Unix"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-028",
+      "text": "Xerox PARC Paradox: Developed computer mouse, GUI, Ethernet, and laser printer but couldn't commercialize innovations, showing importance of business model alignment",
+      "chapter": "The Golden Age of Corporate R&D",
+      "concepts": [
+        "research_commercialization",
+        "business_model_alignment",
+        "innovation_paradox",
+        "technology_transfer"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Xerox PARC"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-029",
+      "text": "Technological Persistence: George Mitchell's decades-long experimentation with fracking techniques despite initial unprofitability, sustained by dual-class stock structure",
+      "chapter": "Fracking",
+      "concepts": [
+        "technological_persistence",
+        "long_term_experimentation",
+        "dual_class_stock",
+        "fracking_technology"
+      ],
+      "entities": {
+        "people": [
+          "George Mitchell"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-030",
+      "text": "Narrative Competition: Fracking faced negative environmental imagery versus \"clean\" renewable energy narratives, despite geopolitical and economic benefits",
+      "chapter": "Fracking",
+      "concepts": [
+        "narrative_competition",
+        "environmental_imagery",
+        "geopolitical_benefits",
+        "energy_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-031",
+      "text": "Bubble-Style Investment: Over $300 billion in capital deployed based on future production expectations, enabling rapid scaling and cost reduction",
+      "chapter": "Fracking",
+      "concepts": [
+        "asset_bubbles",
+        "capital_deployment",
+        "technological_scaling",
+        "cost_reduction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-032",
+      "text": "Strategic Benefits: Energy independence reduced Middle East military entanglements while providing transitional climate benefits through coal displacement",
+      "chapter": "Fracking",
+      "concepts": [
+        "energy_independence",
+        "geopolitical_strategy",
+        "climate_transition",
+        "resource_displacement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Middle East"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-033",
+      "text": "Technical Innovation: Solved digital currency problems (inflation, central authority) through proof-of-work consensus and automatic difficulty adjustment capping supply at 21 million coins",
+      "chapter": "Bitcoin",
+      "concepts": [
+        "digital_currency",
+        "proof_of_work",
+        "consensus_mechanisms",
+        "money_supply"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-034",
+      "text": "Religious Dimension: Mysterious creator's disappearance, immutable code as scripture, and sectarian divisions over protocol interpretations mirror religious movements",
+      "chapter": "Bitcoin",
+      "concepts": [
+        "religious_movements",
+        "technological_mysticism",
+        "protocol_interpretation",
+        "sectarian_divisions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-035",
+      "text": "Programmed Bubbles: Four-year halving cycles create supply shocks driving speculative adoption waves, with each crash leaving larger base of committed users",
+      "chapter": "Bitcoin",
+      "concepts": [
+        "supply_shocks",
+        "speculative_cycles",
+        "adoption_waves",
+        "market_psychology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-036",
+      "text": "Reflexive Growth: Network security, value, and adoption reinforce each other through feedback loops, making Bitcoin stronger with each bubble cycle",
+      "chapter": "Bitcoin",
+      "concepts": [
+        "network_effects",
+        "feedback_loops",
+        "reflexive_growth",
+        "security_mechanisms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-037",
+      "text": "Mimetic Theory: Ren\u00e9 Girard's framework explains bubbles as channeling rivalrous desire into productive rather than violent outlets, with markets serving quasi-religious functions",
+      "chapter": "The Metaphysics of Progress",
+      "concepts": [
+        "mimetic_process",
+        "market_psychology",
+        "quasi_religious_functions",
+        "productive_channeling"
+      ],
+      "entities": {
+        "people": [
+          "Ren\u00e9 Girard"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-038",
+      "text": "Agency vs Destiny: Bubbles synthesize individual agency (visionary founders) with deterministic forces (technological trajectories), avoiding both pure social construction and technological determinism",
+      "chapter": "The Metaphysics of Progress",
+      "concepts": [
+        "technological_determinism",
+        "social_construction",
+        "individual_agency",
+        "technological_trajectories"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-039",
+      "text": "Messianic Time: Bubbles compress future possibility into present action, creating ruptures in linear time similar to religious eschatology",
+      "chapter": "The Metaphysics of Progress",
+      "concepts": [
+        "time_compression",
+        "christian_eschatology",
+        "messianic_time",
+        "linear_time"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-040",
+      "text": "Apocalyptic Technology: Transformative innovations reveal hidden reality and enable either salvation or destruction, carrying inherent spiritual significance",
+      "chapter": "The Metaphysics of Progress",
+      "concepts": [
+        "transformative_technology",
+        "spiritual_significance",
+        "apocalyptic_expectation",
+        "salvation_theology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-041",
+      "text": "Five Key Features: Definite optimism with constrained vision, FOMO/YOLO dynamics, excessive risk-taking and over-investment, parallelization and coordination, reflexivity and hyperstition",
+      "chapter": "Unleashing Prometheus: Technology as Salvation",
+      "concepts": [
+        "definite_optimism",
+        "market_psychology",
+        "risk_taking",
+        "coordination_mechanisms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-042",
+      "text": "Incorruptible Money: Bitcoin as algorithmic absolute beyond human manipulation, promising redemption from fiat currency corruption",
+      "chapter": "Unleashing Prometheus: Technology as Salvation",
+      "concepts": [
+        "algorithmic_governance",
+        "monetary_corruption",
+        "fiat_currency",
+        "financial_redemption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-043",
+      "text": "Infinite Frontier: Space exploration as literal ascent to heavens, with religious imagery pervading Apollo program and current Mars colonization efforts",
+      "chapter": "Unleashing Prometheus: Technology as Salvation",
+      "concepts": [
+        "space_exploration",
+        "religious_symbolism",
+        "heavenly_ascension",
+        "mars_colonization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mars"
+        ],
+        "works": [
+          "Apollo program"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-044",
+      "text": "Immortal Life and Mind: AI, biotech, and robotics driven by ancient desires to overcome bodily limitations and achieve god-like perfection",
+      "chapter": "Unleashing Prometheus: Technology as Salvation",
+      "concepts": [
+        "artificial_intelligence",
+        "biotechnology",
+        "bodily_transcendence",
+        "divine_perfection"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "boom-045",
+      "text": "Eternal Energy: Nuclear power carries both salvation and damnation potential, while renewable energy promises purification from fossil fuel corruption",
+      "chapter": "Unleashing Prometheus: Technology as Salvation",
+      "concepts": [
+        "nuclear_power",
+        "renewable_energy",
+        "salvation_theology",
+        "fossil_fuel_purification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "boom-ch-001",
+      "title": "Introduction: Doom and Boom",
+      "summary": "The book argues against the prevailing view that we live in an age of technological abundance. Despite impressive virtual/digital progress, physical world innovation has dramatically slowed since the mid-20th century heroic age of breakthroughs like atomic weapons and Moon landings.",
+      "claim_ids": [
+        "boom-001",
+        "boom-002",
+        "boom-003",
+        "boom-004"
+      ]
+    },
+    {
+      "id": "boom-ch-002",
+      "title": "Part I: The Great Stagnation",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "boom-ch-003",
+      "title": "The Ideology of Stasis",
+      "summary": "Modern society suffers from pervasive risk aversion that prevents transformative innovation, manifesting across technology, economics, culture, and science.",
+      "claim_ids": [
+        "boom-005",
+        "boom-006",
+        "boom-007",
+        "boom-008"
+      ]
+    },
+    {
+      "id": "boom-ch-004",
+      "title": "From Bust to Boom: Bubbles as Innovation Accelerators",
+      "summary": "Innovation-accelerating bubbles differ fundamentally from destructive financial manias by coordinating resources around concrete visions of technological transformation.",
+      "claim_ids": [
+        "boom-009",
+        "boom-010",
+        "boom-011",
+        "boom-012"
+      ]
+    },
+    {
+      "id": "boom-ch-005",
+      "title": "Part II: Case Studies in Innovation",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "boom-ch-006",
+      "title": "The Manhattan Project",
+      "summary": "The atomic bomb project exemplified bubble dynamics through massive parallel investment, international talent concentration, and existential urgency driving unprecedented scientific coordination.",
+      "claim_ids": [
+        "boom-013",
+        "boom-014",
+        "boom-015",
+        "boom-016"
+      ]
+    },
+    {
+      "id": "boom-ch-007",
+      "title": "The Apollo Program",
+      "summary": "Kennedy's lunar landing commitment created a social bubble mobilizing 400,000+ people around a concrete but seemingly impossible goal.",
+      "claim_ids": [
+        "boom-017",
+        "boom-018",
+        "boom-019",
+        "boom-020"
+      ]
+    },
+    {
+      "id": "boom-ch-008",
+      "title": "Moore's Law",
+      "summary": "Gordon Moore's 1965 observation became a self-fulfilling prophecy coordinating the entire computer industry around exponential improvement expectations.",
+      "claim_ids": [
+        "boom-021",
+        "boom-022",
+        "boom-023",
+        "boom-024"
+      ]
+    },
+    {
+      "id": "boom-ch-009",
+      "title": "The Golden Age of Corporate R&D",
+      "summary": "Mid-20th century corporate research labs created transformative innovations through bubble-like dynamics of abundant funding and visionary leadership.",
+      "claim_ids": [
+        "boom-025",
+        "boom-026",
+        "boom-027",
+        "boom-028"
+      ]
+    },
+    {
+      "id": "boom-ch-010",
+      "title": "Fracking",
+      "summary": "Hydraulic fracturing exemplifies how persistent entrepreneurial vision can transform established industries through technological breakthrough and narrative shift.",
+      "claim_ids": [
+        "boom-029",
+        "boom-030",
+        "boom-031",
+        "boom-032"
+      ]
+    },
+    {
+      "id": "boom-ch-011",
+      "title": "Bitcoin",
+      "summary": "Bitcoin demonstrates pure bubble dynamics built into protocol design, creating self-reinforcing adoption cycles through programmed scarcity and cryptographic security.",
+      "claim_ids": [
+        "boom-033",
+        "boom-034",
+        "boom-035",
+        "boom-036"
+      ]
+    },
+    {
+      "id": "boom-ch-012",
+      "title": "Part III: The Metaphysics of Progress",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "boom-ch-013",
+      "title": "The Metaphysics of Progress",
+      "summary": "Innovation bubbles operate through deeper spiritual and mimetic dynamics that channel human desire for transcendence into technological achievement.",
+      "claim_ids": [
+        "boom-037",
+        "boom-038",
+        "boom-039",
+        "boom-040"
+      ]
+    },
+    {
+      "id": "boom-ch-014",
+      "title": "Unleashing Prometheus: Technology as Salvation",
+      "summary": "The most transformative technologies address fundamental human desires for transcendence, requiring spiritual motivation beyond rational calculation. #### Defining Innovation Bubbles",
+      "claim_ids": [
+        "boom-041",
+        "boom-042",
+        "boom-043",
+        "boom-044",
+        "boom-045"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 45,
+    "chapter_count": 14,
+    "indexed_at": "2026-01-22T18:15:43.588836Z"
+  }
+}

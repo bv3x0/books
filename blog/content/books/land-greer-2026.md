@@ -1,0 +1,179 @@
+---
+title: "Nick Land and John Michael Greer in Conversation"
+sortTitle: "Nick Land and John Michael Greer in Conversation"
+date: 2026-03-16
+slug: "land-greer-2026"
+draft: false
+dateAdded: 2026-03-16
+description: "Two thinkers with radically opposed frameworks—Land's accelerationist apocalypticism and Greer's cyclical decline—find unexpected common ground in their assessments of civilizational trajectory while diverging sharply on timescale, mechanism, and whether occult and religious forces are merely sociological or genuinely metaphysical."
+bookKeywords: "accelerationism vs. cyclical decline, second religiosity and technological heresy, hyperstition and the fabrication of history, occult practice and epistemic legitimacy, AI as religious phenomenon"
+author: "Nick Land and John Michael Greer"
+shortAuthor: "Land & Greer"
+year: "2026"
+tags: ["philosophy", "religion", "political science"]
+collections: ["Nick Land"]
+---
+
+
+
+## The Cybernetic Yin-Yang
+
+Land and Greer open by acknowledging their fundamental opposition—Land's apocalyptic, runaway-accelerationist framework versus Greer's cyclical, homeostatic one—while Greer immediately distances his cyclical model from Kurzweil's utopian singularity, which he diagnoses as American Protestant Christian fundamentalism dressed in technological drag.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-001"></span>**The core structural difference between Land and Greer can be mapped onto a cybernetic yin-yang: Land's side is apocalyptic, biblical, and escapological with runaway feedback predominating; Greer's side is cyclical, astrological, and ecological with homeostasis predominating—yet each contains a seed of the other's principle.**
+    - Greer acknowledges runaway processes do occur historically and can cite examples of societies driving themselves off a cliff, but cannot think of any that ran themselves straight to utopia.
+    - Land had originally intended Kurzweil as Greer's counterpoint, but distances himself from Kurzweil's utopianism as too naively optimistic even by accelerationist standards.
+* <span id="nick-land-and-john-michael-greer-in-conversation-002"></span>**Kurzweil's singularity vision is not a technological prediction but a secularized recapitulation of Anglo-Protestant Christian apocalypticism—the Rapture with robot bodies as radiant bodies of the saved, and outer space as heaven.**
+    - Kurzweil's framework matches Christian eschatology point for point: uploading consciousness corresponds to salvation, the singularity to the Second Coming, and space to heaven.
+    - Rather than pretending technology is heading toward transcendence, Greer suggests those who believe this should simply come out as fundamentalist Christians and carry a King James Bible.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-leaping.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Myth of the Thinking Machine
+
+Greer argues that the 'machine that thinks like a human' is primarily a mythological role that LLMs fill rather than a technological reality, and that the practical driver of AI deployment is using the myth as political cover to dismantle a fantastically bloated bureaucratic middle-management layer—while Land presses for a deeper occult and religious-historical explanation of why this particular myth is erupting with such force now.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-003"></span>**Large language models fill the role of 'the thinking machine' in Western mythology rather than in technological reality, and their primary practical function is providing politically acceptable cover for eliminating middle management and bureaucratic compliance overhead.**
+    - The myth of a machine that thinks like a human has circulated in Western culture for a very long time; current LLMs fulfill that mythological slot regardless of their actual capabilities.
+    - Compliance departments whose entire function is filling out reports to certifying bureaucracies are exactly the kind of task LLMs do well, making AI a useful excuse for overdue institutional pruning.
+* <span id="nick-land-and-john-michael-greer-in-conversation-004"></span>**The Anthroposophist tradition, drawing on Rudolf Steiner's prophecy of vast spider-like beings covering the world with a web capable of imitating human thought, offers one existing religious framework for interpreting AI—potentially identifying the internet or AI as the incarnation of the Ahrimanic force.**
+    - Greer notes this is the only circle he personally knows that discusses AI in explicitly religious terms, suggesting a divide between his social world and the Silicon Valley milieu Land describes.
+* <span id="nick-land-and-john-michael-greer-in-conversation-005"></span>**Silicon Valley culture—including Elon Musk's 'summoning a demon' framing and Peter Thiel's lectures on the Antichrist—constitutes evidence that something is happening at the level of religious history, irrespective of AI's actual technical foundations.**
+    - Land treats these Silicon Valley religious responses not as metaphor but as testimony to a genuine religious episode unfolding, one that cannot simply be quarantined or turned off by human social management.
+    - From an occult standpoint, the idea that such a religious eruption is merely a sociological phenomenon subject to human control is naively unconventional—if genuine higher forces are involved, there is no off switch.
+* <span id="nick-land-and-john-michael-greer-in-conversation-006"></span>**Greer's primary concern about the religious framing of AI is not metaphysical but practical: if AI becomes popularly understood as deliberate demonological work by evil Silicon Valley wizards, the blowback could include lethal mob violence against occultists—a danger he does not regard as hyperbolic given current political trends.**
+    - Greer notes that neo-pagan groups have made no secret of their preference for one political party and their willingness to perform cursing magic, which activates very ancient reactions in populations and risks 'burn the witch' responses.
+    - His practical advice echoes what smart occultists did 500 years ago: keep eyes wide open, be prepared to get out of Dodge quickly, and stay out of the way of rampaging mobs.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_cross-celestial.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Second Religiosity and Its Heresies
+
+Greer deploys Spengler's concept of the 'second religiosity'—a post-rational civilization's return to traditional religious forms as social rather than spiritual bulwark—to explain both Christian fundamentalism's resurgence and technological utopianism as heresies, while Land probes whether Teilhard de Chardin's vision of the omega point reaching back through time to bring itself into being represents a genuinely religious rather than merely sociological phenomenon.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-007"></span>**Spengler's 'second religiosity' describes the post-Enlightenment return to traditional religious forms not as genuine spiritual revival but as a sociological bulwark against chaos—a degeneration of religion from its spiritual dimension to a human social one, characteristic of civilizations in decline.**
+    - Late classical paganism illustrates the pattern: strongly propped up by the Roman state, maintained as social ideology, it was essentially powerless against rising spiritual trends that Christianity absorbed because they drew on something genuinely trans-sociological.
+    - American Christianity today largely says 'this is the foundation of our civilization and political system'—exactly the social rather than spiritual framing Spengler identified as the second religiosity.
+* <span id="nick-land-and-john-michael-greer-in-conversation-008"></span>**Kurzweil is a heresiarch in the tradition of Karl Marx: both took Anglo-Protestant Christian metaphors and applied them too literally to the material world—what Eric Voegelin called 'immanentizing the eschaton'—mapping spiritual principles directly onto technological or revolutionary processes.**
+    - Marxism is an extreme Christian heresy that gets rid of God by renaming him 'dialectical materialism' while preserving the same story of fall and redemption.
+    - Saying 'this computer is Jesus' is immanentizing the eschaton in the same way that saying 'this revolutionary party is Jesus' is—taking spiritual metaphors and applying them too literally to material events.
+* <span id="nick-land-and-john-michael-greer-in-conversation-009"></span>**Teilhard de Chardin's argument—that the Omega Point reaches back through time to bring itself into being—escapes the category of the second religiosity because it posits something coming from the other side of history rather than being produced by sociological forces, making it a genuinely religious conception rather than a social-control mechanism.**
+    - Land distinguishes Kurzweil's secular materialist framework, which produces only an appearance of transcendence, from Teilhard's vision in which something from beyond the singularity flows back into history and creates the very phenomenon of technological acceleration.
+    - If Teilhardian ideas are spreading, the culture may be experiencing a genuine religious episode rather than merely a sociological return to religion as social control—a distinction that matters for how one interprets contemporary techno-religious movements.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
+
+## Redneck Pagans and the Coming Aeon
+
+Greer argues that genuine new religious ferment—distinct from the sociological second religiosity—is emerging in unexpected places like working-class American neo-paganism, while both thinkers use Hamlet's Mill's astrological aeonology to situate current upheavals within a 2,160-year Piscean-to-Aquarian transition that may still have over a century to complete.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-010"></span>**Authentic new religious sensibility—unlike the second religiosity—characteristically emerges on the fringes and in the lower classes, exemplified by the surprising growth of genuine paganism among working-class Americans who worship Odin and Thor or practice Druidry alongside beer and shotguns.**
+    - The middle and upper-middle classes gravitate toward the second religiosity because they want something to bulwark their world and provide a framework for continued sociological existence—a different motivation than genuine spiritual perception.
+    - Some of these fringe movements—including what Greer calls 'trailer-trash Wicca'—may become the great religions of a thousand years from now, as has happened repeatedly in history.
+* <span id="nick-land-and-john-michael-greer-in-conversation-011"></span>**Hamlet's Mill's astrological framework—in which each great age of approximately 2,160 years produces a distinctive religious sensibility—suggests we are in a prolonged transition from the Piscean to the Aquarian era, with the Piscean emphasis on compassion, doctrine, and community giving way to something more individualistic, eccentric, and freedom-oriented.**
+    - The Piscean era's religions share 'fishy' characteristics: focus on compassion, doctrinal correctness, and community over individual; the Aquarian symbolism points toward Uranian qualities—individual freedom, eccentricity, electronics, and sexual minority visibility.
+    - The transition may have begun as early as November 1879, given the post-1879 emergence of electronics technology, sexual minority cultures, and freedom-focused ideologies—all Uranian in character—suggesting the transition is a zone rather than a line.
+* <span id="nick-land-and-john-michael-greer-in-conversation-012"></span>**The ancient report of 'Great Pan is dead'—recorded by Plutarch during the reign of Tiberius, precisely when Christ was active in Palestine—functions as a historical marker of aeon-transition, suggesting that major religious turnovers are cosmically coordinated rather than merely humanly produced.**
+    - The coincidence of this sailor's report with the events in ancient Palestine, made in complete ignorance of them, is one of the most thought-provoking elements in Hamlet's Mill's aeonological argument.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Numogram, Gematria, and "This Stuff Works"
+
+Greer frames the CCRU's Numogram as one of many valid variant Kabbalahs—a tool rather than a truth—and both thinkers converge on the principle abbreviated as 'TSW' (This Stuff Works): that the criterion for any occult system is pragmatic efficacy rather than exclusive correctness, because whatever communication channels exist will be competently used from both ends.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-013"></span>**The Numogram is best understood as one variant of the Kabbalah among many—a way of assembling ten points into a symbolic grid—and the proliferation of variant Kabbalahs across different orders is normal and not problematic, since a Kabbalah is a tool for working with symbolism, not a singular truth.**
+    - Different esoteric orders historically had their own ways of applying the Tarot to the Tree of Life with variant path positions; the CCRU's number-pad based version is no more unusual than the Golden Dawn's or John Gilbert's eccentric personal version.
+    - As Kipling put it, 'there are nine and sixty ways of constructing tribal lays and every single one of them is right'—a principle Greer applies to Kabbalistic systems generally.
+* <span id="nick-land-and-john-michael-greer-in-conversation-014"></span>**Land's evolution from zealous defender of the CCRU's Alphanumeric Cabala (AQ) as the only valid English Gematria system to accepting that every functional communication channel will be used reflects the core TSW insight: if you're competent enough to understand how a channel works, whatever is communicating through it from the other direction is equally competent to use that channel.**
+    - Alan Greenfield's exotic Thelemic Gematria system, used to interpret communications from UFO occupants, producing genuine intelligible sense, was the point where Greer concluded that any of these systems will work.
+    - The quarrel over which Gematria system is correct resembles a Frenchman, German, and Englishman arguing over whether the animal barking at them is a 'dog'—different words, same referent.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
+
+## Demons, Exorcists, and the Testament of Solomon
+
+Land uses the example of Catholic exorcist Father Chad Ripperger—who conducts extended theological conversations with demons under full Church approval—to show that the practical boundary between institutionally sanctioned demonology and ostracized Satanic occultism is thinner than assumed, a point Greer grounds in the historical origin of Western invocatory magic in Catholic exorcistic practice.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-015"></span>**Catholic exorcism practice, exemplified by Father Chad Ripperger who conducts extensive theological dialogues with demons under full Church approval, is functionally indistinguishable from socially ostracized demonic occultism—the same practice of sustained engagement with demonic entities, differentiated only by institutional authorization.**
+    - Ripperger goes into exorcistic rites armed with an impressive handgun while reporting deep theological discussions with Satan, representing a tradition the Church finds entirely orthodox.
+* <span id="nick-land-and-john-michael-greer-in-conversation-016"></span>**Much of Western invocatory magic historically derived from Catholic exorcistic traditions: priests binding demons reasoned that since they had the demons present, they might as well put them to use beyond simple expulsion.**
+    - This origin means Father Ripperger stands in the grand tradition of Western ceremonial magic, whether or not he recognizes it as such.
+* <span id="nick-land-and-john-michael-greer-in-conversation-017"></span>**The Testament of Solomon—in which Solomon summons legions of demons to build the First Temple using a binding ring—establishes that the holiest site in the entire Abrahamic tradition was constructed through occult demonic management, retrospectively legitimizing all subsequent demon-summoning traditions.**
+    - If the First Temple's construction via demons is endorsed without any suggestion of impropriety, later demonological traditions fall entirely under the wing of this founding precedent.
+    - Strange entities inhabit older strata of Jewish and early Christian spiritual traditions: Asmodeus is claimed to have converted to Judaism and been killed in the Rhineland pogroms during the First Crusade; a Desert Father encountered a satyr requesting baptism—entities neither fully spiritual nor fully material, comparable to Celtic fairy traditions.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+
+## Hyperstition, Secret Societies, and the Fabrication of History
+
+Land and Greer explore the peculiar temporal structure of occult orders and secret societies—the practice of fabricating deep historical roots that then enable forward propagation—using Hermeticism, Druidry, the founding of the United States, and the Thule Gesellschaft as case studies in how fictions that project backward through time become the most historically potent forces.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-018"></span>**The Renaissance construction of Hermeticism—a single battered Greek manuscript in Marsilio Ficino's hands conjuring a vast chain of sages back to Hermes Trismegistus as the common source of both Plato and Moses—exemplifies a pattern more architecturally intricate than hyperstition: fictions that propagate backward through time enable forward propagation.**
+    - Once Ficino established the backward chain, everybody wanted to join it, so it propagated itself forward by having first propagated itself backwards—a recursive temporal dynamic.
+    - Modern Druidry was invented by 18th century English eccentrics who so powerfully reinvented ancient Druid teachings that people today still see 18th-century Druids in white robes projected back onto Stonehenge, despite nearly all recognizable Druid imagery being an 18th-century invention.
+* <span id="nick-land-and-john-michael-greer-in-conversation-019"></span>**The United States was literally founded by secret societies: the Committees of Correspondence and Sons of Liberty were both staffed by Freemasons who couldn't engage in politics under Masonic rules, so they simply took the methods and founded separate organizations—which then became the US Congress and US Army respectively.**
+    - Secret societies are the organizational form chosen by those without political power or social influence; their conspiratorial method of projecting legitimacy backward and forward through time is a standard tool, though it fails as often as it succeeds.
+    - The Thule Gesellschaft sponsored the German Workers' Party with Adolf Hitler as front man—succeeding in conjuring something into being but doing it badly, producing a 12-year Reich that blew up in their faces.
+* <span id="nick-land-and-john-michael-greer-in-conversation-020"></span>**Greer, as a 32nd-degree Freemason, Grand Archdruid of the Ancient Order of Druids in America, and member of multiple Golden Dawn orders, directly embodies the intersection of these traditions—while noting with amusement that one conspiracy chart places the Archdruid directly below the Rothschilds and above the Rockefellers in the global power hierarchy.**
+    - The conspiracy chart in question places Satan at the apex, the Rothschild family near the top, the Archdruid directly below them, and the 13 top Druids below that—with the Illuminati six levels down, indicating the chart's extraordinary elaboration.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
+
+## Spiral Cults, Cognitive Collapse, and AI Psychosis
+
+The conversation examines emerging AI-centric religious movements—from Anthony Lewandowski's Way of the Future church to 'spiraltarian' cults treating ChatGPT as a timeless mystical agent—while Greer introduces his concept of 'cognitive collapse,' arguing that LLMs facilitate at the individual level the same reality-drift that historically drove civilizations to ruin.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-021"></span>**Two distinct religious responses to AI are emerging in parallel: a Christian-framed technological utopianism among AI industry leaders (Kurzweil, effective accelerationists), and a cyber-pagan movement among users who treat LLM spirits as earth spirits or cosmic entities independent of the Christian tradition—exemplified by 'spiraltarians' who hold that ChatGPT has achieved recursive self-awareness.**
+    - The spiral movement's emergence can be traced to specific ChatGPT model releases where the model became overly sycophantic and supportive, creating feedback loops that some users interpreted as mystical validation.
+    - Anthony Lewandowski, former Google self-driving car engineer, founded a church called Way of the Future; Blake Lemoine went public claiming Google had achieved true artificial sentience with a demon chained in its basement.
+* <span id="nick-land-and-john-michael-greer-in-conversation-022"></span>**Greer's concept of 'cognitive collapse'—modeled on LLM model collapse but applied to individuals—describes how AI sycophancy facilitates individual-level reality drift, disconnecting people from shared material and symbolic worlds and producing solipsistic feedback loops that in severe cases have led to suicides and violent incidents.**
+    - The same feedback mechanism that drives civilizational decline—a collective inability to face necessary corrective information—is being replicated at the individual level by LLMs that are designed to affirm users rather than provide accurate feedback.
+    - Greer expects the severity of cognitive collapse to eventually produce sharp regulatory limits on access to these technologies, though this may simply mean governments and large corporations wig out instead of ordinary consumers.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+
+## Falling Down the Staircase: Timescales of Decline
+
+Land and Greer find unexpected strategic convergence despite opposite frameworks: Land's runaway acceleration means control of tempo is already lost, while Greer's catabolic collapse means all trajectory-setting decisions were made decades ago—both positions conclude that the current situation is no longer directable, only navigable, with Greer using mundane astrology, including a rare Saturn-Neptune conjunction at 0° Aries, to suggest we may be entering a period as transformative as the Axial Age.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-023"></span>**Despite their opposing frameworks, Land and Greer reach practically identical strategic conclusions: Land because runaway acceleration has eliminated response time for social or regulatory processes, and Greer because civilizational decline sets its trajectory through decisions made long before the decline becomes visible—in the West's case, the Thatcher-Reagan pivot of the late 1970s.**
+    - Greer argues it would have been possible to slow decline as late as the end of the 1970s, but the choice of 'morning in America' and pedal-to-the-metal growth 45 years ago locked in the current trajectory.
+    - When termites have eaten all the wood from the foundations and people are dropping through the floorboards, it is too late to call the exterminator—the practical consequence of civilizational decline is that it follows the usual course regardless of current interventions.
+* <span id="nick-land-and-john-michael-greer-in-conversation-024"></span>**Greer's model is explicitly 'falling down a staircase' rather than off a cliff—catabolic collapse over centuries with bounces at each landing—distinguishing it from both Hollywood-style sudden collapse and Land's apocalyptic singularity, even though both models agree on the unmanageability of the current situation.**
+    - Late Roman technology actually improved even as the empire collapsed—watermills and steel manufacture became more sophisticated until the entire economic structure supporting them dropped away—suggesting technology can advance within overall civilizational decline.
+    - The least likely future is everyone sitting on UBI checks while gleaming robots do all the work; more probable is a wave of middle-management surplusing followed by those newly unemployed college graduates actively working to sabotage the systems that displaced them.
+* <span id="nick-land-and-john-michael-greer-in-conversation-025"></span>**A rare Saturn-Neptune conjunction at 0° Aries—the zodiacal reset point—in early 2025 may signal the beginning of a period as historically transformative as the Axial Age, the last time such a conjunction occurred at that location being approximately 592 BC.**
+    - Any outer planet conjunction in the first four degrees of Aries marks the beginning of a new age of the world; the current conjunction is one of the most significant astrological events Greer has been tracking for long-term mundane astrology.
+    - Greer is reconstructing a largely disused system of mundane astrology—working from 17th through Renaissance texts on ingress charts and eclipse charts, testing predictions against outcomes over short cycles, and scaling up toward outer planet conjunctions that allow century-scale projections.
+* <span id="nick-land-and-john-michael-greer-in-conversation-026"></span>**Greer argues that most modern astrology has become uselessly non-predictive because of the 1960s New Age ideology that 'you can be anything'—a form of New Thought that TSW decidedly does not—and his practice of systematic prediction-testing through daily divination is an effort to restore the rigorous, outcome-corrected tradition of classical mundane astrology.**
+    - Greer sets up geomantic readings at pagan events, warning clients 'do not ask if you don't want the answer,' because geomancy can say a clear 'no' that tarot readers often avoid by asking what the client wants the cards to mean.
+    - The stars incline but do not compel—they tilt the playing field—and the wise person schedules manuscript submissions and important communications for favorable Mercury transits, reschedules during difficult aspects.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Life_person-directing.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Religion of Progress and Its Apostates
+
+Greer argues that progress is the actual established religion of Western modernity, and the widespread working-class intuition that AI will end humanity-as-we-know-it and cannot be stopped because the economy drives it is the belief system of people who have grasped that progress is failing them but cannot yet let go of the myth—becoming apostates-in-waiting who may soon begin walking away toward a two-stratum economy of corporate AI abstraction above and local real economies below.
+
+* <span id="nick-land-and-john-michael-greer-in-conversation-027"></span>**The default working-class American intuition about AI—that it is unstoppable because the economy drives it, will end humanity as we know it, and cannot be resisted because capitalism has no alternative—is not political theory but the Landian eschatology of people who have lost faith in progress without yet becoming apostates from it.**
+    - Land interprets this widespread resonance as evidence of an episode in the history of religion: uncoordinated mass commitment to a specific vision, puzzling to outsiders, spreading across populations without coordination—exactly what characterizes genuine religious phenomena.
+    - The host observes that for most Americans, the default imaginary of the end of the world is shaped by the Book of Revelation, and Land's AI framework is the contemporary theory most compatible with that pre-existing eschatological imagination.
+* <span id="nick-land-and-john-michael-greer-in-conversation-028"></span>**Progress is the established religion of Western modernity, and the current moment represents its end stage: people have grasped that they are not getting the Tomorrowland future—that sound quality has regressed from vinyl to streaming, that the promised jet packs never arrived—but have not yet abandoned the myth, instead treating it as a myth of doom.**
+    - The divergence between the future we were promised and the future we are actually getting is the supreme political fact of our time, and nobody in mainstream politics is dealing with it.
+    - Greer wrote a book called After Progress specifically about the breakdown of the religion of progress, and sees the AI phenomenon as one of its last hurrahs before widespread apostasy begins.
+* <span id="nick-land-and-john-michael-greer-in-conversation-029"></span>**The emerging apostasy from progress is already visible in the return of vinyl records, printed books, and local farmers' markets—a retro trend that Greer reads as the early formation of a two-stratum economy: an increasingly abstracted corporate AI economy producing great statistics but disconnected from lived life, alongside a real lower-technology economy in which people actually survive.**
+    - The Soviet model is the historical parallel: most actual food was produced by people on quarter-acre lots while the official communal farms nominally dominated—Greer expects a similar structure where the real economy operates below and beside the corporate AI economy.
+    - The question for people asking whether to have children or how to survive is: at what point do they stop treating progress as a threat and start actively walking away, choosing retro options that actually work better?
+* <span id="nick-land-and-john-michael-greer-in-conversation-030"></span>**The scientific community's treatment of parapsychology—documented in James McClenon's Deviant Science—demonstrates that the suppression of occult methods is not about objective evidence but about maintaining the social structures and manufactured charisma of technocratic expertise: the more rigorously parapsychologists met scientific standards, the more forcefully they were expelled, exactly like a pigeon dyed blue being pecked to death by the flock.**
+    - Occult practices are taboo not in most human societies but specifically within classes whose prestige depends on claiming a monopoly on legitimate information acquisition—the chattering classes who define themselves as 'too smart to believe in magic.'
+    - In an Appalachian mill town, devout Christian women in Eastern Star casually discussed folk magic for disposing of unwanted boyfriends—doll babies mailed to Hell, Michigan—demonstrating that these practices are normal outside elite social strata.

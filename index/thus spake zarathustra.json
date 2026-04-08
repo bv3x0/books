@@ -1,0 +1,4174 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Thus Spake Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "categories": [
+      "philosophy",
+      "literary collections"
+    ],
+    "thesis": "Humanity must overcome itself toward the Superman, rejecting slave morality, life-denial, and the 'last man' of comfortable mediocrity; the will to power, eternal recurrence, and the bestowing virtue are the highest affirmations of earthly existence."
+  },
+  "claims": [
+    {
+      "id": "thus-spake-zarathustra-001",
+      "text": "Zarathustra's descent begins when his wisdom overflows and demands to be given away, framed as the sun needing those for whom it shines\u2014his 'going under' is an act of generous overflowing, not failure.",
+      "chapter": "Zarathustra's Prologue",
+      "concepts": [
+        "philosophical_solitude",
+        "gift_giving_ethics",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He spent ten years in mountain solitude before his heart 'changed' and he felt weary of his wisdom, like a bee that has gathered too much honey.",
+          "speaker": null
+        },
+        {
+          "text": "I am weary of my wisdom, like the bee that hath gathered too much honey; I need hands outstretched to take it.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-002",
+      "text": "The forest saint's ignorance that 'God is dead' signals to Zarathustra that he must bring his gifts to men, not to those already beyond the human world.",
+      "chapter": "Zarathustra's Prologue",
+      "concepts": [
+        "death_of_god",
+        "religious_withdrawal",
+        "philosophical_mission"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The old saint still loves God and retreats from men entirely; Zarathustra realizes his mission is to men, not to those who have already withdrawn.",
+          "speaker": null
+        },
+        {
+          "text": "Could it be possible! This old saint in the forest hath not yet heard of it, that GOD IS DEAD!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-003",
+      "text": "In the marketplace, Zarathustra teaches the Superman as the meaning of the earth, insisting humanity must remain faithful to earthly existence rather than flee to supernatural hopes.",
+      "chapter": "Zarathustra's Prologue",
+      "concepts": [
+        "superman_ideal",
+        "earthly_affirmation",
+        "anti_transcendence"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He frames those who preach 'superearthly hopes' as poisoners and despisers of life, calling on the crowd to see the Superman as the lightning out of the dark cloud of man.",
+          "speaker": null
+        },
+        {
+          "text": "The Superman is the meaning of the earth. Let your will say: The Superman SHALL BE the meaning of the earth!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-004",
+      "text": "The 'last man' is Nietzsche's counter-image to the Superman: a herd creature who has abolished all longing, danger, and greatness in favor of small pleasures and equality, and who represents the greatest danger to human possibility.",
+      "chapter": "Zarathustra's Prologue",
+      "concepts": [
+        "last_man",
+        "herd_mentality",
+        "nihilism",
+        "cultural_decline"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The crowd responds to Zarathustra's description of the last man with approval rather than horror, crying 'Give us this last man!'\u2014revealing the gap between Zarathustra and his audience.",
+          "speaker": null
+        },
+        {
+          "text": "I tell you: one must still have chaos in one, to give birth to a dancing star.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-005",
+      "text": "The rope-dancer's fatal fall becomes a parable: the buffoon (representing those who mock higher aspirations) overtakes and destroys the one who walks the dangerous middle path between animal and Superman.",
+      "chapter": "Zarathustra's Prologue",
+      "concepts": [
+        "existential_danger",
+        "transition_and_becoming",
+        "heroic_death"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The dying rope-dancer says he is 'not much more than an animal which hath been taught to dance by blows'; Zarathustra honors his dangerous calling and buries him with his own hands.",
+          "speaker": null
+        },
+        {
+          "text": "What is great in man is that he is a bridge and not a goal.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-006",
+      "text": "Zarathustra concludes his prologue by resolving to seek not the herd but 'fellow-creators'\u2014companions who will help create new values, not corpses or believers.",
+      "chapter": "Zarathustra's Prologue",
+      "concepts": [
+        "value_creation",
+        "creative_companions",
+        "anti_conformism"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "The Pied Cow"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He distinguishes between speaking to 'the people' and speaking to companions; the herd's herdsmen\u2014the 'good and just'\u2014hate the creator most because he breaks their tables of values.",
+          "speaker": null
+        },
+        {
+          "text": "His symbolic animals\u2014the proud eagle and the wise serpent\u2014appear as guides for his further journey.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-007",
+      "text": "The camel stage represents the spirit's willingness to take on the heaviest burdens of tradition, duty, and self-mortification\u2014necessary preparation for transformation.",
+      "chapter": "The Three Metamorphoses",
+      "concepts": [
+        "spiritual_development",
+        "asceticism",
+        "tradition_and_authority"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The camel spirit asks 'What is the heaviest thing?' and deliberately takes it up, kneeling to be loaded like a beast of burden before hastening into the wilderness.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-008",
+      "text": "The lion stage is necessary to assert the 'I will' against the 'Thou shalt' dragon of inherited values, capturing freedom for new creation\u2014but the lion itself cannot yet create.",
+      "chapter": "The Three Metamorphoses",
+      "concepts": [
+        "will_to_power",
+        "moral_critique",
+        "freedom_from_tradition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The dragon 'Thou-shalt' claims all values are already created and represents the accumulated morality of a thousand years; the lion's holy 'Nay' defeats it but cannot yet generate affirmation.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-009",
+      "text": "The child stage alone can create new values because innocence, forgetting, and a spontaneous 'holy Yes' are required for genuine creation\u2014a new beginning beyond destruction.",
+      "chapter": "The Three Metamorphoses",
+      "concepts": [
+        "value_creation",
+        "innocence",
+        "affirmation_of_life",
+        "becoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "The Pied Cow"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-010",
+      "text": "The wise man's teaching reduces virtue entirely to conditions for good sleep\u2014obedience to government, modest desires, peace with neighbors\u2014revealing that traditional virtue serves comfort and unconsciousness rather than life.",
+      "chapter": "The Academic Chairs of Virtue",
+      "concepts": [
+        "moral_critique",
+        "bourgeois_virtue",
+        "somnolent_culture"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The teacher prescribes ten daily overcomings, ten laughters, and ten truths precisely as psychological hygiene for untroubled rest, not as genuine ethical imperatives.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-011",
+      "text": "Zarathustra's ironic verdict is that such 'drowsy wisdom' was perhaps the best available in earlier ages, but its time is past\u2014those who teach sleep as virtue already lie down themselves.",
+      "chapter": "The Academic Chairs of Virtue",
+      "concepts": [
+        "historical_decadence",
+        "philosophical_critique",
+        "epistemological_limits"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "To all those belauded sages of the academic chairs, wisdom was sleep without dreams: they knew no higher significance of life.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-012",
+      "text": "The invention of God and the otherworldly springs from bodily suffering and weariness\u2014the ill create heavens because they cannot endure earth, but their very transport derives from the body they despise.",
+      "chapter": "Backworldsmen",
+      "concepts": [
+        "body_philosophy",
+        "religious_projection",
+        "anti_transcendence",
+        "will_to_power"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Zarathustra confesses he was once himself a backworldsman until convalescence revealed the phantom to be a human creation born of his own suffering.",
+          "speaker": null
+        },
+        {
+          "text": "Weariness, which seeketh to get to the ultimate with one leap, with a death-leap; a poor ignorant weariness, unwilling even to will any longer: that created all Gods and backworlds.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-013",
+      "text": "The healthy body\u2014not the soul or reason\u2014speaks most uprightly and teaches the meaning of the earth; Zarathustra's new pride is terrestrial, not celestial.",
+      "chapter": "Backworldsmen",
+      "concepts": [
+        "embodied_philosophy",
+        "earthly_affirmation",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He calls for a new will: to choose the earthly path consciously rather than slink away from it like the sick, and to create higher bodies rather than flee to imagined spiritual realms.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-014",
+      "text": "The 'Self' residing in the body is the true ruler\u2014spirit and ego are merely its instruments\u2014and all contempt for the body is actually the creating Self condemning itself for its own failure to create beyond itself.",
+      "chapter": "The Despisers of the Body",
+      "concepts": [
+        "body_philosophy",
+        "self_concept",
+        "will_to_power",
+        "creative_drive"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Behind thy thoughts and feelings, my brother, there is a mighty lord, an unknown sage\u2014it is called Self; it dwelleth in thy body, it is thy body.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Even despisers of the body serve their Self: their Self wishes to die because it can no longer create beyond itself.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-015",
+      "text": "Passions transformed by a highest aim become virtues and joys; virtue is not imposed but grows organically from one's own nature and cannot be shared generically with 'the people.'",
+      "chapter": "Joys and Passions",
+      "concepts": [
+        "sublimation",
+        "personal_ethics",
+        "virtue_ethics",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Once hadst thou passions and calledst them evil. But now hast thou only thy virtues: they grew out of thy passions.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-016",
+      "text": "Multiple virtues war with each other within a person, producing exhaustion and self-destruction; having one overriding virtue is preferable because it gives destiny a single knot to cling to.",
+      "chapter": "Joys and Passions",
+      "concepts": [
+        "inner_conflict",
+        "unity_of_will",
+        "moral_psychology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Many a one hath gone into the wilderness and killed himself, because he was weary of being the battle and battlefield of virtues.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-017",
+      "text": "The pale criminal acted from an instinctive drive his weak reason could not acknowledge, so reason invented robbery as a justification\u2014madness before and after the deed are distinct, and the deed itself was adequate to the man's nature in the moment.",
+      "chapter": "The Pale Criminal",
+      "concepts": [
+        "criminal_psychology",
+        "instinct_and_reason",
+        "moral_psychology"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "His soul wanted blood, not booty; his weak reason persuaded him to call it robbery, and afterward the image of himself as a doer of one deed drove him mad.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-018",
+      "text": "True justice is love with seeing eyes\u2014judges should act from pity rather than revenge, calling the criminal 'invalid' rather than 'sinner,' and their punishment must justify life itself.",
+      "chapter": "The Pale Criminal",
+      "concepts": [
+        "justice_and_punishment",
+        "compassion",
+        "legal_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Enemy' shall ye say but not 'villain,' 'invalid' shall ye say but not 'wretch,' 'fool' shall ye say but not 'sinner.'",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-019",
+      "text": "Writing with blood makes spirit of it\u2014but mass literacy has degraded both writing and thought by turning spirit into 'populace,' because every one being allowed to read ruins genuine intellectual culture.",
+      "chapter": "Reading and Writing",
+      "concepts": [
+        "intellectual_culture",
+        "elitism_of_knowledge",
+        "cultural_critique"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Of all that is written, I love only what a person hath written with his blood. Write with blood, and thou wilt find that blood is spirit.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-020",
+      "text": "Courage and laughter\u2014not wrath\u2014are the means to slay the spirit of gravity; Zarathustra would only believe in a God who could dance, and wisdom itself should be joyful and warlike.",
+      "chapter": "Reading and Writing",
+      "concepts": [
+        "spirit_of_gravity",
+        "laughter_as_philosophy",
+        "affirmation_of_life"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Not by wrath, but by laughter, do we slay. Come, let us slay the spirit of gravity!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "I should only believe in a God that would know how to dance.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-021",
+      "text": "The more a person strives upward in freedom and knowledge, the more powerfully their roots must grip downward into darkness\u2014the tree metaphor makes growth and suffering inseparable.",
+      "chapter": "The Tree on the Hill",
+      "concepts": [
+        "self_overcoming",
+        "existential_growth",
+        "solitude"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "The Pied Cow"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The more he seeketh to rise into the height and light, the more vigorously do his roots struggle earthward, downward, into the dark and deep\u2014into the evil.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-022",
+      "text": "The danger for noble souls is not becoming 'good' in the conventional sense but collapsing into sensuality and mockery when their highest hope fails; Zarathustra urges the youth to keep the hero in his soul.",
+      "chapter": "The Tree on the Hill",
+      "concepts": [
+        "noble_soul",
+        "temptation",
+        "heroic_ideal"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The youth confesses envy of Zarathustra and destructive longing for height; Zarathustra warns that true freedom still requires purification and that premature freedom produces deceit.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-023",
+      "text": "Preachers of death are recognizable by their many forms\u2014those who advocate renunciation, those who glorify suffering, those whose 'pity' binds others to life-weariness\u2014and all should simply pass away rather than contaminate others.",
+      "chapter": "The Preachers of Death",
+      "concepts": [
+        "life_denial",
+        "nihilism",
+        "pity_critique",
+        "cultural_decadence"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Life is only suffering': so say others, and lie not. Then see to it that YE cease! See to it that the life ceaseth which is only suffering!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Pity that becomes prescriptive spreads sickness: the 'consistently pitiful' would make their neighbors sick of life.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-024",
+      "text": "Ye shall love peace as a means to new wars, and the short peace more than the long\u2014the good war hallows every cause more than the cause hallows the war.",
+      "chapter": "War and Warriors",
+      "concepts": [
+        "agonistic_ethics",
+        "spiritual_warfare",
+        "will_to_power"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ye say it is the good cause which halloweth even war? I say unto you: it is the good war which halloweth every cause.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-025",
+      "text": "The warrior must have worthy enemies to hate but not despise, because one's enemies' successes are one's own\u2014obedience in commanding and pride in the foe are marks of the genuine warrior-spirit.",
+      "chapter": "War and Warriors",
+      "concepts": [
+        "honor_ethics",
+        "noble_conflict",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ye shall only have enemies to be hated, but not enemies to be despised. Ye must be proud of your enemies; then, the successes of your enemies are also your successes.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-026",
+      "text": "The state is structurally opposed to authentic culture: it confuses languages of good and evil across peoples, while genuine peoples create their own tables of values through lived necessity.",
+      "chapter": "The New Idol",
+      "concepts": [
+        "state_critique",
+        "political_philosophy",
+        "cultural_identity",
+        "nationalism"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A state, is called the coldest of all cold monsters. Coldly lieth it also; and this lie creepeth from its mouth: 'I, the state, am the people.'",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-027",
+      "text": "The state seduces even those who have overcome the old God by offering them new idolatry\u2014heroic honor and good conscience\u2014while it is fundamentally a device for the superfluous and a sign pointing toward death.",
+      "chapter": "The New Idol",
+      "concepts": [
+        "anti_statism",
+        "individual_sovereignty",
+        "political_critique"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "There, where the state ceaseth\u2014there only commenceth the man who is not superfluous: there commenceth the song of the necessary ones, the single and irreplaceable melody.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-028",
+      "text": "The market's 'great men' are mere actors whose worth lies in representing things rather than creating them; genuine creators work invisibly while actors and politicians claim public glory.",
+      "chapter": "The Flies in the Marketplace",
+      "concepts": [
+        "creator_versus_actor",
+        "public_sphere_critique",
+        "solitude"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Around the devisers of new values revolveth the world:\u2014invisibly it revolveth. But around the actors revolve the people and the glory.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-029",
+      "text": "Small people sting the great with invisible vengeance precisely because the great make them feel their smallness; the profound person suffers small wounds deeply and must flee rather than fight.",
+      "chapter": "The Flies in the Marketplace",
+      "concepts": [
+        "ressentiment",
+        "greatness_and_envy",
+        "solitude"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Flee, my friend, into thy solitude! Thou hast lived too closely to the small and the pitiable. Flee from their invisible vengeance!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-030",
+      "text": "Forced chastity creates spiritual pollution worse than honest sensuality\u2014the envious, repressed lust of those who cannot genuinely renounce sexuality contaminates their 'virtues' and their pity for others.",
+      "chapter": "Chastity",
+      "concepts": [
+        "sexuality_and_virtue",
+        "instinct_and_sublimation",
+        "authentic_virtue"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "To whom chastity is difficult, it is to be dissuaded: lest it become the road to hell\u2014to filth and lust of soul.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-031",
+      "text": "True friendship requires withstanding one's friend and revealing oneself fully; the friend is a mirror for the Superman ideal, not a comfort or flattering reflection.",
+      "chapter": "The Friend",
+      "concepts": [
+        "friendship_philosophy",
+        "agonistic_ethics",
+        "superman_ideal"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In one's friend one shall have one's best enemy. Thou shalt be closest unto him with thy heart when thou withstandest him.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-032",
+      "text": "The anchorite needs a friend as a 'third one'\u2014a cork preventing the self-conversation from sinking into the abyss; but this need reveals the limits of complete isolation as a permanent state.",
+      "chapter": "The Friend",
+      "concepts": [
+        "solitude_and_community",
+        "self_knowledge",
+        "relational_ethics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Our faith in others betrayeth wherein we would fain have faith in ourselves. Our longing for a friend is our betrayer.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-033",
+      "text": "Different peoples' moral codes are not arbitrary but reflect their specific struggles, landscapes, and neighbors; valuing is creating, and each people's values are that people's expression of its will to overcome.",
+      "chapter": "The Thousand and One Goals",
+      "concepts": [
+        "value_creation",
+        "cultural_relativism",
+        "will_to_power",
+        "moral_genealogy"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "Greece",
+          "Persia"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Values did man only assign to things in order to maintain himself\u2014he created only the significance of things, a human significance!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Examples include Greek honor, Persian truth-telling, Hebrew filial piety, and Germanic fidelity\u2014each arising from particular necessity.",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-034",
+      "text": "Because there has been a thousand goals for a thousand peoples but no single goal for humanity, humanity as a unified project is still lacking\u2014the creator's task is to forge this one goal.",
+      "chapter": "The Thousand and One Goals",
+      "concepts": [
+        "universal_values",
+        "creative_legislation",
+        "human_unity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A thousand goals have there been hitherto, for a thousand peoples have there been. Only the fetter for the thousand necks is still lacking; there is lacking the one goal.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-035",
+      "text": "Love of neighbor is typically a flight from oneself\u2014people rush to others because they cannot endure solitude with themselves, thereby exploiting neighbors as mirrors for their own self-validation.",
+      "chapter": "Neighbour-Love",
+      "concepts": [
+        "neighbor_love_critique",
+        "self_love",
+        "future_orientation",
+        "moral_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ye flee unto your neighbour from yourselves, and would fain make a virtue thereof: but I fathom your 'unselfishness.'",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Higher than love to your neighbour is love to the furthest and future ones; higher still than love to men, is love to things and phantoms.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-036",
+      "text": "Freedom 'from' something is insufficient; the creator must be free 'for' something\u2014a commanding will and self-given law\u2014otherwise isolation merely produces emptiness, not genuine creation.",
+      "chapter": "The Way of the Creating One",
+      "concepts": [
+        "creative_freedom",
+        "self_legislation",
+        "solitude"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Free, dost thou call thyself? Thy ruling thought would I hear of, and not that thou hast escaped from a yoke. Free FOR WHAT?",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-037",
+      "text": "The greatest enemy of the creative solitary is themselves\u2014they must pass through doubt, heresy, and self-burning to create new values, and must beware the 'good and just' who crucify creators.",
+      "chapter": "The Way of the Creating One",
+      "concepts": [
+        "creative_destruction",
+        "self_overcoming",
+        "persecution_of_creators"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ready must thou be to burn thyself in thine own flame; how couldst thou become new if thou have not first become ashes!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-038",
+      "text": "Zarathustra's discourse on woman is presented as a 'little truth' given by an old woman\u2014structuring it as deliberately limited, provocative, and acknowledged as potentially wrong even within the text.",
+      "chapter": "Old and Young Women",
+      "concepts": [
+        "gender_philosophy",
+        "provocative_rhetoric",
+        "power_dynamics"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Everything in woman is a riddle, and everything in woman hath one solution\u2014it is called pregnancy. Man is for woman a means: the purpose is always the child.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "The old woman responds that Zarathustra speaks truth despite knowing little about women\u2014and offers her own counter-gift: 'Thou goest to women? Do not forget thy whip!'",
+          "speaker": null
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-039",
+      "text": "Zarathustra rejects Christian 'return good for evil' as humiliating to the evildoer and favors a frank, proportionate response\u2014not revenge for its own sake, but honest engagement that respects the transgressor's dignity.",
+      "chapter": "The Bite of the Adder",
+      "concepts": [
+        "moral_psychology",
+        "justice_and_punishment",
+        "honor_ethics"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When ye are cursed, it pleaseth me not that ye should then desire to bless. Rather curse a little also!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "A small revenge is humaner than no revenge at all. And if the punishment be not also a right and an honour to the transgressor, I do not like your punishing.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-040",
+      "text": "The worthiness for marriage and parenthood is a question of self-mastery: only the one who has overcome themselves deserves to create beyond themselves in a child.",
+      "chapter": "Child and Marriage",
+      "concepts": [
+        "marriage_philosophy",
+        "self_overcoming",
+        "creation_and_procreation"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Marriage: so call I the will of the twain to create the one that is more than those who created it. The reverence for one another, as those exercising such a will, call I marriage.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-041",
+      "text": "The 'consummating death' is one that comes voluntarily at the right time, when the dying one is surrounded by hoping inheritors\u2014this death becomes a stimulus and promise rather than a mere cessation.",
+      "chapter": "Voluntary Death",
+      "concepts": [
+        "voluntary_death",
+        "legacy_and_inheritance",
+        "life_affirmation"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra",
+          "Jesus"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "My death, praise I unto you, the voluntary death, which cometh unto me because I want it. He that hath a goal and an heir, wanteth death at the right time for the goal and the heir.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-042",
+      "text": "Jesus is criticized as dying too early\u2014before he had learned to love the earth and laughter\u2014with the provocative suggestion that had he lived longer he would have disavowed his doctrine.",
+      "chapter": "Voluntary Death",
+      "concepts": [
+        "critique_of_christianity",
+        "religious_critique",
+        "earthly_affirmation"
+      ],
+      "entities": {
+        "people": [
+          "Jesus"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Verily, too early died that Hebrew whom the preachers of slow death honour: and to many hath it proved a calamity that he died too early.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-043",
+      "text": "Gold's value as a symbol is its willingness to give freely and without profit\u2014the 'bestowing virtue' is the highest because it flows from superabundance of the soul rather than from duty or fear.",
+      "chapter": "The Bestowing Virtue",
+      "concepts": [
+        "gift_giving_ethics",
+        "healthy_selfishness",
+        "virtue_ethics"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The bestowing virtue is opposed to the 'sickly selfishness' of the poor and degenerate, which steals rather than gives and represents bodily and spiritual decline.",
+          "speaker": null
+        },
+        {
+          "text": "Uncommon is the highest virtue, and unprofiting, beaming is it, and soft of lustre: a bestowing virtue is the highest virtue.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-044",
+      "text": "Zarathustra commands his disciples to lose him and find themselves\u2014veneration of a teacher is the last sin because true disciples must overcome the teacher, just as the Superman overcomes man.",
+      "chapter": "The Bestowing Virtue",
+      "concepts": [
+        "discipleship_critique",
+        "self_determination",
+        "superman_ideal"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "The Pied Cow"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Now do I bid you lose me and find yourselves; and only when ye have all denied me, will I return unto you.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "DEAD ARE ALL THE GODS: NOW DO WE DESIRE THE SUPERMAN TO LIVE.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-045",
+      "text": "The dream's mirror showing a devil's grimace instead of Zarathustra's face signals that his teaching has been corrupted and perverted in his absence\u2014the distortion is the work of enemies who have turned his gifts into tares.",
+      "chapter": "The Child with the Mirror",
+      "concepts": [
+        "philosophical_corruption",
+        "teaching_and_legacy",
+        "solitude_and_return"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Zarathustra wakes filled not with anguish but with inspired happiness, eager to descend and speak again to his beloved ones.",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-046",
+      "text": "The concept of God is philosophically and existentially incompatible with the will to create: if God existed, there would be nothing left to create, and Zarathustra's creative drive itself is the argument for atheism.",
+      "chapter": "In the Happy Isles",
+      "concepts": [
+        "death_of_god",
+        "creative_will",
+        "atheism",
+        "superman_ideal"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "Happy Isles"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "IF there were gods, how could I endure it to be no God! THEREFORE there are no Gods.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Could ye CREATE a God?\u2014Then, I pray you, be silent about all Gods! But ye could well create the Superman.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-047",
+      "text": "The will to create requires suffering and transformation\u2014it is the creator who must also be the child-bearer enduring birth-pangs, repeatedly saying farewell to old selves.",
+      "chapter": "In the Happy Isles",
+      "concepts": [
+        "creativity_and_suffering",
+        "self_overcoming",
+        "becoming"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Creating\u2014that is the great salvation from suffering, and life's alleviation. But for the creator to appear, suffering itself is needed, and much transformation.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-048",
+      "text": "Pity obligates and wounds both giver and receiver\u2014great obligations breed revenge, small kindnesses become gnawing worms, and pity's indulgence teaches the world to suffer more rather than less.",
+      "chapter": "The Pitiful",
+      "concepts": [
+        "pity_critique",
+        "compassion",
+        "love_philosophy",
+        "death_of_god"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Verily, I like them not, the merciful ones, whose bliss is in their pity: too destitute are they of bashfulness.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Thus spake the devil unto me, once on a time: 'Even God hath his hell: it is his love for man.' And lately, did I hear him say these words: 'God is dead: of his pity for man hath God died.'",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-049",
+      "text": "All great love is above pity because it seeks to create what is loved rather than wallow in its suffering\u2014the creator's love is hard.",
+      "chapter": "The Pitiful",
+      "concepts": [
+        "creative_love",
+        "hardness_as_virtue",
+        "life_affirmation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Myself do I offer unto my love, AND MY NEIGHBOUR AS MYSELF\u2014such is the language of all creators. All creators, however, are hard.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-050",
+      "text": "Priests are prisoners of their own 'false values and fatuous words'\u2014the Savior put them in fetters\u2014yet they contain heroes and Zarathustra honors the blood relationship while refusing to be bound by it.",
+      "chapter": "The Priests",
+      "concepts": [
+        "religious_critique",
+        "martyrdom",
+        "institutional_religion"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Blood is the very worst witness to truth; blood tainteth the purest teaching, and turneth it into delusion and hatred of heart.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-051",
+      "text": "All 'Saviours' suffered from spirit composed of defects\u2014they filled their defects with God-illusions and drove their flocks with terror rather than leading them to genuine freedom.",
+      "chapter": "The Priests",
+      "concepts": [
+        "messianism_critique",
+        "religious_psychology",
+        "freedom"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sultry heart and cold head; where these meet, there ariseth the blusterer, the 'Saviour.'",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-052",
+      "text": "The virtuous seek reward\u2014heaven for earth, eternity for today\u2014and this fundamentally corrupts their virtue; genuine virtue is the self overflowing, like a mother's love for a child, not a transaction.",
+      "chapter": "The Virtuous",
+      "concepts": [
+        "virtue_ethics",
+        "moral_critique",
+        "authentic_ethics",
+        "self_expression"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ye want to be paid besides, ye virtuous ones! Ye want reward for virtue, and heaven for earth, and eternity for your to-day?",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "That your virtue is your Self, and not an outward thing, a skin, or a cloak: that is the truth from the basis of your souls, ye virtuous ones!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-053",
+      "text": "The fundamental problem with the rabble is spiritual contamination of life's sources\u2014their presence makes even fountain, flame, and fruit impure, and many great souls have fled life itself rather than share these with them.",
+      "chapter": "The Rabble",
+      "concepts": [
+        "aristocratic_ethics",
+        "cultural_decadence",
+        "solitude"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Life is a well of delight; but where the rabble also drink, there all fountains are poisoned.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-054",
+      "text": "Zarathustra's resolution is elevation to heights the rabble cannot reach, finding a delight that cannot be polluted\u2014not hatred but withdrawal and ascent.",
+      "chapter": "The Rabble",
+      "concepts": [
+        "spiritual_elevation",
+        "disgust_as_motivation",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "His loathing itself created wings and fountain-divining powers\u2014taking him to the loftiest height where his well of delight is pure.",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-055",
+      "text": "Egalitarianism is driven by ressentiment\u2014the suppressed envy of those who cannot achieve greatness seeks to pull everything down to their level under the name of justice.",
+      "chapter": "The Tarantulas",
+      "concepts": [
+        "ressentiment",
+        "egalitarianism_critique",
+        "will_to_power",
+        "revenge_psychology"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Will to Equality'\u2014that itself shall henceforth be the name of virtue; and against all that hath power will we raise an outcry!'\u2014thus do the tarantula-hearts pledge themselves.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "BECAUSE, FOR MAN TO BE REDEEMED FROM REVENGE\u2014that is for me the bridge to the highest hope, and a rainbow after long storms.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-056",
+      "text": "Life requires inequality, struggle, and variance of levels; without steps and climbers, there can be no ascent\u2014war and inequality among humans are conditions for life to surpass itself.",
+      "chapter": "The Tarantulas",
+      "concepts": [
+        "inequality_as_natural",
+        "agonistic_ethics",
+        "life_affirmation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "With your values and formulae of good and evil, ye exercise power, ye valuing ones: and that is your secret love.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-057",
+      "text": "Famous wise men serve the people's superstition rather than truth\u2014their tolerated unbelief is a 'pleasantry' permitted by the master, not genuine independence of spirit.",
+      "chapter": "The Famous Wise Ones",
+      "concepts": [
+        "intellectual_conformism",
+        "epistemic_authority",
+        "popular_culture"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The people have ye served and the people's superstition\u2014NOT the truth!\u2014all ye famous wise ones!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-058",
+      "text": "True spirit is life cutting into life\u2014it sacrifices itself, knows cold and heat, and builds mountains; the famous wise men only see sparks of spirit, not the anvil and hammer behind it.",
+      "chapter": "The Famous Wise Ones",
+      "concepts": [
+        "intellectual_courage",
+        "spirit_and_knowledge",
+        "elite_knowledge"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Spirit is life which itself cutteth into life: by its own torture doth it increase its own knowledge.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-059",
+      "text": "The one who constantly bestows light suffers a distinctive loneliness: unlike those who receive warmth, they live in perpetual outpouring with no capacity to receive\u2014their abundance becomes their isolation.",
+      "chapter": "The Night-Song",
+      "concepts": [
+        "gift_giving_ethics",
+        "solitude",
+        "paradox_of_abundance"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Light am I: ah, that I were night! But it is my lonesomeness to be begirt with light!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "I know not the happiness of the receiver; and oft have I dreamt that stealing must be more blessed than receiving.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-060",
+      "text": "Life personified as a dancing woman reveals to Zarathustra that all his praise of her comes from willing, craving, and loving\u2014and his Wisdom jealously resembles Life herself, sharing her eye, laugh, and golden fishing-rod.",
+      "chapter": "The Dance-Song",
+      "concepts": [
+        "life_affirmation",
+        "wisdom_and_life",
+        "spirit_of_gravity",
+        "dance_as_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In my heart do I love only Life\u2014and verily, most when I hate her!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "The spirit of gravity\u2014the anti-dancer\u2014is named Zarathustra's 'supremest, powerfulest devil.'",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-061",
+      "text": "The enemies who destroyed Zarathustra's youthful joys and companions committed a worse crime than murder\u2014they killed what was irretrievable\u2014yet the Will persists invulnerable, silently enduring and ultimately capable of overcoming even these losses.",
+      "chapter": "The Grave-Song",
+      "concepts": [
+        "will_to_power",
+        "resilience",
+        "grief_and_memory",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Yea, something invulnerable, unburiable is with me, something that would rend rocks asunder: it is called MY WILL. Silently doth it proceed, and unchanged throughout the years.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-062",
+      "text": "The Will to Truth that philosophers celebrate is itself a form of Will to Power\u2014they seek to make all being thinkable, to command and reshape the world in thought's image, not merely to observe.",
+      "chapter": "Self-Surpassing",
+      "concepts": [
+        "will_to_power",
+        "will_to_truth",
+        "epistemic_authority",
+        "philosophical_critique"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "All living things are obeying things, and commanding is more difficult than obeying because the commander bears all obeyers' burdens and risks themselves.",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-063",
+      "text": "Life herself speaks her deepest secret: 'I am that which must ever surpass itself'\u2014sacrifice, struggle, and self-overcoming are not aberrations but the essential nature of all living things.",
+      "chapter": "Self-Surpassing",
+      "concepts": [
+        "self_overcoming",
+        "will_to_power",
+        "nature_of_life"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Behold,' said she, 'I am that WHICH MUST EVER SURPASS ITSELF. Rather would I succumb than disown this one thing; and verily, where there is succumbing and leaf-falling, lo, there doth Life sacrifice itself\u2014for power!'",
+          "speaker": "Life (personified)"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-064",
+      "text": "Good and evil are not everlasting\u2014they must ever surpass themselves; the creating one must first be a destroyer of old values, and out of this greatest evil comes the creating good.",
+      "chapter": "Self-Surpassing",
+      "concepts": [
+        "value_creation",
+        "creative_destruction",
+        "moral_genealogy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Verily, I say unto you: good and evil which would be everlasting\u2014it doth not exist! Of its own accord must it ever surpass itself anew.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-065",
+      "text": "The sublime man has conquered monsters and solved enigmas but has not yet learned to smile without jealousy or let his gushing passion become calm in beauty\u2014he needs to transform his monsters into 'heavenly children.'",
+      "chapter": "The Sublime Ones",
+      "concepts": [
+        "beauty_and_power",
+        "grace_as_virtue",
+        "self_overcoming",
+        "aesthetics_of_greatness"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When power becometh gracious and descendeth into the visible\u2014I call such condescension, beauty.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-066",
+      "text": "Present-day men are covered with the characters of all past periods but have no authentic identity beneath; their 'realism' is the most radical unreality because they cannot create and therefore cannot believe.",
+      "chapter": "The Land of Culture",
+      "concepts": [
+        "cultural_decadence",
+        "historical_consciousness",
+        "creativity_and_belief",
+        "modernity_critique"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He who had to create, had always his presaging dreams and astral premonitions\u2014and believed in believing!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Unfruitful are ye: THEREFORE do ye lack belief.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-067",
+      "text": "The ideal of 'will-less contemplation' praised by certain philosophers and aesthetes is a lie: it is covert desire that shames itself, calling lust 'pure perception' while actually desiring what it pretends merely to observe.",
+      "chapter": "Immaculate Perception",
+      "concepts": [
+        "epistemology",
+        "will_and_knowledge",
+        "aesthetic_philosophy",
+        "self_deception"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Where is innocence? Where there is will to procreation. And he who seeketh to create beyond himself, hath for me the purest will.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-068",
+      "text": "Academic scholars are skilled technicians of thought\u2014clever with fingers, good at grinding\u2014but their spirit is the spirit of a clock or mill, not a living fire; they wait for others' thoughts rather than generating their own.",
+      "chapter": "Scholars",
+      "concepts": [
+        "intellectual_culture",
+        "academic_critique",
+        "living_knowledge"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Too long did my soul sit hungry at their table: not like them have I got the knack of investigating, as the knack of nut-cracking.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-069",
+      "text": "Poets mythologize nature's attention to them and invest their own images with divine authority\u2014'all Gods are poet-symbolisations'\u2014and Zarathustra is weary of this shallowness even in himself.",
+      "chapter": "Poets",
+      "concepts": [
+        "self_critique",
+        "poetry_and_truth",
+        "artistic_vanity"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "We also know too little, and are bad learners: so we are obliged to lie. And which of us poets hath not adulterated his wine?",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-070",
+      "text": "The fire-dog (representing demagogues and revolutionary agitators) is a ventriloquist of the earth\u2014shallow, mendacious, feeding on the surface while pretending to speak from the depths of transformation.",
+      "chapter": "Great Events",
+      "concepts": [
+        "political_demagogy",
+        "revolutionary_critique",
+        "value_creation",
+        "silence_and_depth"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The greatest events\u2014are not our noisiest, but our stillest hours. Not around the inventors of new noise, but around the inventors of new values, doth the world revolve; INAUDIBLY it revolveth.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-071",
+      "text": "The soothsayer's nihilism\u2014'all is empty, all is alike, all hath been'\u2014represents the great temptation of world-weariness that can afflict even the strongest spirits, including Zarathustra himself.",
+      "chapter": "The Soothsayer",
+      "concepts": [
+        "nihilism",
+        "world_weariness",
+        "existential_crisis"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Zarathustra fell into a three-day depression, refusing food and speech, before his dream broke the spell.",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-072",
+      "text": "The dream reveals Zarathustra as the wind that bursts open the fortress of death\u2014his laughter will be the counter-force to the long twilight, frightening and overthrowing the guardians of solemn death-worlds.",
+      "chapter": "The Soothsayer",
+      "concepts": [
+        "laughter_as_philosophy",
+        "life_affirmation",
+        "overcoming_nihilism"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The beloved disciple interprets: 'Like a thousand peals of children's laughter cometh Zarathustra into all sepulchres, laughing at those night-watchmen and grave-guardians.'",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-073",
+      "text": "Zarathustra sees humanity as 'fragments and limbs scattered on a battle-ground'\u2014the present and past are a chaos of broken pieces waiting for a creator-redeemer who can compose them into unity and meaning.",
+      "chapter": "Redemption",
+      "concepts": [
+        "redemption_philosophy",
+        "historical_meaning",
+        "creative_redemption"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "I walk amongst men as the fragments of the future: that future which I contemplate. And it is all my poetisation and aspiration to compose and collect into unity what is fragment and riddle and fearful chance.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-074",
+      "text": "The will's inability to go backward\u2014to undo the 'it was'\u2014creates the spirit of revenge, which then masquerades as justice and punishment; all morality built on punishment is secretly driven by this impotence.",
+      "chapter": "Redemption",
+      "concepts": [
+        "revenge_psychology",
+        "moral_genealogy",
+        "will_and_time",
+        "ressentiment"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "THE SPIRIT OF REVENGE: my friends, that hath hitherto been man's best contemplation; and where there was suffering, it was claimed there was always penalty.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-075",
+      "text": "The creating Will must learn to will backwards\u2014to affirm the past as something it willed\u2014but Zarathustra breaks off before fully articulating how this is possible, hinting at the doctrine of eternal recurrence.",
+      "chapter": "Redemption",
+      "concepts": [
+        "eternal_recurrence",
+        "will_to_power",
+        "time_philosophy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Away from those fabulous songs did I lead you when I taught you: 'The Will is a creator.' All 'It was' is a fragment, a riddle, a fearful chance\u2014until the creating Will saith thereto: 'But thus would I have it.'",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-076",
+      "text": "Zarathustra deliberately allows himself to be deceived so that men can serve as an anchor preventing him from being pulled entirely upward into abstraction\u2014this strategic vulnerability is his first 'manly prudence.'",
+      "chapter": "Manly Prudence",
+      "concepts": [
+        "strategic_vulnerability",
+        "attachment_to_humanity",
+        "superman_ideal"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "To man clingeth my will; with chains do I bind myself to man, because I am pulled upwards to the Superman: for thither doth mine other will tend.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-077",
+      "text": "The vain are better actors than the proud and keep Zarathustra attached to human drama rather than melancholy; wounded pride creates something better than pride, but wounded vanity produces tragedy.",
+      "chapter": "Manly Prudence",
+      "concepts": [
+        "psychology_of_vanity",
+        "practical_wisdom",
+        "human_comedy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Is not wounded vanity the mother of all tragedies? Where, however, pride is wounded, there there groweth up something better than pride.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-078",
+      "text": "The stillest hour represents Zarathustra's deepest inner command\u2014the knowledge he has but will not yet speak\u2014and it rebukes him for hiding behind defiance and insufficient humility.",
+      "chapter": "The Stillest Hour",
+      "concepts": [
+        "prophetic_mission",
+        "inner_command",
+        "courage_and_humility"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The voice tells him: 'It is the stillest words which bring the storm. Thoughts that come with doves' footsteps guide the world.'",
+          "speaker": null
+        },
+        {
+          "text": "At the last the voice says: 'O Zarathustra, thy fruits are ripe, but thou art not ripe for thy fruits! So must thou go again into solitude.'",
+          "speaker": null
+        }
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-079",
+      "text": "The path to one's greatest height paradoxically requires the deepest descent\u2014the highest mountains come out of the sea, and Zarathustra must plunge into darkness before his final ascent.",
+      "chapter": "The Wanderer",
+      "concepts": [
+        "philosophical_journey",
+        "descent_before_ascent",
+        "solitude"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "Happy Isles"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Before my highest mountain do I stand, and before my longest wandering: therefore must I first go deeper down than I ever ascended.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Love is the danger of the lonesomest one\u2014love to anything, if it only live!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-080",
+      "text": "At the gateway 'This Moment,' eternal recurrence is first fully articulated: all things that can happen have already happened infinite times, and this moment draws all coming things after it\u2014the eternal return of the same.",
+      "chapter": "The Vision and the Enigma",
+      "concepts": [
+        "eternal_recurrence",
+        "time_philosophy",
+        "gateway_moment"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Must not whatever CAN run its course of all things, have already run along that lane? Must not whatever CAN happen of all things have already happened?",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "The dwarf dismissively says 'time itself is a circle'\u2014but Zarathustra insists on confronting the full weight of this, not taking it too lightly.",
+          "speaker": null
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-081",
+      "text": "The shepherd vision\u2014a young man choking on a black serpent lodged in his throat who bites off its head and is transfigured into something no longer human\u2014is a parable of the person who must confront the heaviest thought and overcome it.",
+      "chapter": "The Vision and the Enigma",
+      "concepts": [
+        "eternal_recurrence",
+        "overcoming_nihilism",
+        "superman_ideal",
+        "transformative_laughter"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "No longer shepherd, no longer man\u2014a transfigured being, a light-surrounded being, that LAUGHED! Never on earth laughed a man as HE laughed!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Zarathustra identifies the serpent as the heaviest thought\u2014eternal recurrence applied to the small man\u2014and the shepherd as whoever must come to overcome it.",
+          "speaker": null
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-082",
+      "text": "Zarathustra's happiness presseth him like molten pitch\u2014not light and fluid but dense with weight; he must still suffer voluntarily for his final testing before he is ripe to descend and complete his work.",
+      "chapter": "Involuntary Bliss",
+      "concepts": [
+        "voluntary_suffering",
+        "creative_mission",
+        "self_perfection"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "Happy Isles"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He must perfect himself for his children's sake, just as a loving one creates out of love and then returns to create further.",
+          "speaker": null
+        },
+        {
+          "text": "Away with thee, thou blissful hour! With thee hath there come to me an involuntary bliss! Ready for my severest pain do I here stand.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-083",
+      "text": "The pure sky above all clouds represents the highest affirmation\u2014beyond good and evil, beyond eternal will and purpose\u2014where existence is innocent chance and all things are 'baptized at the font of eternity.'",
+      "chapter": "Before Sunrise",
+      "concepts": [
+        "innocence_of_becoming",
+        "affirmation_of_life",
+        "chance_and_necessity",
+        "eternal_recurrence"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Verily, it is a blessing and not a blasphemy when I teach that 'above all things there standeth the heaven of chance, the heaven of innocence, the heaven of hazard, the heaven of wantonness.'",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Zarathustra hates the passing clouds\u2014half-and-half ones who can neither bless nor curse from the heart\u2014as robbers of the sky's pure Yes.",
+          "speaker": null
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-084",
+      "text": "Modern civilization produces a systematic shrinking of humanity through its doctrine of happiness as moderate comfort\u2014small virtues, small omissions, and small submissions that gradually eliminate all soil for greatness.",
+      "chapter": "The Bedwarfing Virtue",
+      "concepts": [
+        "cultural_decadence",
+        "mediocrity",
+        "modernity_critique",
+        "last_man"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Everywhere do I see lower doorways: he who is of MY type can still go therethrough, but\u2014he must stoop!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-085",
+      "text": "The people's cowardice is called virtue\u2014their 'submission' is fear of pain, their 'moderation' is fear of excess, and their 'good neighborhood' is the warmth of sheep pressed together; yet Zarathustra promises the lightning of the great noontide will come to them.",
+      "chapter": "The Bedwarfing Virtue",
+      "concepts": [
+        "bourgeois_virtue",
+        "cowardice_as_virtue",
+        "prophetic_hope"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ye ever become smaller, ye small people! Ye crumble away, ye comfortable ones! Ye will yet perish\u2014by your many small virtues.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-086",
+      "text": "Zarathustra uses winter as a mask: by chattering with cold and displaying chilblains, he conceals the inner warmth of his happiness from those who would resent it\u2014the art of wise silence that does not betray itself through silence.",
+      "chapter": "On the Olive-Mount",
+      "concepts": [
+        "strategic_concealment",
+        "solitude",
+        "wisdom_and_appearance"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "My best-loved wickedness and art is it, that my silence hath learned not to betray itself by silence.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-087",
+      "text": "The 'ape of Zarathustra' speaks valid words about the city's corruption but ruins them by speaking from unflatified resentment rather than love\u2014bad contempt from bad motives is worse than the evil it attacks.",
+      "chapter": "On Passing By",
+      "concepts": [
+        "contempt_and_love",
+        "ressentiment",
+        "passing_by_ethics"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Out of love alone shall my contempt and my warning bird take wing; but not out of the swamp!",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "The counsel: Where one can no longer love, there should one\u2014PASS BY!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-088",
+      "text": "Apostasy from Zarathustra's teaching reveals the fundamental cowardice of the many: the faint-hearted devil in them convinces them there is a God, and they return to the comfort of belief rather than endure the open sea of freedom.",
+      "chapter": "The Apostates",
+      "concepts": [
+        "apostasy",
+        "religious_relapse",
+        "cowardice",
+        "death_of_god"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "The Pied Cow"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The night-watchmen joke about God's neglect of his children satirizes the absurdity of theism, while Zarathustra laughs at the 'drunken asses'\u2014suggesting the gods died laughing at the proclamation of monotheism.",
+          "speaker": null
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-089",
+      "text": "Forsakenness among men and lonesomeness in solitude are categorically different: among men Zarathustra had to lie through pity, suppress truths, and endure poisonous indulgence; in solitude everything is open, clear, and true.",
+      "chapter": "The Return Home",
+      "concepts": [
+        "solitude",
+        "authenticity",
+        "pity_critique",
+        "homecoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He who liveth amongst the good\u2014pity teacheth him to lie. Pity maketh stifling air for all free souls.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "O lonesomeness! My home, lonesomeness! How blessedly and tenderly speaketh thy voice unto me!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-090",
+      "text": "Voluptuousness, cursed by ascetics, is for free hearts innocent garden-happiness and the great symbolic happiness of higher hope; for the lion-willed it is the great cordial.",
+      "chapter": "The Three Evil Things",
+      "concepts": [
+        "rehabilitation_of_instinct",
+        "moral_revaluation",
+        "body_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Voluptuousness: to free hearts, a thing innocent and free, the garden-happiness of the earth, all the future's thanks-overflow to the present.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-091",
+      "text": "The 'bestowing virtue'\u2014healthy selfishness from the powerful soul\u2014is distinguished from sickly selfishness; self-love of the strong is the opposite of slave morality's 'selflessness,' which masks cowardice and resentment.",
+      "chapter": "The Three Evil Things",
+      "concepts": [
+        "will_to_power",
+        "healthy_selfishness",
+        "moral_revaluation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Passion for power\u2014before whose glance man creepeth and croucheth\u2014is also the teacher of great contempt, the earthquake of rotten hollow things; and for heights, it becomes the longing to descend and give.",
+          "speaker": null
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-092",
+      "text": "The spirit of gravity loads humans with 'heavy words and worths' from birth\u2014good, evil, duty\u2014preventing them from learning to love themselves, which is the prerequisite for flying.",
+      "chapter": "The Spirit of Gravity",
+      "concepts": [
+        "spirit_of_gravity",
+        "self_love",
+        "lightness_and_flight",
+        "value_burden"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He who would become light, and be a bird, must love himself:\u2014thus do I teach.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-093",
+      "text": "The path to one's own truth is not a single ladder but a thousand divergent ways\u2014one must first learn standing, walking, running, climbing, and dancing before flying; the way does not pre-exist but is created.",
+      "chapter": "The Spirit of Gravity",
+      "concepts": [
+        "individual_path",
+        "self_discovery",
+        "anti_dogmatism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'This\u2014is now MY way,\u2014where is yours?' Thus did I answer those who asked me 'the way.' For THE way\u2014it doth not exist!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-094",
+      "text": "The 'good and just' are humanity's greatest danger because they already know what is good and thus prevent all new creation; the creator must first be a destroyer, which is why the good must 'crucify' him.",
+      "chapter": "Old and New Tables",
+      "concepts": [
+        "persecution_of_creators",
+        "moral_conservatism",
+        "value_creation"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The good MUST crucify him who deviseth his own virtue! That IS the truth! The good\u2014they CANNOT create; they are always the beginning of the end.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-095",
+      "text": "A new nobility is needed\u2014defined not by origin but by destination, not by blood but by will toward the Superman\u2014whose task is to redeem the past by willing it as their own and build a 'children's land' in the remotest sea.",
+      "chapter": "Old and New Tables",
+      "concepts": [
+        "new_nobility",
+        "aristocratic_ethics",
+        "future_orientation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Let it not be your honour henceforth whence ye come, but whither ye go! Your Will and your feet which seek to surpass you\u2014let these be your new honour!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-096",
+      "text": "Zarathustra urges 'Become hard!'\u2014the diamond-hardness needed to create on millennia as on wax\u2014and awaits the sign of the laughing lion and doves as permission for his final descent.",
+      "chapter": "Old and New Tables",
+      "concepts": [
+        "hardness_as_virtue",
+        "creative_will",
+        "the_great_noontide"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "For the creators are hard. And blessedness must it seem to you to press your hand upon millenniums as upon wax. This new table, O my brethren, put I up over you: BECOME HARD!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-097",
+      "text": "The abysmal thought that nearly destroys Zarathustra is eternal recurrence combined with the eternal return of the small man\u2014the disgust that 'all is alike, nothing is worth while' extended to infinite repetition.",
+      "chapter": "The Convalescent",
+      "concepts": [
+        "eternal_recurrence",
+        "nihilism",
+        "disgust_as_motivation",
+        "overcoming"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Eternally he returneth, the man of whom thou art weary, the small man'\u2014so yawned my sadness, and could not go to sleep.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Naked had I once seen both of them, the greatest man and the smallest man: all-too-similar\u2014all-too-human!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-098",
+      "text": "The animals articulate the doctrine of eternal recurrence as Zarathustra's fate: he is the Teacher of the Eternal Return who must will even this\u2014his own teaching, his own suffering, his own identical return\u2014as his final affirmation.",
+      "chapter": "The Convalescent",
+      "concepts": [
+        "eternal_recurrence",
+        "prophetic_mission",
+        "amor_fati"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Behold, THOU ART THE TEACHER OF THE ETERNAL RETURN,\u2014that is now THY fate! That thou must be the first to teach this teaching\u2014how could this great fate not be thy greatest danger and infirmity!",
+          "speaker": "Zarathustra's animals"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-099",
+      "text": "The soul has received all of Zarathustra's gifts and now stands heavy with ripeness like a vine\u2014its great longing is the sign of his final gift to it: the command to sing, which is itself his last act of self-emptying.",
+      "chapter": "The Great Longing",
+      "concepts": [
+        "soul_philosophy",
+        "gift_giving_ethics",
+        "self_emptying"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "O my soul, I have given thee everything, and all my hands have become empty by thee:\u2014and now! Now sayest thou to me, smiling and full of melancholy: 'Which of us oweth thanks?'",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-100",
+      "text": "The dance becomes a mutual revelation: Life tells Zarathustra she knows he thinks of departing, that he loves her less than he says; he whispers into her ear\u2014the eternal recurrence\u2014and they weep together.",
+      "chapter": "The Second Dance-Song",
+      "concepts": [
+        "life_affirmation",
+        "eternal_recurrence",
+        "love_and_wisdom"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Then, however, was Life dearer unto me than all my Wisdom had ever been.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-101",
+      "text": "The chapter concludes with the twelve-stroke midnight song\u2014'O man! Take heed!'\u2014the seed of the full drunken song, affirming that joy is deeper than grief and wants eternity.",
+      "chapter": "The Second Dance-Song",
+      "concepts": [
+        "eternal_recurrence",
+        "joy_and_suffering",
+        "life_affirmation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Joy\u2014deeper still than grief can be: Woe saith: Hence! Go! But joys all want eternity\u2014Want deep profound eternity!",
+          "speaker": null
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-102",
+      "text": "The Seven Seals is Zarathustra's supreme affirmation\u2014the wedding ring of the eternal return as 'the marriage-ring of rings'\u2014in which every aspect of his nature (wrath, laughter, creativity, exploration, dance, flight) culminates in love for Eternity.",
+      "chapter": "The Seven Seals (or, The Yea and Amen Lay)",
+      "concepts": [
+        "eternal_recurrence",
+        "amor_fati",
+        "affirmation_of_life",
+        "eternity"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Oh, how could I not be ardent for Eternity, and for the marriage-ring of rings\u2014the ring of the return? Never yet have I found the woman by whom I should like to have children, unless it be this woman whom I love: for I love thee, O Eternity!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-103",
+      "text": "The honey sacrifice is a theatrical ruse\u2014Zarathustra uses his own happiness as bait to draw superior humans, those with whom he can celebrate the great noontide, casting his golden fishing hook into the human sea.",
+      "chapter": "The Honey Sacrifice",
+      "concepts": [
+        "philosophical_playfulness",
+        "great_noontide",
+        "higher_human_type"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "That I spake of sacrifices and honey-sacrifices, it was merely a ruse in talking and verily, a useful folly! Here aloft can I now speak freer.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-104",
+      "text": "Pity\u2014specifically 'pity for the higher man'\u2014is named as Zarathustra's last sin; the soothsayer's function is to seduce Zarathustra out of his mountain solitude into the emotional trap of compassion.",
+      "chapter": "The Cry of Distress",
+      "concepts": [
+        "pity_as_temptation",
+        "higher_man",
+        "prophetic_mission"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra",
+          "Soothsayer"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'PITY!' answered the soothsayer from an overflowing heart, and raised both his hands aloft\u2014'O Zarathustra, I have come that I may seduce thee to thy last sin!'",
+          "speaker": "Soothsayer"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-105",
+      "text": "The kings have fled 'good society' and their own gilded populace because everything in it is false, mixed, and devoid of genuine reverence\u2014their loathing is a mark of their higher nature even if they are not yet the higher men Zarathustra seeks.",
+      "chapter": "Talk with the Kings",
+      "concepts": [
+        "political_decline",
+        "aristocratic_ethics",
+        "higher_human_type"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "There is no sorer misfortune in all human destiny, than when the mighty of the earth are not also the first men. Then everything becometh false and distorted and monstrous.",
+          "speaker": "King on the right"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-106",
+      "text": "The spiritually conscientious one exemplifies rigorous intellectual honesty taken to an extreme: he limits himself to the brain of the leech as his entire domain, considering such thorough specialization more honest than the 'semi-spiritual' breadth of most scholars.",
+      "chapter": "The Leech",
+      "concepts": [
+        "intellectual_honesty",
+        "specialization_and_depth",
+        "epistemic_integrity"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Better know nothing than half-know many things! Better be a fool on one's own account, than a sage on other people's approbation!",
+          "speaker": "Conscientious one"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-107",
+      "text": "The magician's performance of suffering is exposed as deliberate deception\u2014but Zarathustra identifies that even the deceptive magician has an authentic core of self-disgust beneath the performance, which is the most honest thing about him.",
+      "chapter": "The Magician",
+      "concepts": [
+        "authenticity_and_performance",
+        "self_deception",
+        "artistic_vanity"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "I am weary of it, I am disgusted with mine arts, I am not GREAT, why do I dissemble! But thou knowest it well\u2014I sought for greatness! A great man I wanted to appear, and persuaded many; but the lie hath been beyond my power.",
+          "speaker": "Magician"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-108",
+      "text": "The old pope offers a sophisticated theological critique: God started harsh and jealous, then became pitiful and grandmotherly, and finally 'suffocated of his all-too-great pity'\u2014a death from compassion, not revolt.",
+      "chapter": "Out of Service",
+      "concepts": [
+        "death_of_god",
+        "pity_critique",
+        "religious_history"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "God died of pity for man\u2014he saw everything through and through, including men's hidden shame and ugliness, and could not endure it.",
+          "speaker": "Old Pope"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-109",
+      "text": "The pope perceives that Zarathustra's very ungodliness is a form of piety\u2014his honesty and inability to believe in a less-than-honest God reflects a higher religious sensibility than conventional theism.",
+      "chapter": "Out of Service",
+      "concepts": [
+        "religious_critique",
+        "paradox_of_unbelief",
+        "authenticity"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'O Zarathustra, thou art more pious than thou believest, with such an unbelief! Some God in thee hath converted thee to thine ungodliness.'",
+          "speaker": "Old Pope"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-110",
+      "text": "The ugliest man killed God because an all-seeing God who beholds everything\u2014including man's innermost shame\u2014is intolerable to human pride; his murder of God was an act of self-preservation against the most intrusive witness.",
+      "chapter": "The Ugliest Man",
+      "concepts": [
+        "death_of_god",
+        "shame_and_self_knowledge",
+        "murder_of_god"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [
+          "Serpent-death valley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "He ever beheld ME: on such a witness I would have revenge\u2014or not live myself. The God who beheld everything, AND ALSO MAN: that God had to die! Man cannot ENDURE it that such a witness should live.",
+          "speaker": "Ugliest man"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-111",
+      "text": "Zarathustra's pity overcomes him briefly at the ugliest man's sight\u2014prefiguring his 'last sin'\u2014but the ugliest man values Zarathustra specifically for not pitying, since 'pity is obtrusive' and wounds those who receive it.",
+      "chapter": "The Ugliest Man",
+      "concepts": [
+        "pity_critique",
+        "shame",
+        "higher_human_type"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "With difficulty did I get out of the crowd of the pitiful,\u2014that I might find the only one who at present teacheth that 'pity is obtrusive'\u2014thyself, O Zarathustra!",
+          "speaker": "Ugliest man"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-112",
+      "text": "The voluntary beggar's revulsion at the rich and the rebellion of the populace led him to kine as teachers of peaceful rumination\u2014the antidote to the disgust that pervades both wealth and modern egalitarianism.",
+      "chapter": "The Voluntary Beggar",
+      "concepts": [
+        "disgust_and_renunciation",
+        "simplicity",
+        "gift_giving_ethics"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Except we be converted and become as kine, we shall in no wise enter into the kingdom of heaven. For we ought to learn from them one thing: ruminating.",
+          "speaker": "Voluntary beggar"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-113",
+      "text": "The shadow has taken every freedom Zarathustra took\u2014breaking taboos, destroying values\u2014but without Zarathustra's creative will to build anew, so it has become empty and homeless, the worst-case scenario of the free spirit.",
+      "chapter": "The Shadow",
+      "concepts": [
+        "nihilism",
+        "freedom_without_creation",
+        "existential_homelessness"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "With thee did I break up whatever my heart revered; all boundary-stones and statues have I o'erthrown; the most dangerous wishes did I pursue... 'Nothing is true, all is permitted': so said I to myself.",
+          "speaker": "The Shadow"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-114",
+      "text": "Zarathustra warns the shadow that goalless freedom leads to capture by 'narrow faith'\u2014the danger of the wanderer without compass is that rigid dogma becomes his last refuge.",
+      "chapter": "The Shadow",
+      "concepts": [
+        "freedom_and_constraint",
+        "existential_risk",
+        "dogmatism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Beware lest in the end a narrow faith capture thee, a hard, rigorous delusion! For now everything that is narrow and fixed seduceth and tempteth thee.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-115",
+      "text": "The noontide moment is a mystical interlude of pure affirmation\u2014the world seems perfect, time seems to stop, and Zarathustra experiences the bliss of complete presence before waking to continue his work.",
+      "chapter": "Noontide",
+      "concepts": [
+        "present_moment",
+        "life_affirmation",
+        "mystical_experience"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The least thing precisely, the gentlest thing, the lightest thing, a lizard's rustling, a breath, a whisk, an eye-glance\u2014LITTLE maketh up the BEST happiness.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-116",
+      "text": "Zarathustra offers the higher men security and his whole heart as host, while being honest that they are not his ultimate goal\u2014they are bridges, steps, and harbingers of the genuine sons and heirs he awaits.",
+      "chapter": "The Greeting",
+      "concepts": [
+        "higher_human_type",
+        "superman_ideal",
+        "hospitality_and_mission"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ye are only bridges: may higher ones pass over upon you! Ye signify steps: so do not upbraid him who ascendeth beyond you into HIS height!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-117",
+      "text": "The king's speech identifies Zarathustra as the one all those with great longing and great loathing are seeking\u2014'the last remnant of God among men'\u2014and Zarathustra corrects them: he waits for 'laughing lions' not suffering higher men.",
+      "chapter": "The Greeting",
+      "concepts": [
+        "higher_human_type",
+        "great_noontide",
+        "comic_affirmation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "For OTHERS do I wait here in these mountains; not with you may I descend for the last time. For higher ones, stronger ones, triumphanter ones, merrier ones\u2014LAUGHING LIONS must come!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-118",
+      "text": "The supper scene grounds the philosophical gathering in bodily need\u2014Zarathustra treats feeding his guests as consistent with his philosophy of earth-affirmation, and the 'Supper' becomes the frame for the discourse on the higher man.",
+      "chapter": "The Supper",
+      "concepts": [
+        "earthly_affirmation",
+        "embodied_philosophy",
+        "community"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra",
+          "Soothsayer"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "I am a law only for mine own; I am not a law for all. He, however, who belongeth unto me must be strong of bone and light of foot,\u2014joyous in fight and feast.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-119",
+      "text": "With God dead, the higher man must become master\u2014but the greatest danger to this possibility is not wickedness but the petty virtues, petty politics, and 'happiness of the greatest number' preached by small men who have become masters.",
+      "chapter": "The Higher Man",
+      "concepts": [
+        "death_of_god",
+        "higher_human_type",
+        "great_noontide"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Now only cometh the great noontide, now only doth the higher man become\u2014master! Have ye understood this word, O my brethren? God hath died: now do WE desire\u2014the Superman to live.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-120",
+      "text": "Man must become better AND more evil\u2014the Superman requires a great dragon worthy of him, and the small virtues of today's masters are the greatest obstacle to the Superman's emergence.",
+      "chapter": "The Higher Man",
+      "concepts": [
+        "evil_as_necessary",
+        "superman_ideal",
+        "self_overcoming"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Man is evil'\u2014so said to me for consolation, all the wisest ones. 'Man must become better and eviler'\u2014so do I teach. The evilest is necessary for the Superman's best.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-121",
+      "text": "The higher men's failures are not a reason for despair but a sign of the striving that makes them what they are; what is needed is laughter at oneself and dancing beyond oneself\u2014the crown of laughter.",
+      "chapter": "The Higher Man",
+      "concepts": [
+        "laughter_as_philosophy",
+        "failure_and_resilience",
+        "higher_human_type"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Be of good cheer; what doth it matter? How much is still possible! Learn to laugh at yourselves, as ye ought to laugh! What wonder even that ye have failed and only half-succeeded, ye half-shattered ones!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-122",
+      "text": "The magician's song enacts the seduction he represents\u2014the melancholy of the poet-liar who woos truth but only produces beautiful falsehood\u2014and all the higher men except the conscientious one are caught in its net.",
+      "chapter": "The Song of Melancholy",
+      "concepts": [
+        "artistic_seduction",
+        "poetry_and_truth",
+        "melancholy",
+        "self_critique"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The song depicts the poet as 'mere fool! mere poet!' who cannot stand still like a statue of truth but creeps into chances, sniffing and lying\u2014yet this description is itself poetically beautiful.",
+          "speaker": null
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-123",
+      "text": "The conscientious one's thesis that science arises from fear is a plausible historical account, but Zarathustra insists that courage\u2014the appropriation of animal virtues through daring\u2014is the real founding act of humanity.",
+      "chapter": "Science",
+      "concepts": [
+        "epistemology",
+        "courage_as_foundation",
+        "scientific_origin"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Courage, however, and adventure, and delight in the uncertain, in the unattempted\u2014COURAGE seemeth to me the entire primitive history of man.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "All assembled burst out laughing at Zarathustra's counter-claim, including the magician, who says his 'evil spirit' has fled.",
+          "speaker": null
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-124",
+      "text": "The shadow's song is a self-conscious parody of exoticism and escape\u2014longing for clear desert air and carefree date-girls as the antidote to Europe's brooding, grey, melancholy spirit\u2014but it is performatively comic rather than serious.",
+      "chapter": "Among Daughters of the Desert",
+      "concepts": [
+        "cultural_critique",
+        "melancholy",
+        "lightness_and_flight"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "THE DESERTS GROW: WOE HIM WHO DOTH THEM HIDE!\u2014the refrain frames the comic poem as a warning against concealing inner spiritual aridity.",
+          "speaker": null
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-125",
+      "text": "The ass-worship parodies religious devotion\u2014the ass is praised for saying only 'Yea,' for carrying burdens patiently, for going beyond good and evil\u2014as a grotesque but joyous outlet for the higher men's recovered playfulness.",
+      "chapter": "The Awakening",
+      "concepts": [
+        "religious_parody",
+        "convalescence",
+        "playfulness"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The pope defends it: 'Better to adore God so, in this form, than in no form at all!'\u2014the argument that any object of devotion is better than none.",
+          "speaker": "Old Pope"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-126",
+      "text": "Zarathustra ultimately interprets the 'ass-festival' as a good omen\u2014only convalescents devise such nonsense\u2014and invites the higher men to celebrate it yearly as a festival of recovery and love.",
+      "chapter": "The Awakening",
+      "concepts": [
+        "earthly_affirmation",
+        "festival_and_celebration",
+        "overcoming_nihilism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "We do not at all want to enter into the kingdom of heaven: we have become men\u2014SO WE WANT THE KINGDOM OF EARTH.",
+          "speaker": "Zarathustra on behalf of the higher men"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-127",
+      "text": "The ugliest man's declaration that he is for the first time content to have lived\u2014and would say 'Once more!' to death\u2014initiates the collective affirmation that is the heart of eternal recurrence as lived experience.",
+      "chapter": "The Drunken Song",
+      "concepts": [
+        "eternal_recurrence",
+        "amor_fati",
+        "life_affirmation"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Was THAT\u2014life?' will I say unto death. 'Well! Once more!'",
+          "speaker": "Ugliest man"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-128",
+      "text": "Joy is deeper than grief and wants eternity\u2014not just its own eternity but the eternity of all things including woe; the complete affirmation of existence means willing the eternal return of everything, joy and pain alike.",
+      "chapter": "The Drunken Song",
+      "concepts": [
+        "eternal_recurrence",
+        "joy_and_suffering",
+        "cosmic_affirmation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Said ye ever Yea to one joy? O my friends, then said ye Yea also unto ALL woe. All things are enlinked, enlaced and enamoured.",
+          "speaker": "Zarathustra"
+        },
+        {
+          "text": "Joy\u2014deeper still than grief can be: Woe saith: Hence! Go! But joys all want eternity\u2014Want deep, profound eternity!",
+          "speaker": null
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-129",
+      "text": "The lion and the doves are the prophesied sign that Zarathustra's hour has come\u2014not the higher men, whose distress was the last temptation of pity, but the symbol of strength and gentleness combined that heralds the great noontide.",
+      "chapter": "The Sign",
+      "concepts": [
+        "overcoming_pity",
+        "great_noontide",
+        "prophetic_sign"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "FELLOW-SUFFERING! FELLOW-SUFFERING WITH THE HIGHER MEN! he cried out, and his countenance changed into brass. Well! THAT\u2014hath had its time!",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-130",
+      "text": "Zarathustra's final words\u2014'This is MY morning, MY day beginneth: ARISE NOW, ARISE, THOU GREAT NOONTIDE!'\u2014echo the book's opening sun-address and mark the beginning of his true work, which the book itself does not contain.",
+      "chapter": "The Sign",
+      "concepts": [
+        "great_noontide",
+        "prophetic_mission",
+        "beginning_not_end"
+      ],
+      "entities": {
+        "people": [
+          "Zarathustra"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Well! The lion hath come, my children are nigh, Zarathustra hath grown ripe, mine hour hath come.",
+          "speaker": "Zarathustra"
+        }
+      ],
+      "part": "Fourth and Last Part"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "thus-spake-zarathustra-ch-001",
+      "title": "Zarathustra's Prologue",
+      "summary": "After ten years of solitary wisdom, Zarathustra descends from his mountain to gift humanity with his teaching, but finds the people unready: they prefer the 'last man' of comfortable equality to the challenging ideal of the Superman, and Zarathustra learns he must seek creative companions rather than the herd.",
+      "claim_ids": [
+        "thus-spake-zarathustra-001",
+        "thus-spake-zarathustra-002",
+        "thus-spake-zarathustra-003",
+        "thus-spake-zarathustra-004",
+        "thus-spake-zarathustra-005",
+        "thus-spake-zarathustra-006"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-002",
+      "title": "The Three Metamorphoses",
+      "summary": "The spirit undergoes three necessary transformations\u2014camel (reverent burden-bearer), lion (destroyer of old values), and child (innocent creator)\u2014because only the child's holy 'Yes' can bring forth genuinely new values after the lion has won freedom from the 'Thou shalt' dragon.",
+      "claim_ids": [
+        "thus-spake-zarathustra-007",
+        "thus-spake-zarathustra-008",
+        "thus-spake-zarathustra-009"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-003",
+      "title": "The Academic Chairs of Virtue",
+      "summary": "Zarathustra satirizes a celebrated teacher of virtue whose entire wisdom amounts to techniques for sleeping well, exposing how conventional morality is a soporific that pacifies rather than enlivens the spirit.",
+      "claim_ids": [
+        "thus-spake-zarathustra-010",
+        "thus-spake-zarathustra-011"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-004",
+      "title": "Backworldsmen",
+      "summary": "Zarathustra diagnoses the origin of belief in 'backworlds' (other-worldly realms) as the projection of suffering bodies, arguing that the healthy ego and body are the true measure of reality and that returning virtue to the earth is the new path.",
+      "claim_ids": [
+        "thus-spake-zarathustra-012",
+        "thus-spake-zarathustra-013"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-005",
+      "title": "The Despisers of the Body",
+      "summary": "Zarathustra argues that the body is a 'great sagacity'\u2014a unified intelligent self that directs the ego and spirit\u2014and that those who despise the body secretly reveal that their own self has grown too weak to create, turning their impotence into contempt.",
+      "claim_ids": [
+        "thus-spake-zarathustra-014"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-006",
+      "title": "Joys and Passions",
+      "summary": "True virtue is not an external code but the sublimation of one's own passions into personal aims\u2014yet multiplying virtues creates dangerous inner conflict, so possessing one commanding virtue is stronger than being a battlefield of competing ones.",
+      "claim_ids": [
+        "thus-spake-zarathustra-015",
+        "thus-spake-zarathustra-016"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-007",
+      "title": "The Pale Criminal",
+      "summary": "Zarathustra interrogates the psychology behind criminal action, arguing that the pale criminal's real motive was not robbery but an instinctive 'happiness of the knife,' and that judges who punish from revenge rather than pity perpetuate the same weakness they condemn.",
+      "claim_ids": [
+        "thus-spake-zarathustra-017",
+        "thus-spake-zarathustra-018"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-008",
+      "title": "Reading and Writing",
+      "summary": "Only writing in blood\u2014writing with one's entire life-force as stake\u2014is worth reading; mass literacy destroys genuine thinking, and true wisdom requires courage, laughter, and elevation rather than the gravity and solemnity of conventional learning.",
+      "claim_ids": [
+        "thus-spake-zarathustra-019",
+        "thus-spake-zarathustra-020"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-009",
+      "title": "The Tree on the Hill",
+      "summary": "Through dialogue with a troubled youth, Zarathustra shows that genuine ascent demands deep roots in what is dark and difficult\u2014isolation and envy are not signs of failure but of the dangerous growth required before the creative lightning can strike.",
+      "claim_ids": [
+        "thus-spake-zarathustra-021",
+        "thus-spake-zarathustra-022"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-010",
+      "title": "The Preachers of Death",
+      "summary": "Zarathustra catalogs the various types who preach death and world-denial\u2014the violent, the consumptive, the weary, the pietists\u2014condemning them all as superfluous ones who spread their own death-wish rather than affirming life.",
+      "claim_ids": [
+        "thus-spake-zarathustra-023"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-011",
+      "title": "War and Warriors",
+      "summary": "Zarathustra praises the warrior ethos not for military conquest but as a metaphor for intellectual and spiritual combat\u2014one should love one's enemies, seek worthy foes, and understand peace only as preparation for new wars of the spirit.",
+      "claim_ids": [
+        "thus-spake-zarathustra-024",
+        "thus-spake-zarathustra-025"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-012",
+      "title": "The New Idol",
+      "summary": "The state is a cold monster that lies, steals, and destroys genuine peoples and cultures in order to homogenize the 'many-too-many'; only where the state ceases does the genuine individual\u2014and the path to the Superman\u2014begin.",
+      "claim_ids": [
+        "thus-spake-zarathustra-026",
+        "thus-spake-zarathustra-027"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-013",
+      "title": "The Flies in the Marketplace",
+      "summary": "Zarathustra counsels a friend to flee the marketplace and its petty poisonous stings\u2014the small people who drain greatness through flattery, invisible vengeance, and noise\u2014because great things happen only in solitude, away from fame.",
+      "claim_ids": [
+        "thus-spake-zarathustra-028",
+        "thus-spake-zarathustra-029"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-014",
+      "title": "Chastity",
+      "summary": "Nietzsche argues that chastity is a virtue for some but a vice for many, since forced continence produces a doggish lust that pollutes the spirit; only those for whom chastity comes naturally can maintain innocence in their instincts.",
+      "claim_ids": [
+        "thus-spake-zarathustra-030"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-015",
+      "title": "The Friend",
+      "summary": "Zarathustra redefines friendship as demanding creative enmity\u2014the friend should be one's best enemy, holding one to a higher standard\u2014while criticizing love of neighbor as disguised self-escape and arguing women are as yet incapable of genuine friendship.",
+      "claim_ids": [
+        "thus-spake-zarathustra-031",
+        "thus-spake-zarathustra-032"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-016",
+      "title": "The Thousand and One Goals",
+      "summary": "Every people has created its own table of values as an expression of its will to power and life-conditions; humanity as a whole lacks a single goal, which means humanity itself as a unified project does not yet exist\u2014only the creator who sets a new goal can give humanity a future.",
+      "claim_ids": [
+        "thus-spake-zarathustra-033",
+        "thus-spake-zarathustra-034"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-017",
+      "title": "Neighbour-Love",
+      "summary": "Zarathustra inverts the Christian commandment of neighbor-love, arguing it is really disguised self-escape and bad self-love; he counsels 'furthest love'\u2014love of the future and of the Superman\u2014over the comfortable warmth of proximity.",
+      "claim_ids": [
+        "thus-spake-zarathustra-035"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-018",
+      "title": "The Way of the Creating One",
+      "summary": "The path of genuine creative isolation is terrifying and demands self-mastery beyond all social approval\u2014the solitary creator must become judge and avenger of their own law, burning in their own flame to be reborn.",
+      "claim_ids": [
+        "thus-spake-zarathustra-036",
+        "thus-spake-zarathustra-037"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-019",
+      "title": "Old and Young Women",
+      "summary": "In a deliberately provocative discourse on gender, Zarathustra presents highly traditional and controversial views of woman as plaything, mother, and surface\u2014culminating in the famous aphorism 'Thou goest to women? Do not forget thy whip!' attributed to an old woman.",
+      "claim_ids": [
+        "thus-spake-zarathustra-038"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-020",
+      "title": "The Bite of the Adder",
+      "summary": "Through the parable of the adder's bite, Zarathustra teaches that returning evil with good abashes the wrongdoer\u2014better to return a small injustice for a great one, because shared injustice is half-justice and cold justice is inhuman.",
+      "claim_ids": [
+        "thus-spake-zarathustra-039"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-021",
+      "title": "Child and Marriage",
+      "summary": "Marriage should be a will of two to create something higher than themselves\u2014a new child or a higher purpose\u2014and only those who are self-conquerors and masters of their passions are entitled to desire a child; most marriages are failures of this ideal.",
+      "claim_ids": [
+        "thus-spake-zarathustra-040"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-022",
+      "title": "Voluntary Death",
+      "summary": "Zarathustra advocates for dying at the right time\u2014when one has achieved one's goal and can leave as a gift to the living\u2014rather than overstaying and rotting on the branch; he explicitly criticizes Jesus for dying too early before his teaching could mature.",
+      "claim_ids": [
+        "thus-spake-zarathustra-041",
+        "thus-spake-zarathustra-042"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-023",
+      "title": "The Bestowing Virtue",
+      "summary": "The highest virtue is not self-denial but bestowing\u2014an overflowing, healthy selfishness that accumulates in order to give\u2014and Zarathustra concludes by urging his disciples to abandon him, find themselves, and only return when they have denied him.",
+      "claim_ids": [
+        "thus-spake-zarathustra-043",
+        "thus-spake-zarathustra-044"
+      ],
+      "part": "First Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-024",
+      "title": "The Child with the Mirror",
+      "summary": "A dream vision of a distorted mirror prompts Zarathustra to leave his solitude again\u2014his doctrine has been disfigured by enemies, and his love for his disciples calls him back down to set things right.",
+      "claim_ids": [
+        "thus-spake-zarathustra-045"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-025",
+      "title": "In the Happy Isles",
+      "summary": "On the Happy Isles, Zarathustra teaches that the Superman replaces God as humanity's creative goal\u2014God is a conjecture that stifles creating will, while the Superman is a task that energizes it\u2014and that creating through suffering is the true form of willing.",
+      "claim_ids": [
+        "thus-spake-zarathustra-046",
+        "thus-spake-zarathustra-047"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-026",
+      "title": "The Pitiful",
+      "summary": "Zarathustra argues against pity as a primary virtue, claiming that all great love is above pity\u2014pity as a cardinal virtue produces weakness and follies, and true love seeks to create what is loved rather than merely preserve it in suffering.",
+      "claim_ids": [
+        "thus-spake-zarathustra-048",
+        "thus-spake-zarathustra-049"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-027",
+      "title": "The Priests",
+      "summary": "Zarathustra expresses both contempt and kinship for priests\u2014he recognizes their suffering and heroism while condemning the false values and 'saviors' that have imprisoned them, arguing that blood is the worst witness to truth.",
+      "claim_ids": [
+        "thus-spake-zarathustra-050",
+        "thus-spake-zarathustra-051"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-028",
+      "title": "The Virtuous",
+      "summary": "Zarathustra demolishes the notion of virtue as earning a reward or as external display, arguing that true virtue is the self as its own expression\u2014not a skin or a cloak\u2014and mocking the many corrupt forms virtue takes among the 'virtuous.'",
+      "claim_ids": [
+        "thus-spake-zarathustra-052"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-029",
+      "title": "The Rabble",
+      "summary": "Zarathustra's deepest revulsion is not hatred but loathing of the rabble who poison every fountain\u2014he overcame this loathing not by conquering the rabble but by ascending to heights where they cannot follow, finding a pure well of delight.",
+      "claim_ids": [
+        "thus-spake-zarathustra-053",
+        "thus-spake-zarathustra-054"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-030",
+      "title": "The Tarantulas",
+      "summary": "Tarantulas\u2014preachers of equality\u2014are secretly motivated by revenge against superiority; their 'will to equality' is a disguised will to tyranny, and Zarathustra insists that inequality and struggle are conditions of life's ascent.",
+      "claim_ids": [
+        "thus-spake-zarathustra-055",
+        "thus-spake-zarathustra-056"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-031",
+      "title": "The Famous Wise Ones",
+      "summary": "The famous wise men who serve 'the people' are ultimately draught-beasts harnessed to populace carts\u2014their celebrated skepticism is permitted precisely because it serves the ruling crowd; genuine spirit cuts into life and knows both pride and humility unknown to these servants.",
+      "claim_ids": [
+        "thus-spake-zarathustra-057",
+        "thus-spake-zarathustra-058"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-032",
+      "title": "The Night-Song",
+      "summary": "Zarathustra laments the paradox of the bestower who is condemned to give light but cannot receive it\u2014his wealth of giving is also a form of poverty, and he hungers for the darkness and warmth that only those who receive can know.",
+      "claim_ids": [
+        "thus-spake-zarathustra-059"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-033",
+      "title": "The Dance-Song",
+      "summary": "Zarathustra encounters maidens dancing in a forest and sings a dialogue with Life and Wisdom, discovering that Life is a changeable, elusive woman whom he loves most when he hates her, and that Wisdom mirrors Life's own enigmatic quality.",
+      "claim_ids": [
+        "thus-spake-zarathustra-060"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-034",
+      "title": "The Grave-Song",
+      "summary": "Zarathustra mourns the death of his youth's visions and ideals\u2014murdered by enemies who destroyed his highest hopes\u2014but discovers that his invulnerable Will remains, the only thing that can demolish graves and make resurrections possible.",
+      "claim_ids": [
+        "thus-spake-zarathustra-061"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-035",
+      "title": "Self-Surpassing",
+      "summary": "Life reveals to Zarathustra that her deepest secret is the will to power\u2014not will to existence or preservation\u2014and that all life must ever surpass itself; even the Will to Truth is a form of Will to Power that must recognize this or destroy itself.",
+      "claim_ids": [
+        "thus-spake-zarathustra-062",
+        "thus-spake-zarathustra-063",
+        "thus-spake-zarathustra-064"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-036",
+      "title": "The Sublime Ones",
+      "summary": "Zarathustra criticizes the 'sublime' penitent of the spirit who has won knowledge through struggle but remains gloomy and graceless\u2014true greatness requires not just sublimity but beauty, laughter, and the grace that comes when power descends willingly into the visible.",
+      "claim_ids": [
+        "thus-spake-zarathustra-065"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-037",
+      "title": "The Land of Culture",
+      "summary": "Zarathustra returns from the future horrified by present-day culture's inauthenticity\u2014modern men are painted with all historical periods simultaneously yet believe in nothing, making them 'perambulating refutations' of belief itself.",
+      "claim_ids": [
+        "thus-spake-zarathustra-066"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-038",
+      "title": "Immaculate Perception",
+      "summary": "Zarathustra attacks the ideal of 'immaculate,' desireless contemplation as a hypocritical disguise for covetous moonlit voyeurism\u2014true knowledge requires will, procreation, and active engagement, not the cold pretense of pure beholding.",
+      "claim_ids": [
+        "thus-spake-zarathustra-067"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-039",
+      "title": "Scholars",
+      "summary": "Zarathustra has left the house of scholars because they are cold spectators who grind and process thoughts like mills but cannot generate genuine intellectual fire; their careful mutual surveillance and professional virtues are alien to true spirit.",
+      "claim_ids": [
+        "thus-spake-zarathustra-068"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-040",
+      "title": "Poets",
+      "summary": "Zarathustra confesses that poets\u2014including himself\u2014lie too much, mistaking their feelings for cosmic revelations and setting gaudy puppets called 'Gods' above the clouds; genuine spirit will eventually develop beyond the vanity of poetic performance.",
+      "claim_ids": [
+        "thus-spake-zarathustra-069"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-041",
+      "title": "Great Events",
+      "summary": "Zarathustra visits the underworld and encounters the fire-dog, a shallow revolutionary who mistakes noise and smoke for depth; true great events are silent\u2014the world revolves around inventors of new values, not around noisy spouters.",
+      "claim_ids": [
+        "thus-spake-zarathustra-070"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-042",
+      "title": "The Soothsayer",
+      "summary": "A soothsayer's doctrine of universal weariness and meaninglessness infects Zarathustra with deep sadness; he has a dream of being a death's watchman, but his favorite disciple interprets the dream as showing that Zarathustra himself is the destroyer of death-world solemnity through laughter.",
+      "claim_ids": [
+        "thus-spake-zarathustra-071",
+        "thus-spake-zarathustra-072"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-043",
+      "title": "Redemption",
+      "summary": "Zarathustra introduces the central problem of redemption: the will cannot will backwards and is tortured by the 'it was,' turning this impotence into the spirit of revenge that underlies all morality\u2014true redemption requires the will to transform 'it was' into 'thus I willed it.'",
+      "claim_ids": [
+        "thus-spake-zarathustra-073",
+        "thus-spake-zarathustra-074",
+        "thus-spake-zarathustra-075"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-044",
+      "title": "Manly Prudence",
+      "summary": "Zarathustra describes three prudences for living among men while remaining oriented toward the Superman: allowing himself to be deceived, being more forbearing toward the vain than the proud, and not being put off by wickedness.",
+      "claim_ids": [
+        "thus-spake-zarathustra-076",
+        "thus-spake-zarathustra-077"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-045",
+      "title": "The Stillest Hour",
+      "summary": "Zarathustra's 'stillest hour'\u2014personified as a terrible mistress\u2014commands him to speak his word and succumb, but he refuses out of insufficient courage and humility, and is sent back into solitude to ripen further before his final descent.",
+      "claim_ids": [
+        "thus-spake-zarathustra-078"
+      ],
+      "part": "Second Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-046",
+      "title": "The Wanderer",
+      "summary": "On his midnight sea-crossing, Zarathustra reflects on his life of wandering and mountain-climbing, recognizing he now faces his last and highest summit\u2014which requires descending deeper into pain than he has ever gone before ascending.",
+      "claim_ids": [
+        "thus-spake-zarathustra-079"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-047",
+      "title": "The Vision and the Enigma",
+      "summary": "Zarathustra recounts to sailors his confrontation with the dwarf and the doctrine of eternal recurrence at a gateway called 'This Moment,' culminating in the enigmatic vision of a shepherd who bites off a serpent's head and is transfigured into superhuman laughter.",
+      "claim_ids": [
+        "thus-spake-zarathustra-080",
+        "thus-spake-zarathustra-081"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-048",
+      "title": "Involuntary Bliss",
+      "summary": "Having overcome his pain at sea, Zarathustra communes with his conscience and resolves to perfect himself for the sake of his 'children'\u2014the future ones he hopes to create\u2014while pushing away the bliss that comes too soon, before his final testing.",
+      "claim_ids": [
+        "thus-spake-zarathustra-082"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-049",
+      "title": "Before Sunrise",
+      "summary": "In a pre-dawn dialogue with the sky, Zarathustra celebrates the heaven of chance and innocence that lies beyond all purpose and eternal will\u2014affirming a 'Yea-and-Amen' to existence freed from the rational spider-web of necessity.",
+      "claim_ids": [
+        "thus-spake-zarathustra-083"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-050",
+      "title": "The Bedwarfing Virtue",
+      "summary": "Zarathustra returns to civilization and finds everything has become smaller\u2014the 'bedwarfing virtue' of modern people reduces greatness to mediocrity through comfort-seeking, moderation, and a cowardice called virtue.",
+      "claim_ids": [
+        "thus-spake-zarathustra-084",
+        "thus-spake-zarathustra-085"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-051",
+      "title": "On the Olive-Mount",
+      "summary": "In his winter solitude on the olive-mount, Zarathustra practices the wisdom of concealment\u2014hiding his happiness beneath sighs and chilblains so that envious observers cannot touch it\u2014celebrating winter's clarity as a teacher of silence.",
+      "claim_ids": [
+        "thus-spake-zarathustra-086"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-052",
+      "title": "On Passing By",
+      "summary": "Zarathustra encounters a fool who mimics his contempt for the great city but expresses it from swamp-resentment rather than love\u2014Zarathustra distinguishes his contempt born of love from the fool's contempt born of vengeance, and counsels passing by what one cannot love.",
+      "claim_ids": [
+        "thus-spake-zarathustra-087"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-053",
+      "title": "The Apostates",
+      "summary": "Zarathustra discovers that his former young followers have become apostates\u2014returning to piety, prayer, and conventional comfort\u2014and reflects that the truly faithful are always few, while the cowardly majority inevitably relapse.",
+      "claim_ids": [
+        "thus-spake-zarathustra-088"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-054",
+      "title": "The Return Home",
+      "summary": "Zarathustra joyfully returns to his solitude as his true home, recognizing that among men he was more forsaken than ever he was alone, and celebrating the way solitude allows all things to speak openly and become words.",
+      "claim_ids": [
+        "thus-spake-zarathustra-089"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-055",
+      "title": "The Three Evil Things",
+      "summary": "In a dream-weighing of the world, Zarathustra rehabilitates voluptuousness, passion for power, and selfishness\u2014the three most cursed things\u2014by revealing their positive, life-affirming aspects when freed from moralistic condemnation.",
+      "claim_ids": [
+        "thus-spake-zarathustra-090",
+        "thus-spake-zarathustra-091"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-056",
+      "title": "The Spirit of Gravity",
+      "summary": "Zarathustra declares war on the spirit of gravity through his bird-nature and ability to fly; true self-love\u2014learning to be with oneself\u2014is the antidote to the heavy 'extraneous things' with which humans burden themselves, and the only path to one's own truth.",
+      "claim_ids": [
+        "thus-spake-zarathustra-092",
+        "thus-spake-zarathustra-093"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-057",
+      "title": "Old and New Tables",
+      "summary": "Zarathustra sits with broken old tablets and half-written new ones, surveying his teaching across thirty numbered sections\u2014attacking conventional morality, calling for new nobility, affirming creation and hardness, and preparing for his final descent.",
+      "claim_ids": [
+        "thus-spake-zarathustra-094",
+        "thus-spake-zarathustra-095",
+        "thus-spake-zarathustra-096"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-058",
+      "title": "The Convalescent",
+      "summary": "Zarathustra summons and then nearly collapses under his 'most abysmal thought'\u2014eternal recurrence, including the eternal return of the small man\u2014and after seven days of illness, his animals interpret his fate as Teacher of the Eternal Return.",
+      "claim_ids": [
+        "thus-spake-zarathustra-097",
+        "thus-spake-zarathustra-098"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-059",
+      "title": "The Great Longing",
+      "summary": "Zarathustra addresses his soul in a lyrical hymn, cataloging everything he has given it\u2014freedom, wisdom, new names, contempt, persuasion\u2014and finding the soul now overflowing and longing for the vintager who will deliver it.",
+      "claim_ids": [
+        "thus-spake-zarathustra-099"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-060",
+      "title": "The Second Dance-Song",
+      "summary": "In a second dance with Life, Zarathustra pursues and is pursued by Life through a wild erotic chase, before Life confesses her envy of his Wisdom and her knowledge that he will leave her\u2014and both weep together as Life becomes dearer to him than all his wisdom.",
+      "claim_ids": [
+        "thus-spake-zarathustra-100",
+        "thus-spake-zarathustra-101"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-061",
+      "title": "The Seven Seals (or, The Yea and Amen Lay)",
+      "summary": "In seven lyrical stanzas each ending with 'For I love thee, O Eternity!', Zarathustra affirms his marriage to eternity through the ring of eternal recurrence\u2014expressing his ardor as diviner, destroyer of old tables, creator, sea-lover, dancer, and flier.",
+      "claim_ids": [
+        "thus-spake-zarathustra-102"
+      ],
+      "part": "Third Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-062",
+      "title": "The Honey Sacrifice",
+      "summary": "Years later, Zarathustra ascends a mountain with honey as bait, waiting with playful patience for the 'strangest human fish'\u2014the higher men\u2014to be drawn to him, confident in his fate and in the coming of the great noontide.",
+      "claim_ids": [
+        "thus-spake-zarathustra-103"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-063",
+      "title": "The Cry of Distress",
+      "summary": "The soothsayer returns to Zarathustra and leads him toward his 'last sin'\u2014pity for the higher man\u2014by directing him to a cry of distress in the mountains, forcing Zarathustra to confront his compassion as the final temptation.",
+      "claim_ids": [
+        "thus-spake-zarathustra-104"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-064",
+      "title": "Talk with the Kings",
+      "summary": "Two kings who have fled the corruption and rabble-rule of their kingdoms encounter Zarathustra on his way to find the higher man\u2014their diagnosis of modern political decay matches Zarathustra's, and they join him as seekers.",
+      "claim_ids": [
+        "thus-spake-zarathustra-105"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-065",
+      "title": "The Leech",
+      "summary": "Zarathustra accidentally treads on a conscientious scholar who lies in a swamp letting leeches bite him\u2014one who has devoted his entire knowledge to the brain of the leech alone, embodying the principle that knowing one thing thoroughly is better than knowing all things superficially.",
+      "claim_ids": [
+        "thus-spake-zarathustra-106"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-066",
+      "title": "The Magician",
+      "summary": "An old magician performs a theatrical lament of spiritual agony to test Zarathustra, who sees through the performance but also recognizes a grain of genuine self-disgust in it\u2014the magician is a 'penitent of the spirit' in spite of himself.",
+      "claim_ids": [
+        "thus-spake-zarathustra-107"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-067",
+      "title": "Out of Service",
+      "summary": "An old pope who has lost his God wanders seeking Zarathustra, the most godless of all\u2014and in a long dialogue, Zarathustra and the pope share observations about how God died (of pity for man) and acknowledge their mutual, paradoxical piety.",
+      "claim_ids": [
+        "thus-spake-zarathustra-108",
+        "thus-spake-zarathustra-109"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-068",
+      "title": "The Ugliest Man",
+      "summary": "Zarathustra discovers the murderer of God\u2014the ugliest man who killed God because God's all-seeing witness could not endure\u2014and is struck with pity, but overcomes it; the ugliest man values Zarathustra precisely for refusing the pity that humiliates.",
+      "claim_ids": [
+        "thus-spake-zarathustra-110",
+        "thus-spake-zarathustra-111"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-069",
+      "title": "The Voluntary Beggar",
+      "summary": "A rich man who gave away his wealth and found even the poor would not receive him now preaches to kine about ruminating as the antidote to disgust\u2014Zarathustra recognizes him and contrasts his gentleness with the violent 'sermon for the ears' he had expected.",
+      "claim_ids": [
+        "thus-spake-zarathustra-112"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-070",
+      "title": "The Shadow",
+      "summary": "Zarathustra's shadow\u2014a wanderer who has followed every path Zarathustra trod without finding a home, having broken all values and finding 'nothing is true, all is permitted'\u2014represents the danger of nihilism without the creative Yes to replace what was destroyed.",
+      "claim_ids": [
+        "thus-spake-zarathustra-113",
+        "thus-spake-zarathustra-114"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-071",
+      "title": "Noontide",
+      "summary": "At perfect noontide Zarathustra falls into a half-sleep under a vine tree, dissolving into a wordless contentment with the world's perfection\u2014a moment of complete stillness before the final phase begins.",
+      "claim_ids": [
+        "thus-spake-zarathustra-115"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-072",
+      "title": "The Greeting",
+      "summary": "Zarathustra returns to find all the higher men gathered in his cave\u2014the soothsayer, kings, pope, magician, conscientious one, ugliest man, voluntary beggar, and shadow\u2014and welcomes them while making clear they are not his proper men but only presages of better ones to come.",
+      "claim_ids": [
+        "thus-spake-zarathustra-116",
+        "thus-spake-zarathustra-117"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-073",
+      "title": "The Supper",
+      "summary": "The soothsayer interrupts with a practical demand for food and wine, deflating the high discourse\u2014Zarathustra prepares a feast, insisting that enjoyment and earth-affirmation are inseparable from his teaching.",
+      "claim_ids": [
+        "thus-spake-zarathustra-118"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-074",
+      "title": "The Higher Man",
+      "summary": "In twenty sections, Zarathustra delivers his most comprehensive address to the higher men gathered in his cave, teaching them to despise the market-place, develop courage without witnesses, embrace necessary evil, laugh at failure, and dance beyond themselves.",
+      "claim_ids": [
+        "thus-spake-zarathustra-119",
+        "thus-spake-zarathustra-120",
+        "thus-spake-zarathustra-121"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-075",
+      "title": "The Song of Melancholy",
+      "summary": "While Zarathustra steps outside, the old magician seizes the harp and performs a melancholy song about the poet's nature as seductive liar\u2014a 'fool and poet' who never reaches truth\u2014luring all the higher men back into his spell.",
+      "claim_ids": [
+        "thus-spake-zarathustra-122"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-076",
+      "title": "Science",
+      "summary": "The conscientious one breaks the magician's spell and argues that science originates in fear\u2014prolonged fear of wild beasts sublimated into intellectual caution\u2014but Zarathustra counters that courage and adventure, not fear, are man's true original history.",
+      "claim_ids": [
+        "thus-spake-zarathustra-123"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-077",
+      "title": "Among Daughters of the Desert",
+      "summary": "Zarathustra's shadow performs a humorous orientalist poem about sitting among desert maidens, celebrating the clear Eastern air over the damp European melancholy\u2014a playful interlude that breaks the heaviness of the gathering.",
+      "claim_ids": [
+        "thus-spake-zarathustra-124"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-078",
+      "title": "The Awakening",
+      "summary": "The higher men spontaneously relapse into pious worship of the ass\u2014performing a litany in its honor\u2014which Zarathustra interrupts with indignation before recognizing it as a playful sign of their recovery and convalescence.",
+      "claim_ids": [
+        "thus-spake-zarathustra-125",
+        "thus-spake-zarathustra-126"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-079",
+      "title": "The Drunken Song",
+      "summary": "At midnight Zarathustra leads the higher men through the twelve-stroke drunken song of eternal recurrence\u2014joy wants eternity, suffering wants to perish but is redeemed by joy's deeper desire for all things to return eternally.",
+      "claim_ids": [
+        "thus-spake-zarathustra-127",
+        "thus-spake-zarathustra-128"
+      ],
+      "part": "Fourth and Last Part"
+    },
+    {
+      "id": "thus-spake-zarathustra-ch-080",
+      "title": "The Sign",
+      "summary": "At dawn, after the higher men have fled the lion's roar, Zarathustra receives the sign he has been awaiting\u2014doves and a laughing lion\u2014and overcomes his last temptation of pity for the higher men, recognizing his work is now truly to begin.",
+      "claim_ids": [
+        "thus-spake-zarathustra-129",
+        "thus-spake-zarathustra-130"
+      ],
+      "part": "Fourth and Last Part"
+    }
+  ],
+  "stats": {
+    "claim_count": 130,
+    "chapter_count": 80,
+    "indexed_at": "2026-04-07T20:26:19.044600Z"
+  }
+}

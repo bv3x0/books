@@ -1,0 +1,140 @@
+{{ define "main" }}
+
+<a href="#main-content" class="skip-link">Skip to content</a>
+
+<h1>{{ .Title }}</h1>
+
+{{/* Author and Year - more prominent */}}
+{{ if or .Params.author .Params.year }}
+<div class="book-author">
+  {{- with .Params.author }}{{ . }}{{ end -}}
+  {{- if and .Params.author .Params.year }}, {{ end -}}
+  {{- with .Params.year }}{{ . }}{{ end -}}
+</div>
+{{ end }}
+
+<main id="main-content">
+{{/* Combined Metadata Box: Description + Categories + TOC */}}
+{{ $hasMetadata := .Description }}
+{{ $hasToC := .Params.toc | default true }}
+{{ $headers := findRE "<h[2-6]" .Content }}
+{{ $showToC := and $hasToC (ge (len $headers) 1) }}
+{{- $terms := .GetTerms "tags" -}}
+{{- $colTerms := .GetTerms "collections" -}}
+
+{{ if or $hasMetadata $terms $colTerms }}
+<div class="metadata-box">
+  <div class="metadata-section">
+    {{ with .Description }}
+    <p class="description-text">
+      {{ . }}
+    </p>
+    {{ end }}
+    {{ if $colTerms }}
+    <p class="description-categories">
+      <strong>Collections:</strong>
+      {{ range $index, $term := $colTerms }}
+        {{- if $index }}, {{ end -}}
+        <a href="{{ $term.Permalink }}">{{ $term.LinkTitle }}</a>
+      {{- end }}
+    </p>
+    {{ end }}
+    {{ if $terms }}
+    <p class="description-categories">
+      <strong>Categories:</strong>
+      {{ range $index, $term := $terms }}
+        {{- if $index }}, {{ end -}}
+        <a href="{{ $term.Permalink }}">{{ $term.LinkTitle }}</a>
+      {{- end }}
+    </p>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+  <!-- Content -->
+  {{ .Content }}
+  <div class="time">{{ partial "date.html" .Date}}</div>
+
+  <!-- Comments block -->
+  {{ if and .Content (default true (default .Site.Params.comments
+  .Params.comments))
+  }}
+  <div class="comments">{{- partial "comments" . -}}</div>
+  {{ end }}
+
+</main>
+
+  {{ if not .IsHome }}
+  <div class="terminal-nav">
+    <div class="back-nav">
+      <a href="../" class="back-link" aria-label="Back to book list">../</a>
+    </div>
+  </div>
+  {{ end }}
+
+<script>
+// Highlight search terms in book content.
+// This script runs after <main id="main-content"> is fully parsed.
+(function() {
+  var searchState = null;
+  try {
+    var stored = sessionStorage.getItem('searchState');
+    if (stored) searchState = JSON.parse(stored);
+  } catch (e) {}
+
+  if (searchState && searchState.query) {
+    var words = searchState.query.trim().split(/\s+/).filter(function(w) { return w.length >= 2; });
+    if (words.length > 0) {
+      var content = document.getElementById('main-content');
+      if (content) {
+        var walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, null, false);
+        var textNodes = [];
+        while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+        var pattern = new RegExp('\\b(' + words.map(function(w) {
+          return w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }).join('|') + ')\\b', 'gi');
+
+        textNodes.forEach(function(node) {
+          if (node.parentNode.tagName === 'SCRIPT' || node.parentNode.tagName === 'STYLE') return;
+          if (!pattern.test(node.textContent)) return;
+          pattern.lastIndex = 0;
+          var frag = document.createDocumentFragment();
+          var text = node.textContent;
+          var lastIndex = 0;
+          text.replace(pattern, function(match, p1, offset) {
+            if (offset > lastIndex) {
+              frag.appendChild(document.createTextNode(text.slice(lastIndex, offset)));
+            }
+            var mark = document.createElement('mark');
+            mark.className = 'search-highlight';
+            mark.textContent = match;
+            frag.appendChild(mark);
+            lastIndex = offset + match.length;
+          });
+          if (lastIndex < text.length) {
+            frag.appendChild(document.createTextNode(text.slice(lastIndex)));
+          }
+          if (frag.childNodes.length > 0) {
+            node.parentNode.replaceChild(frag, node);
+          }
+        });
+      }
+    }
+  }
+})();
+
+// Scroll to deep-linked claim after full page load (images included)
+if (window.location.hash) {
+  window.addEventListener('load', function() {
+    var target = document.querySelector(window.location.hash);
+    if (target) {
+      setTimeout(function() {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }, 100);
+    }
+  });
+}
+</script>
+{{ end }}

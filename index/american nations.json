@@ -1,0 +1,3277 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "American Nations",
+    "author": "Colin Woodard",
+    "year": null,
+    "categories": [
+      "history",
+      "political science",
+      "social science"
+    ],
+    "thesis": "North America is not comprised of unified nations but rather eleven distinct ethnoregional \"nations\" with different values and settlement patterns that have competed for influence since the colonial period, with their conflicts explaining American political divisions better than traditional frameworks."
+  },
+  "claims": [
+    {
+      "id": "american-nations-001",
+      "text": "Core Thesis: The continent consists of eleven rival regional cultures whose conflicts explain American political divisions better than traditional frameworks like \"North vs. South\" or red/blue states",
+      "chapter": "Introduction",
+      "concepts": [
+        "regional_identity",
+        "political_geography",
+        "cultural_division",
+        "american_politics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "North",
+          "South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-002",
+      "text": "Regional Nations Identified: Yankeedom, New Netherland, the Midlands, Tidewater, Greater Appalachia, Deep South, New France, El Norte, Left Coast, Far West, and First Nation",
+      "chapter": "Introduction",
+      "concepts": [
+        "regional_identity",
+        "cultural_geography",
+        "political_divisions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Yankeedom",
+          "New Netherland",
+          "Midlands",
+          "Tidewater",
+          "Greater Appalachia",
+          "Deep South",
+          "New France",
+          "El Norte",
+          "Left Coast",
+          "Far West",
+          "First Nation"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-003",
+      "text": "Methodology and Evidence: Cultural boundaries visible in linguistic maps, voting patterns, religious affiliations, and demographic data spanning centuries",
+      "chapter": "Introduction",
+      "concepts": [
+        "cultural_boundaries",
+        "demographic_analysis",
+        "electoral_patterns",
+        "linguistic_geography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-004",
+      "text": "Spanish Imperial Context: Spain received papal grant of most Western Hemisphere in 1493, with mandate to convert inhabitants to Catholicism",
+      "chapter": "Founding El Norte",
+      "concepts": [
+        "colonial_empire",
+        "papal_authority",
+        "religious_conversion",
+        "imperial_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Spain",
+          "Western Hemisphere"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-005",
+      "text": "Geographic and Cultural Boundaries: El Norte developed as a distinct mestizo culture in what is now northern Mexico and southwestern United States",
+      "chapter": "Founding El Norte",
+      "concepts": [
+        "mestizo_culture",
+        "cultural_boundaries",
+        "regional_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "El Norte",
+          "northern Mexico",
+          "southwestern United States"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-006",
+      "text": "Mission System Failures: Spanish attempt to convert and \"civilize\" Native Americans through mission settlements largely unsuccessful",
+      "chapter": "Founding El Norte",
+      "concepts": [
+        "mission_system",
+        "religious_conversion",
+        "colonial_failure",
+        "native_american_relations"
+      ],
+      "entities": {
+        "people": [
+          "Native Americans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-007",
+      "text": "Political Structure: Authoritarian colonial system with no self-governance or democratic institutions",
+      "chapter": "Founding El Norte",
+      "concepts": [
+        "authoritarian_dictatorship",
+        "colonial_administration",
+        "democratic_institutions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-008",
+      "text": "Distinctive Regional Character: Despite Spanish colonial control, norte\u00f1os developed reputation for independence and resistance to tyranny",
+      "chapter": "Founding El Norte",
+      "concepts": [
+        "regional_character",
+        "independence_culture",
+        "resistance_to_tyranny"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-009",
+      "text": "Founding Vision: Samuel de Champlain and Pierre Dugua envisioned a hierarchical but tolerant society respecting Native Americans as equals",
+      "chapter": "Founding New France",
+      "concepts": [
+        "colonial_vision",
+        "social_hierarchy",
+        "religious_tolerance",
+        "native_american_relations"
+      ],
+      "entities": {
+        "people": [
+          "Samuel de Champlain",
+          "Pierre Dugua",
+          "Native Americans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-010",
+      "text": "Cultural Integration: Unlike Spanish conquest or English displacement models, New French settlers extensively intermarried with Native Americans",
+      "chapter": "Founding New France",
+      "concepts": [
+        "cultural_integration",
+        "intermarriage",
+        "colonial_settlement"
+      ],
+      "entities": {
+        "people": [
+          "Native Americans"
+        ],
+        "places": [
+          "New France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-011",
+      "text": "Colonial Economy Challenges: New France remained chronically underpopulated and economically dependent",
+      "chapter": "Founding New France",
+      "concepts": [
+        "colonial_economy",
+        "population_dynamics",
+        "economic_dependency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-012",
+      "text": "Feudal System Breakdown: Louis XIV's attempt to impose rigid hierarchical control failed due to frontier conditions",
+      "chapter": "Founding New France",
+      "concepts": [
+        "feudal_system",
+        "social_hierarchy",
+        "frontier_conditions",
+        "colonial_failure"
+      ],
+      "entities": {
+        "people": [
+          "Louis XIV"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-013",
+      "text": "Religious and Military Dependence: New France relied heavily on Native American military alliances for survival",
+      "chapter": "Founding New France",
+      "concepts": [
+        "military_alliance",
+        "colonial_survival",
+        "native_american_relations",
+        "religious_dependence"
+      ],
+      "entities": {
+        "people": [
+          "Native Americans"
+        ],
+        "places": [
+          "New France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-014",
+      "text": "Early Jamestown Failures: Initial colonization attempts were disasters due to poor planning and unrealistic expectations",
+      "chapter": "Founding Tidewater",
+      "concepts": [
+        "colonial_failure",
+        "settlement_planning",
+        "early_colonization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Jamestown"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-015",
+      "text": "Tobacco Revolution: John Rolfe's successful tobacco cultivation in 1617 transformed Virginia into profitable plantation society",
+      "chapter": "Founding Tidewater",
+      "concepts": [
+        "agricultural_revolution",
+        "plantation_economy",
+        "tobacco_cultivation",
+        "colonial_transformation"
+      ],
+      "entities": {
+        "people": [
+          "John Rolfe"
+        ],
+        "places": [
+          "Virginia"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-016",
+      "text": "Cavalier Immigration: English Civil War brought influx of Royalist gentry who became Tidewater's ruling class",
+      "chapter": "Founding Tidewater",
+      "concepts": [
+        "immigration_patterns",
+        "social_hierarchy",
+        "civil_war_effects",
+        "colonial_settlement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Tidewater"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-017",
+      "text": "Classical Republican Ideology: Tidewater elite embraced Roman/Greek model of republicanism based on libertas (liberty as privilege)",
+      "chapter": "Founding Tidewater",
+      "concepts": [
+        "political_ideology",
+        "classical_republicanism",
+        "elite_culture",
+        "liberty_concepts"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Tidewater"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-018",
+      "text": "Transition to Slavery: Labor shortage after 1670s led to replacement of indentured servants with enslaved Africans",
+      "chapter": "Founding Tidewater",
+      "concepts": [
+        "labor_systems",
+        "slavery_transition",
+        "indentured_servitude",
+        "demographic_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-019",
+      "text": "Religious Mission: Puritans came to build a \"city on a hill\" - a Protestant theocracy serving as model for the world",
+      "chapter": "Founding Yankeedom",
+      "concepts": [
+        "religious_mission",
+        "puritan_ideology",
+        "theocracy",
+        "colonial_purpose"
+      ],
+      "entities": {
+        "people": [
+          "Puritans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-020",
+      "text": "Democratic Innovation: Despite religious intolerance, Puritans created remarkably democratic political structures",
+      "chapter": "Founding Yankeedom",
+      "concepts": [
+        "democratic_governance",
+        "political_innovation",
+        "religious_intolerance",
+        "puritan_politics"
+      ],
+      "entities": {
+        "people": [
+          "Puritans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-021",
+      "text": "Educational Emphasis: Believed everyone must be literate to read scriptures and participate in community decisions",
+      "chapter": "Founding Yankeedom",
+      "concepts": [
+        "literacy_promotion",
+        "religious_education",
+        "community_participation",
+        "scripture_reading"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-022",
+      "text": "Expansionist Mission: Believed God charged them to spread their ways and improve the corrupt world",
+      "chapter": "Founding Yankeedom",
+      "concepts": [
+        "expansionist_policy",
+        "religious_mission",
+        "cultural_reform",
+        "divine_authority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-023",
+      "text": "Conflict with Indians: Viewed Native Americans as agents of Satan in the wilderness requiring conversion or destruction",
+      "chapter": "Founding Yankeedom",
+      "concepts": [
+        "indigenous_relations",
+        "religious_conversion",
+        "wilderness_ideology",
+        "cultural_conflict"
+      ],
+      "entities": {
+        "people": [
+          "Native Americans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-024",
+      "text": "Dutch Commercial Model: New Amsterdam established 1624 as global trading entrep\u00f4t with little concern for social cohesion or religious uniformity",
+      "chapter": "Founding New Netherland",
+      "concepts": [
+        "commercial_empire",
+        "trade_networks",
+        "religious_diversity",
+        "urban_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New Amsterdam"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-025",
+      "text": "Netherlands as European Model: Holland was the most advanced, tolerant society in 17th-century Europe",
+      "chapter": "Founding New Netherland",
+      "concepts": [
+        "european_models",
+        "religious_tolerance",
+        "social_advancement",
+        "cultural_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Netherlands",
+          "Holland"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-026",
+      "text": "Religious Tolerance: Company officials enforced diversity and religious freedom against governors' prejudices",
+      "chapter": "Founding New Netherland",
+      "concepts": [
+        "religious_tolerance",
+        "corporate_policy",
+        "diversity_enforcement",
+        "administrative_conflict"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-027",
+      "text": "Economic Pragmatism: New Netherlanders developed practical tolerance based on commercial interests rather than idealistic principles",
+      "chapter": "Founding New Netherland",
+      "concepts": [
+        "political_pragmatism",
+        "commercial_tolerance",
+        "practical_values",
+        "trade_priorities"
+      ],
+      "entities": {
+        "people": [
+          "New Netherlanders"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-028",
+      "text": "Cultural Legacy: Despite English conquest, Dutch values of tolerance and commercial focus persisted",
+      "chapter": "Founding New Netherland",
+      "concepts": [
+        "cultural_persistence",
+        "colonial_heritage",
+        "value_systems",
+        "commercial_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-029",
+      "text": "James II's Centralization Campaign: King sought to merge colonies into authoritarian Dominion of New England, eliminating representative assemblies",
+      "chapter": "The Colonies' First Revolt",
+      "concepts": [
+        "royal_centralization",
+        "colonial_administration",
+        "representative_democracy",
+        "imperial_authority"
+      ],
+      "entities": {
+        "people": [
+          "James II"
+        ],
+        "places": [
+          "Dominion of New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-030",
+      "text": "Yankee Response: Massachusetts led most unified resistance with broad popular support",
+      "chapter": "The Colonies' First Revolt",
+      "concepts": [
+        "colonial_rebellion",
+        "mass_mobilization",
+        "political_opposition",
+        "unified_response"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Massachusetts"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-031",
+      "text": "New Netherland Rebellion: Dutch residents sought liberation from English rule hoping William of Orange would restore Dutch control",
+      "chapter": "The Colonies' First Revolt",
+      "concepts": [
+        "colonial_rebellion",
+        "political_liberation",
+        "dynastic_politics",
+        "ethnic_conflict"
+      ],
+      "entities": {
+        "people": [
+          "William of Orange"
+        ],
+        "places": [
+          "New Netherland"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-032",
+      "text": "Tidewater Uprising: Protestant majority in Maryland feared Catholic Calverts were conspiring with Indians against them",
+      "chapter": "The Colonies' First Revolt",
+      "concepts": [
+        "religious_conflict",
+        "colonial_rebellion",
+        "indigenous_relations",
+        "conspiracy_theories"
+      ],
+      "entities": {
+        "people": [
+          "Calverts"
+        ],
+        "places": [
+          "Maryland",
+          "Tidewater"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-033",
+      "text": "Mixed Outcomes: King William endorsed some rebellions but refused full restoration of previous autonomy",
+      "chapter": "The Colonies' First Revolt",
+      "concepts": [
+        "royal_authority",
+        "colonial_autonomy",
+        "selective_endorsement",
+        "political_compromise"
+      ],
+      "entities": {
+        "people": [
+          "King William"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-034",
+      "text": "Barbadian Origins: Charleston founders came from Barbados, the richest and most infamous slave society in the English-speaking world",
+      "chapter": "Founding the Deep South",
+      "concepts": [
+        "colonial_immigration",
+        "plantation_economy",
+        "slave_society",
+        "cultural_transfer"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Charleston",
+          "Barbados"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-035",
+      "text": "Extreme Wealth Concentration: South Carolina became the wealthiest region in North America through rice and indigo cultivation",
+      "chapter": "Founding the Deep South",
+      "concepts": [
+        "wealth_accumulation",
+        "agricultural_economics",
+        "crop_cultivation",
+        "regional_prosperity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "South Carolina",
+          "North America"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-036",
+      "text": "Comprehensive Slave Code: 1698 law declared Africans had \"barbarous, wild, savage natures\" requiring extreme control",
+      "chapter": "Founding the Deep South",
+      "concepts": [
+        "legal_codes",
+        "racial_ideology",
+        "social_control",
+        "dehumanization"
+      ],
+      "entities": {
+        "people": [
+          "Africans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-037",
+      "text": "Caste System Development: Deep South created rigid racial hierarchy unlike other slave regions",
+      "chapter": "Founding the Deep South",
+      "concepts": [
+        "racial_hierarchy",
+        "caste_system",
+        "social_stratification",
+        "regional_exceptionalism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-038",
+      "text": "Military Culture: Constant fear of slave rebellion led to heavily armed, militarized white society",
+      "chapter": "Founding the Deep South",
+      "concepts": [
+        "military_culture",
+        "slave_rebellion",
+        "social_fear",
+        "armed_society"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-039",
+      "text": "Quaker Revolutionary Vision: William Penn's \"holy experiment\" sought to create society based on Inner Light doctrine and Golden Rule",
+      "chapter": "Founding the Midlands",
+      "concepts": [
+        "religious_experiment",
+        "utopian_society",
+        "quaker_theology",
+        "moral_governance"
+      ],
+      "entities": {
+        "people": [
+          "William Penn"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-040",
+      "text": "Successful Colonization: Pennsylvania attracted largest and most diverse immigration of any early colony",
+      "chapter": "Founding the Midlands",
+      "concepts": [
+        "colonial_settlement",
+        "immigration_patterns",
+        "cultural_diversity",
+        "demographic_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Pennsylvania"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-041",
+      "text": "German Immigration Impact: Massive influx of German speakers made Pennsylvania first English colony without English majority",
+      "chapter": "Founding the Midlands",
+      "concepts": [
+        "immigration_patterns",
+        "linguistic_evolution",
+        "ethnic_demographics",
+        "colonial_transformation"
+      ],
+      "entities": {
+        "people": [
+          "Germans"
+        ],
+        "places": [
+          "Pennsylvania"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-042",
+      "text": "Anti-Slavery Position: Quakers and Germans shared opposition to slavery based on religious principles",
+      "chapter": "Founding the Midlands",
+      "concepts": [
+        "abolitionist_movement",
+        "religious_principles",
+        "moral_opposition",
+        "interfaith_relations"
+      ],
+      "entities": {
+        "people": [
+          "Quakers",
+          "Germans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-043",
+      "text": "Quaker Governmental Failure: Belief in human goodness proved inadequate for practical governance",
+      "chapter": "Founding the Midlands",
+      "concepts": [
+        "governmental_dysfunction",
+        "idealistic_governance",
+        "pragmatic_politics",
+        "religious_limitations"
+      ],
+      "entities": {
+        "people": [
+          "Quakers"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-044",
+      "text": "Borderland Origins: Settlers came from regions devastated by 800 years of warfare between Scotland, northern England, and Ireland",
+      "chapter": "Founding Greater Appalachia",
+      "concepts": [
+        "borderland_culture",
+        "warfare_legacy",
+        "regional_conflict",
+        "cultural_formation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Scotland",
+          "northern England",
+          "Ireland"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-045",
+      "text": "Mass Migration Waves: Five major waves 1717-1776 brought over 100,000 Borderlanders, mostly through Philadelphia",
+      "chapter": "Founding Greater Appalachia",
+      "concepts": [
+        "population_migration",
+        "demographic_waves",
+        "population_movement",
+        "colonial_immigration"
+      ],
+      "entities": {
+        "people": [
+          "Borderlanders"
+        ],
+        "places": [
+          "Philadelphia"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-046",
+      "text": "Frontier Settlement Pattern: Borderlanders rushed straight to backcountry, seizing vacant land without permission",
+      "chapter": "Founding Greater Appalachia",
+      "concepts": [
+        "settlement_patterns",
+        "land_acquisition",
+        "frontier_expansion",
+        "unauthorized_colonization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-047",
+      "text": "Clan-Based Social Structure: Communities organized around kinship networks extending four generations",
+      "chapter": "Founding Greater Appalachia",
+      "concepts": [
+        "kinship_networks",
+        "social_organization",
+        "generational_structure",
+        "community_formation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-048",
+      "text": "Conflict with Other Nations: Appalachian expansion disrupted other colonies' territorial control and cultural norms",
+      "chapter": "Founding Greater Appalachia",
+      "concepts": [
+        "territorial_expansion",
+        "cultural_conflict",
+        "colonial_competition",
+        "interregional_tensions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Appalachian"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-049",
+      "text": "British Imperial Transformation: By mid-18th century, Britain developed aggressive new ruling class seeking to standardize and control American colonies",
+      "chapter": "A Common Struggle",
+      "concepts": [
+        "imperial_policy",
+        "colonial_administration",
+        "political_transformation",
+        "centralized_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Britain",
+          "American colonies"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-050",
+      "text": "Regional Motivations Varied: Each nation joined or opposed resistance based on threats to their specific cultural values",
+      "chapter": "A Common Struggle",
+      "concepts": [
+        "cultural_values",
+        "regional_motivations",
+        "political_opposition",
+        "defensive_strategies"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-051",
+      "text": "Military Participation Patterns: Revolutionary forces came overwhelmingly from Yankeedom and Greater Appalachia",
+      "chapter": "A Common Struggle",
+      "concepts": [
+        "military_participation",
+        "regional_recruitment",
+        "revolutionary_forces",
+        "demographic_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Yankeedom",
+          "Greater Appalachia"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-052",
+      "text": "First Continental Congress Divisions: September 1774 meeting revealed deep cultural fault lines among colonies",
+      "chapter": "A Common Struggle",
+      "concepts": [
+        "political_divisions",
+        "cultural_fault_lines",
+        "colonial_unity",
+        "institutional_meetings"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-053",
+      "text": "Fort Sumter as Turning Point: South Carolina's attack on federal fort unified previously divided nations against Deep South",
+      "chapter": "A Common Struggle",
+      "concepts": [
+        "military_conflict",
+        "political_unity",
+        "regional_opposition",
+        "turning_points"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Fort Sumter",
+          "South Carolina",
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-054",
+      "text": "Yankee Popular Uprising: New England fought as citizen militias organized by elected officers and town covenants",
+      "chapter": "Six Wars of Liberation",
+      "concepts": [
+        "citizen_militias",
+        "democratic_organization",
+        "popular_uprising",
+        "military_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-055",
+      "text": "New Netherland Loyalist Stronghold: Greater New York became capital of loyalist North America and British military headquarters",
+      "chapter": "Six Wars of Liberation",
+      "concepts": [
+        "loyalist_strongholds",
+        "military_headquarters",
+        "british_administration",
+        "regional_allegiance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New Netherland",
+          "Greater New York"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-056",
+      "text": "Midlands Neutrality: Pacifist region occupied by both sides but refused to actively participate in war",
+      "chapter": "Six Wars of Liberation",
+      "concepts": [
+        "pacifist_ideology",
+        "military_neutrality",
+        "territorial_control",
+        "non_participation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Midlands"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-057",
+      "text": "Deep South Reluctant Rebellion: Planters initially supported boycotts expecting British compromise, horrified when war actually began",
+      "chapter": "Six Wars of Liberation",
+      "concepts": [
+        "planter_class",
+        "economic_boycotts",
+        "political_compromise",
+        "elite_expectations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-058",
+      "text": "Appalachian Civil War: Borderlanders fought whichever enemy seemed greater threat to their liberty - sometimes each other",
+      "chapter": "Six Wars of Liberation",
+      "concepts": [
+        "internal_conflict",
+        "libertarian_ideology",
+        "factional_warfare",
+        "threat_assessment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-059",
+      "text": "Tidewater Gentlemen's War: Virginia elite fought according to 18th-century codes of honor and decorum",
+      "chapter": "Six Wars of Liberation",
+      "concepts": [
+        "honor_codes",
+        "elite_warfare",
+        "military_decorum",
+        "aristocratic_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Virginia",
+          "Tidewater"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-060",
+      "text": "Articles of Confederation Structure: First constitution created European Union-like alliance of sovereign states rather than unified nation",
+      "chapter": "Independence or Revolution?",
+      "concepts": [
+        "constitutional_structure",
+        "state_sovereignty",
+        "federal_alliance",
+        "political_confederation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "European Union"
+        ],
+        "works": [
+          "Articles of Confederation"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-061",
+      "text": "Elite Fear of Democracy: Revolutionary rhetoric about fighting tyranny inspired common people to demand actual political participation",
+      "chapter": "Independence or Revolution?",
+      "concepts": [
+        "political_activism",
+        "revolutionary_ideology",
+        "democratic_movements",
+        "elite_resistance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-062",
+      "text": "Constitutional Convention Response: Elite delegates gathered 1787 in Philadelphia to check \"impudence of democracy\" and \"turbulence and follies of democracy\"",
+      "chapter": "Independence or Revolution?",
+      "concepts": [
+        "constitutional_convention",
+        "elite_governance",
+        "anti_democratic_politics",
+        "political_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Philadelphia"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-063",
+      "text": "Ratification Along National Lines: Voting patterns at state conventions reflected cultural rather than state boundaries",
+      "chapter": "Independence or Revolution?",
+      "concepts": [
+        "constitutional_ratification",
+        "electoral_patterns",
+        "cultural_boundaries",
+        "political_geography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-064",
+      "text": "National Compromises in Constitution: Final document reflected messy bargaining between rival cultural nations",
+      "chapter": "Independence or Revolution?",
+      "concepts": [
+        "constitutional_compromise",
+        "political_bargaining",
+        "cultural_nations",
+        "federal_government"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-065",
+      "text": "Nova Scotia Yankee Settlement: Half of 23,000 European Americans in Nova Scotia/New Brunswick by 1775 were New England transplants",
+      "chapter": "Nations in the North",
+      "concepts": [
+        "colonial_settlement",
+        "population_movement",
+        "yankee_expansion",
+        "demographic_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Nova Scotia",
+          "New Brunswick",
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-066",
+      "text": "New France Survival: Despite British conquest, Qu\u00e9bec's 70,000 French inhabitants maintained cultural autonomy",
+      "chapter": "Nations in the North",
+      "concepts": [
+        "cultural_preservation",
+        "british_conquest",
+        "french_colonial_legacy",
+        "cultural_autonomy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Qu\u00e9bec"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-067",
+      "text": "Loyalist Settlement Patterns: 28,000 American refugees created New Brunswick but failed to establish unified culture",
+      "chapter": "Nations in the North",
+      "concepts": [
+        "loyalist_migration",
+        "refugee_settlement",
+        "cultural_formation",
+        "political_exile"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New Brunswick"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-068",
+      "text": "Ontario's Midland Character: Upper Canada settled primarily by Pennsylvania Germans and other \"late loyalists\" seeking cheap land",
+      "chapter": "Nations in the North",
+      "concepts": [
+        "frontier_settlement",
+        "land_speculation",
+        "german_migration",
+        "late_loyalists"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Upper Canada",
+          "Ontario"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-069",
+      "text": "Imperial Control Limitations: British officials maintained tight political control to prevent republican uprising",
+      "chapter": "Nations in the North",
+      "concepts": [
+        "imperial_governance",
+        "political_control",
+        "republican_ideology",
+        "colonial_administration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-070",
+      "text": "Appalachian Financial Grievances: Borderlanders discovered federal financial system was massive corruption scheme benefiting wealthy speculators",
+      "chapter": "First Secessionists",
+      "concepts": [
+        "financial_fraud",
+        "economic_grievances",
+        "speculator_capitalism",
+        "appalachian_resistance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-071",
+      "text": "State of Franklin: Appalachian North Carolina counties created independent state 1784-1788 after being ignored by Tidewater elite",
+      "chapter": "First Secessionists",
+      "concepts": [
+        "political_independence",
+        "regional_autonomy",
+        "elite_neglect",
+        "appalachian_separatism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "North Carolina"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-072",
+      "text": "Whiskey Rebellion: Pennsylvania Borderlanders organized 9,000-man army and marched on Pittsburgh 1794",
+      "chapter": "First Secessionists",
+      "concepts": [
+        "armed_rebellion",
+        "tax_resistance",
+        "appalachian_uprising",
+        "federal_authority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Pennsylvania",
+          "Pittsburgh"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-073",
+      "text": "Yankee Secession Threat: New England opposed to Jefferson's policies and western expansion, feared permanent minority status",
+      "chapter": "First Secessionists",
+      "concepts": [
+        "sectional_conflict",
+        "threatened_secession",
+        "political_opposition",
+        "minority_status"
+      ],
+      "entities": {
+        "people": [
+          "Jefferson"
+        ],
+        "places": [
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-074",
+      "text": "Hartford Convention: December 1814 meeting came close to New England secession during War of 1812",
+      "chapter": "First Secessionists",
+      "concepts": [
+        "secession",
+        "wartime_dissent",
+        "regional_separatism",
+        "political_convention"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-075",
+      "text": "Land Company Strategy: Yankees used Connecticut and Massachusetts land claims to direct settlement of western New York and northern Ohio",
+      "chapter": "Yankeedom Spreads West",
+      "concepts": [
+        "land_speculation",
+        "territorial_expansion",
+        "yankee_settlement",
+        "colonial_land_claims"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Connecticut",
+          "Massachusetts",
+          "New York",
+          "Ohio"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-076",
+      "text": "Community-Based Migration: New Englanders moved west as intact communities rather than individuals",
+      "chapter": "Yankeedom Spreads West",
+      "concepts": [
+        "migration_patterns",
+        "community_organization",
+        "westward_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-077",
+      "text": "Cultural Infrastructure: Yankees built extensive network of colleges, schools, and churches across upper Midwest",
+      "chapter": "Yankeedom Spreads West",
+      "concepts": [
+        "cultural_infrastructure",
+        "educational_systems",
+        "religious_institutions",
+        "westward_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-078",
+      "text": "Religious Innovation on Frontier: Removal from orthodox control led to explosion of new religious movements",
+      "chapter": "Yankeedom Spreads West",
+      "concepts": [
+        "religious_innovation",
+        "frontier_conditions",
+        "institutional_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-079",
+      "text": "Immigrant Sorting: Foreign immigrants chose destinations based on compatibility with dominant regional culture",
+      "chapter": "Yankeedom Spreads West",
+      "concepts": [
+        "immigration_patterns",
+        "cultural_compatibility",
+        "regional_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-080",
+      "text": "German Immigration Dominance: Massive 1830-1860 German immigration ensured Midland control of American Heartland",
+      "chapter": "The Midlands Spread West",
+      "concepts": [
+        "immigration_patterns",
+        "demographic_dominance",
+        "regional_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "American Heartland"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-081",
+      "text": "Pennsylvania Dutch Expansion: Early Midland settlers replicated Delaware Valley pluralistic communities in Midwest",
+      "chapter": "The Midlands Spread West",
+      "concepts": [
+        "settlement_patterns",
+        "cultural_repetition",
+        "religious_pluralism"
+      ],
+      "entities": {
+        "people": [
+          "Pennsylvania Dutch"
+        ],
+        "places": [
+          "Delaware Valley",
+          "Midwest"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-082",
+      "text": "Agricultural Excellence: German farming techniques became legendary for productivity and sustainability",
+      "chapter": "The Midlands Spread West",
+      "concepts": [
+        "agricultural_methods",
+        "productivity",
+        "sustainability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-083",
+      "text": "Political Moderation: Midland areas served as swing vote between Yankee and Southern political coalitions",
+      "chapter": "The Midlands Spread West",
+      "concepts": [
+        "political_moderation",
+        "swing_vote",
+        "regional_coalitions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-084",
+      "text": "Religious Pluralism: Midland communities maintained characteristic tolerance despite internal ethnic divisions",
+      "chapter": "The Midlands Spread West",
+      "concepts": [
+        "religious_pluralism",
+        "ethnic_diversity",
+        "cultural_tolerance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-085",
+      "text": "Rapid Westward Movement: Borderlanders were first to cross Appalachians and expand into trans-Appalachian territories",
+      "chapter": "Appalachia Spreads West",
+      "concepts": [
+        "westward_expansion",
+        "frontier_movement",
+        "geographic_barriers"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Appalachians"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-086",
+      "text": "Distinctive Settlement Pattern: Appalachian people expanded as individuals rather than organized communities",
+      "chapter": "Appalachia Spreads West",
+      "concepts": [
+        "settlement_patterns",
+        "population_migration",
+        "community_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-087",
+      "text": "Mobile Subsistence Economy: Borderlanders practiced woodland economy focused on livestock rather than crops",
+      "chapter": "Appalachia Spreads West",
+      "concepts": [
+        "subsistence_economy",
+        "woodland_economy",
+        "livestock_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-088",
+      "text": "Cultural Conflicts with Yankees: Stark differences in values and practices created mutual hostility",
+      "chapter": "Appalachia Spreads West",
+      "concepts": [
+        "cultural_conflict",
+        "value_systems",
+        "regional_conflict"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-089",
+      "text": "Religious Transformation: Frontier conditions led to emotional, individualistic evangelical Christianity",
+      "chapter": "Appalachia Spreads West",
+      "concepts": [
+        "religious_transformation",
+        "evangelical_christianity",
+        "frontier_conditions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-090",
+      "text": "Political Opposition to Yankees: Borderlanders consistently voted Democratic to oppose Yankee cultural imperialism",
+      "chapter": "Appalachia Spreads West",
+      "concepts": [
+        "political_opposition",
+        "cultural_imperialism",
+        "democratic_voting"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-091",
+      "text": "Cotton Revolution: Market demand and Eli Whitney's 1791 cotton gin enabled Deep South plantation system to expand beyond coastal lowlands",
+      "chapter": "The Deep South Spreads West",
+      "concepts": [
+        "agricultural_technology",
+        "plantation_economy",
+        "territorial_expansion",
+        "market_forces"
+      ],
+      "entities": {
+        "people": [
+          "Eli Whitney"
+        ],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-092",
+      "text": "Demographic Transformation: Deep South expanded from 2 to 6 state governments, while Tidewater stagnated",
+      "chapter": "The Deep South Spreads West",
+      "concepts": [
+        "population_dynamics",
+        "territorial_expansion",
+        "political_development",
+        "regional_decline"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Deep South",
+          "Tidewater"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-093",
+      "text": "Intellectual Defense of Slavery: Deep Southern thinkers developed comprehensive justification for human bondage as positive good",
+      "chapter": "The Deep South Spreads West",
+      "concepts": [
+        "intellectual_justification",
+        "slavery_ideology",
+        "moral_philosophy",
+        "proslavery_thought"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-094",
+      "text": "Norman Race Theory: Deep South elites claimed genetic superiority over Yankees as master Norman race",
+      "chapter": "The Deep South Spreads West",
+      "concepts": [
+        "racial_theory",
+        "bourgeois_ideology",
+        "genetic_superiority",
+        "sectional_identity"
+      ],
+      "entities": {
+        "people": [
+          "Yankees"
+        ],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-095",
+      "text": "Imperial Expansion Plans: Hemmed in by geography and rivals, Deep South sought tropical territories for \"Golden Circle\" empire",
+      "chapter": "The Deep South Spreads West",
+      "concepts": [
+        "imperial_expansion",
+        "territorial_conquest",
+        "geographic_constraints",
+        "empire_building"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Deep South",
+          "Golden Circle"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-096",
+      "text": "Mexican Independence Crisis: 1821 independence left El Norte isolated and impoverished",
+      "chapter": "Conquering El Norte",
+      "concepts": [
+        "political_independence",
+        "regional_isolation",
+        "economic_decline",
+        "colonial_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "El Norte",
+          "Mexico"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-097",
+      "text": "Illegal Immigration Wave: Anglo-Americans flooded into Texas despite Mexican law prohibiting foreign settlement",
+      "chapter": "Conquering El Norte",
+      "concepts": [
+        "illegal_immigration",
+        "settlement_patterns",
+        "law_violation",
+        "population_movement"
+      ],
+      "entities": {
+        "people": [
+          "Anglo-Americans"
+        ],
+        "places": [
+          "Texas",
+          "Mexico"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-098",
+      "text": "Texas Revolution Dynamics: 1835-1836 revolt began as joint norte\u00f1o-Anglo resistance to Santa Anna's dictatorship",
+      "chapter": "Conquering El Norte",
+      "concepts": [
+        "revolutionary_strategy",
+        "political_opposition",
+        "authoritarian_dictatorship",
+        "coalition_building"
+      ],
+      "entities": {
+        "people": [
+          "Santa Anna"
+        ],
+        "places": [
+          "Texas"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-099",
+      "text": "Post-Revolution Dispossession: Anglo settlers systematically drove Tejanos from land and political power",
+      "chapter": "Conquering El Norte",
+      "concepts": [
+        "land_dispossession",
+        "political_exclusion",
+        "ethnic_conflict",
+        "post_war_settlement"
+      ],
+      "entities": {
+        "people": [
+          "Anglo",
+          "Tejanos"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-100",
+      "text": "Cultural Boundaries Established: Revolution pushed El Norte border back to current location north of San Antonio",
+      "chapter": "Conquering El Norte",
+      "concepts": [
+        "boundary_formation",
+        "cultural_boundaries",
+        "territorial_control",
+        "regional_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "El Norte",
+          "San Antonio"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-101",
+      "text": "Yankee Missionary Impulse: New Englanders sought to create \"second New England on Pacific\" and save California from Catholic influences",
+      "chapter": "Founding the Left Coast",
+      "concepts": [
+        "missionary_activity",
+        "cultural_expansion",
+        "religious_competition",
+        "territorial_ambition"
+      ],
+      "entities": {
+        "people": [
+          "Yankees",
+          "New Englanders"
+        ],
+        "places": [
+          "New England",
+          "Pacific",
+          "California"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-102",
+      "text": "Oregon Territory Development: Yankees dominated politics despite being outnumbered by Appalachian farmers",
+      "chapter": "Founding the Left Coast",
+      "concepts": [
+        "political_dominance",
+        "demographic_minority",
+        "regional_leadership",
+        "settlement_patterns"
+      ],
+      "entities": {
+        "people": [
+          "Yankees",
+          "Appalachian"
+        ],
+        "places": [
+          "Oregon Territory"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-103",
+      "text": "Gold Rush Disruption: 1848-1850 California gold rush brought 300,000 people from around the world",
+      "chapter": "Founding the Left Coast",
+      "concepts": [
+        "gold_rush",
+        "population_migration",
+        "demographic_disruption",
+        "global_immigration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "California"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-104",
+      "text": "Educational Infrastructure: Yankees built extensive school and college system despite diverse population",
+      "chapter": "Founding the Left Coast",
+      "concepts": [
+        "educational_development",
+        "institutional_building",
+        "cultural_diversity",
+        "school_systems"
+      ],
+      "entities": {
+        "people": [
+          "Yankees"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-105",
+      "text": "Cultural Synthesis: Left Coast blended Yankee moral idealism with Appalachian/immigrant individualism",
+      "chapter": "Founding the Left Coast",
+      "concepts": [
+        "cultural_synthesis",
+        "ideological_blending",
+        "regional_identity",
+        "moral_individualism"
+      ],
+      "entities": {
+        "people": [
+          "Yankees",
+          "Appalachian"
+        ],
+        "places": [
+          "Left Coast"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-106",
+      "text": "Demographic Shift by 1850: Northern nations gained population advantage through immigration while Deep South expansion stalled",
+      "chapter": "War for the West",
+      "concepts": [
+        "population_dynamics",
+        "immigration_patterns",
+        "regional_demographics",
+        "territorial_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Northern nations",
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-107",
+      "text": "Yankee Abolitionist Leadership: Anti-slavery movement centered in New England with national implications",
+      "chapter": "War for the West",
+      "concepts": [
+        "abolitionist_movement",
+        "abolitionist_movement",
+        "regional_leadership",
+        "social_reform"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-108",
+      "text": "Deep Southern Secession Logic: Slave lords recognized they faced permanent political minority and sought independence",
+      "chapter": "War for the West",
+      "concepts": [
+        "secession",
+        "slavery_politics",
+        "political_minority",
+        "independence_movements"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-109",
+      "text": "Regional Splits Within \"South\": Appalachian, Deep Southern, and Tidewater areas showed different patterns of support/opposition",
+      "chapter": "War for the West",
+      "concepts": [
+        "regional_division",
+        "civil_war_loyalties",
+        "cultural_geography",
+        "political_alignment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Appalachian",
+          "Deep South",
+          "Tidewater",
+          "South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-110",
+      "text": "Northern Alliance Formation: Yankees eventually gained support from New Netherland and Midlands after Fort Sumter attack",
+      "chapter": "War for the West",
+      "concepts": [
+        "political_alliance",
+        "civil_war_coalitions",
+        "cross_regional_cooperation",
+        "military_catalysts"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New Netherland",
+          "Midlands",
+          "Fort Sumter"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-111",
+      "text": "Appalachian Civil War: Borderlanders split based on which culture they saw as greater threat to liberty",
+      "chapter": "War for the West",
+      "concepts": [
+        "civil_war_divisions",
+        "cultural_conflict",
+        "liberty_concepts",
+        "borderlander_politics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Appalachian"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-112",
+      "text": "Environmental Challenges: West of 98th meridian, only 20 inches annual rainfall made traditional Euro-Atlantic agriculture impossible",
+      "chapter": "Founding the Far West",
+      "concepts": [
+        "environmental_constraints",
+        "agricultural_constraints",
+        "rainfall_patterns",
+        "westward_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "98th meridian"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-113",
+      "text": "Corporate Colonization Model: Only two ways for Euro-Americans to survive: adopt nomadic Indian ways or attach to industrial corporations",
+      "chapter": "Founding the Far West",
+      "concepts": [
+        "colonization_models",
+        "survival_strategies",
+        "indigenous_adaptation",
+        "corporate_control"
+      ],
+      "entities": {
+        "people": [
+          "Euro-Americans"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-114",
+      "text": "Mormon Exception: Utah Mormons created successful farming enclave through communal irrigation projects and group cohesion",
+      "chapter": "Founding the Far West",
+      "concepts": [
+        "religious_community",
+        "irrigation_systems",
+        "communal_agriculture",
+        "settlement_success"
+      ],
+      "entities": {
+        "people": [
+          "Mormons"
+        ],
+        "places": [
+          "Utah"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-115",
+      "text": "Nevada Corporate Takeover: Comstock Lode silver boom (1859) demonstrated pattern of corporate control over Far Western politics",
+      "chapter": "Founding the Far West",
+      "concepts": [
+        "mining_booms",
+        "corporate_control",
+        "western_politics",
+        "resource_extraction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Nevada",
+          "Comstock Lode",
+          "Far West"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-116",
+      "text": "Railroad-Directed Settlement: Companies conducted massive marketing campaigns using fraudulent advertising",
+      "chapter": "Founding the Far West",
+      "concepts": [
+        "railroad_expansion",
+        "settlement_patterns",
+        "fraudulent_advertising",
+        "corporate_marketing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-117",
+      "text": "Environmental Catastrophe: 1886 winter killed 1/3 to 3/4 of High Plains cattle; drought 1887-1890 drove out 60% of farmers",
+      "chapter": "Founding the Far West",
+      "concepts": [
+        "environmental_disaster",
+        "agricultural_failure",
+        "livestock_mortality",
+        "population_displacement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "High Plains"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-118",
+      "text": "Immigration Scale and Distribution: 36 million immigrants 1830-1924, but never more than 10-14% of U.S. population at any time",
+      "chapter": "Immigration and Identity",
+      "concepts": [
+        "immigration_statistics",
+        "population_composition",
+        "demographic_scale",
+        "migration_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "U.S."
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-119",
+      "text": "Regional Assimilation Patterns: Each nation's immigrants assimilated to local dominant culture rather than creating unified \"American\" identity",
+      "chapter": "Immigration and Identity",
+      "concepts": [
+        "regional_assimilation",
+        "cultural_adaptation",
+        "immigrant_integration",
+        "national_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-120",
+      "text": "Yankee Cultural Imperialism: New England developed systematic program to assimilate immigrants and other regions to their values",
+      "chapter": "Immigration and Identity",
+      "concepts": [
+        "cultural_imperialism",
+        "systematic_assimilation",
+        "regional_values",
+        "cultural_dominance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-121",
+      "text": "Cultural Pluralism vs. Assimilation Debate: Modern immigration debate reflects historical tensions between different national approaches",
+      "chapter": "Immigration and Identity",
+      "concepts": [
+        "cultural_pluralism",
+        "assimilation_policy",
+        "immigration_patterns",
+        "national_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-122",
+      "text": "El Norte Reconquista: Modern Mexican immigration represents return to historical patterns rather than unprecedented challenge",
+      "chapter": "Immigration and Identity",
+      "concepts": [
+        "territorial_reconquest",
+        "migration_patterns",
+        "historical_continuity",
+        "demographic_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "El Norte"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-123",
+      "text": "Dixie Religious Resistance: Defeated Confederate nations organized resistance around evangelical churches emphasizing individual salvation over social reform",
+      "chapter": "Gods and Missions",
+      "concepts": [
+        "religious_resistance",
+        "evangelical_christianity",
+        "individual_salvation",
+        "political_defeat"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Dixie"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-124",
+      "text": "Lost Cause Civil Religion: Southern clergy fostered myth that God tested his chosen people through Confederate defeat",
+      "chapter": "Gods and Missions",
+      "concepts": [
+        "civil_religion",
+        "mythological_narrative",
+        "divine_providence",
+        "religious_nationalism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-125",
+      "text": "Reconstruction Success and Failure: Yankee-led occupation temporarily democratized South but withdrew before permanent change",
+      "chapter": "Gods and Missions",
+      "concepts": [
+        "military_occupation",
+        "political_reform",
+        "political_withdrawal",
+        "institutional_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-126",
+      "text": "Northern Public Protestant Alliance: Yankees, New Netherlanders, Left Coasters emphasized collective salvation and social gospel",
+      "chapter": "Gods and Missions",
+      "concepts": [
+        "religious_alliance",
+        "collective_salvation",
+        "social_gospel",
+        "protestant_cooperation"
+      ],
+      "entities": {
+        "people": [
+          "Yankees",
+          "New Netherlanders",
+          "Left Coasters"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-127",
+      "text": "Social Reform Movements: Northern alliance dominated child welfare, women's suffrage, early environmental protection",
+      "chapter": "Gods and Missions",
+      "concepts": [
+        "social_reform",
+        "child_welfare",
+        "women_suffrage",
+        "environmental_protection"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-128",
+      "text": "Civil Rights as Second Reconstruction: African Americans in Deep South challenged apartheid system with decisive support from northern alliance federal power",
+      "chapter": "Culture Clash",
+      "concepts": [
+        "civil_rights",
+        "political_reconstruction",
+        "federal_intervention",
+        "racial_apartheid"
+      ],
+      "entities": {
+        "people": [
+          "African Americans"
+        ],
+        "places": [
+          "Deep South"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-129",
+      "text": "White Southern Resistance: Dixie bloc responded with \"massive resistance\" revealing inhuman nature of cherished practices",
+      "chapter": "Culture Clash",
+      "concepts": [
+        "racial_resistance",
+        "massive_resistance",
+        "cultural_practices",
+        "political_opposition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Dixie"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-130",
+      "text": "Sixties Youth Movement Geography: Cultural revolution of 1960s barely touched Dixie bloc, concentrated in four northern nations",
+      "chapter": "Culture Clash",
+      "concepts": [
+        "youth_movement",
+        "cultural_revolution",
+        "regional_variation",
+        "generational_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Dixie"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-131",
+      "text": "Regional Patterns in Other Movements: El Norte and New France also experienced successful cultural liberation movements",
+      "chapter": "Culture Clash",
+      "concepts": [
+        "cultural_liberation",
+        "regional_variation",
+        "social_movements",
+        "political_geography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "El Norte",
+          "New France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-132",
+      "text": "Environmental Movement Geography: Opposition to 2009 carbon emissions cap-and-trade bill followed predictable national lines",
+      "chapter": "Culture Clash",
+      "concepts": [
+        "environmental_policy",
+        "carbon_emissions",
+        "regional_opposition",
+        "political_geography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-133",
+      "text": "Spanish-American War (1898): Initial unity collapsed over imperial expansion, with Yankees leading anti-imperialist movement",
+      "chapter": "War, Empire, and the Military",
+      "concepts": [
+        "imperial_expansion",
+        "anti_imperialism",
+        "political_unity",
+        "foreign_policy"
+      ],
+      "entities": {
+        "people": [
+          "Yankees"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-134",
+      "text": "World War I Patterns: Dixie bloc most enthusiastic for war and suppression of dissent under Southern president Woodrow Wilson",
+      "chapter": "War, Empire, and the Military",
+      "concepts": [
+        "war_enthusiasm",
+        "dissent_suppression",
+        "regional_leadership",
+        "civil_liberties"
+      ],
+      "entities": {
+        "people": [
+          "Woodrow Wilson"
+        ],
+        "places": [
+          "Dixie"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-135",
+      "text": "World War II Mobilization: Hitler united nations to unprecedented degree, but also transformed Far West and El Norte through federal spending",
+      "chapter": "War, Empire, and the Military",
+      "concepts": [
+        "political_unity",
+        "federal_spending",
+        "regional_political_transformation",
+        "wartime_mobilization"
+      ],
+      "entities": {
+        "people": [
+          "Hitler"
+        ],
+        "places": [
+          "Far West",
+          "El Norte"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-136",
+      "text": "Vietnam War Opposition: Antiwar movement centered in Northern alliance with Dixie bloc providing strongest hawk support",
+      "chapter": "War, Empire, and the Military",
+      "concepts": [
+        "antiwar_movement",
+        "regional_political_alignment",
+        "foreign_policy_opposition",
+        "coalition_building"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Vietnam"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-137",
+      "text": "Iraq War (2003): Bush administration's Dixie bloc leadership implemented unilateralist foreign policy agenda",
+      "chapter": "War, Empire, and the Military",
+      "concepts": [
+        "unilateralist_foreign_policy",
+        "regional_leadership",
+        "military_intervention",
+        "executive_power"
+      ],
+      "entities": {
+        "people": [
+          "Bush"
+        ],
+        "places": [
+          "Iraq"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-138",
+      "text": "Historical Coalition Formation: Yankee-Left Coast alliance formed in 1840s, joined by New Netherland in early 20th century",
+      "chapter": "The Struggle for Power I: The Blue Nations",
+      "concepts": [
+        "historical_coalition_formation",
+        "regional_political_alignment",
+        "temporal_political_evolution",
+        "cross_regional_cooperation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New Netherland"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-139",
+      "text": "Republican Era Consistency (1897-1932): Northern alliance Republicans supported progressive policies despite \"conservative\" reputation",
+      "chapter": "The Struggle for Power I: The Blue Nations",
+      "concepts": [
+        "progressive_ideology",
+        "party_ideology_contradiction",
+        "historical_continuity",
+        "regional_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-140",
+      "text": "Modern Electoral Patterns: Three nations supported same presidential candidates in nearly every election 1988-2008",
+      "chapter": "The Struggle for Power I: The Blue Nations",
+      "concepts": [
+        "electoral_patterns",
+        "regional_political_alignment",
+        "presidential_politics",
+        "political_alliance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-141",
+      "text": "Congressional Voting Cohesion: Northern alliance representatives vote together regardless of party affiliation",
+      "chapter": "The Struggle for Power I: The Blue Nations",
+      "concepts": [
+        "congressional_voting_patterns",
+        "cross_partisan_cooperation",
+        "regional_political_alignment",
+        "legislative_behavior"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-142",
+      "text": "Republican Party Collapse in Region: GOP \"extinct in region of its birth\" by 2009",
+      "chapter": "The Struggle for Power I: The Blue Nations",
+      "concepts": [
+        "party_decline",
+        "regional_political_transformation",
+        "electoral_collapse",
+        "political_geography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-143",
+      "text": "Deep Southern Economic Agenda: Oligarchy has consistently sought to maintain colonial-style economy with compliant low-wage workforce",
+      "chapter": "The Struggle for Power II: The Red and the Purple",
+      "concepts": [
+        "oligarchic_control",
+        "colonial_economy",
+        "labor_exploitation",
+        "economic_continuity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-144",
+      "text": "Appalachian Recruitment Strategy: Oligarchy overcame Borderlander populist traditions through racism and Private Protestant religion",
+      "chapter": "The Struggle for Power II: The Red and the Purple",
+      "concepts": [
+        "political_recruitment",
+        "populist_suppression",
+        "racial_politics",
+        "religious_manipulation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-145",
+      "text": "Post-1965 Republican Realignment: Civil rights legislation drove Dixie into Republican Party, transforming national politics",
+      "chapter": "The Struggle for Power II: The Red and the Purple",
+      "concepts": [
+        "political_realignment",
+        "civil_rights_backlash",
+        "regional_political_migration",
+        "transformative_legislation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-146",
+      "text": "Congressional Leadership Extremism: Dixie representatives consistently advocate positions shocking to Northern alliance",
+      "chapter": "The Struggle for Power II: The Red and the Purple",
+      "concepts": [
+        "congressional_leadership",
+        "political_extremism",
+        "regional_conflict",
+        "legislative_polarization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-147",
+      "text": "Swing Nations' Critical Role: Neither superpower bloc can dominate without support from Midlands, El Norte, and/or Far West",
+      "chapter": "The Struggle for Power II: The Red and the Purple",
+      "concepts": [
+        "swing_nation_politics",
+        "electoral_balance",
+        "coalition_building",
+        "political_power"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Midlands",
+          "El Norte",
+          "Far West"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-148",
+      "text": "Signs of Imperial Decline: U.S. exhibits classic symptoms of failing superpower similar to historical Holland and Britain",
+      "chapter": "Epilogue",
+      "concepts": [
+        "imperial_decline",
+        "superpower_failure",
+        "historical_parallels",
+        "geopolitical_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Holland",
+          "Britain"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-149",
+      "text": "Mexican Federation Collapse Potential: Mexico increasingly described as failed state with regional independence movements",
+      "chapter": "Epilogue",
+      "concepts": [
+        "state_failure",
+        "federal_collapse",
+        "separatist_movements",
+        "political_fragmentation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mexico"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-150",
+      "text": "Canadian Stability Through Compromise: Canada most stable North American federation because nations made mutual concessions",
+      "chapter": "Epilogue",
+      "concepts": [
+        "federal_stability",
+        "political_compromise",
+        "multinational_governance",
+        "institutional_flexibility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Canada"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "american-nations-151",
+      "text": "U.S. Breakup Scenarios: Federation could dissolve through constitutional crisis, abandonment of rule of law, or mutual agreement for devolution",
+      "chapter": "Epilogue",
+      "concepts": [
+        "political_dissolution",
+        "constitutional_crisis",
+        "federal_breakdown",
+        "governmental_devolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States"
+        ],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "american-nations-ch-001",
+      "title": "Introduction",
+      "summary": "Woodard argues that North America is not comprised of unified nations but rather eleven distinct ethnoregional \"nations\" that have competed for influence since the colonial period, with their boundaries cutting across state and national borders rather than following them.",
+      "claim_ids": [
+        "american-nations-001",
+        "american-nations-002",
+        "american-nations-003"
+      ]
+    },
+    {
+      "id": "american-nations-ch-002",
+      "title": "Part One: Origins 1590-1769",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "american-nations-ch-003",
+      "title": "Founding El Norte",
+      "summary": "El Norte was the first European culture established in what is now the United States, beginning with Spanish colonization in the late 1500s, but remained underdeveloped due to Spain's focus on European religious wars and its colonial mission system's failures.",
+      "claim_ids": [
+        "american-nations-004",
+        "american-nations-005",
+        "american-nations-006",
+        "american-nations-007",
+        "american-nations-008"
+      ]
+    },
+    {
+      "id": "american-nations-ch-004",
+      "title": "Founding New France",
+      "summary": "New France was established by French explorers seeking to create a tolerant, feudal society in alliance with Native Americans, but French colonists often abandoned European ways to adopt indigenous lifestyles, creating a unique m\u00e9tis culture.",
+      "claim_ids": [
+        "american-nations-009",
+        "american-nations-010",
+        "american-nations-011",
+        "american-nations-012",
+        "american-nations-013"
+      ]
+    },
+    {
+      "id": "american-nations-ch-005",
+      "title": "Founding Tidewater",
+      "summary": "Tidewater was established by English gentry seeking to recreate aristocratic manor life in the New World, developing into a hierarchical society based on tobacco plantations and, eventually, slavery.",
+      "claim_ids": [
+        "american-nations-014",
+        "american-nations-015",
+        "american-nations-016",
+        "american-nations-017",
+        "american-nations-018"
+      ]
+    },
+    {
+      "id": "american-nations-ch-006",
+      "title": "Founding Yankeedom",
+      "summary": "Yankeedom was established by Puritan Calvinists seeking to create a religious utopia and model society, emphasizing community welfare, education, and the use of government to improve the world.",
+      "claim_ids": [
+        "american-nations-019",
+        "american-nations-020",
+        "american-nations-021",
+        "american-nations-022",
+        "american-nations-023"
+      ]
+    },
+    {
+      "id": "american-nations-ch-007",
+      "title": "Founding New Netherland",
+      "summary": "New Netherland was founded as a commercial trading post by the Dutch West India Company, creating North America's first truly diverse, tolerant society that became the cultural foundation of New York City.",
+      "claim_ids": [
+        "american-nations-024",
+        "american-nations-025",
+        "american-nations-026",
+        "american-nations-027",
+        "american-nations-028"
+      ]
+    },
+    {
+      "id": "american-nations-ch-008",
+      "title": "The Colonies' First Revolt",
+      "summary": "The Glorious Revolution of 1688 triggered separate rebellions in Yankeedom, New Netherland, and Tidewater as each nation sought to preserve its distinct culture against King James II's authoritarian centralization efforts.",
+      "claim_ids": [
+        "american-nations-029",
+        "american-nations-030",
+        "american-nations-031",
+        "american-nations-032",
+        "american-nations-033"
+      ]
+    },
+    {
+      "id": "american-nations-ch-009",
+      "title": "Founding the Deep South",
+      "summary": "The Deep South was founded by Barbadian slave lords who created the most brutal and hierarchical society in North America, based on the West Indian plantation model and designed to concentrate wealth and power in the hands of a small elite.",
+      "claim_ids": [
+        "american-nations-034",
+        "american-nations-035",
+        "american-nations-036",
+        "american-nations-037",
+        "american-nations-038"
+      ]
+    },
+    {
+      "id": "american-nations-ch-010",
+      "title": "Founding the Midlands",
+      "summary": "The Midlands was founded by English Quakers as a multicultural, pacifist utopia emphasizing tolerance and individual conscience, but Quaker governmental incompetence led to their loss of political control to other immigrant groups.",
+      "claim_ids": [
+        "american-nations-039",
+        "american-nations-040",
+        "american-nations-041",
+        "american-nations-042",
+        "american-nations-043"
+      ]
+    },
+    {
+      "id": "american-nations-ch-011",
+      "title": "Founding Greater Appalachia",
+      "summary": "Greater Appalachia was founded by waves of Scots-Irish, Scottish, and northern English refugees from war-torn borderlands who brought a warrior culture emphasizing individual liberty, personal honor, and clan-based loyalty.",
+      "claim_ids": [
+        "american-nations-044",
+        "american-nations-045",
+        "american-nations-046",
+        "american-nations-047",
+        "american-nations-048"
+      ]
+    },
+    {
+      "id": "american-nations-ch-012",
+      "title": "Part Two: Unlikely Allies 1770-1185",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "american-nations-ch-013",
+      "title": "A Common Struggle",
+      "summary": "The American Revolution was not a unified national uprising but rather separate wars of colonial liberation fought by distinct nations, each seeking to preserve its own culture against British attempts at imperial standardization.",
+      "claim_ids": [
+        "american-nations-049",
+        "american-nations-050",
+        "american-nations-051",
+        "american-nations-052",
+        "american-nations-053"
+      ]
+    },
+    {
+      "id": "american-nations-ch-014",
+      "title": "Six Wars of Liberation",
+      "summary": "The American Revolution consisted of six distinct regional conflicts, each fought according to different cultural values and military traditions rather than a unified continental war.",
+      "claim_ids": [
+        "american-nations-054",
+        "american-nations-055",
+        "american-nations-056",
+        "american-nations-057",
+        "american-nations-058",
+        "american-nations-059"
+      ]
+    },
+    {
+      "id": "american-nations-ch-015",
+      "title": "Independence or Revolution?",
+      "summary": "The post-war period revealed that the American \"revolution\" was actually a conservative effort to preserve existing regional cultures, creating an unstable confederation that faced popular democratic uprisings the elite found alarming.",
+      "claim_ids": [
+        "american-nations-060",
+        "american-nations-061",
+        "american-nations-062",
+        "american-nations-063",
+        "american-nations-064"
+      ]
+    },
+    {
+      "id": "american-nations-ch-016",
+      "title": "Nations in the North",
+      "summary": "The Canadian colonies developed along similar cultural lines to their American counterparts, with Yankees dominating the Maritimes and Midlanders settling Ontario, but British imperial control prevented these nations from developing independent political institutions.",
+      "claim_ids": [
+        "american-nations-065",
+        "american-nations-066",
+        "american-nations-067",
+        "american-nations-068",
+        "american-nations-069"
+      ]
+    },
+    {
+      "id": "american-nations-ch-017",
+      "title": "First Secessionists",
+      "summary": "In the early decades after independence, Greater Appalachia and Yankeedom both seriously considered leaving the United States, with Borderlanders leading armed rebellions against federal financial policies and Yankees threatening secession over federal power and expansion policies.",
+      "claim_ids": [
+        "american-nations-070",
+        "american-nations-071",
+        "american-nations-072",
+        "american-nations-073",
+        "american-nations-074"
+      ]
+    },
+    {
+      "id": "american-nations-ch-018",
+      "title": "Part Three: Wars for the West 1816-1877",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "american-nations-ch-019",
+      "title": "Yankeedom Spreads West",
+      "summary": "New Englanders systematically colonized the upper Midwest through organized community migration, transplanting their educational, religious, and political institutions to create a \"greater Yankeedom\" across the northern United States.",
+      "claim_ids": [
+        "american-nations-075",
+        "american-nations-076",
+        "american-nations-077",
+        "american-nations-078",
+        "american-nations-079"
+      ]
+    },
+    {
+      "id": "american-nations-ch-020",
+      "title": "The Midlands Spread West",
+      "summary": "The Midlands expanded across the Heartland through German immigration and Pennsylvania Dutch migration, creating America's most ethnically diverse region while maintaining characteristic pluralism and tolerance.",
+      "claim_ids": [
+        "american-nations-080",
+        "american-nations-081",
+        "american-nations-082",
+        "american-nations-083",
+        "american-nations-084"
+      ]
+    },
+    {
+      "id": "american-nations-ch-021",
+      "title": "Appalachia Spreads West",
+      "summary": "Greater Appalachian culture spread faster and wider than other nations due to Borderlanders' willingness to live beyond government control and their mobile, individualistic lifestyle, but this expansion was marked by violence, poverty, and cultural conflict with other settlers.",
+      "claim_ids": [
+        "american-nations-085",
+        "american-nations-086",
+        "american-nations-087",
+        "american-nations-088",
+        "american-nations-089",
+        "american-nations-090"
+      ]
+    },
+    {
+      "id": "american-nations-ch-022",
+      "title": "The Deep South Spreads West",
+      "summary": "The Deep South rapidly expanded westward through the cotton boom, displacing both Greater Appalachia and competing cultures while developing an elaborate intellectual defense of slavery as a positive good and superior social system.",
+      "claim_ids": [
+        "american-nations-091",
+        "american-nations-092",
+        "american-nations-093",
+        "american-nations-094",
+        "american-nations-095"
+      ]
+    },
+    {
+      "id": "american-nations-ch-023",
+      "title": "Conquering El Norte",
+      "summary": "El Norte fell under U.S. control through a combination of Mexican governmental collapse, illegal Anglo-American immigration, and military conquest, but the cultural boundary between norte\u00f1o and Anglo regions persisted despite political changes.",
+      "claim_ids": [
+        "american-nations-096",
+        "american-nations-097",
+        "american-nations-098",
+        "american-nations-099",
+        "american-nations-100"
+      ]
+    },
+    {
+      "id": "american-nations-ch-024",
+      "title": "Founding the Left Coast",
+      "summary": "The Left Coast emerged from a combination of Yankee-led colonization efforts and diverse gold rush immigration, creating a culture that blended New England idealism with individual self-exploration and environmental consciousness.",
+      "claim_ids": [
+        "american-nations-101",
+        "american-nations-102",
+        "american-nations-103",
+        "american-nations-104",
+        "american-nations-105"
+      ]
+    },
+    {
+      "id": "american-nations-ch-025",
+      "title": "War for the West",
+      "summary": "The Civil War era represented not a \"North versus South\" conflict but a struggle between rival coalitions of nations, with the Deep South and Tidewater facing off against Yankeedom, while other nations sought neutrality or joined coalitions reluctantly.",
+      "claim_ids": [
+        "american-nations-106",
+        "american-nations-107",
+        "american-nations-108",
+        "american-nations-109",
+        "american-nations-110",
+        "american-nations-111"
+      ]
+    },
+    {
+      "id": "american-nations-ch-026",
+      "title": "Part Four: Culture Wars 1878-2010",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "american-nations-ch-027",
+      "title": "Founding the Far West",
+      "summary": "The Far West became North America's only environmentally-determined nation, where harsh arid conditions destroyed traditional farming and settlement patterns, creating a region dependent on external capital and corporate control rather than ethnocultural traditions.",
+      "claim_ids": [
+        "american-nations-112",
+        "american-nations-113",
+        "american-nations-114",
+        "american-nations-115",
+        "american-nations-116",
+        "american-nations-117"
+      ]
+    },
+    {
+      "id": "american-nations-ch-028",
+      "title": "Immigration and Identity",
+      "summary": "The great immigration waves of 1830-1924 reinforced rather than dissolved the differences among American nations, as immigrants concentrated in specific regions and either assimilated to local dominant cultures or formed ethnic enclaves within them.",
+      "claim_ids": [
+        "american-nations-118",
+        "american-nations-119",
+        "american-nations-120",
+        "american-nations-121",
+        "american-nations-122"
+      ]
+    },
+    {
+      "id": "american-nations-ch-029",
+      "title": "Gods and Missions",
+      "summary": "The post-Civil War period saw the crystallization of two hostile religious and cultural blocs: a northern \"Public Protestant\" alliance emphasizing social reform and betterment of this world, versus a southern \"Private Protestant\" coalition focused on individual salvation and preservation of traditional social order.",
+      "claim_ids": [
+        "american-nations-123",
+        "american-nations-124",
+        "american-nations-125",
+        "american-nations-126",
+        "american-nations-127"
+      ]
+    },
+    {
+      "id": "american-nations-ch-030",
+      "title": "Culture Clash",
+      "summary": "The 1960s cultural revolution and simultaneous civil rights movement represented the eruption of the century-long cultural Cold War between the northern alliance and Dixie bloc into open conflict, with each bloc experiencing internal uprisings that drew outside intervention.",
+      "claim_ids": [
+        "american-nations-128",
+        "american-nations-129",
+        "american-nations-130",
+        "american-nations-131",
+        "american-nations-132"
+      ]
+    },
+    {
+      "id": "american-nations-ch-031",
+      "title": "War, Empire, and the Military",
+      "summary": "Foreign policy debates consistently divide along national lines, with the Dixie bloc supporting virtually every war and military intervention while opposition concentrates in the northern alliance nations, especially Yankeedom.",
+      "claim_ids": [
+        "american-nations-133",
+        "american-nations-134",
+        "american-nations-135",
+        "american-nations-136",
+        "american-nations-137"
+      ]
+    },
+    {
+      "id": "american-nations-ch-032",
+      "title": "The Struggle for Power I: The Blue Nations",
+      "summary": "The Northern alliance of Yankeedom, New Netherland, and the Left Coast has maintained consistent political priorities for over a century, favoring strong central government, corporate regulation, and environmental protection regardless of which party was dominant.",
+      "claim_ids": [
+        "american-nations-138",
+        "american-nations-139",
+        "american-nations-140",
+        "american-nations-141",
+        "american-nations-142"
+      ]
+    },
+    {
+      "id": "american-nations-ch-033",
+      "title": "The Struggle for Power II: The Red and the Purple",
+      "summary": "The Dixie bloc has served the consistent economic interests of the Deep Southern oligarchy for four centuries while using racial and religious appeals to maintain the support of Greater Appalachia, despite the inherent tensions between these partners.",
+      "claim_ids": [
+        "american-nations-143",
+        "american-nations-144",
+        "american-nations-145",
+        "american-nations-146",
+        "american-nations-147"
+      ]
+    },
+    {
+      "id": "american-nations-ch-034",
+      "title": "Epilogue",
+      "summary": "The United States faces potential disintegration due to irreconcilable differences between its component nations, with several possible futures ranging from peaceful devolution to violent breakup, while the northern regions demonstrate that successful multicultural federations are possible.",
+      "claim_ids": [
+        "american-nations-148",
+        "american-nations-149",
+        "american-nations-150",
+        "american-nations-151"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 151,
+    "chapter_count": 34,
+    "indexed_at": "2026-01-22T18:01:50.104995Z"
+  }
+}

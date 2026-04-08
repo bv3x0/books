@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{/* Sticky section navigation for book pages */}}
+{{ partial "sticky-nav.html" . }}
+
+<h1>{{ .Title }}</h1>
+{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+
+{{/* Description, Keywords, Author/Year */}}
+{{ if or .Description .Params.bookKeywords .Params.author }}
+<div class="post-description">
+  {{ with .Description }}
+  <p class="description-text">{{ . }}</p>
+  {{ end }}
+  {{ with .Params.bookKeywords }}
+  <p class="description-keywords"><strong>Keywords:</strong> {{ . }}</p>
+  {{ end }}
+  {{ if or .Params.author .Params.year }}
+  <p class="description-attribution">
+    {{- with .Params.author }}{{ . }}{{ end -}}
+    {{- if and .Params.author .Params.year }}, {{ end -}}
+    {{- with .Params.year }}{{ . }}{{ end -}}
+  </p>
+  {{ end }}
+</div>
+{{ end }}
+
+{{/* Table of Contents */}}
+{{ $hasToC := .Params.toc | default true }}
+{{ $headers := findRE "<h[2-6]" .Content }} {{ if and $hasToC (ge (len $headers) 1) }} <nav class="toc">
+  <strong>Table of contents</strong>
+  <div class="toc-content">
+    {{ .TableOfContents }}
+  </div>
+  </nav>
+  {{ end }}
+
+  <!-- Content -->
+  {{ .Content }}
+  <div class="time">{{ partial "date.html" .Date}}</div>
+
+  <!-- Comments block -->
+  {{ if and .Content (default true (default .Site.Params.comments
+  .Params.comments))
+  }}
+  <div class="comments">{{- partial "comments" . -}}</div>
+  {{ end }}
+
+  {{ if not .IsHome }}
+  <div class="terminal-nav">
+    <div class="back-nav">
+      <a href="../" class="back-link">../</a>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}

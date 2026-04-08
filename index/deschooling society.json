@@ -1,0 +1,835 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "Deschooling Society",
+    "author": "Ivan Illich",
+    "year": null,
+    "categories": [
+      "education",
+      "social science",
+      "philosophy"
+    ],
+    "thesis": "Universal education through schooling is not feasible and actually curtails the right to learn, creating dependency on institutions rather than fostering autonomous learning, requiring society to disestablish schools and create educational webs that transform everyday living into learning opportunities."
+  },
+  "claims": [
+    {
+      "id": "deschooling-society-001",
+      "text": "Core thesis: Universal schooling leads to physical pollution, social polarization, and psychological impotence through the institutionalization of values",
+      "chapter": "Introduction",
+      "concepts": [
+        "institutional_learning",
+        "social_polarization",
+        "environmental_degradation",
+        "value_institutionalization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-002",
+      "text": "Alternative vision: Educational webs that transform each moment of living into learning, sharing, and caring",
+      "chapter": "Introduction",
+      "concepts": [
+        "alternative_education",
+        "learning_networks",
+        "lifelong_learning",
+        "community_care"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-003",
+      "text": "The fundamental confusion: Schools teach students to confuse teaching with learning, diplomas with competence, and service with value",
+      "chapter": "Why We Must Disestablish School",
+      "concepts": [
+        "pedagogical_confusion",
+        "credentialism",
+        "learning_theory",
+        "value_measurement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-004",
+      "text": "Economic impossibility of equal schooling: The costs make universal quality education economically absurd",
+      "chapter": "Why We Must Disestablish School",
+      "concepts": [
+        "educational_economics",
+        "universal_education",
+        "resource_allocation",
+        "wealth_inequality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-005",
+      "text": "Schooling as world religion: School has become the universal church of modernized society",
+      "chapter": "Why We Must Disestablish School",
+      "concepts": [
+        "educational_religion",
+        "institutional_worship",
+        "modernization",
+        "secular_churches"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-006",
+      "text": "The hidden curriculum: Schools initiate students into myths of consumption, measurement, and packaging",
+      "chapter": "Why We Must Disestablish School",
+      "concepts": [
+        "hidden_curriculum",
+        "consumer_culture",
+        "educational_mythology",
+        "student_initiation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-007",
+      "text": "Constitutional solution: Disestablish schools' monopoly like churches were disestablished",
+      "chapter": "Why We Must Disestablish School",
+      "concepts": [
+        "political_reform",
+        "educational_monopoly",
+        "church_state_separation",
+        "institutional_disestablishment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-008",
+      "text": "Age segregation and the invention of childhood: Modern childhood is a recent Western concept unknown to most historical periods",
+      "chapter": "Phenomenology of School",
+      "concepts": [
+        "age_segregation",
+        "childhood_construction",
+        "historical_childhood",
+        "western_concepts"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-009",
+      "text": "Teacher-pupil relationships: Schools operate on the false axiom that learning results from teaching",
+      "chapter": "Phenomenology of School",
+      "concepts": [
+        "teacher_student_relations",
+        "learning_theory",
+        "pedagogical_assumptions",
+        "educational_axioms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-010",
+      "text": "Full-time attendance creates total institutions: Schools claim total authority over students' time and development",
+      "chapter": "Phenomenology of School",
+      "concepts": [
+        "total_institutions",
+        "student_authority",
+        "compulsory_attendance",
+        "institutional_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-011",
+      "text": "Sacred space and ritual: Schools create a primitive, magical environment removed from ordinary reality",
+      "chapter": "Phenomenology of School",
+      "concepts": [
+        "sacred_space",
+        "educational_ritual",
+        "magical_thinking",
+        "institutional_separation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-012",
+      "text": "Hidden curriculum effects: The ritual of schooling itself teaches dependence and consumption",
+      "chapter": "Phenomenology of School",
+      "concepts": [
+        "hidden_curriculum",
+        "educational_ritual",
+        "dependency_culture",
+        "consumption_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-013",
+      "text": "University as privilege distributor: Higher education grants the right to dissent only to those certified as potential money-makers or power-holders",
+      "chapter": "Ritualization of Progress",
+      "concepts": [
+        "higher_education",
+        "privilege_distribution",
+        "dissent_certification",
+        "social_stratification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-014",
+      "text": "Consumer standard setting: University graduates establish consumption expectations for entire societies",
+      "chapter": "Ritualization of Progress",
+      "concepts": [
+        "consumption_standards",
+        "university_graduates",
+        "social_expectations",
+        "consumer_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-015",
+      "text": "School as world religion: The modern school system performs the threefold function of powerful churches throughout history",
+      "chapter": "Ritualization of Progress",
+      "concepts": [
+        "educational_religion",
+        "institutional_power",
+        "church_functions",
+        "modern_schooling"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-016",
+      "text": "Myth of institutionalized values: School teaches that process inevitably produces value and that production creates demand",
+      "chapter": "Ritualization of Progress",
+      "concepts": [
+        "institutional_mythology",
+        "value_production",
+        "educational_philosophy",
+        "process_worship"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-017",
+      "text": "Myth of measurement: School initiates people into a world where everything can be quantified, including human imagination",
+      "chapter": "Ritualization of Progress",
+      "concepts": [
+        "quantification_ideology",
+        "measurement_mythology",
+        "imagination_commodification",
+        "cultural_standardization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-018",
+      "text": "Revolutionary potential requires deschooling: Liberation from other institutions depends first on liberation from school",
+      "chapter": "Ritualization of Progress",
+      "concepts": [
+        "revolutionary_ideology",
+        "deschooling_movement",
+        "institutional_liberation",
+        "educational_revolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-019",
+      "text": "Two institutional types: Manipulative institutions (right side of spectrum) versus convivial institutions (left side)",
+      "chapter": "Institutional Spectrum",
+      "concepts": [
+        "institutional_typology",
+        "manipulative_institutions",
+        "convivial_institutions",
+        "institutional_spectrum"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-020",
+      "text": "Modern military as paradigm of right-wing institution: Warfare has become professional enterprise focused on killing efficiency",
+      "chapter": "Institutional Spectrum",
+      "concepts": [
+        "military_professionalization",
+        "institutional_paradigm",
+        "warfare_efficiency",
+        "killing_bureaucracy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-021",
+      "text": "False public utilities: Highways serve as example of institutions that appear public but serve private interests",
+      "chapter": "Institutional Spectrum",
+      "concepts": [
+        "false_public_utilities",
+        "private_interest_disguise",
+        "infrastructure_critique",
+        "public_private_contradiction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-022",
+      "text": "Schools as ultimate false utility: Schools appear open to all but serve only those who continuously renew credentials",
+      "chapter": "Institutional Spectrum",
+      "concepts": [
+        "credential_gatekeeping",
+        "false_accessibility",
+        "educational_exclusion",
+        "systemic_inequality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-023",
+      "text": "Technology and institutional choice: Same technology can create either independence or bureaucracy",
+      "chapter": "Institutional Spectrum",
+      "concepts": [
+        "technology_neutrality",
+        "institutional_choice",
+        "technological_determinism",
+        "bureaucracy_creation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-024",
+      "text": "Current research limitations: Operational research optimizes efficiency within inherited framework without questioning basic structure",
+      "chapter": "Irrational Consistencies",
+      "concepts": [
+        "operational_research",
+        "efficiency_optimization",
+        "structural_questioning",
+        "inherited_frameworks"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-025",
+      "text": "Three educational approaches converge on same goal: Despite apparent opposition, behaviorists, free schools, and establishment serve corporate schooled society",
+      "chapter": "Irrational Consistencies",
+      "concepts": [
+        "educational_convergence",
+        "corporate_schooling",
+        "ideological_alignment",
+        "false_opposition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-026",
+      "text": "Shared unexamined tenets: All current educational approaches accept fundamental axioms of schooled world",
+      "chapter": "Irrational Consistencies",
+      "concepts": [
+        "unexamined_assumptions",
+        "fundamental_axioms",
+        "schooled_worldview",
+        "ideological_consensus"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-027",
+      "text": "Required inversion: Educational revolution needs new research orientation and counterculture understanding",
+      "chapter": "Irrational Consistencies",
+      "concepts": [
+        "paradigm_inversion",
+        "research_reorientation",
+        "counterculture",
+        "revolutionary_strategy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-028",
+      "text": "Professional authority critique: Current system packages roles inappropriately, like hospitals making home care impossible",
+      "chapter": "Irrational Consistencies",
+      "concepts": [
+        "professional_authority",
+        "role_packaging",
+        "institutional_design",
+        "care_monopolization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-029",
+      "text": "Fundamental reorientation needed: Move from teacher-controlled instruction to learner-controlled access to resources",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "learner_control",
+        "resource_access",
+        "educational_reorientation",
+        "instructional_paradigm"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-030",
+      "text": "Four essential educational networks: Different types of resources require different access arrangements",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "educational_networks",
+        "resource_typology",
+        "access_arrangements",
+        "learning_infrastructure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-031",
+      "text": "Educational Objects network: Make learning materials and real-world processes accessible beyond school walls",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "educational_networks",
+        "learning_materials",
+        "institutional_boundaries",
+        "real_world_processes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-032",
+      "text": "Skill Exchanges: Connect learners with people who can demonstrate desired abilities",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "skill_exchange",
+        "peer_learning",
+        "ability_demonstration",
+        "learning_networks"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-033",
+      "text": "Peer-Matching systems: Enable people to find others sharing specific learning interests",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "peer_matching",
+        "learning_interests",
+        "educational_systems",
+        "social_networks"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-034",
+      "text": "Professional Educators redefined: Three distinct roles replace current teacher monopoly",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "professional_educators",
+        "teacher_roles",
+        "educational_reform",
+        "institutional_monopoly"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-035",
+      "text": "Constitutional requirements: Educational reform needs legal framework protecting learning rights",
+      "chapter": "Learning Webs",
+      "concepts": [
+        "constitutional_requirements",
+        "educational_reform",
+        "learning_rights",
+        "legal_framework"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-036",
+      "text": "Hope versus expectation distinction: Fundamental difference between trusting faith in nature's goodness and reliance on planned, controlled results",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "hope_over_expectations",
+        "trust_in_nature",
+        "planned_control",
+        "faith_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-037",
+      "text": "Promethean trajectory: From mythical participation to engineered institutions, from dreams to oracles",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "promethean_trajectory",
+        "mythical_participation",
+        "engineered_institutions",
+        "cultural_evolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-038",
+      "text": "Urban alienation from reality: City children encounter only scientifically developed, engineered, planned, and sold items",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "urban_alienation",
+        "engineered_products",
+        "scientific_development",
+        "reality_disconnect"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-039",
+      "text": "Institutional absurdity revealed: All major institutions now create needs faster than satisfaction while consuming Earth",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "institutional_absurdity",
+        "need_creation",
+        "resource_consumption",
+        "earth_degradation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-040",
+      "text": "Consumption society logic: Institutional value defined as level of institutional output; human value as capacity to consume and degrade these outputs",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "consumer_culture",
+        "institutional_value",
+        "human_value",
+        "output_metrics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-041",
+      "text": "Emerging alternative consciousness: New elite across all countries shares suspicion of structural problems",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "alternative_consciousness",
+        "global_elite",
+        "structural_problems",
+        "institutional_suspicion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "deschooling-society-042",
+      "text": "Epimethean alternative: Need name for those who value hope over expectations, people over products, Earth over products",
+      "chapter": "Rebirth of Epimethean Man",
+      "concepts": [
+        "epimethean_alternative",
+        "hope_over_expectations",
+        "people_over_products",
+        "earth_values"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "deschooling-society-ch-001",
+      "title": "Introduction",
+      "summary": "The author credits his interest in public education to Everett Reimer, with whom he began questioning the value of obligatory schooling in 1958. The book argues that universal education through schooling is not feasible and that the right to learn is curtailed by the obligation to attend school.",
+      "claim_ids": [
+        "deschooling-society-001",
+        "deschooling-society-002"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-002",
+      "title": "Why We Must Disestablish School",
+      "summary": "Schools confuse process with substance, teaching students that more treatment leads to better results and that institutional performance equals the values these institutions claim to serve.",
+      "claim_ids": [
+        "deschooling-society-003",
+        "deschooling-society-004",
+        "deschooling-society-005",
+        "deschooling-society-006",
+        "deschooling-society-007"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-003",
+      "title": "Phenomenology of School",
+      "summary": "School is defined as the age-specific, teacher-related process requiring full-time attendance at an obligatory curriculum, based on three unquestioned premises that deserve examination.",
+      "claim_ids": [
+        "deschooling-society-008",
+        "deschooling-society-009",
+        "deschooling-society-010",
+        "deschooling-society-011",
+        "deschooling-society-012"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-004",
+      "title": "Ritualization of Progress",
+      "summary": "The university represents the final stage of the most comprehensive initiation rite in world history, creating a new form of alienation and serving as the knowledge industry's primary institution.",
+      "claim_ids": [
+        "deschooling-society-013",
+        "deschooling-society-014",
+        "deschooling-society-015",
+        "deschooling-society-016",
+        "deschooling-society-017",
+        "deschooling-society-018"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-005",
+      "title": "Institutional Spectrum",
+      "summary": "Future planning should focus on choosing institutions that support spontaneous action rather than consumption, requiring criteria to distinguish growth-supporting from addiction-creating institutions.",
+      "claim_ids": [
+        "deschooling-society-019",
+        "deschooling-society-020",
+        "deschooling-society-021",
+        "deschooling-society-022",
+        "deschooling-society-023"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-006",
+      "title": "Irrational Consistencies",
+      "summary": "Educational research operates within unquestioned assumptions that perpetuate the schooled society, requiring a fundamental inversion of research orientation and understanding of counterculture values.",
+      "claim_ids": [
+        "deschooling-society-024",
+        "deschooling-society-025",
+        "deschooling-society-026",
+        "deschooling-society-027",
+        "deschooling-society-028"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-007",
+      "title": "Learning Webs",
+      "summary": "Educational institutions should provide access to learning resources rather than force consumption of teaching packages, requiring four types of networks to replace schools' comprehensive control.",
+      "claim_ids": [
+        "deschooling-society-029",
+        "deschooling-society-030",
+        "deschooling-society-031",
+        "deschooling-society-032",
+        "deschooling-society-033",
+        "deschooling-society-034",
+        "deschooling-society-035"
+      ]
+    },
+    {
+      "id": "deschooling-society-ch-008",
+      "title": "Rebirth of Epimethean Man",
+      "summary": "Modern society resembles a self-sealing box that contains only mechanisms for closing itself, representing the triumph of Promethean expectations over hope and the need to rediscover Epimethean values.",
+      "claim_ids": [
+        "deschooling-society-036",
+        "deschooling-society-037",
+        "deschooling-society-038",
+        "deschooling-society-039",
+        "deschooling-society-040",
+        "deschooling-society-041",
+        "deschooling-society-042"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 42,
+    "chapter_count": 8,
+    "indexed_at": "2026-01-22T18:19:30.232404Z"
+  }
+}

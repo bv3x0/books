@@ -1,0 +1,41 @@
+name: Security Scan
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday at midnight
+  push:
+    branches: [main]
+    paths:
+      - 'app/requirements.txt'
+      - '.github/workflows/security-scan.yml'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: read
+  security-events: write  # For uploading SARIF results
+
+jobs:
+  dependency-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install pip-audit
+        run: pip install pip-audit
+
+      - name: Run pip-audit
+        run: |
+          echo "Scanning dependencies for known vulnerabilities..."
+          pip-audit -r app/requirements.txt --desc || true
+
+      - name: Check for outdated dependencies
+        run: |
+          echo "Checking for outdated packages..."
+          pip install -r app/requirements.txt
+          pip list --outdated

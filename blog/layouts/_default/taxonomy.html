@@ -1,0 +1,63 @@
+{{ define "main" }}
+
+<div class="section-header">
+  <span>{{ .Title }}</span>
+  <span class="sort-controls" role="group" aria-label="Sort books by">
+    <button class="sort-btn active" data-sort="title" aria-pressed="true">Title</button>
+    <button class="sort-btn" data-sort="author" aria-pressed="false">Author</button>
+    <button class="sort-btn" data-sort="year" aria-pressed="false">Year</button>
+  </span>
+</div>
+<ul class="book-index" aria-live="polite">
+  {{- $sortedPages := sort .Pages "Params.sortTitle" -}}
+  {{- range $sortedPages }}
+  {{- $shortTitle := .Title -}}
+  {{- if findRE ":" .Title -}}
+    {{- $parts := split .Title ":" -}}
+    {{- $shortTitle = index $parts 0 -}}
+  {{- end -}}
+  {{- $displayAuthor := "" -}}
+  {{- with .Params.shortAuthor -}}
+    {{- $displayAuthor = . -}}
+  {{- else -}}
+    {{- with $.Params.author -}}
+      {{- $words := split . " " -}}
+      {{- $displayAuthor = index $words (sub (len $words) 1) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $sortAuthor := .Params.shortAuthor | default .Params.author | default "" -}}
+  <li data-sort-title="{{ .Params.sortTitle | default .Title }}" data-sort-author="{{ $sortAuthor }}" data-sort-year="{{ .Params.year | default 0 }}">
+    <a href="{{ .Permalink }}">{{ $shortTitle }}</a>{{ if or $displayAuthor .Params.year }} <span class="book-attribution">&mdash; {{ with $displayAuthor }}{{ . }}{{ end }}{{ if and $displayAuthor .Params.year }}, {{ end }}{{ with .Params.year }}{{ . }}{{ end }}</span>{{ end }}
+    {{- with .Description }}
+    <p class="book-description">{{ . }}</p>
+    {{- end }}
+  </li>
+  {{- end }}
+</ul>
+
+<script>
+(function() {
+  var buttons = document.querySelectorAll('.sort-btn');
+  var list = document.querySelector('.book-index');
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      buttons.forEach(function(b) { b.classList.remove('active'); b.setAttribute('aria-pressed', 'false'); });
+      btn.classList.add('active');
+      btn.setAttribute('aria-pressed', 'true');
+      var key = btn.getAttribute('data-sort');
+      var items = Array.from(list.children);
+      items.sort(function(a, b) {
+        var av = a.getAttribute('data-sort-' + key) || '';
+        var bv = b.getAttribute('data-sort-' + key) || '';
+        if (key === 'year') {
+          return (parseInt(bv) || 0) - (parseInt(av) || 0);
+        }
+        return av.localeCompare(bv, undefined, { sensitivity: 'base' });
+      });
+      items.forEach(function(item) { list.appendChild(item); });
+    });
+  });
+})();
+</script>
+
+{{ end }}

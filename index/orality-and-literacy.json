@@ -1,0 +1,4260 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "Orality and Literacy",
+    "author": "Walter J. Ong",
+    "year": null,
+    "categories": [
+      "language arts & disciplines",
+      "psychology",
+      "social science"
+    ],
+    "thesis": "Writing fundamentally transforms human consciousness by restructuring thought patterns from the oral-formulaic to the visual-analytic, creating new possibilities for abstract reasoning while distancing humans from the communal immediacy of primary oral cultures."
+  },
+  "claims": [
+    {
+      "id": "orality-and-literacy-001",
+      "text": "Intellectual origins of Americanism: Ong's scholarship emerged during the era when the USA achieved world hegemonic status through ideas rather than imperial conquest",
+      "chapter": "Preface: Before Ongism",
+      "concepts": [
+        "intellectual_history",
+        "american_hegemony",
+        "cultural_imperialism",
+        "academic_scholarship"
+      ],
+      "entities": {
+        "people": [
+          "Ong"
+        ],
+        "places": [
+          "USA"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-002",
+      "text": "Connection between literary criticism and Cold War politics: Several key figures moved between academic textual analysis and intelligence work",
+      "chapter": "Preface: Before Ongism",
+      "concepts": [
+        "literary_criticism",
+        "cold_war_competition",
+        "intelligence_work",
+        "academic_networks"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-003",
+      "text": "Harvard tradition linking orality studies to universal claims: Milman Parry and Albert Lord's work on oral poetry was quickly universalized",
+      "chapter": "Preface: Before Ongism",
+      "concepts": [
+        "orality_literacy",
+        "oral_poetry",
+        "academic_tradition",
+        "universalization"
+      ],
+      "entities": {
+        "people": [
+          "Milman Parry",
+          "Albert Lord"
+        ],
+        "places": [
+          "Harvard"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-004",
+      "text": "Central thesis: Recent discoveries show basic differences between oral cultures and writing cultures in managing knowledge and verbalization",
+      "chapter": "Introduction",
+      "concepts": [
+        "oral_culture",
+        "writing_culture",
+        "knowledge_management",
+        "verbalization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-005",
+      "text": "Methodological approach: Must examine orality-literacy contrasts both synchronically (comparing coexisting cultures) and diachronically (historically)",
+      "chapter": "Introduction",
+      "concepts": [
+        "orality_literacy",
+        "synchronic_analysis",
+        "diachronic_analysis",
+        "comparative_analysis"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-006",
+      "text": "Bias problem: Literate readers find it difficult to conceive of oral communication except as a variant of literate communication",
+      "chapter": "Introduction",
+      "concepts": [
+        "literate_bias",
+        "oral_communication",
+        "conceptual_limitations",
+        "reader_perspective"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-007",
+      "text": "Recent scholarly developments: Multiple fields have discovered orality-literacy contrasts but with limitations",
+      "chapter": "The Literate Mind and the Oral Past",
+      "concepts": [
+        "scholarly_development",
+        "orality_literacy",
+        "interdisciplinary_collaboration",
+        "academic_limitations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-008",
+      "text": "Milman Parry's revolutionary work: Literary studies produced the greatest awakening to oral-literate contrasts",
+      "chapter": "The Literate Mind and the Oral Past",
+      "concepts": [
+        "literary_scholarship",
+        "literacy_contrast",
+        "revolutionary_scholarship",
+        "academic_awakening"
+      ],
+      "entities": {
+        "people": [
+          "Milman Parry"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-009",
+      "text": "Fundamental nature of oral language: All human communication uses multiple senses, but sound has special relationship to time",
+      "chapter": "The Literate Mind and the Oral Past",
+      "concepts": [
+        "oral_language",
+        "multisensory_communication",
+        "sound_temporality",
+        "human_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-010",
+      "text": "Writing as secondary modeling system: Written words must relate to sound to yield meaning",
+      "chapter": "The Literate Mind and the Oral Past",
+      "concepts": [
+        "writing_systems",
+        "secondary_modeling",
+        "sound_meaning_relationship",
+        "written_language"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-011",
+      "text": "Textual bias in scholarship: Focus on texts led scholars to assume oral art forms were simply unwritten texts",
+      "chapter": "Did You Say 'Oral Literature'?",
+      "concepts": [
+        "textual_bias",
+        "artistic_forms",
+        "scholarly_assumptions",
+        "unwritten_texts"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-012",
+      "text": "Problems with \"oral literature\": The concept creates fundamental distortions",
+      "chapter": "Did You Say 'Oral Literature'?",
+      "concepts": [
+        "oral_literature",
+        "conceptual_distortions",
+        "terminological_confusion",
+        "academic_categories"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-013",
+      "text": "Alternative terminology needed: Current terms reflect literate bias",
+      "chapter": "Did You Say 'Oral Literature'?",
+      "concepts": [
+        "alternative_terminology",
+        "literate_bias",
+        "scholarly_language",
+        "conceptual_reform"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-014",
+      "text": "Fundamental differences: Oral cultures produce powerful verbal art unreachable by literates",
+      "chapter": "Did You Say 'Oral Literature'?",
+      "concepts": [
+        "oral_culture",
+        "verbal_art",
+        "literate_limitations",
+        "cultural_differences"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-015",
+      "text": "Ancient recognition: Even early writers acknowledged drawing on oral tradition",
+      "chapter": "Early Awareness of Oral Tradition",
+      "concepts": [
+        "oral_tradition",
+        "ancient_writers",
+        "historical_recognition",
+        "literary_sources"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-016",
+      "text": "Linguistic resistance to oral-written distinctions: Early linguists resisted recognizing differences",
+      "chapter": "Early Awareness of Oral Tradition",
+      "concepts": [
+        "linguistic_methodology",
+        "oral_written_distinction",
+        "scholarly_resistance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-017",
+      "text": "Persistent textual bias: Even oral-aware scholarship retained written assumptions",
+      "chapter": "Early Awareness of Oral Tradition",
+      "concepts": [
+        "textual_bias",
+        "scholarly_assumptions",
+        "oral_awareness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-018",
+      "text": "Historical development of Homeric criticism: Various theories emerged but all assumed textual models",
+      "chapter": "The Homeric Question",
+      "concepts": [
+        "literary_criticism",
+        "textual_models",
+        "homeric_scholarship"
+      ],
+      "entities": {
+        "people": [
+          "Homer"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-019",
+      "text": "Cultural chauvinism in interpretation: Each age interpreted Homer according to contemporary ideals",
+      "chapter": "The Homeric Question",
+      "concepts": [
+        "cultural_chauvinism",
+        "historical_interpretation",
+        "contemporary_ideals"
+      ],
+      "entities": {
+        "people": [
+          "Homer"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-020",
+      "text": "Breakthrough insights: Some scholars approached oral understanding",
+      "chapter": "The Homeric Question",
+      "concepts": [
+        "scholarly_breakthrough",
+        "oral_understanding",
+        "academic_insights"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-021",
+      "text": "Parry's fundamental insight: Homeric word choice depended on metrical needs of hexameter line",
+      "chapter": "Milman Parry's Discovery",
+      "concepts": [
+        "formulaic_expression",
+        "metrical_needs",
+        "homeric_poetics",
+        "hexameter_verse"
+      ],
+      "entities": {
+        "people": [
+          "Parry"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-022",
+      "text": "Challenge to literary assumptions: Discovery threatened literate ideals of originality",
+      "chapter": "Milman Parry's Discovery",
+      "concepts": [
+        "literary_assumptions",
+        "originality_ideals",
+        "scholarly_challenges"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-023",
+      "text": "Revolutionary implications: Parry showed formulaic expression was essential for oral memory",
+      "chapter": "Milman Parry's Discovery",
+      "concepts": [
+        "formulaic_expression",
+        "oral_memory",
+        "revolutionary_scholarship"
+      ],
+      "entities": {
+        "people": [
+          "Parry"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-024",
+      "text": "Connection to thought patterns: Eric Havelock extended Parry's work to show oral noetic world",
+      "chapter": "Milman Parry's Discovery",
+      "concepts": [
+        "thought_patterns",
+        "noetic_consciousness",
+        "cognitive_analysis"
+      ],
+      "entities": {
+        "people": [
+          "Eric Havelock",
+          "Parry"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-025",
+      "text": "Immediate developments: Lord and Havelock carried forward Parry's insights",
+      "chapter": "Consequent and Related Work",
+      "concepts": [
+        "scholarly_development",
+        "academic_continuity",
+        "research_expansion"
+      ],
+      "entities": {
+        "people": [
+          "Lord",
+          "Havelock",
+          "Parry"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-026",
+      "text": "Cross-cultural applications: Parry's insights proved relevant worldwide",
+      "chapter": "Consequent and Related Work",
+      "concepts": [
+        "cultural_analysis",
+        "universal_applications",
+        "comparative_analysis"
+      ],
+      "entities": {
+        "people": [
+          "Parry"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-027",
+      "text": "Anthropological connections: Anthropologists linked orality studies to broader cultural analysis",
+      "chapter": "Consequent and Related Work",
+      "concepts": [
+        "anthropological_methodology",
+        "orality_literacy",
+        "cultural_analysis"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-028",
+      "text": "Remaining gaps: Many fields could benefit from orality-literacy analysis",
+      "chapter": "Consequent and Related Work",
+      "concepts": [
+        "orality_literacy_studies",
+        "interdisciplinary_gaps",
+        "scholarly_applications"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-029",
+      "text": "Sound's temporal nature: Sound exists only when going out of existence, unlike other senses",
+      "chapter": "Sounded Word as Power and Action",
+      "concepts": [
+        "temporal_nature",
+        "sound_characteristics",
+        "sensory_perception"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-030",
+      "text": "Sound as power and action: Oral peoples universally consider words to have magical potency",
+      "chapter": "Sounded Word as Power and Action",
+      "concepts": [
+        "magical_efficacy",
+        "oral_culture",
+        "sound_power",
+        "verbal_action"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-031",
+      "text": "Names as power: Oral cultures view names as conveying power over what they name",
+      "chapter": "Sounded Word as Power and Action",
+      "concepts": [
+        "naming_power",
+        "oral_culture",
+        "linguistic_control",
+        "symbolic_authority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-032",
+      "text": "Memory constraints shape thought: In oral culture, you know only what you can recall",
+      "chapter": "You Know What You Can Recall: Mnemonics and Formulas",
+      "concepts": [
+        "memory_limitations",
+        "knowledge_constraints",
+        "oral_culture",
+        "cognitive_boundaries"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-033",
+      "text": "Mnemonic patterning required: Thought must come in heavily rhythmic, balanced patterns",
+      "chapter": "You Know What You Can Recall: Mnemonics and Formulas",
+      "concepts": [
+        "mnemonic_techniques",
+        "rhythmic_patterns",
+        "oral_tradition",
+        "memory_aids"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-034",
+      "text": "Formulas as substance of thought: Fixed expressions form the content, not just vehicle, of thinking",
+      "chapter": "You Know What You Can Recall: Mnemonics and Formulas",
+      "concepts": [
+        "formulaic_expression",
+        "fixed_phrases",
+        "cognitive_structures",
+        "oral_composition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-035",
+      "text": "Legal and social functions: Law itself enshrined in formulaic sayings and proverbs",
+      "chapter": "You Know What You Can Recall: Mnemonics and Formulas",
+      "concepts": [
+        "oral_law",
+        "formulaic_sayings",
+        "legal_tradition",
+        "social_function"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-036",
+      "text": "Oral preference for coordination: Oral cultures string together thoughts with \"and\" rather than subordinating clauses",
+      "chapter": "(i) Additive rather than subordinative",
+      "concepts": [
+        "coordination_preference",
+        "grammatical_structure",
+        "oral_syntax",
+        "linguistic_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-037",
+      "text": "Different grammatical needs: Writing depends more on linguistic structure alone for meaning",
+      "chapter": "(i) Additive rather than subordinative",
+      "concepts": [
+        "written_language",
+        "linguistic_structure",
+        "meaning_construction",
+        "grammatical_dependency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-038",
+      "text": "Clustering rather than separation: Oral expression tends toward clusters of associated terms",
+      "chapter": "(ii) Aggregative rather than analytic",
+      "concepts": [
+        "clustering_patterns",
+        "associative_thinking",
+        "oral_expression",
+        "semantic_grouping"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-039",
+      "text": "Political and cultural examples: Modern residually oral cultures show similar patterns",
+      "chapter": "(ii) Aggregative rather than analytic",
+      "concepts": [
+        "residual_orality",
+        "cross_cultural_patterns",
+        "modern_examples",
+        "political_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-040",
+      "text": "Memory and continuity needs: Oral discourse must maintain continuity without external aids",
+      "chapter": "(iii) Redundant or 'copious'",
+      "concepts": [
+        "memory_continuity",
+        "oral_discourse",
+        "knowledge_transmission",
+        "external_aids"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-041",
+      "text": "Physical conditions encourage repetition: Public oral performance demands redundancy",
+      "chapter": "(iii) Redundant or 'copious'",
+      "concepts": [
+        "public_performance",
+        "repetition",
+        "oral_redundancy",
+        "physical_conditions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-042",
+      "text": "Knowledge preservation imperative: Oral societies must invest energy in repeating acquired knowledge",
+      "chapter": "(iv) Conservative or traditionalist",
+      "concepts": [
+        "knowledge_preservation",
+        "oral_societies",
+        "repetition_imperative",
+        "cultural_transmission"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-043",
+      "text": "Writing changes relationship to past: Text frees mind from conservative memory work",
+      "chapter": "(iv) Conservative or traditionalist",
+      "concepts": [
+        "writing_transformation",
+        "memory_liberation",
+        "textual_culture",
+        "conservative_memory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-044",
+      "text": "Contextualized rather than abstract knowledge: Oral cultures lack elaborate abstract categories",
+      "chapter": "(v) Close to the human lifeworld",
+      "concepts": [
+        "contextualized_knowledge",
+        "abstract_categories",
+        "oral_cognition",
+        "practical_thinking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-045",
+      "text": "Narrative frameworks for information: Political information appears in action contexts",
+      "chapter": "(v) Close to the human lifeworld",
+      "concepts": [
+        "narrative_frameworks",
+        "action_contexts",
+        "political_information",
+        "story_based_knowledge"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-046",
+      "text": "Verbal combat and struggle: Oral cultures strike literates as extraordinarily combative",
+      "chapter": "(vi) Agonistically toned",
+      "concepts": [
+        "oral_culture",
+        "combat_behavior",
+        "cultural_temperament",
+        "literacy_contrast"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-047",
+      "text": "Physical violence in oral art: Enthusiastic description of combat marks oral narrative",
+      "chapter": "(vi) Agonistically toned",
+      "concepts": [
+        "oral_narrative",
+        "violence_representation",
+        "combat_description",
+        "storytelling"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-048",
+      "text": "Praise as other side of combat: Fulsome praise accompanies oral culture's agonistic nature",
+      "chapter": "(vi) Agonistically toned",
+      "concepts": [
+        "praise_culture",
+        "agonistic_behavior",
+        "oral_tradition",
+        "cultural_duality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-049",
+      "text": "Identification with the known: Oral learning means achieving empathetic identification",
+      "chapter": "(vii) Empathetic and participatory rather than objectively distanced",
+      "concepts": [
+        "oral_learning",
+        "empathetic_identification",
+        "knowledge_transmission",
+        "emotional_engagement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-050",
+      "text": "Writing enables objectivity: Visual fixity of text creates distancing from content",
+      "chapter": "(vii) Empathetic and participatory rather than objectively distanced",
+      "concepts": [
+        "writing_technology",
+        "objectivity",
+        "textual_fixity",
+        "cognitive_distancing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-051",
+      "text": "Present-oriented equilibrium: Oral societies maintain balance by discarding irrelevant memories",
+      "chapter": "(viii) Homeostatic",
+      "concepts": [
+        "oral_societies",
+        "cultural_equilibrium",
+        "memory_liberation",
+        "present_orientation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-052",
+      "text": "Genealogical adjustment: Studies show oral genealogies adapt to changed circumstances",
+      "chapter": "(viii) Homeostatic",
+      "concepts": [
+        "genealogical_adaptation",
+        "oral_genealogy",
+        "historical_revisionism",
+        "circumstantial_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-053",
+      "text": "Operational rather than formal thinking: Oral cultures resist abstract categorical organization",
+      "chapter": "(ix) Situational rather than abstract",
+      "concepts": [
+        "operational_thinking",
+        "oral_cognition",
+        "abstract_categorization",
+        "formal_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-054",
+      "text": "Resistance to formal logic: Syllogistic reasoning seemed uninteresting to oral subjects",
+      "chapter": "(ix) Situational rather than abstract",
+      "concepts": [
+        "formal_logic",
+        "syllogistic_reasoning",
+        "oral_subjects",
+        "logical_resistance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-055",
+      "text": "Literate assumptions about oral memory: Past scholars assumed oral memorization aimed at verbatim repetition",
+      "chapter": "Oral Memorization",
+      "concepts": [
+        "literary_assumptions",
+        "oral_memorization",
+        "verbatim_repetition",
+        "scholarly_misconceptions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-056",
+      "text": "Parry-Lord revolutionary findings: Yugoslav oral poets never sing same song twice",
+      "chapter": "Oral Memorization",
+      "concepts": [
+        "oral_poetry",
+        "performance_variation",
+        "revolutionary_findings",
+        "compositional_flexibility"
+      ],
+      "entities": {
+        "people": [
+          "Parry",
+          "Lord"
+        ],
+        "places": [
+          "Yugoslav"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-057",
+      "text": "Oral memory as reconstruction: Singers need time to let story \"sink into\" their repertoire",
+      "chapter": "Oral Memorization",
+      "concepts": [
+        "oral_memory",
+        "story_reconstruction",
+        "repertoire_development",
+        "narrative_absorption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-058",
+      "text": "Claims vs. reality of verbatim repetition: Even when claiming word-for-word accuracy, variation occurs",
+      "chapter": "Oral Memorization",
+      "concepts": [
+        "accuracy_claims",
+        "verbatim_repetition",
+        "performance_variation",
+        "oral_transmission"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-059",
+      "text": "Special cases of greater accuracy: Some ritual or musical contexts approach verbatim repetition",
+      "chapter": "Oral Memorization",
+      "concepts": [
+        "ritual_accuracy",
+        "musical_context",
+        "verbatim_repetition",
+        "special_circumstances"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-060",
+      "text": "Word-oriented rather than thing-oriented: Verbomotor cultures depend more on effective word use",
+      "chapter": "Verbomotor Lifestyle",
+      "concepts": [
+        "verbomotor_culture",
+        "word_orientation",
+        "linguistic_dependence",
+        "verbal_effectiveness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-061",
+      "text": "Interactive interpretation of information requests: Oral cultures interpret questions as personal challenges",
+      "chapter": "Verbomotor Lifestyle",
+      "concepts": [
+        "oral_culture",
+        "information_processing",
+        "personal_challenge",
+        "communication_interpretation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-062",
+      "text": "Communal vs. individual personality structures: Oral communication creates group unity",
+      "chapter": "Verbomotor Lifestyle",
+      "concepts": [
+        "oral_communication",
+        "group_unity",
+        "personality_structure",
+        "communal_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-063",
+      "text": "Memory needs create heroic figures: Oral cultures require \"heavy\" characters for effective memorization",
+      "chapter": "The Noetic Role of Heroic 'Heavy' Figures and of the Bizarre",
+      "concepts": [
+        "memory_techniques",
+        "heroic_figures",
+        "oral_culture",
+        "character_memorization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-064",
+      "text": "Bizarre elements aid recall: Strange features make characters more memorable",
+      "chapter": "The Noetic Role of Heroic 'Heavy' Figures and of the Bizarre",
+      "concepts": [
+        "memory_techniques",
+        "character_recall",
+        "narrative_devices",
+        "memorization_aids"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-065",
+      "text": "Print culture enables different character types: Writing eventually allows \"ordinary\" protagonists",
+      "chapter": "The Noetic Role of Heroic 'Heavy' Figures and of the Bizarre",
+      "concepts": [
+        "print_culture",
+        "character_development",
+        "literary_characterization",
+        "writing_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-066",
+      "text": "Sound registers interiority directly: Unlike other senses, sound reveals interior structures",
+      "chapter": "The Interiority of Sound",
+      "concepts": [
+        "sound_perception",
+        "interiority",
+        "sensory_experience",
+        "consciousness_structure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-067",
+      "text": "Sound incorporates rather than isolates: Hearing creates different relationship than seeing",
+      "chapter": "The Interiority of Sound",
+      "concepts": [
+        "sound_perception",
+        "social_incorporation",
+        "sensory_relationships",
+        "auditory_experience"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-068",
+      "text": "Correspondence with consciousness structure: Interiority and harmony characterize human awareness",
+      "chapter": "The Interiority of Sound",
+      "concepts": [
+        "consciousness_structure",
+        "interiority",
+        "human_awareness",
+        "cognitive_harmony"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-069",
+      "text": "Implications for oral cultures: Sound-dominated cultures feel themselves at center of cosmos",
+      "chapter": "The Interiority of Sound",
+      "concepts": [
+        "oral_culture",
+        "cosmological_worldview",
+        "sound_dominance",
+        "cultural_centrality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-070",
+      "text": "Spoken word creates community: Speech manifests human beings to each other as conscious interiors",
+      "chapter": "Orality, Community and the Sacral",
+      "concepts": [
+        "spoken_word",
+        "community_formation",
+        "consciousness_manifestation",
+        "social_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-071",
+      "text": "Writing isolates: Text production and consumption are solitary activities",
+      "chapter": "Orality, Community and the Sacral",
+      "concepts": [
+        "writing_culture",
+        "social_isolation",
+        "solitary_activities",
+        "text_consumption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-072",
+      "text": "Sacred dimensions: Most religions center spoken word in ceremonial life",
+      "chapter": "Orality, Community and the Sacral",
+      "concepts": [
+        "religious_practice",
+        "spoken_word",
+        "ceremonial_life",
+        "sacred_dimension"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-073",
+      "text": "Primacy of oral in sacred texts: Even text-based religions preserve oral primacy",
+      "chapter": "Orality, Community and the Sacral",
+      "concepts": [
+        "sacred_texts",
+        "oral_primacy",
+        "religious_tradition",
+        "textual_religion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-074",
+      "text": "\"Sign\" as visual concept: Thinking of words as \"signs\" comes from sight-dominance",
+      "chapter": "Words are not Signs",
+      "concepts": [
+        "visual_concepts",
+        "sign_systems",
+        "sight_dominance",
+        "linguistic_metaphors"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-075",
+      "text": "Pipeline model problems: \"Media\" metaphor treats communication as transfer of units",
+      "chapter": "Words are not Signs",
+      "concepts": [
+        "communication_models",
+        "media_metaphors",
+        "information_transfer",
+        "pipeline_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-076",
+      "text": "True communication requires feedback: Human communication demands anticipated response",
+      "chapter": "Words are not Signs",
+      "concepts": [
+        "communication_theory",
+        "feedback_mechanisms",
+        "human_connection",
+        "response_anticipation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-077",
+      "text": "Context-free language creation: Writing establishes discourse that cannot be directly questioned",
+      "chapter": "The New World of Autonomous Discourse",
+      "concepts": [
+        "language_creation",
+        "written_discourse",
+        "contextual_independence",
+        "textual_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-078",
+      "text": "Textual authority problems: Books have strange authority that oral speech lacks",
+      "chapter": "The New World of Autonomous Discourse",
+      "concepts": [
+        "textual_authority",
+        "written_communication",
+        "oral_speech",
+        "literary_power"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-079",
+      "text": "Comparison with oral autonomous discourse: Oral cultures have some autonomous forms",
+      "chapter": "The New World of Autonomous Discourse",
+      "concepts": [
+        "oral_tradition",
+        "autonomous_discourse",
+        "cultural_comparison",
+        "speech_forms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-080",
+      "text": "Four parallel objections: Same criticisms made of writing, then print, now computers",
+      "chapter": "Plato, Writing and Computers",
+      "concepts": [
+        "technological_criticism",
+        "historical_parallels",
+        "media_resistance",
+        "innovation_resistance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-081",
+      "text": "Historical pattern: Each new technology faces identical resistance",
+      "chapter": "Plato, Writing and Computers",
+      "concepts": [
+        "historical_patterns",
+        "technological_adoption",
+        "innovation_resistance",
+        "cultural_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-082",
+      "text": "Paradox of Plato's position: His critique of writing only possible because of writing",
+      "chapter": "Plato, Writing and Computers",
+      "concepts": [
+        "philosophical_contradiction",
+        "writing_critique",
+        "textual_dependency",
+        "self_contradiction"
+      ],
+      "entities": {
+        "people": [
+          "Plato"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-083",
+      "text": "Complete artificiality: Writing differs fundamentally from natural oral speech",
+      "chapter": "Writing is a Technology",
+      "concepts": [
+        "artificial_communication",
+        "oral_speech",
+        "natural_language",
+        "technological_mediation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-084",
+      "text": "Technology as consciousness enhancement: Artificiality enables human development",
+      "chapter": "Writing is a Technology",
+      "concepts": [
+        "technological_enhancement",
+        "consciousness_development",
+        "human_artificiality",
+        "cognitive_tools"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-085",
+      "text": "Writing more deeply interiorized than instrumental performance: Text becomes part of thought process",
+      "chapter": "Writing is a Technology",
+      "concepts": [
+        "cognitive_internalization",
+        "textual_integration",
+        "thought_patterns",
+        "mental_tools"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-086",
+      "text": "True writing vs. memory aids: Script represents words someone says or imagines saying",
+      "chapter": "What is 'Writing' or 'Script'?",
+      "concepts": [
+        "writing_systems",
+        "memory_aids",
+        "speech_representation",
+        "script_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-087",
+      "text": "Gradual development from memory aids: True writing systems evolve through intermediate stages",
+      "chapter": "What is 'Writing' or 'Script'?",
+      "concepts": [
+        "evolutionary_development",
+        "writing_systems",
+        "technological_progress",
+        "script_evolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-088",
+      "text": "Writing as recent invention: True writing emerged only around 3500 BC among Sumerians",
+      "chapter": "What is 'Writing' or 'Script'?",
+      "concepts": [
+        "writing_origins",
+        "historical_timeline",
+        "technological_innovation",
+        "ancient_civilizations"
+      ],
+      "entities": {
+        "people": [
+          "Sumerians"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-089",
+      "text": "Independent script development: Many writing systems developed separately worldwide",
+      "chapter": "Many Scripts but Only One Alphabet",
+      "concepts": [
+        "independent_invention",
+        "script_development",
+        "cultural_innovation",
+        "writing_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-090",
+      "text": "Alphabet as unique invention: Developed only once by Semitic peoples around 1500 BC",
+      "chapter": "Many Scripts but Only One Alphabet",
+      "concepts": [
+        "alphabet_invention",
+        "unique_development",
+        "writing_systems",
+        "linguistic_innovation"
+      ],
+      "entities": {
+        "people": [
+          "Semitic peoples"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-091",
+      "text": "Greek innovation with vowels: Greeks added vowels to Semitic consonant-only system",
+      "chapter": "Many Scripts but Only One Alphabet",
+      "concepts": [
+        "writing_systems",
+        "linguistic_innovation",
+        "alphabet_development",
+        "vowel_notation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-092",
+      "text": "Alphabetic democratization: Contrasts with elitist character systems",
+      "chapter": "Many Scripts but Only One Alphabet",
+      "concepts": [
+        "literacy_revolution",
+        "writing_systems",
+        "social_accessibility",
+        "character_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-093",
+      "text": "Initial responses to writing: Often regarded as magical or dangerous power",
+      "chapter": "The Onset of Literacy",
+      "concepts": [
+        "writing_reception",
+        "magical_thinking",
+        "technological_fear",
+        "cultural_attitudes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-094",
+      "text": "Craft literacy stage: Writing becomes trade practiced by specialists",
+      "chapter": "The Onset of Literacy",
+      "concepts": [
+        "craft_literacy",
+        "professional_specialization",
+        "scribal_culture",
+        "writing_as_trade"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-095",
+      "text": "Technological challenges: Early writing materials encouraged scribal culture",
+      "chapter": "The Onset of Literacy",
+      "concepts": [
+        "writing_materials",
+        "technological_limitations",
+        "scribal_culture",
+        "material_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-096",
+      "text": "Continued oral methods: Even literate composition often used dictation",
+      "chapter": "The Onset of Literacy",
+      "concepts": [
+        "oral_tradition",
+        "composition_methods",
+        "dictation_practice",
+        "literacy_practices"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-097",
+      "text": "Resistance to written authority: Medieval England initially trusted collective memory more than documents",
+      "chapter": "From Memory to Written Records",
+      "concepts": [
+        "written_authority",
+        "collective_memory",
+        "trust_systems",
+        "documentary_evidence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Medieval England"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-098",
+      "text": "Dating problems reveal different time consciousness: Early charters often undated",
+      "chapter": "From Memory to Written Records",
+      "concepts": [
+        "time_consciousness",
+        "dating_practices",
+        "temporal_concepts",
+        "charter_documentation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-099",
+      "text": "Oral economy of memory: Past without present relevance dropped from consciousness",
+      "chapter": "From Memory to Written Records",
+      "concepts": [
+        "oral_memory",
+        "historical_consciousness",
+        "memory_burden",
+        "cultural_relevance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-100",
+      "text": "Charts and lists as writing innovations: Visual organization impossible in oral culture",
+      "chapter": "From Memory to Written Records",
+      "concepts": [
+        "visual_organization",
+        "information_display",
+        "writing_innovations",
+        "oral_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-101",
+      "text": "Isolation of words in text: Written words lack fuller context of spoken words",
+      "chapter": "Some Dynamics of Textuality",
+      "concepts": [
+        "word_isolation",
+        "contextual_interpretation",
+        "textual_analysis",
+        "spoken_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-102",
+      "text": "Absence of vocal qualities: Text lacks intonation, tone, emotional coloring",
+      "chapter": "Some Dynamics of Textuality",
+      "concepts": [
+        "vocal_qualities",
+        "textual_limitations",
+        "emotional_communication",
+        "intonation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-103",
+      "text": "Fictional relationships: Both writers and readers must create fictional roles",
+      "chapter": "Some Dynamics of Textuality",
+      "concepts": [
+        "fictional_relationships",
+        "reader_response",
+        "author_persona",
+        "literary_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-104",
+      "text": "Historical development of narrative voice: Evolution from oral frameworks to autonomous texts",
+      "chapter": "Some Dynamics of Textuality",
+      "concepts": [
+        "narrative_voice",
+        "literary_evolution",
+        "oral_frameworks",
+        "textual_autonomy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-105",
+      "text": "Enhanced precision through distancing: Removal from oral context develops verbal exactitude",
+      "chapter": "Distance, Precision, Grapholects and Magnavocabularies",
+      "concepts": [
+        "verbal_precision",
+        "oral_context",
+        "linguistic_exactitude",
+        "communicative_distancing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-106",
+      "text": "Correction capabilities: Writing enables revision impossible in oral performance",
+      "chapter": "Distance, Precision, Grapholects and Magnavocabularies",
+      "concepts": [
+        "writing_technology",
+        "textual_revision",
+        "oral_performance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-107",
+      "text": "Grapholect development: Written dialects become different from purely oral ones",
+      "chapter": "Distance, Precision, Grapholects and Magnavocabularies",
+      "concepts": [
+        "written_dialects",
+        "linguistic_divergence",
+        "oral_tradition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-108",
+      "text": "Massive vocabulary expansion: Writing enables unprecedented lexical growth",
+      "chapter": "Distance, Precision, Grapholects and Magnavocabularies",
+      "concepts": [
+        "vocabulary_expansion",
+        "lexical_growth",
+        "writing_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-109",
+      "text": "Dictionary authority: Print culture identifies \"correct\" language with written usage",
+      "chapter": "Distance, Precision, Grapholects and Magnavocabularies",
+      "concepts": [
+        "dictionary_authority",
+        "print_culture",
+        "language_standardization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-110",
+      "text": "Rhetoric as bridge between orality and literacy: Art of public speaking organized by writing",
+      "chapter": "Interactions: Rhetoric and the Places",
+      "concepts": [
+        "rhetoric",
+        "orality_literacy",
+        "public_speaking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-111",
+      "text": "Agonistic and formulaic heritage: Rhetoric preserved oral combative and traditional elements",
+      "chapter": "Interactions: Rhetoric and the Places",
+      "concepts": [
+        "rhetoric",
+        "agonistic_culture",
+        "formulaic_expression",
+        "oral_tradition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-112",
+      "text": "Academic dominance: Rhetoric remained central Western education for 2000 years",
+      "chapter": "Interactions: Rhetoric and the Places",
+      "concepts": [
+        "academic_education",
+        "rhetorical_tradition",
+        "western_civilization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-113",
+      "text": "Gender implications: Rhetorical education exclusively male",
+      "chapter": "Interactions: Rhetoric and the Places",
+      "concepts": [
+        "gender_exclusion",
+        "rhetorical_education",
+        "male_privilege"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-114",
+      "text": "Sound-sight split: Latin became school language only after 700 AD",
+      "chapter": "Interactions: Learned Languages",
+      "concepts": [
+        "sound_sight_division",
+        "school_language",
+        "latin_education"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-115",
+      "text": "Characteristics of Learned Latin: Completely chirographically controlled",
+      "chapter": "Interactions: Learned Languages",
+      "concepts": [
+        "learned_latin",
+        "chirographic_control",
+        "written_language"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-116",
+      "text": "Paradoxical relationship to orality: Though textually controlled, preserved oral elements",
+      "chapter": "Interactions: Learned Languages",
+      "concepts": [
+        "textual_control",
+        "oral_elements",
+        "linguistic_paradox"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-117",
+      "text": "Scientific implications: Learned Latin crucial for development of modern science",
+      "chapter": "Interactions: Learned Languages",
+      "concepts": [
+        "learned_latin",
+        "scientific_development",
+        "modern_science"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-118",
+      "text": "Other learned languages: Similar patterns in Hebrew, Arabic, Sanskrit, Chinese",
+      "chapter": "Interactions: Learned Languages",
+      "concepts": [
+        "learned_languages",
+        "linguistic_patterns",
+        "scholarly_tradition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-119",
+      "text": "Slow transition from orality: Medieval and Renaissance cultures retained massive oral elements",
+      "chapter": "Tenaciousness of Orality",
+      "concepts": [
+        "oral_tradition",
+        "medieval_culture",
+        "renaissance_culture",
+        "cultural_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-120",
+      "text": "Reading aloud practices: Written texts commonly meant for oral delivery",
+      "chapter": "Tenaciousness of Orality",
+      "concepts": [
+        "reading_aloud",
+        "oral_delivery",
+        "textual_performance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-121",
+      "text": "Rhetoric's migration to writing: Gradual shift from oral to written focus",
+      "chapter": "Tenaciousness of Orality",
+      "concepts": [
+        "oral_tradition",
+        "written_communication",
+        "cultural_transformation",
+        "rhetorical_practice"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-122",
+      "text": "Residual effects: Even high-literacy cultures retain oral elements",
+      "chapter": "Tenaciousness of Orality",
+      "concepts": [
+        "oral_tradition",
+        "literacy",
+        "cultural_persistence",
+        "communication_modes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-123",
+      "text": "Revolutionary nature of alphabetic letterpress: Unlike earlier printing, used pre-existing letter units",
+      "chapter": "Hearing-Dominance Yields to Sight-Dominance",
+      "concepts": [
+        "printing_technology",
+        "alphabetic_system",
+        "manufacturing_innovation",
+        "letterpress_printing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-124",
+      "text": "First assembly line: Book production pioneered replaceable-part manufacturing",
+      "chapter": "Hearing-Dominance Yields to Sight-Dominance",
+      "concepts": [
+        "book_production",
+        "assembly_line_manufacturing",
+        "replaceable_parts",
+        "industrial_innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-125",
+      "text": "Persistent auditory processing: Manuscript culture remained marginally oral",
+      "chapter": "Hearing-Dominance Yields to Sight-Dominance",
+      "concepts": [
+        "manuscript_tradition",
+        "auditory_processing",
+        "oral_tradition",
+        "literacy_transition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-126",
+      "text": "Gradual visual takeover: Print eventually established sight-dominance",
+      "chapter": "Hearing-Dominance Yields to Sight-Dominance",
+      "concepts": [
+        "print_culture",
+        "visual_dominance",
+        "sensory_transition",
+        "cultural_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-127",
+      "text": "Spatial control mechanisms: Print locked words into position more rigidly than writing",
+      "chapter": "Hearing-Dominance Yields to Sight-Dominance",
+      "concepts": [
+        "spatial_organization",
+        "printing_technology",
+        "textual_control",
+        "visual_formatting"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-128",
+      "text": "Manuscript vs. print indexing: Alphabetic indexes rare and crude in manuscript culture",
+      "chapter": "(i) Indexes",
+      "concepts": [
+        "manuscript_tradition",
+        "print_culture",
+        "alphabetic_indexing",
+        "information_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-129",
+      "text": "Transition from oral to visual retrieval: Early indexes bridged auditory and visual cultures",
+      "chapter": "(i) Indexes",
+      "concepts": [
+        "information_retrieval",
+        "oral_culture",
+        "visual_culture",
+        "indexing_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-130",
+      "text": "Title pages as labels: Manuscripts identified by \"incipit\" (opening words) like conversations",
+      "chapter": "(i) Indexes",
+      "concepts": [
+        "manuscript_identification",
+        "title_pages",
+        "conversational_culture",
+        "textual_labeling"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-131",
+      "text": "Books as containers: Print culture developed sense of books \"containing\" information",
+      "chapter": "(ii) Books, contents and labels",
+      "concepts": [
+        "print_culture",
+        "information_storage",
+        "book_conceptualization",
+        "container_metaphor"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-132",
+      "text": "Physical completeness demands: Print intolerant of physical incompleteness",
+      "chapter": "(ii) Books, contents and labels",
+      "concepts": [
+        "print_culture",
+        "physical_completeness",
+        "textual_integrity",
+        "cultural_expectations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-133",
+      "text": "Exactly repeatable visual statements: Print enabled technical illustration revolution",
+      "chapter": "(iii) Meaningful surface",
+      "concepts": [
+        "visual_representation",
+        "technical_illustration",
+        "printing_technology",
+        "scientific_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-134",
+      "text": "Impact on literature: Exact visual representation affected Romantic poetry and beyond",
+      "chapter": "(iii) Meaningful surface",
+      "concepts": [
+        "visual_representation",
+        "romantic_poetry",
+        "literary_influence",
+        "print_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-135",
+      "text": "White space as meaningful element: Print space itself carries imposed meaning",
+      "chapter": "(iv) Typographic space",
+      "concepts": [
+        "white_space",
+        "visual_meaning",
+        "print_culture",
+        "spatial_significance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-136",
+      "text": "Literary exploitation of space: Poets increasingly used typographic possibilities",
+      "chapter": "(iv) Typographic space",
+      "concepts": [
+        "literary_form",
+        "typography",
+        "spatial_design",
+        "poetic_expression"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-137",
+      "text": "Concrete poetry as climax: Ultimate interaction of sound and typographic space",
+      "chapter": "(iv) Typographic space",
+      "concepts": [
+        "concrete_poetry",
+        "sound_text_interaction",
+        "typography",
+        "literary_movement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-138",
+      "text": "Removal of rhetoric from education: Print eventually displaced oral-based rhetorical training",
+      "chapter": "More Diffuse Effects",
+      "concepts": [
+        "rhetorical_education",
+        "printing_technology",
+        "oral_tradition",
+        "pedagogical_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-139",
+      "text": "Dictionary establishment: Print created climate for exhaustive lexicography",
+      "chapter": "More Diffuse Effects",
+      "concepts": [
+        "lexicography",
+        "printing_technology",
+        "dictionary_making",
+        "language_standardization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-140",
+      "text": "Personal privacy development: Print fostered modern sense of individual privacy",
+      "chapter": "More Diffuse Effects",
+      "concepts": [
+        "individual_privacy",
+        "print_culture",
+        "bourgeois_subjectivity",
+        "social_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-141",
+      "text": "Private ownership of words: Print created new sense of textual property rights",
+      "chapter": "More Diffuse Effects",
+      "concepts": [
+        "textual_property",
+        "print_culture",
+        "intellectual_ownership",
+        "publishing_rights"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-142",
+      "text": "Interior mental space concepts: Print encouraged thinking of mind as thing-like container",
+      "chapter": "More Diffuse Effects",
+      "concepts": [
+        "mental_concepts",
+        "print_culture",
+        "cognitive_metaphors",
+        "interior_consciousness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-143",
+      "text": "Enhanced closure beyond writing: Print suggested finality more than writing",
+      "chapter": "Print and Closure: Intertextuality",
+      "concepts": [
+        "textual_closure",
+        "printing_technology",
+        "finality",
+        "written_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-144",
+      "text": "Physical intolerance of incompleteness: Print medium demands completion",
+      "chapter": "Print and Closure: Intertextuality",
+      "concepts": [
+        "print_medium",
+        "textual_completion",
+        "physical_constraints",
+        "publishing_demands"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-145",
+      "text": "Literary form effects: Print enables tightly closed narrative structures",
+      "chapter": "Print and Closure: Intertextuality",
+      "concepts": [
+        "literary_form",
+        "narrative_structure",
+        "printing_technology",
+        "textual_closure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-146",
+      "text": "Formalism and New Criticism: Print gives rise to \"closed world\" literary theory",
+      "chapter": "Print and Closure: Intertextuality",
+      "concepts": [
+        "literary_criticism",
+        "formalist_theory",
+        "print_culture",
+        "closed_interpretation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-147",
+      "text": "Modern intertextuality concerns: Print culture creates anxiety about influence",
+      "chapter": "Print and Closure: Intertextuality",
+      "concepts": [
+        "intertextuality",
+        "literary_influence",
+        "print_culture",
+        "authorial_anxiety"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-148",
+      "text": "Continued print production: Electronic devices produce more printed books, not fewer",
+      "chapter": "Post-Typography: Electronics",
+      "concepts": [
+        "electronic_technology",
+        "print_production",
+        "digital_publishing",
+        "media_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-149",
+      "text": "Intensified sequential processing: Computer maximizes word's commitment to space",
+      "chapter": "Post-Typography: Electronics",
+      "concepts": [
+        "computer_technology",
+        "sequential_processing",
+        "spatial_text",
+        "digital_media"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-150",
+      "text": "Secondary orality emergence: Electronic technology creates new oral age",
+      "chapter": "Post-Typography: Electronics",
+      "concepts": [
+        "secondary_orality",
+        "electronic_technology",
+        "oral_culture",
+        "media_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-151",
+      "text": "Group sense transformation: Electronic orality creates much larger groups than primary oral",
+      "chapter": "Post-Typography: Electronics",
+      "concepts": [
+        "electronic_media",
+        "oral_tradition",
+        "group_formation",
+        "social_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-152",
+      "text": "Contrast in public speaking: Modern electronic orality vs. old primary orality",
+      "chapter": "Post-Typography: Electronics",
+      "concepts": [
+        "electronic_media",
+        "oral_tradition",
+        "public_speaking",
+        "communication_modes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-153",
+      "text": "Narrative's foundational role: Underlies many other art forms due to time-based nature of knowledge",
+      "chapter": "The Primacy of the Story Line",
+      "concepts": [
+        "narrative_structure",
+        "artistic_forms",
+        "temporal_knowledge",
+        "cultural_foundation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-154",
+      "text": "Universal but functionally variable: Found in all cultures but more functional in oral ones",
+      "chapter": "The Primacy of the Story Line",
+      "concepts": [
+        "cultural_universals",
+        "oral_tradition",
+        "functional_variation",
+        "cross_cultural_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-155",
+      "text": "Durability advantages: Narrative bonds knowledge in repeatable lengthy forms",
+      "chapter": "The Primacy of the Story Line",
+      "concepts": [
+        "narrative_structure",
+        "knowledge_preservation",
+        "repetition",
+        "cultural_transmission"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-156",
+      "text": "Knowledge storage necessity: Oral cultures must use narrative for abstract information",
+      "chapter": "Narrative and Oral Cultures",
+      "concepts": [
+        "oral_tradition",
+        "knowledge_storage",
+        "narrative_structure",
+        "abstract_information"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-157",
+      "text": "Substantial repositories: Major narratives contain enormous amounts of cultural lore",
+      "chapter": "Narrative and Oral Cultures",
+      "concepts": [
+        "cultural_lore",
+        "narrative_structure",
+        "knowledge_repository",
+        "oral_tradition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-158",
+      "text": "Repetition requirements: Only narrative provides lengthy repeatable forms",
+      "chapter": "Narrative and Oral Cultures",
+      "concepts": [
+        "repetition",
+        "narrative_structure",
+        "oral_tradition",
+        "knowledge_preservation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-159",
+      "text": "Episodic vs. climactic structure: Oral narrative not organized in climactic linear plots",
+      "chapter": "Oral Memory and the Story Line",
+      "concepts": [
+        "narrative_structure",
+        "oral_tradition",
+        "episodic_form",
+        "plot_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-160",
+      "text": "Homer's compositional reality: \"In medias res\" not conscious artistic choice",
+      "chapter": "Oral Memory and the Story Line",
+      "concepts": [
+        "oral_composition",
+        "artistic_technique",
+        "narrative_structure",
+        "literary_criticism"
+      ],
+      "entities": {
+        "people": [
+          "Homer"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-161",
+      "text": "Memory vs. planned plotting: Oral poets guided by memory, not linear organization",
+      "chapter": "Oral Memory and the Story Line",
+      "concepts": [
+        "oral_composition",
+        "memory",
+        "narrative_structure",
+        "poetic_tradition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-162",
+      "text": "Peabody's insights into memory: \"Song is remembrance of songs sung\"",
+      "chapter": "Oral Memory and the Story Line",
+      "concepts": [
+        "memory",
+        "oral_tradition",
+        "poetic_composition",
+        "scholarly_insight"
+      ],
+      "entities": {
+        "people": [
+          "Peabody"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-163",
+      "text": "Print enables plot control: Author can outline, revise, manipulate until \"final\" form",
+      "chapter": "Closure of Plot: Travelogue to Detective Story",
+      "concepts": [
+        "printing_technology",
+        "narrative_control",
+        "literary_composition",
+        "textual_revision"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-164",
+      "text": "Drama's pioneering role: First western form with tight structure because fully written",
+      "chapter": "Closure of Plot: Travelogue to Detective Story",
+      "concepts": [
+        "dramatic_structure",
+        "written_composition",
+        "literary_form",
+        "western_literature"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-165",
+      "text": "Print's definitive break: Novel eventually abandoned episodic structure entirely",
+      "chapter": "Closure of Plot: Travelogue to Detective Story",
+      "concepts": [
+        "printing_technology",
+        "literary_form",
+        "narrative_structure",
+        "episodic_form"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-166",
+      "text": "Detective story climax: Perfectly pyramidal plot reached peak with Poe (1841)",
+      "chapter": "Closure of Plot: Travelogue to Detective Story",
+      "concepts": [
+        "literary_structure",
+        "detective_fiction",
+        "narrative_development",
+        "plot_construction"
+      ],
+      "entities": {
+        "people": [
+          "Poe"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-167",
+      "text": "Connection to textuality: Detective stories often center on decoding texts",
+      "chapter": "Closure of Plot: Travelogue to Detective Story",
+      "concepts": [
+        "textual_interpretation",
+        "detective_fiction",
+        "literary_criticism",
+        "narrative_structure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-168",
+      "text": "Oral requirement for type characters: Primary oral culture can only produce \"flat\" characters",
+      "chapter": "The 'Round' Character, Writing and Print",
+      "concepts": [
+        "oral_culture",
+        "character_development",
+        "literary_characterization",
+        "cultural_transmission"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-169",
+      "text": "Gradual development of interiority: Round characters emerge through writing and print",
+      "chapter": "The 'Round' Character, Writing and Print",
+      "concepts": [
+        "character_development",
+        "print_culture",
+        "literary_evolution",
+        "narrative_interiority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-170",
+      "text": "Greek drama's pioneering: First approximations of round character in written tragedies",
+      "chapter": "The 'Round' Character, Writing and Print",
+      "concepts": [
+        "character_development",
+        "ancient_drama",
+        "literary_innovation",
+        "narrative_structure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-171",
+      "text": "Print culture's contributions: Novel brings round character to full development",
+      "chapter": "The 'Round' Character, Writing and Print",
+      "concepts": [
+        "print_culture",
+        "novel_development",
+        "character_development",
+        "literary_evolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-172",
+      "text": "Modern psychology connections: Depth psychology parallels round character development",
+      "chapter": "The 'Round' Character, Writing and Print",
+      "concepts": [
+        "depth_psychology",
+        "character_development",
+        "literary_psychology",
+        "narrative_interiority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-173",
+      "text": "Genre evolution patterns: Shift from orality through writing/print to electronics determines genre development",
+      "chapter": "Literary History",
+      "concepts": [
+        "media_transformation",
+        "genre_development",
+        "oral_culture",
+        "print_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-174",
+      "text": "Women writers' distinctive contributions: Excluded from rhetorical training, developed non-oral styles",
+      "chapter": "Literary History",
+      "concepts": [
+        "women_writers",
+        "rhetorical_tradition",
+        "literary_fiction",
+        "gender_studies"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-175",
+      "text": "Residual orality studies needed: Secondary oral culture and various oral residues await study",
+      "chapter": "Literary History",
+      "concepts": [
+        "oral_culture",
+        "secondary_orality",
+        "cultural_studies",
+        "oral_residues"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-176",
+      "text": "Textual bias of New Criticism: Insisted on poem as autonomous \"verbal icon\"",
+      "chapter": "New Criticism and Formalism",
+      "concepts": [
+        "new_criticism",
+        "textual_autonomy",
+        "literary_criticism",
+        "poetic_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-177",
+      "text": "Historical transition in criticism: Shift from rhetorical to textual mentality",
+      "chapter": "New Criticism and Formalism",
+      "concepts": [
+        "literary_criticism",
+        "rhetorical_tradition",
+        "textual_analysis",
+        "critical_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-178",
+      "text": "Problems with autonomous text concept: Text ultimately cannot stand independent of world",
+      "chapter": "New Criticism and Formalism",
+      "concepts": [
+        "textual_autonomy",
+        "literary_theory",
+        "contextual_interpretation",
+        "critical_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-179",
+      "text": "Binary focus achievements: L\u00e9vi-Strauss achieved some freedom from chirographic bias",
+      "chapter": "Structuralism",
+      "concepts": [
+        "structural_anthropology",
+        "binary_analysis",
+        "chirographic_culture",
+        "critical_methodology"
+      ],
+      "entities": {
+        "people": [
+          "L\u00e9vi-Strauss"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-180",
+      "text": "Limitations of structuralist approach: Neglects specific psychodynamics of oral expression",
+      "chapter": "Structuralism",
+      "concepts": [
+        "structuralism",
+        "oral_expression",
+        "psychodynamics",
+        "critical_limitations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-181",
+      "text": "Oral composition complexities: Real oral narrative doesn't always fit rigid analysis",
+      "chapter": "Structuralism",
+      "concepts": [
+        "oral_composition",
+        "narrative_analysis",
+        "textual_rigidity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-182",
+      "text": "Service and limitations: Derrida's critique of \"logocentrism\" provides valuable service",
+      "chapter": "Textualists and Deconstructionists",
+      "concepts": [
+        "philosophical_critique",
+        "logocentrism",
+        "theoretical_service"
+      ],
+      "entities": {
+        "people": [
+          "Derrida"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-183",
+      "text": "Historical complications: Recent orality-literacy work complicates textualist accounts",
+      "chapter": "Textualists and Deconstructionists",
+      "concepts": [
+        "orality_literacy",
+        "textualist_critique",
+        "historical_complications"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-184",
+      "text": "Text-bound paradox: Textualist critique remains curiously text-bound",
+      "chapter": "Textualists and Deconstructionists",
+      "concepts": [
+        "textualist_critique",
+        "textual_paradox",
+        "philosophical_contradiction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-185",
+      "text": "Deconstruction's assumptions: Why assume language should be perfectly consistent?",
+      "chapter": "Textualists and Deconstructionists",
+      "concepts": [
+        "deconstruction",
+        "linguistic_consistency",
+        "theoretical_assumptions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-186",
+      "text": "Speech-act theory applications: Theory distinguishes locutionary, illocutionary, perlocutionary acts",
+      "chapter": "Speech-act and Reader-response Theory",
+      "concepts": [
+        "speech_act_theory",
+        "linguistic_acts",
+        "theoretical_differences"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-187",
+      "text": "Reader-response possibilities: Criticism aware that writing differs from oral communication in absence",
+      "chapter": "Speech-act and Reader-response Theory",
+      "concepts": [
+        "reader_response",
+        "written_communication",
+        "literary_criticism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-188",
+      "text": "Secondary orality extensions: Both theories could illuminate radio, television, telephone use",
+      "chapter": "Speech-act and Reader-response Theory",
+      "concepts": [
+        "secondary_orality",
+        "media_technology",
+        "theoretical_application"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-189",
+      "text": "Philosophy's technological dependence: Philosophy depends on writing technology for existence",
+      "chapter": "Social Sciences, Philosophy, Biblical Studies",
+      "concepts": [
+        "philosophical_dependence",
+        "writing_technology",
+        "intellectual_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-190",
+      "text": "Biblical studies challenges: Most massive textual commentary tradition needs orality awareness",
+      "chapter": "Social Sciences, Philosophy, Biblical Studies",
+      "concepts": [
+        "biblical_studies",
+        "literary_criticism",
+        "orality_literacy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-191",
+      "text": "Unexplored connections: Historiography, sociology await orality-literacy impact",
+      "chapter": "Social Sciences, Philosophy, Biblical Studies",
+      "concepts": [
+        "historiography",
+        "sociological_impact",
+        "orality_literacy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-192",
+      "text": "Beyond 'primitive' terminology: Orality-literacy contrasts replace limiting approaches",
+      "chapter": "Orality, Writing and Being Human",
+      "concepts": [
+        "orality_literacy",
+        "terminological_evolution",
+        "theoretical_approaches"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-193",
+      "text": "Orality not an ideal: Literacy opens possibilities unimaginable without writing",
+      "chapter": "Orality, Writing and Being Human",
+      "concepts": [
+        "literacy_advantages",
+        "orality_idealization",
+        "cognitive_possibilities"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-194",
+      "text": "Relational rather than reductionist: Changes connect with orality-literacy shift without sole causation",
+      "chapter": "Orality, Writing and Being Human",
+      "concepts": [
+        "relational_causation",
+        "orality_literacy",
+        "mechanistic_reductionism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-195",
+      "text": "Problems with \"media\" model: Suggests communication transfers \"information\" units through pipes",
+      "chapter": "'Media' versus Human Communication",
+      "concepts": [
+        "media_models",
+        "information_transfer",
+        "communication_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-196",
+      "text": "Feedback requirement: Human communication demands anticipated feedback to occur",
+      "chapter": "'Media' versus Human Communication",
+      "concepts": [
+        "communication_theory",
+        "feedback_mechanisms",
+        "human_connection",
+        "message_transmission"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-197",
+      "text": "Intersubjective paradox: Must be inside other's mind to enter with message",
+      "chapter": "'Media' versus Human Communication",
+      "concepts": [
+        "intersubjectivity",
+        "communication_paradox",
+        "consciousness_theory",
+        "mental_access"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-198",
+      "text": "Historical evolution of consciousness: Growth in articulate attention to individual interior",
+      "chapter": "The Inward Turn: Consciousness and the Text",
+      "concepts": [
+        "consciousness_development",
+        "historical_development",
+        "individual_interiority",
+        "articulate_attention"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-199",
+      "text": "Writing's consciousness-raising role: Highly interiorized consciousness stages require writing",
+      "chapter": "The Inward Turn: Consciousness and the Text",
+      "concepts": [
+        "writing_technology",
+        "consciousness_development",
+        "interiority",
+        "literacy_effects"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-200",
+      "text": "Religious implications: Orality-literacy polarities enter ultimate human concerns",
+      "chapter": "The Inward Turn: Consciousness and the Text",
+      "concepts": [
+        "orality_literacy",
+        "religious_implications",
+        "human_concerns",
+        "spiritual_qualities"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-201",
+      "text": "Modern evolution toward greater interiority and openness: Orality-literacy dynamics integral to consciousness development",
+      "chapter": "The Inward Turn: Consciousness and the Text",
+      "concepts": [
+        "consciousness_development",
+        "orality_literacy",
+        "interiority",
+        "human_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-202",
+      "text": "Continuing relevance demonstrated: Google Scholar shows over 7600 citations, more than other New Accents books",
+      "chapter": "After Ongism",
+      "concepts": [
+        "academic_influence",
+        "citation_analysis",
+        "scholarly_influence",
+        "comparative_reception"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": [
+          "New Accents",
+          "Google Scholar"
+        ]
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-203",
+      "text": "Digital era paradox: Reading increased threefold 1980-2008 despite television growth",
+      "chapter": "After Ongism",
+      "concepts": [
+        "digital_media",
+        "reading_practices",
+        "technological_paradox",
+        "media_consumption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-204",
+      "text": "Gutenberg parenthesis concept: Tom Pettitt's theory of print as historical deviation",
+      "chapter": "After Ongism",
+      "concepts": [
+        "print_culture",
+        "historical_deviation",
+        "media_history",
+        "technological_transition"
+      ],
+      "entities": {
+        "people": [
+          "Tom Pettitt"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-205",
+      "text": "Criticism of progressivist ethnocentrism: Some see Ong as preferring literate over oral modes",
+      "chapter": "After Ongism",
+      "concepts": [
+        "ethnocentrism",
+        "cultural_bias",
+        "orality_literacy",
+        "academic_criticism"
+      ],
+      "entities": {
+        "people": [
+          "Ong"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-206",
+      "text": "Binarism problems: \"Great divide\" theory between orality and literacy oversimplified",
+      "chapter": "After Ongism",
+      "concepts": [
+        "binarism",
+        "great_divide_theory",
+        "orality_literacy",
+        "theoretical_oversimplification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-207",
+      "text": "Consciousness transformation claims questioned: Historians and psychologists skeptical of restructuring claims",
+      "chapter": "After Ongism",
+      "concepts": [
+        "consciousness_transformation",
+        "academic_skepticism",
+        "cognitive_restructuring",
+        "disciplinary_criticism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "orality-and-literacy-208",
+      "text": "Evolution and cultural change: Recent work enables understanding Ong's insights through evolutionary theory",
+      "chapter": "After Ongism",
+      "concepts": [
+        "evolutionary_theory",
+        "cultural_transformation",
+        "theoretical_integration",
+        "academic_synthesis"
+      ],
+      "entities": {
+        "people": [
+          "Ong"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "orality-and-literacy-ch-001",
+      "title": "Preface: Before Ongism",
+      "summary": "John Hartley situates Ong's work within the intellectual and political context of post-war American scholarship and the rise of communication and media studies.",
+      "claim_ids": [
+        "orality-and-literacy-001",
+        "orality-and-literacy-002",
+        "orality-and-literacy-003"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-002",
+      "title": "Introduction",
+      "summary": "Ong outlines his thesis that the shift from orality to literacy fundamentally transforms human consciousness and establishes the scope of his investigation.",
+      "claim_ids": [
+        "orality-and-literacy-004",
+        "orality-and-literacy-005",
+        "orality-and-literacy-006"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-003",
+      "title": "The Orality of Language",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-004",
+      "title": "The Literate Mind and the Oral Past",
+      "summary": "Ong traces recent scholarly awakening to oral-literate contrasts while showing how textual bias has historically dominated language study.",
+      "claim_ids": [
+        "orality-and-literacy-007",
+        "orality-and-literacy-008",
+        "orality-and-literacy-009",
+        "orality-and-literacy-010"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-005",
+      "title": "Did You Say 'Oral Literature'?",
+      "summary": "Ong critiques the concept of \"oral literature\" as a contradiction that reveals literate bias in understanding oral cultures.",
+      "claim_ids": [
+        "orality-and-literacy-011",
+        "orality-and-literacy-012",
+        "orality-and-literacy-013",
+        "orality-and-literacy-014"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-006",
+      "title": "The Modern Discovery of Primary Oral Cultures",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-007",
+      "title": "Early Awareness of Oral Tradition",
+      "summary": "Ong traces historical awareness of oral tradition from ancient times through the Romantic Movement while noting persistent literate assumptions.",
+      "claim_ids": [
+        "orality-and-literacy-015",
+        "orality-and-literacy-016",
+        "orality-and-literacy-017"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-008",
+      "title": "The Homeric Question",
+      "summary": "Ong examines two millennia of Homeric scholarship to show how literate assumptions prevented understanding of oral composition.",
+      "claim_ids": [
+        "orality-and-literacy-018",
+        "orality-and-literacy-019",
+        "orality-and-literacy-020"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-009",
+      "title": "Milman Parry's Discovery",
+      "summary": "Ong details Parry's revolutionary demonstration that Homeric poetry resulted from oral composition techniques rather than literate planning.",
+      "claim_ids": [
+        "orality-and-literacy-021",
+        "orality-and-literacy-022",
+        "orality-and-literacy-023",
+        "orality-and-literacy-024"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-010",
+      "title": "Consequent and Related Work",
+      "summary": "Ong surveys the scholarly revolution following Parry's discoveries and its extension to other fields and cultures.",
+      "claim_ids": [
+        "orality-and-literacy-025",
+        "orality-and-literacy-026",
+        "orality-and-literacy-027",
+        "orality-and-literacy-028"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-011",
+      "title": "Some Psychodynamics of Orality",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-012",
+      "title": "Sounded Word as Power and Action",
+      "summary": "Ong explores the fundamental nature of sound and its implications for oral cultures' relationship to language.",
+      "claim_ids": [
+        "orality-and-literacy-029",
+        "orality-and-literacy-030",
+        "orality-and-literacy-031"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-013",
+      "title": "You Know What You Can Recall: Mnemonics and Formulas",
+      "summary": "Ong explains how oral cultures must structure all knowledge for memorable recall.",
+      "claim_ids": [
+        "orality-and-literacy-032",
+        "orality-and-literacy-033",
+        "orality-and-literacy-034",
+        "orality-and-literacy-035"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-014",
+      "title": "Further Characteristics of Orally Based Thought and Expression",
+      "summary": "Ong details nine key characteristics that distinguish oral from literate thought patterns.",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-015",
+      "title": "(i) Additive rather than subordinative",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-036",
+        "orality-and-literacy-037"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-016",
+      "title": "(ii) Aggregative rather than analytic",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-038",
+        "orality-and-literacy-039"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-017",
+      "title": "(iii) Redundant or 'copious'",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-040",
+        "orality-and-literacy-041"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-018",
+      "title": "(iv) Conservative or traditionalist",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-042",
+        "orality-and-literacy-043"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-019",
+      "title": "(v) Close to the human lifeworld",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-044",
+        "orality-and-literacy-045"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-020",
+      "title": "(vi) Agonistically toned",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-046",
+        "orality-and-literacy-047",
+        "orality-and-literacy-048"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-021",
+      "title": "(vii) Empathetic and participatory rather than objectively distanced",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-049",
+        "orality-and-literacy-050"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-022",
+      "title": "(viii) Homeostatic",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-051",
+        "orality-and-literacy-052"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-023",
+      "title": "(ix) Situational rather than abstract",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-053",
+        "orality-and-literacy-054"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-024",
+      "title": "Oral Memorization",
+      "summary": "Ong contrasts oral memory practices with literate assumptions about verbatim repetition.",
+      "claim_ids": [
+        "orality-and-literacy-055",
+        "orality-and-literacy-056",
+        "orality-and-literacy-057",
+        "orality-and-literacy-058",
+        "orality-and-literacy-059"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-025",
+      "title": "Verbomotor Lifestyle",
+      "summary": "Ong describes cultures where verbal skills and human interaction take precedence over object-oriented analysis.",
+      "claim_ids": [
+        "orality-and-literacy-060",
+        "orality-and-literacy-061",
+        "orality-and-literacy-062"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-026",
+      "title": "The Noetic Role of Heroic 'Heavy' Figures and of the Bizarre",
+      "summary": "Ong explains how oral memory requirements generate distinctive character types and narrative elements.",
+      "claim_ids": [
+        "orality-and-literacy-063",
+        "orality-and-literacy-064",
+        "orality-and-literacy-065"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-027",
+      "title": "The Interiority of Sound",
+      "summary": "Ong explores sound's unique relationship to human interiority and consciousness.",
+      "claim_ids": [
+        "orality-and-literacy-066",
+        "orality-and-literacy-067",
+        "orality-and-literacy-068",
+        "orality-and-literacy-069"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-028",
+      "title": "Orality, Community and the Sacral",
+      "summary": "Ong examines connections between spoken word, community formation, and religious experience.",
+      "claim_ids": [
+        "orality-and-literacy-070",
+        "orality-and-literacy-071",
+        "orality-and-literacy-072",
+        "orality-and-literacy-073"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-029",
+      "title": "Words are not Signs",
+      "summary": "Ong argues against treating words as visual signs, showing this reflects chirographic bias.",
+      "claim_ids": [
+        "orality-and-literacy-074",
+        "orality-and-literacy-075",
+        "orality-and-literacy-076"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-030",
+      "title": "Writing Restructures Consciousness",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-031",
+      "title": "The New World of Autonomous Discourse",
+      "summary": "Ong argues that writing creates fundamentally new kind of discourse detached from immediate human context.",
+      "claim_ids": [
+        "orality-and-literacy-077",
+        "orality-and-literacy-078",
+        "orality-and-literacy-079"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-032",
+      "title": "Plato, Writing and Computers",
+      "summary": "Ong shows that contemporary objections to computers mirror Plato's objections to writing.",
+      "claim_ids": [
+        "orality-and-literacy-080",
+        "orality-and-literacy-081",
+        "orality-and-literacy-082"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-033",
+      "title": "Writing is a Technology",
+      "summary": "Ong emphasizes that writing is artificial technology, not natural human capacity.",
+      "claim_ids": [
+        "orality-and-literacy-083",
+        "orality-and-literacy-084",
+        "orality-and-literacy-085"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-034",
+      "title": "What is 'Writing' or 'Script'?",
+      "summary": "Ong defines true writing as representation of utterance, not mere pictures or memory aids.",
+      "claim_ids": [
+        "orality-and-literacy-086",
+        "orality-and-literacy-087",
+        "orality-and-literacy-088"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-035",
+      "title": "Many Scripts but Only One Alphabet",
+      "summary": "Ong surveys world writing systems and explains the unique invention of the alphabet.",
+      "claim_ids": [
+        "orality-and-literacy-089",
+        "orality-and-literacy-090",
+        "orality-and-literacy-091",
+        "orality-and-literacy-092"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-036",
+      "title": "The Onset of Literacy",
+      "summary": "Ong describes how writing first enters cultures and its initial effects.",
+      "claim_ids": [
+        "orality-and-literacy-093",
+        "orality-and-literacy-094",
+        "orality-and-literacy-095",
+        "orality-and-literacy-096"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-037",
+      "title": "From Memory to Written Records",
+      "summary": "Ong shows how cultures slowly transferred authority from memory to written documentation.",
+      "claim_ids": [
+        "orality-and-literacy-097",
+        "orality-and-literacy-098",
+        "orality-and-literacy-099",
+        "orality-and-literacy-100"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-038",
+      "title": "Some Dynamics of Textuality",
+      "summary": "Ong explores how textual conditions differ from oral communication contexts.",
+      "claim_ids": [
+        "orality-and-literacy-101",
+        "orality-and-literacy-102",
+        "orality-and-literacy-103",
+        "orality-and-literacy-104"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-039",
+      "title": "Distance, Precision, Grapholects and Magnavocabularies",
+      "summary": "Ong examines how writing's distancing effects enable new forms of precision and vocabulary expansion.",
+      "claim_ids": [
+        "orality-and-literacy-105",
+        "orality-and-literacy-106",
+        "orality-and-literacy-107",
+        "orality-and-literacy-108",
+        "orality-and-literacy-109"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-040",
+      "title": "Interactions: Rhetoric and the Places",
+      "summary": "Ong traces how the ancient art of rhetoric mediated between oral and written cultures.",
+      "claim_ids": [
+        "orality-and-literacy-110",
+        "orality-and-literacy-111",
+        "orality-and-literacy-112",
+        "orality-and-literacy-113"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-041",
+      "title": "Interactions: Learned Languages",
+      "summary": "Ong analyzes how Latin became a purely academic language controlled entirely by writing.",
+      "claim_ids": [
+        "orality-and-literacy-114",
+        "orality-and-literacy-115",
+        "orality-and-literacy-116",
+        "orality-and-literacy-117",
+        "orality-and-literacy-118"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-042",
+      "title": "Tenaciousness of Orality",
+      "summary": "Ong demonstrates how oral residue persisted long after writing's introduction.",
+      "claim_ids": [
+        "orality-and-literacy-119",
+        "orality-and-literacy-120",
+        "orality-and-literacy-121",
+        "orality-and-literacy-122"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-043",
+      "title": "Print, Space and Closure",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-044",
+      "title": "Hearing-Dominance Yields to Sight-Dominance",
+      "summary": "Ong traces how print technology shifted the balance from auditory to visual processing of text.",
+      "claim_ids": [
+        "orality-and-literacy-123",
+        "orality-and-literacy-124",
+        "orality-and-literacy-125",
+        "orality-and-literacy-126",
+        "orality-and-literacy-127"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-045",
+      "title": "Space and Meaning",
+      "summary": "Ong examines how print's spatial organization created new possibilities for meaning-making.",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-046",
+      "title": "(i) Indexes",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-128",
+        "orality-and-literacy-129",
+        "orality-and-literacy-130"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-047",
+      "title": "(ii) Books, contents and labels",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-131",
+        "orality-and-literacy-132"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-048",
+      "title": "(iii) Meaningful surface",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-133",
+        "orality-and-literacy-134"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-049",
+      "title": "(iv) Typographic space",
+      "summary": "",
+      "claim_ids": [
+        "orality-and-literacy-135",
+        "orality-and-literacy-136",
+        "orality-and-literacy-137"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-050",
+      "title": "More Diffuse Effects",
+      "summary": "Ong surveys additional ways print affected Western thought and culture.",
+      "claim_ids": [
+        "orality-and-literacy-138",
+        "orality-and-literacy-139",
+        "orality-and-literacy-140",
+        "orality-and-literacy-141",
+        "orality-and-literacy-142"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-051",
+      "title": "Print and Closure: Intertextuality",
+      "summary": "Ong explores how print fostered sense of textual completeness and self-containment.",
+      "claim_ids": [
+        "orality-and-literacy-143",
+        "orality-and-literacy-144",
+        "orality-and-literacy-145",
+        "orality-and-literacy-146",
+        "orality-and-literacy-147"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-052",
+      "title": "Post-Typography: Electronics",
+      "summary": "Ong briefly surveys how electronic media both intensify and transform print effects.",
+      "claim_ids": [
+        "orality-and-literacy-148",
+        "orality-and-literacy-149",
+        "orality-and-literacy-150",
+        "orality-and-literacy-151",
+        "orality-and-literacy-152"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-053",
+      "title": "Oral Memory, the Story Line and Characterization",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-054",
+      "title": "The Primacy of the Story Line",
+      "summary": "Ong establishes narrative's fundamental importance across all verbal art forms and cultural levels.",
+      "claim_ids": [
+        "orality-and-literacy-153",
+        "orality-and-literacy-154",
+        "orality-and-literacy-155"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-055",
+      "title": "Narrative and Oral Cultures",
+      "summary": "Ong explains why narrative serves special functions in primary oral cultures.",
+      "claim_ids": [
+        "orality-and-literacy-156",
+        "orality-and-literacy-157",
+        "orality-and-literacy-158"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-056",
+      "title": "Oral Memory and the Story Line",
+      "summary": "Ong contrasts oral narrative structure with literate plot expectations.",
+      "claim_ids": [
+        "orality-and-literacy-159",
+        "orality-and-literacy-160",
+        "orality-and-literacy-161",
+        "orality-and-literacy-162"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-057",
+      "title": "Closure of Plot: Travelogue to Detective Story",
+      "summary": "Ong traces development of linear plotting from orality through print culture.",
+      "claim_ids": [
+        "orality-and-literacy-163",
+        "orality-and-literacy-164",
+        "orality-and-literacy-165",
+        "orality-and-literacy-166",
+        "orality-and-literacy-167"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-058",
+      "title": "The 'Round' Character, Writing and Print",
+      "summary": "Ong traces evolution of characterization from oral \"flat\" to literate \"round\" characters.",
+      "claim_ids": [
+        "orality-and-literacy-168",
+        "orality-and-literacy-169",
+        "orality-and-literacy-170",
+        "orality-and-literacy-171",
+        "orality-and-literacy-172"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-059",
+      "title": "Some Theorems",
+      "summary": "Ong presents theoretical implications of orality-literacy studies for various academic fields.",
+      "claim_ids": []
+    },
+    {
+      "id": "orality-and-literacy-ch-060",
+      "title": "Literary History",
+      "summary": "Ong outlines opportunities for orality-literacy analysis in understanding literary development.",
+      "claim_ids": [
+        "orality-and-literacy-173",
+        "orality-and-literacy-174",
+        "orality-and-literacy-175"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-061",
+      "title": "New Criticism and Formalism",
+      "summary": "Ong analyzes text-bound critical schools in light of orality-literacy dynamics.",
+      "claim_ids": [
+        "orality-and-literacy-176",
+        "orality-and-literacy-177",
+        "orality-and-literacy-178"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-062",
+      "title": "Structuralism",
+      "summary": "Ong evaluates structuralist analysis of oral narrative and its limitations.",
+      "claim_ids": [
+        "orality-and-literacy-179",
+        "orality-and-literacy-180",
+        "orality-and-literacy-181"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-063",
+      "title": "Textualists and Deconstructionists",
+      "summary": "Ong critiques postmodern textual theory for historical unreflectiveness about orality-literacy shift.",
+      "claim_ids": [
+        "orality-and-literacy-182",
+        "orality-and-literacy-183",
+        "orality-and-literacy-184",
+        "orality-and-literacy-185"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-064",
+      "title": "Speech-act and Reader-response Theory",
+      "summary": "Ong suggests how orality-literacy contrasts could enhance these approaches.",
+      "claim_ids": [
+        "orality-and-literacy-186",
+        "orality-and-literacy-187",
+        "orality-and-literacy-188"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-065",
+      "title": "Social Sciences, Philosophy, Biblical Studies",
+      "summary": "Ong surveys opportunities for orality-literacy analysis across academic disciplines.",
+      "claim_ids": [
+        "orality-and-literacy-189",
+        "orality-and-literacy-190",
+        "orality-and-literacy-191"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-066",
+      "title": "Orality, Writing and Being Human",
+      "summary": "Ong argues for positive understanding of orality while maintaining literacy's necessity.",
+      "claim_ids": [
+        "orality-and-literacy-192",
+        "orality-and-literacy-193",
+        "orality-and-literacy-194"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-067",
+      "title": "'Media' versus Human Communication",
+      "summary": "Ong critiques pipeline model of communication in favor of intersubjective understanding.",
+      "claim_ids": [
+        "orality-and-literacy-195",
+        "orality-and-literacy-196",
+        "orality-and-literacy-197"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-068",
+      "title": "The Inward Turn: Consciousness and the Text",
+      "summary": "Ong connects orality-literacy evolution to broader patterns of consciousness development.",
+      "claim_ids": [
+        "orality-and-literacy-198",
+        "orality-and-literacy-199",
+        "orality-and-literacy-200",
+        "orality-and-literacy-201"
+      ]
+    },
+    {
+      "id": "orality-and-literacy-ch-069",
+      "title": "After Ongism",
+      "summary": "John Hartley examines contemporary relevance and criticisms of Ong's work in the digital age.",
+      "claim_ids": [
+        "orality-and-literacy-202",
+        "orality-and-literacy-203",
+        "orality-and-literacy-204",
+        "orality-and-literacy-205",
+        "orality-and-literacy-206",
+        "orality-and-literacy-207",
+        "orality-and-literacy-208"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 208,
+    "chapter_count": 69,
+    "indexed_at": "2026-01-22T19:42:50.861442Z"
+  }
+}

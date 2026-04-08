@@ -1,0 +1,10 @@
+{
+  "framework": "hugo",
+  "buildCommand": "npm run vercel-build",
+  "outputDirectory": "blog/public",
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.153.5"
+    }
+  }
+}

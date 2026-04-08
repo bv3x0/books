@@ -1,0 +1,2452 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Seminar of Jacques Lacan, Book I: Freud's Papers on Technique 1953-1954",
+    "author": "Jacques Lacan",
+    "year": 1988,
+    "categories": [
+      "psychology",
+      "philosophy",
+      "social science"
+    ],
+    "thesis": "Psychoanalytic technique must be grounded in the primacy of speech and the symbolic order rather than ego psychology, because the unconscious is structured as a discourse addressed to the other, and analytic progress consists in the subject's symbolic reintegration of repressed history rather than ego strengthening or adaptation to reality."
+  },
+  "claims": [
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--001",
+      "text": "Freud's originality lay not in scientistic mechanism but in his willingness to take meaning seriously\u2014to treat dreams, neurotic symptoms, and personal history as bearers of truth about the subject's desire and relations to others.",
+      "chapter": "Overture to the Seminar",
+      "concepts": [
+        "hermeneutics",
+        "scientific_reductionism",
+        "subjectivity"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Br\u00fccke",
+          "Helmholtz",
+          "Du Bois-Reymond",
+          "Ludwig"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Interpretation of Dreams"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Br\u00fccke, Ludwig, Helmholtz, and Du Bois-Reymond had pledged that everything reduces to physical forces of attraction and repulsion; Freud went beyond them by also taking seriously the antinomies of his own childhood and neurotic problems.",
+          "speaker": null
+        },
+        {
+          "text": "The interpretation of a dream always implicates 'the subjectivity of the subject, in his desires, in his relation to his environment, to others, to life itself.'",
+          "speaker": "Lacan"
+        }
+      ]
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--002",
+      "text": "The analytic task is to reintegrate the register of meaning at its own level, not as a regression to archaic thought but as a rigorous discipline of speech and conceptualization.",
+      "chapter": "Overture to the Seminar",
+      "concepts": [
+        "conceptual_revision",
+        "language_and_thought",
+        "symbolic_order"
+      ],
+      "entities": {
+        "people": [
+          "Lavoisier",
+          "Moli\u00e8re",
+          "Jones"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Le Bourgeois Gentilhomme"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Concepts do not emerge cleanly from experience; every science remains 'in darkness for a long time, entangled in language,' and the transition from wrong language to right concepts (as from phlogiston to oxygen) is the work of scientific revolution.",
+          "speaker": null
+        },
+        {
+          "text": "The super-ego is a law deprived of meaning but sustained entirely by language\u2014the 'you' is so fundamental it arises before consciousness.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--003",
+      "text": "Freud's self-analysis was constitutive of the method itself: the analyst's own neurosis, far from disqualifying him, is what enabled Freud to open the path of analytic experience, because progress in the analysis of neurosis required analyzing oneself.",
+      "chapter": "Overture to the Seminar",
+      "concepts": [
+        "self_analysis",
+        "counter_transference",
+        "analytic_structure"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Jung"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The growing importance attributed to counter-transference confirms that in analysis 'the patient is not alone. There are two of us\u2014and not only two.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "The analytic situation is a structure in which phenomena are only isolable within the specific triadic structure of subjectivity, not in a two-person psychology.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--004",
+      "text": "The Papers on Technique span the period 1904\u20131919, between Freud's seminal clinical experience and the structural theory of ego, id, and super-ego, and their unity consists in representing a stage in Freud's development centered on the restitution of the subject's history.",
+      "chapter": "Introduction to the commentaries on Freud's Papers on Technique",
+      "concepts": [
+        "psychoanalytic_history",
+        "historical_reconstruction",
+        "technique"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [
+          "Clark University lectures 1909"
+        ],
+        "works": [
+          "Papers on Technique",
+          "Studien \u00fcber Hysterie",
+          "The Interpretation of Dreams",
+          "Konstruktionen in der Analyse"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The 1904 article on psychoanalytic procedure, the 1909 Clark University lectures, and the 1934 'Constructions in Analysis' all share the same orientation: the reconstruction of the subject's past.",
+          "speaker": null
+        },
+        {
+          "text": "Even Freud's 1934 article 'Konstruktionen in der Analyse' insists again on reconstruction as the central analytic task, representing 'the last word on what has been at stake all along' in cases like the Wolfman.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--005",
+      "text": "For Freud, the essential analytic task was never simply recalling the past affectively but rewriting history\u2014the stress falls on reconstruction over reliving, meaning the subject must assume and authenticate a symbolically reconstituted account of his existence.",
+      "chapter": "Introduction to the commentaries on Freud's Papers on Technique",
+      "concepts": [
+        "historical_reconstruction",
+        "memory",
+        "narrative_construction"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Wolfman case history",
+          "Analysis Terminable and Interminable"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Freud wrote that dreams are 'also a way of remembering' and that screen-memories themselves can render up equivalents of what analysis seeks, showing that what matters is the work of reconstruction, not the immediacy of reliving.",
+          "speaker": null
+        },
+        {
+          "text": "'When all is said and done, it is less a matter of remembering than of rewriting history.'",
+          "speaker": "Lacan"
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--006",
+      "text": "Contemporary analytic confusion arises because analysts use the Freudian theoretical vocabulary as a common currency while holding radically incompatible conceptions of what analysis does\u2014the shared language masks a radical diversity of technique.",
+      "chapter": "Introduction to the commentaries on Freud's Papers on Technique",
+      "concepts": [
+        "ego_psychology",
+        "object_relations",
+        "analytic_pluralism",
+        "intersubjectivity"
+      ],
+      "entities": {
+        "people": [
+          "Balint",
+          "Rickman",
+          "Anna Freud",
+          "Fenichel",
+          "Hartmann",
+          "Loewenstein",
+          "Kris"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Primary Love and Psycho-analytic Technique",
+          "The Ego and the Mechanisms of Defence"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The post-Freudian shift toward 'two-body psychology' and object-relations theory\u2014grouping counter-transference, object-relations, fantasy, and imaginary inter-reaction\u2014represents the most fertile but also most problematic development since Freud's death.",
+          "speaker": null
+        },
+        {
+          "text": "Balint and Rickman's concept of 'two-body psychology' cannot adequately ground analytic experience because there is 'no two-body psychology without the intervention of a third element'\u2014speech requires a triadic structure.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--007",
+      "text": "The ego, as Anna Freud's catalogue of defense mechanisms reveals, is structured exactly like a symptom\u2014a privileged symptom that is the 'mental illness of man'\u2014yet post-Freudian technique paradoxically treats it as the sole ally and instrument of analysis.",
+      "chapter": "Introduction to the commentaries on Freud's Papers on Technique",
+      "concepts": [
+        "ego_psychology",
+        "defense_mechanisms",
+        "symptom_formation"
+      ],
+      "entities": {
+        "people": [
+          "Anna Freud",
+          "Fenichel"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Ego and the Mechanisms of Defence"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Anna Freud's heterogeneous catalogue of defense mechanisms (repression, turning against the self, reversal of aim, etc.) places incommensurable operations side by side, revealing the profound incoherence of ego psychology's foundational concept.",
+          "speaker": null
+        },
+        {
+          "text": "Fenichel's claim that the ego is 'the function through which the subject learns the meaning of words' is a slip he does not pursue; if true, everything that follows in his account becomes incomprehensible.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--008",
+      "text": "Freud's early cathartic technique, from hypnosis to the pressure method with Lucy R., reveals that analytic progress was originally conceived as the traversal of stratified layers of discourse approaching a pathogenic nucleus\u2014resistance is the force exerted radially as discourse nears that nucleus.",
+      "chapter": "Preliminary comments on the problem of resistance",
+      "concepts": [
+        "resistance",
+        "pathogenic_nucleus",
+        "cathartic_method"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Anzieu",
+          "Mannoni"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Studies on Hysteria",
+          "The Interpretation of Dreams"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In the Studies on Hysteria, Freud describes the pathogenic material as organized like a 'score with several registers'\u2014parallel threads of discourse that broaden around the nucleus, with resistance acting in the radial direction as one tries to reach the repressed center.",
+          "speaker": null
+        },
+        {
+          "text": "The case of Lucy R. was resolved with 'an elegance that turns it into something quite striking,' detecting olfactory hysterical symptoms through precise location and dating\u2014showing Freud's method at its most primitive and beautiful.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--009",
+      "text": "The analytic method must be submitted to an analysis of itself\u2014the ups and downs of analytic theory and technique are themselves symptomatic traces that, if read dialectically, reveal the authentic nature of the unconscious experience analysis seeks to reconquer.",
+      "chapter": "Preliminary comments on the problem of resistance",
+      "concepts": [
+        "self_reflexivity",
+        "institutional_critique",
+        "dialectical_method"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Hyppolite"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Metapsychology",
+          "Repression (1915)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Just as analysis applies to neurosis the schema of reading repression in its derivatives, so the evolution of analytic theory\u2014its impasses, contradictions, and theoretical regressions\u2014can be read as the discourse of an experience that has not yet fully understood itself.",
+          "speaker": null
+        },
+        {
+          "text": "The question of whether resistance pertains solely to the ego, to consciousness, or to something more fundamental in the organization of the unconscious remains open and must be worked through by examining Freud's texts across periods.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--010",
+      "text": "Lacan defends Freud against the charge that his discovery of resistance reflects an authoritarian character, arguing the opposite: it was precisely Freud's renunciation of suggestion and hypnotic domination in favor of letting the subject integrate what resistances had separated him from that made psychoanalysis a respectful technique.",
+      "chapter": "Preliminary comments on the problem of resistance",
+      "concepts": [
+        "suggestion",
+        "hypnosis",
+        "analytic_ethics",
+        "power_relations"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Charcot",
+          "Breuer",
+          "Jones"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Charcot's hypnosis aimed at making the patient 'as supple as a glove'\u2014the domination of an object\u2014while Freud's recognition of resistance respected the subject by allowing him to assume his own meaning rather than receiving it by suggestion.",
+          "speaker": null
+        },
+        {
+          "text": "The claim that Freud's 'hypersensitivity' to resistance expresses authoritarian character mistakes the discoverer's capacity to face and name a phenomenon for the imposition of power it actually overcomes.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--011",
+      "text": "Margaret Little's case illustrates that an interpretation focused exclusively on the hic et nunc\u2014reading the patient's state as motivated by rivalry with the analyst in the present\u2014can produce immediate symptomatic relief while being analytically false, because it bypasses the subject's actual historical mourning.",
+      "chapter": "Resistance and the defences",
+      "concepts": [
+        "hic_et_nunc",
+        "interpretation",
+        "mourning",
+        "counter_transference"
+      ],
+      "entities": {
+        "people": [
+          "Margaret Little",
+          "Lacan"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "International Journal of Psycho-analysis 1951"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "A patient gave a radio broadcast days after his mother's death, arrived in confusion at the next session, and Little interpreted his state as stemming from rivalry with her over the broadcast topic\u2014the patient 'recovered his spirits' instantly but the real cause (mourning inversion) only became clear a year later.",
+          "speaker": null
+        },
+        {
+          "text": "'The fact that the subject comes out of a confused state of mind following an intervention by the analyst by no means proves that it was effective in the strictly therapeutic, structuring sense of the word.'",
+          "speaker": "Lacan"
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--012",
+      "text": "Interpretation from ego to ego\u2014where the analyst reads in the patient's behavior a feeling that is merely the symmetrical reflection of the analyst's own\u2014operates on the principle that feelings in a two-person relation are always reciprocal, but this structural truth does not validate such interpretations as analytically true.",
+      "chapter": "Resistance and the defences",
+      "concepts": [
+        "imaginary_relation",
+        "projection",
+        "dyadic_relation",
+        "interpretation"
+      ],
+      "entities": {
+        "people": [
+          "Margaret Little"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In any sufficiently intimate two-person relation, feelings are always reciprocated: if the analyst had feelings of irritation, the patient's acceptance of a corresponding interpretation is guaranteed not by its truth but by the structure of imaginary reciprocity.",
+          "speaker": null
+        },
+        {
+          "text": "Interpretation of defense 'should always have at least a third term'\u2014reducing it to a two-person mirror relation makes it structurally indistinguishable from projection.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--013",
+      "text": "Freud's definition of resistance in The Interpretation of Dreams\u2014'everything which destroys/suspends the continuation of the analytic work'\u2014is far broader than 'obstacles to interpretation,' and must be understood in relation to the entire dimension of the subject's discourse and its history.",
+      "chapter": "Resistance and the defences",
+      "concepts": [
+        "resistance",
+        "translation_problems",
+        "discourse",
+        "repression"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Meyerson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Interpretation of Dreams",
+          "Studies on Hysteria"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The German 'Was immer die Fortsetzung der Arbeit st\u00f6rt ist ein Widerstand' was mistranslated into French as 'every obstacle to interpretation stems from psychical resistance,' losing the reference to the work as such.",
+          "speaker": null
+        },
+        {
+          "text": "In the Studies on Hysteria, Freud defines the pathogenic nucleus as 'what is being sought, but which repels the discourse\u2014what discourse shuns': resistance is the inflexion discourse adopts on approaching the nucleus.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--014",
+      "text": "Transference appears in Freud's 'Dynamics of Transference' not as a global phenomenon but as the specific result of resistance at the point where the subject's discourse approaches the pathogenic complex\u2014when resistance is maximal, the element of the complex capable of being transferred fills consciousness in preference to all other associations.",
+      "chapter": "The ego and the other",
+      "concepts": [
+        "transference",
+        "resistance",
+        "pathogenic_complex",
+        "presence"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Dynamics of Transference",
+          "The Interpretation of Dreams"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Freud writes that at the moment a subject gets close to a pathogenic complex, 'the transference-idea is arrived at in preference to all other possible associations capable of sliding into consciousness, precisely because it satisfies the resistance.'",
+          "speaker": "Freud"
+        },
+        {
+          "text": "The practical correlate: when a subject's discourse dries up and he suddenly says 'I am aware all of a sudden of the fact of your presence'\u2014this is the purest form of the transference-resistance junction, the pivot from revelatory to relational speech.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--015",
+      "text": "The forgetting of Signorelli illustrates how the arrested arrival of full speech\u2014speech that would have confessed something about death and mastery\u2014leaves only the debris of the unspoken discourse as scraps with which the subject continues to address the other.",
+      "chapter": "The ego and the other",
+      "concepts": [
+        "forgetting",
+        "repression",
+        "full_speech",
+        "speech_and_being"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [
+          "Ragusa",
+          "Bosnia-Herzegovina",
+          "Orvieto"
+        ],
+        "events": [],
+        "works": [
+          "The Psychopathology of Everyday Life"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "During a conversation about death (a patient's death, the value Muslims placed on sexual potency) that Freud could not complete with his traveling companion, the word 'Herr' (absolute master/death) was implicitly called up, and its unavailability 'beheaded' Signorelli from memory.",
+          "speaker": null
+        },
+        {
+          "text": "The phenomenon of forgetting is 'literally made manifest by the degradation of speech in its relation to the other': what remains is only the debris of what should have been said.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--016",
+      "text": "The distinction between Verwerfung and Verdr\u00e4ngung in the Wolfman case reveals that repression proper presupposes a more fundamental rejection\u2014a primal non-symbolization in which something is foreclosed from the symbolic register entirely, as if it did not exist.",
+      "chapter": "The ego and the other",
+      "concepts": [
+        "foreclosure",
+        "repression",
+        "symbolic_order",
+        "psychosis"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Wolfman case history",
+          "From the History of an Infantile Neurosis"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Freud writes 'Eine Verdr\u00e4ngung ist etwas anderes als eine Verwerfung'\u2014a repression is something other than a rejection: the Wolfman's refusal to symbolize the genital plane left no trace in the symbolic register, only a hallucinatory appearance in the real.",
+          "speaker": "Freud"
+        },
+        {
+          "text": "The French translation renders Verwerfung as 'a judgment which rejects and chooses,' incorrectly introducing Urteil (judgment) where none is present, obscuring the radical character of foreclosure.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--017",
+      "text": "Resistance is not simply a property of the ego's defenses but emerges from the subject's fundamental incapacity to reach full revelatory speech\u2014when speech cannot complete its trajectory toward being, it seesaws entirely into its other function as address to the other, generating the imaginary ego-other system.",
+      "chapter": "The ego and the other",
+      "concepts": [
+        "ego_formation",
+        "imaginary_relation",
+        "alienation",
+        "speech_theory"
+      ],
+      "entities": {
+        "people": [
+          "Sterba",
+          "Piaget"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The ego is constituted in relation to the other as its correlate: 'the ego has a reference to the other. The ego is constituted in relation to the other. It is its correlate. The level on which the other is experienced locates exactly the level on which, quite literally, the ego exists for the subject.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "The vicious circle of ego-centered analysis is that the more the emphasis is placed on the ego-related aspect of resistances, the more the subject alienates himself in affirming himself as ego.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--018",
+      "text": "Freud's Verneinung (1925) distinguishes two levels: Bejahung, the primary affirmation that constitutes something as existing for the subject in the symbolic register, and negation proper, which operates at a lower level to constitute the subject-object relation\u2014this difference is obscured by treating 'd\u00e9n\u00e9gation' and simple 'n\u00e9gation' as equivalent.",
+      "chapter": "Introduction and reply to Jean Hyppolite's presentation of Freud's Verneinung",
+      "concepts": [
+        "affirmation",
+        "negation",
+        "symbolic_order",
+        "foreclosure"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Hyppolite"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Die Verneinung (1925)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Hyppolite's commentary shows that the condition for anything to exist for a subject is Bejahung\u2014this is not the negation of a negation but a primary symbolic act\u2014and its absence (as in the Wolfman's foreclosure of the genital plane) means the foreclosed element cannot appear in the symbolic register at all.",
+          "speaker": null
+        },
+        {
+          "text": "The false opposition of 'intellectual' versus 'affective' in analytic theory is dissolved once one sees that 'the affective is not like a special density which would escape an intellectual accounting'\u2014both are functions of the symbolic.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--019",
+      "text": "In the Wolfman's case, the absence of Bejahung for the genital plane means castration 'irrupts into consciousness in the form of the seen'\u2014as a hallucination\u2014because what is not symbolized returns not in the symbolic register but in the real as a perceived phenomenon.",
+      "chapter": "Introduction and reply to Jean Hyppolite's presentation of Freud's Verneinung",
+      "concepts": [
+        "hallucination",
+        "foreclosure",
+        "symbolic_failure",
+        "psychosis"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Wolfman case history"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Wolfman imagined having cut his little finger so it hung by a piece of skin: a castration that had never been symbolized appeared as a minor hallucination, with the annihilation of the other as its correlate.",
+          "speaker": null
+        },
+        {
+          "text": "The formula: 'what is not recognised irrupts into consciousness in the form of the seen'\u2014establishing the correlation between non-Bejahung and hallucination as its structural consequence.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--020",
+      "text": "Kris's case of the plagiarist shows that what Kris calls 'surface interpretation' only works because it reaches the subject's fundamental relation to the negation structuring his ego\u2014the patient's response (seeking 'fresh brains') is full speech because the interpretation touched the level of the ego-ideal's inversion.",
+      "chapter": "Introduction and reply to Jean Hyppolite's presentation of Freud's Verneinung",
+      "concepts": [
+        "ego_ideal",
+        "negation",
+        "interpretation",
+        "full_speech"
+      ],
+      "entities": {
+        "people": [
+          "Kris"
+        ],
+        "places": [
+          "New York"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The patient compulsively feared plagiarizing his interlocutor; Kris discovered the published article contained none of the patient's central theses, and interpreted the dynamic as a need for a grand creative father. The patient's response\u2014going immediately to eat 'fresh brains'\u2014was an instance of paradoxical, full speech confirming the interpretation reached the symbolic.",
+          "speaker": null
+        },
+        {
+          "text": "The primitive desire of the subject always contains 'this fundamental, original element of negation' in its relation to the other, here appearing as inversion: the subject can only reflect his ideal ego in an inverted form.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--021",
+      "text": "Anna Freud's analysis of a patient defending against anxiety by contempt illustrates the error of interpreting the defense as a transference reaction to Anna Freud herself\u2014this ego-to-ego reading is sterile because it remains in the dual relation, missing the symbolic third term (the patient's identification with her dead father).",
+      "chapter": "Discourse analysis and ego analysis",
+      "concepts": [
+        "defense_analysis",
+        "ego_psychology",
+        "transference",
+        "oedipus_complex"
+      ],
+      "entities": {
+        "people": [
+          "Anna Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Ego and the Mechanisms of Defence",
+          "Outline of Psycho-analysis"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Anna Freud initially interpreted the patient's contemptuous mockery as directed at her, found this unproductive, and only later realized the defense was the patient's habitual attitude toward herself (identification with her father who mocked her emotional outbursts), so the analyst had become 'the recipient of these defensive reactions only secondarily.'",
+          "speaker": null
+        },
+        {
+          "text": "What Anna Freud calls 'analysis of defenses against affect' is only one step in her own understanding, not the subject's: the path to symbolic structuration required recognizing the patient's identification with the father as a function of the Oedipal order.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--022",
+      "text": "Melanie Klein's treatment of Dick demonstrates that direct symbolic verbalization of the Oedipal myth\u2014'brutal' and theoretically ungrounded as it appears\u2014produces genuine analytic effect because it grafts the primary symbolizations of human structure onto a child who has no symbolic function, thereby enabling the imaginary to begin its normal play.",
+      "chapter": "Discourse analysis and ego analysis",
+      "concepts": [
+        "symbolic_order",
+        "imaginary_register",
+        "child_analysis",
+        "psychosis"
+      ],
+      "entities": {
+        "people": [
+          "Melanie Klein",
+          "Dick"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Importance of Symbol-Formation in the Development of the Ego (1930)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Dick (approximately 4 years old but developmentally at 15\u201318 months) showed no anxiety, no call, no desire for communication\u2014he was 'eyeball to eyeball with reality' with a real and imaginary that were equivalent and undifferentiated, and no symbolic register mediating them.",
+          "speaker": null
+        },
+        {
+          "text": "When Klein said 'Dick little train, big train daddy-train' and the child said 'station' and Klein replied 'The station is mummy, Dick is going into mummy,' something started firing: 'the unconscious is the discourse of the other'\u2014there was no unconscious in Dick, it was Klein's discourse that was grafted onto him.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--023",
+      "text": "The distinction between introjection and projection clarifies the difference between ego functions and super-ego functions: projection is an imaginary operation, while introjection is always the introjection of the speech of the other, introducing the symbolic dimension.",
+      "chapter": "Discourse analysis and ego analysis",
+      "concepts": [
+        "introjection",
+        "projection",
+        "super_ego",
+        "symbolic_order"
+      ],
+      "entities": {
+        "people": [
+          "Melanie Klein",
+          "Anna Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Unlike projection, 'introjection is always the introjection of the speech of the other, which introduces an entirely different dimension'\u2014it is always accompanied by symbolic denomination, which is why it is associated with the super-ego rather than the ego.",
+          "speaker": null
+        },
+        {
+          "text": "In Dick's treatment, the call\u2014verbal, addressed to another\u2014was the pivotal therapeutic moment, marking his entry into the symbolic relation: 'it is the possibility of refusal' that the call introduces, and with it, dependency relations.",
+          "speaker": null
+        }
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--024",
+      "text": "The optical apparatus of the inverted bouquet\u2014in which a concave mirror produces a real image of a hidden bouquet inside the neck of a real vase\u2014models the structure of the ego: the imaginary vase (body image) contains and gives form to real flowers (drives and desires) through the play of reflection.",
+      "chapter": "The topic of the imaginary",
+      "concepts": [
+        "mirror_stage",
+        "body_image",
+        "imaginary_register",
+        "ego_formation"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Traumdeutung",
+          "Abriss (Outline of Psycho-analysis)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The image of the body, located in the schema as 'the imaginary vase which contains the bouquet of real flowers,' represents the function of the mirror stage: it gives the subject the first form through which he can locate what pertains to the ego and what does not, prior to motor mastery.",
+          "speaker": null
+        },
+        {
+          "text": "Because it is an anticipation\u2014giving imaginary mastery over the body before real mastery exists\u2014it 'will leave its mark on every subsequent exercise of effective motor mastery' and remains structurally formative throughout life.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--025",
+      "text": "The position of the eye/subject in the optical apparatus is decisive for whether an organized imaginary world appears: only when the subject is within the cone of the spherical mirror's emission does the illusion constitute itself, and in man this positioning is governed by the symbolic relation\u2014one's place in language.",
+      "chapter": "The topic of the imaginary",
+      "concepts": [
+        "symbolic_subject",
+        "imaginary_structuration",
+        "language_and_reality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'The whole of science is based on reducing the subject to an eye'\u2014objectifying it\u2014while the position of the subject in reality depends on its place in the symbolic world, in the world of speech: 'Whether he has the right to, or is prohibited from, calling himself Pedro hangs on this place.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "The eye here is 'symbolic of the subject': depending on symbolic position, the subject is either inside the field where the imaginary structures reality, or outside it, seeing only the naked, unorganized real.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--026",
+      "text": "Dick's case demonstrates what happens when the subject is entirely in reality without symbolic mediation: when the bouquet (imaginary) and the vase (body image) cannot coincide, the subject remains in a fixed, undeveloped, but non-anxious reality\u2014Melanie Klein's symbolic intervention creates the first point of junction.",
+      "chapter": "The topic of the imaginary",
+      "concepts": [
+        "symbolic_intervention",
+        "reality_constitution",
+        "imaginary_register",
+        "child_psychosis"
+      ],
+      "entities": {
+        "people": [
+          "Melanie Klein",
+          "Dick"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Dick could not undertake the free play of imaginary equivalences between objects that normally diversifies the human world; he was 'in the undifferentiated' without ego, without anxiety, without the possibility of substitution.",
+          "speaker": null
+        },
+        {
+          "text": "Klein's verbalization 'plastered on the symbolisation of the Oedipal myth,' giving Dick 'a little palpitating cell of symbolism' from which the imaginary and real began to be structured through successive investments\u2014the child's first verbalised call followed immediately.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--027",
+      "text": "Robert's clinical presentation\u2014hyperagitated, with no coordinated speech except 'Miss!' and 'Wolf!'\u2014represents the super-ego in its most reduced form: a single word of language that ties the child to the human community while embodying a ferocious, senseless imperative, simultaneously law and the destruction of law.",
+      "chapter": "The wolf! The wolf!",
+      "concepts": [
+        "super_ego",
+        "ferocious_figure",
+        "body_ego",
+        "law_and_language"
+      ],
+      "entities": {
+        "people": [
+          "Lefort",
+          "Robert"
+        ],
+        "places": [
+          "Paul Parquet hospital",
+          "Denfert"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Robert used 'Wolf!' as both an expression of terror and a self-representation; he hit his own image in a window glass while screaming it\u2014'the wolf was his own image'\u2014and the word organized his entire relation to destruction, containment, and loss.",
+          "speaker": null
+        },
+        {
+          "text": "'The super-ego is at one and the same time the law and its destruction. As such, it is speech itself, the commandment of law, in so far as nothing more than its root remains'\u2014'the You must which is speech deprived of all its meaning.'",
+          "speaker": "Lacan"
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--028",
+      "text": "The therapeutic trajectory moved from Robert's initial equation of self with indestructible/destructive contents (the 'Wolf!') through exorcism of the Wolf via the therapist's sustained presence, to the intra-uterine regression phase in which he literally constructed his body-ego through rituals of baptism by water and milk.",
+      "chapter": "The wolf! The wolf!",
+      "concepts": [
+        "body_ego",
+        "therapeutic_process",
+        "symbolic_construction",
+        "child_psychosis"
+      ],
+      "entities": {
+        "people": [
+          "Lefort",
+          "Robert"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "After shutting the therapist in the toilets and returning alone to the room\u2014the session in which he first held out his arms to be consoled\u2014Robert stopped saying 'Wolf!' entirely and began a new phase of construction.",
+          "speaker": null
+        },
+        {
+          "text": "The baptism scenes\u2014running water, then milk, down the length of his body while calling his own name 'Robert, Robert'\u2014showed the child literally constituting the permanence of his body and the distinction between container and contained.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--029",
+      "text": "Robert's case resists standard nosological classification\u2014it is not schizophrenia in the sense of a dissociated state but exhibits a schizophrenic structure of relation to the world, demonstrating that the backwardness of the imaginary function (not organic lesion) produces the disturbances of motor activity, sleep, and ego-synthesis observed.",
+      "chapter": "The wolf! The wolf!",
+      "concepts": [
+        "psychosis",
+        "ego_synthesis",
+        "motor_development",
+        "imaginary_register"
+      ],
+      "entities": {
+        "people": [
+          "Lefort",
+          "Robert",
+          "Lang"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Robert's motor disturbance\u2014if he failed to reach an object in one gesture he had to restart entirely\u2014indicated not a pyramidal system deficit but failures in ego-synthetic functions, since the imaginary mastery of the body had not been constituted.",
+          "speaker": null
+        },
+        {
+          "text": "'From the memorable day when he locked me up, his motor disturbances diminished, and this child, who neither slept nor dreamt, began to dream in the night, and to call his mother in his dreams.'",
+          "speaker": "Lefort"
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--030",
+      "text": "Freud wrote 'On Narcissism' against Jung's 1912 dissolution of the libido concept: if libido is generalized to cover all psychic interest, it loses its discriminating power between neurosis and psychosis, between the sexual and the self-preservative, and becomes merely an 'alternating spotlight' with no clinical traction.",
+      "chapter": "On narcissism",
+      "concepts": [
+        "libido_theory",
+        "narcissism",
+        "psychosis_vs_neurosis",
+        "jungian_critique"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Jung"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On Narcissism: An Introduction (1914)",
+          "Wandlungen und Symbole der Libido (1912)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Jung's concept of 'introversion'\u2014the libido withdrawing into the internal world\u2014is without distinction (ohne Unterscheidung) and cannot explain the structural difference between the anchorite's voluntary withdrawal from reality and the schizophrenic's being 'completely stuck.'",
+          "speaker": null
+        },
+        {
+          "text": "Freud's distinction between ego-libido and object-libido, though energetically equivalent, is essential to the theory of the neuroses and must be maintained even if their origin is indistinguishable at the level of primary narcissism.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--031",
+      "text": "The key difference Freud draws between neurosis and psychosis in 'On Narcissism' is that the neurotic retains libidinal relations to objects in fantasy (using the imaginary as substitute), while the psychotic withdraws libido from people and things without imaginary replacement\u2014a distinction that shows the imaginary function cannot mean simply 'unreal.'",
+      "chapter": "On narcissism",
+      "concepts": [
+        "neurosis_vs_psychosis",
+        "imaginary_register",
+        "libidinal_withdrawal",
+        "fantasy"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Jung"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On Narcissism: An Introduction (1914)",
+          "Schreber case"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Freud: 'A patient suffering from hysteria or obsessional neurosis has also given up his relation to reality... [but] he has, on the one hand, substituted for real objects imaginary ones from his memory... The paraphrenic has really withdrawn his libido from people and things in the external world, without replacing them by others in phantasy.'",
+          "speaker": "Freud"
+        },
+        {
+          "text": "If the imaginary cannot mean the unreal (since the psychotic is often full of imagery), the specific structure of the psychotic should be located in 'a symbolic unreal, or in a symbolic unmarked by the unreal'\u2014pointing to the primacy of the symbolic register even in psychosis.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--032",
+      "text": "Full speech\u2014speech that performs, that transforms both subjects\u2014is the proper dimension of the analytic experience, and the analytic method paradoxically begins by freeing the subject from the obligations of full speech (via free association) in order to eventually reach it.",
+      "chapter": "On narcissism",
+      "concepts": [
+        "full_speech",
+        "free_association",
+        "recognition",
+        "performative_speech"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'Full speech is speech which aims at, which forms, the truth such as it becomes established in the recognition of one person by another. Full speech is speech which performs'\u2014one of the subjects finds himself afterwards other than he was before.",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "The paradox is that free association, by releasing the subject from the obligations of coherent discourse, facilitates his return to the dimension of speech that is below the level of recognition\u2014yet this is precisely the path through which full speech eventually becomes possible.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--033",
+      "text": "Ethological evidence from Lorenz and Tinbergen demonstrates that sexual behavior in animals is governed by imaginary releasing mechanisms\u2014the male stickleback responds to a poorly made cut-out bearing certain markings just as to a real partner\u2014showing that sexual behavior is essentially 'prone to the lure' and structured around images rather than real objects.",
+      "chapter": "The two narcissisms",
+      "concepts": [
+        "ethology",
+        "imaginary_register",
+        "sexual_behavior",
+        "species_type"
+      ],
+      "entities": {
+        "people": [
+          "Lorenz",
+          "Tinbergen",
+          "Weissmann"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The male stickleback's beautiful coloring and the female's responding dance are governed not by the individual animal but by certain Gestalten (markings): 'the mechanical throwing into gear of the sexual instinct is thus essentially crystallised in a relation of images, in an imaginary relation.'",
+          "speaker": null
+        },
+        {
+          "text": "The theory of the germ-plasm (Weissmann) implies that from the species' point of view the individual is 'already dead'\u2014it reproduces not itself but the type, which is supported by the image\u2014'not this or that horse, but The Horse.'",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--034",
+      "text": "The optical schema with a plane mirror added to the spherical mirror models the two narcissisms: the first (real image from spherical mirror) corresponds to the body image that organizes reality for all living creatures; the second (virtual image in the plane mirror) corresponds to the human ego-ideal constituted through the relation to the other.",
+      "chapter": "The two narcissisms",
+      "concepts": [
+        "narcissism",
+        "ego_ideal",
+        "mirror_stage",
+        "optical_schema"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Mannoni"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On Narcissism: An Introduction (1914)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The first narcissism is found on the level of the real image\u2014it makes possible the organization of reality into a limited number of preformed frameworks and is shared by humans and animals.",
+          "speaker": null
+        },
+        {
+          "text": "The second narcissism\u2014'identification with the other which, under normal circumstances, enables man to locate precisely his imaginary and libidinal relation to the world'\u2014requires the plane mirror, i.e., the reflective relation to an other, and introduces the ego-ideal (Ichideal) as its guide.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--035",
+      "text": "Freud in 'On Narcissism' uses both Idealich (ideal ego) and Ichideal (ego-ideal) in the same paragraph, indicating two distinct functions: the ideal ego is the imaginary totality of the body that self-love was originally invested in, while the ego-ideal is a new psychical form imposed from without that the ego strives to match\u2014the schema shows these correspond to different registers.",
+      "chapter": "Ego-ideal and ideal ego",
+      "concepts": [
+        "ego_ideal",
+        "ideal_ego",
+        "narcissism",
+        "symbolic_vs_imaginary"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Leclaire"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On Narcissism: An Introduction (1914)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Freud writes that narcissism 'makes its appearance displaced on to this new ideal ego' and 'he seeks to recover it in the new form of an ego-ideal'\u2014in the same paragraph\u2014revealing a crucial ambiguity between the imaginary captating image and the symbolic law-governed ideal.",
+          "speaker": null
+        },
+        {
+          "text": "'The ego-ideal is imposed from without and satisfaction is brought about from fulfilling this ideal'\u2014this displacement from primary narcissism through a middle term (the ideal) and return to a reconstituted state is 'the very image of development.'",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--036",
+      "text": "The symbolic relation governs the imaginary: the inclination of the plane mirror (representing the symbolic intersubjective relation) determines whether the subject sees his ideal ego clearly or poorly\u2014the ego-ideal as the speaking other sets the condition for the successful structuration of the imaginary.",
+      "chapter": "Ego-ideal and ideal ego",
+      "concepts": [
+        "symbolic_regulation",
+        "imaginary_captation",
+        "love",
+        "ego_ideal"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Goethe"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Sorrows of Young Werther"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "'The symbolic relation which defines the position of the subject as seeing. It is speech, the symbolic relation, which determines the greater or lesser degree of perfection, of completeness, of approximation, of the imaginary.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "The Ichideal (ego-ideal) governs the interplay of relations on which all relations with others depend; the Idealich (ideal ego) is the imaginary narcissistic captating image of the specular stage. When the Ichideal is confused with the Idealich\u2014when the speaking other collapses into the captating image\u2014'the apparatus can't be regulated any longer. In other words, when you're in love, you are mad.'",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--037",
+      "text": "Sublimation is distinguished from idealization in Freud's text: idealization elevates the object without modifying the nature of the drive (imaginary plane), while sublimation changes the aim of the drive toward non-sexual goals (symbolic plane)\u2014their conflation produces the theoretical confusion between ego formation and symbolic realization.",
+      "chapter": "Ego-ideal and ideal ego",
+      "concepts": [
+        "sublimation",
+        "idealization",
+        "symbolic_vs_imaginary",
+        "repression"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Abraham",
+          "Ferenczi"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On Narcissism: An Introduction (1914)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "'One is on the plane of the imaginary, and the other is on the plane of the symbolic\u2014since the demand of the Ichideal takes up its place within the totality of demands of the law.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "Successful sublimation 'opens up the expedient of satisfying this demand without involving repression'\u2014whereas idealization heightens the demands of the ego and encourages repression, because the image cannot be sustained.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--038",
+      "text": "The addition of a plane mirror to the optical schema models the human condition: because human desire must pass through the other's image, the subject cannot directly see the real image (his libidinal being) but only its virtual reflection in the mirror\u2014this indirection is constitutive of specifically human desire, which 'is the desire of the other.'",
+      "chapter": "Zeitlich-Entwicklungsgeschichte",
+      "concepts": [
+        "desire",
+        "specular_relation",
+        "death_drive",
+        "prematuration"
+      ],
+      "entities": {
+        "people": [
+          "Hegel",
+          "Hyppolite",
+          "Val\u00e9ry"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "La Jeune Parque"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Man's delay\u2014the prematuration of birth\u2014means his libido attains its finished state before encountering its object, introducing a 'special fault' in which the image of the master becomes confused with the image of death: 'Man is in the presence of the absolute master from the beginning.'",
+          "speaker": null
+        },
+        {
+          "text": "The virtual subject (VS) placed by the plane mirror inside the field of the real image models how the human subject sees his ego outside himself, in the human form of the other\u2014the specular relation is the original site of alienation.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--039",
+      "text": "Freud's formula 'zeitlich-Entwicklungsgeschichte' reveals an internal contradiction: Entwicklung (biological development) and Geschichte (historical narrative) belong to incommensurable registers\u2014temporal regression in Freud's sense cannot simply be equated with genetic-developmental regression, and the optical schema shows how the inclination of the mirror can transform images without any movement of the real object.",
+      "chapter": "Zeitlich-Entwicklungsgeschichte",
+      "concepts": [
+        "temporal_regression",
+        "topographic_regression",
+        "unconscious",
+        "symbolic_agency"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Perrier"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Metapsychological Supplement to the Theory of Dreams (1917)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "When the plane mirror is inclined, the image seen by the subject changes\u2014a mouth can become a phallus\u2014without the real image moving: this models how 'topographical regression' and what Freud calls 'zeitlich-Entwicklungsgeschichte' are to be distinguished as different axes of the apparatus.",
+          "speaker": null
+        },
+        {
+          "text": "The super-ego is a 'residual participation of the ego' in the dream, always an agency that 'speaks'\u2014'a symbolic agency'\u2014while the unconscious corresponds to those parts of the real image that can never appear as virtual image in any configuration of the mirror.",
+          "speaker": null
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--040",
+      "text": "The symbolic relation introduces history into the imaginary: it is from the future that repression and the return of the repressed must be understood\u2014what we see in the symptom is a trace that 'will only ever have been' once the symbolic realization retroactively confers its meaning, because Verdr\u00e4ngung is always a Nachdr\u00e4ngung.",
+      "chapter": "Zeitlich-Entwicklungsgeschichte",
+      "concepts": [
+        "nachtr\u00e4glichkeit",
+        "return_of_repressed",
+        "symbolic_realization",
+        "temporality"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Wiener"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Wiener's two beings moving in opposite temporal directions serve as a model: the being going in the opposite direction will 'first of all see the square vanishing, before seeing the square'\u2014so the symptom appears as an effaced signal of something that only takes on its value in the future, 'through its symbolic realisation.'",
+          "speaker": null
+        },
+        {
+          "text": "'Literally, it will only ever be a thing which, at the given moment of its occurrence, will have been'\u2014the future anterior is the proper tense of the unconscious.",
+          "speaker": "Lacan"
+        }
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--041",
+      "text": "The I (as a verbal term) is born through the reference to the you\u2014through the other who speaks\u2014so that before the subject learns to recognize his desire through symbols, he grasps it only in alienated form in the other's image, generating a fundamental aggression whenever his desire is projected outside himself as an ideal ego.",
+      "chapter": "The see-saw of desire",
+      "concepts": [
+        "alienation",
+        "misrecognition",
+        "aggression",
+        "imaginary_captation"
+      ],
+      "entities": {
+        "people": [
+          "Saint Augustine"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Misrecognition (m\u00e9connaissance) is not ignorance: it 'represents a certain organisation of affirmations and negations, to which the subject is attached'\u2014it presupposes 'a kind of knowledge of what there is to misrecognise,' as shown by the subject who refuses to recognize a death he knows has occurred.",
+          "speaker": null
+        },
+        {
+          "text": "Saint Augustine's observation of the consuming jealousy the small child feels toward his fellow being clinging to the mother's breast exemplifies the fundamental aggression generated when desire is entirely alienated in the specular image\u2014'every time the other is exactly the same as the subject... the only inter-human relation would be this mutual and radical intolerance.'",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--042",
+      "text": "The Fort/Da game\u2014a child of eighteen months manipulating the presence and absence of a reel on a thread with vocalizations\u2014marks the moment when desire becomes human: the symbol murders the thing, raises desire to a second power by negativizing the field of forces, and constitutes the phonematic opposition that is the gate of entry into language.",
+      "chapter": "The see-saw of desire",
+      "concepts": [
+        "symbol_formation",
+        "desire",
+        "language_acquisition",
+        "death_drive"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Beyond the Pleasure Principle"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "'These are the games of occultation which Freud, in a flash of genius, revealed to us so that we might recognise in them that the moment when desire becomes human is also the moment when the child is born into language.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "In the Fort/Da, it is already from outside that the child receives the Fort and Da\u2014'it is in his solitude that the desire of the little man has become the desire of an other, of an alter ego, who dominates him'\u2014the symbol is introduced through the discourse of the other even in the most private play.",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--043",
+      "text": "Primary masochism is located at the juncture between the imaginary and the symbolic\u2014at this initial negativation, the symbol destroys the real thing and opens the world of negativity that constitutes both human discourse and human reality, making primal masochism structurally identical to the death of the thing in the symbol.",
+      "chapter": "The see-saw of desire",
+      "concepts": [
+        "masochism",
+        "symbolic_murder",
+        "negativity",
+        "sacred"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Balint"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Balint's description of the end of a completed analysis\u2014a narcissistic state of unrestrained exaltation followed by progressive re-contact with reality\u2014represents the exhaustion of the imaginary axis of the 0\u20130' see-saw, but is only the first stage, not the end of analysis.",
+          "speaker": null
+        },
+        {
+          "text": "No love can be functionally realisable in the human community 'save by means of a specific pact, which, whatever the form it takes, always tends to become isolated off into a specific function, at one and the same time within language and outside of it'\u2014the function of the sacred.",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--044",
+      "text": "Aggressivity and aggression are not the same: aggressivity is a virtual structural pole of the imaginary intersubjective relation (at the limit, the impulse to destroy the other who supports one's desire), while aggression is an existential act linked to the imaginary relation\u2014the 'struggle for life' myth confuses the two by naturalizing what is a specifically human, structurally constituted tension.",
+      "chapter": "The fluctuations of the libido",
+      "concepts": [
+        "aggressivity",
+        "imaginary_relation",
+        "libido",
+        "oedipus_complex"
+      ],
+      "entities": {
+        "people": [
+          "Hegel",
+          "Darwin"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In the human subject, objects are originally mediated through rivalry and the relation of prestige\u2014'the original notion of the totality of the body as ineffable, as lived, the initial outburst of appetite and desire comes about in the human subject via the mediation of a form he at first sees projected, external to himself.'",
+          "speaker": null
+        },
+        {
+          "text": "The primitive libido (relative to prematuration) is distinct from the second libido that comes to maturity at the Oedipal phase; the transition transforms narcissistic captation into Verliebtheit, and a slight change of libidinal level at the Oedipal threshold can instantly transform love into hate.",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--045",
+      "text": "Freud's analysis of Dora failed because he interpreted at O' (from his own ego's conception that 'a girl is made to love boys') rather than naming Dora's desire for Frau K. at the moment it appeared in the see-saw\u2014had he named it, the Verliebtheit would have been produced and the analysis could have proceeded.",
+      "chapter": "The fluctuations of the libido",
+      "concepts": [
+        "transference",
+        "desire",
+        "analytic_intervention",
+        "hysteria"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Dora",
+          "Frau K.",
+          "Herr K.",
+          "Balint"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Dora case history",
+          "Observations on Transference-Love"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Dora's oscillation\u2014not knowing whether she loves only herself (her image magnified in Frau K.) or desires Frau K. as object\u2014is the perpetual see-saw at the heart of her case; Freud intervened on the wrong slope, pushing her toward Herr K. when the desire was in O'.",
+          "speaker": null
+        },
+        {
+          "text": "'If Freud had revealed to Dora that she was in love with Frau K., she would then have actually been so'\u2014but that would only be the first stage; analysis of resistances as 'peeling away defenses' amounts to 'orthopaedics of the ego,' not analysis.",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--046",
+      "text": "In the Wolfman, the original traumatic scene (primal scene) had the status of a Pr\u00e4gung\u2014a stamp or imprinting, in the ethological sense\u2014that remained unintegrated in the symbolic system until retroactively (nachtr\u00e4glich) activated at age 3\u20134 when the child's symbolic world was organized enough to give it traumatic meaning; repression is always a Nachdr\u00e4ngung.",
+      "chapter": "The nucleus of repression",
+      "concepts": [
+        "nachtr\u00e4glichkeit",
+        "trauma",
+        "repression",
+        "symbolic_integration"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "From the History of an Infantile Neurosis (Wolfman)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Freud fixes the date of the copulation scene at n+1 years with absolute rigour, showing that the event acquires traumatic significance only once the subject has a symbolic world developed enough to be shocked by its implications\u2014'the trauma, in so far as it has a repressing action, intervenes after the fact, nachtr\u00e4glich.'",
+          "speaker": null
+        },
+        {
+          "text": "The infantile neurosis of the Wolfman plays the same role as a psychoanalysis: it accomplishes the r\u00e9int\u00e9gration of the past, bringing the Pr\u00e4gung into the play of symbols through a retroactive effect\u2014showing that 'repression and the return of the repressed are the same thing.'",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--047",
+      "text": "The super-ego is a discordant statement\u2014a sentence from the symbolic law that has been isolated and rendered senseless by its conjunction with a traumatic event\u2014as illustrated by a Muslim patient whose symptoms around the use of the hand were organized around the Koranic prescription 'the hand will be cut off' after his father was publicly accused of theft.",
+      "chapter": "The nucleus of repression",
+      "concepts": [
+        "super_ego",
+        "symbolic_law",
+        "trauma",
+        "cultural_context"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "For this patient, one statement from the totalitarian Koranic law was pushed into the foreground by a childhood event, becoming 'lodged in his symptoms'\u2014organized around it were all his unconscious symptomatic expressions\u2014while the rest of the symbolic universe was forfeited.",
+          "speaker": null
+        },
+        {
+          "text": "'A discordant statement, unknown in law, a statement pushed into the foreground by a traumatic event, which reduces the law down to a point with an inadmissible, unintegrable character\u2014this blind, repetitive agency is what we usually define in the term super-ego.'",
+          "speaker": "Lacan"
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--048",
+      "text": "The Oedipus complex occupies a privileged position not because it is the only symbolic coordinate that matters but because it is the minimum requirement\u2014the most uniform point of intersection of the individual's life with the register of the law in Western civilization\u2014and analysis cannot terminate without the subject's knotting of his history around this legal coordinate.",
+      "chapter": "The nucleus of repression",
+      "concepts": [
+        "oedipus_complex",
+        "symbolic_law",
+        "analytic_termination",
+        "ego_id_relation"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Ego and the Id"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Once the imaginary history has been completed and the subject's desires named, 'all is not, for all that, brought to term'\u2014everything must be referred to the completed system of symbols, to the 'legal, legalising coordinate which is called the Oedipus complex.'",
+          "speaker": null
+        },
+        {
+          "text": "Where id was (in the schema, at A, not at O), ego must be\u2014not the enlargement of ego's field but a displacement, a 'minuet executed by the ego and the id,' whereby the subject realises his being through symbolic reintegration.",
+          "speaker": null
+        }
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--049",
+      "text": "Balint's 'primary love' is defined as an original object relation in which the object (mother) perfectly satisfies the infant's needs without any recognition of her own autonomy\u2014this becomes the model for all libidinal relations and the telos toward which analysis aims, leading Balint to describe the end of analysis as a narcissistic state of exaltation requiring post-analytic 'recovery.'",
+      "chapter": "Preliminary interventions on Balint",
+      "concepts": [
+        "primary_love",
+        "object_relations",
+        "analytic_termination",
+        "dual_relation"
+      ],
+      "entities": {
+        "people": [
+          "Balint",
+          "Granoff",
+          "Rickman"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Primary Love and Psycho-analytic Technique",
+          "On Love and Hate"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Balint describes the end of a completed analysis as an 'unrestrained exaltation of desires' in which the subject has 'a quite illusory sensation of absolute mastery over reality' and requires time to progressively put nature back in place; 'the final session never fails to elicit, in both partners, the strongest desire to cry.'",
+          "speaker": null
+        },
+        {
+          "text": "'Two-body psychology'\u2014Balint and Rickman's term\u2014still remains a relation of object to object, entangled in the dual relation while denying it, and leads to the recommendation to 'create an atmosphere, a comfortable atmosphere' as the analyst's essential technical contribution.",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--050",
+      "text": "Balint's character theory\u2014character as limitation of the capacity for love and enjoyment\u2014reflects a growing Puritanism in analytic culture visible in the disappearance of 'too libidinal' vocabulary like 'sadistic' from post-1938 analytic writing, replacing clinical precision with moral normativity.",
+      "chapter": "Preliminary interventions on Balint",
+      "concepts": [
+        "character_analysis",
+        "normative_ethics",
+        "cultural_context",
+        "analytic_movement"
+      ],
+      "entities": {
+        "people": [
+          "Balint",
+          "Ferenczi"
+        ],
+        "places": [
+          "Hungary",
+          "England"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Balint notes that beginning in 1938\u201340, a vocabulary 'too libidinal' in connotation disappeared from analytic articles as the orientation toward object relations was consolidated\u2014this reflects the 'growing Puritanism of the analytic atmosphere.'",
+          "speaker": null
+        },
+        {
+          "text": "Character 'controls man's relations to his objects' and 'signifies a more or less extensive limitation of the possibilities of love and of hatred'\u2014this moralizing framework is continuous with Ferenczi's Hungarian Protestant background and with its integration into the English analytic community.",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--051",
+      "text": "Alice Balint's heroic demonstration that primary love is perfectly symmetrical on both sides\u2014the mother as much as the infant satisfies a complementary need, to the point of cannibalism in extreme privation\u2014reveals not a truth about human relations but the theoretical consequence of defining the object entirely through need-satisfaction, eliminating intersubjectivity.",
+      "chapter": "The object relation and the intersubjective relation",
+      "concepts": [
+        "primary_love",
+        "object_relations",
+        "maternal_relation",
+        "need_vs_desire"
+      ],
+      "entities": {
+        "people": [
+          "Alice Balint",
+          "Balint"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Love for the Mother and Mother Love"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Alice Balint argues that maternal love has 'exactly the same limits as every vital need'\u2014that 'when one no longer has anything to give, well one takes'\u2014citing ethnographic evidence of pregnant Australian aboriginal women inducing abortion to eat the fetus during famine.",
+          "speaker": null
+        },
+        {
+          "text": "This conception 'runs counter to the positing of a primitive stage of so-called auto-erotism' in Freudian theory and generates a contradiction: if primary love excludes intersubjectivity, how does the subject ever come to recognize the other as a subject with needs\u2014which is required for genital love?",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--052",
+      "text": "The structure of perversion demonstrates that intersubjectivity is essential even in its most regressive forms: sadism requires the other to remain on the verge of being a subject whose consent and humiliation are sought, and scopophilia requires the gaze of another who sees that one is looking\u2014there is never a simple duplicity of terms but always a triadic structure.",
+      "chapter": "The object relation and the intersubjective relation",
+      "concepts": [
+        "perversion",
+        "intersubjectivity",
+        "gaze",
+        "sadism"
+      ],
+      "entities": {
+        "people": [
+          "Sartre"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Being and Nothingness"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Sartre's phenomenology of the gaze in Being and Nothingness provides the best description of the perverse relation: 'the human object is originally distinguished, ab initio, in the field of my experience... by virtue of being an object which is looking at me'\u2014even when the eyes are not visible, what matters is the signification of a possible other presence.",
+          "speaker": null
+        },
+        {
+          "text": "Sartre's analysis of love shows that we require from the loved object not a free commitment but 'a freedom [that] accept[s] its own renunciation'\u2014desire in its concrete form is always at 'this intermediate, ambiguous zone, between the symbolic and the imaginary.'",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--053",
+      "text": "The child's earliest use of language\u2014including the apparently narcissistic statement 'When you are dead, Mummy, I'll have your hats'\u2014demonstrates not the absence of intersubjectivity but its most elementary form: the ability to name, to use the symbol, which is destructive of the thing and creates the register of being.",
+      "chapter": "The object relation and the intersubjective relation",
+      "concepts": [
+        "child_language",
+        "symbolic_order",
+        "intersubjectivity",
+        "naming"
+      ],
+      "entities": {
+        "people": [
+          "Balint",
+          "Ferenczi"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Balint takes the child's disregard for the other's interests (e.g., matter-of-fact comments about parental death) as evidence of non-recognition of the other as subject; Lacan reads it as evidence that the child already operates in the symbolic register, since only language makes such statements possible.",
+          "speaker": null
+        },
+        {
+          "text": "'For the child, to start with there is the symbolic and the real'\u2014the imaginary is there but inaccessible to us except through its realizations in the adult; to project back adult imaginary phenomenology onto the child is to commit the error Balint commits in reverse.",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--054",
+      "text": "Perversion is structured not as a stable imaginary capture but as a relation condemned to perpetual instability\u2014it can only be sustained at the limit of the register of recognition, because both poles of the sadistic relation lead to the dissolution of desire: either desire is extinguished or the object disappears, and this structure explains aphanisis.",
+      "chapter": "The symbolic order",
+      "concepts": [
+        "perversion",
+        "aphanisis",
+        "desire_and_recognition",
+        "homosexuality"
+      ],
+      "entities": {
+        "people": [
+          "Proust",
+          "Jones"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "In Search of Lost Time"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The sadistic relation 'implies that the partner's consent has been secured\u2014his freedom, his confession, his humiliation'; once the other is fully reduced to reacting flesh, the relation is extinguished\u2014'desire sinks into shame.'",
+          "speaker": null
+        },
+        {
+          "text": "Proust's myth of Albertine exemplifies homosexual imaginary intersubjectivity: 'the subject exhausts himself in pursuing the desire of the other, which he will never be able to grasp as his own desire, because his own desire is the desire of the other.'",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--055",
+      "text": "The Hegelian master-slave dialectic is not purely imaginary but already framed by the symbolic from the outset: the risk of life is already a 'rule of the game'\u2014a stake\u2014not a biological panic, and the subsequent relation of labour and enjoyment introduces the domain of the symbolic (law, rules, hours) out of the imaginary impasse.",
+      "chapter": "The symbolic order",
+      "concepts": [
+        "master_slave_dialectic",
+        "symbolic_order",
+        "labour",
+        "game_theory"
+      ],
+      "entities": {
+        "people": [
+          "Hegel",
+          "Sartre"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Phenomenology of Spirit",
+          "Being and Nothingness"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The master's recognition by the slave is worth nothing to the master because only a slave has recognized him; 'this initial structure... seems thus to lead to a dead end'\u2014but its extensions onto the symbolic plane (labour, law) show that the imaginary and symbolic are never simply successive but mutually implicated from the beginning.",
+          "speaker": null
+        },
+        {
+          "text": "The theory of games requires numerical structuration\u2014three, four\u2014which as such is already on the symbolic plane: 'however simply you define the field of an intersubjectivity, its analysis always requires a certain number of numerical givens, which, as such, are symbolic.'",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--056",
+      "text": "The Fijian holophrase\u2014a single untranslatable expression for 'the state of two persons looking at each other, each hoping the other will do what both desire but neither will'\u2014demonstrates that the holophrase is not a primitive prelinguistic utterance but belongs to limit situations of the specular relation, where the symbolic composition is pushed to its periphery.",
+      "chapter": "The symbolic order",
+      "concepts": [
+        "holophrase",
+        "symbolic_limit",
+        "speech_acts",
+        "mutual_recognition"
+      ],
+      "entities": {
+        "people": [
+          "Balint",
+          "Angelus Silesius"
+        ],
+        "places": [
+          "Fiji"
+        ],
+        "events": [],
+        "works": [
+          "The Cherubinic Wanderer"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The holophrase 'Ma mi la pa ni pa ta pa' is spoken in a state defined by mutual gaze and mutual waiting for the other to initiate what both want\u2014'each expects the other to decide on something which has to be done by the two, which is between the two, but which neither of them wishes to enter into.'",
+          "speaker": null
+        },
+        {
+          "text": "In Balint's case of the woman patient who chatters to say nothing, what is at issue is the value of speech in the symbolic register\u2014whether she will be 'trustworthy,' bound by her word, committed to the world of adult symbolic law; Balint's intervention worked because it touched the symbolic register even though his theory does not recognize it.",
+          "speaker": null
+        }
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--057",
+      "text": "Signification always refers back to another signification\u2014every semanteme is polyvalent and can only be defined by the totality of its usages\u2014so the analytic search for a 'fact' or 'emotional reality' behind signification is structurally misguided: there is no exit from the symbolic order into a pre-symbolic real.",
+      "chapter": "The creative function of speech",
+      "concepts": [
+        "signification",
+        "metaphor",
+        "symbolic_order",
+        "semiotics"
+      ],
+      "entities": {
+        "people": [
+          "Jones",
+          "Alexander"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Theory of Symbolism"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "When one calls another 'sun of my heart,' this is not a secondary comparison but an original metaphorical relation to being in which 'all that is already implied in the symbolic invocation'\u2014the sun's warmth, its gravity, its blinding excess\u2014since 'the emergence of the symbol creates, literally, a new order of being in the relations between men.'",
+          "speaker": null
+        },
+        {
+          "text": "Chapman Isham's article in the Psycho-analytic Review treats emotion as 'the ultimate reality with which we have to deal'\u2014a desire to find an object like those of other sciences\u2014but every signification only ever refers back to another signification.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--058",
+      "text": "Speech is only speech\u2014distinguished from the grunt or signal\u2014insofar as it aims at recognition: Odysseus's companions turned to swine emit speech through their grunts of nostalgia not because of their emotional content but because they want to have something believed, want to gain recognition as the companions of Odysseus.",
+      "chapter": "The creative function of speech",
+      "concepts": [
+        "recognition",
+        "speech_theory",
+        "acting_out",
+        "belief"
+      ],
+      "entities": {
+        "people": [
+          "Nunberg"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Transference and Reality (1951)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The pig's grunt 'only becomes speech when someone raises the question as to what it is that they want to make you believe. Speech is precisely only speech in as much as someone believes in it.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "Acting-out in the session is included in a context of speech: 'if so many subjects rush headlong while in analysis into engaging in a host of erotic activities, like getting married for example, it is clearly acting-out... If they act, it is with their analyst in mind'\u2014in so far as the point for the subject is to gain recognition, an act is speech.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--059",
+      "text": "Hegel's formula 'the concept is the time of the thing' explains the mechanism of transference: it is not imaginary projection but the identity of the temporal form that makes the analyst's present speech as effective as the past speech\u2014the compulsion to repeat involves nothing but the structure of the concept as pure time of the thing.",
+      "chapter": "The creative function of speech",
+      "concepts": [
+        "transference",
+        "concept_as_time",
+        "repetition_compulsion",
+        "linguistic_structure"
+      ],
+      "entities": {
+        "people": [
+          "Freud",
+          "Nunberg",
+          "Hegel"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Traumdeutung"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Nunberg's patient could not progress until Nunberg realized the analytic situation reproduced the childhood scene of confession at his mother's bedside\u2014not because of imaginary projection onto Nunberg, but because 'the modulation of time being identical, the speech of the analyst happens to have the same value as the old speech.'",
+          "speaker": null
+        },
+        {
+          "text": "The first appearance of the word \u00dcbertragung in Freud is in the Traumdeutung, where it designates the mechanism by which 'a discourse that is masked, the discourse of the unconscious, takes hold of a discourse that is apparent'\u2014using disinvested day-residues as phonematic material\u2014showing transference is a linguistic phenomenon from the start.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--060",
+      "text": "Augustine's De Magistro establishes that all speech is teaching in both directions\u2014speaker and listener\u2014because communication requires the reciprocal identification of two complete universes of language, and thus speech is founded on truth from the outset, not on the transmission of independent 'things.'",
+      "chapter": "De locutionis significatione",
+      "concepts": [
+        "semiotics",
+        "speech_acts",
+        "signification",
+        "linguistic_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Augustine",
+          "Benveniste",
+          "Beirnaert"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "De Magistro"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Augustine's first move: 'through language we do nothing other than teach'\u2014even asking questions teaches the interlocutor what one wants to know\u2014because no exchange is possible except by way of 'the reciprocal identification of two complete universes of language,' placing speech not at the level of information but of truth.",
+          "speaker": null
+        },
+        {
+          "text": "The linguist Benveniste identified to Lacan that while the signification of terms can be defined by the totality of usages, the sentence does not have a usage in the same sense\u2014suggesting a fundamental distinction between language and speech that Augustine's text already implies.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--061",
+      "text": "Augustine's argument that signification always refers to signification\u2014demonstrated through the impossibility of defining 'si' (if), 'nihil' (nothing), and 'ex' without other signs\u2014converges with modern linguistics' recognition that the sign is never grounded in the thing but only in a system of differences, leaving truth as the irreducible horizon of speech.",
+      "chapter": "De locutionis significatione",
+      "concepts": [
+        "signification",
+        "negativity",
+        "truth_and_language",
+        "religious_epistemology"
+      ],
+      "entities": {
+        "people": [
+          "Augustine",
+          "Adeodatus",
+          "Virgil"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "De Magistro",
+          "Aeneid"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Augustine's analysis of nihil: the word cannot signify a thing (since nothing does not exist) but 'signifies a certain state in the soul when, failing to perceive a thing the soul nevertheless finds, or thinks it finds, that such a thing does not exist'\u2014anticipating the modern problem of negativity without naming it.",
+          "speaker": null
+        },
+        {
+          "text": "The sign-to-sign cycle of signification leads Augustine to conclude that only illumination\u2014truth coming from outside the signs\u2014can ground knowledge; Lacan's corrective: it is speech itself that creates the dimension of truth, which Augustine fails to recognize because he forgets that 'it is with speech that he raises the question of speech.'",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--062",
+      "text": "Error is not simply the opposite of truth but its habitual incarnation: 'as long as the truth isn't entirely revealed, that is to say in all probability until the end of time, its nature will be to propagate itself in the form of error'\u2014making the paths of error the paths of truth, and contradiction the mechanism by which discourse eventually corrects itself.",
+      "chapter": "Truth emerges from the mistake",
+      "concepts": [
+        "truth_and_error",
+        "deception",
+        "dialectic",
+        "absolute_knowledge"
+      ],
+      "entities": {
+        "people": [
+          "Hegel"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Deception requires truth as its support\u2014'in order to deceive, speech affirms itself as true'\u2014and as the lie unfolds it requires 'the correlative control of the truth it encounters at every twist and turn of the way'\u2014the moralist tradition confirms 'you must have a good memory when you have lied.'",
+          "speaker": null
+        },
+        {
+          "text": "The Hegelian ideal of absolute knowledge is this moment when 'the totality of discourse closes in on itself in a perfect non-contradiction'\u2014including its own self-justification\u2014though 'we are some way yet from this ideal.'",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--063",
+      "text": "Freud's discovery is that within the discourse of error, a speech from beyond the discoursing subject irrupts\u2014not through contradiction but through the slip, the dream, the symptom\u2014because the subject 'always says more than he means to,' and the unconscious is a discourse structured like condensation, negation, and repression working at the level of language.",
+      "chapter": "Truth emerges from the mistake",
+      "concepts": [
+        "condensation",
+        "negation",
+        "repression",
+        "unconscious_structure"
+      ],
+      "entities": {
+        "people": [
+          "Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Interpretation of Dreams",
+          "The Psychopathology of Everyday Life"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Verdichtung (condensation) is the polyvalence of meanings in language\u2014their encroachments and criss-crossings\u2014by which the entire network of dream-thoughts is mapped onto the entire network of signifiers; Verneinung shows the negative side of this non-superposition; Verdr\u00e4ngung is always marked in discourse by an interruption, a 'the word escapes me.'",
+          "speaker": null
+        },
+        {
+          "text": "The dream of the botanical monograph condenses Freud's unspoken desire ('I no longer love my wife' or his bitterness at not being promoted) through day-residues that were the phonematically experienced moments at which this speech was arrested\u2014the monograph on cyclamens and K\u00f6nigstein's conversation.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--064",
+      "text": "The three fundamental passions\u2014love, hate, ignorance\u2014are inscribed in the schema of being as junction lines between the symbolic/imaginary, imaginary/real, and real/symbolic registers, with ignorance as a passion being the foundational condition for analysis: the analysand places himself in the position of acknowledging himself in speech and searching out his truth.",
+      "chapter": "Truth emerges from the mistake",
+      "concepts": [
+        "fundamental_passions",
+        "ignorance",
+        "love_and_hate",
+        "analytic_entry"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In the analytic situation, three fundamental passions are always implicitly present from the start: love at the junction of the symbolic and imaginary, hate at the junction of the imaginary and real, and ignorance\u2014'as a passion'\u2014at the junction of the real and symbolic: 'the subject who comes into analysis places himself, as such, in the position of someone who is in ignorance.'",
+          "speaker": null
+        },
+        {
+          "text": "The upper pyramid (symbolic dimension) is constructed as speech moves forward through the working-over of Verdr\u00e4ngung, Verdichtung, and Verneinung\u2014'being is realised' through this construction, which is what analysis aims at.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--065",
+      "text": "Love, as active gift on the symbolic plane, is directed toward the being of the loved subject beyond all imaginary captation\u2014it can tolerate weakness and detour but stops when the loved being persists in self-deception; hate on the symbolic plane aims at the abasement and detailed denial of the other's being, not merely the other's disappearance.",
+      "chapter": "The concept of analysis",
+      "concepts": [
+        "love",
+        "hate",
+        "symbolic_vs_imaginary",
+        "being"
+      ],
+      "entities": {
+        "people": [
+          "Pascal",
+          "Descartes"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'The active gift of love is directed at the other, not in his specificity, but in his being'\u2014in contrast to imaginary Verliebtheit, which captures the particular qualities of the other; love on the symbolic plane accepts weakness because it is oriented to being beyond attributes.",
+          "speaker": null
+        },
+        {
+          "text": "In modern civilization, hatred is diffusified into everyday discourse and rationalization\u2014'perhaps it is this state of the diffuse flocculation of hatred which saturates the call for the destruction of being in us'\u2014so subjects encounter it less in its full consuming form.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--066",
+      "text": "Symbolic investiture\u2014being king, being a psychoanalyst\u2014is irreducible to the addition of psychological capacities or competencies: the moment of symbolic nomination transforms all the subject's attributes retroactively, making even his weaknesses royal or analytic functions, which is why examinations retain their initiatory character despite rationalizing pressures.",
+      "chapter": "The concept of analysis",
+      "concepts": [
+        "symbolic_investiture",
+        "identity",
+        "nomination",
+        "institutional_power"
+      ],
+      "entities": {
+        "people": [
+          "Duke of Windsor"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "'To say I am a psychoanalyst is just as extravagant, in relation to reality, as I am king'\u2014both are valid affirmations 'which nothing, however, in the order of what one might call the measure of capacities justifies'\u2014since symbolic legitimation 'entirely escapes the register of entitlements to office.'",
+          "speaker": "Lacan"
+        },
+        {
+          "text": "The Duke of Windsor's refusal of the crown\u2014'I want to live with the woman I love'\u2014means he remains 'on this side of the domain of being king': refusal is not the symmetrical inverse of acceptance in the symbolic order, since the symbol creates the being.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--067",
+      "text": "The obsessional's structure illuminates the concept of analysis: the obsessional waits for the master's death as an indefinite postponement of his own confrontation with death, and analysis must allow the repetition-compulsion sufficient time and proper scansion for the subject to realize the symbolic value of his compulsions\u2014to understand that being-for-death cannot be avoided by waiting.",
+      "chapter": "The concept of analysis",
+      "concepts": [
+        "obsessional_neurosis",
+        "being_for_death",
+        "repetition_compulsion",
+        "analytic_timing"
+      ],
+      "entities": {
+        "people": [
+          "Hegel",
+          "Heidegger",
+          "Tristan Bernard",
+          "Hoffer",
+          "Nunberg"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The obsessional 'banks on waiting': the slave's strategy of waiting for the master's death interposes a buffer between himself and his own death, but 'beyond the death of the master, he really will be obliged to confront death... and to assume, in the Heideggerian sense, his being-for-death.'",
+          "speaker": null
+        },
+        {
+          "text": "'Analysis of resistances' that is too quick to unveil the ego's patterns prevents the subject from realizing the concept of his obsessions: 'you have to wait'\u2014wait for the appropriate timing of repetition-compulsions that gives them symbolic value, as Freud himself prescribed.",
+          "speaker": null
+        }
+      ],
+      "part": "Speech in the Transference"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-001",
+      "title": "Overture to the Seminar",
+      "summary": "Lacan introduces the seminar's guiding orientation: Freud's discovery reintroduces the register of meaning\u2014subjectivity, desire, and historical particularity\u2014against the reductive scientism of his era, and psychoanalysis must be understood as a technique of dialogue whose proper domain is the truth of the speaking subject.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--001",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--002",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--003"
+      ]
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-002",
+      "title": "Introduction to the commentaries on Freud's Papers on Technique",
+      "summary": "Lacan situates Freud's Papers on Technique in a middle period between the seminal clinical experience and the structural theory, arguing that their true unity lies not in technical rules but in Freud's persistent orientation toward the reconstruction of the subject's history, and that current analytic confusion stems from the post-Freudian overemphasis on the ego.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--004",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--005",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--006",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--007"
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-003",
+      "title": "Preliminary comments on the problem of resistance",
+      "summary": "Through commentary on Mannoni's and Anzieu's presentations, Lacan examines resistance as it first appears in Freud\u2014linked to the materiality of discourse and its proximity to the pathogenic nucleus\u2014and argues that analysis must apply to itself the same dialectical schema it applies to neurosis, treating its own theoretical impasses as symptomatic of what it has not yet reached.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--008",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--009",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--010"
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-004",
+      "title": "Resistance and the defences",
+      "summary": "Lacan examines Margaret Little's case as an exemplar of the dangers of 'ego-to-ego' interpretation in the hic et nunc, arguing that interpretation of defense without a third term reduces to projection, and that genuine analytic interpretation requires a historical dimension grounded in the discourse of the subject.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--011",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--012",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--013"
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-005",
+      "title": "The ego and the other",
+      "summary": "Reading Freud's 'Dynamics of Transference,' Lacan argues that transference emerges precisely at the point of maximal resistance\u2014when the subject's discourse cannot achieve full revelatory speech and instead hooks onto the analyst as other\u2014and introduces the distinction between Verwerfung and Verdr\u00e4ngung to clarify the radical nucleus of the repressed.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--014",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--015",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--016",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--017"
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-006",
+      "title": "Introduction and reply to Jean Hyppolite's presentation of Freud's Verneinung",
+      "summary": "Lacan introduces Freud's 'Verneinung' via Jean Hyppolite's philosophical commentary to distinguish Bejahung (primary affirmation constituting the symbolic) from negation (which already presupposes symbolization), using the Wolfman's hallucination and Kris's plagiarist case to show how what is not symbolically assumed returns in the real.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--018",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--019",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--020"
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-007",
+      "title": "Discourse analysis and ego analysis",
+      "summary": "Lacan contrasts Anna Freud's and Melanie Klein's approaches to child analysis\u2014the first intellectualist and ego-centered, the second capable of direct symbolic intervention\u2014arguing through the case of Dick that the symbolic grafting of the Oedipal structure onto a pre-symbolic child is what enables the imaginary and real to begin their proper articulation.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--021",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--022",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--023"
+      ],
+      "part": "The Moment of Resistance"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-008",
+      "title": "The topic of the imaginary",
+      "summary": "Lacan introduces the optical schema of the inverted bouquet to model the relationship between the imaginary, symbolic, and real registers, arguing that the position of the eye (symbolic subject) within or outside the cone of the apparatus determines whether an organized imaginary reality is possible\u2014and that in man, this position depends on the symbolic order of speech.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--024",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--025",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--026"
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-009",
+      "title": "The wolf! The wolf!",
+      "summary": "Rosine Lefort's case of Robert\u2014a severely deprived child whose entire self-representation was condensed into the word 'Wolf!'\u2014illustrates the super-ego as law reduced to its senseless, ferocious core, and shows how the therapist's sustained presence and interpretations progressively enabled the constitution of the body-ego and the child's symbolic entry into human reality.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--027",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--028",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--029"
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-010",
+      "title": "On narcissism",
+      "summary": "Introducing Freud's 'On Narcissism: An Introduction,' Lacan argues that Freud wrote it to defend the specificity of sexual libido against Jung's dissolution of the libido concept into general psychic interest, and that the article's notion of narcissism requires the mirror-stage as the moment when a unitary image constitutes the imaginary origin of the ego.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--030",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--031",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--032"
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-011",
+      "title": "The two narcissisms",
+      "summary": "Lacan uses ethological evidence for the dominance of the image in animal sexual behavior to distinguish two narcissisms: a first narcissism tied to the body image constituting the imaginary framework for all subsequent libidinal organization, and a second narcissism in which the mirror relation to the other introduces the relation to the ego-ideal and grounds specifically human desire.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--033",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--034"
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-012",
+      "title": "Ego-ideal and ideal ego",
+      "summary": "Through Leclaire's close reading of 'On Narcissism,' Lacan distinguishes the Idealich (ideal ego\u2014the imaginary captating image constituted at the mirror stage) from the Ichideal (ego-ideal\u2014the symbolic agency through which the subject is located in relation to the law and others), arguing that the symbolic relation governs the greater or lesser degree of perfection of the imaginary structuration.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--035",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--036",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--037"
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-013",
+      "title": "Zeitlich-Entwicklungsgeschichte",
+      "summary": "Lacan uses the optical schema with two mirrors and a discussion of Freud's 'Metapsychological Supplement to the Theory of Dreams' to clarify the distinction between topographical and temporal-developmental regression, and to formulate the three necessary faces of the unconscious\u2014as ideally inaccessible, as quasi-real, and as something that will-have-been through symbolic realization.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--038",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--039",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--040"
+      ],
+      "part": "The Topic of the Imaginary"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-014",
+      "title": "The see-saw of desire",
+      "summary": "Lacan introduces the schema of 0 and 0' (the see-saw between the ego and the ideal ego) to explain the working-through of analysis, arguing that desire is originally alienated in the other's image and only humanized through the symbolic function of nomination\u2014exemplified by the Fort/Da game, where the child's mastery of presence and absence through the symbol constitutes the birth of the speaking subject.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--041",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--042",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--043"
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-015",
+      "title": "The fluctuations of the libido",
+      "summary": "Lacan examines the Dora case to show what properly analytic intervention in the transference requires: naming the subject's desire at the moment it appears in the swing from O to O', not substituting the analyst's ego-conception of what the desire should be, and distinguishing this from the technique of resistance analysis that amounts to the analyst modeling the patient's ego.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--044",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--045"
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-016",
+      "title": "The nucleus of repression",
+      "summary": "Through the Wolfman case and a clinical illustration involving a Muslim patient and the Koranic law, Lacan develops the thesis that the super-ego is a discordant statement\u2014a fragment of law isolated and rendered senseless by a traumatic event\u2014and that analytic work is not complete with the naming of desire but requires the subject's integration into the complete symbolic system of law and history.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--046",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--047",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--048"
+      ],
+      "part": "Beyond Psychology"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-017",
+      "title": "Preliminary interventions on Balint",
+      "summary": "Lacan begins his critical examination of Balint's Primary Love and Psycho-analytic Technique, arguing that Balint's definition of the object relation through the satisfaction of need\u2014with primary love as its model\u2014leads to theoretical blind alleys because it objectifies the intersubjective relation and eliminates the symbolic register.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--049",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--050"
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-018",
+      "title": "The object relation and the intersubjective relation",
+      "summary": "Against Balint's conception of the object relation as the complementary satisfaction of need, Lacan argues that intersubjectivity must be posited as original\u2014visible even in the structure of perversion and in the child's earliest use of language\u2014because there is no transition possible from animal desire to human recognition without a symbolic third term present from the beginning.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--051",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--052",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--053"
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-019",
+      "title": "The symbolic order",
+      "summary": "Through the master-slave dialectic, the theory of games, and the phenomenon of the Fijian holophrase, Lacan argues that the symbolic field is numerically structured from the beginning\u2014requiring at minimum a triadic relation\u2014and concludes with Angelus Silesius's couplet to point toward the analytic end as the constitution of being through the fall of contingency.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--054",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--055",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--056"
+      ],
+      "part": "Michael Balint's Blind Alleys"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-020",
+      "title": "The creative function of speech",
+      "summary": "Through the case of Odysseus's companions turned to swine and Nunberg's case of the analytic patient, Lacan argues that transference is not a phenomenon of imaginary projection but a linguistic phenomenon in which the concept (time of the thing) allows the same modulation of time to make present speech as effective as past speech\u2014transference is the very concept of analysis.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--057",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--058",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--059"
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-021",
+      "title": "De locutionis significatione",
+      "summary": "Father Beirnaert's commentary on Augustine's De Magistro reveals that the problems of signification, the sign, and the relation of verbum to nomen raised by modern linguistics were already posed with 'sensational lucidity' in 389 AD, and that Augustine's argument\u2014showing that signification always refers to signification, and that nothing can be shown without signs\u2014establishes the symbolic dimension of speech as irreducible.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--060",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--061"
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-022",
+      "title": "Truth emerges from the mistake",
+      "summary": "Lacan argues that error is the habitual incarnation of truth\u2014that the paths of truth are essentially the paths of error\u2014and that what is distinctive about Freud's discovery is the revelation that within the discourse of error, a speech that goes beyond the discoursing subject irrupts in slips, dreams, and symptoms: truth grabs error by the scruff of the neck in the mistake.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--062",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--063",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--064"
+      ],
+      "part": "Speech in the Transference"
+    },
+    {
+      "id": "the-seminar-of-jacques-lacan-book-i-freuds-papers--ch-023",
+      "title": "The concept of analysis",
+      "summary": "In the final session, Lacan responds to questions to clarify love, hate, and ignorance as symbolic passions; distinguishes symbolic investiture from psychological capacity through examples of kingship and examination; and formulates the concept of analysis as the transference itself\u2014because transference is the time of analysis, its proper function is to enable the subject's symbolic assumption of his history, not the modeling of his ego on the analyst's.",
+      "claim_ids": [
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--065",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--066",
+        "the-seminar-of-jacques-lacan-book-i-freuds-papers--067"
+      ],
+      "part": "Speech in the Transference"
+    }
+  ],
+  "stats": {
+    "claim_count": 67,
+    "chapter_count": 23,
+    "indexed_at": "2026-04-05T21:22:18.883879Z"
+  }
+}

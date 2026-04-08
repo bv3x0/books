@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body>
+  <!-- Reading progress bar -->
+  <div class="progress-container" aria-hidden="true">
+    <div class="progress-bar"></div>
+  </div>
+
+  <!-- Mobile header -->
+  <header class="mobile-header">
+    <a href="{{ .Site.BaseURL }}" class="mobile-header-title">{{ .Site.Title }}</a>
+    <div class="mobile-header-actions">
+      {{/* TOC toggle - only show on single pages with TOC */}}
+      {{ $hasToC := .Params.toc | default true }}
+      {{ $headers := findRE "<h[2-6]" .Content }}
+      {{ $showToC := and $hasToC (ge (len $headers) 1) }}
+      {{ if and .IsPage $showToC }}
+      <button type="button" id="mobile-toc-toggle" class="mobile-toc-toggle" aria-label="Toggle table of contents" aria-expanded="false" aria-controls="mobile-toc-panel">
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="15" y2="12"></line>
+          <line x1="3" y1="18" x2="9" y2="18"></line>
+        </svg>
+      </button>
+      {{ else if not .IsPage }}
+      {{/* Categories/Collections toggle - show on list pages */}}
+      {{ $taxonomy := site.Taxonomies.tags }}
+      {{ if or $taxonomy site.Taxonomies.collections }}
+      <button type="button" id="mobile-categories-toggle" class="mobile-toc-toggle" aria-label="Toggle categories" aria-expanded="false" aria-controls="mobile-categories-panel">
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="15" y2="12"></line>
+          <line x1="3" y1="18" x2="9" y2="18"></line>
+        </svg>
+      </button>
+      {{ end }}
+      {{ end }}
+      <button type="button" id="mobile-search-toggle" class="mobile-search-toggle" aria-label="Toggle search" aria-expanded="false" aria-controls="mobile-search-panel">
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.3-4.3"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Mobile search panel (collapsible) -->
+  <div id="mobile-search-panel" class="mobile-search-panel" hidden>
+    <form id="mobile-search-form" class="semantic-form">
+      <div class="semantic-input-wrapper">
+        <svg class="semantic-input-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.3-4.3"></path>
+        </svg>
+        <input type="text" id="mobile-search-q"
+               placeholder="Search..."
+               autocomplete="off"
+               aria-label="Search">
+        <button type="button" id="mobile-search-clear" class="semantic-clear-btn" aria-label="Clear search">
+          <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M18 6 6 18"></path>
+            <path d="m6 6 12 12"></path>
+          </svg>
+        </button>
+      </div>
+    </form>
+    <div id="mobile-search-results" class="semantic-results" aria-live="polite"></div>
+  </div>
+
+  <!-- Mobile TOC panel (collapsible) - only on single pages -->
+  {{ $hasToC := .Params.toc | default true }}
+  {{ $headers := findRE "<h[2-6]" .Content }}
+  {{ $showToC := and $hasToC (ge (len $headers) 1) }}
+  {{ $slug := "" }}{{ with .File }}{{ $slug = .BaseFileName }}{{ end }}
+  {{ $related := index .Site.Data.related $slug }}
+  {{ if and .IsPage (or $showToC $related) }}
+  <div id="mobile-toc-panel" class="mobile-toc-panel" hidden>
+    {{ if $showToC }}
+    <div class="toc-sidebar-header">
+      <span class="toc-sidebar-title">Table of Contents</span>
+    </div>
+    <nav class="mobile-toc-content" aria-label="Table of Contents">
+      {{ .TableOfContents }}
+    </nav>
+    {{ end }}
+    {{/* Related Books section */}}
+    {{ with $related }}
+    <div class="related-books-section{{ if not $showToC }} no-toc{{ end }}">
+      <div class="toc-sidebar-header">
+        <span class="toc-sidebar-title">Related Books</span>
+      </div>
+      <nav class="mobile-toc-content" aria-label="Related Books">
+        <ul>
+          {{ range . }}
+          {{- $shortTitle := .title -}}
+          {{- if findRE ":" .title -}}
+            {{- $parts := split .title ":" -}}
+            {{- $shortTitle = index $parts 0 -}}
+          {{- end -}}
+          <li>
+            <a href="/books/{{ .slug }}/">{{ $shortTitle }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </nav>
+    </div>
+    {{ end }}
+  </div>
+  <div id="mobile-toc-backdrop" class="mobile-toc-backdrop" hidden aria-hidden="true"></div>
+  {{ else if not .IsPage }}
+  <!-- Mobile Collections panel (collapsible) - on list pages -->
+  {{- $books := where site.RegularPages "Section" "books" -}}
+  {{- $latestBooks := first 5 (sort $books "Params.dateAdded" "desc") -}}
+  {{ $collections := site.Taxonomies.collections }}
+  {{ $featured := site.Data.collections }}
+  {{ $hasCollections := and $featured $collections }}
+  {{ if or $hasCollections (gt (len $latestBooks) 0) }}
+  <div id="mobile-categories-panel" class="mobile-toc-panel" hidden>
+    {{ if $hasCollections }}
+    <div class="toc-sidebar-header">
+      <span class="toc-sidebar-title">Curated Collections</span>
+    </div>
+    <nav class="mobile-toc-content" aria-label="Collections">
+      <ul>
+        {{- range $featured }}
+        {{- $name := . | lower }}
+        {{- $pages := index $collections $name }}
+        {{- if $pages }}
+        {{- $slug := . | urlize }}
+        <li>
+          <a href="/collections/{{ $slug }}/">
+            {{ . }}
+            <span class="category-count">({{ len $pages }})</span>
+          </a>
+        </li>
+        {{- end }}
+        {{- end }}
+      </ul>
+    </nav>
+    {{ end }}
+    {{ if gt (len $latestBooks) 0 }}
+    <div class="related-books-section latest-books-section{{ if not $hasCollections }} no-toc{{ end }}">
+      <div class="toc-sidebar-header">
+        <span class="toc-sidebar-title">Latest Books</span>
+      </div>
+      <nav class="mobile-toc-content" aria-label="Latest books">
+        <ul>
+          {{- range $latestBooks }}
+          {{- $shortTitle := .Title -}}
+          {{- if findRE ":" .Title -}}
+            {{- $parts := split .Title ":" -}}
+            {{- $shortTitle = index $parts 0 -}}
+          {{- end -}}
+          <li>
+            <a href="{{ .Permalink }}">{{ $shortTitle }}</a>
+          </li>
+          {{- end }}
+        </ul>
+      </nav>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+  {{ end }}
+
+  <!-- Desktop layout wrapper -->
+  <div class="site-layout">
+    <!-- Desktop left sidebar (search) -->
+    {{ partial "search-sidebar.html" . }}
+
+    <div class="site-content">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      <footer>
+        {{ partial "footer.html" . }}
+      </footer>
+    </div>
+
+    <!-- Desktop right sidebar (TOC on single pages, Collections+Categories on list pages) -->
+    {{ if .IsPage }}
+      {{ partial "toc-sidebar.html" . }}
+    {{ else }}
+      {{ partial "categories-sidebar.html" . }}
+    {{ end }}
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      updateProgressBar();
+      window.addEventListener('scroll', updateProgressBar);
+
+      function updateProgressBar() {
+        var winScroll = window.scrollY;
+        var height = document.documentElement.scrollHeight - window.innerHeight;
+        var scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+        document.documentElement.style.setProperty('--scroll-width', Math.min(scrolled, 100) + '%');
+      }
+
+      // Mobile TOC toggle
+      var tocToggle = document.getElementById('mobile-toc-toggle');
+      var tocPanel = document.getElementById('mobile-toc-panel');
+      var tocBackdrop = document.getElementById('mobile-toc-backdrop');
+      var searchToggle = document.getElementById('mobile-search-toggle');
+      var searchPanel = document.getElementById('mobile-search-panel');
+      var mobileHeader = document.querySelector('.mobile-header');
+
+      function closeTocPanel() {
+        tocToggle.setAttribute('aria-expanded', 'false');
+        tocPanel.hidden = true;
+        if (tocBackdrop) tocBackdrop.hidden = true;
+      }
+
+      if (tocToggle && tocPanel) {
+        tocToggle.addEventListener('click', function() {
+          var isExpanded = tocToggle.getAttribute('aria-expanded') === 'true';
+          tocToggle.setAttribute('aria-expanded', !isExpanded);
+          tocPanel.hidden = isExpanded;
+
+          // Position panel below the mobile header
+          if (!isExpanded && mobileHeader) {
+            tocPanel.style.top = mobileHeader.offsetHeight + 'px';
+          }
+
+          // Toggle backdrop
+          if (tocBackdrop) tocBackdrop.hidden = isExpanded;
+
+          // Close search panel if open
+          if (!isExpanded && searchToggle && searchPanel) {
+            searchToggle.setAttribute('aria-expanded', 'false');
+            searchPanel.hidden = true;
+          }
+        });
+
+        // Close TOC when clicking a link
+        tocPanel.addEventListener('click', function(e) {
+          if (e.target.tagName === 'A') {
+            closeTocPanel();
+          }
+        });
+
+        // Close TOC when clicking backdrop
+        if (tocBackdrop) {
+          tocBackdrop.addEventListener('click', closeTocPanel);
+        }
+
+        // Close TOC on Escape key
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && !tocPanel.hidden) {
+            closeTocPanel();
+            tocToggle.focus();
+          }
+        });
+      }
+
+      // Update search toggle to close TOC panel
+      if (searchToggle && tocToggle && tocPanel) {
+        searchToggle.addEventListener('click', function() {
+          // Close TOC panel when opening search
+          var searchExpanded = searchToggle.getAttribute('aria-expanded') === 'true';
+          if (!searchExpanded) {
+            closeTocPanel();
+          }
+        });
+      }
+
+      // Mobile Categories toggle (for list pages)
+      var categoriesToggle = document.getElementById('mobile-categories-toggle');
+      var categoriesPanel = document.getElementById('mobile-categories-panel');
+
+      if (categoriesToggle && categoriesPanel) {
+        categoriesToggle.addEventListener('click', function() {
+          var isExpanded = categoriesToggle.getAttribute('aria-expanded') === 'true';
+          categoriesToggle.setAttribute('aria-expanded', !isExpanded);
+          categoriesPanel.hidden = isExpanded;
+
+          // Close search panel if open
+          if (!isExpanded && searchToggle && searchPanel) {
+            searchToggle.setAttribute('aria-expanded', 'false');
+            searchPanel.hidden = true;
+          }
+        });
+
+        // Close categories when clicking a link
+        categoriesPanel.addEventListener('click', function(e) {
+          if (e.target.tagName === 'A') {
+            categoriesToggle.setAttribute('aria-expanded', 'false');
+            categoriesPanel.hidden = true;
+          }
+        });
+      }
+
+      // Update search toggle to close categories panel
+      if (searchToggle && categoriesToggle && categoriesPanel) {
+        searchToggle.addEventListener('click', function() {
+          // Close categories panel when opening search
+          var searchExpanded = searchToggle.getAttribute('aria-expanded') === 'true';
+          if (!searchExpanded) {
+            categoriesToggle.setAttribute('aria-expanded', 'false');
+            categoriesPanel.hidden = true;
+          }
+        });
+      }
+    });
+  </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Sticky navigation functionality
+      const stickyNav = document.getElementById('sticky-nav');
+      if (!stickyNav) return; // Only run on pages with sticky nav
+
+      const breadcrumbPart = document.getElementById('breadcrumb-part');
+      const breadcrumbChapter = document.getElementById('breadcrumb-chapter');
+      const toggleBtn = document.getElementById('sticky-nav-toggle');
+      const dropdown = document.getElementById('sticky-nav-dropdown');
+      const separator = document.querySelector('.breadcrumb-separator');
+      const toc = document.querySelector('.toc');
+
+      // Get all h2 and h3 headers in the content
+      const headers = Array.from(document.querySelectorAll('main h2, main h3'));
+      if (headers.length === 0) return;
+
+      // Track current part (h2) and chapter (h3)
+      let currentPart = null;
+      let currentChapter = null;
+
+      // Create IntersectionObserver for headers
+      const headerObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const header = entry.target;
+            if (header.tagName === 'H2') {
+              currentPart = header;
+              currentChapter = null; // Reset chapter when entering new part
+            } else if (header.tagName === 'H3') {
+              currentChapter = header;
+            }
+            updateBreadcrumb();
+          }
+        });
+      }, {
+        rootMargin: '-10% 0px -80% 0px', // Trigger when header is near top of viewport
+        threshold: 0
+      });
+
+      // Also track when scrolling up past headers
+      const scrollTracker = () => {
+        const scrollY = window.scrollY;
+        let newPart = null;
+        let newChapter = null;
+
+        for (const header of headers) {
+          const rect = header.getBoundingClientRect();
+          const headerTop = scrollY + rect.top;
+
+          if (headerTop <= scrollY + 100) { // Header is above viewport top + offset
+            if (header.tagName === 'H2') {
+              newPart = header;
+              newChapter = null;
+            } else if (header.tagName === 'H3') {
+              newChapter = header;
+            }
+          }
+        }
+
+        if (newPart !== currentPart || newChapter !== currentChapter) {
+          currentPart = newPart;
+          currentChapter = newChapter;
+          updateBreadcrumb();
+        }
+      };
+
+      // Observe all headers
+      headers.forEach(header => headerObserver.observe(header));
+
+      // Also update on scroll for more accurate tracking
+      let scrollTimeout;
+      window.addEventListener('scroll', () => {
+        clearTimeout(scrollTimeout);
+        scrollTimeout = setTimeout(scrollTracker, 50);
+      }, { passive: true });
+
+      // Update breadcrumb display
+      function updateBreadcrumb() {
+        if (currentPart) {
+          breadcrumbPart.textContent = currentPart.textContent;
+          breadcrumbPart.dataset.id = currentPart.id;
+          breadcrumbPart.style.display = '';
+        } else {
+          breadcrumbPart.style.display = 'none';
+        }
+
+        if (currentChapter) {
+          breadcrumbChapter.textContent = currentChapter.textContent;
+          breadcrumbChapter.dataset.id = currentChapter.id;
+          breadcrumbChapter.style.display = '';
+          separator.style.display = '';
+        } else {
+          breadcrumbChapter.style.display = 'none';
+          separator.style.display = 'none';
+        }
+      }
+
+      // Show/hide sticky nav based on TOC visibility
+      if (toc) {
+        const tocObserver = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              stickyNav.classList.remove('visible');
+            } else {
+              // Only show if we've scrolled past the TOC (not before it)
+              const tocRect = toc.getBoundingClientRect();
+              if (tocRect.bottom < 0) {
+                stickyNav.classList.add('visible');
+              } else {
+                stickyNav.classList.remove('visible');
+              }
+            }
+          });
+        }, {
+          threshold: 0,
+          rootMargin: '0px'
+        });
+        tocObserver.observe(toc);
+      } else {
+        // No TOC, show after scrolling a bit
+        window.addEventListener('scroll', () => {
+          if (window.scrollY > 300) {
+            stickyNav.classList.add('visible');
+          } else {
+            stickyNav.classList.remove('visible');
+          }
+        }, { passive: true });
+      }
+
+      // Breadcrumb click/keyboard navigation
+      function scrollToId(el) {
+        const id = el.dataset.id;
+        if (id) {
+          const target = document.getElementById(id);
+          if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+
+      function onActivate(el) {
+        el.addEventListener('click', () => scrollToId(el));
+        el.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            scrollToId(el);
+          }
+        });
+      }
+
+      onActivate(breadcrumbPart);
+      onActivate(breadcrumbChapter);
+
+      // Dropdown toggle
+      toggleBtn.addEventListener('click', () => {
+        const isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+        toggleBtn.setAttribute('aria-expanded', !isExpanded);
+        dropdown.setAttribute('aria-hidden', isExpanded);
+      });
+
+      // Close dropdown when clicking a link
+      dropdown.addEventListener('click', (e) => {
+        if (e.target.tagName === 'A') {
+          toggleBtn.setAttribute('aria-expanded', 'false');
+          dropdown.setAttribute('aria-hidden', 'true');
+        }
+      });
+
+      // Close dropdown when clicking outside
+      document.addEventListener('click', (e) => {
+        if (!stickyNav.contains(e.target)) {
+          toggleBtn.setAttribute('aria-expanded', 'false');
+          dropdown.setAttribute('aria-hidden', 'true');
+        }
+      });
+
+      // Initialize breadcrumb state
+      scrollTracker();
+    });
+  </script>
+
+</body>
+
+</html>

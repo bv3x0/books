@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ with .Description | default .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<meta property="og:title" content="{{ .Title }}">
+{{ with .Description | default .Site.Params.description }}<meta property="og:description" content="{{ . }}">{{ end }}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "books/index.xml" | absURL }}">
+{{ partialCached "head/favicon.html" . }}
+<!-- IBM Plex Serif for thesis banners (self-hosted to avoid layout shift) -->
+<style>
+@font-face { font-family:'IBM Plex Serif'; font-style:normal; font-weight:300; font-display:swap; src:url('/fonts/ibm-plex-serif-300.woff2') format('woff2'); }
+@font-face { font-family:'IBM Plex Serif'; font-style:normal; font-weight:400; font-display:swap; src:url('/fonts/ibm-plex-serif-400.woff2') format('woff2'); }
+@font-face { font-family:'IBM Plex Serif'; font-style:italic; font-weight:400; font-display:swap; src:url('/fonts/ibm-plex-serif-400i.woff2') format('woff2'); }
+</style>
+<link rel="preload" href="/fonts/ibm-plex-serif-300.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/ibm-plex-serif-400.woff2" as="font" type="font/woff2" crossorigin>
+{{ partialCached "head/css.html" . }}

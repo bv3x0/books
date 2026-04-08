@@ -1,0 +1,30 @@
+{{/* Collections sidebar for homepage and taxonomy pages */}}
+{{/* Shows only collections listed in data/collections.json */}}
+
+{{ $featured := site.Data.collections }}
+{{ $taxonomy := site.Taxonomies.collections }}
+{{ if and $featured $taxonomy }}
+<aside id="collections-sidebar" class="toc-sidebar" aria-label="Collections">
+  <div class="toc-sidebar-header">
+    <span class="toc-sidebar-title">Collections</span>
+  </div>
+
+  <nav class="toc-sidebar-content" aria-label="Book collections">
+    <ul>
+      {{- range $featured }}
+      {{- $name := . | urlize }}
+      {{- $pages := index $taxonomy $name }}
+      {{- if $pages }}
+      {{- $termPage := site.GetPage (printf "/collections/%s" $name) }}
+      <li>
+        <a href="{{ $termPage.Permalink }}"{{ if eq $.Title $termPage.Title }} class="active"{{ end }}>
+          {{ $termPage.Title }}
+          <span class="category-count">({{ len $pages }})</span>
+        </a>
+      </li>
+      {{- end }}
+      {{- end }}
+    </ul>
+  </nav>
+</aside>
+{{ end }}

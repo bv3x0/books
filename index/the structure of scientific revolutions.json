@@ -1,0 +1,2253 @@
+{
+  "version": "2.1",
+  "book": {
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "year": 1962,
+    "categories": [
+      "philosophy",
+      "science",
+      "history"
+    ],
+    "thesis": "Science progresses not through gradual accumulation of knowledge, but through revolutionary paradigm shifts where entire worldviews are replaced by incompatible new ones."
+  },
+  "claims": [
+    {
+      "id": "the-structure-of-scientific-revolutions-001",
+      "text": "Structure emerged from Kuhn's transformative encounter with Aristotelian physics, which led him to realize that past scientists weren't simply wrong but operated within entirely different conceptual frameworks",
+      "chapter": "Introductory Essay by Ian Hacking",
+      "concepts": [
+        "paradigm_shifts",
+        "conceptual_frameworks",
+        "scientific_worldviews",
+        "religious_epistemology"
+      ],
+      "entities": {
+        "people": [
+          "Thomas Kuhn",
+          "Aristotle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Aristotle's Physics",
+          "The Structure of Scientific Revolutions"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Reading Aristotle's Physics revealed that ancient scientists weren't just mistaken but thought differently about fundamental concepts like motion",
+          "speaker": null
+        },
+        {
+          "text": "This experience showed Kuhn that scientific change involves shifts in basic categories of thought, not just accumulation of facts",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-002",
+      "text": "The book's core structure follows a predictable pattern: normal science guided by paradigms leads to anomalies, then crisis, and finally revolutionary paradigm change that establishes new normal science",
+      "chapter": "Introductory Essay by Ian Hacking",
+      "concepts": [
+        "normal_science",
+        "paradigm_shifts",
+        "crisis_periods",
+        "scientific_methodology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Normal science involves puzzle-solving within accepted paradigms rather than seeking major novelties",
+          "speaker": null
+        },
+        {
+          "text": "Anomalies that resist normal problem-solving eventually create crises that open possibilities for revolutionary change",
+          "speaker": null
+        },
+        {
+          "text": "New paradigms cannot be logically derived from old ones but require conversion experiences analogous to gestalt switches",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-003",
+      "text": "Kuhn's concept of incommensurability\u2014the idea that competing paradigms cannot be directly compared\u2014sparked decades of philosophical debate about scientific rationality and relativism",
+      "chapter": "Introductory Essay by Ian Hacking",
+      "concepts": [
+        "incommensurability",
+        "scientific_rationality",
+        "relativism",
+        "communication_breakdown"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientists operating under different paradigms literally see different worlds and cannot fully communicate across paradigm boundaries",
+          "speaker": null
+        },
+        {
+          "text": "This led critics to accuse Kuhn of making science irrational and relativistic, charges he consistently denied",
+          "speaker": null
+        },
+        {
+          "text": "The debate revealed deep tensions between logical positivist assumptions and historical studies of actual scientific practice",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-004",
+      "text": "The book's influence extended far beyond philosophy of science to reshape understanding of knowledge and change in numerous fields, despite Kuhn's focus on natural sciences",
+      "chapter": "Introductory Essay by Ian Hacking",
+      "concepts": [
+        "interdisciplinary_influence",
+        "popular_culture",
+        "academic_influence",
+        "conceptual_migration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Structure became one of the most cited academic works of the 20th century across multiple disciplines",
+          "speaker": null
+        },
+        {
+          "text": "The term 'paradigm shift' entered popular culture and is now used far beyond scientific contexts",
+          "speaker": null
+        },
+        {
+          "text": "Kuhn himself was ambivalent about applications to social sciences and humanities",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-005",
+      "text": "Traditional images of science as cumulative accumulation of facts and theories are fundamentally misleading because they derive from textbooks rather than historical study of actual scientific practice",
+      "chapter": "Introduction: A Role for History",
+      "concepts": [
+        "cumulative_knowledge",
+        "textbook_bias",
+        "scientific_mythology",
+        "historiography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Science textbooks present current knowledge as if it developed through simple addition of discoveries over time",
+          "speaker": null
+        },
+        {
+          "text": "This textbook image makes science appear as piecemeal addition of facts, laws, and theories to an ever-growing stockpile",
+          "speaker": null
+        },
+        {
+          "text": "Historical investigation reveals that scientific development is far more complex and revolutionary than textbooks suggest",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-006",
+      "text": "Historians studying actual scientific practice increasingly find that out-of-date theories like Aristotelian dynamics or phlogistic chemistry were neither unscientific nor products of human error, but represented coherent scientific worldviews",
+      "chapter": "Introduction: A Role for History",
+      "concepts": [
+        "historical_legitimacy",
+        "theoretical_coherence",
+        "scientific_worldviews",
+        "contextual_rationality"
+      ],
+      "entities": {
+        "people": [
+          "Aristotle"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Careful study of phlogistic chemistry and caloric thermodynamics shows they were scientifically legitimate within their historical contexts",
+          "speaker": null
+        },
+        {
+          "text": "These theories were produced by the same sorts of methods that lead to modern scientific knowledge",
+          "speaker": null
+        },
+        {
+          "text": "If discarded theories are called myths, then myths can be produced by scientific methods and held for scientific reasons",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-007",
+      "text": "The new historiographic approach reveals that scientific communities must agree on fundamental questions about the nature of reality and legitimate methods before normal research can proceed effectively",
+      "chapter": "Introduction: A Role for History",
+      "concepts": [
+        "scientific_consensus",
+        "fundamental_commitments",
+        "professional_education",
+        "normal_science"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientists need firm answers to questions like: What are the fundamental entities of the universe and how do they interact?",
+          "speaker": null
+        },
+        {
+          "text": "These answers become embedded in scientific education and exert a deep hold on the scientific mind",
+          "speaker": null
+        },
+        {
+          "text": "Normal science involves forcing nature into the conceptual boxes supplied by professional education",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-008",
+      "text": "Revolutionary episodes in science occur when normal research fails to solve problems it should be able to handle, leading communities to abandon one set of commitments for an incompatible alternative",
+      "chapter": "Introduction: A Role for History",
+      "concepts": [
+        "scientific_revolutions",
+        "crisis_periods",
+        "paradigm_abandonment",
+        "extraordinary_science"
+      ],
+      "entities": {
+        "people": [
+          "Copernicus",
+          "Newton",
+          "Lavoisier",
+          "Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Normal science suppresses fundamental novelties because they threaten basic commitments",
+          "speaker": null
+        },
+        {
+          "text": "When normal problems resist solution despite the best efforts of competent scientists, extraordinary investigations begin",
+          "speaker": null
+        },
+        {
+          "text": "These crises lead to new sets of commitments and new bases for scientific practice",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-009",
+      "text": "Paradigms are concrete scientific achievements that attract adherents away from competing approaches while leaving open problems for further research, serving as models from which coherent research traditions spring",
+      "chapter": "The Route to Normal Science",
+      "concepts": [
+        "paradigms",
+        "scientific_achievements",
+        "research_traditions",
+        "model_examples"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Lavoisier",
+          "Franklin"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Principia",
+          "Lavoisier's Chemistry",
+          "Franklin's Electricity"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Examples include Newton's Principia, Lavoisier's Chemistry, and Franklin's Electricity",
+          "speaker": null
+        },
+        {
+          "text": "These works were sufficiently unprecedented to attract followers and sufficiently open-ended to provide problems for research",
+          "speaker": null
+        },
+        {
+          "text": "Paradigms include law, theory, application, and instrumentation together as integrated achievements",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-010",
+      "text": "Before paradigms emerge, scientific fields are characterized by competing schools with fundamentally different approaches, as seen in pre-Newtonian optics where various theories of light coexisted without resolution",
+      "chapter": "The Route to Normal Science",
+      "concepts": [
+        "preparadigm_science",
+        "competing_schools",
+        "theoretical_pluralism",
+        "foundational_disputes"
+      ],
+      "entities": {
+        "people": [
+          "Newton"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Pre-Newtonian optical theories included particles from bodies, modifications of intervening medium, and eye emanations",
+          "speaker": null
+        },
+        {
+          "text": "Each school emphasized particular phenomena their theory could explain while treating others as secondary problems",
+          "speaker": null
+        },
+        {
+          "text": "Without common beliefs, each writer felt forced to build the field anew from foundations",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-011",
+      "text": "Early electrical research in the 18th century exemplifies preparadigm science, with experimenters like Hauksbee, Gray, and Franklin developing incompatible theories that had only family resemblances despite studying the same phenomena",
+      "chapter": "The Route to Normal Science",
+      "concepts": [
+        "preparadigm_research",
+        "theoretical_competition",
+        "experimental_tradition",
+        "paradigm_emergence"
+      ],
+      "entities": {
+        "people": [
+          "Hauksbee",
+          "Gray",
+          "Franklin",
+          "Watson",
+          "Nollet"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Some groups treated attraction and repulsion as equally fundamental, others saw repulsion as secondary mechanical rebounding",
+          "speaker": null
+        },
+        {
+          "text": "Different schools focused on conduction effects, frictional generation, or fluid-like behavior of electricity",
+          "speaker": null
+        },
+        {
+          "text": "Only Franklin's work provided a theory that could account for most electrical effects with equal facility",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-012",
+      "text": "The emergence of paradigms transforms scientific communities by eliminating competing schools and enabling more specialized, esoteric research directed at puzzle-solving rather than fundamental questions",
+      "chapter": "The Route to Normal Science",
+      "concepts": [
+        "paradigm_adoption",
+        "scientific_specialization",
+        "community_consensus",
+        "research_focus"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Older schools gradually disappear as members convert to new paradigms or are read out of the profession",
+          "speaker": null
+        },
+        {
+          "text": "The paradigm implies a more rigid definition of the field and its legitimate problems",
+          "speaker": null
+        },
+        {
+          "text": "Scientists can concentrate on subtle aspects of phenomena rather than constantly justifying basic approaches",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-013",
+      "text": "Normal science aims to force nature into the preformed conceptual boxes supplied by paradigms rather than discovering fundamentally new phenomena or theories, focusing on actualizing paradigm promises through detailed investigation",
+      "chapter": "The Nature of Normal Science",
+      "concepts": [
+        "normal_science",
+        "paradigm_constraints",
+        "puzzle_solving",
+        "theoretical_articulation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Normal science does not aim to call forth new sorts of phenomena\u2014those that don't fit the paradigm are often not seen at all",
+          "speaker": null
+        },
+        {
+          "text": "Scientists are often intolerant of new theories invented by others during normal science periods",
+          "speaker": null
+        },
+        {
+          "text": "The enterprise focuses on articulation of phenomena and theories the paradigm already supplies",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-014",
+      "text": "Factual scientific investigation in normal science focuses on three main categories: determining significant facts more precisely, matching facts with theoretical predictions, and articulating theoretical implications",
+      "chapter": "The Nature of Normal Science",
+      "concepts": [
+        "empirical_research",
+        "precision_measurement",
+        "theory_testing",
+        "constant_determination"
+      ],
+      "entities": {
+        "people": [
+          "Tycho Brahe",
+          "E. O. Lawrence",
+          "Atwood",
+          "Foucault",
+          "Cavendish"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Significant fact determination includes stellar positions, wave lengths, electrical conductivities, and chemical compositions",
+          "speaker": null
+        },
+        {
+          "text": "Theory-matching work includes demonstrations like Atwood's machine for Newton's second law and Foucault's apparatus for light speed",
+          "speaker": null
+        },
+        {
+          "text": "Theoretical articulation involves determining physical constants and deriving quantitative laws from paradigm frameworks",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-015",
+      "text": "Theoretical work in normal science involves applying existing paradigms to new situations and problems, often requiring sophisticated mathematical manipulation and conceptual development",
+      "chapter": "The Nature of Normal Science",
+      "concepts": [
+        "theoretical_development",
+        "mathematical_application",
+        "paradigm_refinement",
+        "conceptual_clarification"
+      ],
+      "entities": {
+        "people": [
+          "Euler",
+          "Lagrange",
+          "Laplace",
+          "Gauss",
+          "Hamilton"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Principia"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Eighteenth-century mathematicians like Euler, Lagrange, and Laplace worked to improve matches between Newton's paradigm and celestial observations",
+          "speaker": null
+        },
+        {
+          "text": "Much theoretical work aims at clarification through reformulation of paradigm theories in more coherent forms",
+          "speaker": null
+        },
+        {
+          "text": "Problems of paradigm articulation are simultaneously theoretical and experimental, requiring both conceptual and empirical work",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-016",
+      "text": "Normal science problems fall into three exhaustive categories\u2014fact determination, theory matching, and theoretical articulation\u2014with extraordinary problems emerging only when normal research fails",
+      "chapter": "The Nature of Normal Science",
+      "concepts": [
+        "problem_classification",
+        "research_categories",
+        "extraordinary_science",
+        "paradigm_dependence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The overwhelming majority of problems undertaken by even the best scientists fall into these three normal science categories",
+          "speaker": null
+        },
+        {
+          "text": "Extraordinary problems emerge only on special occasions prepared by advances in normal research",
+          "speaker": null
+        },
+        {
+          "text": "Work under a paradigm cannot be conducted in any other way\u2014to desert the paradigm is to cease practicing the science it defines",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-017",
+      "text": "Normal research problems aim remarkably little at producing major novelties, with most results known in advance except for esoteric details that test the scientist's puzzle-solving abilities",
+      "chapter": "Normal Science as Puzzle-solving",
+      "concepts": [
+        "research_expectations",
+        "incremental_progress",
+        "puzzle_solving",
+        "predictable_outcomes"
+      ],
+      "entities": {
+        "people": [
+          "Coulomb"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In wavelength measurements, everything but the most detailed results is known beforehand",
+          "speaker": null
+        },
+        {
+          "text": "Even when results seem uncertain, the range of anticipated outcomes is small compared to what imagination could conceive",
+          "speaker": null
+        },
+        {
+          "text": "Projects whose outcomes fall outside the narrow expected range are usually considered research failures",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-018",
+      "text": "Scientific puzzles differ from pressing practical problems because they must have assured solutions and be solvable with available conceptual and instrumental tools, rather than addressing socially urgent needs",
+      "chapter": "Normal Science as Puzzle-solving",
+      "concepts": [
+        "problem_legitimacy",
+        "solution_assurance",
+        "scientific_isolation",
+        "paradigm_constraints"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Problems like curing cancer may not be puzzles because they might have no solution within current frameworks",
+          "speaker": null
+        },
+        {
+          "text": "A jigsaw puzzle made from pieces of two different puzzles would not be a legitimate puzzle because solution cannot be assured",
+          "speaker": null
+        },
+        {
+          "text": "Paradigms insulate scientific communities from socially important problems that cannot be reduced to puzzle form",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-019",
+      "text": "Paradigms function like rules for puzzle-solving by constraining both the nature of acceptable solutions and the steps permitted to reach them, though these constraints operate more like established viewpoints than explicit rules",
+      "chapter": "Normal Science as Puzzle-solving",
+      "concepts": [
+        "methodological_problems",
+        "solution_criteria",
+        "theoretical_validation",
+        "instrumental_legitimacy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Solutions must satisfy specific criteria\u2014like using all jigsaw pieces with plain sides down and proper interlocking",
+          "speaker": null
+        },
+        {
+          "text": "Scientists building instruments must demonstrate their results using established optical theory, not just produce numbers",
+          "speaker": null
+        },
+        {
+          "text": "Electron-scattering data had no significance until related to theories predicting wave-like behavior of matter",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-020",
+      "text": "Rules governing scientific practice include explicit laws and theories, preferred instrumentation and methods, higher-level metaphysical commitments, and fundamental values about the nature of scientific problems",
+      "chapter": "Normal Science as Puzzle-solving",
+      "concepts": [
+        "scientific_rules",
+        "methodological_commitments",
+        "metaphysical_assumptions",
+        "scientific_values"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Maxwell",
+          "Descartes"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Newton's Laws and Maxwell's equations provide explicit constraints on legitimate problems and solutions",
+          "speaker": null
+        },
+        {
+          "text": "Commitments to mechanico-corpuscular explanation in the 17th century shaped what counted as acceptable scientific work",
+          "speaker": null
+        },
+        {
+          "text": "Fundamental values include concerns about understanding the world, extending precision, and scrutinizing nature in empirical detail",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-021",
+      "text": "Scientific communities can be identified through their shared paradigms, but determining shared rules proves more difficult and less satisfactory because scientists often disagree about abstract formulations of their practice",
+      "chapter": "The Priority of Paradigms",
+      "concepts": [
+        "paradigm_identification",
+        "rule_abstraction",
+        "scientific_communities",
+        "practical_agreement"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Lavoisier",
+          "Maxwell",
+          "Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Historians can relatively easily identify community paradigms through textbooks, lectures, and laboratory exercises",
+          "speaker": null
+        },
+        {
+          "text": "Abstracting explicit rules from paradigms often yields formulations too strong or too weak to capture actual practice",
+          "speaker": null
+        },
+        {
+          "text": "Scientists can agree on paradigm identification while disagreeing about abstract characteristics that make solutions permanent",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-022",
+      "text": "Wittgenstein's analysis of language games demonstrates that meaningful terms can be applied consistently without explicit definitions, through family resemblances among paradigm cases rather than shared essential properties",
+      "chapter": "The Priority of Paradigms",
+      "concepts": [
+        "family_resemblance",
+        "language_games",
+        "pattern_recognition",
+        "conceptual_similarity"
+      ],
+      "entities": {
+        "people": [
+          "Ludwig Wittgenstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Philosophical Investigations"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Games, chairs, and leaves form natural families constituted by overlapping and crisscrossing resemblances rather than common characteristics",
+          "speaker": null
+        },
+        {
+          "text": "We apply 'game' to new activities because they bear family resemblance to previously encountered examples",
+          "speaker": null
+        },
+        {
+          "text": "Only if natural families overlapped completely would success in identification provide evidence for common characteristics",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-023",
+      "text": "Scientific education teaches students to recognize problems and solutions through exemplars rather than explicit rules, with learning occurring through practice with concrete applications rather than abstract theory",
+      "chapter": "The Priority of Paradigms",
+      "concepts": [
+        "scientific_education",
+        "tacit_knowledge",
+        "learning_by_example",
+        "practical_competence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Students learn concepts like 'force' and 'mass' through observing and participating in their application to problem-solving",
+          "speaker": null
+        },
+        {
+          "text": "New theories are always announced with concrete applications\u2014without them, theories wouldn't be candidates for acceptance",
+          "speaker": null
+        },
+        {
+          "text": "Scientists show their grasp of paradigms mainly through their ability to do successful research, not through explicit articulation",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-024",
+      "text": "Rules become important and are explicitly debated only when paradigms are felt to be insecure, particularly during preparadigm periods and scientific revolutions, while secure paradigms function without explicit rule formulation",
+      "chapter": "The Priority of Paradigms",
+      "concepts": [
+        "paradigm_security",
+        "methodological_debates",
+        "revolutionary_periods",
+        "rule_articulation"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Galileo",
+          "Maxwell"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Preparadigm periods feature frequent debates over legitimate methods, problems, and standards that define schools rather than produce agreement",
+          "speaker": null
+        },
+        {
+          "text": "The transition from Newtonian to quantum mechanics evoked debates about the nature and standards of physics",
+          "speaker": null
+        },
+        {
+          "text": "When paradigms remain secure, they function without agreement over rationalization or any attempted rationalization at all",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-025",
+      "text": "The discovery of oxygen by Priestley and Lavoisier illustrates that scientific discoveries are extended processes rather than single events, with different claimants seeing different things at different times",
+      "chapter": "Anomaly and the Emergence of Scientific Discoveries",
+      "concepts": [
+        "discovery_process",
+        "theoretical_interpretation",
+        "conceptual_development",
+        "scientific_priority"
+      ],
+      "entities": {
+        "people": [
+          "Joseph Priestley",
+          "Antoine Lavoisier",
+          "C. W. Scheele"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Priestley initially identified his gas as nitrous oxide, then as dephlogisticated air, never accepting it as a distinct species",
+          "speaker": null
+        },
+        {
+          "text": "Lavoisier first saw it as 'air itself entire' but later developed the oxygen theory of combustion around it",
+          "speaker": null
+        },
+        {
+          "text": "Even Lavoisier maintained that oxygen was an atomic principle of acidity combined with caloric until after 1810",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-026",
+      "text": "Roentgen's discovery of X-rays demonstrates how anomalous observations\u2014phenomena for which paradigms have not prepared investigators\u2014play essential roles in preparing the way for perception of novelty",
+      "chapter": "Anomaly and the Emergence of Scientific Discoveries",
+      "concepts": [
+        "anomalous_observations",
+        "paradigm_violation",
+        "investigative_process",
+        "novelty_recognition"
+      ],
+      "entities": {
+        "people": [
+          "Wilhelm Roentgen",
+          "Lord Kelvin"
+        ],
+        "places": [
+          "W\u00fcrzburg"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Roentgen noticed a barium platinocyanide screen glowing when his cathode ray apparatus was operating, which it should not have done",
+          "speaker": null
+        },
+        {
+          "text": "At least one other investigator had seen the same glow but discovered nothing, showing that noticing anomaly alone is insufficient",
+          "speaker": null
+        },
+        {
+          "text": "Seven weeks of investigation were required before Roentgen convinced himself he had discovered a new form of radiation",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-027",
+      "text": "X-rays violated deeply entrenched expectations embedded in laboratory procedures and instrumentation, forcing recognition that previous experiments had been contaminated by uncontrolled variables",
+      "chapter": "Anomaly and the Emergence of Scientific Discoveries",
+      "concepts": [
+        "instrumental_expectations",
+        "experimental_contamination",
+        "methodological_revision",
+        "laboratory_practice"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If Roentgen's apparatus produced X-rays, then other European laboratories had unknowingly been producing them for years",
+          "speaker": null
+        },
+        {
+          "text": "Previously completed work would have to be redone because scientists had failed to recognize and control a relevant variable",
+          "speaker": null
+        },
+        {
+          "text": "Several types of apparatus would require lead shielding in future experiments",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-028",
+      "text": "The Bruner-Postman playing card experiment reveals that perception of anomalies follows a regular pattern: initial assimilation to familiar categories, followed by awareness of difficulty, then sudden correct recognition or persistent distress",
+      "chapter": "Anomaly and the Emergence of Scientific Discoveries",
+      "concepts": [
+        "perceptual_anomaly",
+        "pattern_recognition",
+        "cognitive_adaptation",
+        "conceptual_categories"
+      ],
+      "entities": {
+        "people": [
+          "Jerome Bruner",
+          "Leo Postman"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Anomalous cards like red six of spades were initially seen as normal cards without hesitation or puzzlement",
+          "speaker": null
+        },
+        {
+          "text": "Increased exposure led to hesitation and awareness that something was wrong: 'the black has a red border'",
+          "speaker": null
+        },
+        {
+          "text": "Some subjects never achieved correct identification even at forty times normal exposure, experiencing acute personal distress",
+          "speaker": null
+        },
+        {
+          "text": "One subject exclaimed: 'I can't make the suit out, whatever it is. It didn't even look like a card that time'",
+          "speaker": "experimental subject"
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-029",
+      "text": "The Copernican revolution emerged from a recognized crisis in Ptolemaic astronomy, where increasing complexity and decreasing accuracy made the system appear monstrous to practitioners",
+      "chapter": "Crisis and the Emergence of Scientific Theories",
+      "concepts": [
+        "astronomical_crisis",
+        "theoretical_complexity",
+        "paradigm_breakdown",
+        "system_failure"
+      ],
+      "entities": {
+        "people": [
+          "Copernicus",
+          "Alfonso X",
+          "Domenico da Novara"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "De Revolutionibus"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Alfonso X proclaimed that if God had consulted him when creating the universe, he would have received good advice",
+          "speaker": "Alfonso X"
+        },
+        {
+          "text": "Domenico da Novara held that no system so cumbersome and inaccurate as the Ptolemaic could possibly be true of nature",
+          "speaker": null
+        },
+        {
+          "text": "Copernicus wrote that the astronomical tradition had finally created only a monster",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-030",
+      "text": "The chemical revolution of Lavoisier emerged from dual crises in pneumatic chemistry and weight relations that made the phlogiston theory increasingly difficult to apply consistently",
+      "chapter": "Crisis and the Emergence of Scientific Theories",
+      "concepts": [
+        "chemical_revolution",
+        "theoretical_proliferation",
+        "pneumatic_chemistry",
+        "weight_relations"
+      ],
+      "entities": {
+        "people": [
+          "Antoine Lavoisier",
+          "Joseph Black",
+          "Cavendish",
+          "Priestley",
+          "Scheele"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "After Joseph Black's work on fixed air in 1756, investigation of gases proceeded rapidly but phlogiston theory proved inadequate for the variety discovered",
+          "speaker": null
+        },
+        {
+          "text": "By the 1770s there were almost as many versions of phlogiston theory as there were pneumatic chemists",
+          "speaker": null
+        },
+        {
+          "text": "The problem of weight gain during roasting, known since Islamic chemistry, became increasingly difficult to explain",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-031",
+      "text": "Einstein's relativity theory emerged from a late 19th-century crisis in physics concerning the relationship between electromagnetic theory and mechanical ether theories",
+      "chapter": "Crisis and the Emergence of Scientific Theories",
+      "concepts": [
+        "physics_crisis",
+        "electromagnetic_theory",
+        "ether_problem",
+        "theoretical_proliferation"
+      ],
+      "entities": {
+        "people": [
+          "Albert Einstein",
+          "James Clerk Maxwell",
+          "Michelson",
+          "Morley",
+          "Lorentz",
+          "Fitzgerald"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Maxwell's electromagnetic theory proved difficult to reconcile with mechanical explanations requiring ether drag",
+          "speaker": null
+        },
+        {
+          "text": "Attempts to detect motion through the ether, including Michelson-Morley experiments, consistently failed",
+          "speaker": null
+        },
+        {
+          "text": "The 1890s witnessed proliferation of competing theories trying to work ether drag into Maxwell's framework",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-032",
+      "text": "Historical anticipations of revolutionary theories were ignored when proposed without accompanying crises, demonstrating that breakdown of normal science is prerequisite to theoretical innovation",
+      "chapter": "Crisis and the Emergence of Scientific Theories",
+      "concepts": [
+        "theoretical_anticipation",
+        "crisis_necessity",
+        "historical_timing",
+        "problem_recognition"
+      ],
+      "entities": {
+        "people": [
+          "Aristarchus",
+          "Rey",
+          "Hooke",
+          "Mayow",
+          "Newton"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Aristarchus proposed heliocentric astronomy in the 3rd century BC but was ignored because no crisis existed in geocentric systems",
+          "speaker": null
+        },
+        {
+          "text": "17th-century theories of combustion by atmospheric absorption failed because they didn't address recognized problems in normal science",
+          "speaker": null
+        },
+        {
+          "text": "Newton's relativistic critics were neglected because their challenges didn't confront acknowledged difficulties",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-033",
+      "text": "Scientists never renounce paradigms simply because of severe anomalies or counterinstances, since doing so without an alternative would mean rejecting science itself",
+      "chapter": "The Response to Crisis",
+      "concepts": [
+        "paradigm_rejection",
+        "counterinstances",
+        "theoretical_commitment",
+        "scientific_rationality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Though scientists may lose faith and consider alternatives, they do not treat anomalies as straightforward counterinstances",
+          "speaker": null
+        },
+        {
+          "text": "The decision to reject one paradigm is always simultaneously the decision to accept another",
+          "speaker": null
+        },
+        {
+          "text": "The act that reflects on the paradigm rather than the man would be like a carpenter blaming his tools",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-034",
+      "text": "All scientific paradigms face counterinstances because no paradigm completely resolves all problems it defines, making the distinction between normal science and crisis a matter of degree rather than kind",
+      "chapter": "The Response to Crisis",
+      "concepts": [
+        "universal_anomalies",
+        "perspective_dependence",
+        "crisis_conditions",
+        "rule_loosening"
+      ],
+      "entities": {
+        "people": [
+          "Copernicus",
+          "Ptolemy",
+          "Lavoisier",
+          "Priestley",
+          "Einstein",
+          "Lorentz"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Every problem that normal science treats as a puzzle can be viewed as a counterinstance from another perspective",
+          "speaker": null
+        },
+        {
+          "text": "Copernicus saw as counterinstances what Ptolemy's successors had seen as puzzles in observation-theory matching",
+          "speaker": null
+        },
+        {
+          "text": "Crisis loosens the rules of normal puzzle-solving in ways that permit new paradigms to emerge",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-035",
+      "text": "When crises develop, scientists engage in extraordinary research characterized by philosophical analysis, thought experiments, and proliferation of competing theoretical articulations",
+      "chapter": "The Response to Crisis",
+      "concepts": [
+        "extraordinary_research",
+        "philosophical_analysis",
+        "thought_experiments",
+        "crisis_discoveries"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Galileo",
+          "Einstein",
+          "Bohr",
+          "Lavoisier",
+          "Priestley"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The emergence of Newtonian physics and quantum mechanics were preceded and accompanied by fundamental philosophical analyses",
+          "speaker": null
+        },
+        {
+          "text": "Thought experiments by Galileo, Einstein, and Bohr exposed old paradigms to existing knowledge in ways that isolated crisis roots",
+          "speaker": null
+        },
+        {
+          "text": "Crisis often proliferates new discoveries as concentrated attention and anomaly awareness lead to novel findings",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-036",
+      "text": "Scientists who achieve fundamental paradigm innovations are typically either very young or new to the field, being less committed to traditional rules and more likely to see those rules as no longer defining a playable game",
+      "chapter": "The Response to Crisis",
+      "concepts": [
+        "paradigm_innovation",
+        "scientific_youth",
+        "intellectual_flexibility",
+        "creative_process"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Those who invent new paradigms have usually been less deeply committed by prior practice to traditional normal science rules",
+          "speaker": null
+        },
+        {
+          "text": "They are particularly likely to see that existing rules no longer define a workable research program",
+          "speaker": null
+        },
+        {
+          "text": "The process by which individuals invent new ways of ordering data remains largely inscrutable and may be permanently so",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-037",
+      "text": "Scientific revolutions parallel political revolutions by beginning with growing awareness that existing institutions or paradigms cannot adequately address problems they themselves helped create",
+      "chapter": "The Nature and Necessity of Scientific Revolutions",
+      "concepts": [
+        "revolutionary_analogy",
+        "institutional_failure",
+        "paradigm_inadequacy",
+        "community_crisis"
+      ],
+      "entities": {
+        "people": [
+          "Copernicus",
+          "Lavoisier",
+          "Kelvin",
+          "Crookes",
+          "Roentgen"
+        ],
+        "places": [
+          "Balkans"
+        ],
+        "events": [
+          "Balkan revolutions"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Political revolutions start when segments recognize that existing institutions have ceased to meet environmental problems",
+          "speaker": null
+        },
+        {
+          "text": "Scientific revolutions begin when communities sense that paradigms have ceased to function adequately in exploration",
+          "speaker": null
+        },
+        {
+          "text": "Both types of revolution can seem normal to outsiders while being fundamental to those directly affected",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-038",
+      "text": "Paradigm choice cannot be determined by normal evaluative procedures because competing paradigms are incommensurable\u2014they disagree about what problems and solutions are legitimate, making each paradigm partly circular in its self-justification",
+      "chapter": "The Nature and Necessity of Scientific Revolutions",
+      "concepts": [
+        "incommensurability",
+        "paradigm_choice",
+        "circular_arguments",
+        "evaluative_standards"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Each paradigm uses its own standards to argue in that paradigm's defense, creating inevitable circularity",
+          "speaker": null
+        },
+        {
+          "text": "Proponents disagree about the list of problems any candidate paradigm must resolve",
+          "speaker": null
+        },
+        {
+          "text": "Their standards and definitions of science are not the same, making complete logical contact impossible",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-039",
+      "text": "Scientific development cannot be fully cumulative because assimilation of new phenomena or theories typically demands destruction of prior paradigms and fundamental conceptual changes",
+      "chapter": "The Nature and Necessity of Scientific Revolutions",
+      "concepts": [
+        "cumulative_development",
+        "paradigm_destruction",
+        "conceptual_change",
+        "theoretical_incompatibility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Discovering life on the moon would be destructive of existing paradigms, while finding life elsewhere in the galaxy would not be",
+          "speaker": null
+        },
+        {
+          "text": "New theories could theoretically be higher-level links between existing theories without substantial change, like energy conservation",
+          "speaker": null
+        },
+        {
+          "text": "In practice, fundamental paradigm destruction and conflict between competing schools characterizes scientific development",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-040",
+      "text": "The relation between successive theories like Newtonian and Einsteinian mechanics cannot be one of logical compatibility, despite claims that the older theory is a special case of the newer one",
+      "chapter": "The Nature and Necessity of Scientific Revolutions",
+      "concepts": [
+        "theoretical_incompatibility",
+        "conceptual_transformation",
+        "meaning_change",
+        "retrospective_interpretation"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Newtonian mass is conserved while Einsteinian mass is convertible with energy\u2014they cannot be the same concept",
+          "speaker": null
+        },
+        {
+          "text": "Deriving 'Newton's Laws' from Einstein requires changing the meaning of fundamental terms like space, time, and mass",
+          "speaker": null
+        },
+        {
+          "text": "The transformation can only be undertaken with hindsight and explicit guidance of the more recent theory",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-041",
+      "text": "Herschel's discovery of Uranus demonstrates how paradigm changes transform perception, as what had been seen as a star for nearly a century became recognizable as a planet only after conceptual categories shifted",
+      "chapter": "Revolutions as Changes of World View",
+      "concepts": [
+        "perceptual_transformation",
+        "conceptual_categories",
+        "observational_history",
+        "paradigm_vision"
+      ],
+      "entities": {
+        "people": [
+          "William Herschel",
+          "Lexell"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "At least seventeen astronomers between 1690 and 1781 had observed Uranus in positions we now know it occupied",
+          "speaker": null
+        },
+        {
+          "text": "Herschel's improved telescope revealed unusual disk-size, leading him to announce discovery of a new comet",
+          "speaker": null
+        },
+        {
+          "text": "Only after months of unsuccessful attempts to fit a cometary orbit was it recognized as a planet",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-042",
+      "text": "Changes in scientific vision following paradigm shifts can be documented through historical examples like the post-Copernican discovery of celestial changes that Chinese astronomers had long recorded but Western astronomers had not seen",
+      "chapter": "Revolutions as Changes of World View",
+      "concepts": [
+        "cultural_vision",
+        "cosmological_beliefs",
+        "observational_paradigms",
+        "celestial_change"
+      ],
+      "entities": {
+        "people": [
+          "Copernicus",
+          "Galileo"
+        ],
+        "places": [
+          "China",
+          "Western Europe"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Western astronomers first saw changes in previously immutable heavens during the half-century after Copernicus",
+          "speaker": null
+        },
+        {
+          "text": "Chinese astronomers, whose cosmology permitted celestial change, had recorded new stars much earlier",
+          "speaker": null
+        },
+        {
+          "text": "Chinese had systematically recorded sunspots centuries before Galileo and contemporaries saw them",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-043",
+      "text": "Galileo's perception of pendular motion illustrates how paradigm-induced gestalt switches enable scientists to see regularities invisible under previous conceptual frameworks",
+      "chapter": "Revolutions as Changes of World View",
+      "concepts": [
+        "gestalt_switches",
+        "pendular_motion",
+        "conceptual_framework",
+        "perceptual_preparation"
+      ],
+      "entities": {
+        "people": [
+          "Galileo",
+          "Aristotle",
+          "Jean Buridan",
+          "Nicole Oresme"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Aristotelians saw swinging bodies as falling with difficulty, constrained by chains from reaching natural rest",
+          "speaker": null
+        },
+        {
+          "text": "Galileo saw a pendulum\u2014a body nearly repeating the same motion indefinitely",
+          "speaker": null
+        },
+        {
+          "text": "Galileo's training in impetus theory, which treated continuing motion as due to internal power, prepared him for this vision",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-044",
+      "text": "The claim that scientists work in different worlds after revolutions cannot be reduced to different interpretations of fixed data, because the data themselves are paradigm-dependent rather than theory-neutral",
+      "chapter": "Revolutions as Changes of World View",
+      "concepts": [
+        "world_change",
+        "data_dependence",
+        "observation_language",
+        "paradigm_relativity"
+      ],
+      "entities": {
+        "people": [
+          "Priestley",
+          "Lavoisier",
+          "Nelson Goodman"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Structure of Appearance"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "A pendulum is not a falling stone, nor is oxygen dephlogisticated air\u2014these are different phenomena, not different interpretations",
+          "speaker": null
+        },
+        {
+          "text": "Operations and measurements that scientists perform are selected for relevance to paradigm exploration, not given by nature",
+          "speaker": null
+        },
+        {
+          "text": "No current attempt to create a neutral observation language has succeeded\u2014all embody paradigm expectations",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-045",
+      "text": "Science textbooks systematically disguise the existence of scientific revolutions by presenting past achievements as contributions to current paradigm problems rather than as responses to different questions and standards",
+      "chapter": "The Invisibility of Revolutions",
+      "concepts": [
+        "textbook_bias",
+        "historical_distortion",
+        "cumulative_appearance",
+        "pedagogical_function"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Textbooks must be rewritten after each revolution and inevitably disguise the role and existence of the revolutions that produced them",
+          "speaker": null
+        },
+        {
+          "text": "Scientists of earlier ages are represented as having worked on the same fixed problems with the same fixed canons made scientific by recent revolutions",
+          "speaker": null
+        },
+        {
+          "text": "This makes science appear cumulative when paradigms are actually incommensurable across revolutionary changes",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-046",
+      "text": "Scientific education's reliance on textbooks rather than original sources creates a false sense of linear progress, unlike other fields where students encounter competing viewpoints through primary works and classics",
+      "chapter": "The Invisibility of Revolutions",
+      "concepts": [
+        "scientific_education",
+        "textbook_reliance",
+        "historical_isolation",
+        "pedagogical_efficiency"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Faraday",
+          "Einstein",
+          "Schr\u00f6dinger"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Science students rely mainly on textbooks until graduate research, while other fields use parallel readings in original sources",
+          "speaker": null
+        },
+        {
+          "text": "Students in history and philosophy constantly see the variety of problems and competing solutions their predecessors attempted",
+          "speaker": null
+        },
+        {
+          "text": "Science textbooks systematically substitute for creative literature, asking why students should read Newton when everything needed is in current texts",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-047",
+      "text": "Even scientists' accounts of their own discoveries are retrospectively distorted to appear more linear and cumulative than they actually were, as illustrated by Dalton's multiple incompatible accounts of developing his atomic theory",
+      "chapter": "The Invisibility of Revolutions",
+      "concepts": [
+        "retrospective_distortion",
+        "discovery_accounts",
+        "cumulative_illusion",
+        "interdisciplinary_transfer"
+      ],
+      "entities": {
+        "people": [
+          "John Dalton",
+          "Newton",
+          "Galileo"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "All three of Dalton's accounts make it appear he was interested from early on in chemical combining proportions he later solved",
+          "speaker": null
+        },
+        {
+          "text": "Actually, those problems seem to have occurred to him only with their solutions, near the end of his creative work",
+          "speaker": null
+        },
+        {
+          "text": "What Dalton's accounts omit are the revolutionary effects of applying physics and meteorology questions to chemistry",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-048",
+      "text": "The textbook tradition creates a persistent tendency to make scientific history appear linear even when revolutions fundamentally change the network of fact and theory that fits nature",
+      "chapter": "The Invisibility of Revolutions",
+      "concepts": [
+        "linear_historiography",
+        "brick_building_metaphor",
+        "problem_transformation",
+        "historical_discontinuity"
+      ],
+      "entities": {
+        "people": [
+          "Robert Boyle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Sceptical Chymist"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Textbooks imply that science reached its present state through individual discoveries and inventions gathered together like bricks in a building",
+          "speaker": null
+        },
+        {
+          "text": "Many current problems did not exist until after the most recent revolution and cannot be traced to the science's historical beginning",
+          "speaker": null
+        },
+        {
+          "text": "Earlier generations pursued different problems with different instruments and canons of solution than those used today",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-049",
+      "text": "Paradigm testing never consists of simple comparison with nature but occurs only through competition between two rival paradigms for the allegiance of the scientific community",
+      "chapter": "The Resolution of Revolutions",
+      "concepts": [
+        "paradigm_testing",
+        "theoretical_competition",
+        "puzzle_solving",
+        "verification_process"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientists engaged in normal science are puzzle-solvers, not paradigm testers\u2014they test moves, not the rules of the game",
+          "speaker": null
+        },
+        {
+          "text": "Testing situations arise only after persistent puzzle-solving failures create crises and alternative candidates emerge",
+          "speaker": null
+        },
+        {
+          "text": "This resembles probabilistic verification theories that compare different theories' abilities to explain available evidence",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-050",
+      "text": "Competing paradigm proponents inevitably fail to make complete contact because they disagree about fundamental problems, standards, and definitions, making them talk partly through each other",
+      "chapter": "The Resolution of Revolutions",
+      "concepts": [
+        "incommensurable_communication",
+        "paradigm_disagreement",
+        "standards_conflict",
+        "definitional_disputes"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Descartes",
+          "Aristotle",
+          "Lavoisier",
+          "Proust",
+          "Berthollet"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Newton's dynamics was rejected because it implied attractive forces existed rather than explaining their causes",
+          "speaker": null
+        },
+        {
+          "text": "Lavoisier's chemistry inhibited questions about why metals were alike, which phlogistic chemistry had asked and answered",
+          "speaker": null
+        },
+        {
+          "text": "Proust and Berthollet argued past each other about chemical composition because they saw compounds and mixtures differently",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-051",
+      "text": "Scientific conversion resembles religious or political conversion more than logical demonstration, occurring through persuasive arguments rather than compelling proofs",
+      "chapter": "The Resolution of Revolutions",
+      "concepts": [
+        "scientific_conversion",
+        "generational_change",
+        "persuasive_arguments",
+        "paradigm_allegiance"
+      ],
+      "entities": {
+        "people": [
+          "Max Planck",
+          "Charles Darwin",
+          "Priestley",
+          "Lord Kelvin"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Origin of Species",
+          "Scientific Autobiography"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Max Planck observed that new scientific truths triumph not by convincing opponents but because opponents eventually die and new generations grow up familiar with them",
+          "speaker": "Max Planck"
+        },
+        {
+          "text": "Darwin expected resistance from experienced naturalists whose minds were stocked with facts viewed from opposite perspectives",
+          "speaker": "Charles Darwin"
+        },
+        {
+          "text": "The transfer of allegiance from paradigm to paradigm is a conversion experience that cannot be forced",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-052",
+      "text": "Arguments that prove effective in paradigm debates include solving crisis-provoking problems, achieving superior quantitative precision, and predicting previously unsuspected phenomena",
+      "chapter": "The Resolution of Revolutions",
+      "concepts": [
+        "crisis_resolution",
+        "quantitative_precision",
+        "novel_predictions",
+        "paradigm_advantages"
+      ],
+      "entities": {
+        "people": [
+          "Copernicus",
+          "Newton",
+          "Lavoisier",
+          "Einstein",
+          "Kepler",
+          "Ptolemy",
+          "Fresnel",
+          "Poisson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Rudolphine tables"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Copernicus claimed to solve calendar problems, Newton to reconcile terrestrial and celestial mechanics, Lavoisier to solve gas-identity problems",
+          "speaker": null
+        },
+        {
+          "text": "Kepler's Rudolphine tables' quantitative superiority over Ptolemaic predictions was a major factor in conversions to Copernicanism",
+          "speaker": null
+        },
+        {
+          "text": "Fresnel's prediction of a white spot at the center of circular disk shadows provided dramatic confirmation of wave theory",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-053",
+      "text": "The question of whether fields are scientific often reflects concerns about progress rather than definitional issues, as fields worry about why they don't advance like physics rather than seeking abstract criteria for science",
+      "chapter": "Progress through Revolutions",
+      "concepts": [
+        "scientific_status",
+        "progress_anxiety",
+        "disciplinary_identity",
+        "consensus_formation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Debates about whether psychology or social sciences are really scientific often mask questions about developmental patterns",
+          "speaker": null
+        },
+        {
+          "text": "Questions being asked are really: Why does my field fail to move ahead like physics does?",
+          "speaker": null
+        },
+        {
+          "text": "These concerns will cease not when definitions are found, but when communities achieve consensus about accomplishments",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-054",
+      "text": "Normal science progresses effectively because mature scientific communities work from single paradigms, are insulated from lay demands, and focus exclusively on problems they can reasonably expect to solve",
+      "chapter": "Progress through Revolutions",
+      "concepts": [
+        "normal_science_efficiency",
+        "scientific_insulation",
+        "problem_selection",
+        "paradigm_consensus"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientists need not choose problems because they urgently need solution regardless of available tools, unlike engineers and doctors",
+          "speaker": null
+        },
+        {
+          "text": "Scientific education through textbooks rather than competing original sources creates shared commitments impossible in other fields",
+          "speaker": null
+        },
+        {
+          "text": "Insulation from society permits concentration on problems with good chances of solution rather than socially important ones",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-055",
+      "text": "Revolutionary progress occurs because scientific communities that make paradigm shifts inevitably see their results as progress, and community characteristics ensure accumulated problem-solving ability grows over time",
+      "chapter": "Progress through Revolutions",
+      "concepts": [
+        "revolutionary_progress",
+        "historical_rewriting",
+        "paradigm_preservation",
+        "problem_solving_growth"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "1984"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Revolutionary victors are in excellent position to ensure future community members see past history as progressive",
+          "speaker": null
+        },
+        {
+          "text": "New paradigms must seem to resolve outstanding problems and preserve most concrete problem-solving ability of predecessors",
+          "speaker": null
+        },
+        {
+          "text": "The nature of scientific communities provides virtual guarantee that both problem lists and solution precision will grow",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-056",
+      "text": "Scientific development resembles biological evolution\u2014it moves away from primitive beginnings toward greater articulation and specialization without progressing toward any preset goal or absolute truth",
+      "chapter": "Progress through Revolutions",
+      "concepts": [
+        "evolutionary_progress",
+        "goal_directed_change",
+        "natural_selection",
+        "scientific_development"
+      ],
+      "entities": {
+        "people": [
+          "Charles Darwin",
+          "Lamarck",
+          "Chambers",
+          "Spencer"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Origin of Species"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Darwin's theory troubled contemporaries not because of species change but because evolution had no goal set by God or nature",
+          "speaker": null
+        },
+        {
+          "text": "Natural selection operating on actual organisms produces more elaborate, specialized forms without advancing toward predetermined ends",
+          "speaker": null
+        },
+        {
+          "text": "We may need to substitute evolution-from-what-we-know for evolution-toward-what-we-wish-to-know",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-057",
+      "text": "The concept of paradigms should be separated from scientific communities, with paradigms identified by studying behavior of previously determined community members rather than using paradigms to define communities",
+      "chapter": "Postscript\u20141969",
+      "concepts": [
+        "community_structure",
+        "paradigm_identification",
+        "sociological_research",
+        "scientific_specialization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientific communities can be isolated through education patterns, literature sharing, communication networks, and conference attendance",
+          "speaker": null
+        },
+        {
+          "text": "Communities typically consist of perhaps one hundred members, sometimes significantly fewer",
+          "speaker": null
+        },
+        {
+          "text": "The circular definition\u2014paradigms are what communities share, communities are groups sharing paradigms\u2014creates real difficulties",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-058",
+      "text": "Paradigms operate in two distinct senses: as disciplinary matrices containing symbolic generalizations, models, and values shared by communities; and as concrete exemplars that guide research through similarity recognition rather than explicit rules",
+      "chapter": "Postscript\u20141969",
+      "concepts": [
+        "disciplinary_matrix",
+        "symbolic_generalizations",
+        "shared_models",
+        "exemplars"
+      ],
+      "entities": {
+        "people": [
+          "Ohm",
+          "Joule",
+          "Lenz"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Symbolic generalizations like f=ma function simultaneously as laws and as definitions of terms they deploy",
+          "speaker": null
+        },
+        {
+          "text": "Shared models include both ontological beliefs like atomic theory and heuristic analogies like billiard ball molecules",
+          "speaker": null
+        },
+        {
+          "text": "Exemplars are concrete problem-solutions that students encounter in textbooks and that show by example how scientific work is done",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-059",
+      "text": "Learning from exemplars involves tacit knowledge that cannot be reduced to explicit rules, similar to how we learn to recognize similarity patterns without being able to articulate the criteria we use",
+      "chapter": "Postscript\u20141969",
+      "concepts": [
+        "tacit_knowledge",
+        "similarity_recognition",
+        "pattern_learning",
+        "rule_independence"
+      ],
+      "entities": {
+        "people": [
+          "Galileo",
+          "Huyghens",
+          "Daniel Bernoulli",
+          "Michael Polanyi"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Students learn to see f=ma situations by working problems that show family resemblances rather than by memorizing application rules",
+          "speaker": null
+        },
+        {
+          "text": "Galileo, Huyghens, and Bernoulli solved different problems by recognizing deep similarities invisible without paradigm training",
+          "speaker": null
+        },
+        {
+          "text": "This knowledge is systematic and testable but cannot be paraphrased in terms of explicit rules and criteria",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-060",
+      "text": "Incommensurability should be understood as a translation problem between scientific language communities rather than complete failure of communication or absence of good reasons for theory choice",
+      "chapter": "Postscript\u20141969",
+      "concepts": [
+        "translation_problems",
+        "language_communities",
+        "scientific_communication",
+        "conversion_experience"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientists experiencing communication breakdown can learn to translate each other's theories and predict each other's behavior",
+          "speaker": null
+        },
+        {
+          "text": "Translation allows vicarious understanding of merits and defects of opposing viewpoints, serving as a tool for persuasion",
+          "speaker": null
+        },
+        {
+          "text": "Conversion differs from persuasion and resembles learning a new language natively rather than just translating into one's own",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-001",
+      "title": "Introductory Essay by Ian Hacking",
+      "summary": "Hacking contextualizes Kuhn's revolutionary work within 20th-century philosophy of science, explaining how Structure challenged positivist views and became one of the most influential books about science despite initial skepticism.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-001",
+        "the-structure-of-scientific-revolutions-002",
+        "the-structure-of-scientific-revolutions-003",
+        "the-structure-of-scientific-revolutions-004"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-002",
+      "title": "Introduction: A Role for History",
+      "summary": "Kuhn argues that historical study of science reveals it develops not through cumulative accumulation but through revolutionary transformations that require abandoning previous theoretical commitments.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-005",
+        "the-structure-of-scientific-revolutions-006",
+        "the-structure-of-scientific-revolutions-007",
+        "the-structure-of-scientific-revolutions-008"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-003",
+      "title": "The Route to Normal Science",
+      "summary": "Normal science emerges when a scientific community adopts shared paradigms\u2014concrete achievements that provide models for research\u2014replacing the competing schools characteristic of preparadigm periods.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-009",
+        "the-structure-of-scientific-revolutions-010",
+        "the-structure-of-scientific-revolutions-011",
+        "the-structure-of-scientific-revolutions-012"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-004",
+      "title": "The Nature of Normal Science",
+      "summary": "Normal science is the puzzle-solving activity that actualizes paradigm promises by extending knowledge of paradigm-revealed facts, improving theory-observation matches, and articulating paradigmatic theories.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-013",
+        "the-structure-of-scientific-revolutions-014",
+        "the-structure-of-scientific-revolutions-015",
+        "the-structure-of-scientific-revolutions-016"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-005",
+      "title": "Normal Science as Puzzle-solving",
+      "summary": "Normal science problems are puzzles with assured solutions that test scientific skill and ingenuity, rather than aiming at major discoveries, with paradigms providing the criteria that distinguish legitimate puzzles from mere problems.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-017",
+        "the-structure-of-scientific-revolutions-018",
+        "the-structure-of-scientific-revolutions-019",
+        "the-structure-of-scientific-revolutions-020"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-006",
+      "title": "The Priority of Paradigms",
+      "summary": "Paradigms can guide research even without explicit rules because scientists learn through shared exemplars rather than abstract principles, making paradigms more fundamental than the rules that might be abstracted from them.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-021",
+        "the-structure-of-scientific-revolutions-022",
+        "the-structure-of-scientific-revolutions-023",
+        "the-structure-of-scientific-revolutions-024"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-007",
+      "title": "Anomaly and the Emergence of Scientific Discoveries",
+      "summary": "Scientific discoveries begin with awareness of anomalies that violate paradigm expectations, followed by extended exploration and paradigm adjustment until the anomalous becomes expected, making discovery a process rather than an event.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-025",
+        "the-structure-of-scientific-revolutions-026",
+        "the-structure-of-scientific-revolutions-027",
+        "the-structure-of-scientific-revolutions-028"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-008",
+      "title": "Crisis and the Emergence of Scientific Theories",
+      "summary": "New scientific theories emerge from crises caused by persistent anomalies, with awareness of breakdown preceding theoretical innovation in cases like Copernican astronomy, Lavoisier's chemistry, and Einstein's relativity.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-029",
+        "the-structure-of-scientific-revolutions-030",
+        "the-structure-of-scientific-revolutions-031",
+        "the-structure-of-scientific-revolutions-032"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-009",
+      "title": "The Response to Crisis",
+      "summary": "Scientists respond to crisis not by abandoning paradigms based on counterinstances alone, but only when alternative paradigms become available, making paradigm rejection always simultaneous with paradigm acceptance.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-033",
+        "the-structure-of-scientific-revolutions-034",
+        "the-structure-of-scientific-revolutions-035",
+        "the-structure-of-scientific-revolutions-036"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-010",
+      "title": "The Nature and Necessity of Scientific Revolutions",
+      "summary": "Scientific revolutions are non-cumulative episodes where older paradigms are replaced by incompatible new ones, resembling political revolutions in requiring choice between incommensurable ways of practicing science.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-037",
+        "the-structure-of-scientific-revolutions-038",
+        "the-structure-of-scientific-revolutions-039",
+        "the-structure-of-scientific-revolutions-040"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-011",
+      "title": "Revolutions as Changes of World View",
+      "summary": "Scientific revolutions transform the world within which scientists work, making them see different things when looking in the same places and respond to a different world, not merely interpret the same world differently.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-041",
+        "the-structure-of-scientific-revolutions-042",
+        "the-structure-of-scientific-revolutions-043",
+        "the-structure-of-scientific-revolutions-044"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-012",
+      "title": "The Invisibility of Revolutions",
+      "summary": "Scientific revolutions appear invisible because textbooks systematically disguise them by rewriting history to make scientific development appear cumulative and linear, eliminating traces of paradigm changes and revolutionary discontinuities.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-045",
+        "the-structure-of-scientific-revolutions-046",
+        "the-structure-of-scientific-revolutions-047",
+        "the-structure-of-scientific-revolutions-048"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-013",
+      "title": "The Resolution of Revolutions",
+      "summary": "Scientific revolutions are resolved through a process resembling conversion rather than verification, where paradigm testing occurs through competition between rival theories rather than simple comparison with nature.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-049",
+        "the-structure-of-scientific-revolutions-050",
+        "the-structure-of-scientific-revolutions-051",
+        "the-structure-of-scientific-revolutions-052"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-014",
+      "title": "Progress through Revolutions",
+      "summary": "Scientific progress occurs through revolutions that move away from less adequate conceptions rather than toward absolute truth, with the scientific community's unique characteristics ensuring continued problem-solving improvement without requiring convergence to ultimate reality.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-053",
+        "the-structure-of-scientific-revolutions-054",
+        "the-structure-of-scientific-revolutions-055",
+        "the-structure-of-scientific-revolutions-056"
+      ]
+    },
+    {
+      "id": "the-structure-of-scientific-revolutions-ch-015",
+      "title": "Postscript\u20141969",
+      "summary": "Kuhn clarifies key concepts from his original text, distinguishing paradigms as shared exemplars from broader disciplinary matrices, defending the notion of incommensurability while rejecting charges of relativism and irrationalism.",
+      "claim_ids": [
+        "the-structure-of-scientific-revolutions-057",
+        "the-structure-of-scientific-revolutions-058",
+        "the-structure-of-scientific-revolutions-059",
+        "the-structure-of-scientific-revolutions-060"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 60,
+    "chapter_count": 15,
+    "indexed_at": "2026-02-17T15:41:24.923058Z"
+  }
+}

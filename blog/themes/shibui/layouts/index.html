@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<h1>Books:</h1>
+<ul class="book-index">
+  {{- $books := where site.RegularPages "Section" "books" -}}
+  {{- $sortedBooks := sort $books "Title" -}}
+  {{- range $sortedBooks }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{- end }}
+</ul>
+<br>
+<h1>Topics:</h1>
+<p class="keyword-index">
+  {{- $keywords := slice -}}
+  {{- range where site.RegularPages "Section" "books" -}}
+  {{- $page := . -}}
+  {{- $bookKeywords := .Params.bookKeywords -}}
+  {{- if $bookKeywords -}}
+  {{- range split $bookKeywords "," -}}
+  {{- $kw := . | strings.TrimSpace -}}
+  {{- if $kw -}}
+  {{- $keywords = $keywords | append (dict "keyword" $kw "page" $page) -}}
+  {{- end -}}
+  {{- end -}}
+  {{- end -}}
+  {{- end -}}
+  {{- $sortedKeywords := sort $keywords "keyword" -}}
+  {{- $total := len $sortedKeywords -}}
+  {{- range $i, $item := $sortedKeywords -}}
+  <a href="{{ $item.page.Permalink }}">{{ $item.keyword }}</a>{{- if ne $i (sub $total 1) -}}, {{ end -}}
+  {{- end -}}
+</p>
+<br><br>
+<div class="search-container">
+  <input type="text" id="search-input" placeholder="Search books..." autocomplete="off" aria-label="Search books">
+  <div id="search-results" class="search-results" hidden></div>
+</div>
+
+{{ end }}

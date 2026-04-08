@@ -1,0 +1,366 @@
+# The Light Eaters: How the World's Most Innovative Plants Are Rewriting the Rules of Life
+
+## Metadata
+- Thesis: Recent scientific discoveries reveal that plants possess forms of intelligence, communication, memory, and agency that fundamentally challenge our understanding of life and consciousness, demanding a radical rethink of our relationship with the botanical world.
+- Topics: plant intelligence, botanical communication, plant consciousness, scientific paradigm shifts, environmental ethics
+- Categories: science, philosophy
+- Author: Zoë Schlanger
+- Year: 2024
+- Mode: quick
+
+## Prologue
+
+The author's journey from climate despair to wonder begins in the Hoh Rain Forest, where she encounters complex plant relationships that challenge assumptions about passive plant life and spark her investigation into botanical intelligence.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-001"></span>**Plants engage in complex evolutionary relationships where the same moth species acts as both destroyer (caterpillar eating leaves) and savior (adult pollinating flowers), requiring plants to balance defense with reproduction through chemical deterrence that allows some caterpillars to survive and metamorphose**
+    - The moth that pollinates the flower is the same species that devours the plant's leaves when it is still a caterpillar
+    - After enduring leaf damage, the besieged plant judiciously begins to fill its leaves with unappetizing chemicals, showing tremendous restraint
+    - Everyone in this situation comes within a hair of death to ultimately flourish
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-002"></span>**Environmental journalism's focus on climate catastrophe created psychological numbness in the author, who found restoration through studying plant creativity and growth rather than death and decline**
+    - Journalists in climate work tend to focus on death, disease, disaster, decline as the earth passes benchmark after grim benchmark
+    - After years of focus on droughts and floods, the author began to feel numb and empty
+    - Plants are the very definition of creative becoming: they are in constant motion, probing the air and soil in a relentless quest for a livable future
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-003"></span>**Plants demonstrate remarkable adaptability and resourcefulness in urban environments, with species like the tree of heaven using chemical warfare to secure territory by injecting poisons around their roots to prevent competition**
+    - Plants burst from cracks in crumbling pavement and climb chain link fences at garbage-strewn lots
+    - The tree of heaven injects poisons into the ground around its roots to prevent anything else from growing nearby, securing its patch of sun
+    - When cut down with a machete, the stump was already sprouting new green protrusions
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-004"></span>**The scientific field of botany is experiencing a paradigm crisis as new discoveries about plant abilities contradict traditional assumptions, creating controversy over whether plants possess intelligence and consciousness**
+    - No one yet really knows the limits of what a plant can do, and no one quite knows what a plant really is
+    - The more botanists uncovered the complexity of forms and behaviors of plants, the less traditional assumptions about plant life seemed to apply
+    - The scientific field was eating itself alive with contradictions, points of contention multiplying as fast as the mysteries
+
+## The Question of Plant Consciousness
+
+The author traces the historical suppression of plant behavior research following the 1973 book 'The Secret Life of Plants,' and explores the recent renaissance revealing plant abilities like memory, kin recognition, and chemical communication that challenge traditional boundaries between plant and animal intelligence.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-005"></span>**The 1973 bestseller 'The Secret Life of Plants' by Tompkins and Bird, despite capturing global imagination with claims about plant consciousness and preferences for classical music, was largely pseudoscientific and caused a decades-long stigma that blocked legitimate plant behavior research funding**
+    - The book suggested plants could feel and hear, preferring Beethoven to rock and roll
+    - A former CIA agent named Cleve Backster hooked up a polygraph to his houseplant and imagined it being set on fire, causing the needle to go wild
+    - Many scientists tried to reproduce the research to no avail, with cellular physiologist Clifford Slayman calling it a corpus of fallacious or unprovable claims
+    - The National Science Foundation became more reluctant to give grants to anyone studying plants' responses to their environment
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-006"></span>**Modern plant research has discovered remarkable abilities including memory formation, kin recognition, and predator summoning through chemical signals, with lima beans and tobacco plants able to call specific predators to remove attacking insects**
+    - Plants can distinguish themselves from others and tell whether neighbors are genetic kin, rearranging leaves within two days to avoid shading siblings
+    - Pea shoot roots can hear water flowing through sealed pipes and grow toward them
+    - Lima beans and tobacco react to insect attacks by summoning those insects' specific predators to pick them off
+    - Some tomatoes secrete chemicals that cause hungry caterpillars to turn away from eating leaves to eat each other instead
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-007"></span>**The plant intelligence debate centers on whether plants without brains can be considered intelligent, with opponents arguing that plant responses are merely genetic programming while proponents contend that observable behaviors should define intelligence regardless of anatomy**
+    - Eight plant scientists wrote that it was extremely unlikely that plants, lacking anatomical structures remotely comparable to the complexity of the threshold brain, possess consciousness
+    - They argued that plant responses could be chalked up to innate programming via genetic information acquired through natural selection, fundamentally different from cognition or knowing
+    - "Paco Calvo and Anthony Trewavas responded that this was surely circular reasoning, using human-centric definitions to claim plants couldn't possess intelligence" —Paco Calvo and Anthony Trewavas
+    - Science has no agreed-upon definition for life, death, intelligence, or consciousness
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-008"></span>**The Society for Plant Neurobiology, founded in 2006 by scientists including František Baluška and Stefano Mancuso, deliberately used provocative language to argue that plants have analogous structures to nervous systems and deserved serious study of their cognitive capacities**
+    - The group accused scientists of engaging in witting or unwitting self-censorship, spooked into silence by the specter of The Secret Life of Plants
+    - They called for pursuit of plants as intelligent beings capable of processing multiple forms of information to make well-informed decisions
+    - Plants produce electrical impulses and have nodes at root tips serving as local command centers
+    - Glutamate and glycine, common neurotransmitters in animal brains, are present in plants and crucial to information passing
+    - The group eventually backed away from their provocative name, becoming the Society of Plant Signaling and Behavior
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-009"></span>**Historical precedent shows that scientific paradigm shifts regarding consciousness have occurred recently, with animal consciousness only being formally recognized in 2012 when Cambridge scientists declared that nonhuman animals possess consciousness based on neurological substrates and intentional behavior**
+    - Donald Griffin's 1976 book The Question of Animal Awareness argued that animal cognition should be taken seriously but was widely criticized for anthropomorphization
+    - In 2012, scientists at Cambridge formally conferred consciousness on all mammals, birds, and many other creatures including octopuses
+    - They declared that the weight of evidence indicates humans are not unique in possessing neurological substrates that generate consciousness
+    - Honeybees can distinguish between styles of art, and individual bees perform elaborate waggle dances with symbolic meaning
+
+## How Science Changes Its Mind
+
+Tracing the philosophical roots of plant dismissal from Aristotle's hierarchy through the missed opportunity of Theophrastus's plant-centered approach, the chapter examines how scientific paradigm shifts occur and positions current plant research as potentially revolutionary evidence against mechanistic views of life.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-010"></span>**Plants created Earth's habitable atmosphere through photosynthesis, transforming a hostile environment of carbon dioxide and hydrogen into an oxygen-rich world that enabled all other complex life forms to evolve**
+    - The first plant was born a chimera when an alga-like cell swallowed a cyanobacteria 1.5 billion years ago
+    - When plants climbed out of the ocean 500 million years ago, they arrived in terrestrial barrens enveloped in inhospitable fog of carbon dioxide and hydrogen
+    - By incessantly breathing out, legions of early land plants tipped the balance of gases toward oxygenation, creating the atmosphere we now enjoy
+    - Plants have made every iota of sugar we have ever consumed - the only thing that can manufacture sugar out of materials that have never been alive
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-011"></span>**Western philosophy's dismissal of plants traces to Aristotle's hierarchical scala naturae, while the alternative vision of Theophrastus - who saw plants as autonomous beings with desires and collaborative relationships - was historically rejected but offers a model for modern understanding**
+    - Aristotle described a ladder of life with plants on the bottom having no intelligence or sensation, while humans occupied the top with rational souls
+    - Theophrastus saw plants as not passive but in constant motion, seeking after their desires, with agriculture as a collaborative relationship
+    - Theophrastus described cultivated plants as potentially trading shorter lifespans for protection from predators and abundant food and water
+    - "By the help of the better known we must pursue the unknown, and better known are the things larger and plainer to our senses" —Theophrastus
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-012"></span>**The Cartesian view of animals as machines led to centuries of live dissection without anesthesia, demonstrating how scientific paradigms can justify practices later seen as barbaric, while animal consciousness was only accepted after the neuroscience revolution made behavior-based inference scientifically respectable**
+    - René Descartes believed animal bodies were solvable puzzles of physics and chemistry, popularizing the notion of the animal machine
+    - Animals were thought to have only locomotive souls propelling them toward reproduction and survival without thought
+    - Any expression of pain like barking was considered just a reflex, absolving humans of guilt when dissecting live animals
+    - Claude Bernard supposedly live-dissected his family dog in the 1860s, after which his wife and daughters left him to join an anti-vivisection society
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-013"></span>**Thomas Kuhn's analysis of scientific revolutions shows that normal science is necessarily hostile to paradigm-challenging discoveries, requiring both anomaly recognition and an alternative paradigm before change occurs, with current botany potentially experiencing such a revolutionary moment**
+    - "Normal science is necessarily hostile to anything that falls substantially outside it - those that will not fit the box are often not seen at all" —Thomas Kuhn
+    - "To reject one paradigm without simultaneously substituting another is to reject science itself" —Thomas Kuhn
+    - After a paradigm shift, everyone goes back to normal and it quickly becomes hard to believe any other idea ever held sway
+    - "A few elderly holdouts will remain, but the man who continues to resist after his whole profession has been converted has ceased to be a scientist" —Thomas Kuhn
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-014"></span>**Charles Darwin's late-career focus on plants led to his controversial root-brain hypothesis, suggesting that root tips act like brains directing movement and growth, but this idea was promptly rejected by contemporary botanists and forgotten for 125 years despite never being proven wrong**
+    - Darwin called the root cap a root-brain after finding it could sense moisture, nutrients, obstacles and dangers, steering accordingly
+    - "The tip of the radicle acts like the brain of one of the lower animals, receiving impressions from sense-organs and directing movements" —Charles Darwin
+    - Slice off the little cap and roots grow blindly in whatever direction they were angled, but the cap regenerates in a few days exactly as before
+    - No one agreed with Darwin and he was roundly rebuked by contemporary botanists, with the root-brain hypothesis promptly forgotten
+
+## The Communicating Plant
+
+The chapter traces the controversial discovery of plant-to-plant chemical communication, from David Rhoades's career-ending 1983 finding that trees warn each other of caterpillar attacks through airborne signals, to modern research revealing sophisticated plant communication networks and dialects.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-015"></span>**David Rhoades's 1983 discovery that trees communicate through airborne chemicals to warn of caterpillar attacks was initially rejected and ended his career, but later research confirmed that damaged trees send chemical signals that prepare distant trees for insect invasion**
+    - In 1978, tent caterpillars that had devastated university forest trees for three years suddenly began dying as trees changed their leaf chemistry
+    - Even leaves of faraway trees that caterpillars had not yet touched changed their composition after being warned
+    - Trees were too far apart for root communication, so the message was getting through the air
+    - Rhoades spent years being bludgeoned by colleagues in journals and conferences before leaving scientific discovery to teach at a community college
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-016"></span>**Plant-to-plant communication operates through complex cellular networks where individual cells know their position and function through chemical messaging, similar to how animal embryos self-organize through electrical and chemical signals**
+    - For multicellularity to emerge, individual cells had to coordinate among themselves, sharing information about who they are and what they do
+    - "Barbara McClintock called this cellular awareness the knowledge the cell has of itself" —Barbara McClintock
+    - A decision-making center in dormant seeds integrates information about two opposing hormones to decide when to emerge
+    - This method of cell-to-cell communication is analogous to structures in the human brain that use antagonistic hormones to improve decision-making
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-017"></span>**Rick Karban's research at Mammoth Lakes demonstrates that sagebrush plants use both private and public chemical communication channels, switching from family-specific warnings during peaceful times to universal alarm calls during widespread attacks, mirroring songbird behavior patterns**
+    - Sagebrush in peaceful areas issue chemical alarm calls decipherable only to close kin when rarely attacked
+    - But sagebrush facing widespread danger switch to public channels, emitting universally understandable alarm calls
+    - This matches songbird behavior perfectly - birds use specific song phrases for family warnings but universal calls during widespread danger
+    - When the whole neighborhood is threatened, it's best to save as many of your kind as possible regardless of family relation
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-018"></span>**Karban's pioneering research on plant personalities applies animal behavior methodology to demonstrate that individual plants have consistent, unique ways of responding to threats, with some plants being natural scaredy-cats while others are risk-takers, affecting their survival and reproduction strategies**
+    - "If animals have solved a problem in a particular way, it's not unreasonable to ask if plants have done something analogous" —Rick Karban
+    - Some sagebrush signal wildly at the slightest disturbance, causing other plants to treat them like the boy who cried wolf
+    - Individual differences that were seen as just noise become valuable data points on a spectrum of behavior
+    - Bold chipmunks reproduce earlier and have more babies but die young from predation, while shy ones live longer with fewer offspring - both strategies can work
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-019"></span>**Plant communication research reveals that monoculture farming and air pollution are disrupting plant chemical communication networks, with ozone and elevated CO2 scrambling signals and reducing plants' ability to warn each other of threats or summon beneficial insects**
+    - Commercial corn varieties are much less able to produce volatile signals than local cultivars when herbivores lay eggs on them
+    - There are silent fields of corn, mute in their moment of danger
+    - Ozone can change chemical signal makeup in transit, scrambling messages and making them unintelligible
+    - Plants may close their stomata when sensing ozone, preventing them from receiving airborne signals at all
+
+## Alive to Feeling
+
+The chapter explores how plants generate and use electrical signals for sensation and communication, tracing research from J.C. Bose's early work through modern discoveries that plants have nerve-like electrical systems capable of responding to touch, anesthesia, and environmental stimuli.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-020"></span>**Touch dramatically impacts plant development through thigmomorphogenesis, with repeated stroking causing plants to grow shorter, stouter, and more flexible within minutes, while triggering massive genetic changes affecting 10 percent of the plant's genome within 30 minutes**
+    - Mordecai Jaffe found that stroking plants for 10 seconds once or twice daily made Cherokee wax beans grow stouter and harder
+    - Stroked beans could fold nearly 90 degrees without breaking, while unbothered beans would bend a little and snap
+    - Touch triggered such dramatic hormonal and genetic responses that touched plants cut upward growth by 30 percent
+    - When touched, plants activate their immune system, becoming better able to ward off future fungal infections
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-021"></span>**J.C. Bose's pioneering work in early 1900s India demonstrated that plants produce electrical responses to stimuli and can be anesthetized like animals, but his contributions were largely forgotten due to racism and his controversial later theories about machine consciousness**
+    - Bose was the pioneer of wireless telecommunication, discovering microwaves and building the radio receiver used by Marconi
+    - He recorded electrical death spasms in vegetables and watched mimosas produce electric impulses before their leaflets closed
+    - Bose used microelectrode recording systems he designed himself, years before scientists took first microelectrode readings of animal neurons
+    - His lost legacy is the product of point-blank American racism according to botanists
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-022"></span>**Plants respond to anesthetics like diethyl ether by stopping their touch responses, with Venus flytraps ceasing to snap shut and sensitive plants no longer closing leaves, suggesting plants have forms of consciousness that can be knocked unconscious**
+    - When humans are anesthetized, they stop responding to touch because drugs interfere with action potentials
+    - Venus flytraps placed under diethyl ether stop reacting to touch no matter how many trigger hairs are flicked
+    - Sensitive plants won't close their leaves under ether, and pea seedlings stop their tendril waving
+    - When ether is removed, plants recover normal touch responses within fifteen minutes
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-023"></span>**Elizabeth Van Volkenburgh's career studying plant electricity was derailed by the genetics revolution and lingering stigma from 'The Secret Life of Plants,' despite her discovery of mechanosensitive ion channels that respond to touch and her groundbreaking work on plant electrical responses**
+    - Van Volkenburgh was inspired by The Secret Life of Plants chapter on Bose while working as a technician counting leaves
+    - She found corn leaves could photosynthesize and produce electrical signals, making a voltmeter beep frantically when light hit them
+    - Barbara Pickard discovered the first mechanosensitive ion channels in plants - gates that allow electric current through cells when physically touched
+    - Everything shifted to genetics and Van Volkenburgh got tired of going up against people's skepticism, eventually giving up grant applications
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-024"></span>**Simon Gilroy's breakthrough visualization of calcium waves moving through plants revealed that electrical signals travel through plant bodies in coordinated waves, with the whole plant being notified of wounds or stimuli in real time through fluorescent tracking technology**
+    - Gilroy and Toyota became first to witness electricity moving through a plant body in real time as a wave
+    - They inserted jellyfish genes into plants to make calcium glow green when electrical activity occurred
+    - When Toyota cut a leaf, a wave of green moved across the whole plant from the wound site
+    - Plants use glutamate, the most important neurotransmitter in human brains, to boost their electrical signals at about one millimeter per second
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-025"></span>**The similarity between plant electrical systems and animal nervous systems has led neuroscientist Rodolfo Llinás to argue that nervous systems should be defined functionally rather than phylogenetically, making plant electrical networks qualify as a form of distributed nervous system**
+    - Plants have no neurons or synapses, but the way electricity propagates through them to send signals has been called nervous system-like signaling
+    - Llinás argues it makes no sense to define nervous systems as something only animals can have rather than as physiological systems
+    - Wings evolved separately in birds, bats, and insects - why not nervous systems in plants and animals through convergent evolution?
+    - If it walks like a duck and quacks like a duck, it's probably a duck - why not call plant electrical systems nervous systems already?
+
+## An Ear to the Ground
+
+The chapter reveals that plants can hear and use sound for navigation and defense, from bats using flower-shaped sonar reflectors for pollination, to plants detecting caterpillar chewing sounds and growing roots toward flowing water through acoustic guidance.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-026"></span>**Bat-pollinated vines have evolved sophisticated acoustic mirrors in their leaves and flowers that provide clear, consistent sonar echoes from multiple angles, allowing bats to locate nectar sources in dense forest environments and creating a mutually beneficial acoustic relationship**
+    - Marcgravia evenia produces glossy, concave leaves like upright canoes that reflect consistent echoes despite changing bat flight angles
+    - Mucuna holtonii flowers have concave appendages that act as perfect mirrors for bat sonar, sending back echoes of astonishingly high amplitude
+    - Once the flower disgorges its pollen onto a bat, the acoustic mirror lowers itself, removing the flower from the acoustic arena
+    - Bats consistently land only on flowers with intact pollen keels and functioning acoustic mirrors
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-027"></span>**Heidi Appel and Rex Cocroft discovered that arabidopsis plants can hear the sound of caterpillars chewing and respond by producing defensive compounds, proving that plants use acoustic information to prepare for predator attacks**
+    - While recording treehopper vibrations, Cocroft's equipment was contaminated by caterpillars chewing, leading to the discovery
+    - Amplified caterpillar chewing sounds like blocky goat teeth masticating dry hay, vibrating leaves by only a few ten thousandths of an inch
+    - Plants exposed to caterpillar chewing sounds through guitar pickups produced defensive compounds when later exposed to real caterpillars
+    - Plants ignored sounds of leafhopper mating songs with the same amplitude but different rhythm - they respond specifically to their genuine predators
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-028"></span>**Monica Gagliano's research demonstrated that pea seedlings can hear water flowing through sealed pipes and grow their roots toward the sound, while also suggesting that plants may use echolocation and produce their own acoustic signals through cavitation clicks**
+    - Pea seedlings in Y-maze tubes grew roots toward sealed pipes with flowing water, using only acoustic cues
+    - When given choice between open water and sound of flowing water, plants chose actual moisture over sound
+    - Root intrusion causes more than half of all sewage pipe blockages, with Germany spending 37 million euros yearly on repairs
+    - Plants emit quiet clicking noises when air bubbles pop in their stems during water transport, potentially serving as communication
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-029"></span>**Lilach Hadany's research revealed that plants produce distinct ultrasonic clicking sounds based on their stress levels, with drought-stressed tomatoes making 35 sounds per hour compared to less than one per hour when well-watered, creating a potential acoustic language of plant health**
+    - Beach evening primrose flowers increased nectar sweetness within three minutes of hearing bee flight recordings
+    - The teacup-shaped flower acted like an amplifier, with its whole form resonating at bee frequency like a satellite dish
+    - Tomatoes, corn, grapevines and cactus all produced species-specific ultrasonic clicks audible to small creatures from 16 feet away
+    - Machine learning models could distinguish between plant sounds and identify plant condition - dry, cut, or intact - based solely on acoustic emissions
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-030"></span>**Gagliano's controversial career combining rigorous science with spiritual practices has polarized the botanical community, with failed replication attempts damaging her scientific reputation while her public profile and funding from non-traditional sources continue to grow**
+    - A UC Davis graduate student failed to replicate Gagliano's pea-learning study showing associative learning between wind cues and light rewards
+    - In her 2018 memoir, Gagliano describes taking ayahuasca and communing with plant spirits who told her how to design studies
+    - Male scientists have stood up at conferences to berate her, and groups have written protest letters to journals
+    - She speaks to packed audiences at philosophy conferences and received a million-dollar Templeton Foundation grant supporting study of Diverse Intelligences
+
+## The (Plant) Body Keeps the Score
+
+Plants possess sophisticated memory systems that allow them to store experiences and pass adaptive information to their offspring, from flower timing based on pollinator visits to vernalization memories that ensure proper seasonal development.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-031"></span>**Nasa poissoniana flowers demonstrate plant memory by tracking time intervals between bumblebee visits and predicting when to raise pollen-bearing stamens for the next pollinator, adjusting their timing based on actual experience rather than fixed schedules**
+    - Tilo Henning and Max Weigend found the flowers could remember time intervals between pollinator visits and anticipate the next arrival
+    - When researchers probed flowers every 15 minutes versus every 45 minutes, plants adjusted their stamen-raising schedules accordingly by the next day
+    - If pollinator intervals changed from 45 minutes to 90 minutes, plants would adjust to the new schedule within a day
+    - "They obviously are able to count the time between visits and keep that memory" —Tilo Henning
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-032"></span>**Vernalization demonstrates that seeds and plants store memory of winter cold to ensure proper spring emergence, with garlic cloves and tulip bulbs requiring extended cold periods to trigger flowering and growth in a process that represents true environmental memory storage**
+    - Garlic cloves planted before winter take note of the deep freeze gripping the earth, counting its passage
+    - Apples, peach trees, tulips, crocuses, daffodils and hyacinth all need vernalization to flower or fruit
+    - In warm climates, tulip bulbs must be refrigerated for weeks before planting or no flowers will appear
+    - Plants know how to wait, how to endure the inhospitable, knowing their time will come
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-033"></span>**Venus flytraps exhibit counting ability and memory by requiring multiple trigger hair touches within specific timeframes, keeping count after closing to distinguish between living prey and debris before committing energy to digestion**
+    - If two trigger hairs are touched within 20 seconds, the trap snaps shut, but it keeps counting after closing
+    - If trigger hairs are disturbed five times quickly, eliminating doubt about a living creature, the plant injects digestive juices
+    - If triggering stops after the initial closure, the trap opens again within one day, correcting for the error
+    - Venus flytraps can count to five and store the memory long enough to decide if they have captured genuine prey
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-034"></span>**Climbing vines like dodder demonstrate sophisticated choice-making and memory through their foraging behavior, counting coils around hosts based on nutritional assessment and remembering which prey are worth the energy investment for parasitism**
+    - Dodder seedlings circle the air, sampling for chemical emanations of suitable plants before making physical contact
+    - When grown between wheat and tomato, dodders consistently choose tomatoes, which are juicier and easier to climb
+    - Dodders assess host nutritional value within hours and stop winding if prey proves subpar, seeking new hosts
+    - The total number of coils reflects total energy the dodder plans to use, counting its investment in vampiric spikes
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-035"></span>**Anthony Trewavas proposes that plant intelligence emerges from distributed consciousness throughout the plant body, with meristems acting as perpetually embryonic decision centers that constantly monitor and reallocate resources based on each body part's performance**
+    - "The individual plant is a self-organizing complex system with distributed control permitting local exploitation in context of the whole" —Anthony Trewavas
+    - "Consciousness is not localized but shared throughout the plant in contrast to the more centralized location in the animal brain" —Anthony Trewavas
+    - Meristems are perpetually embryonic, ready to become whatever sort of flesh is required, like stem cells
+    - If one branch underperforms, it gets fewer resources; if it continues failing, it's blocked entirely and allowed to wither
+
+## Conversations with Animals
+
+Plants engage in sophisticated interspecies communication and manipulation, from summoning wasp bodyguards to orchids using precise chemical mimicry to deceive wasps into pollination, revealing complex ecological relationships that blur lines between cooperation and coercion.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-036"></span>**Consuelo De Moraes discovered that stressed bumblebees bite plant leaves to accelerate flowering by up to 30 days, creating a mutually beneficial communication system where plants bloom in time to have pollinators available while bees survive until nectar becomes available**
+    - Bumblebees were starving while waiting for closed flower buds to open, so began biting plant leaves in crescent moon shapes
+    - The next day after leaf-biting, flowers bloomed up to 30 days earlier than they would otherwise
+    - Both bees and plants benefit - bees get nectar to survive, plants bloom when pollinators are available
+    - Timing in nature requires communication across species - if they're out of sync, everyone loses
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-037"></span>**Plants actively recruit animal bodyguards through targeted chemical rewards, with bittersweet nightshade secreting nectar to hire ants that remove flea beetle larvae, while acacias provide ants with both food and hollow-thorn housing in exchange for aggressive protection services**
+    - Bittersweet nightshade oozes sugary nectar for ants who dutifully pluck off flea beetle larvae before they bore into the plant
+    - Ants march the larvae deep into their nests where they're never seen again
+    - Some ant species can no longer survive without their ant plants, as with symbiotic ants of tropical Macaranga trees
+    - Acacias feed ants and provide specialized nesting in hollow thorns, while ants aggressively attack anything disturbing the tree
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-038"></span>**Rod Peakall's research revealed that Australian orchids achieve pollination through sophisticated chemical deception, synthesizing precise ratios of novel semiochemicals that mimic female wasp pheromones so accurately that male wasps attempt copulation with flowers**
+    - Spider orchids create wasp-shaped bulbs that bounce heavily, mimicking flightless females waiting for males to carry them away for midair mating
+    - Almost all the semiochemicals Peakall analyzed were entirely new to plant science, with orchids using exact ratios like 10:1 or 4:1 of compounds
+    - The orchids needed UV light to make their semiochemicals work, essentially using sunlight as an ingredient
+    - "Of course it remains a mystery how orchids can intercept and co-opt the private communication signals of their wasp pollinators in such a precise way" —Rod Peakall
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-039"></span>**Robin Wall Kimmerer's research demonstrated that asters and goldenrod deliberately coordinate their purple and yellow blooms to create enhanced visual displays that attract more pollinators than either species achieves alone, proving that plant beauty serves communicative purposes**
+    - Kimmerer was told by her botany advisor that questions about why flowers are beautiful had no place in science
+    - Yellow and purple are diametrically opposed on the color wheel, producing a reciprocal visual effect stronger than either color alone
+    - Combined plots of asters and goldenrod attracted more pollinators than plots of only goldenrods or only asters
+    - Their beauty was on purpose - aesthetic preference serves as communication to say choose me
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-040"></span>**Air pollution from human activities is disrupting plant chemical communication networks, with ozone and elevated CO2 scrambling chemical messages, reducing signal range, and causing plants to close their stomata, breaking down natural pest control and pollination systems**
+    - Ozone can change the makeup of chemical signals in transit, scrambling messages and making them unintelligible
+    - Plants may close their stomata when sensing toxic ozone, preventing them from receiving airborne signals
+    - When black mustard flowers are exposed to ozone, it takes longer for bumblebees to find them using GoPro cameras to track the delays
+    - Some species of pests normally controlled by plant communication might reach outbreak level without effective signaling
+
+## The Scientist and the Chameleon Vine
+
+Ernesto Gianoli's discovery of the boquila vine in Chile, which can spontaneously mimic any neighboring plant's leaves down to specific details like thorns, has sparked competing theories about plant vision versus microbial influence, challenging fundamental concepts of plant identity and agency.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-041"></span>**Boquila trifoliolata represents the first documented case of a plant capable of mimicking multiple species simultaneously, spontaneously changing leaf shape, color, texture, and even developing thorns to match whatever plants it climbs on, defying all known mechanisms of plant development**
+    - A single vine plant can climb and imitate up to four different trees' leaves simultaneously, including shape, color, texture, and vein pattern
+    - When Gianoli discovered boquila mimicking rhaphithamnus, it had developed sharp thorns curled under like claws - a species-defining trait
+    - If the leaf in question was particularly complicated, boquila would do its best, producing half-serrated, lopsided leaves like an amateur sculptor
+    - The mimicry happens within a single generation, not through evolutionary time - this was a plastic response
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-042"></span>**František Baluška and Stefano Mancuso argue that boquila's mimicry abilities demonstrate plant vision, proposing that plant epidermis contains simple eyes (ocelli) inherited from ancient cyanobacteria ancestors, while noting that no one has properly looked for such structures**
+    - Cells closest to plant leaf surfaces tend not to have chloroplasts despite being the best spot for photosynthesis - could they be used like ocelli?
+    - Ancient cyanobacteria, early ancestors of plants, had camera-like eyes and still do - plants might never have dropped this evolutionary feature
+    - Austrian botanist Gottlieb Haberlandt proposed plant ocelli in 1905, but the idea was forgotten for a hundred years
+    - Jacob White in Utah reported to Baluška that boquila grown on a plastic tree was mimicking the artificial plant
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-043"></span>**Gianoli proposes that microbial horizontal gene transfer drives boquila's mimicry, with bacteria jumping between plants and directing leaf development through small RNA interference, suggesting that plant appearance may be controlled by microbial clouds rather than plant genetics alone**
+    - Bacterial communities in boquila leaves mimicking nearby shrubs closely resembled the bacterial communities of the shrubs themselves
+    - Non-mimicking leaves on the same plant just 30 centimeters away had totally different bacterial communities
+    - Small RNA from microbes can interfere with gene expression in plants, potentially controlling the genome parts responsible for leaf shape
+    - At least half of what you thought was managed by an organism was actually done by some bacterium
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-044"></span>**The concept of organisms as holobionts - composite beings made of multiple species working in concert - challenges traditional views of individual identity, with Lynn Margulis's research proving that mitochondria and chloroplasts originated from ancient bacterial symbioses**
+    - Every human organ was built with sugar from plants, and every thought was made possible by plant-produced glucose
+    - We give off a million biological particles from our body every hour, creating microbial clouds around us like Pig-Pen from Peanuts
+    - Margulis's 1967 paper on symbiotic origins was rejected by 15 journals before being accepted, then proven true a decade later
+    - "People and other eukaryotes are like solids frozen in a genetic mold, whereas bacterial genes are akin to liquid or gas" —Lynn Margulis
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-045"></span>**Vavilovian mimicry demonstrates that weeds can evolve to resemble crop plants to avoid human detection, suggesting that domestication is actually coevolution where plants like oats and rye manipulated humans into cultivating them by mimicking desired crops like wheat**
+    - Original rye plants looked nothing like the plump grain that became a Russian staple - it was a scraggly, inedible weed
+    - Early wheat farmers pulled out rye-weed, so rye evolved to mimic wheat closely enough that farmers couldn't spot it
+    - Barnyard grass in rice paddies is indistinguishable from rice at seedling stage, having changed to match rice architecture 1000 years ago
+    - "Domestication would be when one partner has more influence, but there's no evidence for this - a better word would be coevolution" —František Baluška
+
+## The Social Life of Plants
+
+Plants demonstrate complex social behaviors including eusocial cooperation in staghorn ferns, kin recognition in multiple species, and sophisticated root communication networks, challenging Darwin's competition-focused model in favor of collaborative community dynamics.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-046"></span>**Staghorn ferns represent the first documented case of eusocial behavior in plants, with sterile disc fronds dedicating their lives to collecting water for reproductive colony members, mirroring the social organization found in bee hives and ant colonies**
+    - Kevin Burns identified staghorn ferns growing in hive-shaped agglomerations where disc fronds never reproduce
+    - Long antler-shaped fronds are covered in wax to direct rainwater to disc fronds that soak up moisture for the colony
+    - Only some long fronds reproduce while others live to keep water flowing, like sterile worker bees serving reproductive queens
+    - Eusocial behavior has evolved separately in insects, crustaceans, and mammals, suggesting it's a successful evolutionary strategy
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-047"></span>**Susan Dudley's groundbreaking research on American searocket demonstrated that plants can recognize their genetic siblings and treat them preferentially, with kin growing polite root systems while aggressively competing against strangers for soil nutrients**
+    - When surrounded by unrelated plants, searocket grew roots prolifically to monopolize nearby nutrients
+    - But when growing beside genetic kin, searocket politely confined their roots, leaving siblings space to make a living
+    - This was the first time a plant had been shown to recognize kin and give preferential treatment
+    - "Dudley was initially flabbergasted - We are always surprised when we find what we predicted because nature is so complicated" —Susan Dudley
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-048"></span>**Research on rice cultivars proved that plants follow Hamilton's rule of preferential treatment based on genetic relatedness, with closely related varieties sharing resources while distantly related ones engage in aggressive root competition that reduces overall yield**
+    - Chui-Hua Kong's team grew dozens of rice lines with varying degrees of genetic relatedness in mixed cultures
+    - Most closely related cultivars declined to compete underground, showing no discernible difference in root lengths
+    - As genetic distance increased, root measurements consistently increased as plants became more antagonistic
+    - When distantly related japonica cultivars were introduced, all indica lines dramatically increased lateral root formation toward the foreign neighbor
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-049"></span>**JC Cahill's 20-year field experiment in Canadian grasslands revealed that competition is far less important than assumed in ecology, with plant communities showing constant flux and biodiversity maintenance through complex environmental variables rather than competitive dominance**
+    - Roots actively forage for food like animal behaviorists' subjects, with the term forage chosen purposefully to imply intentional, directed behavior
+    - When Cahill removes one species, remaining plants don't necessarily expand into vacated space as competition models predict
+    - Natural variation in any system should maintain biodiversity and prevent dominance through complex interactions
+    - "We can explain all our patterns without ever once talking about competition - it doesn't mean competition isn't there, but we don't need it" —JC Cahill
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-050"></span>**Sunflower root behavior demonstrates sophisticated social etiquette underground, with plants politely sharing nutrient patches when resources are abundant but claiming territory based on proximity advantage, suggesting cooperative rather than purely competitive strategies**
+    - When high-nutrient patches lay exactly halfway between sunflowers, plants placed roots elsewhere rather than compete
+    - If one sunflower was even slightly closer to a nutrient patch, that plant would not hesitate to grow lots of roots there
+    - When sharing patches, both parties placed roots but stayed in their own zones with short roots rather than long monopolizing ones
+    - Sunflowers went to great lengths to avoid competing when resources were abundant, showing coexistence as a stronger urge than competition
+
+## Inheritance
+
+Plants pass environmental experiences to offspring through epigenetic inheritance, with parent plants preparing their young for harsh conditions by transmitting adaptive traits, while invasive species demonstrate extreme plasticity that enables rapid evolution and ecosystem colonization.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-051"></span>**Spigelia genuflexa demonstrates sophisticated parental care by planting its own seeds in optimal locations, with parent plants bending their fruit-bearing stems down to bury seeds in moss beds where they have the best chance of surviving seasonal droughts**
+    - The Brazilian plant emerges only during rainy season, flowers within a month, then fruit-tipped stems begin bending toward earth like slender necks in deference
+    - Stems keep bending until capsules are buried in soft moss, with plants literally planting their own seeds
+    - The parent chooses exactly where offspring should germinate, and the best spot is proven fertile - where the parent already managed to grow
+    - Plants emerge in the same spot each March, exactly where their parents planted them
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-052"></span>**Plants transmit environmental stress experiences to offspring through transgenerational effects, with yellow monkey flowers producing spiky-leaved babies after predator exposure and wild radishes creating extra-bristly, chemically-armed offspring following caterpillar attacks**
+    - If yellow monkey flowers are exposed to predators, they produce babies with defensive spikes on their leaves
+    - Wild radishes that survived destructive caterpillars make baby radishes with extra-bristly leaves plus preloaded defensive chemicals
+    - These changes happen too fast for evolution - no plant evolves in a single generation
+    - Parent plants can pass on skills for surviving in a tough world through whole new body parts and coats of armor
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-053"></span>**Sonia Sultan's research challenges the genetic determinism paradigm by demonstrating that environmental factors account for much more biological variation than genes alone, with missing heritability in human traits like height explained only 36% by genetic inheritance**
+    - The DNA sequence spells out exact instructions required to create a particular organism - this sums up the problem according to Sultan
+    - Genes are not exact instructions but more like stage cues at an improv show
+    - Genetic inheritance explains only about 36% of heritability of human height, one of the most reliably inherited physical traits
+    - "The big A and little a, gene for tall and gene for short - that's really not how the vast majority of genes work" —Sonia Sultan
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-054"></span>**The emerald green sea slug exemplifies extreme organism-environment integration by incorporating algae chloroplasts to photosynthesize, transforming from brown to leaf-shaped green and demonstrating how environmental interactions literally become part of an organism's essence**
+    - The slug punctures algae walls and slurps out cells like bubble tea, keeping chloroplasts intact while digesting the rest
+    - After incorporating chloroplasts, the slug turns brilliant green, acquires genetic ability to run photosynthesis, and never needs to eat again
+    - The slug shapes itself exactly like a leaf - flat, broad, heart-shaped with veins and pointed tail like a leaf tip
+    - The slug's essence is acquired through interaction with its environment - there couldn't be a leakier creature
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-055"></span>**Invasive plants like Japanese knotweed and Sultan's smartweed demonstrate superior plasticity that enables rapid adaptation to new environments, with elite individuals passing flexibility to offspring who become even better at handling challenges their parents faced**
+    - Japanese knotweed can burst through pavement by seeking out and exploiting cracks in foundations, widening fissures to create niches
+    - In the UK, mere presence of knotweed makes properties unmortgageable, requiring management plans that are financially impossible for most
+    - Some individual smartweeds are prodigies of adaptation, switching from leaf growth to root growth when facing drought
+    - Offspring of drought-grown smartweed parents adapt even faster than their parents when facing dry soil, already knowing what to do
+
+## Plant Futures
+
+The author concludes by exploring the ethical implications of recognizing plant intelligence, from legal personhood rights to Indigenous perspectives on plant relatives, arguing that expanding our moral consideration to include plants could fundamentally transform human society's relationship with the living world.
+
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-056"></span>**Anthony Trewavas, despite six decades studying plant intelligence and advocating for plant consciousness based on network theory, has become pessimistic about humanity's capacity to change its destructive relationship with nature before ecological collapse occurs**
+    - Trewavas has already apologized to his adult son for the world his generation has left him
+    - Plants are intelligent based on network theory - a brain is only one way to build a network after all
+    - "I don't know why people are like this. It's about respect. If we'd respect plants more... We find it not easy to feel the system in which we actually live" —Anthony Trewavas
+    - "In truth, scientists don't know enough about plants to make any dogmatic statement about them" —Anthony Trewavas
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-057"></span>**The question of plant intelligence is ultimately social rather than scientific, requiring society to decide how to interpret mounting evidence of plant capabilities and whether to extend ethical consideration beyond traditional animal boundaries**
+    - Whether plants are intelligent is a social question, not a scientific one - science will continue finding plants do more than imagined
+    - The rest of us will have to look at data and come to our own conclusions about how to interpret this new knowledge
+    - At what point do plants enter the gates of our regard? When are they allowed into the realm of our ethical consideration?
+    - Plants have all the characteristics we associate with intelligence - language, family structures, allies and enemies, preferences, planning, memory
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-058"></span>**Legal precedent exists for extending rights to plants, with Justice William O. Douglas's 1972 Supreme Court dissent arguing that natural objects should have legal standing, while recent attempts like wild rice suing Minnesota demonstrate ongoing efforts to establish plant personhood**
+    - "Inanimate objects are sometimes parties in litigation. A ship has a legal personality... So it should be as respects valleys, alpine meadows, rivers" —William O. Douglas
+    - Christopher Stone argued that legal rights for forests seemed unthinkable just like rights for women and minorities once did
+    - Wild rice sued Minnesota in 2021 through White Earth Band of Ojibwe attorneys, claiming inherent rights to exist, flourish, regenerate, and evolve
+    - The tribe's own court dismissed the case in 2022 for lack of legal precedent, but the attempt was historic
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-059"></span>**Indigenous philosophies offer established frameworks for plant personhood where plants are understood as relatives and persons with agency, contrasting with Western hierarchical thinking and providing models for respectful human-plant relationships**
+    - Virtually all Indigenous groups worldwide have intimate relationships with plant life, with many cultures ascribing personhood to plants
+    - The Canela of Brazil include plants in family structures where gardeners are parents and beans and squash are daughters and sons
+    - "Humans are not the lords of this earth. We are the babies of this family of ours, the weakest because we are the most dependent" —Mary Siisip Geniusz
+    - Plant personhood means one has agency and volition, and the right to exist for their own sake
+* <span id="the-light-eaters-how-the-worlds-most-innovative-pl-060"></span>**The author's underground encounter with doomed seedlings in a Puerto Rican cave reveals plant intelligence as much in their adaptive attempts under impossible conditions as in their successes, suggesting intelligence should be measured by approach rather than outcome**
+    - White seedlings grew from bat guano in total darkness, using finite seed energy to grow as tall and slender as possible seeking any light
+    - They put out only one or two leaves - pennants of hope that some photon might fall upon them after all
+    - All seedlings had converged on the same form because this was the best strategy for survival, even though it still wasn't enough
+    - This was craning toward life even in the face of impossible conditions - intelligence measured in the approach, not success

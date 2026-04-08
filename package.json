@@ -1,0 +1,16 @@
+{
+  "name": "summarizer",
+  "version": "1.0.0",
+  "description": "Build and deploy tooling for the book summaries site",
+  "scripts": {
+    "build-search": "node scripts/build-search-index.mjs",
+    "vercel-build": "HUGO_CACHEDIR=\"$PWD/.hugo_cache\" hugo --source blog --destination public --gc --minify && OUTPUT_DIR=blog/public node scripts/build-search-index.mjs"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.0",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.3.0"
+  }
+}

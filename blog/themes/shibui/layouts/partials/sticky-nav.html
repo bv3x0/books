@@ -1,0 +1,27 @@
+{{/* Sticky section navigation bar - only shown on book pages with TOC */}}
+{{ if and (eq .Section "books") (.TableOfContents) }}
+<div class="sticky-nav" id="sticky-nav" aria-label="Section navigation">
+    <div class="sticky-nav-content">
+        {{/* Left section: Part + Separator (right-aligned, extends beyond content column) */}}
+        <div class="sticky-nav-breadcrumb" id="sticky-breadcrumb">
+            <span class="breadcrumb-part" id="breadcrumb-part"></span>
+            <span class="breadcrumb-separator">›</span>
+        </div>
+        {{/* Center section: Chapter (aligned with content column) */}}
+        <span class="breadcrumb-chapter" id="breadcrumb-chapter"></span>
+        {{/* Right: Toggle button */}}
+        <button class="sticky-nav-toggle" id="sticky-nav-toggle" aria-expanded="false"
+            aria-controls="sticky-nav-dropdown">
+            <svg class="toggle-icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor"
+                stroke-width="2">
+                <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+        </button>
+    </div>
+    <div class="sticky-nav-dropdown" id="sticky-nav-dropdown" aria-hidden="true">
+        <div class="sticky-nav-toc">
+            {{ .TableOfContents }}
+        </div>
+    </div>
+</div>
+{{ end }}

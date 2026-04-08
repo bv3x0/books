@@ -1,0 +1,597 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "Godfather of the Kremlin",
+    "author": "Paul Klebnikov",
+    "year": null,
+    "categories": [
+      "history",
+      "political science",
+      "business & economics"
+    ],
+    "thesis": "Boris Berezovsky epitomized post-Soviet Russia's transition, transforming the chaotic collapse of the state into a kleptocracy by deeply intertwining organized crime, business, and government through corrupt privatization schemes and political manipulation. His rise demonstrates how a lack of a healthy state and society led to the systematic looting of national wealth and the discrediting of nascent democracy and free markets."
+  },
+  "claims": [
+    {
+      "id": "godfather-of-the-kremlin-001",
+      "text": "Example: Major industrial giants like Gazprom, valued at $250 million in voucher auctions, were later valued at over $40 billion on the Russian stock market, illustrating the immense undervaluation.",
+      "chapter": "Anatoly Chubais Privatizes Russia",
+      "concepts": [
+        "privatization_auctions",
+        "asset_undervaluation",
+        "market_transformation",
+        "industrial_corporations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Russian stock market"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-002",
+      "text": "Example: The MMM pyramid scheme, led by Sergei Mavrodi, promised exorbitant returns and attracted millions of investors before collapsing, with the government failing to intervene effectively.",
+      "chapter": "The Ultimate Emerging Market",
+      "concepts": [
+        "pyramid_schemes",
+        "financial_fraud",
+        "government_regulation",
+        "investment_speculation"
+      ],
+      "entities": {
+        "people": [
+          "Sergei Mavrodi"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-003",
+      "text": "Example: In late 1995, Aeroflot's general director, Vladimir Tikhonov, was replaced by Yevgeny Shaposhnikov, a military marshal with no business experience, while key financial positions were filled by Berezovsky's Logovaz associates.",
+      "chapter": "\"Our Interest Here is Clear\"",
+      "concepts": [
+        "corporate_leadership",
+        "political_appointment",
+        "business_networks",
+        "oligarch_influence"
+      ],
+      "entities": {
+        "people": [
+          "Vladimir Tikhonov",
+          "Yevgeny Shaposhnikov"
+        ],
+        "places": [
+          "Aeroflot",
+          "Logovaz"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-004",
+      "text": "Conclusion: Despite the evidence of widespread illegal financing and manipulation, Western observers concluded the election was \"generally free and fair,\" and Yeltsin won his second term with 54% of the votes.",
+      "chapter": "\"Either They Shut Up or Ill Throw Them in Prison\"",
+      "concepts": [
+        "election_legitimacy",
+        "international_observers",
+        "electoral_manipulation",
+        "democratic_processes"
+      ],
+      "entities": {
+        "people": [
+          "Yeltsin"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "godfather-of-the-kremlin-ch-001",
+      "title": "The Great Mob War",
+      "summary": "This chapter details the \"Great Mob War\" in early post-Soviet Russia, a period of intense violence and criminalization driven by economic liberalization and widespread corruption, where organized crime became deeply intertwined with business and government.",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-002",
+      "title": "The Shootout at the Kazakhstan Cinema",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-003",
+      "title": "The Chechens",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-004",
+      "title": "Thieves Professing the Code",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-005",
+      "title": "The Cherry Casino",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-006",
+      "title": "Superpower of Crime",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-007",
+      "title": "The Bombing of Logovaz",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-008",
+      "title": "The Invasion of Chechnya",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-009",
+      "title": "The End of the Oldtimers",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-010",
+      "title": "The Collapse of the Old Regime",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-011",
+      "title": "Gorbachevs Reform",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-012",
+      "title": "Vodka",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-013",
+      "title": "The Ruble Overhang",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-014",
+      "title": "Boris Berezovsky Goes into Business",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-015",
+      "title": "The KGBs New Mission",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-016",
+      "title": "The Lausanne Connection",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-017",
+      "title": "The Putsch",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-018",
+      "title": "Death in the Courtyard",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-019",
+      "title": "Traders Paradise",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-020",
+      "title": "The Decision to Dissolve the Soviet Union",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-021",
+      "title": "Gaidars Reform",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-022",
+      "title": "Alisa",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-023",
+      "title": "Dealing in Ladas",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-024",
+      "title": "\"We Dismantled Everything\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-025",
+      "title": "\"We must Tighten Our Belts\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-026",
+      "title": "The Death of a Nation",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-027",
+      "title": "Selling the Country for Vouchers",
+      "summary": "This chapter argues that Russia's post-Soviet transition, particularly its mass privatization, was fundamentally corrupted by a venal political elite and opportunistic oligarchs, leading to the systematic undervaluation and appropriation of state assets for personal gain, while ordinary citizens were largely defrauded.",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-028",
+      "title": "A Friend of the Family",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-029",
+      "title": "Blasting Away the Parliament",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-030",
+      "title": "Anatoly Chubais Privatizes Russia",
+      "summary": "",
+      "claim_ids": [
+        "godfather-of-the-kremlin-001"
+      ]
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-031",
+      "title": "The Ultimate Emerging Market",
+      "summary": "",
+      "claim_ids": [
+        "godfather-of-the-kremlin-002"
+      ]
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-032",
+      "title": "The Peoples Car",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-033",
+      "title": "The Listyev Murder",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-034",
+      "title": "The Clearest Illustration of Corruption in Russia",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-035",
+      "title": "The Enemy",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-036",
+      "title": "Faces in the Snow!",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-037",
+      "title": "Assassination",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-038",
+      "title": "Moscow is Ruled by Scum",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-039",
+      "title": "Berezovsky Becomes a Media Mogul",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-040",
+      "title": "Privatizing the Profits of Aeroflot",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-041",
+      "title": "\"Our Interest Here is Clear\"",
+      "summary": "",
+      "claim_ids": [
+        "godfather-of-the-kremlin-003"
+      ]
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-042",
+      "title": "Andava",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-043",
+      "title": "Yeltsins SoninLaw",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-044",
+      "title": "The Dublin Connection",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-045",
+      "title": "The Race for Oil",
+      "summary": "This chapter details how Russian oligarchs, particularly Boris Berezovsky and Vagit Alekperov, consolidated immense wealth and power by seizing control of Russia's vast oil resources through corrupt privatization schemes like the \"loans-for-shares\" auctions, often with the complicity of government officials and at the expense of the state.",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-046",
+      "title": "\"The Meaning of Life is Expansion\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-047",
+      "title": "The Russian Rockefeller",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-048",
+      "title": "Dead Man in the River",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-049",
+      "title": "Loans for Shares",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-050",
+      "title": "The Sibneft Auction",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-051",
+      "title": "\"Government should Represent the Interests of Business\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-052",
+      "title": "The Black Treasury of the Yeltsin Campaign",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-053",
+      "title": "Davos",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-054",
+      "title": "\"We will not Give Up Power\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-055",
+      "title": "The Gathering at Logovaz House",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-056",
+      "title": "Tanya",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-057",
+      "title": "\"An Insignificant Sum\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-058",
+      "title": "Coins to the People",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-059",
+      "title": "The National Sports Fund",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-060",
+      "title": "Scare Tactics",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-061",
+      "title": "Recruiting General Lebed",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-062",
+      "title": "A Box of Cash",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-063",
+      "title": "Fyodorov Escapes Death",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-064",
+      "title": "\"Either They Shut Up or Ill Throw Them in Prison\"",
+      "summary": "",
+      "claim_ids": [
+        "godfather-of-the-kremlin-004"
+      ]
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-065",
+      "title": "Oligarchy",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-066",
+      "title": "Party Town",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-067",
+      "title": "Berezovsky is Appointed to the Government",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-068",
+      "title": "Trading Hostages",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-069",
+      "title": "\"This was a Comedy and It Remains a Comedy\"",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-070",
+      "title": "New Rules of the Game",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-071",
+      "title": "Yuksi",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-072",
+      "title": "The Financial Crash",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-073",
+      "title": "Vladimir Putin Takes Power",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-074",
+      "title": "Eavesdropping on the President",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-075",
+      "title": "Arrest Warrant",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-076",
+      "title": "Berezovsky Triumphant",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-077",
+      "title": "Vladimir Putins Rise",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-078",
+      "title": "The Second Chechen War",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-079",
+      "title": "Aluminum Magnates",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-080",
+      "title": "Legal Immunity",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "godfather-of-the-kremlin-ch-081",
+      "title": "Epilogue",
+      "summary": "",
+      "claim_ids": []
+    }
+  ],
+  "stats": {
+    "claim_count": 4,
+    "chapter_count": 81,
+    "indexed_at": "2026-01-22T19:05:11.191279Z"
+  }
+}

@@ -1,0 +1,1715 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Discarded Image",
+    "author": "C. S. Lewis",
+    "year": 1964,
+    "categories": [
+      "literary criticism",
+      "history",
+      "philosophy"
+    ],
+    "thesis": "The medieval Model of the universe\u2014a single, harmonious, hierarchically ordered cosmos synthesized from classical, Platonic, and Christian sources\u2014was not merely a scientific error but a supreme work of imaginative art that shaped all medieval literature and thought; understanding it is prerequisite to reading medieval and Renaissance poetry well."
+  },
+  "claims": [
+    {
+      "id": "the-discarded-image-001",
+      "text": "Medieval beliefs superficially resemble savage beliefs but arise through an entirely different route\u2014through literate transmission across many centuries rather than spontaneous communal mythopoeia, as illustrated by La\u01b7amon's aerial daemons, which trace back through Wace, Geoffrey of Monmouth, Apuleius, and ultimately to Plato.",
+      "chapter": "The Medieval Situation",
+      "concepts": [
+        "oral_tradition",
+        "textual_transmission",
+        "cultural_synthesis",
+        "epistemic_authority"
+      ],
+      "entities": {
+        "people": [
+          "La\u01b7amon",
+          "Wace",
+          "Geoffrey of Monmouth",
+          "Apuleius",
+          "Plato"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Brut",
+          "Historia Regum Britanniae",
+          "De Deo Socratis"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "La\u01b7amon's account of aerial daemons in the Brut (c. 1200) is not a native English folk-belief but a chain of literary borrowings running from Plato's pneumatology through Apuleius' De Deo Socratis and Geoffrey of Monmouth.",
+          "speaker": null
+        },
+        {
+          "text": "Savage beliefs are dissipated by literacy and contact with other cultures; these are the very things that created La\u01b7amon's belief.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-002",
+      "text": "The medieval cosmos was divided at the lunar orbit between changeable sublunary Nature and the eternal, perfectly regular translunary realm\u2014a distinction derived from Aristotle's observation that celestial bodies, unlike earthly ones, show no birth, death, or irregular motion.",
+      "chapter": "The Medieval Situation",
+      "concepts": [
+        "cosmological_model",
+        "aristotelian_physics",
+        "nature_supernature_distinction"
+      ],
+      "entities": {
+        "people": [
+          "Aristotle",
+          "Guillaume Deguileville"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "P\u00e8lerinage de l'Homme",
+          "De Caelo"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Aristotle distinguished Nature (physis), the realm of birth and decay, from Sky (ouranos), composed of a fifth element, aether, and governed by perfect circular motion.",
+          "speaker": null
+        },
+        {
+          "text": "Deguileville's personified Nature in the P\u00e8lerinage de l'Homme identifies the Moon's orbit as the frontier of her realm\u2014a passage whose ultimate source is Aristotle's physics, not religious mythology.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-003",
+      "text": "Medieval culture was defined above all by its dependence on written authorities (auctours), making it fundamentally different from both oral savagery and modern empiricism, where observation is the ultimate court of appeal.",
+      "chapter": "The Medieval Situation",
+      "concepts": [
+        "textual_authority",
+        "bookish_culture",
+        "medieval_scholarship",
+        "epistemic_authority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Though literacy was rarer in the Middle Ages than today, reading was in one way a more important ingredient of total culture precisely because it was the dominant means of transmitting all learned knowledge.",
+          "speaker": null
+        },
+        {
+          "text": "Every medieval writer, if possible, based himself on an earlier Latin auctour, creating a culture in which inherited texts rather than fresh observation were the primary data.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-004",
+      "text": "The barbarian (Germanic and Celtic) contribution to medieval culture is real but is vastly less visible in literary texts than the classical inheritance: for every reference to Wade or Weland one meets fifty to Hector, Aeneas, or Caesar.",
+      "chapter": "The Medieval Situation",
+      "concepts": [
+        "cultural_heritage",
+        "classical_influence",
+        "vernacular_literature",
+        "linguistic_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "England"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Language itself is the most pervasive barbarian legacy\u2014English syntax, tone, and rhythm are of Anglo-Saxon descent in ways that cannot be reduced to a merely philological fact.",
+          "speaker": null
+        },
+        {
+          "text": "Old Norse and Celtic texts remained unknown outside a very limited area, and changes in language soon made Anglo-Saxon unintelligible even in England, so barbarian elements in later vernaculars are rare and elusive.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-005",
+      "text": "The Romances and Ballads, though they may seem most characteristically medieval to modern readers, are actually marginal truancies from the dominant medieval temper, whose real genius lay in systematic organization, codification, and the building of harmonious intellectual structures.",
+      "chapter": "The Medieval Situation",
+      "concepts": [
+        "medieval_literature",
+        "systematic_thought",
+        "literary_genre",
+        "intellectual_history"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Chaucer",
+          "Thomas Aquinas",
+          "Villon"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Summa Theologica",
+          "Divine Comedy"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The 'eerie quality' of the best ballads and the 'elusive reticence' of the best romances are absent from much of the greatest medieval literature\u2014Dante, Chaucer, and the Hymns\u2014and stand apart from the habitual medieval taste.",
+          "speaker": null
+        },
+        {
+          "text": "The medieval love of system found its supreme expressions in Aquinas' Summa and Dante's Divine Comedy, both vast in scale but 'as unified and ordered as the Parthenon' and 'as crowded as a London terminus on a bank holiday.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-006",
+      "text": "The medieval Model of the universe\u2014the synthesis of theology, science, and history into a single ordered mental picture\u2014is itself a supreme work of art comparable to the Summa and the Divine Comedy, and was felt as satisfying while still believed true.",
+      "chapter": "The Medieval Situation",
+      "concepts": [
+        "cosmological_model",
+        "medieval_synthesis",
+        "aesthetic_experience",
+        "intellectual_order"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Thomas Aquinas"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Summa Theologica",
+          "Divine Comedy"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Model's sublimity is not vague or gothic but classical: everything links up with everything else in hierarchical unity, giving the mind an object in which it can rest.",
+          "speaker": null
+        },
+        {
+          "text": "Its construction was driven both by the bookish character of medieval culture (which demanded reconciliation of heterogeneous authorities) and by the medieval passion for systematic order.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-007",
+      "text": "Lewis's account of the Medieval Model deliberately ignores the history of philosophical controversy (including the shift from Platonism to Aristotelianism and the Nominalist-Realist dispute) because these controversies had almost no effect on the literary and artistic 'backcloth' that poets and artists actually used.",
+      "chapter": "Reservations",
+      "concepts": [
+        "literary_backcloth",
+        "history_of_ideas",
+        "medieval_to_renaissance_continuity"
+      ],
+      "entities": {
+        "people": [
+          "Spenser",
+          "Donne",
+          "Milton"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Model, as regards those elements poets and artists could utilize, remained stable across the changes that preoccupied academic philosophers.",
+          "speaker": null
+        },
+        {
+          "text": "Lewis freely illustrates 'medieval' features from Spenser, Donne, and Milton because the old Model still underlies their work and was not confidently abandoned until the end of the seventeenth century.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-008",
+      "text": "Medieval natural philosophers, including Aquinas, understood that scientific theories are provisional tools for 'saving the appearances' rather than statements of ultimate fact\u2014a methodological caution that ordinary poets and readers did not necessarily share.",
+      "chapter": "Reservations",
+      "concepts": [
+        "philosophy_of_science",
+        "saving_the_appearances",
+        "scientific_method",
+        "epistemic_humility"
+      ],
+      "entities": {
+        "people": [
+          "Thomas Aquinas",
+          "Copernicus",
+          "Galileo",
+          "Simplicius",
+          "William of Ockham"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "De Caelo",
+          "Paradise Lost"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Aquinas explicitly notes that epicycles and eccentrics are posited because 'if their assumption is made the sensible appearances can be saved' but that this is not strict proof since for all we know they could be saved by some different assumption.",
+          "speaker": "Aquinas"
+        },
+        {
+          "text": "The real revolution of Galileo was not a new theory of the heavens but 'a new theory of the nature of theory'\u2014insisting on treating a supposal as fact where Copernicus had offered only a supposal.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-009",
+      "text": "The Model operated with different force at different intellectual levels: great thinkers were above its full spell because they were building or questioning it, spiritual writers were largely indifferent to it for practical reasons, while poets and their audiences gave it its fullest imaginative life.",
+      "chapter": "Reservations",
+      "concepts": [
+        "intellectual_hierarchy",
+        "religious_mysticism",
+        "cosmological_model",
+        "literary_imagination"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Jean de Meung",
+          "Albertus Magnus",
+          "Thomas Aquinas",
+          "Bernard of Clairvaux"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Scale of Perfection",
+          "Imitation of Christ",
+          "Romance of the Rose"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Quasi-religious responses to the Model appear in Dante and Jean de Meung rather than in Albertus Magnus and Aquinas, because expert thinkers are always engaged with questions the Model has not yet answered or must revise.",
+          "speaker": null
+        },
+        {
+          "text": "Spiritual writers like St Bernard or the author of The Imitation of Christ can be read without any knowledge of the Model because their books are entirely practical\u2014like medical books\u2014focused on the soul's cure, not the cosmos's structure.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-010",
+      "text": "The Model's cosmology and medieval Christianity were not in logical contradiction but in a profound disharmony of temperament, because Pagan elements embedded in the Model implied a conception of God and man at odds with specifically Christian doctrines of incarnation, fall, and redemption.",
+      "chapter": "Reservations",
+      "concepts": [
+        "pagan_christian_synthesis",
+        "theological_tension",
+        "cosmological_model",
+        "medieval_religion"
+      ],
+      "entities": {
+        "people": [
+          "Dante"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Model presents a universe in which God is much less the lover than the beloved and man is a marginal creature; Christianity centers on the fall of man and God's incarnation for man's redemption\u2014a profound difference of atmosphere even without logical contradiction.",
+          "speaker": null
+        },
+        {
+          "text": "Delighted contemplation of the Model and intense specifically Christian religious feeling are 'seldom fused except in the work of Dante.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-011",
+      "text": "Cicero's Somnium Scipionis established for medieval literature the pattern of celestial ascent, the cosmic insignificance of the Earth, the music of the spheres, and the prohibition of suicide\u2014but framed these within a fundamentally Pagan ethics that made heaven a reward for statesmen and treated the soul as inherently divine.",
+      "chapter": "Selected Materials: The Classical Period",
+      "concepts": [
+        "classical_sources",
+        "celestial_ascent",
+        "afterlife_cosmology",
+        "pagan_christian_synthesis"
+      ],
+      "entities": {
+        "people": [
+          "Cicero",
+          "Scipio Africanus Minor",
+          "Dante",
+          "Chaucer"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Somnium Scipionis",
+          "Paradiso",
+          "Hous of Fame",
+          "Troilus and Criseyde",
+          "King's Quair"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Somnium is the prototype for many later literary ascents to heaven, including those in Dante's Paradiso, Chaucer's Hous of Fame and Troilus, and the King's Quair.",
+          "speaker": null
+        },
+        {
+          "text": "Cicero's heaven for public men\u2014'all who have been saviours or champions of their native land'\u2014was irreconcilable with Pagan sage-religion and with Christian sainthood, yet syncretistic interpretation had already harmonized it before the Middle Ages began.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-012",
+      "text": "The Somnium's prohibition of suicide, reinforced by the military metaphor of the soul standing guard, passed through Spenser and Donne into English literature as a recognizable topos, showing how a single Platonic passage could generate a literary tradition across many centuries.",
+      "chapter": "Selected Materials: The Classical Period",
+      "concepts": [
+        "literary_topos",
+        "textual_transmission",
+        "classical_influence",
+        "moral_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Cicero",
+          "Plato",
+          "Spenser",
+          "Donne"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Somnium Scipionis",
+          "Phaedo",
+          "Faerie Queene",
+          "Satyre III"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Spenser's Redcross Knight answers Despair's temptation with 'The souldier may not move from watchfull sted / Nor leave his stand untill his Captaine bed' (F.Q. I, ix, 41).",
+          "speaker": "Spenser"
+        },
+        {
+          "text": "Donne in Satyre III uses the same garrison metaphor to condemn duelling as deserting one's post in 'his worlds garrison.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-013",
+      "text": "Lucan's Pharsalia contributed the crucial scene of Pompey's soul ascending through the airy region to laugh at the smallness of earthly things\u2014a passage that generated, through Boccaccio's Teseide, the ghost of Troilus in Chaucer, showing how a single classical episode could travel across centuries and languages.",
+      "chapter": "Selected Materials: The Classical Period",
+      "concepts": [
+        "textual_transmission",
+        "celestial_ascent",
+        "classical_influence",
+        "comic_perspective"
+      ],
+      "entities": {
+        "people": [
+          "Lucan",
+          "Boccaccio",
+          "Chaucer",
+          "Pompey"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Pharsalia",
+          "Teseide",
+          "Troilus and Criseyde",
+          "Knight's Tale"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Lucan describes Pompey arriving 'where the murky air joins the star-bearing wheels' and drinking in 'true light', seeing 'under how vast a night lies what we call Day', then laughing at the mockeries done to his corpse.",
+          "speaker": null
+        },
+        {
+          "text": "Boccaccio borrowed the passage for Arcita in the Teseide; Chaucer ignored it in the Knight's Tale but used it for Troilus (V, 1807 sq.)\u2014and in all three cases the laughter signifies not bitterness but the soul's perception of the littleness of what once seemed so important.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-014",
+      "text": "The personified Lady Natura, who dominates vast stretches of medieval allegory from the Romance of the Rose to Spenser's Mutability cantos, has surprisingly thin classical roots in Statius and Claudian; her vitality and importance in medieval literature far exceed anything antiquity provided, made possible precisely because Christians could situate her as a created, subordinate, and limited being.",
+      "chapter": "Selected Materials: The Classical Period",
+      "concepts": [
+        "personification_allegory",
+        "nature_as_concept",
+        "classical_to_medieval_transmission",
+        "medieval_literature"
+      ],
+      "entities": {
+        "people": [
+          "Statius",
+          "Claudian",
+          "Jean de Meung",
+          "Alanus ab Insulis",
+          "Bernardus Silvestris",
+          "Spenser"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Thebaid",
+          "De Consulatu Stilichonis",
+          "Romance of the Rose",
+          "Faerie Queene",
+          "De Mundi Universitate"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Truly ancient mythology knows nothing of 'Nature' as a deity because the concept requires prior philosophical abstraction; 'Mother Earth' and 'Father Sky' are genuinely mythopoeic, but 'Mother Nature' is a conscious metaphor available only after the pre-Socratics invented the concept of physis.",
+          "speaker": null
+        },
+        {
+          "text": "By surrendering the Stoic claim to be everything, the medieval Natura\u2014God's vicegerent below the Moon, with subjects who can rebel against her\u2014becomes a vivid literary somebody; a figurative being on these terms is apparently more potent than a deity believed in who, by being all things, is almost nothing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-015",
+      "text": "Apuleius' De Deo Socratis transmitted to the Middle Ages two organizing principles of the Model\u2014the Principle of the Triad (a mediating third term is always needed between extremes) and the Principle of Plenitude (every region of the universe must have its appropriate inhabitants)\u2014along with the doctrine of aerial daemons as intermediaries between gods and men.",
+      "chapter": "Selected Materials: The Classical Period",
+      "concepts": [
+        "principle_of_plenitude",
+        "mediation_principle",
+        "daemonology",
+        "cosmological_hierarchy"
+      ],
+      "entities": {
+        "people": [
+          "Apuleius",
+          "Plato",
+          "Socrates"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "De Deo Socratis",
+          "Symposium",
+          "Apology"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Plato had established in the Symposium that 'no god converses with men' and that daemons, as middle beings between gods and mortals, fill the necessary gap; Apuleius developed this into a full pneumatology of rational aerial animals inhabiting the air between Earth and Moon.",
+          "speaker": null
+        },
+        {
+          "text": "The Principle of Plenitude holds that ratio herself demands every region be populated: since air lies between earth and aether, it must have its native species just as earth has men and aether has gods.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-016",
+      "text": "Chalcidius' translation and commentary on Plato's Timaeus determined what 'Plato' meant throughout the Middle Ages\u2014not the logician or philosopher of love, but the great monotheistic cosmogonist\u2014and his allegorizing method of always attributing to Plato 'whatever sense appears worthiest the wisdom of so great an authority' ensured that the commentator's own age would be read back into the text.",
+      "chapter": "Selected Materials: The Seminal Period",
+      "concepts": [
+        "platonic_tradition",
+        "textual_commentary",
+        "allegorical_interpretation",
+        "medieval_scholarship"
+      ],
+      "entities": {
+        "people": [
+          "Chalcidius",
+          "Plato"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Timaeus",
+          "Commentarius on the Timaeus"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "By transmitting the Timaeus (and little else of Plato) to an age when almost nothing else of Plato was available, Chalcidius paradoxically made Plato the philosopher of Nature and creation rather than of Ideas or politics.",
+          "speaker": null
+        },
+        {
+          "text": "Chalcidius interprets Plato's doctrine of metempsychosis (souls reincarnated as women and beasts) not literally but as meaning that by indulging passions one becomes, in this life, more like an animal\u2014the standard medieval method of rescuing an auctour from an embarrassing statement.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-017",
+      "text": "Chalcidius applied the Principle of the Triad and the Principle of Plenitude to cosmology, psychology, and politics simultaneously, finding in all three domains the same pattern: a triadic hierarchy of ruler, executive, and subjects that maps onto head, chest, and abdomen in the individual soul.",
+      "chapter": "Selected Materials: The Seminal Period",
+      "concepts": [
+        "triadic_structure",
+        "faculty_psychology",
+        "cosmological_hierarchy",
+        "principle_of_plenitude"
+      ],
+      "entities": {
+        "people": [
+          "Chalcidius",
+          "Plato",
+          "Alanus ab Insulis"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Timaeus",
+          "Republic",
+          "Anticlaudian"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Following Plato's Republic and Timaeus, Chalcidius locates Reason in the 'capitolium' of the head, the spirited faculty in the 'castra' of the chest, and Appetite in the abdomen\u2014a triadic psychology that reflects the medieval ideal of chivalric honor as the necessary mean between reason and appetite.",
+          "speaker": null
+        },
+        {
+          "text": "This cosmic-political-psychological triad was later magnificently deployed by Alanus ab Insulis, who compared the whole universe to a city with the Emperor enthroned in the central Empyrean, angelic knighthood in the lower heavens, and humanity 'outside the city wall.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-018",
+      "text": "Macrobius' Commentary on the Somnium Scipionis transformed Cicero's civic eschatology into a neo-Platonic mystical theology, finding room within Cicero's parenthetical reservation ('on earth, at any rate') for a complete system of purgatorial, ascetic, and contemplative virtues operating on four hierarchical levels.",
+      "chapter": "Selected Materials: The Seminal Period",
+      "concepts": [
+        "dream_classification",
+        "neo_platonic_mysticism",
+        "soul_cosmology",
+        "textual_transmission"
+      ],
+      "entities": {
+        "people": [
+          "Macrobius",
+          "Cicero",
+          "Chaucer"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Commentary on the Somnium Scipionis",
+          "Somnium Scipionis",
+          "Hous of Fame"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Macrobius classifies dreams into five types\u2014somnium, visio, oraculum, insomnium, and visum\u2014a scheme that passed directly into medieval dream-poetry and appears in Chaucer's Hous of Fame as 'dreem', 'avisioun', 'oracle', 'sweven', and 'fantom.'",
+          "speaker": null
+        },
+        {
+          "text": "Macrobius further establishes that the soul returns to heaven because she first came thence, that the body is the soul's tomb, and that the soul is the man\u2014doctrines of Platonic origin that the Middle Ages inherited alongside Christianity in uneasy cohabitation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-019",
+      "text": "Pseudo-Dionysius' Celestial Hierarchies established the nine-species angelic order (three triads of Seraphim/Cherubim/Thrones, Dominations/Virtues/Powers, Princedoms/Archangels/Angels) and the principle that divine illumination always descends through intermediaries rather than reaching any lower being directly.",
+      "chapter": "Selected Materials: The Seminal Period",
+      "concepts": [
+        "angelic_hierarchy",
+        "mediation_principle",
+        "divine_illumination",
+        "triadic_structure"
+      ],
+      "entities": {
+        "people": [
+          "pseudo-Dionysius",
+          "Thomas Aquinas",
+          "Paul the Apostle",
+          "Spenser"
+        ],
+        "places": [
+          "Syria",
+          "Constantinople"
+        ],
+        "events": [
+          "Council of Constantinople 533"
+        ],
+        "works": [
+          "Celestial Hierarchies",
+          "Ecclesiastical Hierarchies",
+          "Faerie Queene"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Pseudo-Dionysius reads even the Annunciation as confirming the principle: so momentous a message, even to so exalted a recipient, was brought by a mere archangel\u2014'that even in so great a matter the system whereby divine things reach us through the mediation of angels might be unbroken', as Aquinas later confirmed.",
+          "speaker": null
+        },
+        {
+          "text": "In pseudo-Dionysius the whole universe becomes a fugue of which the Triad (agent-mean-patient) is the subject: the angelic creation mediates between God and Man, each Hierarchy mediates between those above and below it, and each individual angel has ruling, intermediate, and obedient faculties.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-020",
+      "text": "Boethius' De Consolatione Philosophiae was written as a philosophical (not religious) work by deliberate methodological choice, enabling it to reach consoling conclusions acceptable to Christianity from purely rational premises while avoiding the strain of directly confronting Christian doctrine against neo-Platonic antecedents.",
+      "chapter": "Selected Materials: The Seminal Period",
+      "concepts": [
+        "methodological_discipline",
+        "philosophy_vs_theology",
+        "textual_influence",
+        "consolation_literature"
+      ],
+      "entities": {
+        "people": [
+          "Boethius",
+          "Theodoric",
+          "Jean de Meung",
+          "Alfred the Great",
+          "Chaucer",
+          "Elizabeth I"
+        ],
+        "places": [
+          "Pavia"
+        ],
+        "events": [],
+        "works": [
+          "De Consolatione Philosophiae",
+          "De Trinitate",
+          "De Fide Catholica"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Boethius was certainly a Christian theologian (author of De Trinitate), but Aristotle had impressed the propriety of keeping each discipline to its appropriate method; the Consolation uses 'inborn and domestical proofs' rather than theological revelation because it was written as philosophy, just as an arithmetic book does not use geometrical methods.",
+          "speaker": null
+        },
+        {
+          "text": "The Consolation was translated into Old High German, Italian, Spanish, Greek, and French (by Jean de Meung), and into English by Alfred, Chaucer, Elizabeth I, and others\u2014for over a thousand years one of the most influential books in Latin.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-021",
+      "text": "Boethius' account of Providence and Destiny\u2014that what appears from below as Fortune's wheel is from above a single timeless act of Providence, and that God does not foreknow but simply sees all times in an eternal Now\u2014provided the most influential medieval resolution of the problem of free will and divine omniscience.",
+      "chapter": "Selected Materials: The Seminal Period",
+      "concepts": [
+        "free_will",
+        "divine_providence",
+        "eternity_vs_time",
+        "medieval_theology"
+      ],
+      "entities": {
+        "people": [
+          "Boethius",
+          "Milton",
+          "Spenser",
+          "Dante"
+        ],
+        "places": [
+          "Santa Maria del Popolo",
+          "Rome"
+        ],
+        "events": [],
+        "works": [
+          "De Consolatione Philosophiae",
+          "Paradise Lost",
+          "Faerie Queene",
+          "Inferno"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "God is eternal, not merely perpetual: He does not 'foresee' future acts but simply sees them, as a human spectator by watching my present act does not infringe its freedom\u2014'you are none the less free to act as you choose in the future because God, in that future (His present) watches me acting.'",
+          "speaker": null
+        },
+        {
+          "text": "The cupola above Chigi's tomb in Santa Maria del Popolo in Rome sets the entire Boethian image of wheel, hub, destiny, and Providence before the eyes: planets on the outer rim, Intelligences on an inner circle, and the Unmoved Mover at the centre with hands upraised.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-022",
+      "text": "The medieval universe was organized around 'kindly enclyning'\u2014the tendency of each substance to move toward its natural place\u2014rather than abstract laws, a metaphor less anthropomorphic than modern 'obedience to laws' because it projects desire rather than citizenship onto matter.",
+      "chapter": "The Heavens",
+      "concepts": [
+        "natural_place_theory",
+        "aristotelian_physics",
+        "metaphor_in_science",
+        "medieval_cosmology"
+      ],
+      "entities": {
+        "people": [
+          "Chaucer",
+          "Gower",
+          "Francis Bacon"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Hous of Fame",
+          "Confessio Amantis",
+          "Advancement of Learning"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Chaucer's Hous of Fame articulates the principle: 'Every kindly thing that is / Hath a kindly stede ther he / May best in hit conserved be', and falling bodies illustrate not gravitation but an Earth-homing instinct.",
+          "speaker": null
+        },
+        {
+          "text": "Medieval thinkers did not literally believe stones were sentient; both the medieval language of 'kindly enclyning' and the modern language of 'laws' and 'obedience' are metaphors, but the medieval metaphor projects strivings while the modern projects a police system.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-023",
+      "text": "The Ptolemaic system placed the Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn, the Stellatum, and the Primum Mobile as successive hollow transparent spheres around a tiny central Earth, with the Primum Mobile inferring the daily revolution of all others and the translunary realm constituting a categorically different, incorruptible order of being.",
+      "chapter": "The Heavens",
+      "concepts": [
+        "ptolemaic_cosmology",
+        "geocentric_model",
+        "cosmological_hierarchy",
+        "medieval_astronomy"
+      ],
+      "entities": {
+        "people": [
+          "Ptolemy",
+          "Aristotle",
+          "Dante",
+          "Bernardus Silvestris"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Almagest",
+          "Paradiso",
+          "South English Legendary"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Earth was not merely small by relative measurement but small in an absolute sense: the Stellatum was 'quite simply and finally, the largest object in existence,' making Earth's smallness far more vivid than in the modern universe where everything, including galaxies, is comparably small.",
+          "speaker": null
+        },
+        {
+          "text": "Beyond the Primum Mobile lay what Aristotle described in a hushed voice as a place with neither space, void, nor time; in Christian adoption this becomes the Empyrean, 'caelum ipsum, full of God', where spatial thinking breaks down entirely.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-024",
+      "text": "Looking up at the medieval night sky should feel like looking into a great illuminated building rather than out into a dark void\u2014because medieval cosmology held the sun illuminates the whole universe, night is merely Earth's conical shadow extending no further than Venus, and the translunary spheres resound with music.",
+      "chapter": "The Heavens",
+      "concepts": [
+        "cosmological_imagination",
+        "aesthetic_experience",
+        "medieval_cosmology",
+        "spatial_perception"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Pascal",
+          "Isidore of Seville",
+          "Henryson",
+          "Milton"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Paradiso",
+          "Fables",
+          "Paradise Lost",
+          "Comus"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "All stars, according to Isidore and Dante, have no light of their own but are illuminated by the Sun; the medieval mind had no concept of the atmosphere's role in creating 'day,' so all the cubic miles of the great concavity were pictured as flooded with light.",
+          "speaker": null
+        },
+        {
+          "text": "The modern sense of cosmic agoraphobia\u2014Pascal's terror at 'le silence \u00e9ternel de ces espaces infinis'\u2014is absent from all medieval cosmic poetry; Dante traverses the spheres like a man conducted through an immense cathedral, not one lost in a shoreless sea.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-025",
+      "text": "Each celestial sphere was moved by an Intelligence\u2014a creature of pure or near-pure intellect\u2014whose love for God caused it to rotate, imitating as nearly as possible God's perfect, motionless ubiquity by the swiftest and most regular circular motion available to it.",
+      "chapter": "The Heavens",
+      "concepts": [
+        "unmoved_mover",
+        "celestial_intelligence",
+        "divine_love",
+        "cosmological_hierarchy"
+      ],
+      "entities": {
+        "people": [
+          "Aristotle",
+          "Dante",
+          "Donne",
+          "Albertus Magnus",
+          "Thomas Aquinas"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Paradiso",
+          "The Extasie"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Aristotle's Prime Mover moves as beloved (kinei hos eromenon): He moves other things not by any positive action but as an object of desire moves those who desire it\u2014a Theology that describes the natural order rather than the Christian order of Grace.",
+          "speaker": null
+        },
+        {
+          "text": "Dante's Paradiso (XXVIII) shows God as a point of light with the smallest and swiftest ring of Intelligence nearest to it, inverting the spatial order: what appears spatially as the rim (Earth) is intellectually the centre, and what appears as the centre (God) is spatially the circumference.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-026",
+      "text": "The seven planets each exerted characteristic influences on earthly affairs and on human temperament, and these influences\u2014named astrology\u2014were accepted by orthodox medieval theology provided they stopped short of determinism; the planets' characters (Saturn malefic, Jupiter beneficent, etc.) were inseparable in the medieval mind from their Pagan divine names and their roles as sources of metals.",
+      "chapter": "The Heavens",
+      "concepts": [
+        "astrology",
+        "planetary_influence",
+        "free_will",
+        "pagan_christian_synthesis"
+      ],
+      "entities": {
+        "people": [
+          "Thomas Aquinas",
+          "Chaucer",
+          "Dante",
+          "Gower",
+          "Albertus Magnus"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Knight's Tale",
+          "Paradiso",
+          "Confessio Amantis",
+          "Testament of Cresseid"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Aquinas taught that celestial bodies affect terrestrial bodies including human bodies, and through bodies can generate propensities but not necessities in will and reason; hence the wise man overrules the stars, but astrological predictions about masses of men will often be verified.",
+          "speaker": null
+        },
+        {
+          "text": "The medieval poet who mentions Venus or Mars intends simultaneously the visible planet, the source of astrological influence, and the mythological deity\u2014and modern readers misread such passages if they assume these are merely mythological decorations as in Shelley or Keats.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-027",
+      "text": "The lunar frontier\u2014dividing the sublunary world of change, contingence, and Fortune from the translunary world of permanence, necessity, and angelic intelligence\u2014is a precise technical boundary in medieval poetry, not a vague synonym for 'everywhere,' and every reference to 'under the moon' or 'translunary' loses its intended force if this is not understood.",
+      "chapter": "The Heavens",
+      "concepts": [
+        "lunar_frontier",
+        "contingence_vs_necessity",
+        "medieval_cosmology",
+        "literary_allusion"
+      ],
+      "entities": {
+        "people": [
+          "Gower",
+          "Chaucer",
+          "Donne",
+          "Drayton"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Confessio Amantis",
+          "Monk's Tale",
+          "Canterbury Tales",
+          "The Extasie"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "When Gower writes 'We that dwelle under the Mone / Stand in this world upon a weer', he means exactly that uncertainty is the condition of sublunary existence and would not afflict beings above the Moon.",
+          "speaker": null
+        },
+        {
+          "text": "Chaucer's remark that 'Fortune may non angel dere' in the Monk's Tale is precise: angels inhabit the aetherial realm where there is no contingence and therefore no luck, good or bad.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-028",
+      "text": "The word 'fairy' covered at least three distinct and emotionally incompatible kinds of being in medieval and Renaissance literature: the sinister swart fairy of the mine associated with horrors, the small dancing fairy glimpsed accidentally by a peasant who feels he has trespassed, and the High Fairy of romance who is vividly material, passionately vital, and deliberately encounters mortals.",
+      "chapter": "The Longaevi",
+      "concepts": [
+        "fairy_tradition",
+        "supernatural_beings",
+        "medieval_folklore",
+        "literary_typology"
+      ],
+      "entities": {
+        "people": [
+          "Milton",
+          "Spenser",
+          "Chaucer",
+          "Shakespeare"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Comus",
+          "Paradise Lost",
+          "Paradise Regained",
+          "Faerie Queene",
+          "Wife of Bath's Tale"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Milton exploits all three registers of 'fairy' in different poems (Comus, Paradise Lost, Paradise Regained), confident that his public would make the right response at each place\u2014evidence of how complex and stable the tradition was.",
+          "speaker": null
+        },
+        {
+          "text": "The dancing fairy glimpsed accidentally\u2014the kind in the Wife of Bath's Tale and Spenser's Book VI\u2014always vanishes at mortal approach, and the human observer feels he has committed a trespass; the delight is of seeing 'a gaiety and daintiness to which our own laborious life is simply irrelevant.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-029",
+      "text": "The High Fairies of medieval romance\u2014vivid, materially splendid, passionate, and masterful\u2014are not the wispy or miniature creatures of later literary tradition but are best understood through Blake's warning that a spirit is 'organised and minutely articulated beyond all that mortal nature can produce'; their life is more natural than ours, not less.",
+      "chapter": "The Longaevi",
+      "concepts": [
+        "supernatural_beings",
+        "medieval_romance",
+        "fairy_tradition",
+        "materiality_spirituality"
+      ],
+      "entities": {
+        "people": [
+          "William Blake"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Sir Orfeo",
+          "Sir Launfal",
+          "Sir Gawain and the Green Knight",
+          "Thomas the Rymer"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In Sir Orfeo the Fairy King comes with a hundred knights on white horses, his crown a single gem as bright as the sun, his realm a castle of crystal; in Sir Launfal the fairy pavilion is Saracenic work with crystal knobs and a golden eagle richer than anything Alexander or Arthur possessed.",
+          "speaker": null
+        },
+        {
+          "text": "Despite their material vividness in full light, the High Fairies can vanish or carry off mortals invisibly at any moment; Orfeo awaits the Fairy King with a thousand knights yet his wife is taken and 'men wist never wher she was bicome.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-030",
+      "text": "Four rival theories attempted to fit the Fairies into the Model\u2014as a third rational species distinct from angels and men, as demoted angels, as the dead or some special class of the dead, or as fallen angels (devils)\u2014but no agreement was reached, and this irresolution was integral to their imaginative function.",
+      "chapter": "The Longaevi",
+      "concepts": [
+        "fairy_tradition",
+        "supernatural_taxonomy",
+        "medieval_theology",
+        "folk_belief"
+      ],
+      "entities": {
+        "people": [
+          "Walter Map",
+          "Robert Kirk",
+          "Paracelsus",
+          "King James I of England",
+          "Shakespeare"
+        ],
+        "places": [
+          "Edinburgh"
+        ],
+        "events": [],
+        "works": [
+          "De Nugis Curialium",
+          "Secret Commonwealth",
+          "Daemonologie",
+          "South English Legendary",
+          "Sir Orfeo"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The South English Legendary proposed that some angels who were 'somdel' sympathetic to Lucifer's rebellion but not actively guilty were banished to the air or to places on earth including the Earthly Paradise, and many would return to Heaven at Doomsday\u2014making fairies a kind of suspended case.",
+          "speaker": null
+        },
+        {
+          "text": "The identification of fairies with the dead appears in Walter Map, Gower, Boccaccio, and the confusion in Sir Orfeo between a land of those 'taken' by fairies and a genuine land of the dead; it was sufficiently believed that witches under examination confessed to seeing the dead among the fairies.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-031",
+      "text": "Dante's brilliant innovation in making Fortune the Intelligence of the stationary Earth\u2014God's vicegerent who circulates worldly splendours among nations as the celestial spheres circulate motion\u2014transformed the Boethian figure from a stock complaint into a cosmic principle: contingency reigning below the Moon is not itself contingent but part of the providential design.",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "fortune_and_providence",
+        "medieval_cosmology",
+        "philosophy_of_history",
+        "political_theology"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Boethius",
+          "Thomas Browne",
+          "Hegel",
+          "Carlyle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Inferno",
+          "De Consolatione Philosophiae"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Fortune's wheel becomes in Dante's hands a sphere, emphasizing her new cosmological dignity; she 'turns her sphere and rejoices in her bliss' as the angelic Intelligences rejoice in theirs, indifferent to mortal curses.",
+          "speaker": null
+        },
+        {
+          "text": "This conception\u2014that empires rise and fall not by desert nor by any 'trend' in history but by Fortune's rough justice giving everyone their turn\u2014effectively cuts the ground from under Hegelian, Carlylean, Marxist, or Macaulayan philosophies of history.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-032",
+      "text": "Medieval people universally accepted that the Earth is a sphere\u2014the implications of gravitation were fully understood by Vincent of Beauvais and Mandeville\u2014and the erroneous modern belief that they were Flat-earthers rests on a misreading of maps that depicted only the inhabited hemisphere, not the whole globe.",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "medieval_geography",
+        "spherical_earth",
+        "history_of_science",
+        "cartography"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Mandeville",
+          "Vincent of Beauvais"
+        ],
+        "places": [
+          "Hereford Cathedral"
+        ],
+        "events": [],
+        "works": [
+          "Inferno",
+          "Voiage and Travaile",
+          "Speculum Naturale"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Hereford mappemounde depicts only the northern hemisphere we inhabit because the theory of Five Zones taught that the equatorial belt was uninhabitable and the southern temperate zone permanently inaccessible; it was never intended as a map of the entire spherical Earth.",
+          "speaker": null
+        },
+        {
+          "text": "Dante in Inferno XXXIV provides the first 'science-fiction effect' in literature: climbing down Lucifer's side and squeezing through the ice, the travellers discover that what was 'down' to his waist is 'up' to his feet\u2014they have passed the absolute centre of gravity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-033",
+      "text": "The Bestiaries' pseudo-zoology was not really believed in the way historical claims were believed; most who transmitted it were not concerned with its factual truth, and it persisted because the moralitas it embodied was what mattered\u2014a habit of mind the Platonist premise made rational, since if visible things are derived from invisible patterns, animals might be expected to embody moral meanings.",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "medieval_zoology",
+        "allegorical_interpretation",
+        "epistemic_authority",
+        "bookish_culture"
+      ],
+      "entities": {
+        "people": [
+          "Isidore of Seville",
+          "Theobald of Monte Cassino",
+          "Francis Bacon",
+          "Thomas Browne"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Etymologiae",
+          "Physiologus",
+          "Vulgar Errors",
+          "Advancement of Learning"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Isidore draws his zoological 'facts' indiscriminately from the Bible, Cicero, Horace, Ovid, Martial, Pliny, Juvenal, and Lucan as if all had the same kind of authority, illustrating the medieval failure to distinguish between writers of wholly different kinds.",
+          "speaker": null
+        },
+        {
+          "text": "Francis Bacon's observation applies: 'if an untruth in nature be once on foot, by reason of the use of the opinion in similitudes and ornaments of speech, it is never called down'\u2014the rhetorical function keeps the pseudo-fact alive long after any interest in verification has died.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-034",
+      "text": "The tripartite soul (Vegetable, Sensitive, Rational) and the ten Wits (five outward senses plus memory, estimation, imagination, phantasy, and common sense) formed the medieval psychological framework, with Rational Soul including but transcending the others and 'Reason' meaning far more than logical deduction\u2014it meant intelligentia obumbrata, clouded intelligence, the shadow of angelic nature in man.",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "faculty_psychology",
+        "medieval_epistemology",
+        "moral_philosophy",
+        "history_of_concepts"
+      ],
+      "entities": {
+        "people": [
+          "Albertus Magnus",
+          "Thomas Aquinas",
+          "Chaucer",
+          "Shakespeare",
+          "Donne",
+          "Coleridge",
+          "Prospero"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "De Anima",
+          "The Tempest",
+          "Sermons (Butler)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Medieval 'Reason' as the organ of morality is not the faculty that deduces one proposition from another (Johnson's narrower definition) but the whole Rational Soul that directly perceives moral truth through intellectus\u2014as Prospero sides with his 'nobler reason' in forgiving his enemies, not with mere calculation.",
+          "speaker": null
+        },
+        {
+          "text": "The shift from Reason to feeling or 'conscience' as the organ of morality, traceable in Butler's Sermons (1726), Fielding, and Wordsworth, narrowed the word 'reason' and makes every reference to it in old poets liable to systematic misreading.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-035",
+      "text": "The four Humours (Blood, Choler, Phlegm, Melancholy) formed the permanent complexion of each individual and a daily rhythmic cycle in all, and these need to be grasped intuitively rather than merely learned as concepts because some (Sanguine, Choleric) still survive as living archetypes while others (Jovial) have been nearly annihilated by changes in worldview.",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "humoral_theory",
+        "psychological_types",
+        "medieval_medicine",
+        "literary_character"
+      ],
+      "entities": {
+        "people": [
+          "Chaucer",
+          "Shakespeare",
+          "Milton",
+          "Thomas Elyot"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Canterbury Tales",
+          "Hamlet",
+          "Doctrine and Discipline of Divorce",
+          "Castle of Health"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Choleric man is tall, lean, easily angered, and vindictive (Chaucer's Reeve; Chanticleer with his 'superfluitee of rede colera'); the Melancholy man is a bad sleeper, stiff in opinions, with 'anger long and fretting'\u2014a medieval neurotic whose closest modern descendant Hamlet diagnoses in himself.",
+          "speaker": null
+        },
+        {
+          "text": "The Phlegmatic complexion\u2014fat, pale, slow, dull\u2014is perhaps the worst of all, and Lewis suggests Milton was thinking of his first wife when he described the man 'bound fast to an image of earth and phlegm' in Doctrine and Discipline.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-036",
+      "text": "Medieval people had no sense of historical period\u2014they pictured all the past in terms of their own age\u2014and this was not mere ignorance but a precondition for both their characteristic weakness (anachronism) and their characteristic strength (the vivid, immediate accessibility of all history as a gallery of living exemplars).",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "historical_consciousness",
+        "sense_of_period",
+        "medieval_historiography",
+        "exemplary_history"
+      ],
+      "entities": {
+        "people": [
+          "W. P. Ker",
+          "Froissart",
+          "John Barbour",
+          "Chaucer",
+          "Milton",
+          "Herodotus",
+          "Walter Scott"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Bruce",
+          "History of Britain",
+          "Hous of Fame",
+          "Travels (Mandeville)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The sense of period is hardly older than the Waverley novels; even Gibbon lacks it, and Walpole's Castle of Otranto (1765) could hope not quite vainly to deceive the public\u2014showing how late a development historical consciousness truly is.",
+          "speaker": null
+        },
+        {
+          "text": "Thanks to their deficiency in the sense of period, 'that packed and gorgeous past was far more immediate to the medieval man than the dark and bestial past could ever be to a Lecky or a Wells'; Hector was like any other knight, only braver, and one had 'friends, ancestors, patrons in every age.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-037",
+      "text": "The Seven Liberal Arts (Grammar, Dialectic, Rhetoric, Arithmetic, Music, Geometry, Astronomy) were treated by the medievals not merely as a curriculum but as a quasi-natural order mapped onto the cosmos, and their Rhetoric in particular shaped medieval literary technique\u2014especially the deliberate use of digression, amplification, and artificial ordering\u2014in ways that modern readers consistently misread as formlessness.",
+      "chapter": "Earth and Her Inhabitants",
+      "concepts": [
+        "liberal_arts",
+        "medieval_rhetoric",
+        "literary_technique",
+        "digression_amplification"
+      ],
+      "entities": {
+        "people": [
+          "Geoffrey de Vinsauf",
+          "Chaucer",
+          "Dante",
+          "Matthew of Vend\u00f4me",
+          "Isidore of Seville"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Nova Poetria",
+          "Troilus and Criseyde",
+          "Romance of the Rose",
+          "Ars Versificatoria"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Geoffrey de Vinsauf's Nova Poetria explicitly recommends morae (delays: expolitio, circumlocutio, apostrophe, descriptio, and above all diversio) as the techniques of amplification; the digressiveness of the Roman de la Rose, Troilus, and the Franklin's Tale is not stream-of-consciousness but programmatic art.",
+          "speaker": null
+        },
+        {
+          "text": "The love of the labyrinthine in medieval literature\u2014'everything leads to everything else, but by very intricate paths'\u2014may be the literary equivalent of the same impulse that produced the branching complexity of Gothic architecture and illuminated manuscripts.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-038",
+      "text": "The catalogues and digressions packed with cosmological, mythological, and historical matter that fill medieval and Renaissance poetry cannot be explained by rhetorical rules alone\u2014Rhetoric tells you to digress but not what to put in the digression; the real explanation is that writers and audiences genuinely loved dwelling on the large permanent features of the universe.",
+      "chapter": "The Influence of the Model",
+      "concepts": [
+        "cosmological_imagination",
+        "literary_digression",
+        "medieval_art",
+        "built_in_significance"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Spenser",
+          "Chaucer",
+          "Bernardus Silvestris"
+        ],
+        "places": [
+          "Doge's Palace Venice",
+          "Salone Padua",
+          "Santa Maria del Popolo Rome",
+          "Santa Maria Novella Florence"
+        ],
+        "events": [],
+        "works": [
+          "Mutability Cantos",
+          "Romance of the Rose",
+          "Knight's Tale",
+          "Convivio"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The same phenomenon appears in the visual arts: planets look down from the capitals of the Doge's Palace, the Salone at Padua arranges planets, zodiacal signs, apostles, and labours of the months together, and the cupola above Chigi's tomb magnificently restates the Boethian doctrine of Providence and Destiny.",
+          "speaker": null
+        },
+        {
+          "text": "In the Salone at Padua the cosmological material is apparently woven into the architecture so that at each sunrise the beams fall on the Sign in which the Sun would then ride\u2014the cosmos literally built into the building.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-039",
+      "text": "The characteristic vice of medieval literature\u2014sheer, unabashed dulness where the author does not seem to be trying to interest us\u2014and its characteristic virtue\u2014transparent limpidity that seems effortless\u2014are both consequences of the same belief: that the subject-matter has built-in significance and needs only to be handed on worthily.",
+      "chapter": "The Influence of the Model",
+      "concepts": [
+        "literary_imagination",
+        "aesthetic_theory",
+        "medieval_style",
+        "artistic_humility"
+      ],
+      "entities": {
+        "people": [
+          "Dante",
+          "Chaucer",
+          "Malory",
+          "Marie de France",
+          "Gower",
+          "La\u01b7amon",
+          "Thomas Macaulay"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Canterbury Tales",
+          "Morte Darthur",
+          "Troilus and Criseyde"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Bad medieval authors expect the subject to do all the work and make no personal effort; good medieval authors achieve a limpidity that 'at first looks planless though all is planned'\u2014as in the best parts of Marie de France or Gower compared to the strained effort-showing of Chapman or Keats.",
+          "speaker": null
+        },
+        {
+          "text": "The typically medieval 'realising imagination'\u2014as in Dante's factual word-painting, Chaucer's 'So stant Custance and looketh hire aboute', or Malory's detail of Guenever's recognisable cough\u2014is the product of 'devout attention to their matter and confidence in it': eyes fixed on the subject, not on the self.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-040",
+      "text": "The medieval practice of 'touching up' an earlier text\u2014adding vivid close-ups and new life while substantially retaining the received story\u2014is not plagiarism but a different conception of the author's function: to hand on the established 'historial' matter worthily, not to create ex nihilo or express individual sensibility.",
+      "chapter": "The Influence of the Model",
+      "concepts": [
+        "authorship_concept",
+        "literary_transmission",
+        "originality_vs_tradition",
+        "medieval_literary_practice"
+      ],
+      "entities": {
+        "people": [
+          "Chaucer",
+          "Malory",
+          "La\u01b7amon",
+          "Wace",
+          "Geoffrey of Monmouth",
+          "Boccaccio"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Troilus and Criseyde",
+          "Filostrato",
+          "Morte Darthur",
+          "Brut"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Chaucer's Troilus stands in a fundamentally different relation to Boccaccio's Filostrato than Shakespeare's plays stand to their Italian sources: no line in the translated portions will do exactly what it did in the Italian once Chaucer's additions change the chemistry of the whole.",
+          "speaker": null
+        },
+        {
+          "text": "Medieval authors sometimes profess to be following their auctour at the very moment they are departing from him\u2014not as a joke but as an expression of the belief that they are not 'making things up' but discovering what the matter, rightly understood, must have contained.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-041",
+      "text": "The medieval artist's humility\u2014art exists to teach what is useful, honor what deserves honor, and appreciate what is delightful; it is a means to ends beyond itself\u2014contrasts sharply with the post-Renaissance and Romantic elevation of the artwork and artist to primary status, and this contrast maps onto the broader historical process of Internalisation.",
+      "chapter": "The Influence of the Model",
+      "concepts": [
+        "artistic_humility",
+        "internalisation",
+        "authorship_concept",
+        "history_of_aesthetics"
+      ],
+      "entities": {
+        "people": [
+          "Chaucer",
+          "Milton",
+          "Pope",
+          "Dante"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Hous of Fame",
+          "Temple of Fame",
+          "Lycidas",
+          "Paradiso"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In Chaucer's Hous of Fame the poets are present not because they are famous but because they 'bear up' the fame of their subjects\u2014Josephus bears the fame of Jewry, Virgil that of Aeneas; that Edward King is remembered at all only because he gave occasion to Lycidas would have seemed to the medievals a strange inversion.",
+          "speaker": null
+        },
+        {
+          "text": "The same process of Internalisation that turned genius from an external attendant daemon into an internal quality of the mind has, by the extreme of Behaviourism, finally eaten up the subject himself\u2014having transferred everything from object to subject, it now discounts the subject as 'merely subjective.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-042",
+      "text": "The nineteenth-century confidence that scientific knowledge is a mental replica of ultimate physical reality\u2014like knowing a foreign country through maps and travel-books\u2014has been superseded by the recognition that the mathematical idiom of modern physics is the nearest we can get to reality, and anything imaginable is merely an analogy or a 'model' in a new, non-replicative sense.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "philosophy_of_science",
+        "scientific_models",
+        "epistemology",
+        "cosmological_model"
+      ],
+      "entities": {
+        "people": [
+          "Newton"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "An expression like 'the curvature of space' is strictly comparable to the old definition of God as 'a circle whose centre is everywhere and whose circumference is nowhere': both succeed in suggesting by offering what is, on the level of ordinary thinking, nonsense.",
+          "speaker": null
+        },
+        {
+          "text": "It would therefore be subtly misleading to say 'The medievals thought the universe to be like that, but we know it to be like this'\u2014part of what we now know is that we cannot in the old sense 'know what the universe is like.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-043",
+      "text": "The change from the Medieval Model to the modern was not driven solely by new empirical facts but equally by prior changes in the human mind\u2014most strikingly in the shift from a devolutionary to an evolutionary worldview, where the new cosmological demand (for a developing universe) was fully formed in Schelling, Keats, and Goethe before Darwin provided the biological evidence.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "history_of_science",
+        "evolutionary_thought",
+        "cultural_history",
+        "epistemology"
+      ],
+      "entities": {
+        "people": [
+          "Charles Darwin",
+          "Schelling",
+          "Keats",
+          "Goethe",
+          "Herder",
+          "Leibniz",
+          "Kant"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Schelling's 1812 statement that 'the starting point (Entwicklungsgrund) is always lower than what is developed' predates Darwin; the developmentalist temper in Herder, Leibniz, Akenside, Kant, and Diderot shows the demand for an evolutionary universe arising from cultural and psychological causes before the evidence arrived.",
+          "speaker": null
+        },
+        {
+          "text": "Nature gives most of her evidence in answer to the questions we ask her: 'Here, as in the courts, the character of the evidence depends on the shape of the examination, and a good cross-examiner can do wonders'\u2014the evidence is real but its appearance is not independent of the questions that called it forth.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-discarded-image-044",
+      "text": "The correct attitude to all Models, including our own, is to respect each as a serious attempt to accommodate the known phenomena of its period while recognizing that it also reflects the prevalent psychology of its age\u2014and that a 'taste in universes' is not only pardonable but inevitable.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "philosophy_of_science",
+        "cultural_relativism",
+        "cosmological_model",
+        "intellectual_history"
+      ],
+      "entities": {
+        "people": [
+          "Marcus Aurelius"
+        ],
+        "places": [],
+        "events": [
+          "nova of 1572"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "No Model is a catalogue of ultimate realities and none is a mere fantasy; hardly any battery of facts could have persuaded a Greek that the universe is infinite (so repugnant to him aesthetically) or persuade a modern that it is hierarchical.",
+          "speaker": null
+        },
+        {
+          "text": "Lewis is not recommending a return to the Medieval Model but suggesting that 'we can no longer dismiss the change of Models as a simple progress from error to truth'\u2014each Model reflects the age's knowledge and its psychology in roughly equal measure.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-discarded-image-ch-001",
+      "title": "The Medieval Situation",
+      "summary": "Medieval culture is distinguished from both savagery and modernity by its overwhelmingly bookish character: its beliefs were derived not from spontaneous communal experience but from inherited written authorities, which the medieval mind then synthesized into a single, ordered Model of the universe.",
+      "claim_ids": [
+        "the-discarded-image-001",
+        "the-discarded-image-002",
+        "the-discarded-image-003",
+        "the-discarded-image-004",
+        "the-discarded-image-005",
+        "the-discarded-image-006"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-002",
+      "title": "Reservations",
+      "summary": "The Medieval Model as a literary 'backcloth' was selective, stable, and only partially shared by the greatest thinkers, who recognized its provisional character as a scientific tool; this chapter clarifies the scope and method of Lewis's project.",
+      "claim_ids": [
+        "the-discarded-image-007",
+        "the-discarded-image-008",
+        "the-discarded-image-009",
+        "the-discarded-image-010"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-003",
+      "title": "Selected Materials: The Classical Period",
+      "summary": "Several classical texts\u2014Cicero's Somnium Scipionis, Lucan's Pharsalia, Statius, Claudian, and Apuleius\u2014supplied key structural elements of the Medieval Model, but they did so as heterogeneous, often incompatible materials that later syncretism had to reconcile with one another and with Christianity.",
+      "claim_ids": [
+        "the-discarded-image-011",
+        "the-discarded-image-012",
+        "the-discarded-image-013",
+        "the-discarded-image-014",
+        "the-discarded-image-015"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-004",
+      "title": "Selected Materials: The Seminal Period",
+      "summary": "The transitional period from Plotinus (205 AD) to pseudo-Dionysius (before 533 AD) was the age that created the characteristically medieval frame of mind by fusing Platonic, neo-Platonic, and Christian elements into the Model, with Chalcidius, Macrobius, pseudo-Dionysius, and Boethius as its most important transmitters.",
+      "claim_ids": [
+        "the-discarded-image-016",
+        "the-discarded-image-017",
+        "the-discarded-image-018",
+        "the-discarded-image-019",
+        "the-discarded-image-020",
+        "the-discarded-image-021"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-005",
+      "title": "The Heavens",
+      "summary": "The medieval universe was a finite, hierarchical, luminous, and musical system of crystalline spheres each moved by an Intelligence's love for God, and its enormous scale relative to the tiny central Earth produced not existential terror but the aesthetic satisfaction of a great building\u2014a classical, not romantic, sublimity.",
+      "claim_ids": [
+        "the-discarded-image-022",
+        "the-discarded-image-023",
+        "the-discarded-image-024",
+        "the-discarded-image-025",
+        "the-discarded-image-026",
+        "the-discarded-image-027"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-006",
+      "title": "The Longaevi",
+      "summary": "The Longaevi\u2014Fairies, fays, nymphs, daemons, and similar creatures whose residence is ambiguous between air and earth\u2014occupied an officially unassigned place in the Model, and their very marginality gave them imaginative value as the only element of wildness and uncertainty in an otherwise over-determined universe.",
+      "claim_ids": [
+        "the-discarded-image-028",
+        "the-discarded-image-029",
+        "the-discarded-image-030"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-007",
+      "title": "Earth and Her Inhabitants",
+      "summary": "The medieval understanding of Earth and its inhabitants\u2014Fortune's jurisdiction, the spherical globe, Bestiary pseudo-zoology, the tripartite soul, the humoral body, and the imagined past\u2014formed a coherent if not always coherent picture in which man was a microcosm and the passage of history was governed not by progress but by Fortune's impartial wheel.",
+      "claim_ids": [
+        "the-discarded-image-031",
+        "the-discarded-image-032",
+        "the-discarded-image-033",
+        "the-discarded-image-034",
+        "the-discarded-image-035",
+        "the-discarded-image-036",
+        "the-discarded-image-037"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-008",
+      "title": "The Influence of the Model",
+      "summary": "The pervasive presence of cosmological, philosophical, and historical matter in medieval and Renaissance literature and art is explained not by pedantry or rhetorical padding but by a genuine love of the Model as a built-in structure of significance, which freed poets to write with transparent simplicity rather than transformative or expressive strain.",
+      "claim_ids": [
+        "the-discarded-image-038",
+        "the-discarded-image-039",
+        "the-discarded-image-040",
+        "the-discarded-image-041"
+      ]
+    },
+    {
+      "id": "the-discarded-image-ch-009",
+      "title": "Epilogue",
+      "summary": "The charge that the Medieval Model was 'not true' has lost its simple force now that science itself has concluded that its models are not replicas of ultimate reality but tools for saving appearances; we should regard all Models, including our own, as serious attempts to accommodate known phenomena that also reflect the prevalent psychology of their age.",
+      "claim_ids": [
+        "the-discarded-image-042",
+        "the-discarded-image-043",
+        "the-discarded-image-044"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 44,
+    "chapter_count": 9,
+    "indexed_at": "2026-03-06T20:38:34.835426Z"
+  }
+}

@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Vector database (large binary)
+index/vectors.db
+
+# Books/PDFs (large binaries) - use leading slash to only match root-level
+/books/
+
+# Git
+.git/
+
+# Build artifacts (Vercel builds these)
+public/
+blog/public/
+
+# Local dev
+.DS_Store
+*.pyc
+__pycache__/

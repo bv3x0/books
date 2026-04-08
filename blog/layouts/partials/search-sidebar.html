@@ -1,0 +1,291 @@
+<aside id="search-sidebar" class="search-sidebar" aria-label="Search">
+  <div class="search-sidebar-header">
+    <a href="{{ .Site.BaseURL }}" class="search-sidebar-title">{{ .Site.Title }}</a>
+    {{ with site.Data.stats }}
+    <p style="color: var(--color-text-muted); margin: 0;">{{ .books }} books, {{ lang.FormatNumber 0 .concepts }} concepts</p>
+    {{ end }}
+  </div>
+
+  <div class="search-sidebar-content">
+    <form id="semantic-form" class="semantic-form">
+      <div class="semantic-input-wrapper">
+        <svg class="semantic-input-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="m21 21-4.3-4.3"></path>
+        </svg>
+        <input type="text" id="semantic-q"
+               placeholder="Search..."
+               autocomplete="off"
+               aria-label="Search">
+        <button type="button" id="semantic-clear" class="semantic-clear-btn" aria-label="Clear search">
+          <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M18 6 6 18"></path>
+            <path d="m6 6 12 12"></path>
+          </svg>
+        </button>
+      </div>
+    </form>
+    <div id="semantic-results" class="semantic-results" aria-live="polite"></div>
+    <div class="sidebar-icon-container">
+      <img src="{{ "cnute.png" | relURL }}" alt="" class="sidebar-icon" aria-hidden="true">
+    </div>
+  </div>
+</aside>
+
+<script>
+(function() {
+  var STORAGE_KEY = 'searchState';
+  var pagefind = null;
+  var debounceTimer = null;
+
+  async function loadPagefind() {
+    if (pagefind) return pagefind;
+    try {
+      pagefind = await import('/pagefind/pagefind.js');
+      await pagefind.init();
+      return pagefind;
+    } catch (e) {
+      console.error('Failed to load Pagefind:', e);
+      return null;
+    }
+  }
+
+  function saveState(query, resultsHtml, scrollTop) {
+    try {
+      sessionStorage.setItem(STORAGE_KEY, JSON.stringify({
+        query: query,
+        html: resultsHtml,
+        scrollTop: scrollTop || 0,
+        timestamp: Date.now()
+      }));
+    } catch (e) {}
+  }
+
+  function clearState() {
+    try { sessionStorage.removeItem(STORAGE_KEY); } catch (e) {}
+  }
+
+  function restoreState() {
+    try {
+      var stored = sessionStorage.getItem(STORAGE_KEY);
+      if (!stored) return null;
+      var state = JSON.parse(stored);
+      if (Date.now() - state.timestamp > 30 * 60 * 1000) {
+        sessionStorage.removeItem(STORAGE_KEY);
+        return null;
+      }
+      return state;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function updateClearButton(input, clearBtn, resultsDiv) {
+    var hasContent = input && input.value.trim().length > 0;
+    var hasResults = resultsDiv && resultsDiv.innerHTML.trim().length > 0;
+    if (clearBtn) {
+      clearBtn.classList.toggle('visible', hasContent || hasResults);
+    }
+  }
+
+  function clearSearch(desktopInput, desktopResults, desktopClear, mobileInput, mobileResults, mobileClear) {
+    if (desktopInput) desktopInput.value = '';
+    if (mobileInput) mobileInput.value = '';
+    if (desktopResults) desktopResults.innerHTML = '';
+    if (mobileResults) mobileResults.innerHTML = '';
+    clearState();
+    updateClearButton(desktopInput, desktopClear, desktopResults);
+    updateClearButton(mobileInput, mobileClear, mobileResults);
+  }
+
+  function escapeHtml(text) {
+    var div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function renderResults(results, query, resultsDiv) {
+    if (!results || results.length === 0) {
+      resultsDiv.innerHTML = '<p class="semantic-empty">No results found for "' + escapeHtml(query) + '".</p>';
+      return;
+    }
+
+    var byBook = {};
+    results.forEach(function(r) {
+      var book = r.meta.book || 'Unknown';
+      if (!byBook[book]) byBook[book] = [];
+      byBook[book].push(r);
+    });
+
+    var html = '<div class="semantic-results-header">' + results.length + ' result' + (results.length === 1 ? '' : 's') + ' for "' + escapeHtml(query) + '"</div>';
+
+    Object.keys(byBook).forEach(function(book) {
+      html += '<div class="semantic-book-group">';
+      // Extract book slug from first result URL
+      var firstUrl = byBook[book][0].url;
+      var bookMatch = firstUrl.match(/\/books\/([^/]+)\//);
+      var bookSlug = bookMatch ? bookMatch[1] : '';
+      // Truncate title at colon (subtitle) for compact display
+      var displayBook = book.indexOf(':') !== -1 ? book.substring(0, book.indexOf(':')) : book;
+      html += '<a href="/books/' + bookSlug + '/" class="semantic-book-title">' + escapeHtml(displayBook) + '</a>';
+      html += '<div class="semantic-book-claims">';
+      byBook[book].forEach(function(r) {
+        // Use excerpt (contains <mark> tags) if available, otherwise fall back to meta.title
+        var display = r.excerpt || escapeHtml(r.meta.title || '');
+        html += '<a href="' + escapeHtml(r.url) + '" class="semantic-claim search-result-snippets">' + display + '</a>';
+      });
+      html += '</div></div>';
+    });
+
+    resultsDiv.innerHTML = html;
+  }
+
+  async function performSearch(query, resultsDiv) {
+    resultsDiv.innerHTML = '<p class="semantic-loading">Searching...</p>';
+
+    var pf = await loadPagefind();
+    if (!pf) {
+      resultsDiv.innerHTML = '<p class="semantic-error">Search is not available.</p>';
+      return;
+    }
+
+    try {
+      var search = await pf.search(query);
+      // Load data for up to 20 results
+      var dataPromises = search.results.slice(0, 20).map(function(r) { return r.data(); });
+      var results = await Promise.all(dataPromises);
+
+      renderResults(results, query, resultsDiv);
+      saveState(query, resultsDiv.innerHTML);
+    } catch (err) {
+      resultsDiv.innerHTML = '<p class="semantic-error">' + escapeHtml(err.message) + '</p>';
+    }
+  }
+
+  // Get all DOM elements
+  var desktopForm = document.getElementById('semantic-form');
+  var desktopInput = document.getElementById('semantic-q');
+  var desktopResults = document.getElementById('semantic-results');
+  var desktopClear = document.getElementById('semantic-clear');
+
+  var mobileToggle = document.getElementById('mobile-search-toggle');
+  var mobilePanel = document.getElementById('mobile-search-panel');
+  var mobileForm = document.getElementById('mobile-search-form');
+  var mobileInput = document.getElementById('mobile-search-q');
+  var mobileResults = document.getElementById('mobile-search-results');
+  var mobileClear = document.getElementById('mobile-search-clear');
+
+  // Debounced search on input
+  function handleInput(query, resultsDiv, input, clearBtn) {
+    clearTimeout(debounceTimer);
+    updateClearButton(input, clearBtn, resultsDiv);
+    if (!query.trim() || query.trim().length < 3) {
+      resultsDiv.innerHTML = '';
+      clearState();
+      return;
+    }
+    debounceTimer = setTimeout(function() {
+      performSearch(query.trim(), resultsDiv).then(function() {
+        updateClearButton(input, clearBtn, resultsDiv);
+      });
+    }, 300);
+  }
+
+  // Desktop form submit (immediate search)
+  if (desktopForm) {
+    desktopForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var query = desktopInput.value.trim();
+      if (!query) return;
+      clearTimeout(debounceTimer);
+      performSearch(query, desktopResults).then(function() {
+        updateClearButton(desktopInput, desktopClear, desktopResults);
+      });
+    });
+  }
+
+  // Desktop input - debounced search
+  if (desktopInput) {
+    desktopInput.addEventListener('input', function() {
+      handleInput(desktopInput.value, desktopResults, desktopInput, desktopClear);
+      if (mobileInput) mobileInput.value = desktopInput.value;
+    });
+  }
+
+  // Desktop clear button
+  if (desktopClear) {
+    desktopClear.addEventListener('click', function() {
+      clearSearch(desktopInput, desktopResults, desktopClear, mobileInput, mobileResults, mobileClear);
+    });
+  }
+
+  // Mobile toggle
+  if (mobileToggle && mobilePanel) {
+    mobileToggle.addEventListener('click', function() {
+      var isExpanded = mobileToggle.getAttribute('aria-expanded') === 'true';
+      mobileToggle.setAttribute('aria-expanded', !isExpanded);
+      mobilePanel.hidden = isExpanded;
+      if (!isExpanded && mobileInput) {
+        mobileInput.focus();
+      }
+    });
+  }
+
+  // Mobile form submit
+  if (mobileForm) {
+    mobileForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var query = mobileInput.value.trim();
+      if (!query) return;
+      clearTimeout(debounceTimer);
+      performSearch(query, mobileResults).then(function() {
+        updateClearButton(mobileInput, mobileClear, mobileResults);
+      });
+    });
+  }
+
+  // Mobile input - debounced search
+  if (mobileInput) {
+    mobileInput.addEventListener('input', function() {
+      handleInput(mobileInput.value, mobileResults, mobileInput, mobileClear);
+      if (desktopInput) desktopInput.value = mobileInput.value;
+    });
+  }
+
+  // Mobile clear button
+  if (mobileClear) {
+    mobileClear.addEventListener('click', function() {
+      clearSearch(desktopInput, desktopResults, desktopClear, mobileInput, mobileResults, mobileClear);
+    });
+  }
+
+  // Save scroll position when clicking a search result link
+  var sidebarContent = document.querySelector('.search-sidebar-content');
+  if (desktopResults) {
+    desktopResults.addEventListener('click', function(e) {
+      var link = e.target.closest('a');
+      if (link && sidebarContent) {
+        var state = restoreState();
+        if (state) {
+          saveState(state.query, state.html, sidebarContent.scrollTop);
+        }
+      }
+    });
+  }
+
+  // Restore previous search state (saved HTML, no re-fetch needed)
+  var savedState = restoreState();
+  if (savedState && savedState.query && savedState.html) {
+    if (desktopInput) desktopInput.value = savedState.query;
+    if (mobileInput) mobileInput.value = savedState.query;
+    if (desktopResults) desktopResults.innerHTML = savedState.html;
+    if (mobileResults) mobileResults.innerHTML = savedState.html;
+    updateClearButton(desktopInput, desktopClear, desktopResults);
+    updateClearButton(mobileInput, mobileClear, mobileResults);
+    // Restore scroll position
+    if (savedState.scrollTop && sidebarContent) {
+      sidebarContent.scrollTop = savedState.scrollTop;
+    }
+  }
+})();
+</script>

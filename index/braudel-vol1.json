@@ -1,0 +1,4485 @@
+{
+  "version": "2.0",
+  "book": {
+    "title": "Civilization and Capitalism, 15th-18th Century, Vol. I",
+    "author": "Fernand Braudel",
+    "year": null,
+    "categories": [
+      "history",
+      "social science"
+    ],
+    "thesis": "The period between 1400-1800 represents a crucial transitional phase in world history where demographic expansion, agricultural constraints, and technological developments set the stage for Europe's emergence as the dominant global civilization, despite most of the world's population still living in subsistence economies largely unchanged from medieval patterns."
+  },
+  "claims": [
+    {
+      "id": "braudel-vol1-001",
+      "text": "The demographic revolution as history's most significant change: World population doubled between 1400-1800 (four centuries), while today it doubles every 30-40 years, representing the most dramatic transformation distinguishing the modern world from pre-1800 humanity",
+      "chapter": "Guessing the world population",
+      "concepts": [
+        "demographic_transformation",
+        "population_growth",
+        "historical_periodization",
+        "modernization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-002",
+      "text": "Methodological challenges in historical demography: Even current world population is only known within 10% margin of error, making earlier estimates extremely uncertain",
+      "chapter": "Guessing the world population",
+      "concepts": [
+        "historical_demography",
+        "methodological_problems",
+        "statistical_uncertainty",
+        "population_estimates"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-003",
+      "text": "The Berkeley School controversy over pre-Columbian America: Radical disagreement between conservative estimates (10-15 million) and Berkeley historians' calculations (up to 100 million for all Americas in 1500)",
+      "chapter": "Guessing the world population",
+      "concepts": [
+        "pre_columbian_population",
+        "historical_controversy",
+        "population_estimates",
+        "scholarly_debate"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "America",
+          "Americas"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-004",
+      "text": "Statistical methodology for world estimates: Historians must use \"orders of magnitude\" rather than precise figures, assuming relatively stable proportions between world regions over time",
+      "chapter": "Guessing the world population",
+      "concepts": [
+        "statistical_methodology",
+        "population_estimates",
+        "regional_proportions",
+        "historical_demography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-005",
+      "text": "Estimated world population trends 1300-1800: World population likely doubled over this period despite massive mortality crises",
+      "chapter": "Guessing the world population",
+      "concepts": [
+        "population_trends",
+        "demographic_expansion",
+        "mortality_crises",
+        "historical_demography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-006",
+      "text": "Modern population comparisons reveal historical smallness: 1980 world population of 4 billion represents 5 times 1800 levels and 12 times 1300 levels",
+      "chapter": "A scale of reference",
+      "concepts": [
+        "population_comparisons",
+        "demographic_scale",
+        "historical_perspective",
+        "population_growth"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-007",
+      "text": "Military forces reflect population constraints: Largest European armies rarely exceeded 10,000-20,000 men before 1600",
+      "chapter": "A scale of reference",
+      "concepts": [
+        "military_history",
+        "army_size",
+        "population_constraints",
+        "warfare"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-008",
+      "text": "Urban populations were correspondingly small: Cologne, Germany's largest 15th-century city, had only 20,000 inhabitants",
+      "chapter": "A scale of reference",
+      "concepts": [
+        "urban_population",
+        "city_size",
+        "medieval_demography",
+        "urbanization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Cologne",
+          "Germany"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-009",
+      "text": "France as case study in premature overpopulation: With 20 million people around 1600, France was already \"full as an egg\" according to Brant\u00f4me",
+      "chapter": "A scale of reference",
+      "concepts": [
+        "population_pressure",
+        "overpopulation",
+        "demographic_limits",
+        "carrying_capacity"
+      ],
+      "entities": {
+        "people": [
+          "Brant\u00f4me"
+        ],
+        "places": [
+          "France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-010",
+      "text": "Population density thresholds for civilization: Approximately 30 people per square kilometer represents minimum density for civilizational development",
+      "chapter": "A scale of reference",
+      "concepts": [
+        "population_density",
+        "civilization_thresholds",
+        "demographic_requirements",
+        "social_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-011",
+      "text": "The end of the demographic ancien r\u00e9gime: For centuries, birth and death rates both hovered around 40 per 1000, with deaths regularly canceling out births through epidemic and famine cycles",
+      "chapter": "The eighteenth century: watershed of biological regimes",
+      "concepts": [
+        "demographic_regime",
+        "birth_death_rates",
+        "population_equilibrium",
+        "epidemic_cycles"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-012",
+      "text": "Famine as permanent feature of life: France experienced 10 general famines in 10th century, 26 in 11th, continuing through 16 in 18th century",
+      "chapter": "The eighteenth century: watershed of biological regimes",
+      "concepts": [
+        "famine_history",
+        "food_security",
+        "demographic_crises",
+        "mortality_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-013",
+      "text": "Urban responses to demographic crises: Towns developed increasingly harsh policies toward rural poor seeking refuge during famines",
+      "chapter": "The eighteenth century: watershed of biological regimes",
+      "concepts": [
+        "urban_development",
+        "rural_migration",
+        "famine_response",
+        "social_exclusion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-014",
+      "text": "Disease patterns and epidemic cycles: Complex interaction between undernourishment and epidemic disease, with \"the best remedy against malaria is a well-filled pot\"",
+      "chapter": "The eighteenth century: watershed of biological regimes",
+      "concepts": [
+        "disease_patterns",
+        "malnutrition",
+        "epidemic_disease",
+        "public_health"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-015",
+      "text": "The plague as supreme terror: Two forms - pulmonary (Black Death) and bubonic - caused by virus transmitted by fleas from rats",
+      "chapter": "The eighteenth century: watershed of biological regimes",
+      "concepts": [
+        "plague_history",
+        "epidemic_disease",
+        "disease_transmission",
+        "mortality_crises"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-016",
+      "text": "Numbers determine civilizational hierarchies: Dense populations generally dominated sparse ones, though technology and organization could occasionally reverse this pattern",
+      "chapter": "The many against the few",
+      "concepts": [
+        "population_dynamics",
+        "civilizational_hierarchy",
+        "technological_advantage",
+        "social_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-017",
+      "text": "The \"barbarian\" conquest myth: Successful \"barbarian\" conquerors were invariably semi-civilized peoples already deeply influenced by adjacent civilizations",
+      "chapter": "The many against the few",
+      "concepts": [
+        "conquest_patterns",
+        "cultural_diffusion",
+        "barbarian_invasions",
+        "civilizational_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-018",
+      "text": "The nomadic threat and its decline: Great Eurasian nomads represented speed and mobility in an otherwise slow-moving world",
+      "chapter": "The many against the few",
+      "concepts": [
+        "nomadic_warfare",
+        "mobility_advantage",
+        "eurasian_steppes",
+        "military_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Eurasia"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-019",
+      "text": "Three types of civilizational expansion",
+      "chapter": "The many against the few",
+      "concepts": [
+        "civilizational_expansion",
+        "imperial_growth",
+        "cultural_diffusion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-020",
+      "text": "The geographical basis of civilizational development: Hewes' map reveals 76 distinct human societies circa 1500, with only 13 qualifying as full civilizations",
+      "chapter": "The many against the few",
+      "concepts": [
+        "geographical_determinism",
+        "civilizational_development",
+        "human_societies",
+        "cultural_mapping"
+      ],
+      "entities": {
+        "people": [
+          "Hewes"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-021",
+      "text": "Wheat's global presence extended beyond Europe: The crop grew across northern China, Japan, southern China (as secondary harvest between rice crops), India's dry plains, Persia, Egypt, and Mediterranean oases",
+      "chapter": "Wheat",
+      "concepts": [
+        "crop_distribution",
+        "agricultural_systems",
+        "wheat_cultivation",
+        "regional_agriculture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "China",
+          "Japan",
+          "India",
+          "Persia",
+          "Egypt",
+          "Mediterranean"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-022",
+      "text": "European expansion carried wheat to new territories: Russian colonization brought it to Siberia and Ukraine, creating massive surpluses by the 18th century",
+      "chapter": "Wheat",
+      "concepts": [
+        "agricultural_expansion",
+        "colonial_settlement",
+        "crop_diffusion",
+        "surplus_production"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "Russia",
+          "Siberia",
+          "Ukraine"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-023",
+      "text": "Wheat never grew alone but formed complex agricultural systems: Multiple grain qualities existed (wheat, maslin, rye) alongside older cereals like spelt, millet, and barley",
+      "chapter": "Wheat",
+      "concepts": [
+        "agricultural_systems",
+        "crop_diversity",
+        "polyculture",
+        "grain_varieties"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-024",
+      "text": "Rice served as emergency food in the West: Imported from Indian Ocean since antiquity, grown in Italy from 15th century, but remained food for the poor",
+      "chapter": "Wheat",
+      "concepts": [
+        "food_security",
+        "trade_networks",
+        "crop_adaptation",
+        "social_stratification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "West",
+          "Indian Ocean",
+          "Italy"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-025",
+      "text": "Crop rotation systems varied by region but always required fallow periods: Northern Europe used triennial rotation (winter cereals, spring cereals, fallow), southern Europe used biennial (wheat alternating with fallow)",
+      "chapter": "Wheat",
+      "concepts": [
+        "crop_rotation",
+        "agricultural_systems",
+        "land_management",
+        "regional_variation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Northern Europe",
+          "Southern Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-026",
+      "text": "Integration of grain and livestock was essential: Grain cultivation required draft animals (horses in north, oxen and mules in south) and manure from livestock",
+      "chapter": "Wheat",
+      "concepts": [
+        "integrated_agriculture",
+        "animal_husbandry",
+        "draft_animals",
+        "soil_fertility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-027",
+      "text": "Agricultural revolution remained limited until after 1750: Advanced techniques existed in Artois, northern Italy, Flanders from 14th century, but widespread adoption was slow",
+      "chapter": "Wheat",
+      "concepts": [
+        "agricultural_technology",
+        "technological_diffusion",
+        "regional_development",
+        "historical_periodization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Artois",
+          "Italy",
+          "Flanders"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-028",
+      "text": "Yields remained devastatingly low throughout the period: Normal yields were 5-6 grains harvested for every grain sown, producing only about 6 quintals per hectare",
+      "chapter": "Wheat",
+      "concepts": [
+        "agricultural_productivity",
+        "agricultural_yields",
+        "subsistence_economy",
+        "food_production"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-029",
+      "text": "International grain trade remained marginal despite its strategic importance: Long-distance trade involved only 1% of total consumption in Mediterranean (1-2 million quintals vs. 145 million consumed)",
+      "chapter": "Wheat",
+      "concepts": [
+        "international_trade",
+        "food_security",
+        "market_integration",
+        "consumption_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mediterranean"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-030",
+      "text": "Grain prices determined living standards for the masses: Variations created constant social tension, with bread riots erupting whenever prices rose sharply",
+      "chapter": "Wheat",
+      "concepts": [
+        "food_prices",
+        "social_unrest",
+        "living_standards",
+        "popular_protest"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-031",
+      "text": "Bread quality reflected social hierarchy: White bread remained luxury for tiny minority - \"no more than two million men eating wheaten bread\" in French, Spanish and English homes combined",
+      "chapter": "Wheat",
+      "concepts": [
+        "social_hierarchy",
+        "bread_consumption",
+        "food_luxury",
+        "population_demographics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "French",
+          "Spanish",
+          "English"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-032",
+      "text": "Rice agriculture enabled far higher population densities than wheat: Paddy-fields could feed 10-20 times more people per unit area than European agriculture",
+      "chapter": "Rice",
+      "concepts": [
+        "agricultural_productivity",
+        "population_density",
+        "rice_cultivation",
+        "comparative_agriculture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "European"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-033",
+      "text": "Rice dominated Far Eastern diets to extreme degree: Accounted for 80-90% or more of calories consumed, compared to wheat's 50-70% in Europe",
+      "chapter": "Rice",
+      "concepts": [
+        "dietary_composition",
+        "caloric_intake",
+        "regional_food_patterns",
+        "agricultural_dominance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Far Eastern",
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-034",
+      "text": "Dry-land rice cultivation preceded and remained alongside paddy systems: Ladang system involved burning forest sections, broadcasting seed without tilling, then abandoning exhausted land",
+      "chapter": "Rice",
+      "concepts": [
+        "agricultural_methods",
+        "land_use_patterns",
+        "slash_and_burn",
+        "cultivation_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-035",
+      "text": "Paddy-field construction represented massive hydraulic engineering: Required stable society, state authority, and constant large-scale public works",
+      "chapter": "Rice",
+      "concepts": [
+        "hydraulic_engineering",
+        "state_authority",
+        "public_works",
+        "agricultural_infrastructure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-036",
+      "text": "Multiple harvests revolutionized productivity: Double and triple cropping became possible through careful timing and intensive labor",
+      "chapter": "Rice",
+      "concepts": [
+        "agricultural_productivity",
+        "intensive_labor",
+        "crop_timing",
+        "harvest_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-037",
+      "text": "Rice cultivation created distinctive social patterns: Concentrated villages, intensive manual labor, symbiotic relationship between town and countryside",
+      "chapter": "Rice",
+      "concepts": [
+        "social_organization",
+        "settlement_patterns",
+        "labor_systems",
+        "rural_urban_relations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-038",
+      "text": "Geographic limitations restricted development opportunities: Success in lowland rice areas led to abandonment of mountain regions",
+      "chapter": "Rice",
+      "concepts": [
+        "geographic_constraints",
+        "regional_abandonment",
+        "development_patterns",
+        "ecological_adaptation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-039",
+      "text": "Rice's dominance shaped eating preferences and cultural values: Asian peoples \"prefer rice to tubers and gruel cereals\" and considered other foods inferior",
+      "chapter": "Rice",
+      "concepts": [
+        "food_preferences",
+        "cultural_values",
+        "dietary_hierarchy",
+        "agricultural_dominance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Asian"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-040",
+      "text": "Economic and political systems adapted to rice production: Price variations affected everything including military pay scales",
+      "chapter": "Rice",
+      "concepts": [
+        "economic_systems",
+        "political_adaptation",
+        "price_mechanisms",
+        "military_economics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-041",
+      "text": "Demographic pressure eventually forced expansion beyond rice: 18th-century population growth brought hill cultivation and American crops (maize, sweet potatoes)",
+      "chapter": "Rice",
+      "concepts": [
+        "demographic_pressure",
+        "agricultural_expansion",
+        "crop_diversification",
+        "population_growth"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "American"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-042",
+      "text": "Archaeological evidence proves American origins: Fossilized maize pollen found 50-60 meters deep around Mexico City, with Tehuacan valley excavations revealing complete evolutionary history",
+      "chapter": "Maize",
+      "concepts": [
+        "archaeological_evidence",
+        "crop_origins",
+        "plant_evolution",
+        "prehistoric_agriculture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mexico City",
+          "Tehuacan valley"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-043",
+      "text": "Maize enabled the great American civilizations: Extraordinary yields of 70-80 to one in dry zones, up to 800 to one on best Mexican land near Queretaro",
+      "chapter": "Maize",
+      "concepts": [
+        "agricultural_yields",
+        "civilizational_development",
+        "crop_productivity",
+        "land_fertility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "American",
+          "Mexican",
+          "Queretaro"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-044",
+      "text": "Transport and distribution networks were essential: Grain had to be moved from limited growing areas to populations at different altitudes",
+      "chapter": "Maize",
+      "concepts": [
+        "transport_networks",
+        "food_distribution",
+        "altitude_adaptation",
+        "supply_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-045",
+      "text": "Nutritional limitations created social problems: Maize-based diet was inadequate without meat supplementation, leading to widespread malnutrition",
+      "chapter": "Maize",
+      "concepts": [
+        "nutritional_deficiency",
+        "dietary_inadequacy",
+        "social_problems",
+        "malnutrition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-046",
+      "text": "European spread was remarkably slow: Despite arriving in 1493, widespread adoption didn't occur until 18th century, 200+ years later",
+      "chapter": "Maize",
+      "concepts": [
+        "agricultural_diffusion",
+        "technological_adoption",
+        "temporal_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "European"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-047",
+      "text": "Regional names reflected confusion about origins: Called \"Rhodes corn\" (Lorraine), \"Spanish corn\" (Pyrenees), \"Turkish corn\" (Germany, Holland), \"Christian corn\" (Turkey)",
+      "chapter": "Maize",
+      "concepts": [
+        "nomenclature_confusion",
+        "cultural_attribution",
+        "linguistic_adaptation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Rhodes",
+          "Lorraine",
+          "Spain",
+          "Pyrenees",
+          "Germany",
+          "Holland",
+          "Turkey"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-048",
+      "text": "Early European success occurred in specific regions: Venetia adopted it from 1539, spreading throughout Terra Firma by 1600",
+      "chapter": "Maize",
+      "concepts": [
+        "regional_adoption",
+        "agricultural_diffusion",
+        "territorial_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Venetia",
+          "Terra Firma"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-049",
+      "text": "Social stratification determined consumption patterns: Invariably became food of the poor while upper classes rejected it",
+      "chapter": "Maize",
+      "concepts": [
+        "social_stratification",
+        "class_distinction",
+        "dietary_hierarchy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-050",
+      "text": "Economic advantages drove eventual adoption: High yields and ability to grow on fallow land revolutionized agricultural economics",
+      "chapter": "Maize",
+      "concepts": [
+        "agricultural_economics",
+        "crop_productivity",
+        "land_management"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-051",
+      "text": "Global spread included Africa and Asia: Portuguese introduced to Congo as \"Massa ma Mputa\" (Portuguese grain) in early 16th century",
+      "chapter": "Maize",
+      "concepts": [
+        "cultural_diffusion",
+        "colonial_introduction",
+        "linguistic_adaptation"
+      ],
+      "entities": {
+        "people": [
+          "Portuguese"
+        ],
+        "places": [
+          "Africa",
+          "Asia",
+          "Congo"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-052",
+      "text": "Integration with existing agricultural systems: Often grown alongside American beans which enriched soil",
+      "chapter": "Maize",
+      "concepts": [
+        "agricultural_systems",
+        "crop_complementarity",
+        "soil_enrichment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "American"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-053",
+      "text": "American crops overcame initial European resistance through necessity: Potatoes and maize, rejected for 200+ years as \"sticky and indigestible,\" became essential as population growth created food crises",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "cultural_resistance",
+        "demographic_pressure",
+        "nutritional_acceptance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "American",
+          "European"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-054",
+      "text": "Potato adoption followed patterns of warfare and famine: Military conflicts repeatedly demonstrated potato's advantages over grain crops",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "military_influence",
+        "crisis_adaptation",
+        "agricultural_advantages"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-055",
+      "text": "Regional variations in potato acceptance were extreme: Ireland embraced it as primary food by 18th century, while France remained largely resistant until 19th century",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "regional_variation",
+        "cultural_acceptance",
+        "dietary_dependence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Ireland",
+          "France"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-056",
+      "text": "Cultivation advantages overcame social prejudices: Potatoes avoided traditional agricultural constraints of tithes, feudal dues, and seasonal labor conflicts",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "feudal_economics",
+        "agricultural_constraints",
+        "social_advantages"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-057",
+      "text": "Maize revolution accelerated in established growing regions: Areas that had experimented with maize for centuries suddenly expanded production dramatically",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "agricultural_intensification",
+        "production_expansion",
+        "regional_specialization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-058",
+      "text": "Broader vegetable revolution accompanied grain changes: Kitchen gardens expanded into field cultivation of turnips, carrots, cabbages",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "horticultural_expansion",
+        "cultivation_systems",
+        "agricultural_diversification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-059",
+      "text": "Asian adoption of American crops enabled demographic expansion: China incorporated maize and sweet potatoes to support 18th-century population growth",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "demographic_expansion",
+        "crop_adoption",
+        "population_dynamics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Asia",
+          "China",
+          "American"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-060",
+      "text": "Cultural resistance patterns revealed deep food preferences: Elite classes universally rejected new crops regardless of nutritional or economic advantages",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "cultural_resistance",
+        "elite_preferences",
+        "social_hierarchy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-061",
+      "text": "Global food integration accelerated: Plants crossed oceans in both directions more rapidly than in previous centuries",
+      "chapter": "The dietary revolutions of the eighteenth century",
+      "concepts": [
+        "global_trade",
+        "agricultural_exchange",
+        "plant_diffusion",
+        "oceanic_transport"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-062",
+      "text": "Hoe cultivation formed a global belt encompassing huge territories: Extended through Oceania, pre-Columbian America, Black Africa, and parts of south/southeast Asia",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "hoe_agriculture",
+        "global_distribution",
+        "agricultural_zones",
+        "cultivation_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Oceania",
+          "Black Africa"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-063",
+      "text": "Hoe cultivators shared remarkable cultural homogeneity: Despite global distribution, showed consistent patterns of technology, housing, and crops",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "cultural_homogeneity",
+        "technological_patterns",
+        "agricultural_systems",
+        "global_distribution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-064",
+      "text": "African systems exemplified hoe agriculture's characteristics: Congo cultivation required \"little work because of the great fertility of the soil\"",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "hoe_agriculture",
+        "soil_fertility",
+        "cultivation_systems",
+        "agricultural_productivity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Congo"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-065",
+      "text": "Pre-Columbian America represented major variation: Descended from Asian populations who crossed Bering Straits possibly 48,000-46,000 years ago",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "human_migration",
+        "population_origins",
+        "prehistoric_settlement",
+        "geographic_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bering Straits"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-066",
+      "text": "American civilizations achieved remarkable heights despite technological limitations: Maize cultivation supported sophisticated societies while requiring minimal labor",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "maize_cultivation",
+        "agricultural_productivity",
+        "civilizational_development",
+        "technological_limitations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-067",
+      "text": "Portuguese contact introduced new crops gradually: Manioc, sweet potatoes, groundnuts, maize arrived in Congo but integration was slow",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "crop_introduction",
+        "agricultural_exchange",
+        "colonial_contact",
+        "gradual_integration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Congo"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-068",
+      "text": "Polynesian expansion demonstrated sophisticated capabilities: Occupied \"enormous maritime triangle, from Hawaii to Easter Island and New Zealand in the thirteenth century\"",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "maritime_expansion",
+        "polynesian_navigation",
+        "territorial_control",
+        "oceanic_colonization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Hawaii",
+          "Easter Island",
+          "New Zealand"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-069",
+      "text": "Primitive peoples occupied lowest cultural level: Lived by \"gathering plants, hunting and fishing\" without agriculture, occupying \"vast expanses of land\"",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "hunter_gatherer_societies",
+        "cultural_hierarchy",
+        "subsistence_patterns",
+        "territorial_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-070",
+      "text": "North American Indians showed cultural gradations: Ranged from agricultural peoples to pure hunter-gatherers",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "cultural_gradations",
+        "agricultural_development",
+        "hunter_gatherer_societies",
+        "subsistence_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-071",
+      "text": "European colonization systematically disrupted traditional systems: Capitalism penetrated native economies, transforming subsistence patterns",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "european_colonization",
+        "capitalist_penetration",
+        "economic_transformation",
+        "subsistence_disruption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-072",
+      "text": "Synchrony and diachrony of human development: Contemporary world still contained all stages of agricultural development",
+      "chapter": "The rest of the world",
+      "concepts": [
+        "developmental_stages",
+        "agricultural_evolution",
+        "temporal_analysis",
+        "cultural_coexistence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-073",
+      "text": "The fluid nature of luxury: Luxury is an \"elusive, complex and contradictory concept\" that constantly changes over time",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "luxury_goods",
+        "social_concepts",
+        "temporal_change",
+        "cultural_complexity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-074",
+      "text": "Carnivorous Europe and the golden age of meat consumption (pre-1550): Europe experienced unprecedented meat consumption during the late medieval period",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "meat_consumption",
+        "dietary_patterns",
+        "medieval_diet",
+        "european_nutrition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-075",
+      "text": "The great regression: declining meat consumption after 1550: A dramatic reversal occurred as population growth outpaced food production",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "dietary_decline",
+        "population_pressure",
+        "food_production",
+        "nutritional_regression"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-076",
+      "text": "The rise of salt preservation and dietary adaptation: As fresh meat became scarce, preserved meats became essential",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "food_preservation",
+        "dietary_adaptation",
+        "scarcity_management",
+        "meat_consumption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-077",
+      "text": "European privilege in global context: Despite declining standards, Europe remained better fed than other civilizations",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "comparative_standards",
+        "global_inequality",
+        "nutritional_status",
+        "civilizational_analysis"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-078",
+      "text": "Table manners and luxury implements: The gradual adoption of refined dining customs reflected social stratification",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "social_stratification",
+        "dining_customs",
+        "luxury_goods",
+        "behavioral_refinement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-079",
+      "text": "Salt as universal necessity: Despite being essential, salt remained subject to extensive trade networks and taxation",
+      "chapter": "Eating habits: luxury and the foods of the masses",
+      "concepts": [
+        "trade_networks",
+        "taxation_systems",
+        "essential_commodities",
+        "economic_necessity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-080",
+      "text": "Water supply challenges in urban centers: Even wealthy cities struggled with basic water provision",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "urban_infrastructure",
+        "water_supply",
+        "municipal_challenges",
+        "basic_services"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-081",
+      "text": "Wine's geographical and social boundaries: Wine production and consumption followed strict climatic and economic patterns",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "geographic_constraints",
+        "economic_patterns",
+        "wine_culture",
+        "consumption_boundaries"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-082",
+      "text": "Beer as the northern alternative: Beer dominated regions outside vine-growing areas, becoming both necessity and luxury",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "regional_adaptation",
+        "alcohol_production",
+        "necessity_and_luxury",
+        "climate_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-083",
+      "text": "The alcohol revolution: Distillation technology created entirely new categories of intoxicants",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "technological_innovation",
+        "distillation_technology",
+        "intoxicant_production",
+        "consumption_revolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-084",
+      "text": "Coffee's conquest of Europe: Coffee transformed from exotic medicine to mass consumption within two centuries",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "commodity_transformation",
+        "mass_consumption",
+        "cultural_adoption",
+        "stimulant_trade"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-085",
+      "text": "Tea's selective European adoption: Tea succeeded primarily in northern Protestant countries and Russia",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "selective_adoption",
+        "religious_influence",
+        "regional_preferences",
+        "trade_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Russia"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-086",
+      "text": "Chocolate as Spanish luxury: Chocolate remained largely confined to Spain and Spanish territories",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "luxury_goods",
+        "regional_monopoly",
+        "colonial_commodities",
+        "restricted_consumption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Spain"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-087",
+      "text": "Tobacco's global triumph: Tobacco achieved the most complete worldwide penetration of any New World stimulant",
+      "chapter": "Drinks, stimulants and drugs",
+      "concepts": [
+        "global_penetration",
+        "commodity_diffusion",
+        "new_world_products",
+        "universal_adoption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-088",
+      "text": "Building materials created hierarchies of permanence and status: Stone buildings lasted centuries while wood and earth structures required constant maintenance",
+      "chapter": "Houses throughout the world",
+      "concepts": [
+        "social_hierarchy",
+        "material_durability",
+        "building_materials",
+        "status_display"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-089",
+      "text": "Traditional civilizations maintained consistent housing patterns across centuries: Conservative societies showed remarkable stability in domestic architecture",
+      "chapter": "Houses throughout the world",
+      "concepts": [
+        "architectural_continuity",
+        "conservative_societies",
+        "domestic_patterns",
+        "cultural_stability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-090",
+      "text": "European housing showed most rapid innovation and regional variation: Western domestic architecture evolved continuously, reflecting economic dynamism",
+      "chapter": "Houses throughout the world",
+      "concepts": [
+        "architectural_innovation",
+        "regional_variation",
+        "economic_dimensions",
+        "continuous_evolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-091",
+      "text": "Climate and available materials shaped fundamental housing patterns: Geography imposed basic constraints that culture could modify but not eliminate",
+      "chapter": "Houses throughout the world",
+      "concepts": [
+        "environmental_determinism",
+        "housing_patterns",
+        "cultural_adaptation",
+        "geographic_constraints"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-092",
+      "text": "Urban housing density created new social problems and solutions: City growth forced innovations in multi-story living and space utilization",
+      "chapter": "Houses throughout the world",
+      "concepts": [
+        "urban_density",
+        "housing_innovation",
+        "social_adaptation",
+        "architectural_solutions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-093",
+      "text": "Rural-urban housing gaps widened over time: Improvements in urban housing contrasted sharply with continued rural poverty",
+      "chapter": "Houses throughout the world",
+      "concepts": [
+        "rural_urban_divide",
+        "housing_inequality",
+        "urban_development",
+        "rural_poverty"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-094",
+      "text": "Poverty meant near-complete absence of possessions: The poor lived with minimal furniture and household goods across all civilizations",
+      "chapter": "Interiors",
+      "concepts": [
+        "poverty_conditions",
+        "material_culture",
+        "household_possessions",
+        "wealth_inequality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-095",
+      "text": "Traditional civilizations maintained stable interior arrangements: Conservative societies showed little change in furniture or domestic organization",
+      "chapter": "Interiors",
+      "concepts": [
+        "cultural_conservatism",
+        "domestic_organization",
+        "traditional_society",
+        "interior_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-096",
+      "text": "Europe experienced continuous innovation in domestic comfort: Western interiors showed constant evolution in furniture, decoration, and spatial organization",
+      "chapter": "Interiors",
+      "concepts": [
+        "domestic_innovation",
+        "interior_design",
+        "furniture_evolution",
+        "cultural_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-097",
+      "text": "Heating systems divided civilizations along technological lines: Effective heating solutions determined comfort levels and architectural possibilities",
+      "chapter": "Interiors",
+      "concepts": [
+        "heating_technology",
+        "architectural_adaptation",
+        "technological_determinism",
+        "comfort_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-098",
+      "text": "The sitting versus squatting divide marked fundamental cultural differences: Body positions reflected deep cultural patterns and social arrangements",
+      "chapter": "Interiors",
+      "concepts": [
+        "body_culture",
+        "cultural_practices",
+        "social_arrangements",
+        "physical_postures"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-099",
+      "text": "Luxury expressed itself through textiles rather than furniture: Rich households invested in fabrics, tapestries, and decorative cloth rather than elaborate furniture",
+      "chapter": "Interiors",
+      "concepts": [
+        "luxury_goods",
+        "textile_culture",
+        "household_investment",
+        "material_display"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-100",
+      "text": "Stable societies maintained unchanging costume traditions: Conservative civilizations showed remarkable consistency in clothing across centuries",
+      "chapter": "Costume and fashion",
+      "concepts": [
+        "costume_tradition",
+        "cultural_conservatism",
+        "clothing_systems",
+        "traditional_society"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-101",
+      "text": "European fashion exhibited increasing pace of change: Western clothing styles accelerated their rate of transformation, especially after 1650",
+      "chapter": "Costume and fashion",
+      "concepts": [
+        "fashion_change",
+        "clothing_innovation",
+        "style_acceleration",
+        "cultural_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-102",
+      "text": "Poverty meant exclusion from fashion systems: Poor people wore functional clothing that changed little across generations",
+      "chapter": "Costume and fashion",
+      "concepts": [
+        "poverty_conditions",
+        "fashion_exclusion",
+        "functional_clothing",
+        "wealth_inequality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-103",
+      "text": "Fashion served as weapon in social competition: Rapid style changes allowed elites to distinguish themselves from rising middle classes",
+      "chapter": "Costume and fashion",
+      "concepts": [
+        "fashion_competition",
+        "social_distinction",
+        "elite_strategy",
+        "class_differentiation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-104",
+      "text": "Textile trade drove global economic connections: Demand for fashionable fabrics created international trading networks",
+      "chapter": "Costume and fashion",
+      "concepts": [
+        "textile_trade",
+        "global_commerce",
+        "fashion_economy",
+        "international_networks"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-105",
+      "text": "Regional fashions reflected political and economic hierarchies: Dominant powers set styles that subordinate regions imitated",
+      "chapter": "Costume and fashion",
+      "concepts": [
+        "regional_fashion",
+        "political_hierarchy",
+        "cultural_imitation",
+        "power_dynamics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-106",
+      "text": "Human and animal power provided most energy before industrialization: Muscle power remained the primary energy source across all civilizations",
+      "chapter": "The key problem: sources of energy",
+      "concepts": [
+        "energy_systems",
+        "pre_industrial_technology",
+        "muscle_power",
+        "civilizational_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-107",
+      "text": "Europe possessed superior animal power resources: Western Europe developed more efficient animal-powered systems than other regions",
+      "chapter": "The key problem: sources of energy",
+      "concepts": [
+        "animal_power",
+        "technological_advantage",
+        "regional_development",
+        "mechanical_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Western Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-108",
+      "text": "Water and wind power created first mechanical revolution: Mills represented Europe's earliest systematic mechanization",
+      "chapter": "The key problem: sources of energy",
+      "concepts": [
+        "mechanical_revolution",
+        "water_power",
+        "wind_power",
+        "industrialization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-109",
+      "text": "Wood consumption reached crisis levels by 18th century: Forest resources became severely strained by growing demand for fuel and construction",
+      "chapter": "The key problem: sources of energy",
+      "concepts": [
+        "resource_depletion",
+        "wood_consumption",
+        "fuel_crisis",
+        "environmental_constraints"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-110",
+      "text": "Coal offered solution but faced adoption barriers: Despite availability, coal use remained limited until industrial breakthrough",
+      "chapter": "The key problem: sources of energy",
+      "concepts": [
+        "energy_transition",
+        "coal_adoption",
+        "technological_barriers",
+        "industrial_breakthrough"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-111",
+      "text": "Energy transportability became crucial limitation: Most power sources could not be moved far from where they were generated",
+      "chapter": "The key problem: sources of energy",
+      "concepts": [
+        "energy_transportation",
+        "power_distribution",
+        "geographic_constraints",
+        "technological_limitations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-112",
+      "text": "Iron production remained tiny by modern standards: Pre-industrial metallurgy operated on a completely different scale than industrial production",
+      "chapter": "Iron: a poor relation",
+      "concepts": [
+        "iron_production",
+        "pre_industrial_metallurgy",
+        "production_scale",
+        "industrial_transformation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-113",
+      "text": "Chinese metallurgy achieved early advances but then stagnated: China developed superior techniques centuries before Europe but failed to progress further",
+      "chapter": "Iron: a poor relation",
+      "concepts": [
+        "metallurgical_innovation",
+        "technological_stagnation",
+        "comparative_development",
+        "early_advancement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-114",
+      "text": "European progress came through gradual incremental improvements: Western metallurgy advanced slowly through water-powered machinery and blast furnaces",
+      "chapter": "Iron: a poor relation",
+      "concepts": [
+        "incremental_innovation",
+        "water_power",
+        "blast_furnace_technology",
+        "gradual_progress"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-115",
+      "text": "Fuel shortages limited metallurgical expansion: Iron production was constrained by availability of charcoal and wood",
+      "chapter": "Iron: a poor relation",
+      "concepts": [
+        "fuel_constraints",
+        "charcoal_production",
+        "resource_limitations",
+        "metallurgical_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-116",
+      "text": "Transportation difficulties kept production localized: Heavy iron products could not economically travel long distances",
+      "chapter": "Iron: a poor relation",
+      "concepts": [
+        "transportation_barriers",
+        "localized_production",
+        "economic_geography",
+        "heavy_industry"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-117",
+      "text": "Other metals often played more important economic roles: Copper, silver, and gold drove more investment and technological innovation than iron",
+      "chapter": "Iron: a poor relation",
+      "concepts": [
+        "metal_economics",
+        "precious_materials",
+        "technological_investment",
+        "comparative_importance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-118",
+      "text": "Technology spread gradually across civilizations: Most innovations eventually reached all groups rather than remaining exclusive to their inventors",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "technological_diffusion",
+        "cultural_transmission",
+        "innovation_spread",
+        "cultural_exchange"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-119",
+      "text": "The origins and spread of gunpowder demonstrate typical diffusion patterns: Chinese invented gunpowder in 9th century AD, first firearms in 11th century, but technology spread gradually",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "gunpowder_invention",
+        "firearms_development",
+        "technological_diffusion",
+        "military_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-120",
+      "text": "Artillery evolved from static to mobile warfare: Early artillery was cumbersome and difficult to transport",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "artillery_evolution",
+        "mobile_warfare",
+        "military_technology",
+        "weapon_transportation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-121",
+      "text": "Naval artillery developed irregularly across maritime powers: Shipboard cannon installation was haphazard despite early adoption",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "naval_technology",
+        "military_technology",
+        "maritime_warfare",
+        "technological_adoption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-122",
+      "text": "Small firearms transformed infantry warfare over two centuries: Arquebuses gradually replaced traditional weapons despite technical limitations",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "military_technology",
+        "infantry_warfare",
+        "technological_transition",
+        "weapon_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-123",
+      "text": "Arms production required significant capital investment and organization: Only wealthy states could afford new warfare costs",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "military_finance",
+        "state_capacity",
+        "arms_production",
+        "capital_investment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-124",
+      "text": "European artillery expertise gave global advantages: Superior training and application, not just technology, determined military success",
+      "chapter": "Three great technological innovations",
+      "concepts": [
+        "military_expertise",
+        "technological_advantage",
+        "global_warfare",
+        "european_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-125",
+      "text": "Paper production preceded and enabled printing revolution: Chinese paper technology reached Europe via Islamic countries in 12th-14th centuries",
+      "chapter": "From paper to the printing press",
+      "concepts": [
+        "paper_technology",
+        "printing_revolution",
+        "knowledge_transmission",
+        "technological_diffusion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-126",
+      "text": "Printing with moveable type may have originated in China: Chinese had printing since 9th century, moveable type by 1040-1050",
+      "chapter": "From paper to the printing press",
+      "concepts": [
+        "printing_technology",
+        "moveable_type",
+        "technological_origins",
+        "chinese_innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-127",
+      "text": "Printing technology spread rapidly but remained unchanged for centuries: Craft emerged from goldsmith milieu rather than woodcut manufacturers",
+      "chapter": "From paper to the printing press",
+      "concepts": [
+        "printing_technology",
+        "craft_traditions",
+        "technological_diffusion",
+        "artisan_knowledge"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-128",
+      "text": "Book production reached massive scale by 1500: Estimated 20 million incunabula (pre-1500 books) for 70 million European population",
+      "chapter": "From paper to the printing press",
+      "concepts": [
+        "book_production",
+        "publishing_scale",
+        "literacy_revolution",
+        "population_dynamics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-129",
+      "text": "Publishing became capital-intensive industry from start: High costs and slow returns made printers dependent on money-lenders",
+      "chapter": "From paper to the printing press",
+      "concepts": [
+        "publishing_industry",
+        "capital_investment",
+        "financial_networks",
+        "economic_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-130",
+      "text": "Printing accelerated intellectual currents and mathematical revolution: Expanded access to classical knowledge enabled scientific progress",
+      "chapter": "From paper to the printing press",
+      "concepts": [
+        "intellectual_revolution",
+        "scientific_development",
+        "knowledge_diffusion",
+        "mathematical_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-131",
+      "text": "Maritime civilizations formed continuous network across Old World: Connected civilizations from European Atlantic to Pacific, but remained separate",
+      "chapter": "The triumph of the West: ocean navigation",
+      "concepts": [
+        "maritime_connections",
+        "trade_networks",
+        "civilization_contact",
+        "global_connectivity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Old World",
+          "European Atlantic",
+          "Pacific"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-132",
+      "text": "Chinese possessed superior naval technology but abandoned ocean exploration: Massive fleets under admiral Cheng Ho demonstrated capability",
+      "chapter": "The triumph of the West: ocean navigation",
+      "concepts": [
+        "naval_technology",
+        "ocean_exploration",
+        "chinese_maritime",
+        "technological_abandonment"
+      ],
+      "entities": {
+        "people": [
+          "Cheng Ho"
+        ],
+        "places": [
+          "China"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-133",
+      "text": "European success resulted from combining northern and southern naval technologies: Marriage of Mediterranean and Atlantic techniques",
+      "chapter": "The triumph of the West: ocean navigation",
+      "concepts": [
+        "naval_technology",
+        "technological_synthesis",
+        "european_advantage",
+        "maritime_innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "Mediterranean",
+          "Atlantic"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-134",
+      "text": "Atlantic navigation required conquering psychological barriers, not just technical ones: Fear of unknown ocean greater obstacle than technology",
+      "chapter": "The triumph of the West: ocean navigation",
+      "concepts": [
+        "ocean_navigation",
+        "psychological_barriers",
+        "maritime_exploration",
+        "cultural_barriers"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Atlantic"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-135",
+      "text": "Chinese and Muslim sailors technically capable but chose coastal navigation: Cultural preferences rather than technical limitations",
+      "chapter": "The triumph of the West: ocean navigation",
+      "concepts": [
+        "navigation_patterns",
+        "cultural_preferences",
+        "maritime_innovation",
+        "coastal_navigation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-136",
+      "text": "European ocean mastery resulted from economic pressure and capitalist development: \"Proletarian\" West needed world more than rich China/Islam",
+      "chapter": "The triumph of the West: ocean navigation",
+      "concepts": [
+        "maritime_expansion",
+        "economic_pressure",
+        "capitalist_development",
+        "global_trade"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe",
+          "China"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-137",
+      "text": "Transportation speeds remained constant from Roman times to Napoleon: Paul Val\u00e9ry's observation that \"Napoleon moved no faster than Julius Caesar\" epitomizes pre-industrial limitations",
+      "chapter": "Transport",
+      "concepts": [
+        "transportation_technology",
+        "pre_industrial_limitations",
+        "technological_stagnation",
+        "mobility_constraints"
+      ],
+      "entities": {
+        "people": [
+          "Paul Val\u00e9ry",
+          "Napoleon",
+          "Julius Caesar"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-138",
+      "text": "Fixed itineraries governed all transport routes: Travelers remained prisoners of limited choices despite route options",
+      "chapter": "Transport",
+      "concepts": [
+        "transport_networks",
+        "travel_constraints",
+        "mobility_limitations",
+        "route_planning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-139",
+      "text": "Sea routes equally fixed by winds, currents, and ports: Maritime travel bound by experience-dictated rules",
+      "chapter": "Transport",
+      "concepts": [
+        "maritime_transport",
+        "navigation_constraints",
+        "environmental_factors",
+        "sea_routes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-140",
+      "text": "Water transport brought animation but remained limited: Rivers crucial for regional economies despite constraints",
+      "chapter": "Transport",
+      "concepts": [
+        "water_transport",
+        "regional_economies",
+        "river_systems",
+        "distance_limitations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-141",
+      "text": "Carriage costs created major economic constraints: Transport expenses regularly 10% ad valorem, sometimes much higher",
+      "chapter": "Transport",
+      "concepts": [
+        "transport_costs",
+        "economic_constraint",
+        "carriage_expenses",
+        "commercial_barriers"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-142",
+      "text": "Europe attempted to overcome transport limitations through horse-based improvements: Various strategies to combat distance tyranny",
+      "chapter": "Transport",
+      "concepts": [
+        "transport_improvements",
+        "horse_technology",
+        "distance_limitations",
+        "mobility_solutions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-143",
+      "text": "Agricultural technology receives inadequate attention despite historical importance: Agriculture was mankind's great \"industry\" for millennia",
+      "chapter": "Problems of the history of technology",
+      "concepts": [
+        "agricultural_technology",
+        "historical_industry",
+        "technological_neglect",
+        "agricultural_importance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-144",
+      "text": "Technology depends entirely on social context rather than existing independently: Modern and historical examples demonstrate social determination",
+      "chapter": "Problems of the history of technology",
+      "concepts": [
+        "social_determination",
+        "technological_context",
+        "innovation_conditions",
+        "social_conditions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-145",
+      "text": "Existing practices and social resistance created barriers to innovation: Workers and established interests opposed changes",
+      "chapter": "Problems of the history of technology",
+      "concepts": [
+        "innovation_resistance",
+        "social_barriers",
+        "technological_adoption",
+        "established_interests"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-146",
+      "text": "Successful inventions required alignment with particular social needs: Venetian patents demonstrate problem-specific innovation",
+      "chapter": "Problems of the history of technology",
+      "concepts": [
+        "innovation_alignment",
+        "social_needs",
+        "patent_systems",
+        "problem_solving"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Venice"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-147",
+      "text": "Many crucial discoveries remained dormant until social conditions demanded them: Economic pressure determined innovation timing",
+      "chapter": "Problems of the history of technology",
+      "concepts": [
+        "dormant_discoveries",
+        "social_conditions",
+        "economic_pressure",
+        "innovation_timing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-148",
+      "text": "Crisis conditions force technological innovation as survival strategy: Major challenges compel societies to choose innovation over stagnation",
+      "chapter": "Problems of the history of technology",
+      "concepts": [
+        "crisis_innovation",
+        "survival_strategies",
+        "technological_necessity",
+        "social_adaptation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-149",
+      "text": "The Disturbing Nature of Money: Money consistently surprised and confused humanity throughout history, bringing sharp price variations, incomprehensible relationships, and transforming human work into a commodity",
+      "chapter": "Money",
+      "concepts": [
+        "monetary_disruption",
+        "market_volatility",
+        "labor_commodification",
+        "economic_confusion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-150",
+      "text": "Universal Pattern of Monetary Disruption: Any society opening its doors to money loses its acquired equilibria and liberates forces that can never be adequately controlled",
+      "chapter": "Money",
+      "concepts": [
+        "monetary_integration",
+        "social_equilibrium",
+        "economic_disruption",
+        "uncontrolled_forces"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-151",
+      "text": "Forced Entry into Monetary Systems: Common people were compelled to obtain cash through various demands - rents, tolls, salt-taxes, market purchases, and taxes",
+      "chapter": "Money",
+      "concepts": [
+        "monetary_coercion",
+        "taxation_systems",
+        "market_integration",
+        "cash_economy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-152",
+      "text": "The Great Monetary Circuits: Money organized global transfer routes and centers for profitable exchanges between money and valuable commodities",
+      "chapter": "Money",
+      "concepts": [
+        "trade_networks",
+        "monetary_circulation",
+        "commodity_exchange",
+        "trade_routes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-153",
+      "text": "Money as Economic Indicator: The monetary economy's flexibility and complexity directly reflect the economy's own characteristics, creating as many monetary systems as there are economic rhythms and situations",
+      "chapter": "Money",
+      "concepts": [
+        "monetary_systems",
+        "economic_indicators",
+        "currency_flexibility",
+        "economic_complexity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-154",
+      "text": "Primitive Currencies Worldwide: Various commodities served as money based on local availability and needs",
+      "chapter": "Imperfect currencies and economies",
+      "concepts": [
+        "primitive_currencies",
+        "commodity_money",
+        "local_exchange_systems",
+        "currency_diversity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-155",
+      "text": "African Currency Systems: Complex monetary arrangements developed using various non-metallic standards",
+      "chapter": "Imperfect currencies and economies",
+      "concepts": [
+        "african_currencies",
+        "non_metallic_money",
+        "monetary_arrangements",
+        "regional_currency_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-156",
+      "text": "Monetary Inflation and Collapse: European contact consistently caused catastrophic inflation in primitive currency systems",
+      "chapter": "Imperfect currencies and economies",
+      "concepts": [
+        "monetary_inflation",
+        "currency_collapse",
+        "european_contact",
+        "primitive_currencies"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "European"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-157",
+      "text": "Barter Within Monetary Economies: Even \"civilized\" countries maintained extensive barter systems beneath the surface of monetary exchange",
+      "chapter": "Imperfect currencies and economies",
+      "concepts": [
+        "barter_systems",
+        "monetary_systems",
+        "exchange_mechanisms",
+        "civilized_countries"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-158",
+      "text": "Colonial American Monetary Problems: Limited monetary circulation forced reliance on substitute currencies and extensive barter",
+      "chapter": "Imperfect currencies and economies",
+      "concepts": [
+        "colonial_monetary_systems",
+        "substitute_currencies",
+        "monetary_circulation",
+        "barter_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Colonial American"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-159",
+      "text": "European Barter Persistence: The \"Truck system\" remained common throughout Europe well into modern times",
+      "chapter": "Imperfect currencies and economies",
+      "concepts": [
+        "truck_system",
+        "european_barter",
+        "exchange_persistence",
+        "monetary_alternatives"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-160",
+      "text": "Japan's Gradual Monetary Development: The 17th-century monetary economy slowly penetrated traditional rice-based exchange systems",
+      "chapter": "Outside Europe: early economies and metallic money",
+      "concepts": [
+        "monetary_development",
+        "rice_based_exchange",
+        "traditional_systems",
+        "economic_penetration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-161",
+      "text": "Turkish Monetary Complexity: The Ottoman Empire operated sophisticated currency systems while serving as a conduit for Western silver",
+      "chapter": "Outside Europe: early economies and metallic money",
+      "concepts": [
+        "ottoman_currencies",
+        "monetary_complexity",
+        "silver_circulation",
+        "currency_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Ottoman Empire",
+          "Turkish"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-162",
+      "text": "Indian Monetary Chaos and Silver Hunger: The subcontinent's complex currency systems reflected both regional diversity and massive precious metal imports",
+      "chapter": "Outside Europe: early economies and metallic money",
+      "concepts": [
+        "currency_chaos",
+        "silver_demand",
+        "regional_variation",
+        "precious_metal_imports"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Indian"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-163",
+      "text": "China's Unified but Primitive System: The Middle Empire maintained monetary coherence through copper-based currency and silver ingots",
+      "chapter": "Outside Europe: early economies and metallic money",
+      "concepts": [
+        "unified_currency_system",
+        "copper_based_currency",
+        "silver_ingots",
+        "monetary_coherence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "Middle Empire"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-164",
+      "text": "Chinese Silver Demand: Despite being called a \"suction pump,\" China's silver hunger was limited by its enormous size and controlled circulation",
+      "chapter": "Outside Europe: early economies and metallic money",
+      "concepts": [
+        "silver_demand",
+        "controlled_circulation",
+        "monetary_limitation",
+        "currency_size_dynamics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-165",
+      "text": "Competition Between Metals: Gold, silver, and copper constantly competed with each other, creating long-term oscillations in relative values",
+      "chapter": "Some rules of the currency game",
+      "concepts": [
+        "metal_competition",
+        "currency_oscillations",
+        "relative_values",
+        "precious_metal_dynamics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-166",
+      "text": "Economic Health Indicators: The dominant metal in circulation revealed an economy's condition and sophistication",
+      "chapter": "Some rules of the currency game",
+      "concepts": [
+        "monetary_systems",
+        "economic_indicators",
+        "metal_currency",
+        "economic_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-167",
+      "text": "Flight and Hoarding Problems: European monetary systems suffered from two chronic diseases that constantly drained the money supply",
+      "chapter": "Some rules of the currency game",
+      "concepts": [
+        "monetary_systems",
+        "currency_circulation",
+        "economic_challenges",
+        "money_supply"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "European"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-168",
+      "text": "Money of Account Systems: Imaginary units of currency (like French livre tournois) provided stability amid constantly changing coin values",
+      "chapter": "Some rules of the currency game",
+      "concepts": [
+        "monetary_systems",
+        "currency_valuation",
+        "accounting_units",
+        "financial_stability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "French"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-169",
+      "text": "Velocity of Circulation: Money multiplied its effect through rapid circulation, with each coin changing hands multiple times",
+      "chapter": "Some rules of the currency game",
+      "concepts": [
+        "monetary_circulation",
+        "currency_velocity",
+        "economic_multiplier",
+        "money_supply"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-170",
+      "text": "Persistent Barter Economy: Even in 18th-century monetary economies, vast populations remained outside cash transactions",
+      "chapter": "Some rules of the currency game",
+      "concepts": [
+        "barter_systems",
+        "monetary_systems",
+        "economic_participation",
+        "rural_populations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-171",
+      "text": "Ancient Origins of Credit: Written financial instruments preceded modern banking by millennia, appearing wherever writing and coinage coexisted",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "credit_systems",
+        "financial_instruments",
+        "banking_evolution",
+        "written_records"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-172",
+      "text": "European Rediscovery and Innovation: The West rediscovered bills of exchange in the 13th century, gradually expanding their use and complexity",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "financial_innovation",
+        "bills_of_exchange",
+        "commercial_development",
+        "medieval_finance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "European",
+          "West"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-173",
+      "text": "Early Bank Notes and Scriptural Money: True bank notes emerged from practical commercial necessity rather than governmental decree",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "banking_systems",
+        "paper_money",
+        "commercial_necessity",
+        "monetary_innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-174",
+      "text": "Paper as Monetary Substitute: Various papers circulated as money during cash shortages, creating impromptu credit systems",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "paper_money",
+        "credit_systems",
+        "monetary_alternatives",
+        "currency_shortages"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-175",
+      "text": "Crisis-Driven Innovation: Monetary breakdowns repeatedly forced creation of paper money and credit substitutes",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "monetary_crises",
+        "financial_innovation",
+        "paper_money",
+        "credit_substitutes"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-176",
+      "text": "Schumpeter's Synthesis: The ultimate recognition that money and credit represent different aspects of the same fundamental process",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "monetary_theory",
+        "credit_systems",
+        "economic_synthesis",
+        "financial_processes"
+      ],
+      "entities": {
+        "people": [
+          "Schumpeter"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-177",
+      "text": "Money and Credit as Language: These techniques form inherited languages that every developing society must learn and speak",
+      "chapter": "Paper money and instruments of credit",
+      "concepts": [
+        "monetary_systems",
+        "credit_systems",
+        "social_learning",
+        "economic_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-178",
+      "text": "Universal characteristics of towns: Despite geographical and temporal differences, all towns share common features including continuous dialogue with rural surroundings, self-consciousness as distinct entities, location at communication network centers, and hierarchical relationships with other cities",
+      "chapter": "Towns: the problems of definition",
+      "concepts": [
+        "urban_characteristics",
+        "rural_urban_relations",
+        "communication_networks",
+        "urban_hierarchies"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-179",
+      "text": "Population thresholds and definitions: Official definitions vary widely, with France setting the minimum at 2,000 inhabitants and Britain at 5,000, making comparative urban statistics problematic",
+      "chapter": "Towns: the problems of definition",
+      "concepts": [
+        "urban_influence",
+        "population_thresholds",
+        "demographic_statistics",
+        "comparative_analysis"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "France",
+          "Britain"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-180",
+      "text": "Urban hierarchies and networks: Towns form systematic hierarchies defined by administrative suffixes in China (fu, chu, hien) and functional relationships everywhere",
+      "chapter": "Towns: the problems of definition",
+      "concepts": [
+        "urban_hierarchies",
+        "administrative_systems",
+        "city_networks",
+        "functional_relationships"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-181",
+      "text": "Town-countryside interdependence: Towns cannot exist without rural hinterlands, requiring approximately 8.5 square kilometers of agricultural land to support a town of 3,000 inhabitants in the eleventh century",
+      "chapter": "The ever-changing division of labor",
+      "concepts": [
+        "urban_rural_interdependence",
+        "agricultural_systems",
+        "population_demographics",
+        "spatial_requirements"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-182",
+      "text": "Blurred boundaries in practice: Medieval and early modern towns remained heavily agricultural, with inhabitants engaging in farming, vine-growing, and animal husbandry within city walls",
+      "chapter": "The ever-changing division of labor",
+      "concepts": [
+        "urban_agriculture",
+        "boundary_fluidity",
+        "medieval_commerce",
+        "urban_planning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-183",
+      "text": "Industrial migration patterns: From the fifteenth century onward, urban industries increasingly moved to rural outskirts seeking cheaper labor outside guild supervision",
+      "chapter": "The ever-changing division of labor",
+      "concepts": [
+        "industrial_relocation",
+        "guild_system",
+        "labor_economics",
+        "urban_migration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-184",
+      "text": "Recruitment patterns and origins: Major cities drew workers from specific regions in established partnerships - Friuli supplied Venice with laborers, Kabylia provided workers for Algiers, and various French provinces sent specialized workers to Paris",
+      "chapter": "The town and its newcomers: mainly the poor",
+      "concepts": [
+        "labor_migration",
+        "regional_specialization",
+        "urban_recruitment",
+        "trade_networks"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Friuli",
+          "Venice",
+          "Kabylia",
+          "Algiers",
+          "Paris"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-185",
+      "text": "Demographic necessity: Pre-nineteenth century cities suffered high mortality rates with scarcely any excess of births over deaths, making constant immigration essential for growth",
+      "chapter": "The town and its newcomers: mainly the poor",
+      "concepts": [
+        "demographic_patterns",
+        "urban_mortality",
+        "population_growth",
+        "migration_necessity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-186",
+      "text": "Fortification as urban definition: Nearly all continental European towns had ramparts that created \"restrictive and distinctive geometry,\" though Britain, Venice, Japan, and the Ottoman interior were notable exceptions",
+      "chapter": "The self-consciousness of towns",
+      "concepts": [
+        "urban_fortification",
+        "city_boundaries",
+        "defensive_architecture",
+        "urban_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Britain",
+          "Venice",
+          "Japan",
+          "Ottoman"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-187",
+      "text": "Citizenship and exclusion: Medieval towns operated as \"exclusive, Lilliputian empires\" where crossing gates meant entering another world entirely",
+      "chapter": "The self-consciousness of towns",
+      "concepts": [
+        "medieval_citizenship",
+        "urban_exclusion",
+        "social_boundaries",
+        "city_governance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-188",
+      "text": "Urban planning and expansion: When towns needed more space, walls were moved \"like theater sets\" in cities like Ghent, Florence, and Strasbourg, while Renaissance planning introduced geometric grid patterns",
+      "chapter": "The self-consciousness of towns",
+      "concepts": [
+        "urban_expansion",
+        "urban_planning",
+        "fortification_modification",
+        "geometric_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Ghent",
+          "Florence",
+          "Strasbourg"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-189",
+      "text": "Artillery's impact on fortification: Traditional medieval walls became obsolete against cannon fire, requiring replacement with expensive wide ramparts, bastions, and terrepleins",
+      "chapter": "Towns, artillery and carriages in the West",
+      "concepts": [
+        "military_technology",
+        "fortification_evolution",
+        "artillery_impact",
+        "defensive_architecture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-190",
+      "text": "Carriage revolution and urban surgery: The sixteenth-century proliferation of wheeled carriages demanded urgent urban reconstruction and planning",
+      "chapter": "Towns, artillery and carriages in the West",
+      "concepts": [
+        "transportation_revolution",
+        "urban_infrastructure",
+        "urban_planning",
+        "technological_adaptation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-191",
+      "text": "Site advantages and constraints: Bahia's steep slopes prevented wheeled traffic and required cranes to move merchandise between port and city, while Constantinople's position across water bodies necessitated constant ferry operations",
+      "chapter": "Geography and urban communications",
+      "concepts": [
+        "urban_geography",
+        "transportation_constraints",
+        "port_cities",
+        "topographical_challenges"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bahia",
+          "Constantinople"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-192",
+      "text": "Transport networks and urban hierarchy: The speed of transport determined the spacing of secondary towns, creating relay points four to five hours apart in southern/western Germany, seven to eight hours apart in northern/eastern regions",
+      "chapter": "Geography and urban communications",
+      "concepts": [
+        "transport_networks",
+        "urban_hierarchies",
+        "spatial_organization",
+        "regional_development"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Germany"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-193",
+      "text": "Markets as urban essence: Towns exist primarily as markets, with weekly or daily markets providing supplies within small radii while powerful towns drew on amazingly distant regions by the fifteenth century",
+      "chapter": "Geography and urban communications",
+      "concepts": [
+        "market_systems",
+        "urban_function",
+        "trade_networks",
+        "economic_geography"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-194",
+      "text": "Systematic urban networks: Great cities require rings of secondary towns for specialized functions - weaving and dying, transport organization, port services",
+      "chapter": "Urban hierarchies",
+      "concepts": [
+        "urban_networks",
+        "functional_specialization",
+        "city_systems",
+        "economic_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-195",
+      "text": "Network evolution and urban competition: Faster transport speeds could bypass relay points, leading to gradual depopulation of secondary towns in favor of capitals",
+      "chapter": "Urban hierarchies",
+      "concepts": [
+        "urban_competition",
+        "transport_efficiency",
+        "network_evolution",
+        "demographic_change"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-196",
+      "text": "Islamic urban characteristics: Islamic towns featured low, clustered houses (high buildings prohibited as marks of pride), narrow streets where \"two asses with pack-saddles\" could barely meet",
+      "chapter": "Towns and civilizations: the case of Islam",
+      "concepts": [
+        "urban_development",
+        "architectural_regulations",
+        "islamic_urbanism",
+        "social_hierarchy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-197",
+      "text": "Three stages of Western urban development",
+      "chapter": "The originality of Western towns",
+      "concepts": [
+        "urban_development",
+        "historical_periodization",
+        "western_civilization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-198",
+      "text": "Urban freedom and autonomy: Western towns uniquely won the competition against territorial states in Italy, Flanders, and Germany, becoming autonomous city-states with privileges \"like juridical ramparts\"",
+      "chapter": "The originality of Western towns",
+      "concepts": [
+        "urban_autonomy",
+        "political_competition",
+        "city_states",
+        "territorial_rights"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Italy",
+          "Flanders",
+          "Germany"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-199",
+      "text": "Capitalism and urban development: Towns and capitalism were \"basically the same thing in the West,\" with cities creating modern states even as they were absorbed by them",
+      "chapter": "The originality of Western towns",
+      "concepts": [
+        "capitalism",
+        "urban_development",
+        "state_formation",
+        "economic_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-200",
+      "text": "State capitals and urban growth: Capital cities achieved privileged status through political centralization, competing in modernization with pavements, street lamps, steam pumps, water systems, and numbered houses",
+      "chapter": "The big cities",
+      "concepts": [
+        "political_centralization",
+        "urban_modernization",
+        "infrastructure_development",
+        "capital_cities"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-201",
+      "text": "Eastern urban traditions: Islamic and Asian cities had long featured enormous populations tied to imperial power - Istanbul with 700,000 (sixteenth century), Peking with three million (1793), Delhi's massive scale under the Great Mogul",
+      "chapter": "The big cities",
+      "concepts": [
+        "imperial_authority",
+        "urban_scale",
+        "population_dynamics",
+        "eastern_urbanism"
+      ],
+      "entities": {
+        "people": [
+          "Great Mogul"
+        ],
+        "places": [
+          "Istanbul",
+          "Peking",
+          "Delhi"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-202",
+      "text": "Economic role and costs: These towns \"represented enormous expenditure\" with economies balanced only by external resources, as \"others had to pay for their luxury\"",
+      "chapter": "The function of capital cities",
+      "concepts": [
+        "economic_parasitism",
+        "urban_economics",
+        "resource_extraction",
+        "luxury_goods"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-203",
+      "text": "Cultural and political significance: Capital cities created national markets and served as \"enormous cultural, intellectual and even revolutionary\" centers despite their parasitical nature",
+      "chapter": "The function of capital cities",
+      "concepts": [
+        "cultural_centers",
+        "national_markets",
+        "revolutionary_violence",
+        "urban_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-204",
+      "text": "Social extremes and urban structure: With 400,000-500,000 inhabitants by the late eighteenth century, Naples ranked as Europe's fourth largest city but displayed shocking inequality",
+      "chapter": "Naples, from the Royal Palace to the Mercato",
+      "concepts": [
+        "social_equality",
+        "urban_hierarchies",
+        "population_size",
+        "european_cities"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Naples",
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-205",
+      "text": "Economic parasitism and rural exploitation: The system functioned through systematic extraction from the Kingdom of Naples and Sicily",
+      "chapter": "Naples, from the Royal Palace to the Mercato",
+      "concepts": [
+        "economic_parasitism",
+        "rural_exploitation",
+        "resource_extraction",
+        "systematic_taxation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Kingdom of Naples",
+          "Sicily"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-206",
+      "text": "Challenging site and construction: Founded by Peter the Great (1703) on islands barely above water level, requiring enormous engineering efforts to create habitable urban space",
+      "chapter": "St Petersburg in 1790",
+      "concepts": [
+        "urban_origins",
+        "engineering_challenges",
+        "artificial_construction",
+        "imperial_projects"
+      ],
+      "entities": {
+        "people": [
+          "Peter the Great"
+        ],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-207",
+      "text": "Artificial population and social structure: Rapid growth from 74,273 (1750) to 217,948 (1789) inhabitants created severely unbalanced demographics",
+      "chapter": "St Petersburg in 1790",
+      "concepts": [
+        "rapid_urbanization",
+        "population_growth",
+        "demographic_imbalance",
+        "artificial_settlement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-208",
+      "text": "Imperial luxury and supply problems: Enormous town in poor region created \"chronic deficit\" requiring imperial treasury and noble incomes to function",
+      "chapter": "St Petersburg in 1790",
+      "concepts": [
+        "imperial_economics",
+        "chronic_deficit",
+        "regional_poverty",
+        "luxury_maintenance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-209",
+      "text": "Urban scale and harsh environment: The enormous population endured \"cruel Siberian cold, diabolical wind, snow and ice for six months of the year\" requiring massive coal consumption and fur clothing",
+      "chapter": "Penultimate journey: Peking",
+      "concepts": [
+        "harsh_climate",
+        "urban_survival",
+        "resource_consumption",
+        "environmental_challenges"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Siberian"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-210",
+      "text": "City structure and daily life: Peking consisted of old and new towns with systematic organization reflecting Chinese urban planning principles",
+      "chapter": "Penultimate journey: Peking",
+      "concepts": [
+        "urban_development",
+        "city_structure",
+        "chinese_urbanism",
+        "systematic_organization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Peking"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-211",
+      "text": "Commercial activity and imperial wealth: Streets filled with \"innumerable multitude\" created scenes comparable only to \"Fairs and Processions in Europe\"",
+      "chapter": "Penultimate journey: Peking",
+      "concepts": [
+        "commercial_activity",
+        "imperial_wealth",
+        "urban_crowds",
+        "european_comparison"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-212",
+      "text": "Explosive growth despite government opposition: London grew from 93,000 inhabitants (1563) to 860,000 (late eighteenth century), becoming Europe's largest city despite repeated building prohibitions",
+      "chapter": "London from Elizabeth I to George III",
+      "concepts": [
+        "urban_development",
+        "population_dynamics",
+        "government_regulation",
+        "european_urbanization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "London",
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-213",
+      "text": "River-centered urban structure: The Thames shaped London \"like a half moon\" with London Bridge as the sole crossing until Westminster Bridge (1750)",
+      "chapter": "London from Elizabeth I to George III",
+      "concepts": [
+        "urban_geography",
+        "river_systems",
+        "transportation_infrastructure",
+        "bridge_construction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Thames",
+          "London Bridge",
+          "Westminster Bridge"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-214",
+      "text": "Social stratification and immigration: London attracted both wealth and desperate poverty, creating extreme social divisions within the expanding metropolis",
+      "chapter": "London from Elizabeth I to George III",
+      "concepts": [
+        "social_stratification",
+        "urban_migration",
+        "wealth_inequality",
+        "metropolitan_expansion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "London"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-215",
+      "text": "Cities as development indicators: Great cities created modern states and national markets, serving as \"excellent yardstick of development in Europe and other continents\"",
+      "chapter": "Urbanization, the sign of modern man",
+      "concepts": [
+        "urban_development",
+        "state_formation",
+        "national_markets",
+        "development_indicators"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Europe"
+        ],
+        "works": []
+      },
+      "quotes": []
+    },
+    {
+      "id": "braudel-vol1-216",
+      "text": "Structural contradictions and costs: Cities represented \"deep-seated disequilibrium, asymmetrical growth, and irrational and unproductive investment on a nation-wide scale\"",
+      "chapter": "Urbanization, the sign of modern man",
+      "concepts": [
+        "urban_contradictions",
+        "economic_disequilibrium",
+        "asymmetrical_growth",
+        "investment_patterns"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "works": []
+      },
+      "quotes": []
+    }
+  ],
+  "chapters": [
+    {
+      "id": "braudel-vol1-ch-001",
+      "title": "Part 1: Weight of Numbers",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-002",
+      "title": "Guessing the world population",
+      "summary": "",
+      "claim_ids": [
+        "braudel-vol1-001",
+        "braudel-vol1-002",
+        "braudel-vol1-003",
+        "braudel-vol1-004",
+        "braudel-vol1-005"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-003",
+      "title": "A scale of reference",
+      "summary": "",
+      "claim_ids": [
+        "braudel-vol1-006",
+        "braudel-vol1-007",
+        "braudel-vol1-008",
+        "braudel-vol1-009",
+        "braudel-vol1-010"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-004",
+      "title": "The eighteenth century: watershed of biological regimes",
+      "summary": "",
+      "claim_ids": [
+        "braudel-vol1-011",
+        "braudel-vol1-012",
+        "braudel-vol1-013",
+        "braudel-vol1-014",
+        "braudel-vol1-015"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-005",
+      "title": "The many against the few",
+      "summary": "",
+      "claim_ids": [
+        "braudel-vol1-016",
+        "braudel-vol1-017",
+        "braudel-vol1-018",
+        "braudel-vol1-019",
+        "braudel-vol1-020"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-006",
+      "title": "Part 2: Daily Bread",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-007",
+      "title": "Wheat",
+      "summary": "Wheat served as the dominant food crop of Western civilization, though it faced constant challenges from low yields, climate variations, and the need for complex agricultural systems requiring crop rotation and livestock integration.",
+      "claim_ids": [
+        "braudel-vol1-021",
+        "braudel-vol1-022",
+        "braudel-vol1-023",
+        "braudel-vol1-024",
+        "braudel-vol1-025",
+        "braudel-vol1-026",
+        "braudel-vol1-027",
+        "braudel-vol1-028",
+        "braudel-vol1-029",
+        "braudel-vol1-030",
+        "braudel-vol1-031"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-008",
+      "title": "Rice",
+      "summary": "Rice cultivation created the foundation for Asian civilizations through intensive agricultural techniques that supported dense populations, but this success came at the cost of social rigidity and geographic limitations that restricted development of mountain regions and livestock farming.",
+      "claim_ids": [
+        "braudel-vol1-032",
+        "braudel-vol1-033",
+        "braudel-vol1-034",
+        "braudel-vol1-035",
+        "braudel-vol1-036",
+        "braudel-vol1-037",
+        "braudel-vol1-038",
+        "braudel-vol1-039",
+        "braudel-vol1-040",
+        "braudel-vol1-041"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-009",
+      "title": "Maize",
+      "summary": "Maize represented a revolutionary crop that sustained the great pre-Columbian civilizations of America through its extraordinary productivity, then spread globally after 1500 to become a crucial food source, though its adoption was slow in Europe and often associated with poverty and social disruption.",
+      "claim_ids": [
+        "braudel-vol1-042",
+        "braudel-vol1-043",
+        "braudel-vol1-044",
+        "braudel-vol1-045",
+        "braudel-vol1-046",
+        "braudel-vol1-047",
+        "braudel-vol1-048",
+        "braudel-vol1-049",
+        "braudel-vol1-050",
+        "braudel-vol1-051",
+        "braudel-vol1-052"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-010",
+      "title": "The dietary revolutions of the eighteenth century",
+      "summary": "The eighteenth century marked a watershed in global food systems as American crops finally achieved widespread acceptance in Europe and Asia, driven by demographic pressure and recurring famines, fundamentally altering eating habits and agricultural practices after two centuries of resistance.",
+      "claim_ids": [
+        "braudel-vol1-053",
+        "braudel-vol1-054",
+        "braudel-vol1-055",
+        "braudel-vol1-056",
+        "braudel-vol1-057",
+        "braudel-vol1-058",
+        "braudel-vol1-059",
+        "braudel-vol1-060",
+        "braudel-vol1-061"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-011",
+      "title": "The rest of the world",
+      "summary": "Beyond the dominant grain civilizations lay vast territories inhabited by peoples using simpler agricultural techniques - hoe cultivators and primitive hunter-gatherers - whose ways of life represented earlier stages of human development but who occupied enormous areas and possessed their own sophisticated adaptations to local environments.",
+      "claim_ids": [
+        "braudel-vol1-062",
+        "braudel-vol1-063",
+        "braudel-vol1-064",
+        "braudel-vol1-065",
+        "braudel-vol1-066",
+        "braudel-vol1-067",
+        "braudel-vol1-068",
+        "braudel-vol1-069",
+        "braudel-vol1-070",
+        "braudel-vol1-071",
+        "braudel-vol1-072"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-012",
+      "title": "Part 3: Superfluity and Sufficiency: Food and Drink",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-013",
+      "title": "Eating habits: luxury and the foods of the masses",
+      "summary": "This chapter argues that the distinction between luxury and necessity in food has been constantly shifting throughout history, with luxury serving as both a marker of social distinction and a testing ground for what eventually becomes accessible to the masses.",
+      "claim_ids": [
+        "braudel-vol1-073",
+        "braudel-vol1-074",
+        "braudel-vol1-075",
+        "braudel-vol1-076",
+        "braudel-vol1-077",
+        "braudel-vol1-078",
+        "braudel-vol1-079"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-014",
+      "title": "Drinks, stimulants and drugs",
+      "summary": "The chapter demonstrates how Europe experienced a revolution in beverages and stimulants between the 16th-18th centuries, transforming from a wine-and-beer society to one increasingly dependent on alcohol, coffee, tea, chocolate, and tobacco.",
+      "claim_ids": [
+        "braudel-vol1-080",
+        "braudel-vol1-081",
+        "braudel-vol1-082",
+        "braudel-vol1-083",
+        "braudel-vol1-084",
+        "braudel-vol1-085",
+        "braudel-vol1-086",
+        "braudel-vol1-087"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-015",
+      "title": "Part 4: Superfluity and Sufficiency: Houses, Clothes and Fashion",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-016",
+      "title": "Houses throughout the world",
+      "summary": "This chapter argues that housing patterns reflected deep civilizational differences, with building materials, construction techniques, and domestic arrangements revealing fundamental economic and cultural constraints across different societies.",
+      "claim_ids": [
+        "braudel-vol1-088",
+        "braudel-vol1-089",
+        "braudel-vol1-090",
+        "braudel-vol1-091",
+        "braudel-vol1-092",
+        "braudel-vol1-093"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-017",
+      "title": "Interiors",
+      "summary": "The chapter examines how interior spaces and furnishings revealed social hierarchies and cultural values, with furniture and domestic arrangements serving as markers of wealth, refinement, and civilizational achievement.",
+      "claim_ids": [
+        "braudel-vol1-094",
+        "braudel-vol1-095",
+        "braudel-vol1-096",
+        "braudel-vol1-097",
+        "braudel-vol1-098",
+        "braudel-vol1-099"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-018",
+      "title": "Costume and fashion",
+      "summary": "This chapter argues that clothing and fashion changes served as indicators of social mobility and civilizational dynamism, with stable societies maintaining consistent dress codes while dynamic societies embraced rapid changes in style.",
+      "claim_ids": [
+        "braudel-vol1-100",
+        "braudel-vol1-101",
+        "braudel-vol1-102",
+        "braudel-vol1-103",
+        "braudel-vol1-104",
+        "braudel-vol1-105"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-019",
+      "title": "Part 5: The Spread of Technology: Sources of Energy, Metallurgy",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-020",
+      "title": "The key problem: sources of energy",
+      "summary": "The chapter demonstrates that energy constraints fundamentally limited pre-industrial civilization, with Europe's relatively superior energy resources contributing significantly to its eventual technological and economic dominance.",
+      "claim_ids": [
+        "braudel-vol1-106",
+        "braudel-vol1-107",
+        "braudel-vol1-108",
+        "braudel-vol1-109",
+        "braudel-vol1-110",
+        "braudel-vol1-111"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-021",
+      "title": "Iron: a poor relation",
+      "summary": "This chapter argues that iron remained a minor material compared to wood and textiles throughout the pre-industrial period, with limited production and primitive techniques preventing the metal from playing the transformative role it would assume after 1800.",
+      "claim_ids": [
+        "braudel-vol1-112",
+        "braudel-vol1-113",
+        "braudel-vol1-114",
+        "braudel-vol1-115",
+        "braudel-vol1-116",
+        "braudel-vol1-117"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-022",
+      "title": "Part 6: The Spread of Technology: Revolution and Delays",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-023",
+      "title": "Three great technological innovations",
+      "summary": "The chapter argues that technological \"revolutions\" between the 15th-18th centuries were actually gradual processes that spread slowly across civilizations, with only ocean navigation creating lasting global asymmetry.",
+      "claim_ids": [
+        "braudel-vol1-118",
+        "braudel-vol1-119",
+        "braudel-vol1-120",
+        "braudel-vol1-121",
+        "braudel-vol1-122",
+        "braudel-vol1-123",
+        "braudel-vol1-124"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-024",
+      "title": "From paper to the printing press",
+      "summary": "The chapter demonstrates how printing technology, originating in China, was transformed and spread by European economic and social conditions to create a communications revolution.",
+      "claim_ids": [
+        "braudel-vol1-125",
+        "braudel-vol1-126",
+        "braudel-vol1-127",
+        "braudel-vol1-128",
+        "braudel-vol1-129",
+        "braudel-vol1-130"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-025",
+      "title": "The triumph of the West: ocean navigation",
+      "summary": "The chapter explains how Europe alone mastered ocean navigation despite other civilizations having equal or superior maritime technologies, creating the first global asymmetry in world history.",
+      "claim_ids": [
+        "braudel-vol1-131",
+        "braudel-vol1-132",
+        "braudel-vol1-133",
+        "braudel-vol1-134",
+        "braudel-vol1-135",
+        "braudel-vol1-136"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-026",
+      "title": "Transport",
+      "summary": "The chapter demonstrates how transportation remained the fundamental constraint on economic development and human communication until the industrial revolution, despite technological advances in other areas.",
+      "claim_ids": [
+        "braudel-vol1-137",
+        "braudel-vol1-138",
+        "braudel-vol1-139",
+        "braudel-vol1-140",
+        "braudel-vol1-141",
+        "braudel-vol1-142"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-027",
+      "title": "Problems of the history of technology",
+      "summary": "The chapter argues that technology cannot be understood in isolation from social and economic contexts, and that innovation requires societal pressure and support to succeed.",
+      "claim_ids": [
+        "braudel-vol1-143",
+        "braudel-vol1-144",
+        "braudel-vol1-145",
+        "braudel-vol1-146",
+        "braudel-vol1-147",
+        "braudel-vol1-148"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-028",
+      "title": "Part 7: Money",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-029",
+      "title": "Money",
+      "summary": "Money operates as both an instrument and indicator of economic and social relationships, revealing the health and complexity of any moderately developed commercial life through its circulation patterns and scarcity.",
+      "claim_ids": [
+        "braudel-vol1-149",
+        "braudel-vol1-150",
+        "braudel-vol1-151",
+        "braudel-vol1-152",
+        "braudel-vol1-153"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-030",
+      "title": "Imperfect currencies and economies",
+      "summary": "Barter remained the dominant exchange method across enormous areas from the 15th-18th centuries, supplemented by primitive currencies that were perfectly adequate for the economies employing them, though often inadequate when confronting more advanced monetary systems.",
+      "claim_ids": [
+        "braudel-vol1-154",
+        "braudel-vol1-155",
+        "braudel-vol1-156",
+        "braudel-vol1-157",
+        "braudel-vol1-158",
+        "braudel-vol1-159"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-031",
+      "title": "Outside Europe: early economies and metallic money",
+      "summary": "Japan, Islam, India, and China represented intermediate stages between European monetary sophistication and primitive economies, each developing monetary systems suited to their specific economic relationships and geographical positions.",
+      "claim_ids": [
+        "braudel-vol1-160",
+        "braudel-vol1-161",
+        "braudel-vol1-162",
+        "braudel-vol1-163",
+        "braudel-vol1-164"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-032",
+      "title": "Some rules of the currency game",
+      "summary": "European monetary systems operated at multiple levels - barter, metallic money, and credit - creating a vast network that extended globally and established hierarchical relationships between different economies.",
+      "claim_ids": [
+        "braudel-vol1-165",
+        "braudel-vol1-166",
+        "braudel-vol1-167",
+        "braudel-vol1-168",
+        "braudel-vol1-169",
+        "braudel-vol1-170"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-033",
+      "title": "Paper money and instruments of credit",
+      "summary": "Credit instruments and paper money developed as natural responses to metallic currency shortages, representing ancient techniques rediscovered and refined rather than revolutionary innovations.",
+      "claim_ids": [
+        "braudel-vol1-171",
+        "braudel-vol1-172",
+        "braudel-vol1-173",
+        "braudel-vol1-174",
+        "braudel-vol1-175",
+        "braudel-vol1-176",
+        "braudel-vol1-177"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-034",
+      "title": "Part 8: Towns and Cities",
+      "summary": "",
+      "claim_ids": []
+    },
+    {
+      "id": "braudel-vol1-ch-035",
+      "title": "Towns: the problems of definition",
+      "summary": "Towns serve as \"electric transformers\" that increase tension, accelerate exchange, and constantly recharge human life, representing the fundamental division of labor between rural and urban activities.",
+      "claim_ids": [
+        "braudel-vol1-178",
+        "braudel-vol1-179",
+        "braudel-vol1-180"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-036",
+      "title": "The ever-changing division of labor",
+      "summary": "The division of labor between countryside and urban centers remains fluid and contested throughout history, with neither side automatically dominant in this \"class struggle.\"",
+      "claim_ids": [
+        "braudel-vol1-181",
+        "braudel-vol1-182",
+        "braudel-vol1-183"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-037",
+      "title": "The town and its newcomers: mainly the poor",
+      "summary": "Towns depend on constant recruitment of newcomers, primarily from poor rural regions, creating systematic networks of migration and social stratification.",
+      "claim_ids": [
+        "braudel-vol1-184",
+        "braudel-vol1-185"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-038",
+      "title": "The self-consciousness of towns",
+      "summary": "Towns between the fifteenth and eighteenth centuries maintained distinct identities through physical barriers and legal privileges that separated them from their immediate surroundings.",
+      "claim_ids": [
+        "braudel-vol1-186",
+        "braudel-vol1-187",
+        "braudel-vol1-188"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-039",
+      "title": "Towns, artillery and carriages in the West",
+      "summary": "Fifteenth-century military and transportation innovations forced fundamental changes in urban design and expansion patterns across Western Europe.",
+      "claim_ids": [
+        "braudel-vol1-189",
+        "braudel-vol1-190"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-040",
+      "title": "Geography and urban communications",
+      "summary": "Every town's permanent location determines its eternal advantages and disadvantages, with initial site choices creating lasting patterns of development and constraint.",
+      "claim_ids": [
+        "braudel-vol1-191",
+        "braudel-vol1-192",
+        "braudel-vol1-193"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-041",
+      "title": "Urban hierarchies",
+      "summary": "Small towns inevitably develop around large centers at distances determined by transport speed, creating networks of functional interdependence and specialization.",
+      "claim_ids": [
+        "braudel-vol1-194",
+        "braudel-vol1-195"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-042",
+      "title": "Towns and civilizations: the case of Islam",
+      "summary": "Towns serve as products and expressions of their civilizations, with Islamic cities following distinctive patterns found from Gibraltar to the Sunda Isles.",
+      "claim_ids": [
+        "braudel-vol1-196"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-043",
+      "title": "The originality of Western towns",
+      "summary": "Western European towns achieved unparalleled freedom that allowed them to develop autonomous economic and political systems, distinguishing them from cities elsewhere in the world.",
+      "claim_ids": [
+        "braudel-vol1-197",
+        "braudel-vol1-198",
+        "braudel-vol1-199"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-044",
+      "title": "The big cities",
+      "summary": "Large urban agglomerations emerged in the West from the sixteenth century onward, coinciding with the development of modern centralized states and rivaling traditional Eastern metropolises.",
+      "claim_ids": [
+        "braudel-vol1-200",
+        "braudel-vol1-201"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-045",
+      "title": "The function of capital cities",
+      "summary": "Capital cities produced modern states and national markets while representing enormous expenditure that required outside resources to maintain their luxury and functionality.",
+      "claim_ids": [
+        "braudel-vol1-202",
+        "braudel-vol1-203"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-046",
+      "title": "Naples, from the Royal Palace to the Mercato",
+      "summary": "Naples exemplified the extreme social stratification and economic imbalance characteristic of major capital cities in the ancien regime.",
+      "claim_ids": [
+        "braudel-vol1-204",
+        "braudel-vol1-205"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-047",
+      "title": "St Petersburg in 1790",
+      "summary": "St Petersburg demonstrates the \"monstrous structural disequilibrium\" of early modern capital cities, built through imperial will in defiance of natural conditions.",
+      "claim_ids": [
+        "braudel-vol1-206",
+        "braudel-vol1-207",
+        "braudel-vol1-208"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-048",
+      "title": "Penultimate journey: Peking",
+      "summary": "Peking exemplifies the ultimate capital city, supporting perhaps three million inhabitants in harsh climate through systematic extraction from the Chinese empire.",
+      "claim_ids": [
+        "braudel-vol1-209",
+        "braudel-vol1-210",
+        "braudel-vol1-211"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-049",
+      "title": "London from Elizabeth I to George III",
+      "summary": "London's transformation from Elizabeth I through George III demonstrates the evolution of early modern capitalism and urban development in its most advanced form.",
+      "claim_ids": [
+        "braudel-vol1-212",
+        "braudel-vol1-213",
+        "braudel-vol1-214"
+      ]
+    },
+    {
+      "id": "braudel-vol1-ch-050",
+      "title": "Urbanization, the sign of modern man",
+      "summary": "Large cities represent both the achievements and contradictions of early modern development, serving as measures of economic and social transformation while creating new forms of inequality.",
+      "claim_ids": [
+        "braudel-vol1-215",
+        "braudel-vol1-216"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 216,
+    "chapter_count": 50,
+    "indexed_at": "2026-01-22T18:18:52.882998Z"
+  }
+}

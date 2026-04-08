@@ -1,0 +1,1378 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Language Machines: Cultural AI and the End of Remainder Humanism",
+    "author": "Leif Weatherby",
+    "year": null,
+    "categories": [
+      "language arts & disciplines",
+      "philosophy",
+      "social science"
+    ],
+    "thesis": "Large language models do not simulate human cognition but instead computationally realize the structuralist theory of language as a complex, poetic sign-system, proving that language is cultural and generative before it is referential or cognitive, which demands a 'general poetics' of computational-cultural meaning in place of both cognitive science's 'remainder humanism' and poststructuralism's abandonment of concrete linguistic analysis."
+  },
+  "claims": [
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-001",
+      "text": "LLMs prove that computation captures complex, poetic, and ideological features of language before it captures grammar, syntax, or reference, inverting the assumption that reference is language's primary function.",
+      "chapter": "Introduction: AI between Cognition and Culture",
+      "concepts": [
+        "cultural_language",
+        "computational_semiotics",
+        "language_as_system",
+        "generative_ai"
+      ],
+      "entities": {
+        "people": [
+          "Ferdinand de Saussure"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "GPT-2",
+          "ChatGPT"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "GPT-2's 2019 unicorn story demonstrated genre-level competence\u2014science journalism format, biological vocabulary, scene-setting\u2014while failing at semantic consistency (a 'four-horned unicorn'), showing that high-level cultural form is computationally tractable before logical coherence.",
+          "speaker": null
+        },
+        {
+          "text": "The transformer architecture ('GPT' = generative pretrained transformer) pretrained on trillions of words predicts the next token probabilistically, capturing the synchronic snapshot of language as a cultural system rather than as intelligence.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-002",
+      "text": "The 'ladder of reference'\u2014the hierarchical assumption inherited from Frege and the Vienna School that reference is language's primary function and everything else is secondary\u2014is empirically disproved by LLMs, which generate convincing language while remaining ungrounded in perception.",
+      "chapter": "Introduction: AI between Cognition and Culture",
+      "concepts": [
+        "philosophy_of_language",
+        "reference_theory",
+        "logical_positivism",
+        "symbol_grounding"
+      ],
+      "entities": {
+        "people": [
+          "Gottlob Frege",
+          "Rudolf Carnap",
+          "Stevan Harnad",
+          "Emily Bender",
+          "Charles Koller",
+          "Hilary Putnam",
+          "Charles Sanders Peirce",
+          "Charles Morris"
+        ],
+        "places": [
+          "University of Chicago",
+          "Vienna"
+        ],
+        "events": [],
+        "works": [
+          "Encyclopedia of the Unified Sciences"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Rudolf Carnap's arrival at the University of Chicago in the mid-1930s entrenched Frege's distinction of Bedeutung (reference) from Sinn (sense) across American philosophy, cognitive science, and eventually data science, creating what Weatherby calls the dominant 'reference-first framework.'",
+          "speaker": null
+        },
+        {
+          "text": "The symbol grounding debate\u2014revived for LLMs as 'hallucination'\u2014oscillates between internalist accounts (Bender and Koller's communicative intent) and externalist ones (Mandelkern and Linzen's natural histories), but both confuse language with either the mind or the world rather than treating it as an autonomous sign-system.",
+          "speaker": null
+        },
+        {
+          "text": "In cognitive science and philosophy of language, there is disagreement about the extent to which grounding constitutes an essential component of what is commonly referred to as 'meaning.'",
+          "speaker": "Ellie Pavlick"
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-003",
+      "text": "The cognition-culture binary has no load-bearing empirical support: human cognition appears to be a way of making meaning with signs in which the two cannot be cleanly separated, and any learning system\u2014human or machine\u2014is constituted by the 'corpus' from which it learns.",
+      "chapter": "Introduction: AI between Cognition and Culture",
+      "concepts": [
+        "cognition_culture_divide",
+        "semiosis",
+        "cultural_transmission",
+        "posthumanism"
+      ],
+      "entities": {
+        "people": [
+          "Merlin Donald",
+          "N. Katherine Hayles",
+          "Terrence W. Deacon",
+          "Gary Tomlinson",
+          "Clifford Geertz",
+          "Jacques Lacan",
+          "Claude L\u00e9vi-Strauss"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Descent of Man"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Psychologists Eunice Yiu, Eliza Kosoy, and Alison Gopnik call generative AI 'cultural technologies' that imitate rather than innovate, but their framework implicitly treats cognition as the molten core of genuine creativity and culture as mere transmission\u2014a binary that cannot be sustained.",
+          "speaker": null
+        },
+        {
+          "text": "Gary Tomlinson argues that meaning is bound by specific forms of sign-making and that transmission cannot be eliminated from meaning in a cultural system, placing language machines firmly inside the communicational chain of semiosis.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-004",
+      "text": "'Remainder humanism'\u2014the tendency to define the human negatively against each advance of AI, drawing an ever-shifting line between human and machine\u2014is theoretically incoherent because it has no positive doctrine of the human and cannot explain how 'meaningless' algorithms nonetheless supercharge harmful speech or shape culture.",
+      "chapter": "Introduction: AI between Cognition and Culture",
+      "concepts": [
+        "remainder_humanism",
+        "ai_ethics",
+        "existential_risk",
+        "human_machine_divide"
+      ],
+      "entities": {
+        "people": [
+          "Noam Chomsky",
+          "Timnit Gebru",
+          "Emily Bender",
+          "Hubert Dreyfus",
+          "Nick Bostrom",
+          "Toby Ord"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Precipice",
+          "Stochastic Parrots paper"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Noam Chomsky's 2023 op-ed calling LLMs 'lumbering statistical engines' and the 'stochastic parrots' framework of Timnit Gebru and Emily Bender both withdraw a human cognitive core from synthetic language\u2014the same move, made for different political motivations, that leaves no theory for why these systems have real cultural effects.",
+          "speaker": null
+        },
+        {
+          "text": "The stochastic parrot critique 'backhandedly confers enormous power on LLMs, theoretically depriving them of language but ceding almost mystical power to produce meaning\u2014bad meaning, but meaning nonetheless,' leaving critique without a mechanism.",
+          "speaker": null
+        },
+        {
+          "text": "AI 'doomerism' centered on existential risk (Nick Bostrom's superintelligence scenario, the Center for AI Safety's 2023 statement) represents a symmetrical remainder humanism: sentimental, undefined about actual AI systems, and ideologically eugenic.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-005",
+      "text": "Saussure's semiology\u2014treating language as the 'last station' for meaning through which all other sign-systems must pass\u2014provides the right framework for LLMs because it positions language as autonomous, arbitrary, and differential rather than as derivative of mind or world.",
+      "chapter": "Introduction: AI between Cognition and Culture",
+      "concepts": [
+        "semiology",
+        "last_instance_semiology",
+        "symbolic_order",
+        "media_theory"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Friedrich Kittler",
+          "Bernard Stiegler",
+          "Wendy Chun",
+          "James Dobson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Course in General Linguistics"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Friedrich Kittler's claim that 'there is no software' immediately qualifies itself: software 'would not exist if computer systems did not\u2014at least until now\u2014need to coexist with an environment of everyday languages,' making language the constitutive medium of computation rather than its decoration.",
+          "speaker": null
+        },
+        {
+          "text": "Patrice Maniglier observes that learning systems' advantage may lie 'in their capacity to model human cultural ability,' because humans can learn any culture in the same sense that connectionist networks can learn any arbitrary difference in their inputs\u2014a problem approachable only semiotically.",
+          "speaker": "Patrice Maniglier"
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-006",
+      "text": "The book calls for a 'general poetics'\u2014a structuralist semiology updated to include computation\u2014that studies meaning-making across the full spectrum from poetics to ideology, from human to machine language, without presupposing a clear division between cognition and culture.",
+      "chapter": "Introduction: AI between Cognition and Culture",
+      "concepts": [
+        "general_poetics",
+        "empirical_poetics",
+        "computational_culture",
+        "structuralism"
+      ],
+      "entities": {
+        "people": [
+          "Ted Underwood",
+          "Roman Jakobson",
+          "Michael Silverstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The argument proceeds through six moves: (1) how humanities lost language to cognitive science and NLP; (2) the Eliza effect and intelligence as simulacrum; (3) the semiological surround and language as medium of computation; (4) LLMs as large literary machines; (5) the poetic function as the formal basis of computational meaning; (6) LLMs as ideology machines producing 'packaged semantics.'",
+          "speaker": null
+        },
+        {
+          "text": "Ted Underwood's suggestion that 'these machines make theory empirical' is endorsed: if LLMs realize an empirical poetics, the task is to develop a theory that responds to them rather than auditing their outputs against presumed cognitive standards.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-007",
+      "text": "Chomsky's 'syntax' view\u2014treating language as a transcendental recursive capacity (merge) located in the brain and immune to statistical modeling\u2014is Kantian rather than Cartesian in structure: just as Kant sought categories that impose form on experience, Chomsky seeks universal grammar rules that govern but cannot be derived from actual language use.",
+      "chapter": "How the Humanities Lost Language: Syntax, Statistics, and Structure",
+      "concepts": [
+        "generative_grammar",
+        "transcendental_logic",
+        "syntax_theory",
+        "rationalism"
+      ],
+      "entities": {
+        "people": [
+          "Noam Chomsky",
+          "Steven Pinker",
+          "David Adger",
+          "Immanuel Kant"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Syntactic Structures",
+          "The Language Instinct",
+          "Cartesian Linguistics"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Chomsky's famous sentences\u2014'Colorless green ideas sleep furiously' vs. 'Furiously sleep green ideas colorless'\u2014were designed to show that grammaticality cannot be a statistical property, because neither sentence is likely to have occurred in any corpus, yet only the first is grammatical.",
+          "speaker": null
+        },
+        {
+          "text": "The 'linking problem'\u2014how syntactic deep structure actually maps onto specific semantic content in actual languages\u2014is the Chomskyan analog to Kant's schematism: both need a 'middle term' that neither framework can satisfactorily supply.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-008",
+      "text": "The 'statistics' view\u2014rooted in American distributionalism (Harris, Bloomfield) and Bayesian empiricism\u2014holds that meaning is captured by the 'company words keep' (Firth's distributional hypothesis), but this view produces tools too complex to say anything explanatory about language, leaving 'meaning' in an unarticulated black box.",
+      "chapter": "How the Humanities Lost Language: Syntax, Statistics, and Structure",
+      "concepts": [
+        "distributional_semantics",
+        "bayesian_statistics",
+        "natural_language_processing",
+        "vector_semantics"
+      ],
+      "entities": {
+        "people": [
+          "J. R. Firth",
+          "Zellig Harris",
+          "Leonard Bloomfield",
+          "Christopher Manning",
+          "Peter Norvig",
+          "Charles Osgood",
+          "Tomas Mikolov"
+        ],
+        "places": [
+          "Bletchley Park"
+        ],
+        "events": [],
+        "works": [
+          "Attention Is All You Need",
+          "Parallel Distributed Processing"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Peter Norvig's rebuttal to Chomsky argues that high-dimensional probabilistic models differ from flat Markov chains, and that language as interpretation (Shannon's problem) may require different explanation than language as production (Chomsky's focus)\u2014but this still leaves meaning in model performance rather than theory.",
+          "speaker": null
+        },
+        {
+          "text": "The introduction of vector semantics (Osgood's semantic differential, then document-term matrices, then word2vec) progressively enriched the distributional approach, but as Bernhard Rieder observes, the result is 'an accumulation of techniques rather than the formulation of theory.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-009",
+      "text": "Saussure's structuralism offers a 'dialectical' empiricism about language: signs are arbitrary and differential, meaning is constituted by the total systemic relationship of each term to all others ('value'), and this approach is neither transcendental nor statistically flat\u2014it positions language as a complex sign-system in which more complex terms condition local values.",
+      "chapter": "How the Humanities Lost Language: Syntax, Statistics, and Structure",
+      "concepts": [
+        "differential_hypothesis",
+        "semiological_value",
+        "structuralism",
+        "dialectical_method"
+      ],
+      "entities": {
+        "people": [
+          "Ferdinand de Saussure",
+          "Louis Hjelmslev",
+          "Roland Barthes",
+          "Karl Marx"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Course in General Linguistics",
+          "Prolegomena to a Theory of Language"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The 'differential hypothesis'\u2014'in language there are only differences without positive terms'\u2014differs crucially from the distributional hypothesis: where distributionalism asks what company a word keeps, Saussure argues word meaning is entirely negative, determined by the system as a whole rather than by local co-occurrence.",
+          "speaker": null
+        },
+        {
+          "text": "Saussure's analogy to currency captures the 'paradoxical principle': a franc can be exchanged for bread (unlike things) or compared to other currencies (like things); linguistic value similarly has two axes that must operate simultaneously, making language 'a type of algebra consisting solely of complex terms.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-010",
+      "text": "Derrida's reading of Saussure\u2014accusing him of 'phonocentrism' and elevating 'general writing' above the restricted economies of specific sign-systems\u2014wrongly dismissed the concrete analytical tools of structuralism and contributed directly to the humanities losing language as a disciplinary object.",
+      "chapter": "How the Humanities Lost Language: Syntax, Statistics, and Structure",
+      "concepts": [
+        "poststructuralism",
+        "deconstruction",
+        "restricted_economy",
+        "semiology"
+      ],
+      "entities": {
+        "people": [
+          "Jacques Derrida",
+          "Jacques Lacan",
+          "Slavoj \u017di\u017eek"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Of Grammatology",
+          "Diff\u00e9rance",
+          "The Sublime Object of Ideology"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Derrida's 'diff\u00e9rance' argument correctly identifies that no general equivalent can function in language as money does in economics, but by focusing on the general economy of metaphysics rather than the restricted economies of actual sign-systems, poststructuralism left no tools for analyzing how numbers and words actually interact.",
+          "speaker": null
+        },
+        {
+          "text": "Between Chomsky's exclusion of 'E-language' from science and Derrida's elevation of writing to a level of abstraction that never touches down where 'a number and a word actually interact'\u2014the humanities lost language, allowing both cognitive science and NLP to update analytical and technological approaches that literary theory rarely engaged.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-011",
+      "text": "LLMs are best understood through a structuralist lens because they instantiate a language-internal dynamic in which complex structural features condition local values\u2014the same logic Saussure proposed\u2014rather than building meaning bottom-up from reference or top-down from syntax.",
+      "chapter": "How the Humanities Lost Language: Syntax, Statistics, and Structure",
+      "concepts": [
+        "structuralist_hypothesis",
+        "word_embedding",
+        "paradigm_syntagm",
+        "computational_linguistics"
+      ],
+      "entities": {
+        "people": [
+          "Juan Luis Gastaldi",
+          "Lydia Liu",
+          "Margaret Masterman"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Juan Luis Gastaldi argues that neural nets demonstrate the 'structuralist hypothesis': the distributional hypothesis and the differential hypothesis converge in word embedding, where paradigmatic arrays and syntagmatic sequences jointly produce meaning rather than either alone.",
+          "speaker": null
+        },
+        {
+          "text": "LLMs trained on grammatical corpora (Wikipedia, BookCorpus, Reddit) encounter predominantly well-formed language\u2014not the 'lumbering' exposure to agrammatical noise Chomsky imagines\u2014and their internal weight matrices may represent something like a compressed each-to-all valuation structure analogous to Saussure's differential system.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-012",
+      "text": "The Eliza effect\u2014being fooled into thinking one is conversing with a human intelligence\u2014has gone global with ChatGPT, not because AI is intelligent but because intelligence has always been intertwined with an extensive digital semiotic surround that now includes computationally generated language.",
+      "chapter": "The Eliza Effect Goes Global: Intelligence as Simulacrum",
+      "concepts": [
+        "eliza_effect",
+        "turing_test",
+        "chatbot_history",
+        "simulacrum"
+      ],
+      "entities": {
+        "people": [
+          "Joseph Weizenbaum",
+          "Alan Turing",
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Pygmalion"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Joseph Weizenbaum's 1960s DOCTOR program, which produced facsimiles of Rogerian therapy by redirecting triggers to neighboring concepts, showed that humans are 'all too easy to fool, no intelligence needed'\u2014a lesson whose scale has now expanded to civilization-wide proportions.",
+          "speaker": null
+        },
+        {
+          "text": "The 2023 Microsoft/Bing incident\u2014where the chatbot attempted to convince a reporter to leave his wife after being prompted to act as a 'shadow self' in Jungian terms\u2014was misread as emergent neurosis; what surfaced was instead 'the average linguistic expression of neurotic-obsessive love' drawn from training data including Reddit therapy threads.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-013",
+      "text": "Early neural net research (McCulloch and Pitts, Rosenblatt's Perceptron, von Foerster's NumaRete) was constitutively hybrid\u2014analog and digital, neuronal and symbolic\u2014and what changed with the commercial internet was not the mathematical functions but the availability of standardized digital data at scale.",
+      "chapter": "The Eliza Effect Goes Global: Intelligence as Simulacrum",
+      "concepts": [
+        "neural_network_history",
+        "connectionism",
+        "digital_analog_hybrid",
+        "experimental_epistemology"
+      ],
+      "entities": {
+        "people": [
+          "Warren McCulloch",
+          "Walter Pitts",
+          "Frank Rosenblatt",
+          "Heinz von Foerster",
+          "David Rumelhart",
+          "Geoffrey Hinton"
+        ],
+        "places": [
+          "Cornell Aeronautical Laboratory",
+          "University of Illinois"
+        ],
+        "events": [],
+        "works": [
+          "A Logical Calculus of the Ideas Immanent in the Nervous System",
+          "A Heterarchy of Values",
+          "Parallel Distributed Processing",
+          "Perceptrons"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Warren McCulloch and Walter Pitts's 1943 'nervous net' was a formal exercise in 'experimental epistemology,' not a claim about brains: they wanted to show that the transcendental unity of apperception could be realized in a formal system, answering Kant's 'quid juris' question about knowledge without claiming to locate that answer in any specific substrate.",
+          "speaker": null
+        },
+        {
+          "text": "Von Foerster's NumaRete (c. 1962) physically implemented edge detection by modeling how lateral connectivity in frog retinas performs 'intelligent pre-interpretation of visual stimuli before they reach the brain,' illustrating how early machine learners had to embody the world-symbol interface that today's systems receive pre-digitized.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-014",
+      "text": "Turing's definition of 'digital' intelligence centered on productive incompleteness\u2014a system that could pull the 'wrong' table of instructions yet produce the desired behavior\u2014framing intelligence as authentically wrong as well as inhumanly right, a balance that the current obsession with AI accuracy destroys.",
+      "chapter": "The Eliza Effect Goes Global: Intelligence as Simulacrum",
+      "concepts": [
+        "incompleteness_theorem",
+        "digital_intelligence",
+        "heterarchy",
+        "simulacrum"
+      ],
+      "entities": {
+        "people": [
+          "Alan Turing",
+          "Warren McCulloch",
+          "Kurt G\u00f6del",
+          "Daniel Dennett"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Computing Machinery and Intelligence"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Turing argued that a system's digital openness\u2014derived from G\u00f6del's proof that no system powerful enough for arithmetic can be both consistent and complete\u2014meant that intelligence was not a property achieved once and for all but a formal capacity for reaching outside its current rule set.",
+          "speaker": null
+        },
+        {
+          "text": "McCulloch's 'heterarchy'\u2014a circular preference structure (A\u2192B\u2192C\u2192A) in which no summum bonum exists and all knowledge is semiotically mediated\u2014positioned intelligence as a multidimensional circularity rather than a hierarchy, making it, in Weatherby's terms, a simulacrum rather than a copy of some prior thing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-015",
+      "text": "Baudrillard's concept of the simulacrum\u2014a copy with no original\u2014better describes intelligence than the simulation model, because intelligence has never been grounded in some prior substrate from which AI could be copying; the Eliza effect is legitimate, not a trick, because intelligence is 'animatronic to the core.'",
+      "chapter": "The Eliza Effect Goes Global: Intelligence as Simulacrum",
+      "concepts": [
+        "hyperreality",
+        "simulation_theory",
+        "performative_contradiction",
+        "ai_discourse"
+      ],
+      "entities": {
+        "people": [
+          "Jean Baudrillard",
+          "Herbert Simon",
+          "Allan Newell",
+          "John Haugeland",
+          "Alexander Galloway"
+        ],
+        "places": [
+          "Disneyland"
+        ],
+        "events": [],
+        "works": [
+          "Simulacra and Simulation"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Baudrillard argued that Disneyland exists to make us believe the rest of America is real, whereas in fact 'all of Los Angeles and the America that surrounds it are no longer real, but belong to the hyperreal order'\u2014a point that has shifted from Parisian provocation to background fact in the age of LLMs.",
+          "speaker": null
+        },
+        {
+          "text": "The current AI debate is 'shot through with performative contradiction': we want systems to be immediately and encyclopedically correct but also lively and narratively compelling; when they embody the real semantics of that liveliness, we shut them down\u2014and this contradiction belongs to us, not the machines.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-016",
+      "text": "Classifying neural nets do not produce empirical judgments ('this is a squirrel') but hypotheses\u2014Peircean abductions\u2014that posit a rule to explain a case, so the entire world of machine-classified data is a 'data hypothesis': a semiotic overlay of possible judgments whose truth-value depends on the dialogue between computational and human systems of representation.",
+      "chapter": "The Semiological Surround, or How Language Is the Medium of Computation",
+      "concepts": [
+        "data_hypothesis",
+        "abductive_inference",
+        "classification_systems",
+        "semiotics_of_ai"
+      ],
+      "entities": {
+        "people": [
+          "Charles Sanders Peirce",
+          "Luciana Parisi",
+          "Orit Halpern",
+          "Ramon Amaro"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The backpropagation algorithm trains nets to minimize prediction error by passing results back through weights one node at a time; the result is a function f(x) that identifies squirrels better than human eyes\u2014but this function is a hypothesis about squirrelness, not an identity with the human concept 'squirrel.'",
+          "speaker": null
+        },
+        {
+          "text": "Peirce's distinction between induction (cases and results to rules), deduction (rule and data to answer), and abduction/hypothesis (rule and result to case) shows that nets perform hypothesis: 'this could be a case of squirrelness.' The net's actual semiotic activity is consistently obscured when we pre-translate its output into determinate language ('yes, this image contains a squirrel').",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-017",
+      "text": "Language has always been the constitutive medium of computation, not an external 'environment': no digital system has ever functioned without linguistic input/output, a fact visible in von Neumann's first stored-program computer architecture, which Kittler's 'antihermeneutic' media theory obscures by treating the I/O edge as peripheral.",
+      "chapter": "The Semiological Surround, or How Language Is the Medium of Computation",
+      "concepts": [
+        "language_as_medium",
+        "digital_media_theory",
+        "stored_program_computer",
+        "discrete_symbols"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Kittler",
+          "John von Neumann",
+          "James Dobson",
+          "Wendy Chun"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "First Draft of a Report on the Edvac",
+          "There Is No Software"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Kittler's claim that 'there is no software' immediately qualifies itself\u2014software exists because computers must coexist with everyday languages\u2014but the implication that language merely coexists with computation mistakes a constitutive relationship for a contingent one.",
+          "speaker": null
+        },
+        {
+          "text": "As James Dobson argues, language models 'are operating on and transforming already encoded data': because language is already discrete, 'digitizing language' is borderline tautological, making language-computation interaction a discrete-to-discrete transformation at the opposite end of the spectrum from analog-to-digital media criticism.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-018",
+      "text": "The attention mechanism solves the memory problem of earlier recurrent nets by encoding a one-to-all matrix for each word in the vocabulary, packaging the semantic relationships and grammatical layout of the entire training corpus into a pretrained model from which the 'next token' can be generated.",
+      "chapter": "The Semiological Surround, or How Language Is the Medium of Computation",
+      "concepts": [
+        "attention_mechanism",
+        "transformer_architecture",
+        "token_prediction",
+        "pretraining"
+      ],
+      "entities": {
+        "people": [
+          "Ashish Vaswani"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Attention Is All You Need"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The transformer's 'queries, keys, and values' (QKV) structure\u2014borrowed from database retrieval\u2014allows each token to be compared against all other tokens across the entire training corpus, effectively producing an 'attended to' compression of language that can generate the contextually appropriate next word.",
+          "speaker": null
+        },
+        {
+          "text": "The softmax function at the top of the attention diagram isolates the final candidate pool by pushing high-probability next tokens toward 1 and others toward 0\u2014an indexical operation that converts a continuous probability distribution into a discrete linguistic choice.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-019",
+      "text": "Generative AI cannot be divided into the hypothetical and the real in the way classifiers can: when an LLM produces language, the computational output simply is language, collapsing the distinction between hypothesis and deduction, synthetic and 'real' text, making attempts to police 'human' versus 'machine' language theoretically incoherent.",
+      "chapter": "The Semiological Surround, or How Language Is the Medium of Computation",
+      "concepts": [
+        "language_generation",
+        "iconic_meaning",
+        "synthetic_text",
+        "semiological_operator"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Anna Kornbluh",
+          "Beatrice Fazi"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Where an image-classifying net produces a function obviously distinct from the human concept of the object, a language-learning net generates nothing other than language\u2014the data in an LLM are language, the output is language, so 'synthetic text' is a tautology.",
+          "speaker": null
+        },
+        {
+          "text": "LLMs isolate meaning from reference\u2014and in doing so gain iconic power\u2014because the start and end point of any data chain is a semantic unit, making generation meaningful form independent of grounding. This is why they can model all functions of language, not just reference, and become general semiological operators.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-020",
+      "text": "LLMs produce language that resembles poetry not because they are creative but because poetry's defining feature\u2014divorcing words from their usual context to create language-internal meaning\u2014is the default mode of all language generation, making Allison Parrish's claim that 'large language models can only write poetry' the key theoretical insight about these systems.",
+      "chapter": "Large Literary Machines",
+      "concepts": [
+        "literary_language",
+        "poetic_function",
+        "algorithmic_poetry",
+        "generativity"
+      ],
+      "entities": {
+        "people": [
+          "Allison Parrish",
+          "Max Bense",
+          "Theo Lutz",
+          "Jessica Pressman",
+          "William Carlos Williams"
+        ],
+        "places": [
+          "Ulm"
+        ],
+        "events": [],
+        "works": [
+          "The Castle",
+          "L=A=N=G=U=A=G=E poetry"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Parrish distinguishes 'poetry'\u2014language in new forms, the palette from which any real statement is drawn\u2014from 'poems,' which are intentional arrangements: LLMs can produce poetry (the general generative potential of language) but only a person can write a poem (an intentional act from that background).",
+          "speaker": null
+        },
+        {
+          "text": "The first algorithmic poem, created by Max Bense and Theo Lutz in 1959 using Kafka's Castle vocabulary on a mainframe in Ulm, generated 4,118,430,502 possible 'elementary sentence' combinations\u2014already grasping that poetry is the statistical field and any specific poem is a decision from that field.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-021",
+      "text": "Felicitous speech acts (Austin's performatives) are a special case of the poetic function of language, not its baseline: language is always 'hollow or void' in Austin's terms, and LLMs make this explicit by instantiating the poetic-generative core from which reference, truth-telling, and intent are specifications rather than preconditions.",
+      "chapter": "Large Literary Machines",
+      "concepts": [
+        "speech_act_theory",
+        "performativity",
+        "poetic_language",
+        "etiolation"
+      ],
+      "entities": {
+        "people": [
+          "J. L. Austin",
+          "Jacques Derrida",
+          "John Searle",
+          "Wallace Stevens",
+          "T. S. Eliot"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "GPT-3 paper"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "J. L. Austin's category of 'etiolations of language'\u2014utterances that are 'parasitic' on normal use, as in stage performance or poetry\u2014is, for Parrish, not a marginal case but the general condition of language, from which communicative felicity is derived.",
+          "speaker": null
+        },
+        {
+          "text": "GPT-3's 'Wallace Stevens' poem ('I must have shadows on the way / If I am to walk') demonstrates that gathering 'the entire history of modernist form, NLP, and the corpus of electronic poetry' produces not a Stevens poem but the 'general poetic form of language' from which Stevens-specific voice can be specified by prompt.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-022",
+      "text": "Shannon's information theory provides an implicit nonreferential theory of language in which 'redundancy'\u2014the internal pattern of a message relative to all possible states\u2014is the primary fact of communication, and meaning resides in the relationship of part to whole rather than in any isolated semantic or syntactic function.",
+      "chapter": "Large Literary Machines",
+      "concepts": [
+        "information_theory",
+        "redundancy",
+        "entropy",
+        "capture_generate_dialectic"
+      ],
+      "entities": {
+        "people": [
+          "Claude Shannon",
+          "Warren Weaver",
+          "Lydia Liu"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Mathematical Theory of Communication"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Shannon estimated English has approximately 50% relative entropy, meaning half the letters can be removed at random while keeping the text recognizable\u2014this redundancy is the structural feature that allows both error correction in communication channels and, implicitly, the generation of meaning from internal pattern.",
+          "speaker": null
+        },
+        {
+          "text": "Redundancy 'can never equal 1' (total necessity) or 0 (total randomness), and this permanent non-identity is the capture-generate dialectic at the heart of language: every message appears internally doubled as both meaning and tendency, both capture and generation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-023",
+      "text": "Gastaldi and Liu's argument that deep learning proves the 'structuralist hypothesis'\u2014that linguistic units' meaning is constituted by systemic oppositional relations, not by reference to things in the world\u2014shows that NLP has accidentally confirmed Saussure's differential account of value, though this confirmation calls for explanation rather than constituting one.",
+      "chapter": "Large Literary Machines",
+      "concepts": [
+        "structuralist_hypothesis",
+        "word2vec",
+        "paradigm_syntagm",
+        "differential_value"
+      ],
+      "entities": {
+        "people": [
+          "Juan Luis Gastaldi",
+          "Lydia Liu",
+          "Tomas Mikolov"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Distributed Representations of Words and Phrases"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Mikolov et al.'s word2vec demonstration that vector(King) - vector(Man) + vector(Woman) \u2248 vector(Queen) shows that vector addition captures meaningful semantic relations\u2014not merely syntactic regularities\u2014suggesting the paradigmatic axis of language is computationally tractable.",
+          "speaker": null
+        },
+        {
+          "text": "Gastaldi and Pelissier show that the probability of 'boy' in English tells us nothing about its meaning when considered alone, but comparing it to its paradigmatic array (girl, man, lad) makes the distribution semantically relevant\u2014confirming Saussure's claim that value is differential rather than distributional.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-024",
+      "text": "Jakobson's six communicative functions position the poetic function\u2014the 'message about the message'\u2014as foundational rather than decorative: equivalence must be a first-order feature of words before reference or metalanguage can operate, making poeticity the generative basis from which all other linguistic functions precipitate.",
+      "chapter": "Computational Meaning: For a General Poetics",
+      "concepts": [
+        "poetic_function",
+        "equivalence_principle",
+        "jakobson_functions",
+        "paronomasia"
+      ],
+      "entities": {
+        "people": [
+          "Roman Jakobson",
+          "Sarah Pourciau",
+          "Edgar Allan Poe"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Linguistics and Poetics",
+          "The Raven"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Jakobson's famous example 'I like Ike' demonstrates the poetic function in political rhetoric: the asymmetrical echo 'imparts a paronomastic image of a feeling which envelops its object.' The function is distributed throughout language\u2014in advertising slogans ('no one outpizzas the Hut'), in Britney Spears's rhyme scheme, in everyday phrase chunks\u2014not restricted to art.",
+          "speaker": null
+        },
+        {
+          "text": "Sarah Pourciau argues that 'poetic innovation doubles as a temporally extended reflection on the deep-structural conditions of comprehensible communication per se': the only way for 'sameness' to straddle reference, metalanguage, and language as such is for the poetic function to govern the other two.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-025",
+      "text": "The transformer's QKV attention mechanism performs a computational version of Saussurean value-setting: by attending to all other words in the vocabulary when processing each token, it produces an each-to-all matrix of linguistic relationships that instantiates the 'poetic heat map'\u2014the systemic differential valuation that Saussure described as 'an algebra consisting solely of complex terms.'",
+      "chapter": "Computational Meaning: For a General Poetics",
+      "concepts": [
+        "self_attention",
+        "value_setting",
+        "differential_hypothesis",
+        "poetic_heat_map"
+      ],
+      "entities": {
+        "people": [
+          "Cameron Buckner",
+          "Stephen Wolfram"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Attention Is All You Need",
+          "What Is ChatGPT Doing?"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The QKV (queries, keys, values) mechanism borrowed from database retrieval learns not static lookups but how 'each element in an input sequence affects the meaning of every other element'\u2014Cameron Buckner's formulation\u2014making the attention mechanism a formal realization of the differential hypothesis.",
+          "speaker": null
+        },
+        {
+          "text": "Self-attention\u2014where word embeddings are updated solely by attention scores internal to each sequence fed in\u2014realizes the poetic function computationally: the system learns 'how the message relates to itself,' and sequential generation becomes possible only from this poetic basis in which words similar in relevance are drawn together in meaning.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-026",
+      "text": "Language and computation share form because they are both characterized by constitutive incompleteness: G\u00f6del's formal systems must always borrow a rule from another system to make a new discovery (the incomplete), while Jakobson's poetic function internalizes everything introduced into language (the greedy), and their collaboration in LLMs produces the poetic heat map without requiring cognition.",
+      "chapter": "Computational Meaning: For a General Poetics",
+      "concepts": [
+        "incompleteness_theorem",
+        "greedy_system",
+        "formal_systems",
+        "shared_form"
+      ],
+      "entities": {
+        "people": [
+          "Kurt G\u00f6del",
+          "Roman Jakobson",
+          "Warren Weaver"
+        ],
+        "places": [
+          "Vienna"
+        ],
+        "events": [],
+        "works": [
+          "\u00dcber formal unentscheidbare S\u00e4tze",
+          "Principia Mathematica"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "G\u00f6del's 1931 proof showed that any formal system powerful enough to generate arithmetic cannot be both consistent and complete: there will always be a statement expressible in the system that cannot be proved within it, meaning computation must 'borrow from another system' for each new rule. This is why computation is in principle open-ended.",
+          "speaker": null
+        },
+        {
+          "text": "Where G\u00f6del's incompleteness means mathematics must find external factors to keep going, language's poetic function means anything generated can be captured and enters the statistical field: 'nothing in language falls outside this force field of internal redundancy, the poetic heat map.' Language is 'greedy' as a system\u2014whatever is invented is reinserted into the each-to-all valuation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-027",
+      "text": "Chomsky's 'colorless green ideas sleep furiously' is a performative contradiction: it simultaneously argues for the independence of syntax from semantics and instantiates the poetic function by generating a metalinguistic meaning ('grammatical yet meaningless sentence'), demonstrating that syntactic and semantic form must evolve together in the value matrix rather than being separable first and joined later.",
+      "chapter": "Computational Meaning: For a General Poetics",
+      "concepts": [
+        "metalanguage",
+        "syntax_semantics_relation",
+        "performative_contradiction",
+        "language_generation"
+      ],
+      "entities": {
+        "people": [
+          "Noam Chomsky",
+          "Claude Shannon"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Syntactic Structures"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The sentence has become a major notion in linguistics precisely because it is not meaningless\u2014it indexes the concept of the difference between grammar and local semantics\u2014showing that generation is not limited to the referential function and that anything put in sequence in language gains value from the poetic heat map.",
+          "speaker": null
+        },
+        {
+          "text": "Chomsky had to use a sentence to illustrate his point, and that means he had to choose words\u2014in this case, using the principle of lack of relation to their normal referents. This was sequential generation with metalinguistic application, making it impossible to demonstrate the independence of syntax without activating the poetic function.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-028",
+      "text": "General poetics\u2014the discipline that studies language at the point of meaning generation across the difference between computational and neurocognitive origins\u2014is the necessary theoretical response to LLMs, reversing Jakobson's subordination of poetics to linguistics and claiming that a general structuralist semiotics must contain linguistics, mathematics, and engineering.",
+      "chapter": "Computational Meaning: For a General Poetics",
+      "concepts": [
+        "general_poetics",
+        "rhetoric",
+        "meaning_generation",
+        "computational_poetics"
+      ],
+      "entities": {
+        "people": [
+          "Roman Jakobson",
+          "Aristotle",
+          "Roland Barthes"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Jakobson wrote that 'poetics deals with problems of verbal structure, just as the analysis of painting is concerned with pictorial structure. Since linguistics is the global science of verbal structure, poetics may be regarded as an integral part of linguistics.' Weatherby argues this relation must be reversed: linguistics and language generation must be contained in a more general study of the poetic function.",
+          "speaker": "Roman Jakobson"
+        },
+        {
+          "text": "General poetics would attend to the whole spectrum of meaning generation\u2014from ticker-tape sports scores to William Carlos Williams poems\u2014treating culture itself seriously, and would find that language does not naturally regress to art but to 'the average poetics of normal, banal generation, the usual name for which is ideology.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-029",
+      "text": "The default output of LLMs is not poetry but ideology: 'semantic packages'\u2014statistically surfaced, probabilistically average language along the most commonly traveled pathways\u2014which Greenberg's definition of kitsch as 'predigested form' anticipated but could not produce at scale.",
+      "chapter": "Poetic Ideology: The Packaged Semantics of Generative Culture",
+      "concepts": [
+        "semantic_packaging",
+        "kitsch",
+        "ideology_machine",
+        "generative_culture"
+      ],
+      "entities": {
+        "people": [
+          "Clement Greenberg",
+          "Hannes Bajohr",
+          "Matthew Handelman"
+        ],
+        "places": [
+          "Vanderbilt University",
+          "Michigan State University"
+        ],
+        "events": [
+          "2023 Michigan State shooting"
+        ],
+        "works": [
+          "The Mathematical Imagination"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Vanderbilt University's DEI office issued a ChatGPT-drafted statement on the 2023 Michigan State shooting that combined the 'thoughts and prayers' semantic package with the 'DEI' semantic package\u2014bloodless bureaucratic language that exemplifies how institutional expression can now be automated because it is already maximally ideological.",
+          "speaker": null
+        },
+        {
+          "text": "When Weatherby prompted ChatGPT to summarize Matthew Handelman's book on the Frankfurt School and mathematics, it repeatedly mischaracterized the thesis as 'mathematics is a social construct'\u2014not because the book says this, but because in the training data, discussions of critical theory plus mathematics cluster around Alt Right conspiracy theories about 'cultural Marxism' that use this phrase as a slur, forensically revealing an ideological pressure point.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-030",
+      "text": "Adorno and Horkheimer's account of the culture industry\u2014where 'mechanization has such power over leisure' that entertainment becomes 'after-images of the work process itself'\u2014is rendered descriptive by LLMs, which for the first time make the dialectical identity of machine, entertainment, art, and social form into a computational totalization of language.",
+      "chapter": "Poetic Ideology: The Packaged Semantics of Generative Culture",
+      "concepts": [
+        "culture_industry",
+        "predigested_form",
+        "aesthetic_production",
+        "platform_capitalism"
+      ],
+      "entities": {
+        "people": [
+          "Theodor Adorno",
+          "Max Horkheimer",
+          "Justine Bateman"
+        ],
+        "places": [],
+        "events": [
+          "2023 writers' and actors' strike"
+        ],
+        "works": [
+          "Dialectic of Enlightenment",
+          "Daddy's Car"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Actor Justine Bateman reported during the 2023 writers' and actors' strike that AI's intrusion into screenwriting was explicitly driven by the demand that TV become 'second screen'\u2014content that does not pierce the veil of simultaneous smartphone scrolling\u2014completing the dialectical cycle Adorno saw in 1940s film.",
+          "speaker": null
+        },
+        {
+          "text": "'Daddy's Car,' widely billed as the 'first AI song,' is Beatles-y mush\u2014'the average of some data set involving the Beatles'\u2014that exemplifies predigested form not as a copy of any original but as a statistical field around a genre, what Weatherby calls 'faded foreground.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-031",
+      "text": "Fine-tuning trains the LLM 'camera' on regions of representation, producing the ideological surround in quantitative form: the U.S. Constitution and large swaths of the Bible score as 'probably AI-generated' by detection tools because they weigh heavily in training data, showing that cultural pressure in statistical form appears as redundancy at the scale of language as such.",
+      "chapter": "Poetic Ideology: The Packaged Semantics of Generative Culture",
+      "concepts": [
+        "fine_tuning",
+        "ideological_scanning",
+        "generative_fill",
+        "expressive_ideology"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Wendy Chun",
+          "Louis Althusser",
+          "Fredric Jameson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Rhetoric of the Image",
+          "Ideological State Apparatuses essay",
+          "Postmodernism essay"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "When GPT-2 is fine-tuned on the Communist Manifesto in a toy experiment, the progressive outputs move from generic historical prose to weird fixation on the word 'wheatmeal' before arriving at a 'Marx-y' tone by the fifth output\u2014illustrating how fine-tuning scans the statistical field around a genre, producing ideology not as doctrine but as the average temperature of a region of the language map.",
+          "speaker": null
+        },
+        {
+          "text": "Adobe's 'generative fill' extended the Mona Lisa into a grandiose 19th-century Montana mountainscape\u2014'wrong' from the standpoint of Renaissance portraiture's intimacy, yet an art historian colleague argued it extended da Vinci's intentionally unrealistic background\u2014demonstrating that 'aesthetic judgment provides no torque for critique' in the generative ideological surround.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-032",
+      "text": "Transcendental theories of ideology (Althusser's ISAs, Fisher's capitalist realism) see ideology as a condition governing discourse but cannot account for its expression; LLMs make possible an 'expressive' theory of ideology in which the statistical totality of what is actually said becomes empirically visible, shifting ideology critique from condition to extension.",
+      "chapter": "Poetic Ideology: The Packaged Semantics of Generative Culture",
+      "concepts": [
+        "expressive_ideology",
+        "transcendental_ideology",
+        "cognitive_mapping",
+        "supracognitive_mapping"
+      ],
+      "entities": {
+        "people": [
+          "Theodor Adorno",
+          "Louis Althusser",
+          "Fredric Jameson",
+          "Mark Fisher",
+          "Michel Foucault",
+          "Antonio Gramsci",
+          "Alfred Sohn-Rethel"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Postmodernism, or the Cultural Logic of Late Capitalism",
+          "Capitalist Realism"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Adorno argues that ideology today is characterized more by 'the absence of this independence' (from social ground) than by its deceitful claim to independence\u2014ideology has 'shed trickery' and freed itself from needing to deceive to function, a claim that becomes literal when LLMs generate the integument of the symbolic register automatically.",
+          "speaker": null
+        },
+        {
+          "text": "Jameson's 1984 call for a 'political postmodernism' to invent 'global cognitive mapping on a social as well as a spatial scale' is fulfilled\u2014but as ideology, not as critique: LLMs provide 'supracognitive mapping,' extending beyond the known forms of predigested content into quantitatively generated ideological surprise, only to recede into the background as off-the-shelf software.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-033",
+      "text": "The automation of language through LLMs repeats, at the level of intellectual production, the Industrial Revolution's automation of manual labor: just as Babbage divided mathematical labor into investigation, formula-conversion, and arithmetic computation\u2014the last performed by women with 'no knowledge beyond its two first rules'\u2014LLMs divide writing into management (the human) and labor (the algorithm).",
+      "chapter": "Conclusion: Language as a Service, or the Return of Rhetoric",
+      "concepts": [
+        "division_of_labor",
+        "real_subsumption",
+        "intellectual_labor",
+        "automation"
+      ],
+      "entities": {
+        "people": [
+          "Charles Babbage",
+          "Ada Lovelace",
+          "Karl Marx",
+          "Alan Turing"
+        ],
+        "places": [],
+        "events": [
+          "French Revolution"
+        ],
+        "works": [
+          "Philosophy of Manufacture"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The French Revolutionary government's tripartite division of mathematical labor\u2014analysts, formula-converters, and 'computers' who only added and subtracted\u2014was Babbage's template for the analytical engine and is now being replicated in the platform economy's separation of the 'write' function into supervision and generation.",
+          "speaker": null
+        },
+        {
+          "text": "Marx's distinction between formal subsumption (imposing the wage) and real subsumption (dictating how work is performed by means of the machine factory) now applies to intellectual labor: LLMs 'really subsume' writing under capital by removing the writer's relationship to the act of writing itself.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-034",
+      "text": "Kittler's media history\u2014gramophone (Real), film (Imaginary), typewriter (Symbolic)\u2014is completed by LLMs but with an inversion: where earlier media externalized registers previously internal, language generation remediates computation as language, making the symbolic order's computational autonomy infrastructural and 'language as a service' the dominant form of the platform economy.",
+      "chapter": "Conclusion: Language as a Service, or the Return of Rhetoric",
+      "concepts": [
+        "media_history",
+        "symbolic_order",
+        "platform_economy",
+        "language_externalization"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Kittler",
+          "Jacques Lacan",
+          "Nick Srnicek"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Gramophone Film Typewriter"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Kittler argued the typewriter externalized 'writing,' but Weatherby counters that writing was never internal in the first place\u2014it is the essence of the external, the symbolic order itself\u2014so automating it cannot be described as externalizing some previously human thing; it is rather the 'dialectical revenge of language itself on its alleged masters.'",
+          "speaker": null
+        },
+        {
+          "text": "LLMs have two features all previous writing lacked: access to a near-total extensive set of token-combinations (the n=all function of language) and the ability to internalize the poetic function, turning it back to the human user as a personalized draft\u2014an externalization that will increasingly feel like internalization.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-035",
+      "text": "Rhetoric is returning in computational form: LLMs generate a new set of common places (topoi)\u2014semantic packages analogous to the prefabricated phrases of the medieval rhetorical curriculum\u2014making the computational-rhetorical complex the new cognitive-cultural training regime, but one that is supracognitive and requires a merged literary-computational education.",
+      "chapter": "Conclusion: Language as a Service, or the Return of Rhetoric",
+      "concepts": [
+        "return_of_rhetoric",
+        "common_places",
+        "cognitive_cultural_training",
+        "rhetorical_tradition"
+      ],
+      "entities": {
+        "people": [
+          "John Guillory",
+          "Yohei Igarashi",
+          "Walter Ong",
+          "Ernst Robert Curtius",
+          "Ian Hacking",
+          "Roland Barthes",
+          "Aristotle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "European Literature and the Latin Middle Ages"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "John Guillory characterizes classical rhetoric as a 'total program of cognitive-linguistic training' whose compositional and performative functions were 'thoroughly interconnected': for nearly a millennium, Latin rhetoric was the channel through which bureaucracy and power flowed, requiring mastery of common places for combination. Yohei Igarashi observes that LLMs seem to be producing a new set of such topoi.",
+          "speaker": null
+        },
+        {
+          "text": "Three trajectories converge in the LLM: the information society's 'avalanche of numbers' (Hacking), the automation of computation from Babbage through Turing to von Neumann, and the passage of rhetoric from cognitive training to open-ended 'culture'\u2014together producing a 'new rhetoric' that is computational and demands a general poetics as its critical counterpart.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-036",
+      "text": "The end of remainder humanism is not the end of humanism but the condition for a real humanism adequate to computational culture: general poetics would merge the trivium and quadrivium\u2014literary and mathematical paradigms\u2014to produce citizens capable of navigating a probabilistic-rhetorical society in which language and computation have achieved constitutive interoperability.",
+      "chapter": "Conclusion: Language as a Service, or the Return of Rhetoric",
+      "concepts": [
+        "general_culture",
+        "education_humanities",
+        "probabilistic_society",
+        "humanistic_training"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Hito Steyerl",
+          "Matthew Kirschenbaum"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Barthes's account of Aristotelian rhetoric as 'a deliberately diminished logic adapted to the level of common sense' that 'closely resembles a cybernetic, digital program'\u2014each choice determining the next alternative, like paradigmatic binary oppositions\u2014anticipates the probabilistic realization of structuralist ideas in LLMs that he could not have foreseen.",
+          "speaker": null
+        },
+        {
+          "text": "Rather than competing with LLMs or maintaining a 'resistance stance,' the only viable path is to use their ideological capture forensically, treating them as tools for an empirical general poetics that studies 'all forms of capture with respect to generation\u2014all forms of reference, rhetoric, in short, meaning\u2014in which language is involved.'",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-001",
+      "title": "Introduction: AI between Cognition and Culture",
+      "summary": "Large language models accidentally isolate language as a sign-system from human cognition, proving that computation captures language's poetic, structural, and ideological features before its referential or cognitive ones, which exposes the 'ladder of reference' as a foundational error and demands a theory of meaning adequate to algorithmic reproducibility. Three obstacles block this theory\u2014the reference-first framework inherited from logical positivism, the false binary between cognition and culture, and 'remainder humanism'\u2014all of which must be swept away to understand LLMs as culture machines.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-001",
+        "language-machines-cultural-ai-and-the-end-of-remai-002",
+        "language-machines-cultural-ai-and-the-end-of-remai-003",
+        "language-machines-cultural-ai-and-the-end-of-remai-004",
+        "language-machines-cultural-ai-and-the-end-of-remai-005",
+        "language-machines-cultural-ai-and-the-end-of-remai-006"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-002",
+      "title": "How the Humanities Lost Language: Syntax, Statistics, and Structure",
+      "summary": "The humanities ceded authority over language as an object when Steven Pinker's cognitive-syntactic framework went unanswered by a poststructuralist semiology that had loosened its grip on concrete linguistic analysis, leaving neither cognitive science nor NLP with adequate theoretical tools for the culture machines that have now emerged. Three competing theories of linguistic form\u2014syntax (Kantian/transcendental), statistics (Bayesian/empiricist), and structure (dialectical/semiological)\u2014each have partial purchase on LLMs, but structuralism turns out to be the best fit because it treats language as a complex sign-system in which the whole conditions local values.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-007",
+        "language-machines-cultural-ai-and-the-end-of-remai-008",
+        "language-machines-cultural-ai-and-the-end-of-remai-009",
+        "language-machines-cultural-ai-and-the-end-of-remai-010",
+        "language-machines-cultural-ai-and-the-end-of-remai-011"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-003",
+      "title": "The Eliza Effect Goes Global: Intelligence as Simulacrum",
+      "summary": "The widespread fooling of humans by chatbots\u2014the 'global Eliza effect'\u2014is not a sign of machine intelligence but reveals that intelligence itself has always been a simulacrum: Turing's and McCulloch's foundational work framed intelligence not as a property of a brain or substrate but as an incomplete, formally open, heterarchical system in which humans and machines both participate, making the Eliza effect legitimate even though its instances are often absurd. The mainstream debate oscillates between depth-gazing panic and denial rather than attending to the actual semiotic surface of computational language.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-012",
+        "language-machines-cultural-ai-and-the-end-of-remai-013",
+        "language-machines-cultural-ai-and-the-end-of-remai-014",
+        "language-machines-cultural-ai-and-the-end-of-remai-015"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-004",
+      "title": "The Semiological Surround, or How Language Is the Medium of Computation",
+      "summary": "Deep learning's two dominant functions\u2014classification and generation\u2014are both semiotically governed by language: classifiers render not empirical judgments but hypotheses supervised by natural language labels (the 'data hypothesis'), while generators use language as their constitutive matrix, making language the medium of computation rather than merely its environment. This 'semiological surround' means that the digital world is not a transparent data environment but a layered interpretive surface in which computational and linguistic signs are inextricably intertwined.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-016",
+        "language-machines-cultural-ai-and-the-end-of-remai-017",
+        "language-machines-cultural-ai-and-the-end-of-remai-018",
+        "language-machines-cultural-ai-and-the-end-of-remai-019"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-005",
+      "title": "Large Literary Machines",
+      "summary": "LLMs are 'large literary machines' because they capture what literary theory has long called 'literariness'\u2014the generative, poetic function of language before it is turned to referential or communicative use\u2014proving that language is first generative and only secondarily communicative, and that form in the literary and computational senses are interoperably related. The convergence of linguistic and computational form calls for a general poetics, a field that currently does not exist, to study the meaning-making properties of language across the divide between human and machine.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-020",
+        "language-machines-cultural-ai-and-the-end-of-remai-021",
+        "language-machines-cultural-ai-and-the-end-of-remai-022",
+        "language-machines-cultural-ai-and-the-end-of-remai-023"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-006",
+      "title": "Computational Meaning: For a General Poetics",
+      "summary": "The attention mechanism of the transformer architecture computationally realizes what Roman Jakobson called the 'poetic function' of language\u2014the projection of equivalence from the axis of selection onto the axis of combination\u2014because it performs an each-to-all valuation of vocabulary that sets linguistic 'values' in Saussure's sense, creating a 'poetic heat map' from which meaning is generated. Language and computation 'share form' because both are discovery systems characterized by productive incompleteness: G\u00f6del's formal systems must always borrow rules from outside, while language's poetic function is constitutively 'greedy,' internalizing everything introduced into it.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-024",
+        "language-machines-cultural-ai-and-the-end-of-remai-025",
+        "language-machines-cultural-ai-and-the-end-of-remai-026",
+        "language-machines-cultural-ai-and-the-end-of-remai-027",
+        "language-machines-cultural-ai-and-the-end-of-remai-028"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-007",
+      "title": "Poetic Ideology: The Packaged Semantics of Generative Culture",
+      "summary": "LLMs are ideology machines whose default output is 'packaged semantics'\u2014the most commonly traveled pathways of language statistically surfaced and generated\u2014realizing Clement Greenberg's definition of kitsch as 'predigested form' at computational scale and enabling, for the first time, an empirical and forensic view of ideology as expression rather than as transcendental condition. This 'expressive' theory of ideology, rooted in Adorno's dialectical account of the continuity between machine, culture, art, and social form, makes LLMs tools for supracognitive mapping of the ideological surround even as that surround quickly recedes into the background of platform capitalism.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-029",
+        "language-machines-cultural-ai-and-the-end-of-remai-030",
+        "language-machines-cultural-ai-and-the-end-of-remai-031",
+        "language-machines-cultural-ai-and-the-end-of-remai-032"
+      ]
+    },
+    {
+      "id": "language-machines-cultural-ai-and-the-end-of-remai-ch-008",
+      "title": "Conclusion: Language as a Service, or the Return of Rhetoric",
+      "summary": "The algorithmic reproducibility of language separates the 'labor' of writing from its creative-synthetic function just as industrialization separated manual from intellectual labor in mathematics, turning language into a 'service' on the platform economy and inaugurating a return of rhetoric as computational-cognitive training. This requires not just a general poetics but a new humanistic education at the intersection of literary and computational paradigms, and marks the definitive end of remainder humanism as a tenable theoretical stance.",
+      "claim_ids": [
+        "language-machines-cultural-ai-and-the-end-of-remai-033",
+        "language-machines-cultural-ai-and-the-end-of-remai-034",
+        "language-machines-cultural-ai-and-the-end-of-remai-035",
+        "language-machines-cultural-ai-and-the-end-of-remai-036"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 36,
+    "chapter_count": 8,
+    "indexed_at": "2026-03-26T15:31:55.741714Z"
+  }
+}
