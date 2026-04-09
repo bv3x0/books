@@ -1,5 +1,5 @@
-# Hugo uses this to generate absolute permalinks during production builds.
-# Keep it aligned with the live site domain; replacing it with a placeholder breaks navigation.
+# Production fallback baseURL.
+# Vercel preview builds override this at build time with the active deployment URL.
 baseURL = "https://bbnotes.vercel.app/"
 languageCode = "en-us"
 title = "Book Summaries"

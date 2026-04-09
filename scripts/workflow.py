@@ -5,7 +5,7 @@ Unified daily workflow wrapper.
 Commands:
   add      -> run app/main.py for one book
   publish  -> run app/cli/publish.py publish
-  ship     -> run publish, then git push
+  ship     -> run publish, then commit/push with an explicit preview or production target
   smoke    -> run local smoke checks for publish/build/search surfaces
 """
 
@@ -24,6 +24,7 @@ from app.bootstrap import project_python_executable
 
 
 PYTHON = project_python_executable()
+PRODUCTION_BRANCH = os.environ.get("SUMMARIZER_PRODUCTION_BRANCH", "main")
 
 
 def run_cmd(cmd: list[str]) -> int:
@@ -47,6 +48,15 @@ def print_completed_process_output(result: subprocess.CompletedProcess[str]) -> 
         print(result.stdout, end="")
     if result.stderr:
         print(result.stderr, end="", file=sys.stderr)
+
+
+def get_current_branch_name() -> str | None:
+    """Return the current git branch name, if available."""
+    result = run_captured_cmd(["git", "branch", "--show-current"])
+    if result.returncode != 0:
+        return None
+    branch = result.stdout.strip()
+    return branch or None
 
 
 def add_command(args: argparse.Namespace) -> int:
@@ -88,6 +98,28 @@ def publish_command(args: argparse.Namespace) -> int:
 
 
 def ship_command(args: argparse.Namespace) -> int:
+    branch = get_current_branch_name()
+    branch_display = branch or "<detached-head>"
+    preview_only_push = branch != PRODUCTION_BRANCH
+
+    if preview_only_push and not args.allow_preview and not args.deploy_production:
+        print(
+            (
+                f"Refusing to ship from '{branch_display}' without an explicit deploy target.\n"
+                f"Pushing '{branch_display}' only updates a Vercel preview deployment.\n"
+                f"Use `python3 scripts/workflow.py ship --allow-preview` for a preview-only push,\n"
+                f"or `python3 scripts/workflow.py ship --deploy-production` to push and deploy this worktree to production."
+            ),
+            file=sys.stderr,
+        )
+        return 2
+
+    if preview_only_push and args.allow_preview:
+        print(
+            f"Preview ship: branch '{branch_display}' will push a preview deployment only.",
+            file=sys.stderr,
+        )
+
     publish_args = argparse.Namespace(
         reconcile=args.reconcile,
         sync_vectors=args.sync_vectors,
@@ -141,7 +173,24 @@ def ship_command(args: argparse.Namespace) -> int:
             )
         return commit_result.returncode
 
-    return run_cmd(["git", "push"])
+    rc = run_cmd(["git", "push"])
+    if rc != 0:
+        return rc
+
+    if args.deploy_production:
+        if branch == PRODUCTION_BRANCH:
+            print(
+                f"Skipped explicit Vercel production deploy: pushing '{PRODUCTION_BRANCH}' already triggers production.",
+                file=sys.stderr,
+            )
+            return 0
+        print(
+            f"Deploying current worktree from '{branch_display}' to Vercel production...",
+            file=sys.stderr,
+        )
+        return run_cmd(["npx", "vercel", "deploy", "--prod", "--yes"])
+
+    return 0
 
 
 def smoke_command(_args: argparse.Namespace) -> int:
@@ -215,7 +264,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     ship = subparsers.add_parser(
         "ship",
-        help="Run publish, then git push",
+        help="Run publish, then commit/push; feature branches require an explicit preview or production target",
     )
     ship.add_argument(
         "--reconcile",
@@ -237,6 +286,16 @@ def build_parser() -> argparse.ArgumentParser:
         "--no-gpg-sign",
         action="store_true",
         help="Create the ship commit without GPG signing",
+    )
+    ship.add_argument(
+        "--allow-preview",
+        action="store_true",
+        help="Allow shipping from a non-production branch when you only want a preview deployment",
+    )
+    ship.add_argument(
+        "--deploy-production",
+        action="store_true",
+        help="After push, deploy the current worktree to Vercel production (useful from non-main branches)",
     )
     ship.set_defaults(handler=ship_command)
 

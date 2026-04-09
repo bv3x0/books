@@ -136,7 +136,9 @@ def rename_book(old_name: str, new_name: str, dry_run: bool = False) -> RenameBo
 
     notes_exists = old_notes.exists()
     index_exists = old_index.exists()
-    destination_exists = new_notes.exists() or new_index.exists()
+    destination_exists = (notes_exists and new_notes.exists()) or (
+        index_exists and new_index.exists()
+    )
 
     updated_claims = 0
     updated_concepts = 0
@@ -172,9 +174,11 @@ def rename_book(old_name: str, new_name: str, dry_run: bool = False) -> RenameBo
             try:
                 concept_registry = ConceptRegistry(CONCEPTS_PATH)
                 for concept in concept_registry.concepts.values():
-                    if old_name in concept.books:
-                        concept.books.remove(old_name)
-                        concept.books.append(new_name)
+                    if old_name in concept.book_claims:
+                        existing_claims = concept.book_claims.pop(old_name)
+                        concept.book_claims[new_name] = (
+                            concept.book_claims.get(new_name, 0) + existing_claims
+                        )
                         updated_concepts += 1
                 concept_registry.save()
             except Exception as e:

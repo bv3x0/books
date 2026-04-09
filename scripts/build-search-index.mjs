@@ -19,72 +19,78 @@ const OUTPUT_DIR = process.env.OUTPUT_DIR
         ? path.join(PROJECT_ROOT, 'blog', 'public')
         : path.join(PROJECT_ROOT, 'public'));
 
+function slugify(title) {
+    return title
+        .toLowerCase()
+        .trim()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/[\s_]+/g, '-');
+}
+
 /**
  * Build a mapping from index filenames to blog post slugs.
- * Reads the blog posts to extract their actual slugs from frontmatter.
+ * Reads the generated blog posts and enforces the canonical slug contract.
  */
 function buildSlugMapping() {
-    const mapping = {};
+    const mapping = new Map();
 
-    // Read all blog posts and extract their slugs
     const posts = fs.readdirSync(BLOG_CONTENT).filter(f => f.endsWith('.md'));
 
     for (const postFile of posts) {
         const content = fs.readFileSync(path.join(BLOG_CONTENT, postFile), 'utf8');
+        const fileSlug = postFile.replace('.md', '');
 
-        // Extract slug from frontmatter
         const slugMatch = content.match(/^slug:\s*"?([^"\n]+)"?/m);
-        const slug = slugMatch ? slugMatch[1].trim() : postFile.replace('.md', '');
+        const slug = slugMatch ? slugMatch[1].trim() : fileSlug;
 
-        // Extract title to help with matching
+        if (slug !== fileSlug) {
+            throw new Error(
+                `Generated post slug mismatch for "${postFile}": `
+                + `frontmatter slug "${slug}" does not match filename slug "${fileSlug}". `
+                + 'Regenerate blog/content from the canonical note filename before building Pagefind.'
+            );
+        }
+
         const titleMatch = content.match(/^title:\s*"?([^"\n]+)"?/m);
         const title = titleMatch ? titleMatch[1].replace(/^"|"$/g, '').trim() : '';
 
-        // The key for mapping is based on how index files are named
-        // Index files use the original book name (with spaces)
-        // We need to match them to blog posts
+        if (mapping.has(fileSlug)) {
+            throw new Error(`Duplicate generated post slug detected: "${fileSlug}"`);
+        }
 
-        mapping[postFile.replace('.md', '')] = {
+        mapping.set(fileSlug, {
             slug,
             title,
             filename: postFile
-        };
+        });
     }
 
     return mapping;
 }
 
 /**
- * Find the blog post slug for a given index file.
+ * Validate that every canonical index file has an exact generated post match.
  */
-function findBlogSlug(indexFilename, slugMapping, bookTitle) {
-    // Try direct match by converting index filename to slug format
-    const indexSlug = indexFilename.replace(/ /g, '-').toLowerCase();
+function findMissingMappings(indexFiles, slugMapping) {
+    return indexFiles
+        .map(file => file.replace('.json', ''))
+        .filter(indexName => !slugMapping.has(slugify(indexName)))
+        .map(indexName => ({
+            indexName,
+            expectedSlug: slugify(indexName)
+        }));
+}
 
-    // Check each blog post for a match
-    for (const [postSlug, data] of Object.entries(slugMapping)) {
-        // Match by title
-        if (data.title && bookTitle &&
-            data.title.toLowerCase() === bookTitle.toLowerCase()) {
-            return data.slug;
-        }
-
-        // Match by slug similarity
-        if (postSlug.startsWith(indexSlug) || indexSlug.startsWith(postSlug)) {
-            return data.slug;
-        }
-
-        // Match by normalized comparison
-        const normalizedIndex = indexFilename.toLowerCase().replace(/[^a-z0-9]/g, '');
-        const normalizedPost = postSlug.toLowerCase().replace(/[^a-z0-9]/g, '');
-        if (normalizedPost.includes(normalizedIndex) || normalizedIndex.includes(normalizedPost)) {
-            return data.slug;
-        }
+function getBlogSlug(indexFilename, slugMapping) {
+    const canonicalSlug = slugify(indexFilename);
+    const post = slugMapping.get(canonicalSlug);
+    if (!post) {
+        throw new Error(
+            `No generated blog post found for canonical index "${indexFilename}" `
+            + `(expected slug "${canonicalSlug}").`
+        );
     }
-
-    // Fallback: convert index filename to slug format
-    console.warn(`  Warning: No exact match for "${indexFilename}", using fallback slug`);
-    return indexFilename.replace(/ /g, '-').toLowerCase();
+    return post.slug;
 }
 
 async function buildSearchIndex() {
@@ -95,7 +101,7 @@ async function buildSearchIndex() {
 
     // Build slug mapping from blog posts
     const slugMapping = buildSlugMapping();
-    console.log(`Found ${Object.keys(slugMapping).length} blog posts\n`);
+    console.log(`Found ${slugMapping.size} blog posts\n`);
 
     // Load concept registry for labels
     const conceptsPath = path.join(INDEX_DIR, '_concepts.json');
@@ -110,6 +116,24 @@ async function buildSearchIndex() {
         f.endsWith('.json') && !f.startsWith('_')
     );
 
+    const missingMappings = findMissingMappings(indexFiles, slugMapping);
+    if (missingMappings.length > 0) {
+        const details = missingMappings
+            .slice(0, 10)
+            .map(({ indexName, expectedSlug }) =>
+                `  - ${indexName} -> expected blog/content/books/${expectedSlug}.md`
+            )
+            .join('\n');
+        const remainder = missingMappings.length > 10
+            ? `\n  ... and ${missingMappings.length - 10} more`
+            : '';
+        throw new Error(
+            'Canonical slug audit failed. Pagefind now requires exact note/index slug alignment.\n'
+            + `${details}${remainder}\n`
+            + 'Rename the canonical book so notes/, index/, vectors, and concepts agree before publishing.'
+        );
+    }
+
     let totalClaims = 0;
 
     for (const file of indexFiles) {
@@ -121,8 +145,7 @@ async function buildSearchIndex() {
         const bookAuthor = bookData.book?.author || '';
         const indexName = file.replace('.json', '');
 
-        // Find the correct blog post slug for this book
-        const blogSlug = findBlogSlug(indexName, slugMapping, bookTitle);
+        const blogSlug = getBlogSlug(indexName, slugMapping);
 
         const claims = bookData.claims || [];
         console.log(`Indexing ${file}: ${claims.length} claims → /books/${blogSlug}/`);

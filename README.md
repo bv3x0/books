@@ -10,9 +10,15 @@ python3 scripts/workflow.py add "book-name"
 python3 scripts/workflow.py smoke
 python3 scripts/workflow.py ship --reconcile full --sync-vectors
 
-# Fast common case: add one book, then publish + push
+# Fast common case on main: add one book, then publish + push
 python3 scripts/workflow.py add "book-name"
 python3 scripts/workflow.py ship
+
+# Feature branch preview-only push
+python3 scripts/workflow.py ship --allow-preview
+
+# Feature branch production deploy
+python3 scripts/workflow.py ship --deploy-production
 
 # Optional: run local smoke checks before ship
 python3 scripts/workflow.py smoke
@@ -52,6 +58,7 @@ This repo now has one deployment boundary and one build contract.
 - `notes/` is the canonical human-readable output
 - `index/` is the canonical machine-readable output
 - `books/@staging/` is transient ingest input
+- Canonical book renames must keep the `notes/` stem and `index/` stem aligned; publish and Pagefind both derive `/books/<slug>/` from that shared slugified stem
 
 ### Derived Artifacts
 
@@ -71,7 +78,8 @@ npm run vercel-build
 That command:
 
 1. builds Hugo from `blog/` into `blog/public`
-2. builds Pagefind into `blog/public/pagefind`
+2. uses the active Vercel deployment URL for preview builds and the production domain for production builds
+3. builds Pagefind into `blog/public/pagefind`
 
 The semantic search runtime is served by:
 
@@ -284,9 +292,11 @@ python3 scripts/workflow.py publish --reconcile reuse  # Publish + reuse-only re
 python3 scripts/workflow.py publish --reconcile full   # Publish + full repair (--apply-all)
 python3 scripts/workflow.py publish --sync-vectors     # Publish + sync vectors to Postgres
 python3 scripts/workflow.py publish --skip-integrity   # Skip integrity gate before build
-python3 scripts/workflow.py ship                       # Publish, then git push
-python3 scripts/workflow.py ship --no-gpg-sign         # Publish, commit without GPG signing, then git push
-python3 scripts/workflow.py ship --reconcile full      # Repair, publish, then git push
+python3 scripts/workflow.py ship                       # Publish, then commit/push from main
+python3 scripts/workflow.py ship --allow-preview       # Publish, then commit/push a non-main branch for preview only
+python3 scripts/workflow.py ship --deploy-production   # Publish, then commit/push and deploy current worktree to Vercel production
+python3 scripts/workflow.py ship --no-gpg-sign         # Publish, commit without GPG signing, then ship
+python3 scripts/workflow.py ship --reconcile full      # Repair, publish, then ship
 python3 app/cli/publish.py publish                     # Direct publish CLI
 python3 app/cli/publish.py publish --reconcile reuse   # Direct CLI with vector repair
 python3 app/cli/publish.py publish --sync-vectors      # Direct CLI with Postgres sync
@@ -302,7 +312,10 @@ Wrapper flags:
 - `python3 scripts/workflow.py publish --reconcile {none,reuse,full}` runs vector/index repair before the build
 - `python3 scripts/workflow.py publish --sync-vectors` migrates local vectors to Postgres after the build
 - `python3 scripts/workflow.py publish --skip-integrity` bypasses `scripts/check_integrity.py`
-- `python3 scripts/workflow.py ship ...` accepts the same flags, then runs `git push`
+- `python3 scripts/workflow.py ship ...` accepts the same publish flags, then stages, commits, and pushes
+- `python3 scripts/workflow.py ship` refuses to run silently from non-`main` branches unless you choose `--allow-preview` or `--deploy-production`
+- `python3 scripts/workflow.py ship --allow-preview` explicitly ships a preview deployment from a non-production branch
+- `python3 scripts/workflow.py ship --deploy-production` pushes the branch, then runs `npx vercel deploy --prod --yes` from the linked repo
 - `python3 scripts/workflow.py ship --no-gpg-sign` bypasses Git commit signing when local pinentry/GPG is unavailable
 
 Direct CLI flags:
@@ -312,7 +325,7 @@ Direct CLI flags:
 - `python3 app/cli/publish.py publish --skip-integrity` skips the pre-build integrity gate
 - `python3 app/cli/publish.py serve --port 1314` changes the local Hugo dev port
 
-Push to `main` for automatic Vercel deployment.
+Push to `main` for automatic Vercel production deployment. Preview deployments now keep their own deployment URL for internal navigation instead of pointing back at production.
 
 ### Smoke Test
 

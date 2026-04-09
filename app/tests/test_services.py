@@ -1,4 +1,6 @@
 import os
+import json
+import sqlite3
 import sys
 import tempfile
 import time
@@ -169,6 +171,8 @@ class WorkflowScriptTests(unittest.TestCase):
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=True,
+            allow_preview=False,
+            deploy_production=False,
         )
         run_cmd_calls = []
 
@@ -184,6 +188,7 @@ class WorkflowScriptTests(unittest.TestCase):
             raise AssertionError(f"unexpected command: {cmd}")
 
         with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="main"),
             mock.patch.object(workflow, "publish_command", return_value=0),
             mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
             mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
@@ -205,6 +210,8 @@ class WorkflowScriptTests(unittest.TestCase):
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=False,
+            allow_preview=False,
+            deploy_production=False,
         )
         output = StringIO()
         error = StringIO()
@@ -224,6 +231,7 @@ class WorkflowScriptTests(unittest.TestCase):
             raise AssertionError(f"unexpected command: {cmd}")
 
         with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="main"),
             mock.patch.object(workflow, "publish_command", return_value=0),
             mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
             mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
@@ -239,6 +247,108 @@ class WorkflowScriptTests(unittest.TestCase):
         combined = output.getvalue() + error.getvalue()
         self.assertIn("Git commit signing failed because pinentry was unavailable.", combined)
         self.assertIn("python3 scripts/workflow.py ship --no-gpg-sign", combined)
+
+    def test_ship_refuses_preview_branch_without_explicit_target(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            allow_preview=False,
+            deploy_production=False,
+        )
+        error = StringIO()
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
+            mock.patch.object(workflow, "publish_command", return_value=0) as publish_command,
+            redirect_stderr(error),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 2)
+        publish_command.assert_not_called()
+        self.assertIn("preview deployment", error.getvalue())
+        self.assertIn("--deploy-production", error.getvalue())
+
+    def test_ship_allows_preview_push_when_requested(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            allow_preview=True,
+            deploy_production=False,
+        )
+        run_cmd_calls = []
+
+        def fake_run_cmd(cmd):
+            run_cmd_calls.append(cmd)
+            return 0
+
+        def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
+            if cmd == ["git", "diff", "--cached", "--quiet"]:
+                return subprocess.CompletedProcess(cmd, 1)
+            if cmd == ["git", "commit", "-m", "new books"]:
+                return subprocess.CompletedProcess(cmd, 0, "", "")
+            raise AssertionError(f"unexpected command: {cmd}")
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
+            mock.patch.object(workflow, "publish_command", return_value=0),
+            mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
+            mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 0)
+        self.assertEqual(
+            run_cmd_calls,
+            [
+                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "push"],
+            ],
+        )
+
+    def test_ship_deploys_production_from_preview_branch_when_requested(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            allow_preview=False,
+            deploy_production=True,
+        )
+        run_cmd_calls = []
+
+        def fake_run_cmd(cmd):
+            run_cmd_calls.append(cmd)
+            return 0
+
+        def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
+            if cmd == ["git", "diff", "--cached", "--quiet"]:
+                return subprocess.CompletedProcess(cmd, 1)
+            if cmd == ["git", "commit", "-m", "new books"]:
+                return subprocess.CompletedProcess(cmd, 0, "", "")
+            raise AssertionError(f"unexpected command: {cmd}")
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
+            mock.patch.object(workflow, "publish_command", return_value=0),
+            mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
+            mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 0)
+        self.assertEqual(
+            run_cmd_calls,
+            [
+                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "push"],
+                ["npx", "vercel", "deploy", "--prod", "--yes"],
+            ],
+        )
 
 
 class MonitorTests(unittest.TestCase):
@@ -710,6 +820,80 @@ class BookManagementServiceTests(unittest.TestCase):
 
         self.assertTrue(result.source_found)
         self.assertTrue(result.destination_exists)
+
+    def test_rename_book_allows_index_only_cleanup_when_note_already_matches_target(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            notes_dir = Path(temp_dir) / "notes"
+            index_dir = Path(temp_dir) / "index"
+            notes_dir.mkdir()
+            index_dir.mkdir()
+
+            (notes_dir / "new.md").write_text("# New\n", encoding="utf-8")
+            (index_dir / "old.json").write_text(
+                json.dumps({"book": {"title": "old"}, "claims": []}),
+                encoding="utf-8",
+            )
+
+            vectors_db = index_dir / "vectors.db"
+            conn = sqlite3.connect(vectors_db)
+            conn.execute("CREATE TABLE claims (book_name TEXT)")
+            conn.execute("INSERT INTO claims (book_name) VALUES (?)", ("old",))
+            conn.commit()
+            conn.close()
+
+            concepts_path = index_dir / "_concepts.json"
+            concepts_path.write_text(
+                json.dumps(
+                    {
+                        "concepts": {
+                            "sample": {
+                                "id": "sample",
+                                "label": "Sample",
+                                "book_claims": {"old": 2},
+                                "books": ["old"],
+                                "claim_count": 2,
+                            }
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            with (
+                mock.patch.object(book_management_service, "NOTES_DIR", str(notes_dir)),
+                mock.patch.object(book_management_service, "INDEX_DIR", str(index_dir)),
+                mock.patch.object(book_management_service, "VECTORS_DB_PATH", str(vectors_db)),
+                mock.patch.object(book_management_service, "CONCEPTS_PATH", str(concepts_path)),
+            ):
+                result = book_management_service.rename_book("old", "new", dry_run=False)
+
+            self.assertTrue(result.source_found)
+            self.assertFalse(result.destination_exists)
+            self.assertEqual(result.updated_claims, 1)
+            self.assertEqual(result.updated_concepts, 1)
+            self.assertFalse((index_dir / "old.json").exists())
+            self.assertTrue((index_dir / "new.json").exists())
+
+            renamed_index = json.loads((index_dir / "new.json").read_text(encoding="utf-8"))
+            self.assertEqual(renamed_index["book"]["title"], "new")
+
+            conn = sqlite3.connect(vectors_db)
+            old_count = conn.execute(
+                "SELECT COUNT(*) FROM claims WHERE book_name = ?",
+                ("old",),
+            ).fetchone()[0]
+            new_count = conn.execute(
+                "SELECT COUNT(*) FROM claims WHERE book_name = ?",
+                ("new",),
+            ).fetchone()[0]
+            conn.close()
+            self.assertEqual(old_count, 0)
+            self.assertEqual(new_count, 1)
+
+            concepts = json.loads(concepts_path.read_text(encoding="utf-8"))
+            sample = concepts["concepts"]["sample"]
+            self.assertEqual(sample["book_claims"], {"new": 2})
+            self.assertEqual(sample["books"], ["new"])
 
 
 class EvaluationServiceTests(unittest.TestCase):

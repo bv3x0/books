@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-08T19:55:42.818572Z",
+  "updated_at": "2026-04-09T01:54:59.720300Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -913,9 +913,9 @@
         "on heroes": 1,
         "the closing of the american mind": 2,
         "the lacanian subject": 1,
-        "the problem of the puer animus": 1,
         "the secret teachings of all ages": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "a disease in the public mind",
@@ -932,9 +932,9 @@
         "on heroes",
         "the closing of the american mind",
         "the lacanian subject",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 24
     },
@@ -2328,15 +2328,15 @@
         "a secret history of christianity": 1,
         "american nations": 2,
         "introduction-to-christianity": 1,
-        "the problem of the puer animus": 1,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "a secret history of christianity",
         "american nations",
         "introduction-to-christianity",
-        "the problem of the puer animus",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 6
     },
@@ -2650,17 +2650,17 @@
       "related": [],
       "book_claims": {
         "a secret history of christianity": 1,
-        "the problem of the puer animus": 1,
         "the reality of being": 1,
         "the soul of the world": 1,
-        "the-body-keeps-the-score": 3
+        "the-body-keeps-the-score": 3,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "a secret history of christianity",
-        "the problem of the puer animus",
         "the reality of being",
         "the soul of the world",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 7
     },
@@ -3630,7 +3630,7 @@
         "man and his symbols": 5,
         "memories-dreams-reflections": 2,
         "the interpretation of fairy tales": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "a vision",
@@ -3640,7 +3640,7 @@
         "man and his symbols",
         "memories-dreams-reflections",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 16
     },
@@ -3857,10 +3857,10 @@
         "origins of the kabbalah": 1,
         "orthodoxy": 1,
         "orthodoxy and the religion of the future": 1,
-        "the problem of the puer animus": 2,
         "the secret teachings of all ages": 12,
         "things hidden since the foundation of the world": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "a vision",
@@ -3873,10 +3873,10 @@
         "origins of the kabbalah",
         "orthodoxy",
         "orthodoxy and the religion of the future",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
         "things hidden since the foundation of the world",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 27
     },
@@ -4881,14 +4881,14 @@
         "occult philosophy in the elizabethan age": 3,
         "revolt-against-the-modern-world": 2,
         "the age of interconnection": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "after progress",
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
         "the age of interconnection",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 8
     },
@@ -4945,8 +4945,8 @@
         "the adventure of consciousness": 1,
         "the interpretation of fairy tales": 1,
         "the mystical theology of the eastern church": 1,
-        "the problem of the puer animus": 2,
-        "the soul of the world": 1
+        "the soul of the world": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "after progress",
@@ -4959,8 +4959,8 @@
         "the adventure of consciousness",
         "the interpretation of fairy tales",
         "the mystical theology of the eastern church",
-        "the problem of the puer animus",
-        "the soul of the world"
+        "the soul of the world",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 15
     },
@@ -5223,12 +5223,12 @@
       "book_claims": {
         "alchemical active imagination": 1,
         "man and his symbols": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "alchemical active imagination",
         "man and his symbols",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -5277,7 +5277,7 @@
         "kabbalistic visions": 5,
         "man and his symbols": 2,
         "the interpretation of fairy tales": 5,
-        "the problem of the puer animus": 6
+        "the problem of the puer aeternus": 6
       },
       "books": [
         "alchemical active imagination",
@@ -5286,7 +5286,7 @@
         "kabbalistic visions",
         "man and his symbols",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 22
     },
@@ -5310,10 +5310,10 @@
         "revelations of divine love": 6,
         "ride the tiger": 2,
         "the interior castle": 4,
-        "the problem of the puer animus": 2,
         "the reality of being": 3,
         "things hidden since the foundation of the world": 2,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "alchemical active imagination",
@@ -5329,10 +5329,10 @@
         "revelations of divine love",
         "ride the tiger",
         "the interior castle",
-        "the problem of the puer animus",
         "the reality of being",
         "things hidden since the foundation of the world",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 33
     },
@@ -5515,7 +5515,7 @@
         "kabbalistic visions": 10,
         "man and his symbols": 1,
         "the interpretation of fairy tales": 9,
-        "the problem of the puer animus": 10
+        "the problem of the puer aeternus": 10
       },
       "books": [
         "alchemical active imagination",
@@ -5526,7 +5526,7 @@
         "kabbalistic visions",
         "man and his symbols",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 38
     },
@@ -8466,7 +8466,7 @@
         "man and his symbols": 2,
         "memories-dreams-reflections": 2,
         "the interpretation of fairy tales": 4,
-        "the problem of the puer animus": 11
+        "the problem of the puer aeternus": 11
       },
       "books": [
         "animus and anima",
@@ -8476,7 +8476,7 @@
         "man and his symbols",
         "memories-dreams-reflections",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 29
     },
@@ -8543,8 +8543,8 @@
         "evil the shadow side of reality": 1,
         "man and his symbols": 2,
         "mystery teachings from the living earth": 1,
-        "the problem of the puer animus": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "animus and anima",
@@ -8553,8 +8553,8 @@
         "evil the shadow side of reality",
         "man and his symbols",
         "mystery teachings from the living earth",
-        "the problem of the puer animus",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 10
     },
@@ -8675,12 +8675,12 @@
       "book_claims": {
         "animus and anima": 1,
         "sexual personae": 1,
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
         "animus and anima",
         "sexual personae",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 5
     },
@@ -8728,11 +8728,11 @@
       "related": [],
       "book_claims": {
         "animus and anima": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "animus and anima",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -10240,11 +10240,11 @@
       "related": [],
       "book_claims": {
         "best loser wins": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "best loser wins",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -10824,10 +10824,10 @@
         "sexual personae": 2,
         "the horse": 1,
         "the interpretation of fairy tales": 2,
-        "the problem of the puer animus": 1,
         "the secret teachings of all ages": 2,
         "things hidden since the foundation of the world": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "boom",
@@ -10841,10 +10841,10 @@
         "sexual personae",
         "the horse",
         "the interpretation of fairy tales",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
         "things hidden since the foundation of the world",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 28
     },
@@ -13680,11 +13680,11 @@
       "related": [],
       "book_claims": {
         "days of rage": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "days of rage",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -14942,13 +14942,13 @@
         "elon-musk": 1,
         "meetings with remarkable men": 1,
         "psychomagic": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "elon-musk",
         "meetings with remarkable men",
         "psychomagic",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -16707,14 +16707,14 @@
         "kabbalistic visions": 3,
         "man and his symbols": 1,
         "the interpretation of fairy tales": 2,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "evil the shadow side of reality",
         "kabbalistic visions",
         "man and his symbols",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 8
     },
@@ -16860,11 +16860,11 @@
       "related": [],
       "book_claims": {
         "evil the shadow side of reality": 2,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "evil the shadow side of reality",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -17082,15 +17082,15 @@
         "evil the shadow side of reality": 1,
         "mystery teachings from the living earth": 1,
         "the interpretation of fairy tales": 2,
-        "the problem of the puer animus": 1,
-        "the tarot sadhu": 1
+        "the tarot sadhu": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "evil the shadow side of reality",
         "mystery teachings from the living earth",
         "the interpretation of fairy tales",
-        "the problem of the puer animus",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 6
     },
@@ -17171,12 +17171,12 @@
       "book_claims": {
         "evil the shadow side of reality": 1,
         "the interpretation of fairy tales": 9,
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
         "evil the shadow side of reality",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 13
     },
@@ -17189,12 +17189,12 @@
       "book_claims": {
         "evil the shadow side of reality": 1,
         "the interpretation of fairy tales": 1,
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
         "evil the shadow side of reality",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 5
     },
@@ -17262,13 +17262,13 @@
         "apprenticed to magic": 1,
         "evil the shadow side of reality": 2,
         "kabbalistic visions": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "apprenticed to magic",
         "evil the shadow side of reality",
         "kabbalistic visions",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 6
     },
@@ -17512,13 +17512,13 @@
         "fanged noumena": 3,
         "lacan seminars i": 2,
         "sexual personae": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "fanged noumena",
         "lacan seminars i",
         "sexual personae",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 7
     },
@@ -17699,11 +17699,11 @@
         "the discarded image": 3,
         "the interior castle": 1,
         "the lacanian subject": 2,
-        "the problem of the puer animus": 1,
         "the secret teachings of all ages": 1,
         "the sickness unto death": 1,
         "thus spake zarathustra": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "beelzebubs tales",
@@ -17720,11 +17720,11 @@
         "the discarded image",
         "the interior castle",
         "the lacanian subject",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
         "the sickness unto death",
         "thus spake zarathustra",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 28
     },
@@ -19384,8 +19384,8 @@
         "orthodoxy": 2,
         "revelations of divine love": 2,
         "the mystical theology of the eastern church": 2,
-        "the problem of the puer animus": 1,
-        "the tarot sadhu": 1
+        "the tarot sadhu": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "confessions",
@@ -19393,8 +19393,8 @@
         "orthodoxy",
         "revelations of divine love",
         "the mystical theology of the eastern church",
-        "the problem of the puer animus",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 23
     },
@@ -20384,19 +20384,19 @@
         "beelzebubs tales": 1,
         "in search of the miraculous": 1,
         "introduction-to-christianity": 1,
-        "the problem of the puer animus": 2,
         "the soul of the world": 1,
         "the tarot sadhu": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "beelzebubs tales",
         "in search of the miraculous",
         "introduction-to-christianity",
-        "the problem of the puer animus",
         "the soul of the world",
         "the tarot sadhu",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 8
     },
@@ -21761,12 +21761,12 @@
       "book_claims": {
         "kabbalistic visions": 1,
         "the interpretation of fairy tales": 10,
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
         "kabbalistic visions",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 14
     },
@@ -21834,10 +21834,10 @@
         "kabbalistic visions": 4,
         "occult philosophy in the elizabethan age": 4,
         "sexual personae": 1,
-        "the problem of the puer animus": 1,
         "the secret teachings of all ages": 2,
         "the tarot sadhu": 2,
-        "transcendental magic": 4
+        "transcendental magic": 4,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "catafalque",
@@ -21845,10 +21845,10 @@
         "kabbalistic visions",
         "occult philosophy in the elizabethan age",
         "sexual personae",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 23
     },
@@ -21934,9 +21934,9 @@
         "memories-dreams-reflections": 2,
         "the celtic golden dawn": 1,
         "the interpretation of fairy tales": 2,
-        "the problem of the puer animus": 1,
         "the secret teachings of all ages": 4,
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "kabbalistic visions",
@@ -21944,9 +21944,9 @@
         "memories-dreams-reflections",
         "the celtic golden dawn",
         "the interpretation of fairy tales",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 16
     },
@@ -22029,12 +22029,12 @@
       "book_claims": {
         "kabbalistic visions": 1,
         "lacan seminars i": 1,
-        "the problem of the puer animus": 4
+        "the problem of the puer aeternus": 4
       },
       "books": [
         "kabbalistic visions",
         "lacan seminars i",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 6
     },
@@ -22064,13 +22064,13 @@
         "kabbalistic visions": 3,
         "man and his symbols": 2,
         "the interpretation of fairy tales": 5,
-        "the problem of the puer animus": 4
+        "the problem of the puer aeternus": 4
       },
       "books": [
         "kabbalistic visions",
         "man and his symbols",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 14
     },
@@ -22157,14 +22157,14 @@
       "book_claims": {
         "kabbalistic visions": 1,
         "the closing of the american mind": 1,
-        "the problem of the puer animus": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "kabbalistic visions",
         "the closing of the american mind",
-        "the problem of the puer animus",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -22244,13 +22244,13 @@
         "kabbalistic visions": 1,
         "psychomagic": 1,
         "the adventure of consciousness": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "kabbalistic visions",
         "psychomagic",
         "the adventure of consciousness",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -22324,7 +22324,7 @@
         "kabbalistic visions": 1,
         "man and his symbols": 1,
         "memories-dreams-reflections": 1,
-        "the problem of the puer animus": 5
+        "the problem of the puer aeternus": 5
       },
       "books": [
         "beelzebubs tales",
@@ -22332,7 +22332,7 @@
         "kabbalistic visions",
         "man and his symbols",
         "memories-dreams-reflections",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 10
     },
@@ -22400,11 +22400,11 @@
       "related": [],
       "book_claims": {
         "kabbalistic visions": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "kabbalistic visions",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -22439,10 +22439,10 @@
         "orthodoxy and the religion of the future": 5,
         "the horse": 1,
         "the mask and face of contemporary spiritualism": 1,
-        "the problem of the puer animus": 1,
         "the secret teachings of all ages": 6,
         "through the eye of a needle": 1,
-        "transcendental magic": 3
+        "transcendental magic": 3,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "giordano bruno",
@@ -22451,10 +22451,10 @@
         "orthodoxy and the religion of the future",
         "the horse",
         "the mask and face of contemporary spiritualism",
-        "the problem of the puer animus",
         "the secret teachings of all ages",
         "through the eye of a needle",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 47
     },
@@ -23001,18 +23001,18 @@
       "book_claims": {
         "beyond good and evil": 3,
         "memories-dreams-reflections": 1,
-        "the problem of the puer animus": 1,
         "things hidden since the foundation of the world": 1,
         "thus spake zarathustra": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "beyond good and evil",
         "memories-dreams-reflections",
-        "the problem of the puer animus",
         "things hidden since the foundation of the world",
         "thus spake zarathustra",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 8
     },
@@ -23164,7 +23164,7 @@
         "preface to plato": 1,
         "psychomagic": 1,
         "revolt-against-the-modern-world": 1,
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
         "beelzebubs tales",
@@ -23172,7 +23172,7 @@
         "preface to plato",
         "psychomagic",
         "revolt-against-the-modern-world",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 8
     },
@@ -24390,11 +24390,11 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 2,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -25296,13 +25296,13 @@
         "occult philosophy in the elizabethan age": 1,
         "revolt-against-the-modern-world": 3,
         "the closing of the american mind": 11,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
         "the closing of the american mind",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 16
     },
@@ -26453,12 +26453,12 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 2,
         "the horse": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "the horse",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -26471,12 +26471,12 @@
       "book_claims": {
         "in search of the miraculous": 1,
         "occult philosophy in the elizabethan age": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "in search of the miraculous",
         "occult philosophy in the elizabethan age",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -26488,11 +26488,11 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -28964,15 +28964,15 @@
         "circles of power": 1,
         "mystery teachings from the living earth": 1,
         "preface to plato": 1,
-        "the problem of the puer animus": 1,
-        "the structure of scientific revolutions": 1
+        "the structure of scientific revolutions": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "circles of power",
         "mystery teachings from the living earth",
         "preface to plato",
-        "the problem of the puer animus",
-        "the structure of scientific revolutions"
+        "the structure of scientific revolutions",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 5
     },
@@ -29492,13 +29492,13 @@
         "beyond good and evil": 1,
         "psychomagic": 1,
         "revolt-against-the-modern-world": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "beyond good and evil",
         "psychomagic",
         "revolt-against-the-modern-world",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -29669,12 +29669,12 @@
       "book_claims": {
         "psychomagic": 1,
         "revolt-against-the-modern-world": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "psychomagic",
         "revolt-against-the-modern-world",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -30918,11 +30918,11 @@
       "related": [],
       "book_claims": {
         "revolt-against-the-modern-world": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "revolt-against-the-modern-world",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -31194,11 +31194,11 @@
       "related": [],
       "book_claims": {
         "revolt-against-the-modern-world": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "revolt-against-the-modern-world",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -31964,11 +31964,11 @@
       "related": [],
       "book_claims": {
         "the closing of the american mind": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "the closing of the american mind",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -32513,12 +32513,12 @@
       "book_claims": {
         "lacan seminars i": 2,
         "the interpretation of fairy tales": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "lacan seminars i",
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -32554,11 +32554,11 @@
       "related": [],
       "book_claims": {
         "the interpretation of fairy tales": 1,
-        "the problem of the puer animus": 4
+        "the problem of the puer aeternus": 4
       },
       "books": [
         "the interpretation of fairy tales",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 5
     },
@@ -32875,14 +32875,14 @@
       "book_claims": {
         "catafalque": 2,
         "the power of ritual in prehistory": 1,
-        "the problem of the puer animus": 2,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "catafalque",
         "the power of ritual in prehistory",
-        "the problem of the puer animus",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 6
     },
@@ -32912,13 +32912,13 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
-        "the problem of the puer animus": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "beelzebubs tales",
-        "the problem of the puer animus",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -32930,13 +32930,13 @@
       "related": [],
       "book_claims": {
         "lacan seminars i": 4,
-        "the problem of the puer animus": 1,
-        "things hidden since the foundation of the world": 2
+        "things hidden since the foundation of the world": 2,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "lacan seminars i",
-        "the problem of the puer animus",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 7
     },
@@ -32951,16 +32951,16 @@
         "sexual personae": 1,
         "the culture of narcissism": 12,
         "the lacanian subject": 1,
-        "the problem of the puer animus": 1,
-        "things hidden since the foundation of the world": 4
+        "things hidden since the foundation of the world": 4,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "lacan seminars i",
         "sexual personae",
         "the culture of narcissism",
         "the lacanian subject",
-        "the problem of the puer animus",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 22
     },
@@ -32971,12 +32971,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1,
-        "the-body-keeps-the-score": 1
+        "the-body-keeps-the-score": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -32992,9 +32992,9 @@
         "mystery teachings from the living earth": 3,
         "ride the tiger": 3,
         "the celtic golden dawn": 1,
-        "the problem of the puer animus": 1,
         "the tarot sadhu": 1,
-        "transcendental magic": 6
+        "transcendental magic": 6,
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "apprenticed to magic",
@@ -33002,9 +33002,9 @@
         "mystery teachings from the living earth",
         "ride the tiger",
         "the celtic golden dawn",
-        "the problem of the puer animus",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 19
     },
@@ -33017,14 +33017,14 @@
       "book_claims": {
         "confessions": 1,
         "ride the tiger": 1,
-        "the problem of the puer animus": 2,
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "confessions",
         "ride the tiger",
-        "the problem of the puer animus",
-        "transcendental magic"
+        "transcendental magic",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 6
     },
@@ -34121,12 +34121,12 @@
       "book_claims": {
         "in search of the miraculous": 2,
         "sexual personae": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "in search of the miraculous",
         "sexual personae",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -34138,11 +34138,11 @@
       "related": [],
       "book_claims": {
         "beyond good and evil": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "beyond good and evil",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -37020,11 +37020,11 @@
       "related": [],
       "book_claims": {
         "the culture of narcissism": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "the culture of narcissism",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -40090,11 +40090,11 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "apprenticed to magic",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -40105,12 +40105,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -40916,11 +40916,11 @@
       "related": [],
       "book_claims": {
         "man and his symbols": 1,
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
         "man and his symbols",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -40932,11 +40932,11 @@
       "related": [],
       "book_claims": {
         "man and his symbols": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "man and his symbols",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -40948,11 +40948,11 @@
       "related": [],
       "book_claims": {
         "catafalque": 1,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "catafalque",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -40964,11 +40964,11 @@
       "related": [],
       "book_claims": {
         "man and his symbols": 1,
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
         "man and his symbols",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -43286,11 +43286,11 @@
       "related": [],
       "book_claims": {
         "lacan seminars i": 2,
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
         "lacan seminars i",
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -239987,10 +239987,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 15
+        "the problem of the puer aeternus": 15
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 15
     },
@@ -240001,10 +240001,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 19
+        "the problem of the puer aeternus": 19
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 19
     },
@@ -240015,10 +240015,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240029,10 +240029,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240043,10 +240043,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240057,10 +240057,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240071,10 +240071,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240085,10 +240085,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240099,10 +240099,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240113,10 +240113,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240127,10 +240127,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240141,10 +240141,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240155,10 +240155,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240169,10 +240169,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240183,10 +240183,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240197,10 +240197,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -240211,10 +240211,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 5
+        "the problem of the puer aeternus": 5
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 5
     },
@@ -240225,10 +240225,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240239,10 +240239,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240253,10 +240253,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240267,10 +240267,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240281,10 +240281,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240295,10 +240295,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240309,10 +240309,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240323,10 +240323,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240337,10 +240337,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 4
+        "the problem of the puer aeternus": 4
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 4
     },
@@ -240351,10 +240351,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240365,10 +240365,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240379,10 +240379,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -240393,10 +240393,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240407,10 +240407,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240421,10 +240421,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240435,10 +240435,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240449,10 +240449,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240463,10 +240463,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240477,10 +240477,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240491,10 +240491,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240505,10 +240505,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240519,10 +240519,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240533,10 +240533,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240547,10 +240547,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240561,10 +240561,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240575,10 +240575,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240589,10 +240589,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240603,10 +240603,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240617,10 +240617,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240631,10 +240631,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240645,10 +240645,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -240659,10 +240659,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -240673,10 +240673,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240687,10 +240687,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240701,10 +240701,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240715,10 +240715,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240729,10 +240729,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240743,10 +240743,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240757,10 +240757,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240771,10 +240771,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240785,10 +240785,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240799,10 +240799,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240813,10 +240813,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240827,10 +240827,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240841,10 +240841,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240855,10 +240855,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240869,10 +240869,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240883,10 +240883,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240897,10 +240897,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240911,10 +240911,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240925,10 +240925,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240939,10 +240939,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240953,10 +240953,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240967,10 +240967,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240981,10 +240981,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -240995,10 +240995,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 3
+        "the problem of the puer aeternus": 3
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 3
     },
@@ -241009,10 +241009,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241023,10 +241023,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241037,10 +241037,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241051,10 +241051,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -241065,10 +241065,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241079,10 +241079,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241093,10 +241093,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241107,10 +241107,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241121,10 +241121,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241135,10 +241135,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241149,10 +241149,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241163,10 +241163,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241177,10 +241177,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241191,10 +241191,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241205,10 +241205,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241219,10 +241219,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241233,10 +241233,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 2
+        "the problem of the puer aeternus": 2
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 2
     },
@@ -241247,10 +241247,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241261,10 +241261,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241275,10 +241275,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241289,10 +241289,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241303,10 +241303,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241317,10 +241317,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241331,10 +241331,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241345,10 +241345,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241359,10 +241359,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241373,10 +241373,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241387,10 +241387,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241401,10 +241401,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241415,10 +241415,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241429,10 +241429,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241443,10 +241443,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241457,10 +241457,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241471,10 +241471,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241485,10 +241485,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },
@@ -241499,10 +241499,10 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer animus": 1
+        "the problem of the puer aeternus": 1
       },
       "books": [
-        "the problem of the puer animus"
+        "the problem of the puer aeternus"
       ],
       "claim_count": 1
     },

@@ -4,7 +4,7 @@
   "description": "Build and deploy tooling for the book summaries site",
   "scripts": {
     "build-search": "node scripts/build-search-index.mjs",
-    "vercel-build": "HUGO_CACHEDIR=\"$PWD/.hugo_cache\" hugo --source blog --destination public --gc --minify && OUTPUT_DIR=blog/public node scripts/build-search-index.mjs"
+    "vercel-build": "node scripts/vercel-build.mjs"
   },
   "dependencies": {
     "@neondatabase/serverless": "^0.10.0",
