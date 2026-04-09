@@ -69,7 +69,7 @@ BOOKS_DIR = os.path.join(BASE_DIR, "books")
 NOTES_DIR = os.path.join(BASE_DIR, "notes")
 INDEX_DIR = os.path.join(BASE_DIR, "index")
 
-# Staging folder - always use @staging for input files
+# Backward-compatible default input folder for single-book ingest.
 INPUT_DIR = os.path.join(BOOKS_DIR, "@staging")
 
 # Index paths
@@ -412,7 +412,11 @@ Begin your JSON response now:"""
 
 
 
-def validate_config(provider: str = "anthropic", require_openai: bool = True):
+def validate_config(
+    provider: str = "anthropic",
+    require_openai: bool = True,
+    input_dir: str | None = None,
+):
     """
     Validates that necessary environment variables and directories exist.
     """
@@ -440,9 +444,9 @@ def validate_config(provider: str = "anthropic", require_openai: bool = True):
             print("Missing OPENAI_API_KEY in environment variables.")
             return False
 
-    if not os.path.exists(INPUT_DIR):
-        print(f"Staging directory not found: {INPUT_DIR}")
-        print(f"Please create the staging folder: {INPUT_DIR}")
+    source_dir = input_dir or INPUT_DIR
+    if not os.path.exists(source_dir):
+        print(f"Input directory not found: {source_dir}")
         return False
 
     return True

@@ -1,7 +1,7 @@
 ---
 title: "Revelations of Divine Love"
 sortTitle: "Revelations of Divine Love"
-date: 2026-04-08
+date: 2026-04-09
 slug: "revelations-of-divine-love"
 draft: false
 dateAdded: 2026-04-08
@@ -34,7 +34,7 @@ Julian of Norwich was a 14th-century anchoress at St Julian's Church in Norwich 
     - Angela di Foligno is contrasted as an eagle 'baffled and blinded in its assault on the Sun, proclaiming the Light Unspeakable in anguished, hoarse, inarticulate cries,' while Julian walks a 'mountain-path between the abysses' singing 'All is well.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cathedral-spire.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_fire-flame.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Introduction, Part II: The Manner of the Book
 
@@ -51,7 +51,7 @@ The Revelations are distinguished from much mystical literature by their silence
     - The book forms 'a great scheme: a network of ideas that cross and re-cross each other' that is not in confusion but works out a single coherent theological vision of God's Goodness.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Introduction, Part III: The Theme of the Book
 
@@ -68,7 +68,7 @@ The Revelations centre on one answer to the problem of sin and suffering: God is
     - She calls herself not Theodidacta Ecstatica but effectively Theodidacta Evangelica: practical, compassionate, oriented toward the comfort of all mankind.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_pen-quill.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter I
 
@@ -79,7 +79,7 @@ This opening chapter provides a numbered summary of the Sixteen Revelations, est
     - The Seventh Revelation introduces Julian's key teaching that God keeps us 'all as securely in Love in woe as in weal, by the Goodness of God.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter II
 
@@ -90,7 +90,7 @@ Julian introduces herself as 'a simple creature unlettered' who before the Revel
     - The three wounds — contrition, compassion, longing toward God — were asked 'without any condition,' unlike the first two petitions which were conditional on God's will.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-outline.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter III
 
@@ -101,7 +101,7 @@ Julian describes her near-death illness at age thirty and a half, her curate's p
     - Suddenly all her pain was taken away, but she did not trust she would live, nor did the ease bring full comfort: 'methought I had liefer have been delivered from this world.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_microscope-lens.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The First Revelation
 
@@ -114,7 +114,7 @@ The First Revelation begins with a bodily sight of blood trickling from under th
     - The Virgin Mary is shown in her youth, small above a child, and her wisdom and truth caused her meek acceptance: 'Lo me, God's handmaid!'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-detailed.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter V
 
@@ -125,7 +125,7 @@ Julian sees a hazel-nut in her palm representing all that is made, which lasts o
     - "'God, of Thy Goodness, give me Thyself: for Thou art enough to me, and I may nothing ask that is less that may be full worship to Thee; and if I ask anything that is less, ever me wanteth,—but only in Thee I have all.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_heart-radiant.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-praying-standing.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter VI
 
@@ -136,7 +136,7 @@ The Goodness of God is the highest prayer and the deepest ground of all petition
     - "God has no disdain to serve the body for the love of the soul: 'as the body is clad in the cloth, and the flesh in the skin, and the bones in the flesh, and the heart in the whole, so are we, soul and body, clad in the Goodness of God.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_pyramid-eye-triangle.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter VII
 
@@ -147,7 +147,7 @@ Julian describes the bodily vision of the bleeding head in vivid detail — like
     - "'The Shewing, made to whom that God will, plainly teacheth the same, opened and declared ... and therefore through the Shewing it is not other than of faith, nor less nor more.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-constellation.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter VIII
 
@@ -158,7 +158,7 @@ From the plenteous bleeding Julian draws six understandings — the Passion, the
     - "'God is all that is good, as to my sight, and the goodness that each thing hath, it is He.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-with-signal.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter IX
 
@@ -169,7 +169,7 @@ Julian insists on the communal character of the Revelations: she was not shown t
     - The Shewing is triple: by bodily sight, by words formed in understanding, and by spiritual sight — and of the last she says she 'cannot nor may not shew it as openly nor as fully as I would.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Second Revelation
 
@@ -182,7 +182,7 @@ The Second Revelation is a dim, troublous sight of Christ's suffering face — l
     - "'The seeking, with faith, hope, and charity, pleaseth our Lord, and the finding pleaseth the soul and fulfilleth it with joy ... seeking is as good as beholding, for the time that He will suffer the soul to be in travail.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_ark-boat.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Third Revelation
 
@@ -195,7 +195,7 @@ Seeing God 'in a point' — in the mid-point of all things — Julian understand
     - "'I saw full surely that he changeth never His purpose in no manner of thing, nor never shall, without end ... all-thing was set in order ere anything was made, as it should stand without end.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Fourth Revelation
 
@@ -208,7 +208,7 @@ The Fourth Revelation of the scourging and plenteous bleeding of Christ's body l
     - "In Heaven the blood is in Christ, 'bleeding and praying for us to the Father, and is, and shall be as long as it needeth; and ever shall be as long as it needeth.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_clouds-sky.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Fifth Revelation
 
@@ -221,7 +221,7 @@ The Fiend is overcome by Christ's Passion — this is the Fifth Revelation's wor
     - "'I see three things: game, scorn, and earnest. I see game, in that the Fiend is overcome; I see scorn, in that God scorneth him ... and I see earnest, in that he is overcome by the blissful Passion and Death of our Lord Jesus Christ.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Sixth Revelation
 
@@ -234,7 +234,7 @@ The Sixth Revelation is of God's worshipful thanking of those who serve Him: Jul
     - The Lord takes no place in His own house but 'royally reigneth in His house, fulfilling it with joy and mirth, Himself endlessly to gladden and to solace His dearworthy friends.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-praying-standing.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_heart-radiant.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Seventh Revelation
 
@@ -247,7 +247,7 @@ The Seventh Revelation alternates between sovereign spiritual comfort and heavy 
     - "'Both is one love': God both gives comfort and suffers us to be in woe for our profit, and the departures from feeling are not caused by sin." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_rain-weather.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Eighth Revelation
 
@@ -260,7 +260,7 @@ The Eighth Revelation shows Christ's face during the dying — the progressive d
     - Julian observes four colour-stages in Christ's face: 'fresh, ruddy, and pleasing' becoming dry and brown-blue, tracing the passage from life through death.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-burst.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XVII
 
@@ -271,7 +271,7 @@ Christ's word 'I thirst' points to both bodily thirst from the drying of flesh a
     - "'I knew but little what pain it was that I asked; and, as a wretch, repented me, thinking: If I had wist what it had been, loth me had been to have prayed it.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_vessel-jar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XVIII
 
@@ -282,7 +282,7 @@ Julian sees a part of Mary's compassion as the model of all creaturely compassio
     - "'Here saw I a great oneing betwixt Christ and us, to mine understanding: for when He was in pain, we were in pain.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-circle-cosmos.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XIX
 
@@ -293,7 +293,7 @@ Julian refuses to look up from the Cross to the Father in Heaven, saying 'Thou a
     - "'That the outward part should draw the inward to assent was not shewed to me; but that the inward draweth the outward by grace, and both shall be oned in bliss without end, by the virtue of Christ, this was shewed.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_ark-boat.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XX
 
@@ -304,7 +304,7 @@ Christ's suffering exceeds all human pain because He who suffered is the highest
     - All Christ's pains 'shall be turned into everlasting, o'erpassing joys by the virtue of Christ's Passion' for those souls that behold them by grace.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXI
 
@@ -315,7 +315,7 @@ Christ's countenance suddenly changes from pain to bliss — 'Where is now any p
     - "'For this little pain that we suffer here, we shall have an high endless knowing in God which we could never have without that. And the harder our pains have been with Him in His Cross, the more shall our worship be with Him in His Kingdom.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_vessel-jar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_clouds-sky.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Ninth Revelation
 
@@ -331,7 +331,7 @@ The Ninth Revelation opens with Christ's question 'Art thou well pleased that I 
     - "'The pains was a noble, worshipful deed done in a time by the working of love: but Love was without beginning, is, and shall be without ending.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXIII
 
@@ -342,7 +342,7 @@ The Trinity's collective joy in the Passion is shewn through the image of 'the g
     - "'Jesus willeth that we take heed to the bliss that is in the blessed Trinity of our salvation and that we desire to have as much spiritual enjoying, with His grace, as it is convenient and speedful to us.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Tenth Revelation
 
@@ -355,7 +355,7 @@ Christ looks rejoicingly at His wounded side and leads Julian spiritually within
     - Christ's love for humanity is so great that He declares He would die again willingly, and everything He now asks is simply that His death might 'well please' us.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_pen-quill.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Eleventh Revelation
 
@@ -368,7 +368,7 @@ Christ shews Julian His mother Mary in three successive visions — in her youth
     - "Julian is not taught to long for Mary's bodily presence but for the virtues of her soul, 'whereby I may learn to know myself and reverently dread my God.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Twelfth Revelation
 
@@ -381,7 +381,7 @@ The Twelfth Revelation is Christ's sovereign declaration 'I it am' — repeated 
     - "The joy of this sight 'passeth all that heart may wish for and soul may desire,' yet Julian refrains from trying to declare what it comprehends, referring each reader to receive it directly in Christ's meaning." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Thirteenth Revelation
 
@@ -397,7 +397,7 @@ Sin is 'behoveable' — it behoves that it be suffered — and yet 'all shall be
     - "These words were 'said full tenderly, showing no manner of blame to me nor to any that shall be saved' — divine comfort does not require condemnation." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_fire-flame.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXVIII
 
@@ -419,7 +419,7 @@ Julian stands troubled, asking 'How might all be well, for the great hurt that i
     - Julian does not receive a philosophical resolution but a promise anchored in the greater fact of redemption, requiring trust rather than understanding.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_dark-planet.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXX
 
@@ -430,7 +430,7 @@ God's truth divides into two parts: the open part — our Saviour and our salvat
     - "The saints in Heaven 'will to know nothing but that which our Lord willeth to shew them' and so should we: 'we shall nothing will nor desire but the will of our Lord, as they do.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXI
 
@@ -441,7 +441,7 @@ Christ's 'Spiritual Thirst' is His love-longing for the full number of saved sou
     - "The five terms — may, can, will, shall, thou shalt see — correspond respectively to Father, Son, Holy Ghost, the Trinity's unity, and the oneing of all mankind to God." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_sacred-heart-flame.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXII
 
@@ -452,7 +452,7 @@ There is a 'Great Deed' that the blessed Trinity will do at the Last Day — unk
     - "God wills that we 'be the more eased in our soul and set at peace in love, leaving the beholding of all troublous things that might keep us back from true enjoying of Him.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_sun-weather.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXIII
 
@@ -463,7 +463,7 @@ Julian desired to see Hell and Purgatory for learning but received no sight of t
     - Julian maintains full faith in Holy Church's teaching about hell and condemnation while acknowledging that this was not shewed to her in the Revelations.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_rain-weather.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXIV
 
@@ -474,7 +474,7 @@ God has two kinds of secrets: those He wills to remain hidden until Heaven, and 
     - God is Himself the Ground, Substance, Teaching, Teacher, End, and Meed of Holy Church — the institution is not separate from its divine foundation.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXV
 
@@ -485,7 +485,7 @@ Julian sought a singular shewing about the fate of a particular person she loved
     - "Mercy ceases when sin has no more leave to pursue rightful souls — at that point 'all shall be brought to rightfulness and therein stand without end.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-constellation.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXVI
 
@@ -496,7 +496,7 @@ God will do a deed — begun on earth and continuing into Heaven until the Last 
     - "Miracles — which come after tribulation — shew God's might and give evidence of heavenly joys; God wills us not to be 'borne over low' by sorrow since miracles follow." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXVII
 
@@ -507,7 +507,7 @@ God shewed Julian that she should sin, and thereby taught the universal truth: i
     - "'For failing of love on our part, therefore is all our travail' — the source of all sin and suffering is not God's withholding but creaturely failure in love." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXVIII
 
@@ -518,7 +518,7 @@ Sin shall be no shame but worship in Heaven: the token of sin is turned to honou
     - David, Mary Magdalene, Peter, Paul, and the Apostles of India are all mentioned as souls known by their sins yet now worshipped in Heaven.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XXXIX
 
@@ -529,7 +529,7 @@ Sin is the sharpest scourge any soul can suffer, yet through contrition, compass
     - "'Our courteous Lord willeth not that His servants despair, for often nor for grievous falling: for our falling hindereth not Him to love us. Peace and love are ever in us, being and working.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XL
 
@@ -540,7 +540,7 @@ True love teaches us to hate sin only for love's sake, not from fear; Julian ins
     - "'He willeth that we endlessly hate the sin and endlessly love the soul, as God loveth it ... no more than His love is broken to us for our sin, no more willeth He that our love be broken to ourself and to our even-Christians.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Fourteenth Revelation
 
@@ -553,7 +553,7 @@ The Fourteenth Revelation concerns prayer: God is the Ground of all beseeching �
     - "'Pray inwardly, though thee thinketh it savour thee not: for it is profitable, though thou feel not, though thou see nought ... in dryness and in barrenness, in sickness and in feebleness, then is thy prayer well-pleasant to me.'" —Jesus Christ
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_heart-radiant.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-detailed.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLII
 
@@ -564,7 +564,7 @@ Prayer and trust must be 'alike large' because insufficient trust dishonours God
     - We ought to understand that the greatest deeds are already done — creation, redemption, the continual guidance of grace — and pray for what is 'now in doing': to be ruled and led to bliss.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLIII
 
@@ -575,7 +575,7 @@ Prayer unites the soul to God; when God shews Himself the soul's only work is be
     - "The fullness of the spiritual life is described through all five senses: 'Him verily seeing and fully feeling, Him spiritually hearing, and Him delectably in-breathing, and of Him sweetly drinking.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Anent Certain Points in the Foregoing Fourteen Revelations
 
@@ -588,7 +588,7 @@ Truth sees God, Wisdom beholds God, and from these two comes Love's holy marvell
     - "God is 'endless sovereign Truth, endless sovereign Wisdom, endless sovereign Love, unmade; and man's Soul is a creature in God which hath the same properties made.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_lightbulb-person.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLV
 
@@ -599,7 +599,7 @@ There are two judgments — God's judgment of our Nature-Substance (always right
     - "'For all heavenly, and all earthly things that belong to Heaven, are comprehended in these two dooms' — getting their right relationship is crucial to knowing both God and the self." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLVI
 
@@ -610,7 +610,7 @@ Julian holds together the Church's teaching that we are sinners deserving pain w
     - "Julian holds both the Shewing and the Church's teaching without abandoning either: 'I yield me to my Mother, Holy Church, as a simple child oweth.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_cross-celestial.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLVII
 
@@ -621,7 +621,7 @@ Julian describes the five workings felt during the Shewing — enjoying, mournin
     - "Even during the Shewing, the high sight was 'but small and low in comparison with the great desire that the soul hath to see God.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_sacred-heart-flame.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cross-christian.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLVIII
 
@@ -632,7 +632,7 @@ Mercy and Grace are two properties of one love — Mercy belonging to the Mother
     - "'Grace worketh our dreadful failing into plenteous, endless solace; and grace worketh our shameful falling into high, worshipful rising; and grace worketh our sorrowful dying into holy, blissful life.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-with-signal.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter XLIX
 
@@ -643,7 +643,7 @@ Where God appears, peace is taken and wrath has no place; the soul is made fully
     - All the soul's tribulation and contrariness is taken by God and 'sent up to Heaven' where it is 'made more sweet and delectable than heart may think or tongue may tell' — found ready there as 'endless worships.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_sacred-heart-flame.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter L
 
@@ -654,7 +654,7 @@ Julian wrestles with the paradox that the blame of sin continually hangs upon us
     - She confesses she was drawn to ask precisely because it is 'so low a thing' (not beyond her), 'so common' (not just her problem), and necessary for living well.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-burst.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-circle-cosmos.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LI
 
@@ -671,7 +671,7 @@ The parable of the Lord and Servant is Julian's most complex and sustained theol
     - "'Now is the Spouse, God's Son, in peace with His loved Wife, which is the Fair Maiden of endless Joy.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-praying-standing.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LII
 
@@ -682,7 +682,7 @@ There is a 'marvellous mingling' of weal and woe in every saved soul on earth �
     - "The mightily joyful conclusion: 'mightily He joyeth in his falling for the high raising and fulness of bliss that Mankind is come to, overpassing that we should have had if he had not fallen.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_cross-dagger.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LIII
 
@@ -693,7 +693,7 @@ Every soul that shall be saved contains a Godly Will that never sinned and never
     - "Man's soul is made of 'nought that is made' — created entirely by God with nothing material used — and thus the nature-made is 'rightfully oned to the Maker, which is Substantial Nature not-made.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LIV
 
@@ -704,7 +704,7 @@ Faith is 'a right understanding, with true belief and sure trust, of our Being: 
     - "The Trinity is present within the soul in a mutual enclosing: 'We are enclosed in the Father, and we are enclosed in the Son, and we are enclosed in the Holy Ghost: and the Father is enclosed in us, and the Son is enclosed in us, and the Holy Ghost is enclosed in us.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_clouds-sky.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LV
 
@@ -715,7 +715,7 @@ Christ is our Way, bearing us in His body to Heaven; because Mankind is 'made do
     - "The soul is a 'made-trinity' of Reason, Mind, and Love corresponding to Truth, Wisdom, and Goodness — the image of the unmade Trinity." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LVI
 
@@ -726,7 +726,7 @@ God is nearer to us than our own soul — He is the Ground in whom it stands —
     - "'We may never come to full knowing of God till we know first clearly our own Soul' in its full powers — which only happens in Heaven." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_rain-weather.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LVII
 
@@ -737,7 +737,7 @@ In our Substance we are made noble and full, in our Sensuality we fail; Christ j
     - "He 'willeth that we be His helpers, giving to Him all our entending, learning His lores, keeping His laws, desiring that all be done that He doeth; truly trusting in Him.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_sacred-heart-flame.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LVIII
 
@@ -748,7 +748,7 @@ Julian's systematic account of the Trinity's motherhood: the Father is our Natur
     - "'He saith: I love thee, and thou lovest me, and our love shall never be disparted in two' — God as Spouse united to the soul as His loved Wife." —Jesus Christ
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LIX
 
@@ -759,7 +759,7 @@ Jesus Christ is our 'Very Mother' in the most essential sense because He does go
     - "'There the soul is highest, noblest, and worthiest, where it is lowest, meekest, and mildest: and out of this Substantial Ground we have all our virtues.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-leaping.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LX
 
@@ -770,7 +770,7 @@ Christ as Mother feeds us with Himself in the Blessed Sacrament, leads us into H
     - "Christ sustains us 'within Himself in love; and travailed, unto the full time that He would suffer the sharpest throes and the most grievous pains that ever were or ever shall be; and died at the last.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_fire-flame.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXI
 
@@ -792,7 +792,7 @@ God is Nature in His being — the ground, substance, and Naturehood of all thin
     - "We need not 'seek far out to know sundry natures, but to Holy Church, unto our Mother's breast: that is to say, unto our own soul where our Lord dwelleth; and there shall we find all.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_lightbulb-person.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXIII
 
@@ -803,7 +803,7 @@ Sin is not only unclean but 'unkind' — against nature itself — because Grace
     - "'I understood none higher stature in this life than Childhood, in feebleness and failing of might and of wit, unto the time that our Gracious Mother hath brought us up to our Father's Bliss.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-detailed.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Fifteenth Revelation
 
@@ -816,7 +816,7 @@ The Fifteenth Revelation brings the promise 'Suddenly thou shalt be taken from a
     - "The vision of the child springing from the mire teaches: 'It is more blissful that man be taken from pain, than that pain be taken from man; for if pain be taken from us it may come again.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cathedral-spire.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXV
 
@@ -827,7 +827,7 @@ Whoever chooses God firmly in this life is loved without end, and that endless l
     - "All dread except reverent dread — which is 'full soft, for the more it is had the less it is felt for sweetness of love' — is to be set among 'passions and bodily sickness and imaginations.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_arrow-forward-to.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Sixteenth Revelation
 
@@ -840,7 +840,7 @@ After the Fifteen Shewings close, Julian's pain returns and she 'raves' to a vis
     - "She overcame the Fiend's second assault 'by the virtue of Christ's Passion: for therewith is the Fiend overcome, as our Lord Jesus Christ said afore.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_pyramid-eye-triangle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_arrow-forward-to.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXVII
 
@@ -851,7 +851,7 @@ The Sixteenth Revelation opens Julian's spiritual eye to her soul as a vast and 
     - "'Our soul may never have rest in things that are beneath itself. And when it cometh above all creatures into the Self, yet may it not abide in the beholding of its Self, but all the beholding is blissfully set in God that is the Maker dwelling therein.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-connected.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXVIII
 
@@ -862,7 +862,7 @@ The Sixteenth Revelation opens Julian's spiritual eye to her soul as a vast and 
     - "The word is 'said full clearly and full mightily, for assuredness and comfort against all tribulations that may come' — not conditional but absolute." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_fire-flame.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXIX
 
@@ -873,7 +873,7 @@ The Fiend returns with heat, stench, and mocking noise to stir Julian to despair
     - "'Thus was I delivered from him by the virtue of Christ's Passion: for therewith is the Fiend overcome.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXX
 
@@ -884,7 +884,7 @@ The Shewing is kept by faith, not by sign or token; God re-shewed it within Juli
     - "'For above the Faith is no goodness kept in this life, as to my sight, and beneath the Faith is no help of soul; but in the Faith, there willeth the Lord that we keep us.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXI
 
@@ -895,7 +895,7 @@ God has three manners of countenance toward us: the Passion (mournful but glad f
     - "The Blissful Cheer is shewn 'by gracious touching and sweet lighting of the spiritual life, whereby that we are kept in sure faith, hope, and charity, with contrition and devotion.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXII
 
@@ -906,7 +906,7 @@ Sin is the most contrary thing to the soul's highest bliss — the Blissful Chee
     - "'Ever the more clearly that the soul seeth this Blissful Cheer by grace of loving, the more it longeth to see it in fulness' — clarity of vision increases rather than satisfies longing." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXIII
 
@@ -917,7 +917,7 @@ God shews two principal sicknesses of the spiritual life — impatience or sloth
     - "Heavy sorrow at repeated sin 'maketh us so sorry and so heavy, that scarsely we can find any comfort' — but this heaviness is itself a sin against the love that never condemns beyond contrition." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXIV
 
@@ -928,7 +928,7 @@ Julian distinguishes four kinds of dread — startling fright (useful for purgin
     - "'Love and Dread are brethren, and they are rooted in us by the Goodness of our Maker, and they shall never be taken from us without end.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXV
 
@@ -939,7 +939,7 @@ God has three longings — to teach us, to have us, to fulfil us — and at the 
     - "God gives three things man needs in this life: love-longing to draw him to heaven, pity to keep him now, and teaching to grow in knowledge of Him." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-burst.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXVI
 
@@ -950,7 +950,7 @@ The soul that beholds the fair nature of Christ hates no hell but sin; looking a
     - "'Especially into sloth and losing of time. For that is the beginning of sin, as to my sight, and especially to the creatures that have given them to serve our Lord with inward beholding of His blessed Goodness.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-connected.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXVII
 
@@ -961,7 +961,7 @@ God wills that we not accuse ourselves overmuch in tribulation nor think our woe
     - "'This place is prison and this life is penance, and in the remedy He willeth that we rejoice. The remedy is that our Lord is with us, keeping and leading into the fulness of joy.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_ark-boat.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXVIII
 
@@ -972,7 +972,7 @@ God shews our sin and feebleness through the sweet gracious light of Himself, no
     - "By meek knowing of sin, 'through contrition and grace we shall be broken from all that is not our Lord. And then shall our blessed Saviour perfectly heal us, and one us to Him.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXIX
 
@@ -983,7 +983,7 @@ Julian was taught to see her own sin rather than others' — except when it may 
     - "'In the dread I have matter of meekness that saveth me from presumption, and in the blessed Shewing of Love I have matter of true comfort and of joy that saveth me from despair.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXX
 
@@ -994,7 +994,7 @@ Three things keep and sustain the Christian life — natural reason, the common 
     - "'Love suffereth never to be without pity: and what time that we fall into sin and leave the mind of Him and the keeping of our own soul, then keepeth Christ alone all the charge.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_arrow-forward-to.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_spiral-yin-yang.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXXI
 
@@ -1005,7 +1005,7 @@ God beholds all our living as penance because our nature-longing for Him is itse
     - "'His love maketh Him to long for us; His wisdom and His truth with His rightfulness maketh Him to suffer us to be here.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-with-signal.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_ark-boat.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXXII
 
@@ -1016,7 +1016,7 @@ God shews that He knows Julian would suffer all pain for His love, yet in His co
     - "'In the Beholding of God we fall not, and in the beholding of self we stand not; and both these be sooth as to my sight.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXXIII
 
@@ -1027,7 +1027,7 @@ The strength and effect of all the Revelation rests in three properties of God �
     - "'At the end of woe, suddenly our eyes shall be opened, and in clearness of light our sight shall be full: which light is God, our Maker and Holy Ghost, in Christ Jesus our Saviour.'" —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXXIV
 
@@ -1038,7 +1038,7 @@ Charity is the light by which all spiritual life is measured and sustained: 'Cha
     - "The Sixth Revelation — God's thanking of His servants — is recalled as the shewing that grounds the teaching of charity as meed-earning light." —Julian of Norwich
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cathedral-spire.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXXV
 
@@ -1049,7 +1049,7 @@ At the Last Day no soul will wish that anything had been otherwise, for all will
     - The ending of Charity — that in the end all shall be Charity — is the horizon toward which all three chapters (lxxxiii-lxxxv) point.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_decorative-heart-wings.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Chapter LXXXVI
 

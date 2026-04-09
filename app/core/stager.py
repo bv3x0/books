@@ -47,18 +47,33 @@ SUPPORTED_EXTENSIONS = {'.pdf', '.epub'}
 
 
 class Stager:
-    def __init__(self, client, use_manual_toc=False, use_vlm=False, split_pages=False):
+    def __init__(
+        self,
+        client,
+        use_manual_toc=False,
+        use_vlm=False,
+        split_pages=False,
+        input_dir: str | None = None,
+        toc_path: str | None = None,
+    ):
         self.client = client
         self.use_manual_toc = use_manual_toc
         self.use_vlm = use_vlm
         self.split_pages = split_pages
+        self.input_dir = input_dir or INPUT_DIR
+        if toc_path is not None:
+            self.toc_path = toc_path
+        elif use_manual_toc:
+            self.toc_path = MANUAL_TOC_PATH
+        else:
+            self.toc_path = None
     
     def list_local_files(self):
         """
         Lists and sorts supported files (EPUB, PDF) in the input directory.
         """
         files = []
-        for f in os.listdir(INPUT_DIR):
+        for f in os.listdir(self.input_dir):
             ext = os.path.splitext(f.lower())[1]
             if ext in SUPPORTED_EXTENSIONS:
                 files.append(f)
@@ -80,26 +95,26 @@ class Stager:
         prepared_files = {}
 
         log.info(f"Stager: Found {len(local_files)} files to process.")
-        log.debug(f"Stager: Input directory: {INPUT_DIR}")
+        log.debug(f"Stager: Input directory: {self.input_dir}")
 
         # Load manual TOC if --toc flag was provided
         manual_toc = None
         manual_toc_structured = None
-        if self.use_manual_toc:
-            if os.path.exists(MANUAL_TOC_PATH):
+        if self.toc_path:
+            if os.path.exists(self.toc_path):
                 try:
-                    manual_toc_structured = parse_manual_toc(MANUAL_TOC_PATH)
+                    manual_toc_structured = parse_manual_toc(self.toc_path)
                     manual_toc = get_flat_toc(manual_toc_structured)
                     parts_count = sum(1 for level, _ in manual_toc_structured if level == 'part')
                     chapters_count = sum(1 for level, _ in manual_toc_structured if level == 'chapter')
-                    log.info(f"Stager: Loaded manual TOC from {MANUAL_TOC_PATH} ({parts_count} parts, {chapters_count} chapters)")
+                    log.info(f"Stager: Loaded manual TOC from {self.toc_path} ({parts_count} parts, {chapters_count} chapters)")
                 except Exception as e:
                     log.warning(f"Stager: Failed to parse manual TOC: {e}")
             else:
-                log.warning(f"Stager: --toc flag provided but {MANUAL_TOC_PATH} not found")
+                log.warning(f"Stager: manual TOC path not found: {self.toc_path}")
         
         for i, filename in enumerate(local_files):
-            file_path = os.path.join(INPUT_DIR, filename)
+            file_path = os.path.join(self.input_dir, filename)
             file_size = os.path.getsize(file_path)
             ext = os.path.splitext(filename.lower())[1]
             

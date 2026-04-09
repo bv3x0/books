@@ -14,9 +14,13 @@ from app.config import (
     CONCEPTS_PATH,
     GEMINI_MODEL_ID,
     GPT_MODEL_ID,
-    INPUT_DIR,
 )
-from app.services.ingest_models import IngestOptions, IngestRuntime, ProviderSettings
+from app.services.ingest_models import (
+    IngestOptions,
+    IngestRuntime,
+    IngestSourcePaths,
+    ProviderSettings,
+)
 
 
 def validate_book_name(name: str) -> str:
@@ -112,57 +116,26 @@ def initialize_runtime(
     book_name: str,
     options: IngestOptions,
     settings: ProviderSettings,
+    source_paths: IngestSourcePaths,
 ) -> IngestRuntime:
-    """Initialize provider client, core components, and optional concept registry."""
+    """Initialize provider client plus per-book processing components."""
     client, google_api_key = initialize_client(settings.provider)
     print("Book Summarizer App Initialized.", flush=True)
     print("  - Loading core modules...", flush=True)
 
-    from app.core.exporter import Exporter
     from app.core.manifest import Manifest
     from app.core.monitor import Monitor
     from app.core.stager import Stager
 
     print("  - Core modules loaded", flush=True)
 
-    concept_registry = None
-    enable_semantic_merge = options.enable_semantic_merge
-    semantic_merge_max_registry = int(os.getenv("SEMANTIC_MERGE_MAX_REGISTRY", "5000"))
-
-    if not options.test_mode:
-        from app.core.concept_registry import ConceptRegistry
-
-        print("  - Initializing concept registry...", flush=True)
-        concept_registry = ConceptRegistry(CONCEPTS_PATH)
-        print(
-            f"  - Concept registry loaded ({len(concept_registry.concepts)} existing concepts)",
-            flush=True,
-        )
-        if enable_semantic_merge and len(concept_registry.concepts) > semantic_merge_max_registry:
-            enable_semantic_merge = False
-            print(
-                "  - Semantic merge auto-disabled "
-                f"(registry {len(concept_registry.concepts):,} > limit {semantic_merge_max_registry:,})",
-                flush=True,
-            )
-            print(
-                "    Set SEMANTIC_MERGE_MAX_REGISTRY higher to re-enable for large registries.",
-                flush=True,
-            )
-        if enable_semantic_merge and not options.enable_enrichment:
-            enable_semantic_merge = False
-            print(
-                "  - Semantic merge disabled in core mode (use --enrich to enable embedding-based merge)",
-                flush=True,
-            )
-    else:
-        print("  - Test mode: skipping concept registry initialization", flush=True)
-
     stager = Stager(
         client,
-        use_manual_toc=options.use_manual_toc,
+        use_manual_toc=bool(source_paths.toc_path),
         use_vlm=options.use_vlm,
         split_pages=options.split_pages,
+        input_dir=source_paths.source_dir,
+        toc_path=source_paths.toc_path,
     )
     manifest = Manifest(client, use_unified=True, model_id=settings.model_id)
     monitor = Monitor(
@@ -172,10 +145,77 @@ def initialize_runtime(
         google_api_key=google_api_key,
         cache_suffix=settings.cache_suffix,
     )
+
+    return IngestRuntime(
+        client=client,
+        google_api_key=google_api_key,
+        stager=stager,
+        manifest=manifest,
+        monitor=monitor,
+    )
+
+
+def initialize_concept_registry(options: IngestOptions):
+    """Initialize shared concept registry state for the serialized write phase."""
+    if options.test_mode:
+        print("  - Test mode: skipping concept registry initialization", flush=True)
+        return None, False
+
+    from app.core.concept_registry import ConceptRegistry
+
+    enable_semantic_merge = options.enable_semantic_merge
+    semantic_merge_max_registry = int(os.getenv("SEMANTIC_MERGE_MAX_REGISTRY", "5000"))
+
+    print("  - Initializing concept registry...", flush=True)
+    concept_registry = ConceptRegistry(CONCEPTS_PATH)
+    print(
+        f"  - Concept registry loaded ({len(concept_registry.concepts)} existing concepts)",
+        flush=True,
+    )
+
+    if enable_semantic_merge and len(concept_registry.concepts) > semantic_merge_max_registry:
+        enable_semantic_merge = False
+        print(
+            "  - Semantic merge auto-disabled "
+            f"(registry {len(concept_registry.concepts):,} > limit {semantic_merge_max_registry:,})",
+            flush=True,
+        )
+        print(
+            "    Set SEMANTIC_MERGE_MAX_REGISTRY higher to re-enable for large registries.",
+            flush=True,
+        )
+
+    if enable_semantic_merge and not options.enable_enrichment:
+        enable_semantic_merge = False
+        print(
+            "  - Semantic merge disabled in core mode (use --enrich to enable embedding-based merge)",
+            flush=True,
+        )
+
+    if not enable_semantic_merge:
+        print(
+            "  - Concept registry semantic merge disabled (exact/alias matching only)",
+            flush=True,
+        )
+
+    return concept_registry, enable_semantic_merge
+
+
+def initialize_exporter(
+    book_name: str,
+    options: IngestOptions,
+    settings: ProviderSettings,
+    source_paths: IngestSourcePaths,
+    concept_registry,
+    enable_semantic_merge: bool,
+):
+    """Initialize exporter for the serialized write phase."""
+    from app.core.exporter import Exporter
+
     exporter = Exporter(
-        client,
-        INPUT_DIR,
-        book_name,
+        client=None,
+        output_dir=source_paths.source_dir,
+        book_name=book_name,
         summary_mode="quick",
         concept_registry=concept_registry,
         use_unified=True,
@@ -195,18 +235,8 @@ def initialize_runtime(
     ):
         concept_registry.embedder = exporter.embedder
         print("  - Concept registry semantic merge enabled (embedder attached)", flush=True)
-    elif concept_registry and not enable_semantic_merge:
-        print("  - Concept registry semantic merge disabled (exact/alias matching only)", flush=True)
 
-    return IngestRuntime(
-        client=client,
-        google_api_key=google_api_key,
-        concept_registry=concept_registry,
-        stager=stager,
-        manifest=manifest,
-        monitor=monitor,
-        exporter=exporter,
-    )
+    return exporter
 
 
 def submit_requests(runtime: IngestRuntime, requests: list, retry_mode: bool):

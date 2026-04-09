@@ -17,12 +17,14 @@ from app.cli.ingest_prompter import (
     NonInteractiveIngestPrompter,
     TerminalIngestPrompter,
 )
-from app.services.ingest_service import IngestOptions, run_ingest
+from app.services.ingest_service import IngestOptions, load_batch_request, run_batch_ingest, run_ingest
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description='Book Summarizer - Generate chapter outlines')
-    parser.add_argument('book',
+    parser.add_argument('book', nargs='?',
                         help='Name for the book (used for output filename in notes/)')
+    parser.add_argument('--batch-manifest',
+                        help='Path to JSON manifest describing multiple books and source folders')
     parser.add_argument('--toc', action='store_true',
                         help='Use manual TOC from books/toc.txt for chapter guidance')
     parser.add_argument('--retry', action='store_true',
@@ -53,10 +55,12 @@ def main():
     print("Starting Book Summarizer...", flush=True)
     parser = build_parser()
     args = parser.parse_args()
+    if bool(args.book) == bool(args.batch_manifest):
+        parser.error('provide either a single book name or --batch-manifest')
     if args.yes and args.non_interactive:
         parser.error('--yes and --non-interactive are mutually exclusive')
     options = IngestOptions(
-        book=args.book,
+        book=args.book or "",
         use_manual_toc=args.toc,
         retry_mode=args.retry,
         use_vlm=args.ocr,
@@ -73,7 +77,14 @@ def main():
         prompter = NonInteractiveIngestPrompter()
     else:
         prompter = TerminalIngestPrompter()
-    success = run_ingest(options, prompter=prompter)
+    if args.batch_manifest:
+        try:
+            batch_request = load_batch_request(args.batch_manifest, options)
+        except ValueError as e:
+            parser.error(str(e))
+        success = run_batch_ingest(batch_request, prompter=prompter)
+    else:
+        success = run_ingest(options, prompter=prompter)
     sys.exit(0 if success else 1)
 
 if __name__ == "__main__":

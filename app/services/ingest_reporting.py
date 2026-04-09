@@ -4,7 +4,7 @@ Reporting helpers for ingest workflows.
 
 from __future__ import annotations
 
-from app.config import INPUT_DIR, get_model_pricing
+from app.config import get_model_pricing
 from app.services.ingest_models import IngestOptions, ProviderSettings
 
 
@@ -12,9 +12,14 @@ def print_configuration(
     book_name: str,
     options: IngestOptions,
     settings: ProviderSettings,
+    source_dir: str,
+    toc_path: str | None = None,
 ) -> None:
     print(f"Processing book: {book_name}", flush=True)
-    print(f"Manual TOC: {'enabled' if options.use_manual_toc else 'disabled'}", flush=True)
+    print(
+        f"Manual TOC: {'enabled' if toc_path else 'disabled'}",
+        flush=True,
+    )
     print(f"Retry mode: {'enabled' if options.retry_mode else 'disabled'}", flush=True)
     print(f"OCR (VLM): {'enabled' if options.use_vlm else 'disabled'}", flush=True)
     print(f"Split pages: {'enabled' if options.split_pages else 'disabled'}", flush=True)
@@ -30,7 +35,9 @@ def print_configuration(
         % ("enabled" if options.enable_semantic_merge else "disabled"),
         flush=True,
     )
-    print(f"Staging directory: {INPUT_DIR}", flush=True)
+    print(f"Source directory: {source_dir}", flush=True)
+    if toc_path:
+        print(f"Manual TOC path: {toc_path}", flush=True)
     if settings.notes_suffix:
         print(f"Output will be saved to: notes/{book_name}{settings.notes_suffix}.md", flush=True)
     else:
@@ -186,3 +193,19 @@ def print_export_summary(
         print(f"  Chapters: {summary['chapter_count']}", flush=True)
         if summary.get("concepts"):
             print(f"  Unique concepts: {len(summary['concepts'])}", flush=True)
+
+
+def print_batch_summary(
+    total_jobs: int,
+    successful_books: list[str],
+    failed_books: list[str],
+) -> None:
+    """Print a concise batch ingest summary."""
+    print("\n=== Batch Summary ===", flush=True)
+    print(f"  Total jobs: {total_jobs}", flush=True)
+    print(f"  Successful: {len(successful_books)}", flush=True)
+    print(f"  Failed: {len(failed_books)}", flush=True)
+    if successful_books:
+        print(f"  Completed books: {', '.join(successful_books)}", flush=True)
+    if failed_books:
+        print(f"  Failed books: {', '.join(failed_books)}", flush=True)

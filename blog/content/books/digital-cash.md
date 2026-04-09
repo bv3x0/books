@@ -33,7 +33,7 @@ Digital cash is best understood as a problem of knowledge about currency authent
     - The story of digital cash lies at the intersection of the social puzzles of money, the technological history of computing, and our sense of historical and future condition.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_satellite-orbit.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_globe-grid.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Speculating with Money
 
@@ -53,7 +53,7 @@ Through the rise and fall of Technocracy Inc. and their energy certificate curre
     - H. G. Wells's Shape of Things to Come posited 'completely abstract money' called the 'air-dollar'—a unit of cargo in transit—marking 'that the old static conceptions of human life with limited resources were giving place to kinetic ideas.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_globe-detailed.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_money-100-bill.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Secure Paper
 
@@ -73,7 +73,7 @@ Paper money evolved from signature-centric bills of exchange—which authenticat
     - Mary Poovey argued that the naturalization of banknote production and models of 'literary merit' in 18th–19th century Britain was not coincidental—both were genres for defining value on printed paper.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_rocket-ship.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Life_gears-mechanism.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Recognizable without Being Known
 
@@ -93,7 +93,7 @@ Public key cryptography solved the fundamental problem of symmetric key distribu
     - Out of the cryptographer David Chaum's exploration of these ideas—a sealed envelope lined with carbon paper, stamped without the notary seeing its contents—came the first functional digital cash scheme.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Blinding Factor
 
@@ -113,7 +113,7 @@ David Chaum's DigiCash built the first functional digital cash using public key 
     - "Finney wrote in 1992 that cryptography and e-cash 'balances power between individuals and organizations.… If things work out well, we may be able to look back and see that it was the most important work we have ever done.'" —Hal Finney
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Space_constellation-pattern.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_compass-star-N.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Collapse of Governments
 
@@ -133,7 +133,7 @@ The cypherpunk movement, emerging from the 1992 inaugural meeting in Berkeley ch
     - The mechanism could offer a reward for resurrectionists: the first group to bring the account holder back to life gets a promised prize once the data is decrypted—a pricing system for bringing its own creator back from the dead.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_rocket-ship.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Permanent Frontiers
 
@@ -153,7 +153,7 @@ The cypherpunks addressed the adoption problem for digital cash by building soci
     - Potential recruits for the Xth Column of crypto anarchy ranged across every group with reasons for covert commerce: drug dealers, pornographers, file sharers, political dissidents, whistle-blowers, and immortalists seeking offshore medical tourism and experimental pharmacology.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_numbers-puzzle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Life_gears-mechanism.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Nanosecond Suitcase
 
@@ -173,7 +173,7 @@ Adam Back's hashcash—a proof-of-work postage system for email—showed how par
     - "Nakamoto wrote to Dai: 'I was very interested to read your b-money page. I'm getting ready to release a paper that expands on your ideas into a complete working system,' and later confirmed: 'I think it achieves nearly all the goals you set out to solve in your b-money paper.'" —Satoshi Nakamoto
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_cross-christian.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_castle-fortress.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Hayek in Biostasis
 
@@ -193,7 +193,7 @@ The Extropian movement fused Austrian economic theory—particularly Hayek's com
     - Unrestrained Austrian capitalism was for Extropians 'a kind of time machine'—not investment closing the loop of credit but a mechanism out of which spills 'a future of total, near-metaphysical disruption': the end of death, posthuman intelligence, expansion into interstellar space.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Space_earth-globe-full.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Future Desires
 
@@ -213,7 +213,7 @@ Cryonics—the practice of freezing bodies for future revival—expressed the Ex
     - Hayek's epilogue ended with personal melancholy: 'I am becoming increasingly aware that it ought not to be that but rather a new beginning. But I hardly dare hope that for me it can be so'—his work was for future persons about whom he could predict nothing.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_person-marching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Life_caduceus-medical-snake.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Emergency Money
 
@@ -233,7 +233,7 @@ Bitcoin was announced on Halloween 2008 at the nadir of the global financial cri
     - Nakamoto chose Bitcoin's birthday as April 5, 1975—the date the Roosevelt order forbidding gold hoarding was fully relaxed—an encoded libertarian commentary on monetary history.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_celebration-group.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_flood-destruction.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Escape Geographies
 
@@ -253,7 +253,7 @@ Early Bitcoin found its most devoted initial audience in the libertarian specula
     - People at PorcFest 2014 argued against security features on paper currency because they serve as a 'distraction'—turning money verification into something someone else is in charge of, one more step toward an abstract-institutional world.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_person-carrying.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Desolate Earth
 
@@ -273,7 +273,7 @@ Bitcoin's design choices—the public ledger, fixed supply, proof-of-work mining
     - Anthropologists Maurer, Nelms, and Swartz called Bitcoin's gold-comparison rhetoric 'digital metallism': grounding value outside human society through algorithmic control of money supply, yet relying on 'the social dynamics of community and trust' and the production of excitement through prose, videos, manifestos, and poetry.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_figure-with-weapon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_wheat-farming.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Conclusion: Sometime in the Future
 

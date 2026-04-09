@@ -4,13 +4,13 @@ Shared data models for ingest workflows.
 
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any
 
 
 @dataclass(frozen=True)
 class IngestOptions:
-    book: str
+    book: str = ""
     use_manual_toc: bool = False
     retry_mode: bool = False
     use_vlm: bool = False
@@ -32,11 +32,45 @@ class ProviderSettings:
 
 
 @dataclass(frozen=True)
+class IngestSourcePaths:
+    source_dir: str
+    toc_path: str | None = None
+
+
+@dataclass(frozen=True)
+class IngestJob:
+    book: str
+    options: IngestOptions
+    source_paths: IngestSourcePaths
+
+
+@dataclass(frozen=True)
+class BatchIngestRequest:
+    jobs: list[IngestJob]
+
+
+@dataclass(frozen=True)
 class IngestRuntime:
     client: Any
     google_api_key: str | None
-    concept_registry: Any
     stager: Any
     manifest: Any
     monitor: Any
-    exporter: Any
+
+
+@dataclass(frozen=True)
+class ProcessedIngestJob:
+    job: IngestJob
+    settings: ProviderSettings | None = None
+    runtime: IngestRuntime | None = None
+    uploaded_files: dict = field(default_factory=dict)
+    job_result: Any = None
+    status: str = "pending"
+    error: str | None = None
+
+
+@dataclass(frozen=True)
+class BatchIngestSummary:
+    total_jobs: int
+    successful_books: list[str] = field(default_factory=list)
+    failed_books: list[str] = field(default_factory=list)

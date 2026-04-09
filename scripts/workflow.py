@@ -3,7 +3,7 @@
 Unified daily workflow wrapper.
 
 Commands:
-  add      -> run app/main.py for one book
+  add      -> run app/main.py for one book or a batch manifest
   publish  -> run app/cli/publish.py publish
   ship     -> run publish, then commit/push the current worktree; non-production branches create preview deploys by default
   smoke    -> run local smoke checks for publish/build/search surfaces
@@ -65,7 +65,11 @@ def print_ship_result(summary: str) -> None:
 
 
 def add_command(args: argparse.Namespace) -> int:
-    cmd = [PYTHON, "app/main.py", args.book]
+    cmd = [PYTHON, "app/main.py"]
+    if args.batch_manifest:
+        cmd.extend(["--batch-manifest", args.batch_manifest])
+    else:
+        cmd.append(args.book)
     if args.toc:
         cmd.append("--toc")
     if args.retry:
@@ -226,8 +230,12 @@ def build_parser() -> argparse.ArgumentParser:
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
 
-    add = subparsers.add_parser("add", help="Add/update one book via app/main.py")
-    add.add_argument("book", help="Book name used for notes/index output")
+    add = subparsers.add_parser("add", help="Add/update one book or batch via app/main.py")
+    add.add_argument("book", nargs="?", help="Book name used for notes/index output")
+    add.add_argument(
+        "--batch-manifest",
+        help="Path to JSON manifest describing multiple books and source folders",
+    )
     add.add_argument(
         "--toc",
         action=argparse.BooleanOptionalAction,
@@ -340,6 +348,10 @@ def main() -> int:
     os.chdir(PROJECT_ROOT)
     parser = build_parser()
     args = parser.parse_args()
+    if args.command == "add" and bool(getattr(args, "book", None)) == bool(
+        getattr(args, "batch_manifest", None)
+    ):
+        parser.error("workflow add requires either a book name or --batch-manifest")
     return args.handler(args)
 
 
