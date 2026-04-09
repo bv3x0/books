@@ -1,9 +1,9 @@
 {
   "version": "2.2",
   "book": {
-    "title": "Bitcoin and the Future of Money",
-    "author": "Jacob Goldstein",
-    "year": null,
+    "title": "Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists Who Created Cryptocurrency",
+    "author": "Finn Brunton",
+    "year": "2019",
     "categories": [
       "history",
       "business & economics",
@@ -16,11 +16,7 @@
       "id": "bitcoin-and-the-future-of-money-001",
       "text": "Creating digital cash requires solving a set of paradoxical demands: the currency must be available but scarce, anonymous but identifiable, easy to transmit but impossible to copy\u2014all within technologies designed to make perfect copies costlessly.",
       "chapter": "Introduction: The Passing Current",
-      "concepts": [
-        "digital_scarcity",
-        "authentication",
-        "monetary_technology"
-      ],
+      "concepts": ["digital_scarcity", "authentication", "monetary_technology"],
       "entities": {
         "people": [],
         "places": [],
@@ -42,11 +38,7 @@
       "id": "bitcoin-and-the-future-of-money-002",
       "text": "The value of money in general depends on powerful and often abstract beliefs about the future\u2014predictions, bets, and hopes that a given currency will be accepted, not devalued, and redeemed\u2014making currency fundamentally anticipatory rather than merely transactional.",
       "chapter": "Introduction: The Passing Current",
-      "concepts": [
-        "monetary_trust",
-        "futurity",
-        "currency_authentication"
-      ],
+      "concepts": ["monetary_trust", "futurity", "currency_authentication"],
       "entities": {
         "people": [],
         "places": [],
@@ -75,9 +67,7 @@
       ],
       "entities": {
         "people": [],
-        "places": [
-          "California"
-        ],
+        "places": ["California"],
         "events": [],
         "works": []
       },
@@ -128,20 +118,10 @@
         "monetary_objectivity"
       ],
       "entities": {
-        "people": [
-          "Howard Scott",
-          "Thorstein Veblen"
-        ],
-        "places": [
-          "United States"
-        ],
-        "events": [
-          "Great Depression"
-        ],
-        "works": [
-          "The Engineers and the Price System",
-          "Harper's Magazine"
-        ]
+        "people": ["Howard Scott", "Thorstein Veblen"],
+        "places": ["United States"],
+        "events": ["Great Depression"],
+        "works": ["The Engineers and the Price System", "Harper's Magazine"]
       },
       "sub_points": [
         {
@@ -158,15 +138,9 @@
       "id": "bitcoin-and-the-future-of-money-006",
       "text": "A cosmogram, as theorized by historian of science John Tresch, is an object that simultaneously describes an order of the universe and prescribes how to act within it\u2014situating users in time and space, establishing ontological levels, and providing practices for producing a desired future.",
       "chapter": "Speculating with Money",
-      "concepts": [
-        "cosmogram",
-        "utopian_practice",
-        "social_technology"
-      ],
+      "concepts": ["cosmogram", "utopian_practice", "social_technology"],
       "entities": {
-        "people": [
-          "John Tresch"
-        ],
+        "people": ["John Tresch"],
         "places": [],
         "events": [],
         "works": [
@@ -201,16 +175,9 @@
           "Viviana Zelizer",
           "Christine Desan"
         ],
-        "places": [
-          "Germany"
-        ],
-        "events": [
-          "post-WWI German hyperinflation"
-        ],
-        "works": [
-          "The Social Life of Money",
-          "Making Money"
-        ]
+        "places": ["Germany"],
+        "events": ["post-WWI German hyperinflation"],
+        "works": ["The Social Life of Money", "Making Money"]
       },
       "sub_points": [
         {
@@ -241,11 +208,7 @@
         ],
         "places": [],
         "events": [],
-        "works": [
-          "Wonder Stories",
-          "Shape of Things to Come",
-          "Atlas Shrugged"
-        ]
+        "works": ["Wonder Stories", "Shape of Things to Come", "Atlas Shrugged"]
       },
       "sub_points": [
         {
@@ -268,18 +231,9 @@
         "credit_networks"
       ],
       "entities": {
-        "people": [
-          "Rebecca Spang"
-        ],
-        "places": [
-          "Antwerp",
-          "Genoa",
-          "Paris",
-          "Frankfurt"
-        ],
-        "events": [
-          "French Revolution"
-        ],
+        "people": ["Rebecca Spang"],
+        "places": ["Antwerp", "Genoa", "Paris", "Frankfurt"],
+        "events": ["French Revolution"],
         "works": []
       },
       "sub_points": [
@@ -303,17 +257,9 @@
         "documentary_culture"
       ],
       "entities": {
-        "people": [
-          "W.A. Dwiggins",
-          "Lana Swartz",
-          "Franklin Delano Roosevelt"
-        ],
-        "places": [
-          "United States"
-        ],
-        "events": [
-          "Nixon Shock"
-        ],
+        "people": ["W.A. Dwiggins", "Lana Swartz", "Franklin Delano Roosevelt"],
+        "places": ["United States"],
+        "events": ["Nixon Shock"],
         "works": []
       },
       "sub_points": [
@@ -337,14 +283,10 @@
         "analog_digital_border"
       ],
       "entities": {
-        "people": [
-          "William Gibson"
-        ],
+        "people": ["William Gibson"],
         "places": [],
         "events": [],
-        "works": [
-          "Zero History"
-        ]
+        "works": ["Zero History"]
       },
       "sub_points": [
         {
@@ -367,13 +309,8 @@
         "print_culture"
       ],
       "entities": {
-        "people": [
-          "Frances Robertson",
-          "Mary Poovey"
-        ],
-        "places": [
-          "Britain"
-        ],
+        "people": ["Frances Robertson", "Mary Poovey"],
+        "places": ["Britain"],
         "events": [],
         "works": []
       },
@@ -398,19 +335,9 @@
         "key_distribution_problem"
       ],
       "entities": {
-        "people": [
-          "Nancy Wake",
-          "Leo Marks",
-          "Claude Shannon"
-        ],
-        "places": [
-          "France",
-          "Baker Street"
-        ],
-        "events": [
-          "World War II",
-          "SOE operations"
-        ],
+        "people": ["Nancy Wake", "Leo Marks", "Claude Shannon"],
+        "places": ["France", "Baker Street"],
+        "events": ["World War II", "SOE operations"],
         "works": []
       },
       "sub_points": [
@@ -446,14 +373,9 @@
           "Leonard Adleman",
           "John McCarthy"
         ],
-        "places": [
-          "Berkeley",
-          "UK"
-        ],
+        "places": ["Berkeley", "UK"],
         "events": [],
-        "works": [
-          "RSA algorithm"
-        ]
+        "works": ["RSA algorithm"]
       },
       "sub_points": [
         {
@@ -470,11 +392,7 @@
       "id": "bitcoin-and-the-future-of-money-015",
       "text": "The Howland Will Case of 1865 required Charles Sanders Peirce and his father to mathematically distinguish a signature from a picture of a signature\u2014to quantify the indexical trace of bodily presence in writing\u2014prefiguring the deeper question of what a 'digital signature' actually authenticates.",
       "chapter": "Recognizable without Being Known",
-      "concepts": [
-        "semiotics",
-        "authentication",
-        "legal_evidence"
-      ],
+      "concepts": ["semiotics", "authentication", "legal_evidence"],
       "entities": {
         "people": [
           "Charles Sanders Peirce",
@@ -483,9 +401,7 @@
           "Hetty Robinson"
         ],
         "places": [],
-        "events": [
-          "Howland Will Case 1865"
-        ],
+        "events": ["Howland Will Case 1865"],
         "works": []
       },
       "sub_points": [
@@ -545,9 +461,7 @@
           "Margaret Atwood",
           "Gilles Deleuze"
         ],
-        "places": [
-          "Stanford"
-        ],
+        "places": ["Stanford"],
         "events": [],
         "works": [
           "The Handmaid's Tale",
@@ -582,10 +496,7 @@
           "Gilles Brassard",
           "Claude Cripeau"
         ],
-        "places": [
-          "Netherlands",
-          "Eindhoven"
-        ],
+        "places": ["Netherlands", "Eindhoven"],
         "events": [],
         "works": []
       },
@@ -610,15 +521,8 @@
         "institutional_inertia"
       ],
       "entities": {
-        "people": [
-          "David Chaum",
-          "Arvind Narayanan",
-          "Hal Finney"
-        ],
-        "places": [
-          "Netherlands",
-          "St. Louis"
-        ],
+        "people": ["David Chaum", "Arvind Narayanan", "Hal Finney"],
+        "places": ["Netherlands", "St. Louis"],
         "events": [],
         "works": []
       },
@@ -643,10 +547,7 @@
         "monetary_autonomy"
       ],
       "entities": {
-        "people": [
-          "Hal Finney",
-          "Jean-Fran\u00e7ois Blanchette"
-        ],
+        "people": ["Hal Finney", "Jean-Fran\u00e7ois Blanchette"],
         "places": [],
         "events": [],
         "works": []
@@ -672,23 +573,10 @@
         "information_markets"
       ],
       "entities": {
-        "people": [
-          "Timothy May",
-          "Jude Milhon",
-          "Eric Hughes",
-          "John Gilmore"
-        ],
-        "places": [
-          "Berkeley",
-          "San Francisco"
-        ],
-        "events": [
-          "inaugural cypherpunk meeting 1992"
-        ],
-        "works": [
-          "Crypto Anarchist Manifesto",
-          "Mondo 2000"
-        ]
+        "people": ["Timothy May", "Jude Milhon", "Eric Hughes", "John Gilmore"],
+        "places": ["Berkeley", "San Francisco"],
+        "events": ["inaugural cypherpunk meeting 1992"],
+        "works": ["Crypto Anarchist Manifesto", "Mondo 2000"]
       },
       "sub_points": [
         {
@@ -717,9 +605,7 @@
           "Stewart Brand",
           "Friedrich Hayek"
         ],
-        "places": [
-          "Palo Alto"
-        ],
+        "places": ["Palo Alto"],
         "events": [],
         "works": []
       },
@@ -750,9 +636,7 @@
           "John Walker",
           "Gayle Pergamit"
         ],
-        "places": [
-          "King of Prussia Pennsylvania"
-        ],
+        "places": ["King of Prussia Pennsylvania"],
         "events": [],
         "works": [
           "Xanadu",
@@ -774,20 +658,10 @@
       "id": "bitcoin-and-the-future-of-money-024",
       "text": "Salin became the fifty-ninth person to undergo cryonic suspension in 1991, which raised the practical question of how to transmit assets into an unknown future\u2014a problem May documented as the first use case for 'timed-release cryptographic protocols': sending money into the future while protecting it from seizure or taxation, to fund one's own future resurrection.",
       "chapter": "Collapse of Governments",
-      "concepts": [
-        "cryonics",
-        "temporal_finance",
-        "posthuman_economics"
-      ],
+      "concepts": ["cryonics", "temporal_finance", "posthuman_economics"],
       "entities": {
-        "people": [
-          "Phillip Salin",
-          "Timothy May",
-          "Julian Assange"
-        ],
-        "places": [
-          "Arizona"
-        ],
+        "people": ["Phillip Salin", "Timothy May", "Julian Assange"],
+        "places": ["Arizona"],
         "events": [],
         "works": []
       },
@@ -806,22 +680,12 @@
       "id": "bitcoin-and-the-future-of-money-025",
       "text": "Vernor Vinge's 1981 novella True Names established the narrative template for the cypherpunk project: hackers using pseudonyms to protect their 'true names' in a virtual Other Plane, where money was still conventional but anonymity enabled freedom from government, criminals, and each other.",
       "chapter": "Permanent Frontiers",
-      "concepts": [
-        "pseudonymity",
-        "virtual_identity",
-        "digital_frontier"
-      ],
+      "concepts": ["pseudonymity", "virtual_identity", "digital_frontier"],
       "entities": {
-        "people": [
-          "Vernor Vinge",
-          "Wei Dai",
-          "Timothy May"
-        ],
+        "people": ["Vernor Vinge", "Wei Dai", "Timothy May"],
         "places": [],
         "events": [],
-        "works": [
-          "True Names"
-        ]
+        "works": ["True Names"]
       },
       "sub_points": [
         {
@@ -844,19 +708,10 @@
         "information_leaking"
       ],
       "entities": {
-        "people": [
-          "Timothy May",
-          "Julian Assange",
-          "Thomas Rid"
-        ],
+        "people": ["Timothy May", "Julian Assange", "Thomas Rid"],
         "places": [],
-        "events": [
-          "Cablegate WikiLeaks disclosures"
-        ],
-        "works": [
-          "BlackNet invitation",
-          "Conspiracy as Governance"
-        ]
+        "events": ["Cablegate WikiLeaks disclosures"],
+        "works": ["BlackNet invitation", "Conspiracy as Governance"]
       },
       "sub_points": [
         {
@@ -885,10 +740,7 @@
           "Fred Turner",
           "Stewart Brand"
         ],
-        "places": [
-          "Davos",
-          "Wyoming"
-        ],
+        "places": ["Davos", "Wyoming"],
         "events": [],
         "works": [
           "Declaration of the Independence of Cyberspace",
@@ -941,22 +793,12 @@
       "id": "bitcoin-and-the-future-of-money-029",
       "text": "Adam Back's hashcash (1997) solved the cypherpunk spam problem by requiring senders to produce a 'partial hash collision'\u2014a computationally expensive proof of work that is trivial to verify\u2014functioning as metered digital postage that is unnoticeable for ordinary correspondence but economically prohibitive at spam scale.",
       "chapter": "Nanosecond Suitcase",
-      "concepts": [
-        "proof_of_work",
-        "computational_labor",
-        "anti_spam"
-      ],
+      "concepts": ["proof_of_work", "computational_labor", "anti_spam"],
       "entities": {
-        "people": [
-          "Adam Back",
-          "Grace Hopper",
-          "Hal Finney"
-        ],
+        "people": ["Adam Back", "Grace Hopper", "Hal Finney"],
         "places": [],
         "events": [],
-        "works": [
-          "hashcash paper 2002"
-        ]
+        "works": ["hashcash paper 2002"]
       },
       "sub_points": [
         {
@@ -979,13 +821,8 @@
         "cryptographic_chaining"
       ],
       "entities": {
-        "people": [
-          "Hans Peter Luhn",
-          "Matthew Kirschenbaum"
-        ],
-        "places": [
-          "IBM Poughkeepsie"
-        ],
+        "people": ["Hans Peter Luhn", "Matthew Kirschenbaum"],
+        "places": ["IBM Poughkeepsie"],
         "events": [],
         "works": []
       },
@@ -1010,15 +847,10 @@
         "peer_to_peer_value"
       ],
       "entities": {
-        "people": [
-          "Hal Finney",
-          "Nick Szabo"
-        ],
+        "people": ["Hal Finney", "Nick Szabo"],
         "places": [],
         "events": [],
-        "works": [
-          "RPOW system"
-        ]
+        "works": ["RPOW system"]
       },
       "sub_points": [
         {
@@ -1041,16 +873,10 @@
         "cryptocurrency_precursors"
       ],
       "entities": {
-        "people": [
-          "Wei Dai",
-          "Satoshi Nakamoto",
-          "Adam Back"
-        ],
+        "people": ["Wei Dai", "Satoshi Nakamoto", "Adam Back"],
         "places": [],
         "events": [],
-        "works": [
-          "b-money proposal 1998"
-        ]
+        "works": ["b-money proposal 1998"]
       },
       "sub_points": [
         {
@@ -1067,11 +893,7 @@
       "id": "bitcoin-and-the-future-of-money-033",
       "text": "The Extropian community, though never more than a few thousand people, gathered almost every key figure in Bitcoin's eventual genesis\u2014including Finney, Szabo, Merkle, Mark Miller, Wei Dai, Timothy May, and Perry Metzger (who ran the cryptography list where Nakamoto posted the Bitcoin paper)\u2014making it the social and intellectual incubator of cryptocurrency.",
       "chapter": "Hayek in Biostasis",
-      "concepts": [
-        "transhumanism",
-        "utopian_community",
-        "techno_optimism"
-      ],
+      "concepts": ["transhumanism", "utopian_community", "techno_optimism"],
       "entities": {
         "people": [
           "Max More",
@@ -1084,14 +906,9 @@
           "Perry Metzger",
           "T.O. Morrow"
         ],
-        "places": [
-          "California",
-          "Bay Area"
-        ],
+        "places": ["California", "Bay Area"],
         "events": [],
-        "works": [
-          "Extropy magazine"
-        ]
+        "works": ["Extropy magazine"]
       },
       "sub_points": [
         {
@@ -1120,14 +937,9 @@
           "Murray Rothbard",
           "Karl Popper"
         ],
-        "places": [
-          "Vienna",
-          "California"
-        ],
+        "places": ["Vienna", "California"],
         "events": [],
-        "works": [
-          "Law Legislation and Liberty"
-        ]
+        "works": ["Law Legislation and Liberty"]
       },
       "sub_points": [
         {
@@ -1150,16 +962,10 @@
         "reputation_systems"
       ],
       "entities": {
-        "people": [
-          "Robin Hanson",
-          "Hal Finney",
-          "Matt Thomlinson"
-        ],
+        "people": ["Robin Hanson", "Hal Finney", "Matt Thomlinson"],
         "places": [],
         "events": [],
-        "works": [
-          "Extropy magazine"
-        ]
+        "works": ["Extropy magazine"]
       },
       "sub_points": [
         {
@@ -1182,10 +988,7 @@
         "posthumanism"
       ],
       "entities": {
-        "people": [
-          "Nick Szabo",
-          "Max More"
-        ],
+        "people": ["Nick Szabo", "Max More"],
         "places": [],
         "events": [],
         "works": []
@@ -1205,26 +1008,12 @@
       "id": "bitcoin-and-the-future-of-money-037",
       "text": "Cryonics was the ultimate Extropian idea future\u2014expressing the spirit of speculative currency in a more successful form than the currencies themselves\u2014requiring specialized financial instruments including dynasty trusts, strange insurance schemes, and investment tontines to move assets into a future when the preserved person would be revived.",
       "chapter": "Future Desires",
-      "concepts": [
-        "cryonics",
-        "long_term_investment",
-        "extreme_futurism"
-      ],
+      "concepts": ["cryonics", "long_term_investment", "extreme_futurism"],
       "entities": {
-        "people": [
-          "Max More",
-          "Hal Finney",
-          "Tiffany Romain",
-          "Charles Platt"
-        ],
-        "places": [
-          "Alcor facility",
-          "Arizona"
-        ],
+        "people": ["Max More", "Hal Finney", "Tiffany Romain", "Charles Platt"],
+        "places": ["Alcor facility", "Arizona"],
         "events": [],
-        "works": [
-          "Cryonics magazine"
-        ]
+        "works": ["Cryonics magazine"]
       },
       "sub_points": [
         {
@@ -1247,20 +1036,10 @@
         "speculative_fiction"
       ],
       "entities": {
-        "people": [
-          "Leo Szilard",
-          "R.C.W. Ettinger"
-        ],
-        "places": [
-          "Chicago",
-          "Stagg Field"
-        ],
-        "events": [
-          "first nuclear chain reaction 1942"
-        ],
-        "works": [
-          "The Penultimate Trump"
-        ]
+        "people": ["Leo Szilard", "R.C.W. Ettinger"],
+        "places": ["Chicago", "Stagg Field"],
+        "events": ["first nuclear chain reaction 1942"],
+        "works": ["The Penultimate Trump"]
       },
       "sub_points": [
         {
@@ -1283,20 +1062,10 @@
         "vanguard_theory"
       ],
       "entities": {
-        "people": [
-          "Friedrich Hayek",
-          "Corey Robin"
-        ],
-        "places": [
-          "Vienna",
-          "Chile"
-        ],
-        "events": [
-          "Pinochet dictatorship"
-        ],
-        "works": [
-          "Law Legislation and Liberty"
-        ]
+        "people": ["Friedrich Hayek", "Corey Robin"],
+        "places": ["Vienna", "Chile"],
+        "events": ["Pinochet dictatorship"],
+        "works": ["Law Legislation and Liberty"]
       },
       "sub_points": [
         {
@@ -1319,13 +1088,9 @@
         "monetary_crisis"
       ],
       "entities": {
-        "people": [
-          "Friedrich Hayek"
-        ],
+        "people": ["Friedrich Hayek"],
         "places": [],
-        "events": [
-          "dot-com crash early 2000s"
-        ],
+        "events": ["dot-com crash early 2000s"],
         "works": []
       },
       "sub_points": [
@@ -1349,19 +1114,13 @@
         "cryptocurrency_origins"
       ],
       "entities": {
-        "people": [
-          "Satoshi Nakamoto",
-          "Hal Finney",
-          "Ben Bernanke"
-        ],
+        "people": ["Satoshi Nakamoto", "Hal Finney", "Ben Bernanke"],
         "places": [],
         "events": [
           "2008 global financial crisis",
           "Emergency Economic Stabilization Act"
         ],
-        "works": [
-          "Bitcoin whitepaper"
-        ]
+        "works": ["Bitcoin whitepaper"]
       },
       "sub_points": [
         {
@@ -1378,23 +1137,12 @@
       "id": "bitcoin-and-the-future-of-money-042",
       "text": "Bitcoin's core innovation was fusing the proof-of-work challenge used to mint new coins with the mechanism for securing the ledger against double-spending: the same computational difficulty that creates scarcity also makes it prohibitively expensive to fraudulently alter the transaction record, replacing trusted third parties with 'the steadily decreasing probability that an alternative version will successfully challenge the canonical record.'",
       "chapter": "Emergency Money",
-      "concepts": [
-        "distributed_consensus",
-        "blockchain",
-        "proof_of_work"
-      ],
+      "concepts": ["distributed_consensus", "blockchain", "proof_of_work"],
       "entities": {
-        "people": [
-          "Satoshi Nakamoto",
-          "Adam Back",
-          "Wei Dai",
-          "Ralph Merkle"
-        ],
+        "people": ["Satoshi Nakamoto", "Adam Back", "Wei Dai", "Ralph Merkle"],
         "places": [],
         "events": [],
-        "works": [
-          "Bitcoin v0.1"
-        ]
+        "works": ["Bitcoin v0.1"]
       },
       "sub_points": [
         {
@@ -1417,13 +1165,8 @@
         "monetary_identity"
       ],
       "entities": {
-        "people": [
-          "James Howells",
-          "Ted Nelson"
-        ],
-        "places": [
-          "Newport Wales"
-        ],
+        "people": ["James Howells", "Ted Nelson"],
+        "places": ["Newport Wales"],
         "events": [],
         "works": []
       },
@@ -1454,9 +1197,7 @@
           "Franklin D. Roosevelt"
         ],
         "places": [],
-        "events": [
-          "Executive Order 6102 1933"
-        ],
+        "events": ["Executive Order 6102 1933"],
         "works": []
       },
       "sub_points": [
@@ -1474,23 +1215,12 @@
       "id": "bitcoin-and-the-future-of-money-045",
       "text": "Liberty Dollar mintmaster Bernard von NotHaus's 'the Drop'\u2014physically placing silver medallions in people's palms so they could feel the weight\u2014exemplifies the epistemology of libertarian hard money: value known through immediate bodily experience rather than institutional certification, backed by an implicit future of dollar collapse.",
       "chapter": "Escape Geographies",
-      "concepts": [
-        "hard_money",
-        "bodily_epistemology",
-        "libertarian_currency"
-      ],
+      "concepts": ["hard_money", "bodily_epistemology", "libertarian_currency"],
       "entities": {
-        "people": [
-          "Bernard von NotHaus"
-        ],
-        "places": [
-          "Coeur d'Alene Idaho",
-          "Honolulu"
-        ],
+        "people": ["Bernard von NotHaus"],
+        "places": ["Coeur d'Alene Idaho", "Honolulu"],
         "events": [],
-        "works": [
-          "To Know Value"
-        ]
+        "works": ["To Know Value"]
       },
       "sub_points": [
         {
@@ -1507,11 +1237,7 @@
       "id": "bitcoin-and-the-future-of-money-046",
       "text": "Ross Ulbricht's Silk Road cryptomarket, directly crediting Tim May's Xth Column concept, demonstrated agorist theory in practice: every unregulated transaction outside state control was a victory for the agora and a weakening of the state, with Bitcoin serving as the transaction medium because it combined the verifiability of precious metals with the anonymity of cash.",
       "chapter": "Escape Geographies",
-      "concepts": [
-        "agorism",
-        "counter_economics",
-        "darknet_markets"
-      ],
+      "concepts": ["agorism", "counter_economics", "darknet_markets"],
       "entities": {
         "people": [
           "Ross Ulbricht",
@@ -1520,12 +1246,8 @@
           "Timothy May"
         ],
         "places": [],
-        "events": [
-          "Silk Road"
-        ],
-        "works": [
-          "Alongside Night"
-        ]
+        "events": ["Silk Road"],
+        "works": ["Alongside Night"]
       },
       "sub_points": [
         {
@@ -1542,11 +1264,7 @@
       "id": "bitcoin-and-the-future-of-money-047",
       "text": "Libertarian micronation projects\u2014Werner Stiefel's Operation Atlantis, the Minerva reef, and HavenCo on the North Sea platform Sealand\u2014shared the same spatial and temporal structure as libertarian fiction: characters move to alternative zones to live outside the emergency, exacerbate the existing crisis, and return to the changed world; coins were minted in advance of the societies they were meant to represent.",
       "chapter": "Escape Geographies",
-      "concepts": [
-        "seasteading",
-        "escape_geography",
-        "monetary_sovereignty"
-      ],
+      "concepts": ["seasteading", "escape_geography", "monetary_sovereignty"],
       "entities": {
         "people": [
           "Werner Stiefel",
@@ -1554,19 +1272,9 @@
           "Sameer Parekh",
           "Sean Hastings"
         ],
-        "places": [
-          "Sealand",
-          "North Sea",
-          "Minerva",
-          "Anguilla"
-        ],
-        "events": [
-          "Operation Atlantis",
-          "HavenCo launch 2000"
-        ],
-        "works": [
-          "Wired HavenCo cover story 2000"
-        ]
+        "places": ["Sealand", "North Sea", "Minerva", "Anguilla"],
+        "events": ["Operation Atlantis", "HavenCo launch 2000"],
+        "works": ["Wired HavenCo cover story 2000"]
       },
       "sub_points": [
         {
@@ -1589,22 +1297,10 @@
         "epistemic_authority"
       ],
       "entities": {
-        "people": [
-          "Peter Thiel",
-          "Patri Friedman",
-          "Albert Jay Nock"
-        ],
-        "places": [
-          "PorcFest",
-          "New Hampshire",
-          "Bretton Woods"
-        ],
-        "events": [
-          "Bretton Woods Conference 1944"
-        ],
-        "works": [
-          "Atlas Shrugged"
-        ]
+        "people": ["Peter Thiel", "Patri Friedman", "Albert Jay Nock"],
+        "places": ["PorcFest", "New Hampshire", "Bretton Woods"],
+        "events": ["Bretton Woods Conference 1944"],
+        "works": ["Atlas Shrugged"]
       },
       "sub_points": [
         {
@@ -1621,25 +1317,11 @@
       "id": "bitcoin-and-the-future-of-money-049",
       "text": "Coins are exceptionally vivid archives: the Gotland hoard of Islamic dirhams documents trade across half the known world, English suffragettes stamped 'VOTES FOR WOMEN' into pennies, and Maria Theresa thalers continued to be minted with the year of her death 1780 for centuries because the coin's identity as a trusted trade medium outlasted the monarch who authorized it.",
       "chapter": "Desolate Earth",
-      "concepts": [
-        "numismatics",
-        "monetary_history",
-        "coins_as_archives"
-      ],
+      "concepts": ["numismatics", "monetary_history", "coins_as_archives"],
       "entities": {
-        "people": [
-          "Alexander Hamilton",
-          "Benjamin Franklin",
-          "Lycurgus"
-        ],
-        "places": [
-          "Gotland",
-          "Valley Forge",
-          "Sparta"
-        ],
-        "events": [
-          "Valley Forge winter 1777"
-        ],
+        "people": ["Alexander Hamilton", "Benjamin Franklin", "Lycurgus"],
+        "places": ["Gotland", "Valley Forge", "Sparta"],
+        "events": ["Valley Forge winter 1777"],
         "works": []
       },
       "sub_points": [
@@ -1663,14 +1345,8 @@
         "monetary_cosmogram"
       ],
       "entities": {
-        "people": [
-          "Benjamin Franklin",
-          "Rebecca Spang"
-        ],
-        "places": [
-          "American colonies",
-          "New England"
-        ],
+        "people": ["Benjamin Franklin", "Rebecca Spang"],
+        "places": ["American colonies", "New England"],
         "events": [],
         "works": []
       },
@@ -1695,19 +1371,10 @@
         "speculative_hoarding"
       ],
       "entities": {
-        "people": [
-          "Albert Jay Nock",
-          "Roger Ver",
-          "Peter Thiel"
-        ],
-        "places": [
-          "St. Kitts and Nevis",
-          "Liberland"
-        ],
+        "people": ["Albert Jay Nock", "Roger Ver", "Peter Thiel"],
+        "places": ["St. Kitts and Nevis", "Liberland"],
         "events": [],
-        "works": [
-          "Atlas Shrugged"
-        ]
+        "works": ["Atlas Shrugged"]
       },
       "sub_points": [
         {
@@ -1730,12 +1397,7 @@
         "technological_waste"
       ],
       "entities": {
-        "people": [
-          "Nigel Dodd",
-          "Bill Maurer",
-          "Taylor Nelms",
-          "Lana Swartz"
-        ],
+        "people": ["Nigel Dodd", "Bill Maurer", "Taylor Nelms", "Lana Swartz"],
         "places": [],
         "events": [],
         "works": []
@@ -1761,11 +1423,7 @@
         "speculative_currency"
       ],
       "entities": {
-        "people": [
-          "Howard Scott",
-          "David Chaum",
-          "Bruce Sterling"
-        ],
+        "people": ["Howard Scott", "David Chaum", "Bruce Sterling"],
         "places": [],
         "events": [],
         "works": []
@@ -1785,20 +1443,10 @@
       "id": "bitcoin-and-the-future-of-money-054",
       "text": "Hal Finney\u2014the quiet main character of the book, recipient of the first Bitcoin transaction, RPOW designer, Extropian, and cypherpunk\u2014died of ALS in 2014 and was cryonically preserved at Alcor, his body simultaneously in the past (memorialized in press and blockchain), present (at \u2212196\u00b0C in Arizona), and future (where all money ultimately resides).",
       "chapter": "Conclusion: Sometime in the Future",
-      "concepts": [
-        "cryonics",
-        "monetary_futurity",
-        "technological_legacy"
-      ],
+      "concepts": ["cryonics", "monetary_futurity", "technological_legacy"],
       "entities": {
-        "people": [
-          "Hal Finney",
-          "Max More"
-        ],
-        "places": [
-          "Alcor facility",
-          "Arizona"
-        ],
+        "people": ["Hal Finney", "Max More"],
+        "places": ["Alcor facility", "Arizona"],
         "events": [],
         "works": []
       },

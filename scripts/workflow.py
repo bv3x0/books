@@ -5,7 +5,7 @@ Unified daily workflow wrapper.
 Commands:
   add      -> run app/main.py for one book
   publish  -> run app/cli/publish.py publish
-  ship     -> run publish, then commit/push with an explicit preview or production target
+  ship     -> run publish, then commit/push; non-production branches create preview deploys by default
   smoke    -> run local smoke checks for publish/build/search surfaces
 """
 
@@ -102,19 +102,7 @@ def ship_command(args: argparse.Namespace) -> int:
     branch_display = branch or "<detached-head>"
     preview_only_push = branch != PRODUCTION_BRANCH
 
-    if preview_only_push and not args.allow_preview and not args.deploy_production:
-        print(
-            (
-                f"Refusing to ship from '{branch_display}' without an explicit deploy target.\n"
-                f"Pushing '{branch_display}' only updates a Vercel preview deployment.\n"
-                f"Use `python3 scripts/workflow.py ship --allow-preview` for a preview-only push,\n"
-                f"or `python3 scripts/workflow.py ship --deploy-production` to push and deploy this worktree to production."
-            ),
-            file=sys.stderr,
-        )
-        return 2
-
-    if preview_only_push and args.allow_preview:
+    if preview_only_push and not args.deploy_production:
         print(
             f"Preview ship: branch '{branch_display}' will push a preview deployment only.",
             file=sys.stderr,
@@ -264,7 +252,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     ship = subparsers.add_parser(
         "ship",
-        help="Run publish, then commit/push; feature branches require an explicit preview or production target",
+        help="Run publish, then commit/push; non-production branches default to preview deployments",
     )
     ship.add_argument(
         "--reconcile",
@@ -290,7 +278,7 @@ def build_parser() -> argparse.ArgumentParser:
     ship.add_argument(
         "--allow-preview",
         action="store_true",
-        help="Allow shipping from a non-production branch when you only want a preview deployment",
+        help="Compatibility flag: non-production branches already push preview deployments by default",
     )
     ship.add_argument(
         "--deploy-production",

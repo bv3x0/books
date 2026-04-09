@@ -99,6 +99,12 @@ def validate_toc_matches(uploaded_files: dict, prompter: IngestPrompter) -> bool
                     return False
             elif match_rate < 0.8:
                 return prompter.confirm_toc_continue(review, passed=False)
+            elif match_rate >= 1.0:
+                print(
+                    "\nTOC validation reached 100% match. Proceeding automatically.",
+                    flush=True,
+                )
+                return True
             else:
                 return prompter.confirm_toc_continue(review, passed=True)
 

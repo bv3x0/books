@@ -248,7 +248,7 @@ class WorkflowScriptTests(unittest.TestCase):
         self.assertIn("Git commit signing failed because pinentry was unavailable.", combined)
         self.assertIn("python3 scripts/workflow.py ship --no-gpg-sign", combined)
 
-    def test_ship_refuses_preview_branch_without_explicit_target(self):
+    def test_ship_defaults_to_preview_push_from_non_production_branch(self):
         args = SimpleNamespace(
             reconcile="none",
             sync_vectors=False,
@@ -257,19 +257,40 @@ class WorkflowScriptTests(unittest.TestCase):
             allow_preview=False,
             deploy_production=False,
         )
+        output = StringIO()
         error = StringIO()
+        run_cmd_calls = []
+
+        def fake_run_cmd(cmd):
+            run_cmd_calls.append(cmd)
+            return 0
+
+        def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
+            if cmd == ["git", "diff", "--cached", "--quiet"]:
+                return subprocess.CompletedProcess(cmd, 1)
+            if cmd == ["git", "commit", "-m", "new books"]:
+                return subprocess.CompletedProcess(cmd, 0, "", "")
+            raise AssertionError(f"unexpected command: {cmd}")
 
         with (
             mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
-            mock.patch.object(workflow, "publish_command", return_value=0) as publish_command,
+            mock.patch.object(workflow, "publish_command", return_value=0),
+            mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
+            mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
+            redirect_stdout(output),
             redirect_stderr(error),
         ):
             rc = workflow.ship_command(args)
 
-        self.assertEqual(rc, 2)
-        publish_command.assert_not_called()
+        self.assertEqual(rc, 0)
+        self.assertEqual(
+            run_cmd_calls,
+            [
+                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "push"],
+            ],
+        )
         self.assertIn("preview deployment", error.getvalue())
-        self.assertIn("--deploy-production", error.getvalue())
 
     def test_ship_allows_preview_push_when_requested(self):
         args = SimpleNamespace(
@@ -519,7 +540,32 @@ class IngestServiceInteractionTests(unittest.TestCase):
         self.assertEqual(uploaded_files["book.epub"]["toc"], ["Manual Chapter"])
         self.assertEqual(uploaded_files["book.epub"]["toc_structured"], [("chapter", "Manual Chapter")])
         self.assertEqual(len(prompter.low_match_reviews), 1)
+        self.assertEqual(prompter.toc_continue_reviews, [])
+
+    def test_validate_toc_matches_prompts_when_match_rate_is_below_100_percent(self):
+        uploaded_files = {
+            "book.epub": {
+                "format": "markdown",
+                "toc": [f"Chapter {i}" for i in range(1, 11)],
+                "text": "body text",
+            }
+        }
+        prompter = FakePrompter(toc_continue=True)
+
+        with mock.patch(
+            "app.core.epub_processor.test_toc_matches",
+            return_value={
+                "matched": [(f"Chapter {i}", "ctx") for i in range(1, 10)],
+                "unmatched": ["Chapter 10"],
+                "match_rate": 0.9,
+            },
+        ):
+            ok = ingest_service.validate_toc_matches(uploaded_files, prompter)
+
+        self.assertTrue(ok)
         self.assertEqual(len(prompter.toc_continue_reviews), 1)
+        _review, passed = prompter.toc_continue_reviews[0]
+        self.assertTrue(passed)
 
     def test_auto_yes_prompter_accepts_reviews(self):
         review = ingest_service.TocValidationReview(
