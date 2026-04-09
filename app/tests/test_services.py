@@ -132,7 +132,7 @@ class PublishServiceTests(unittest.TestCase):
         self.assertTrue(ok)
         self.assertEqual(
             calls,
-            ["glyphs", "notes", "related", "stats", "backlog", "integrity", "site", "search", "vectors"],
+            ["glyphs", "notes", "integrity", "related", "stats", "backlog", "site", "search", "vectors"],
         )
 
     def test_publish_stops_on_fatal_failure(self):
@@ -163,14 +163,109 @@ class PublishServiceTests(unittest.TestCase):
         self.assertFalse(ok)
         self.assertEqual(calls, ["glyphs", "notes"])
 
+    def test_publish_reconciles_before_refreshing_derived_outputs(self):
+        calls = []
+
+        def mark(name, result=True):
+            def _fn(*args, **kwargs):
+                calls.append(name)
+                return result
+
+            return _fn
+
+        with (
+            mock.patch.object(
+                publish_service, "sync_glyphs", side_effect=mark("glyphs", StepResult.success())
+            ),
+            mock.patch.object(
+                publish_service, "sync_notes", side_effect=mark("notes", StepResult.success())
+            ),
+            mock.patch.object(
+                publish_service, "run_reconcile", side_effect=mark("reconcile", StepResult.success())
+            ),
+            mock.patch.object(
+                publish_service,
+                "run_integrity_check",
+                side_effect=mark("integrity", StepResult.success()),
+            ),
+            mock.patch.object(
+                publish_service, "compute_related", side_effect=mark("related", StepResult.success())
+            ),
+            mock.patch.object(
+                publish_service, "refresh_stats", side_effect=mark("stats", StepResult.success())
+            ),
+            mock.patch.object(
+                publish_service,
+                "report_vector_backlog",
+                side_effect=mark("backlog", StepResult.success()),
+            ),
+            mock.patch.object(
+                publish_service, "build_site", side_effect=mark("site", StepResult.success())
+            ),
+            mock.patch.object(
+                publish_service,
+                "build_search_index",
+                side_effect=mark("search", StepResult.success()),
+            ),
+        ):
+            ok = publish_service.publish(
+                publish_service.PublishOptions(
+                    reconcile_mode="full", sync_vectors=False, run_integrity=True
+                )
+            )
+
+        self.assertTrue(ok)
+        self.assertEqual(
+            calls,
+            ["glyphs", "notes", "reconcile", "integrity", "related", "stats", "backlog", "site", "search"],
+        )
+
 
 class WorkflowScriptTests(unittest.TestCase):
+    def test_add_forwards_selected_flags_to_main_cli(self):
+        args = SimpleNamespace(
+            book="book name",
+            toc=True,
+            retry=True,
+            ocr=True,
+            split=True,
+            gem=True,
+            gpt=False,
+            test=True,
+            enrich=True,
+            no_semantic_merge=True,
+            yes=True,
+            non_interactive=False,
+        )
+
+        with mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd:
+            rc = workflow.add_command(args)
+
+        self.assertEqual(rc, 0)
+        run_cmd.assert_called_once_with(
+            [
+                workflow.PYTHON,
+                "app/main.py",
+                "book name",
+                "--toc",
+                "--retry",
+                "--ocr",
+                "--split",
+                "--gem",
+                "--test",
+                "--enrich",
+                "--no-semantic-merge",
+                "--yes",
+            ]
+        )
+
     def test_ship_uses_unsigned_commit_when_requested(self):
         args = SimpleNamespace(
             reconcile="none",
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=True,
+            dry_run=False,
             allow_preview=False,
             deploy_production=False,
         )
@@ -199,7 +294,7 @@ class WorkflowScriptTests(unittest.TestCase):
         self.assertEqual(
             run_cmd_calls,
             [
-                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "add", "-A"],
                 ["git", "push"],
             ],
         )
@@ -210,6 +305,7 @@ class WorkflowScriptTests(unittest.TestCase):
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=False,
+            dry_run=False,
             allow_preview=False,
             deploy_production=False,
         )
@@ -242,7 +338,7 @@ class WorkflowScriptTests(unittest.TestCase):
 
         self.assertEqual(rc, 128)
         run_cmd.assert_called_once_with(
-            ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"]
+            ["git", "add", "-A"]
         )
         combined = output.getvalue() + error.getvalue()
         self.assertIn("Git commit signing failed because pinentry was unavailable.", combined)
@@ -254,6 +350,7 @@ class WorkflowScriptTests(unittest.TestCase):
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=False,
+            dry_run=False,
             allow_preview=False,
             deploy_production=False,
         )
@@ -286,11 +383,15 @@ class WorkflowScriptTests(unittest.TestCase):
         self.assertEqual(
             run_cmd_calls,
             [
-                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "add", "-A"],
                 ["git", "push"],
             ],
         )
         self.assertIn("preview deployment", error.getvalue())
+        self.assertIn(
+            "SHIP RESULT: Preview updated only from branch 'feature/books'. Production unchanged.",
+            error.getvalue(),
+        )
 
     def test_ship_allows_preview_push_when_requested(self):
         args = SimpleNamespace(
@@ -298,6 +399,7 @@ class WorkflowScriptTests(unittest.TestCase):
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=False,
+            dry_run=False,
             allow_preview=True,
             deploy_production=False,
         )
@@ -326,7 +428,7 @@ class WorkflowScriptTests(unittest.TestCase):
         self.assertEqual(
             run_cmd_calls,
             [
-                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "add", "-A"],
                 ["git", "push"],
             ],
         )
@@ -337,6 +439,7 @@ class WorkflowScriptTests(unittest.TestCase):
             sync_vectors=False,
             skip_integrity=False,
             no_gpg_sign=False,
+            dry_run=False,
             allow_preview=False,
             deploy_production=True,
         )
@@ -353,11 +456,13 @@ class WorkflowScriptTests(unittest.TestCase):
                 return subprocess.CompletedProcess(cmd, 0, "", "")
             raise AssertionError(f"unexpected command: {cmd}")
 
+        error = StringIO()
         with (
             mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
             mock.patch.object(workflow, "publish_command", return_value=0),
             mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
             mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
+            redirect_stderr(error),
         ):
             rc = workflow.ship_command(args)
 
@@ -365,10 +470,133 @@ class WorkflowScriptTests(unittest.TestCase):
         self.assertEqual(
             run_cmd_calls,
             [
-                ["git", "add", "notes/", "index/", "blog/content/", "blog/data/"],
+                ["git", "add", "-A"],
                 ["git", "push"],
                 ["npx", "vercel", "deploy", "--prod", "--yes"],
             ],
+        )
+        self.assertIn(
+            "SHIP RESULT: Production updated from branch 'feature/books'.",
+            error.getvalue(),
+        )
+
+    def test_ship_pushes_and_deploys_even_without_new_commit(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            dry_run=False,
+            allow_preview=False,
+            deploy_production=True,
+        )
+        error = StringIO()
+        run_cmd_calls = []
+
+        def fake_run_cmd(cmd):
+            run_cmd_calls.append(cmd)
+            return 0
+
+        def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
+            if cmd == ["git", "diff", "--cached", "--quiet"]:
+                return subprocess.CompletedProcess(cmd, 0)
+            raise AssertionError(f"unexpected command: {cmd}")
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
+            mock.patch.object(workflow, "publish_command", return_value=0),
+            mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
+            mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
+            redirect_stderr(error),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 0)
+        self.assertEqual(
+            run_cmd_calls,
+            [
+                ["git", "add", "-A"],
+                ["git", "push"],
+                ["npx", "vercel", "deploy", "--prod", "--yes"],
+            ],
+        )
+        self.assertIn("Nothing new to commit.", error.getvalue())
+        self.assertIn(
+            "SHIP RESULT: Production updated from branch 'feature/books'.",
+            error.getvalue(),
+        )
+
+    def test_ship_dry_run_skips_git_mutations(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            dry_run=True,
+            allow_preview=False,
+            deploy_production=True,
+        )
+        error = StringIO()
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
+            mock.patch.object(workflow, "publish_command", return_value=0),
+            mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
+            mock.patch.object(workflow.subprocess, "run") as subprocess_run,
+            redirect_stderr(error),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 0)
+        run_cmd.assert_not_called()
+        subprocess_run.assert_not_called()
+        self.assertIn("would stage the current worktree", error.getvalue())
+        self.assertIn("would deploy current worktree", error.getvalue())
+
+    def test_ship_reports_main_branch_production_result(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            dry_run=False,
+            allow_preview=False,
+            deploy_production=False,
+        )
+        error = StringIO()
+        run_cmd_calls = []
+
+        def fake_run_cmd(cmd):
+            run_cmd_calls.append(cmd)
+            return 0
+
+        def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
+            if cmd == ["git", "diff", "--cached", "--quiet"]:
+                return subprocess.CompletedProcess(cmd, 1)
+            if cmd == ["git", "commit", "-m", "new books"]:
+                return subprocess.CompletedProcess(cmd, 0, "", "")
+            raise AssertionError(f"unexpected command: {cmd}")
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="main"),
+            mock.patch.object(workflow, "publish_command", return_value=0),
+            mock.patch.object(workflow, "run_cmd", side_effect=fake_run_cmd),
+            mock.patch.object(workflow.subprocess, "run", side_effect=fake_subprocess_run),
+            redirect_stderr(error),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 0)
+        self.assertEqual(
+            run_cmd_calls,
+            [
+                ["git", "add", "-A"],
+                ["git", "push"],
+            ],
+        )
+        self.assertIn(
+            "SHIP RESULT: Production updated via 'main' push.",
+            error.getvalue(),
         )
 
 

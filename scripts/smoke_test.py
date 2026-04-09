@@ -6,6 +6,7 @@ This is intentionally broad and integration-oriented. It does not hit external
 LLM APIs or run a full ingest. It verifies the core operator invariants:
 
 - Python CLIs still load
+- workflow wrapper subcommands still parse and run
 - publish still succeeds on current data
 - Vercel build still succeeds from repo root
 - semantic search API file still parses
@@ -70,9 +71,11 @@ def main() -> int:
     steps = [
         SmokeStep("CLI help: ingest", [PYTHON, "app/main.py", "--help"]),
         SmokeStep("CLI help: publish", [PYTHON, "app/cli/publish.py", "--help"]),
-        SmokeStep("CLI help: workflow", [PYTHON, "scripts/workflow.py", "--help"]),
+        SmokeStep("CLI help: workflow add", [PYTHON, "scripts/workflow.py", "add", "--help"]),
+        SmokeStep("CLI help: workflow ship", [PYTHON, "scripts/workflow.py", "ship", "--help"]),
         SmokeStep("API syntax: search", ["node", "--check", "api/search.js"]),
-        SmokeStep("Publish current data", [PYTHON, "app/cli/publish.py", "publish"]),
+        SmokeStep("Workflow publish current data", [PYTHON, "scripts/workflow.py", "publish"]),
+        SmokeStep("Workflow ship dry run", [PYTHON, "scripts/workflow.py", "ship", "--dry-run"]),
         SmokeStep("Vercel root build", ["npm", "run", "vercel-build"]),
     ]
 

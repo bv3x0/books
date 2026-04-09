@@ -5,7 +5,7 @@ Unified daily workflow wrapper.
 Commands:
   add      -> run app/main.py for one book
   publish  -> run app/cli/publish.py publish
-  ship     -> run publish, then commit/push; non-production branches create preview deploys by default
+  ship     -> run publish, then commit/push the current worktree; non-production branches create preview deploys by default
   smoke    -> run local smoke checks for publish/build/search surfaces
 """
 
@@ -57,6 +57,11 @@ def get_current_branch_name() -> str | None:
         return None
     branch = result.stdout.strip()
     return branch or None
+
+
+def print_ship_result(summary: str) -> None:
+    """Print a blunt end-of-run ship summary."""
+    print(f"SHIP RESULT: {summary}", file=sys.stderr)
 
 
 def add_command(args: argparse.Namespace) -> int:
@@ -117,9 +122,28 @@ def ship_command(args: argparse.Namespace) -> int:
     if rc != 0:
         return rc
 
-    # Stage all tracked/new files relevant to publishing
-    paths = ["notes/", "index/", "blog/content/", "blog/data/"]
-    rc = run_cmd(["git", "add"] + paths)
+    if args.dry_run:
+        print(
+            f"Dry run: would stage the current worktree and push '{branch_display}'.",
+            file=sys.stderr,
+        )
+        if args.deploy_production:
+            if branch == PRODUCTION_BRANCH:
+                print(
+                    f"Dry run: pushing '{PRODUCTION_BRANCH}' would trigger production automatically.",
+                    file=sys.stderr,
+                )
+            else:
+                print(
+                    f"Dry run: would deploy current worktree from '{branch_display}' to Vercel production.",
+                    file=sys.stderr,
+                )
+        else:
+            print_ship_result("Dry run only. Production unchanged.")
+        return 0
+
+    # Stage the full worktree so wrapper-driven code/config changes are not silently skipped.
+    rc = run_cmd(["git", "add", "-A"])
     if rc != 0:
         return rc
 
@@ -127,39 +151,38 @@ def ship_command(args: argparse.Namespace) -> int:
     result = subprocess.run(
         ["git", "diff", "--cached", "--quiet"], cwd=PROJECT_ROOT
     )
-    if result.returncode == 0:
-        print("Nothing to commit.")
-        return 0
+    if result.returncode != 0:
+        commit_cmd = ["git"]
+        if args.no_gpg_sign:
+            commit_cmd.extend(["-c", "commit.gpgsign=false"])
+        commit_cmd.extend(["commit", "-m", "new books"])
 
-    commit_cmd = ["git"]
-    if args.no_gpg_sign:
-        commit_cmd.extend(["-c", "commit.gpgsign=false"])
-    commit_cmd.extend(["commit", "-m", "new books"])
-
-    commit_result = run_captured_cmd(commit_cmd)
-    print_completed_process_output(commit_result)
-    if commit_result.returncode != 0:
-        combined_output = "\n".join(
-            part for part in [commit_result.stdout, commit_result.stderr] if part
-        ).lower()
-        if not args.no_gpg_sign and (
-            "gpg failed to sign the data" in combined_output
-            or "signing failed: no pinentry" in combined_output
-            or "fatal: failed to write commit object" in combined_output
-        ):
-            print(
-                "Git commit signing failed because pinentry was unavailable.",
-                file=sys.stderr,
-            )
-            print(
-                "Retry with: python3 scripts/workflow.py ship --no-gpg-sign",
-                file=sys.stderr,
-            )
-            print(
-                "Or fix your GPG/pinentry setup and rerun the same ship command.",
-                file=sys.stderr,
-            )
-        return commit_result.returncode
+        commit_result = run_captured_cmd(commit_cmd)
+        print_completed_process_output(commit_result)
+        if commit_result.returncode != 0:
+            combined_output = "\n".join(
+                part for part in [commit_result.stdout, commit_result.stderr] if part
+            ).lower()
+            if not args.no_gpg_sign and (
+                "gpg failed to sign the data" in combined_output
+                or "signing failed: no pinentry" in combined_output
+                or "fatal: failed to write commit object" in combined_output
+            ):
+                print(
+                    "Git commit signing failed because pinentry was unavailable.",
+                    file=sys.stderr,
+                )
+                print(
+                    "Retry with: python3 scripts/workflow.py ship --no-gpg-sign",
+                    file=sys.stderr,
+                )
+                print(
+                    "Or fix your GPG/pinentry setup and rerun the same ship command.",
+                    file=sys.stderr,
+                )
+            return commit_result.returncode
+    else:
+        print("Nothing new to commit.", file=sys.stderr)
 
     rc = run_cmd(["git", "push"])
     if rc != 0:
@@ -171,12 +194,24 @@ def ship_command(args: argparse.Namespace) -> int:
                 f"Skipped explicit Vercel production deploy: pushing '{PRODUCTION_BRANCH}' already triggers production.",
                 file=sys.stderr,
             )
+            print_ship_result(f"Production updated via '{PRODUCTION_BRANCH}' push.")
             return 0
         print(
             f"Deploying current worktree from '{branch_display}' to Vercel production...",
             file=sys.stderr,
         )
-        return run_cmd(["npx", "vercel", "deploy", "--prod", "--yes"])
+        rc = run_cmd(["npx", "vercel", "deploy", "--prod", "--yes"])
+        if rc != 0:
+            return rc
+        print_ship_result(f"Production updated from branch '{branch_display}'.")
+        return 0
+
+    if preview_only_push:
+        print_ship_result(
+            f"Preview updated only from branch '{branch_display}'. Production unchanged."
+        )
+    else:
+        print_ship_result(f"Production updated via '{PRODUCTION_BRANCH}' push.")
 
     return 0
 
@@ -252,7 +287,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     ship = subparsers.add_parser(
         "ship",
-        help="Run publish, then commit/push; non-production branches default to preview deployments",
+        help="Run publish, then commit/push the current worktree; non-production branches default to preview deployments",
     )
     ship.add_argument(
         "--reconcile",
@@ -274,6 +309,11 @@ def build_parser() -> argparse.ArgumentParser:
         "--no-gpg-sign",
         action="store_true",
         help="Create the ship commit without GPG signing",
+    )
+    ship.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Run publish and report what ship would do without staging, committing, pushing, or deploying",
     )
     ship.add_argument(
         "--allow-preview",

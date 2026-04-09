@@ -67,19 +67,8 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
     steps: list[PublishStep] = [
         PublishStep("Syncing glyph images", sync_glyphs, True),
         PublishStep("Converting notes to posts", sync_notes, True),
-        PublishStep("Computing related books", compute_related, False),
-        PublishStep("Updating stats", refresh_stats, True),
-        PublishStep("Reporting semantic backlog", report_vector_backlog, False),
     ]
 
-    if options.run_integrity:
-        steps.append(
-            PublishStep(
-                "Running integrity check",
-                lambda: run_integrity_check(allow_vector_drift=True),
-                True,
-            )
-        )
     if options.reconcile_mode != "none":
         steps.append(
             PublishStep(
@@ -88,9 +77,20 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
                 True,
             )
         )
+    if options.run_integrity:
+        steps.append(
+            PublishStep(
+                "Running integrity check",
+                lambda: run_integrity_check(allow_vector_drift=True),
+                True,
+            )
+        )
 
     steps.extend(
         [
+            PublishStep("Computing related books", compute_related, False),
+            PublishStep("Updating stats", refresh_stats, True),
+            PublishStep("Reporting semantic backlog", report_vector_backlog, False),
             PublishStep("Building Hugo site", build_site, True),
             PublishStep("Generating Pagefind search index", build_search_index, False),
         ]
