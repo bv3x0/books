@@ -1,0 +1,2003 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Bitcoin and the Future of Money",
+    "author": "Jacob Goldstein",
+    "year": null,
+    "categories": [
+      "history",
+      "business & economics",
+      "technology & engineering"
+    ],
+    "thesis": "The history of digital cash is best understood as a problem of knowledge in the larger history of currency itself, where speculative currencies function as cosmograms\u2014objects embedding a model of the universe and a plan for society\u2014and Bitcoin emerged from decades of cypherpunk, Extropian, and libertarian experiments as a machine for producing verifiable scarcity in anticipation of monetary collapse."
+  },
+  "claims": [
+    {
+      "id": "bitcoin-and-the-future-of-money-001",
+      "text": "Creating digital cash requires solving a set of paradoxical demands: the currency must be available but scarce, anonymous but identifiable, easy to transmit but impossible to copy\u2014all within technologies designed to make perfect copies costlessly.",
+      "chapter": "Introduction: The Passing Current",
+      "concepts": [
+        "digital_scarcity",
+        "authentication",
+        "monetary_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cash must carry information about what it is and what it is worth without generating any information about how it is used or by whom.",
+          "speaker": null
+        },
+        {
+          "text": "These demands arise in the context of networked computers built specifically for costless, immediate, perfect reproduction.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-002",
+      "text": "The value of money in general depends on powerful and often abstract beliefs about the future\u2014predictions, bets, and hopes that a given currency will be accepted, not devalued, and redeemed\u2014making currency fundamentally anticipatory rather than merely transactional.",
+      "chapter": "Introduction: The Passing Current",
+      "concepts": [
+        "monetary_trust",
+        "futurity",
+        "currency_authentication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cash in your wallet is 'current money' only because it is anticipatory: the next person offered will take it and it can ultimately be accepted in taxes or redeemed.",
+          "speaker": null
+        },
+        {
+          "text": "Physical authentication methods\u2014biting coins, 'ping tests,' watermarks, security threads\u2014represent accumulated training and habit for verifying monetary identity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-003",
+      "text": "The secondary argument of the book is that speculative monetary projects\u2014from Technocracy's energy certificates to Bitcoin\u2014function as 'techniques of futurity,' using money to make assertions about, and take power in, the present by projecting a desired future.",
+      "chapter": "Introduction: The Passing Current",
+      "concepts": [
+        "speculative_currency",
+        "utopian_practice",
+        "techniques_of_futurity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "California"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Each speculative currency project comes with its own model of time, stories and fantasies of history and the future, and associated technologies like cryonics and cryptography.",
+          "speaker": null
+        },
+        {
+          "text": "These projects emerged almost entirely from white American men with engineering backgrounds on the California coast who knew one another through mailing lists and shared political theories.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-004",
+      "text": "The phrase 'passing current' unifies three meanings central to the book: money that circulates and is accepted, the physics of electrical current in computational hardware, and the elapsing of the present moment between past and anticipated future.",
+      "chapter": "Introduction: The Passing Current",
+      "concepts": [
+        "monetary_circulation",
+        "computational_history",
+        "temporal_structure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A currency's 'currency'\u2014the fact that it passes\u2014is a product of its futurity, of the expectation that others will accept it next.",
+          "speaker": null
+        },
+        {
+          "text": "The story of digital cash lies at the intersection of the social puzzles of money, the technological history of computing, and our sense of historical and future condition.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-005",
+      "text": "Technocracy Inc., led by the fraudulent 'engineer' Howard Scott, emerged during the Great Depression to propose a postscarcity command economy called the Technate, underwritten by 'energy certificates' denominated in ergs as a supposedly objective alternative to volatile dollar prices.",
+      "chapter": "Speculating with Money",
+      "concepts": [
+        "speculative_currency",
+        "command_economy",
+        "monetary_objectivity"
+      ],
+      "entities": {
+        "people": [
+          "Howard Scott",
+          "Thorstein Veblen"
+        ],
+        "places": [
+          "United States"
+        ],
+        "events": [
+          "Great Depression"
+        ],
+        "works": [
+          "The Engineers and the Price System",
+          "Harper's Magazine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Scott claimed energy units had stable, universal value: 'A dollar may be worth\u2014in buying power\u2014so much today and more or less tomorrow, but a unit of work or heat is the same in 1900, 1929, 1933 or the year 2000.'",
+          "speaker": "Howard Scott"
+        },
+        {
+          "text": "The certificates were described in elaborate physical detail\u2014watermarked paper, booklet format\u2014but existed only as future projections; they were realer than dollars precisely because they didn't yet exist.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-006",
+      "text": "A cosmogram, as theorized by historian of science John Tresch, is an object that simultaneously describes an order of the universe and prescribes how to act within it\u2014situating users in time and space, establishing ontological levels, and providing practices for producing a desired future.",
+      "chapter": "Speculating with Money",
+      "concepts": [
+        "cosmogram",
+        "utopian_practice",
+        "social_technology"
+      ],
+      "entities": {
+        "people": [
+          "John Tresch"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Romantic Machine: Utopian Science and Technology after Napoleon"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Examples range from the Biblical Tabernacle and Tibetan Buddhist mandalas to encyclopedias and library floor plans; what defines a cosmogram is not historical significance but the particular set of functions it provides.",
+          "speaker": null
+        },
+        {
+          "text": "A cosmogram offers an image of the world as it could be and makes that image concrete with a set of practices and rituals\u2014it is a model of the world with an agenda.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-007",
+      "text": "Money carries multiple distinct temporal structures simultaneously: the anticipatory 'current' of ordinary circulation, the speculative time of financial instruments ranging from microsecond trades to century-long bonds, the intimate time of personal relationships and inheritance, and the catastrophic time of currency crises.",
+      "chapter": "Speculating with Money",
+      "concepts": [
+        "monetary_temporality",
+        "financial_speculation",
+        "currency_crisis"
+      ],
+      "entities": {
+        "people": [
+          "Rebecca Spang",
+          "Walter Benjamin",
+          "John Maynard Keynes",
+          "Viviana Zelizer",
+          "Christine Desan"
+        ],
+        "places": [
+          "Germany"
+        ],
+        "events": [
+          "post-WWI German hyperinflation"
+        ],
+        "works": [
+          "The Social Life of Money",
+          "Making Money"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Rebecca Spang identified money as an institution 'for the production and reproduction of shared norms and social cohesion,' based in 'repeated actions and regular expectations' about how other people naturally work.",
+          "speaker": null
+        },
+        {
+          "text": "Walter Benjamin described living through German hyperinflation as exposing intimate human relationships with 'almost intolerable, piercing clarity': 'Money stands ruinously at the center of every vital interest.'",
+          "speaker": "Walter Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-008",
+      "text": "Speculative currencies like the Technocratic energy certificates function not merely as investment vehicles but as 'uchronian' money\u2014tokens of a superior society realized not somewhere on Earth but somewhen in a historical time to come, whose very existence in the present mobilizes communities toward enacting that future.",
+      "chapter": "Speculating with Money",
+      "concepts": [
+        "uchronia",
+        "science_fiction_economics",
+        "monetary_disruption"
+      ],
+      "entities": {
+        "people": [
+          "Hugo Gernsback",
+          "H.G. Wells",
+          "Reinhart Koselleck",
+          "Thales of Miletus"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Wonder Stories",
+          "Shape of Things to Come",
+          "Atlas Shrugged"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Science fiction of the Depression era, including Hugo Gernsback's 'The Revolt of the Scientists,' imagined technocratic financial coups using chemical technology to erase existing currencies and force a new order.",
+          "speaker": null
+        },
+        {
+          "text": "H. G. Wells's Shape of Things to Come posited 'completely abstract money' called the 'air-dollar'\u2014a unit of cargo in transit\u2014marking 'that the old static conceptions of human life with limited resources were giving place to kinetic ideas.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-009",
+      "text": "Bills of exchange functioned as a social network platform, with chains of endorsing signatures creating accountability across European trade networks; each new signature added a person who could be found and held responsible if the bill failed.",
+      "chapter": "Secure Paper",
+      "concepts": [
+        "bills_of_exchange",
+        "documentary_authentication",
+        "credit_networks"
+      ],
+      "entities": {
+        "people": [
+          "Rebecca Spang"
+        ],
+        "places": [
+          "Antwerp",
+          "Genoa",
+          "Paris",
+          "Frankfurt"
+        ],
+        "events": [
+          "French Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Spang described how written signatures 'made it possible to imagine that even hitherto unknown individuals could be found and held responsible if necessary.'",
+          "speaker": null
+        },
+        {
+          "text": "During the French Revolution, the transition from assignats backed by specific signatories to notes authenticated by their own production process marked a profound shift: the identity of the paper itself replaced the identity of the person who endorsed it.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-010",
+      "text": "A dollar bill is a deliberately designed object to be 'read' on multiple levels\u2014as an immediately recognizable icon, a philosophical treatise on sovereignty, a transactional community passport, and a historical document whose design expresses specific political and aesthetic commitments.",
+      "chapter": "Secure Paper",
+      "concepts": [
+        "monetary_iconography",
+        "transactional_community",
+        "documentary_culture"
+      ],
+      "entities": {
+        "people": [
+          "W.A. Dwiggins",
+          "Lana Swartz",
+          "Franklin Delano Roosevelt"
+        ],
+        "places": [
+          "United States"
+        ],
+        "events": [
+          "Nixon Shock"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Designer W.A. Dwiggins argued in 1932 that American currency should express 'speed, and of enormous electrical potentials, of the air as a new highway, of a universe suddenly swollen to appalling size.'",
+          "speaker": "W.A. Dwiggins"
+        },
+        {
+          "text": "Anthropologist Lana Swartz describes cash transactions as participation in a 'transactional community' extending far past national borders, from dollarized economies to shrink-wrapped cash reserves for covert operations.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-011",
+      "text": "The EURion Constellation\u2014a dot pattern hidden in most world currencies\u2014is a machine-readable sigil establishing a 'gentleman's agreement' across scanner, printer, and photo-editing firmware to prevent digitization of currency, demonstrating that modern banknotes contain symbols meant not for humans but for machines.",
+      "chapter": "Secure Paper",
+      "concepts": [
+        "anti_counterfeiting",
+        "machine_readable_symbols",
+        "analog_digital_border"
+      ],
+      "entities": {
+        "people": [
+          "William Gibson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Zero History"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Counterfeit Detection System software is freely available but closed source, meaning its mechanisms cannot be reviewed even by companies that have incorporated it.",
+          "speaker": null
+        },
+        {
+          "text": "William Gibson's fictional 'ugliest T-shirt' in Zero History\u2014a pattern that causes CCTV to delete the wearer from recordings\u2014is an imaginative parallel to the Constellation's function across digital reproduction systems.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-012",
+      "text": "The development of steel-engraved industrial printing techniques that produced both the precise renderings of machines and the ornate guilloche patterns on banknotes reflects a shared challenge: creating objects whose very method of mass reproduction authenticates them as genuine.",
+      "chapter": "Secure Paper",
+      "concepts": [
+        "industrial_reproduction",
+        "authentication_technology",
+        "print_culture"
+      ],
+      "entities": {
+        "people": [
+          "Frances Robertson",
+          "Mary Poovey"
+        ],
+        "places": [
+          "Britain"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Design historian Frances Robertson documented the close relationship between the development of modern banknotes and steel-engraved technical drawing\u2014the same 'self-acting tools' used for machine parts were used for currency.",
+          "speaker": null
+        },
+        {
+          "text": "Mary Poovey argued that the naturalization of banknote production and models of 'literary merit' in 18th\u201319th century Britain was not coincidental\u2014both were genres for defining value on printed paper.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-013",
+      "text": "All pre-public-key cryptographic methods shared the fatal problem of symmetric key distribution: sender and receiver needed the same secret, multiplying points of compromise at every step of storing, sharing, sending, and updating keys.",
+      "chapter": "Recognizable without Being Known",
+      "concepts": [
+        "symmetric_key_cryptography",
+        "wartime_communications",
+        "key_distribution_problem"
+      ],
+      "entities": {
+        "people": [
+          "Nancy Wake",
+          "Leo Marks",
+          "Claude Shannon"
+        ],
+        "places": [
+          "France",
+          "Baker Street"
+        ],
+        "events": [
+          "World War II",
+          "SOE operations"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "SOE agent Nancy Wake bicycled 250 miles in three days through occupied France to obtain codebooks after her wireless operator destroyed theirs during a retreat\u2014the human cost of symmetric key dependency.",
+          "speaker": null
+        },
+        {
+          "text": "Cryptographer Leo Marks developed the letter one-time pad printed on silk for SOE agents, presenting the cost to his superiors as 'silk or cyanide'\u2014budget either for silks or suicide pills for inevitably compromised agents.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-014",
+      "text": "Whitfield Diffie, while housesitting for John McCarthy in Berkeley in 1975, conceived asymmetric key encryption\u2014splitting keys into a freely distributed 'public' key and a secret 'private' key\u2014solving the key distribution problem decisively, though GCHQ researchers Ellis, Cocks, and Williamson had already independently discovered it secretly in 1969\u20131973.",
+      "chapter": "Recognizable without Being Known",
+      "concepts": [
+        "public_key_cryptography",
+        "asymmetric_encryption",
+        "one_way_functions"
+      ],
+      "entities": {
+        "people": [
+          "Whitfield Diffie",
+          "Martin Hellman",
+          "James Ellis",
+          "Clifford Cocks",
+          "Malcolm Williamson",
+          "Ralph Merkle",
+          "Ron Rivest",
+          "Adi Shamir",
+          "Leonard Adleman",
+          "John McCarthy"
+        ],
+        "places": [
+          "Berkeley",
+          "UK"
+        ],
+        "events": [],
+        "works": [
+          "RSA algorithm"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "'The virtue of cryptography should be that you don't have to trust anybody directly involved with your communications,' said Diffie.",
+          "speaker": "Whitfield Diffie"
+        },
+        {
+          "text": "The system works through one-way functions\u2014particularly prime factorization of semiprimes\u2014that are trivially easy to compute forward and computationally infeasible to reverse without possession of a 'trapdoor.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-015",
+      "text": "The Howland Will Case of 1865 required Charles Sanders Peirce and his father to mathematically distinguish a signature from a picture of a signature\u2014to quantify the indexical trace of bodily presence in writing\u2014prefiguring the deeper question of what a 'digital signature' actually authenticates.",
+      "chapter": "Recognizable without Being Known",
+      "concepts": [
+        "semiotics",
+        "authentication",
+        "legal_evidence"
+      ],
+      "entities": {
+        "people": [
+          "Charles Sanders Peirce",
+          "Benjamin Peirce",
+          "Sylvia Howland",
+          "Hetty Robinson"
+        ],
+        "places": [],
+        "events": [
+          "Howland Will Case 1865"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The problem wasn't that signatures on different pages of the contested will were too different, but that they were too similar\u2014identical stroke by stroke, suggesting tracing rather than authorship.",
+          "speaker": null
+        },
+        {
+          "text": "Peirce argued a signature is an index\u2014'the sign that conveys knowledge by virtue of a physical connection to the thing for which it stands'\u2014the record of a hand, a second, a physical event linked to a body.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-016",
+      "text": "The cryptographic digital signature, while superficially analogous to a written signature, differs fundamentally: written signatures work through similarity-without-replication (authentic difference each time), while digital signatures are mathematically exact, producing a 'strange bestiary' of new verification objects with names like blind signature, ring signature, and undeniable signature.",
+      "chapter": "Recognizable without Being Known",
+      "concepts": [
+        "digital_signatures",
+        "cryptographic_authentication",
+        "identity_verification"
+      ],
+      "entities": {
+        "people": [
+          "David Chaum",
+          "Jean-Fran\u00e7ois Blanchette",
+          "Hillel Schwartz"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Diffie and Hellman wrote that 'we must discover a digital phenomenon with the same properties as a written signature'\u2014but cryptographic algorithms are not, as Blanchette notes, 'transparently assimilable to the writing of one's name on paper.'",
+          "speaker": null
+        },
+        {
+          "text": "Out of the cryptographer David Chaum's exploration of these ideas\u2014a sealed envelope lined with carbon paper, stamped without the notary seeing its contents\u2014came the first functional digital cash scheme.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-017",
+      "text": "Electronic money systems, as Stanford computer scientist Paul Armer testified to Congress in 1975, constitute the ideal surveillance apparatus: they log location, time, and transaction details of every purchase, enabling real-time monitoring, financial exclusion, and behavioral control of populations.",
+      "chapter": "Blinding Factor",
+      "concepts": [
+        "surveillance_capitalism",
+        "financial_coercion",
+        "electronic_money"
+      ],
+      "entities": {
+        "people": [
+          "Paul Armer",
+          "Dee Hock",
+          "Margaret Atwood",
+          "Gilles Deleuze"
+        ],
+        "places": [
+          "Stanford"
+        ],
+        "events": [],
+        "works": [
+          "The Handmaid's Tale",
+          "Postscript on the Societies of Control",
+          "1984"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Armer and colleagues, asked to design an ideal KGB surveillance system in 1971, concluded: 'Not only would it handle all the financial accounting and provide statistics crucial to a centrally planned economy; it was the best surveillance system we could imagine within the constraint that it not be obtrusive.'",
+          "speaker": "Paul Armer"
+        },
+        {
+          "text": "Margaret Atwood's The Handmaid's Tale depicted computerized monetary coercion\u2014object-specific tokens preventing independent purchases\u2014as a tool of political domination, noting afterward that 'now that we have credit cards, it's very easy to just cut off people's access to credit.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-018",
+      "text": "Chaum's DigiCash solved the central paradox of digital cash through the 'blinding factor': users generate their own serial numbers for e-cash notes, which are multiplied by a random blinding factor before being signed by the bank, allowing the bank to authenticate and account for the money without ever being able to link specific notes to specific account holders.",
+      "chapter": "Blinding Factor",
+      "concepts": [
+        "blind_signature",
+        "transactional_privacy",
+        "digital_cash_protocol"
+      ],
+      "entities": {
+        "people": [
+          "David Chaum",
+          "Hal Finney",
+          "Gilles Brassard",
+          "Claude Cripeau"
+        ],
+        "places": [
+          "Netherlands",
+          "Eindhoven"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The bank stamps a sealed carbon-copy envelope to confirm that what it contains can be redeemed for ten dollars, without having a record of the document within\u2014an analogy to a notary signing the outside of a sealed envelope.",
+          "speaker": null
+        },
+        {
+          "text": "Chaum further developed a mechanism where attempting to spend the same note twice would automatically reveal the spender's identity through two answers to a numerical challenge, while a single legitimate transaction preserved anonymity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-019",
+      "text": "DigiCash went bankrupt before the end of the 1990s despite promising technology, pilot programs, and serious acquisition interest from Deutsche Bank, ING, Visa, and Microsoft\u2014Chaum's own explanation being that 'I was asking the world to change the way it did things so that there would be perfect privacy,' a demand for wholesale rather than incremental adoption.",
+      "chapter": "Blinding Factor",
+      "concepts": [
+        "technology_adoption",
+        "network_effects",
+        "institutional_inertia"
+      ],
+      "entities": {
+        "people": [
+          "David Chaum",
+          "Arvind Narayanan",
+          "Hal Finney"
+        ],
+        "places": [
+          "Netherlands",
+          "St. Louis"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Arvind Narayanan identified the need for 'societal buy-in'\u2014a critical mass of potential users unhappy with the status quo who must take up the new system completely and immediately for it to work.",
+          "speaker": null
+        },
+        {
+          "text": "Chaum's implicit threat proved prophetic: 'If we don't get the national currencies in electronic form properly, then the market will route around them and make other currencies.'",
+          "speaker": "David Chaum"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-020",
+      "text": "DigiCash's most important legacy was opening 'a certain design space' demonstrating that cryptography could serve privacy and democratic participation rather than surveillance and control, providing a reference point and framework for subsequent radical digital cash projects seeking permanent autonomy from banks and nations.",
+      "chapter": "Blinding Factor",
+      "concepts": [
+        "design_space",
+        "cryptographic_privacy",
+        "monetary_autonomy"
+      ],
+      "entities": {
+        "people": [
+          "Hal Finney",
+          "Jean-Fran\u00e7ois Blanchette"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "After DigiCash would come 'smart contracts,' 'digital bearer certificates,' and monetary mechanisms suited not just to protecting privacy but as the basis for off-the-books transaction systems and active conspiracies against the legitimacy of central banks.",
+          "speaker": null
+        },
+        {
+          "text": "Finney wrote in 1992 that cryptography and e-cash 'balances power between individuals and organizations.\u2026 If things work out well, we may be able to look back and see that it was the most important work we have ever done.'",
+          "speaker": "Hal Finney"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-021",
+      "text": "Timothy May's 'Crypto Anarchist Manifesto,' circulated since 1988, outlined a sequence from cryptographic breakthroughs through anonymous networks and digital pseudonyms to information markets and eventually digital cash\u2014whose adoption would produce untaxable global black markets and the consequent collapse of governments.",
+      "chapter": "Collapse of Governments",
+      "concepts": [
+        "crypto_anarchism",
+        "digital_governance",
+        "information_markets"
+      ],
+      "entities": {
+        "people": [
+          "Timothy May",
+          "Jude Milhon",
+          "Eric Hughes",
+          "John Gilmore"
+        ],
+        "places": [
+          "Berkeley",
+          "San Francisco"
+        ],
+        "events": [
+          "inaugural cypherpunk meeting 1992"
+        ],
+        "works": [
+          "Crypto Anarchist Manifesto",
+          "Mondo 2000"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "May's .sig file summarized the trajectory: 'Crypto Anarchy: encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.'",
+          "speaker": null
+        },
+        {
+          "text": "The cypherpunks' mailing list was itself a social prototype\u2014testing tools and practices that would need to scale\u2014with their informal double-digit gang of smart people and no financial backing from corporations.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-022",
+      "text": "Phillip Salin's American Information Exchange (AMIX) attempted to build a digital marketplace for intellectual property in 1984, but ran directly into the fundamental problem that digital information\u2014reproducible at near-zero cost\u2014appeared to violate normal supply-and-demand pricing.",
+      "chapter": "Collapse of Governments",
+      "concepts": [
+        "information_economics",
+        "digital_reproduction",
+        "intellectual_property"
+      ],
+      "entities": {
+        "people": [
+          "Phillip Salin",
+          "Esther Dyson",
+          "Stewart Brand",
+          "Friedrich Hayek"
+        ],
+        "places": [
+          "Palo Alto"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Esther Dyson identified the core challenge simply: 'The law of supply and demand can't work for a product, such as information, that can be replicated at almost no cost.'",
+          "speaker": "Esther Dyson"
+        },
+        {
+          "text": "Stewart Brand noted in 1972 that digitizing analog media meant not 'swapping' records but making them\u2014each copy is a perfect bit-for-bit duplicate\u2014revealing that computing and telecommunications history is the history of creating a global system of perfect copying machines.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-023",
+      "text": "Ted Nelson's Xanadu project attempted to solve the value problem of digital information by embedding property, ownership, and payment into the deepest technical structure of a universal hypertext system\u2014making all reading and writing inherently transactions of funds\u2014but its insistence on designing the complete unified structure in advance left it perpetually unfinished.",
+      "chapter": "Collapse of Governments",
+      "concepts": [
+        "hypertext",
+        "information_commodification",
+        "digital_property_rights"
+      ],
+      "entities": {
+        "people": [
+          "Ted Nelson",
+          "Mark Miller",
+          "John Walker",
+          "Gayle Pergamit"
+        ],
+        "places": [
+          "King of Prussia Pennsylvania"
+        ],
+        "events": [],
+        "works": [
+          "Xanadu",
+          "A File Structure for the Complex the Changing and the Indeterminate"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Xanadu's programmer Mark Miller ($amuel Miller) spelled his middle name with a dollar sign and kept the aphorism: 'If it's not allocated by a market, then it's more expensive than money.'",
+          "speaker": null
+        },
+        {
+          "text": "Autodesk founder John Walker described conversations with the Xanadu team who planned to 'design, in its entirety, a system which can store all the information in every form, present and future, for quadrillions of individuals over billions of years'\u2014concluding that the project had 'hyper-warped into the techno-hubris zone.'",
+          "speaker": "John Walker"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-024",
+      "text": "Salin became the fifty-ninth person to undergo cryonic suspension in 1991, which raised the practical question of how to transmit assets into an unknown future\u2014a problem May documented as the first use case for 'timed-release cryptographic protocols': sending money into the future while protecting it from seizure or taxation, to fund one's own future resurrection.",
+      "chapter": "Collapse of Governments",
+      "concepts": [
+        "cryonics",
+        "temporal_finance",
+        "posthuman_economics"
+      ],
+      "entities": {
+        "people": [
+          "Phillip Salin",
+          "Timothy May",
+          "Julian Assange"
+        ],
+        "places": [
+          "Arizona"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "May's 1993 notes presented the concept: 'Foremost, to send money into the future, while protecting it in the meantime from seizure, taxation, etc.,' a matter of interest 'to cryonics folks who want to arrange for their own revival/reanimation at some time in the future.'",
+          "speaker": null
+        },
+        {
+          "text": "The mechanism could offer a reward for resurrectionists: the first group to bring the account holder back to life gets a promised prize once the data is decrypted\u2014a pricing system for bringing its own creator back from the dead.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-025",
+      "text": "Vernor Vinge's 1981 novella True Names established the narrative template for the cypherpunk project: hackers using pseudonyms to protect their 'true names' in a virtual Other Plane, where money was still conventional but anonymity enabled freedom from government, criminals, and each other.",
+      "chapter": "Permanent Frontiers",
+      "concepts": [
+        "pseudonymity",
+        "virtual_identity",
+        "digital_frontier"
+      ],
+      "entities": {
+        "people": [
+          "Vernor Vinge",
+          "Wei Dai",
+          "Timothy May"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "True Names"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Wei Dai opened his b-money proposal citing Vinge: 'I am fascinated by Tim May's crypto-anarchy\u2026 a community where the threat of violence is impotent because violence is impossible, and violence is impossible because its participants cannot be linked to their true names or physical locations.'",
+          "speaker": "Wei Dai"
+        },
+        {
+          "text": "Vinge's future included disembodied minds in virtual reality landscapes\u2014but money was still money, checks still deposited, banks still banks: there was no digital cash in his vision of the Other Plane.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-026",
+      "text": "May's 1993 BlackNet invitation\u2014a straight-faced announcement of a nonexistent cryptographic black market for secrets\u2014was a piece of speculative fiction that functioned as a design document: its technology all existed except for one piece, anonymous digital cash, which May labeled 'CryptoCredits,' the only element of pure fantasy.",
+      "chapter": "Permanent Frontiers",
+      "concepts": [
+        "black_market",
+        "anonymous_communication",
+        "information_leaking"
+      ],
+      "entities": {
+        "people": [
+          "Timothy May",
+          "Julian Assange",
+          "Thomas Rid"
+        ],
+        "places": [],
+        "events": [
+          "Cablegate WikiLeaks disclosures"
+        ],
+        "works": [
+          "BlackNet invitation",
+          "Conspiracy as Governance"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "BlackNet operated at 'nowhere@cyberspace.nil,' using anonymous remailers and public-key encrypted messages posted to newsgroups to create a double-blind channel that could not connect buyers to sellers.",
+          "speaker": null
+        },
+        {
+          "text": "The invitation prefigured Julian Assange's WikiLeaks model\u2014'Conspiracy as Governance'\u2014creating a cryptographic framework for anonymous leaking that discloses information while making organizations dysfunctional by turning every employee into a potential leaker.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-027",
+      "text": "John Perry Barlow's 1996 'Declaration of the Independence of Cyberspace' and the Electronic Frontier Foundation's frontier metaphor reimagined the network as an enormous lawless outside\u2014but this was historical fiction, since settler frontiers were products of state power, not escapes from it; the stories were compelling not because true but because they conveyed a feeling about a potential mode of being.",
+      "chapter": "Permanent Frontiers",
+      "concepts": [
+        "digital_libertarianism",
+        "frontier_mythology",
+        "network_governance"
+      ],
+      "entities": {
+        "people": [
+          "John Perry Barlow",
+          "William Gibson",
+          "Fred Turner",
+          "Stewart Brand"
+        ],
+        "places": [
+          "Davos",
+          "Wyoming"
+        ],
+        "events": [],
+        "works": [
+          "Declaration of the Independence of Cyberspace",
+          "Neuromancer"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Barlow wrote: 'Our identities have no bodies, so, unlike you, we cannot obtain order by physical coercion'\u2014sounding, as the author notes, like a Gnostic prophet.",
+          "speaker": "John Perry Barlow"
+        },
+        {
+          "text": "Fred Turner identified 'one of the Internet's founding misunderstandings': that 'the Internet was somehow a place\u2014and specifically an American place\u2014rather than a set of interoperating global infrastructures.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-028",
+      "text": "The cypherpunk community served as a 'social prototype'\u2014a gathering whose technologies were at the center but which was itself a prototype of an idealized form of society, producing not just technical tools but new communities that could bring those tools to market and demonstrate new social possibilities.",
+      "chapter": "Permanent Frontiers",
+      "concepts": [
+        "social_prototype",
+        "recursive_publics",
+        "network_community"
+      ],
+      "entities": {
+        "people": [
+          "Fred Turner",
+          "Lana Swartz",
+          "Chris Kelty",
+          "Sameer Parekh"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Lana Swartz's concept of 'infrastructural mutualism' describes groups who 'value the ability to mutually build and support a collaborative platform upon which to transact, free from the prying eyes and inference of corporate intermediaries.'",
+          "speaker": null
+        },
+        {
+          "text": "Potential recruits for the Xth Column of crypto anarchy ranged across every group with reasons for covert commerce: drug dealers, pornographers, file sharers, political dissidents, whistle-blowers, and immortalists seeking offshore medical tourism and experimental pharmacology.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-029",
+      "text": "Adam Back's hashcash (1997) solved the cypherpunk spam problem by requiring senders to produce a 'partial hash collision'\u2014a computationally expensive proof of work that is trivial to verify\u2014functioning as metered digital postage that is unnoticeable for ordinary correspondence but economically prohibitive at spam scale.",
+      "chapter": "Nanosecond Suitcase",
+      "concepts": [
+        "proof_of_work",
+        "computational_labor",
+        "anti_spam"
+      ],
+      "entities": {
+        "people": [
+          "Adam Back",
+          "Grace Hopper",
+          "Hal Finney"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "hashcash paper 2002"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Grace Hopper traveled with a suitcase full of wire lengths representing nanoseconds\u2014the distance light travels in that time\u2014to illustrate to admirals and congresspeople how computational time accumulates; her perspective clarifies why proof-of-work becomes costly only in aggregate.",
+          "speaker": null
+        },
+        {
+          "text": "With SHA-1 hashing, 'the only way to find a string with a large collision size is by exhaustive search: trying one variation after another, until you get lucky'\u2014making the work demand arbitrarily tunable and exactly verifiable.",
+          "speaker": "Hal Finney"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-030",
+      "text": "Hashing functions\u2014transformations that map data of any size to fixed-size outputs that cannot be reversed\u2014have three properties crucial to digital cash: they verify identical objects without revealing them, they create irrefutable time-stamped chains of linked events (blockchains), and they can demand arbitrary amounts of computational work.",
+      "chapter": "Nanosecond Suitcase",
+      "concepts": [
+        "hash_functions",
+        "blockchain_architecture",
+        "cryptographic_chaining"
+      ],
+      "entities": {
+        "people": [
+          "Hans Peter Luhn",
+          "Matthew Kirschenbaum"
+        ],
+        "places": [
+          "IBM Poughkeepsie"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "IBM researcher Hans Peter Luhn pioneered 'scatter storage' hashing at IBM Poughkeepsie, whose fundamental insight was 'to see merit in deliberately abusing keys, thereby attempting to destroy every vestige of structure'\u2014making lookup fast through statistical distribution.",
+          "speaker": null
+        },
+        {
+          "text": "NIST's public randomness beacon chains each new broadcast to the hash of the previous one, making past entries tamper-evident: any attempt to change the past breaks the chain, a structure directly inherited by Bitcoin's blockchain.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-031",
+      "text": "Hal Finney's Reusable Proof of Work (RPOW) system extended hashcash into a proto-currency by allowing a hashcash token to be sent to a transparent server and exchanged for a fresh RPOW token, creating a chain of non-duplicable value tokens that could be transacted like cash without a central bank.",
+      "chapter": "Nanosecond Suitcase",
+      "concepts": [
+        "reusable_proof_of_work",
+        "digital_commodity",
+        "peer_to_peer_value"
+      ],
+      "entities": {
+        "people": [
+          "Hal Finney",
+          "Nick Szabo"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "RPOW system"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Nick Szabo's 'bit gold' proposal described using proof-of-work computations to create 'unforgeably costly bits' that could be 'securely stored, transferred, and assayed with similar minimal trust,' linked into chains through time-stamped digital signatures.",
+          "speaker": null
+        },
+        {
+          "text": "Finney sketched applications including RPOW-token poker and a BitTorrent variant rewarding file sharing with tokens redeemable for faster download queue position\u2014showing these tools could build systems akin to postage, credit card reward points, and casino chips.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-032",
+      "text": "Wei Dai's b-money (1998) achieved the cypherpunk goal of fully decentralized digital cash by exploding the bank outward into all its participants: every user maintains a copy of the complete ledger, new money is minted by anyone solving a broadcast computational challenge, and all transactions are publicly announced and collectively verified\u2014a direct precursor Bitcoin's pseudonymous creator Satoshi Nakamoto cited and corresponded with Dai about.",
+      "chapter": "Nanosecond Suitcase",
+      "concepts": [
+        "decentralized_currency",
+        "distributed_ledger",
+        "cryptocurrency_precursors"
+      ],
+      "entities": {
+        "people": [
+          "Wei Dai",
+          "Satoshi Nakamoto",
+          "Adam Back"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "b-money proposal 1998"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Finney described b-money's core: 'In principle, it is just a matter of everyone keeping track of how much money everyone else has. Whenever there is a transfer of money, this fact gets broadcast and everyone updates their databases.'",
+          "speaker": "Hal Finney"
+        },
+        {
+          "text": "Nakamoto wrote to Dai: 'I was very interested to read your b-money page. I'm getting ready to release a paper that expands on your ideas into a complete working system,' and later confirmed: 'I think it achieves nearly all the goals you set out to solve in your b-money paper.'",
+          "speaker": "Satoshi Nakamoto"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-033",
+      "text": "The Extropian community, though never more than a few thousand people, gathered almost every key figure in Bitcoin's eventual genesis\u2014including Finney, Szabo, Merkle, Mark Miller, Wei Dai, Timothy May, and Perry Metzger (who ran the cryptography list where Nakamoto posted the Bitcoin paper)\u2014making it the social and intellectual incubator of cryptocurrency.",
+      "chapter": "Hayek in Biostasis",
+      "concepts": [
+        "transhumanism",
+        "utopian_community",
+        "techno_optimism"
+      ],
+      "entities": {
+        "people": [
+          "Max More",
+          "Hal Finney",
+          "Nick Szabo",
+          "Ralph Merkle",
+          "Mark Miller",
+          "Wei Dai",
+          "Timothy May",
+          "Perry Metzger",
+          "T.O. Morrow"
+        ],
+        "places": [
+          "California",
+          "Bay Area"
+        ],
+        "events": [],
+        "works": [
+          "Extropy magazine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The first issue of Extropy in 1988, written by Tom Bell and Max O'Connor before they became T.O. Morrow and Max More, listed: AI, life extension, cryonics, nanotechnology, spontaneous orders, space colonization, libertarian economics, and science fiction\u2014a near-comprehensive litany still current in online rationalist-utopian culture.",
+          "speaker": null
+        },
+        {
+          "text": "One of the newsgroups May's BlackNet thought experiment proposed to monitor for encrypted messages was alt.extropian\u2014a detail capturing the deep overlap between crypto anarchism and Extropianism.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-034",
+      "text": "The Austrian School economists\u2014particularly Hayek's theory of competing private currencies and 'spontaneous order'\u2014provided the Extropians with an economic framework that treated unregulated markets as a computationally irreducible machine whose outputs exceeded human planning, with money as the epistemological bedrock on which this machine was seated.",
+      "chapter": "Hayek in Biostasis",
+      "concepts": [
+        "austrian_economics",
+        "spontaneous_order",
+        "monetary_epistemology"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Hayek",
+          "Ludwig von Mises",
+          "Murray Rothbard",
+          "Karl Popper"
+        ],
+        "places": [
+          "Vienna",
+          "California"
+        ],
+        "events": [],
+        "works": [
+          "Law Legislation and Liberty"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Hayek argued that prices are an information transmission system for subjective needs and desires, and any interference\u2014even slight\u2014would diminish market efficiency; therefore money must be removed from state control to produce reliable price signals.",
+          "speaker": null
+        },
+        {
+          "text": "The Austrian School's theories offered 'something dizzying and anarchic to noneconomists': the economy as a machine directed to unknowable ends, ungovernable and computationally irreducible, beyond human ability to steer or outguess.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-035",
+      "text": "The Extropians proliferated speculative currencies\u2014thornes, Ghostmarks, Ghostmarks redeemable for Diet Coke, idea futures payable in 2025, Magic Money\u2014as both playful cosmogram performances and serious technical experiments in reinventing Chaum's DigiCash or working around his patents to produce open source equivalent digital cash.",
+      "chapter": "Hayek in Biostasis",
+      "concepts": [
+        "experimental_currency",
+        "prediction_markets",
+        "reputation_systems"
+      ],
+      "entities": {
+        "people": [
+          "Robin Hanson",
+          "Hal Finney",
+          "Matt Thomlinson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Extropy magazine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Pseudonymous developer 'Pr0duct Cypher' concluded their Magic Money implementation guide by advising: 'You can make your cash more interesting by giving your server a provocative name. Running it through a remailer could give it an \"underground\" feel, which would attract people. Your digicash should be scarce.'",
+          "speaker": null
+        },
+        {
+          "text": "Robin Hanson's idea futures coupons\u2014stapled into issues of Extropy, betting on nanocomputers by 2020 or humans on Mars by a given date\u2014aimed to produce market prices for long-range future outcomes, simultaneously predicting and incentivizing realization.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-036",
+      "text": "The Extropian model of history contained a paradox: they knew a posthuman future was inevitable but could not know when it would arrive or force its advent through planning\u2014making digital cash a 'time machine' to overclock civilization by creating frictionless markets, yet leaving individuals at risk of dying just before the breakthrough they were working to produce.",
+      "chapter": "Hayek in Biostasis",
+      "concepts": [
+        "technological_acceleration",
+        "historical_inevitability",
+        "posthumanism"
+      ],
+      "entities": {
+        "people": [
+          "Nick Szabo",
+          "Max More"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Nick Szabo predicted at Extropian events that more than a million people would use anonymous electronic cash by 1999 and an untaxable anonymous digital cash economy exceeding a billion dollars annually by 2005\u2014showing the urgency they felt, not to mock the forecast, but to capture the need to 'hasten these crucial developments.'",
+          "speaker": null
+        },
+        {
+          "text": "Unrestrained Austrian capitalism was for Extropians 'a kind of time machine'\u2014not investment closing the loop of credit but a mechanism out of which spills 'a future of total, near-metaphysical disruption': the end of death, posthuman intelligence, expansion into interstellar space.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-037",
+      "text": "Cryonics was the ultimate Extropian idea future\u2014expressing the spirit of speculative currency in a more successful form than the currencies themselves\u2014requiring specialized financial instruments including dynasty trusts, strange insurance schemes, and investment tontines to move assets into a future when the preserved person would be revived.",
+      "chapter": "Future Desires",
+      "concepts": [
+        "cryonics",
+        "long_term_investment",
+        "extreme_futurism"
+      ],
+      "entities": {
+        "people": [
+          "Max More",
+          "Hal Finney",
+          "Tiffany Romain",
+          "Charles Platt"
+        ],
+        "places": [
+          "Alcor facility",
+          "Arizona"
+        ],
+        "events": [],
+        "works": [
+          "Cryonics magazine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Alcor editor Aschwin de Wolf described the revival challenge: 'If proper thought is given to this issue, the person should at least have access to a modern home and money in the prevailing currency of the time (if \"money\" as we know it has something like the same significance then).'",
+          "speaker": "Aschwin de Wolf"
+        },
+        {
+          "text": "Anthropologist Tiffany Romain described cryonics as 'a biomedically mediated form of investing in the self,' transforming the nearly inconceivable Extropian future into a present-day form of extreme investment in the 'long, long term.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-038",
+      "text": "Leo Szilard's 1948 story about voluntary cold sleep prefigured the Extropian predicament: the narrator attends what feels to guests like his funeral but to him feels like theirs, documenting the historiographic dislocation of living in a future your contemporaries will not see\u2014and developing a cabal to slow scientific progress to give 'the Art of Living a chance to catch up.'",
+      "chapter": "Future Desires",
+      "concepts": [
+        "temporal_dislocation",
+        "historical_acceleration",
+        "speculative_fiction"
+      ],
+      "entities": {
+        "people": [
+          "Leo Szilard",
+          "R.C.W. Ettinger"
+        ],
+        "places": [
+          "Chicago",
+          "Stagg Field"
+        ],
+        "events": [
+          "first nuclear chain reaction 1942"
+        ],
+        "works": [
+          "The Penultimate Trump"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Szilard lived always ahead of events\u2014keeping two suitcases packed as the Nazis took power, having a 'last dinner just in case' before the first nuclear chain reaction test\u2014living 'a day or a few years ahead, like a traveler at relativistic speeds.'",
+          "speaker": null
+        },
+        {
+          "text": "His story depicted millions going into federally subsidized hibernation during the next Great Depression, creating food surpluses requiring plates that pre-chew food\u2014a satirical extrapolation of time-shifted labor supply management.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-039",
+      "text": "Hayek's concept of 'liberty' was fundamentally about unknown future persons rather than present individuals: 'What is important is not what freedom I personally would like to exercise but what freedom some person may need in order to do things beneficial to society'\u2014making the Extropian digital cash project one of creating propitious conditions for an unknown future person to transform the world.",
+      "chapter": "Future Desires",
+      "concepts": [
+        "spontaneous_order",
+        "economic_liberalism",
+        "vanguard_theory"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Hayek",
+          "Corey Robin"
+        ],
+        "places": [
+          "Vienna",
+          "Chile"
+        ],
+        "events": [
+          "Pinochet dictatorship"
+        ],
+        "works": [
+          "Law Legislation and Liberty"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Hayek distinguished taxis (made order, constructed by organizations) from kosmos (spontaneously growing order, emerging from conditions)\u2014arguing the market's spontaneous order was the only mechanism capable of integrating activities depending on dispersed knowledge into a single coherent system.",
+          "speaker": null
+        },
+        {
+          "text": "Hayek's final sentence in Law, Legislation, and Liberty was entirely italicized: 'Man is not and never will be the master of his fate: his very reason always progresses by leading him into the unknown and unforeseen where he learns new things.'",
+          "speaker": "Friedrich Hayek"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-040",
+      "text": "The Extropian speculative money tradition was adapted after the early-2000s crash into libertarian 'emergency money'\u2014digital cash identified with precious metals, agorist theory, and the anticipation of imminent systemic collapse\u2014with Bitcoin as that emergency money's fullest realization.",
+      "chapter": "Future Desires",
+      "concepts": [
+        "emergency_currency",
+        "libertarian_eschatology",
+        "monetary_crisis"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Hayek"
+        ],
+        "places": [],
+        "events": [
+          "dot-com crash early 2000s"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Digital cash technologies spliced easily into a dystopian speculative tradition belonging to agorists, goldbugs, Objectivist followers of Rand, seasteaders, 'sovereign individuals,' and proprietors of digital gold currencies\u2014all building on the promise of a future of crisis validating their philosophy.",
+          "speaker": null
+        },
+        {
+          "text": "Hayek's epilogue ended with personal melancholy: 'I am becoming increasingly aware that it ought not to be that but rather a new beginning. But I hardly dare hope that for me it can be so'\u2014his work was for future persons about whom he could predict nothing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-041",
+      "text": "Satoshi Nakamoto embedded a political commentary into Bitcoin's very architecture: the genesis block included the Times headline 'Chancellor on brink of second bailout for banks,' functioning as a time stamp and as the opening line of the ledger's chronicle\u2014a new currency whose founding document was an indictment of the old monetary system.",
+      "chapter": "Emergency Money",
+      "concepts": [
+        "monetary_crisis",
+        "financial_commentary",
+        "cryptocurrency_origins"
+      ],
+      "entities": {
+        "people": [
+          "Satoshi Nakamoto",
+          "Hal Finney",
+          "Ben Bernanke"
+        ],
+        "places": [],
+        "events": [
+          "2008 global financial crisis",
+          "Emergency Economic Stabilization Act"
+        ],
+        "works": [
+          "Bitcoin whitepaper"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The TED spread\u2014measuring how fearfully lenders perceived risk\u2014went over four and a half percent on October 10, 2008, an unprecedented signal of major financial players fleeing the market; Bitcoin's announcement came three weeks later.",
+          "speaker": null
+        },
+        {
+          "text": "On January 9, 2009, the third Bitcoin block incorporated an ASCII art portrait of Federal Reserve Chairman Ben Bernanke; the next day Hal Finney tweeted: 'Running bitcoin.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-042",
+      "text": "Bitcoin's core innovation was fusing the proof-of-work challenge used to mint new coins with the mechanism for securing the ledger against double-spending: the same computational difficulty that creates scarcity also makes it prohibitively expensive to fraudulently alter the transaction record, replacing trusted third parties with 'the steadily decreasing probability that an alternative version will successfully challenge the canonical record.'",
+      "chapter": "Emergency Money",
+      "concepts": [
+        "distributed_consensus",
+        "blockchain",
+        "proof_of_work"
+      ],
+      "entities": {
+        "people": [
+          "Satoshi Nakamoto",
+          "Adam Back",
+          "Wei Dai",
+          "Ralph Merkle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Bitcoin v0.1"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Nakamoto stated the key properties: 'Double-spending is prevented with a peer-to-peer network. No mint or other trusted parties. Participants can be anonymous. New coins are made from Hashcash style proof-of-work. The proof-of-work for new coin generation also powers the network to prevent double-spending.'",
+          "speaker": "Satoshi Nakamoto"
+        },
+        {
+          "text": "The total supply was fixed at 21 million coins, introduced at a halving rate, with Nakamoto noting in the January 2009 announcement: 'Total circulation will be 21,000,000 coins. It'll be distributed to network nodes when they make blocks, with the amount cut in half every 4 years.'",
+          "speaker": "Satoshi Nakamoto"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-043",
+      "text": "A Bitcoin 'coin' is not a discrete piece of data but purely 'a chain of digital signatures'\u2014nothing but the history of transactions assigning ownership rights on the public ledger, meaning the currency has no existence outside the verification system and is constituted entirely by its own transaction records.",
+      "chapter": "Emergency Money",
+      "concepts": [
+        "digital_ownership",
+        "blockchain_transparency",
+        "monetary_identity"
+      ],
+      "entities": {
+        "people": [
+          "James Howells",
+          "Ted Nelson"
+        ],
+        "places": [
+          "Newport Wales"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "James Howells in Wales discarded a hard drive in 2013 containing the private key to 8,000 bitcoins worth nearly $30 million, which remain permanently visible but inaccessible at address 198aMn6ZYAczwrE5NvNTUMyJ5qkfy4g3Hi on the blockchain\u2014present but lost, forever.",
+          "speaker": null
+        },
+        {
+          "text": "Bitcoin's 'anonymity' was the inverse of Chaum's DigiCash: anonymous accounts transacting money that was unconditionally visible, traceable, and public\u2014every prior transaction unrollable like a genealogical scroll, the money having an identity that never forgets.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-044",
+      "text": "Bitcoin's security mechanism is a 'trust bulb': the whole apparatus of custom chips, boiling coolant, and roaring fans converts electricity into heat to generate a by-product\u2014trust in the scarcity of the currency\u2014through deliberate inefficiency, analogous to Keynes's satirical proposal to put banknotes in bottles and bury them in coal mines to slow money's circulation.",
+      "chapter": "Emergency Money",
+      "concepts": [
+        "computational_waste",
+        "scarcity_production",
+        "energy_economics"
+      ],
+      "entities": {
+        "people": [
+          "John Maynard Keynes",
+          "Ken Shirriff",
+          "Franklin D. Roosevelt"
+        ],
+        "places": [],
+        "events": [
+          "Executive Order 6102 1933"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ken Shirriff calculated he could produce one Bitcoin hash by hand in about a day and a half at his resting metabolic rate\u2014roughly ten quadrillion times less efficient than contemporary Bitcoin-mining hardware\u2014illustrating that Bitcoin's security is inseparable from industrial-scale cheap electricity and specialized microchip fabrication.",
+          "speaker": null
+        },
+        {
+          "text": "Nakamoto chose Bitcoin's birthday as April 5, 1975\u2014the date the Roosevelt order forbidding gold hoarding was fully relaxed\u2014an encoded libertarian commentary on monetary history.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-045",
+      "text": "Liberty Dollar mintmaster Bernard von NotHaus's 'the Drop'\u2014physically placing silver medallions in people's palms so they could feel the weight\u2014exemplifies the epistemology of libertarian hard money: value known through immediate bodily experience rather than institutional certification, backed by an implicit future of dollar collapse.",
+      "chapter": "Escape Geographies",
+      "concepts": [
+        "hard_money",
+        "bodily_epistemology",
+        "libertarian_currency"
+      ],
+      "entities": {
+        "people": [
+          "Bernard von NotHaus"
+        ],
+        "places": [
+          "Coeur d'Alene Idaho",
+          "Honolulu"
+        ],
+        "events": [],
+        "works": [
+          "To Know Value"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "An undercover FBI agent summarized the technique: 'The NORFED member holds out an ALD coin and drops the coin in the person's hand so that they can feel the weight of the silver. The NORFED member then asks, \"Do you take silver?\"\u2014never describing or offering any explanation that the ALD is an alternative currency.'",
+          "speaker": null
+        },
+        {
+          "text": "Von NotHaus described his program in terms of imminent crisis: 'get out of government money, seek privacy at all costs and buy silver to stave off the rainy days/years ahead'\u2014disaster as a sales pitch.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-046",
+      "text": "Ross Ulbricht's Silk Road cryptomarket, directly crediting Tim May's Xth Column concept, demonstrated agorist theory in practice: every unregulated transaction outside state control was a victory for the agora and a weakening of the state, with Bitcoin serving as the transaction medium because it combined the verifiability of precious metals with the anonymity of cash.",
+      "chapter": "Escape Geographies",
+      "concepts": [
+        "agorism",
+        "counter_economics",
+        "darknet_markets"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ulbricht",
+          "Samuel Edward Konkin III",
+          "J. Neil Schulman",
+          "Timothy May"
+        ],
+        "places": [],
+        "events": [
+          "Silk Road"
+        ],
+        "works": [
+          "Alongside Night"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Ulbricht wrote: 'The great thing about agorism is that it is a victory from a thousand battles. Every single transaction that takes place outside the nexus of state control is a victory for those individuals taking part in the transaction.'",
+          "speaker": "Ross Ulbricht"
+        },
+        {
+          "text": "J. Neil Schulman's 1979 novel Alongside Night\u2014required reading for the agorist movement\u2014depicted a currency crisis producing inferior federal 'blues' as Revolutionary Agorist Cadres built parallel societies with AnarchoBank coins and gold-backed digital assets.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-047",
+      "text": "Libertarian micronation projects\u2014Werner Stiefel's Operation Atlantis, the Minerva reef, and HavenCo on the North Sea platform Sealand\u2014shared the same spatial and temporal structure as libertarian fiction: characters move to alternative zones to live outside the emergency, exacerbate the existing crisis, and return to the changed world; coins were minted in advance of the societies they were meant to represent.",
+      "chapter": "Escape Geographies",
+      "concepts": [
+        "seasteading",
+        "escape_geography",
+        "monetary_sovereignty"
+      ],
+      "entities": {
+        "people": [
+          "Werner Stiefel",
+          "Ryan Lackey",
+          "Sameer Parekh",
+          "Sean Hastings"
+        ],
+        "places": [
+          "Sealand",
+          "North Sea",
+          "Minerva",
+          "Anguilla"
+        ],
+        "events": [
+          "Operation Atlantis",
+          "HavenCo launch 2000"
+        ],
+        "works": [
+          "Wired HavenCo cover story 2000"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Stiefel had Atlantean 'decas' struck before Operation Atlantis\u2014before the derelict oil rig destroyed by a hurricane, before the barge sinking near the Bahamas\u2014because in the absence of actual country, the coins stood in as pieces of terrain you could hold in your hand.",
+          "speaker": null
+        },
+        {
+          "text": "HavenCo's Ryan Lackey, on the Sealand platform, learned: 'Sovereignty alone has little value without commercial support from banks'\u2014and their most persistent problem was payment itself, with investor funds coming in through Western Union and credit cards.",
+          "speaker": "Ryan Lackey"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-048",
+      "text": "Bitcoin and silver shared not an ontological basis (backing by real assets) but an epistemological stance: both could be verified by the individual without institutional mediation, which is why the same community that embraced hard money adopted cryptocurrency\u2014the common feature was self-sovereign verification, not intrinsic value.",
+      "chapter": "Escape Geographies",
+      "concepts": [
+        "monetary_verification",
+        "individual_sovereignty",
+        "epistemic_authority"
+      ],
+      "entities": {
+        "people": [
+          "Peter Thiel",
+          "Patri Friedman",
+          "Albert Jay Nock"
+        ],
+        "places": [
+          "PorcFest",
+          "New Hampshire",
+          "Bretton Woods"
+        ],
+        "events": [
+          "Bretton Woods Conference 1944"
+        ],
+        "works": [
+          "Atlas Shrugged"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "OSS scientist Stanley Lovell insisted on pure silver for counterfeit Maria Theresa thalers minted for the Indonesian resistance: 'Indonesians would bite the coins and listen to their ring on a hard stone, so I insisted on absolute integrity.'",
+          "speaker": "Stanley Lovell"
+        },
+        {
+          "text": "People at PorcFest 2014 argued against security features on paper currency because they serve as a 'distraction'\u2014turning money verification into something someone else is in charge of, one more step toward an abstract-institutional world.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-049",
+      "text": "Coins are exceptionally vivid archives: the Gotland hoard of Islamic dirhams documents trade across half the known world, English suffragettes stamped 'VOTES FOR WOMEN' into pennies, and Maria Theresa thalers continued to be minted with the year of her death 1780 for centuries because the coin's identity as a trusted trade medium outlasted the monarch who authorized it.",
+      "chapter": "Desolate Earth",
+      "concepts": [
+        "numismatics",
+        "monetary_history",
+        "coins_as_archives"
+      ],
+      "entities": {
+        "people": [
+          "Alexander Hamilton",
+          "Benjamin Franklin",
+          "Lycurgus"
+        ],
+        "places": [
+          "Gotland",
+          "Valley Forge",
+          "Sparta"
+        ],
+        "events": [
+          "Valley Forge winter 1777"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Writer Joseph Addison said of his coin collection that he cherished not 'its metal but its erudition,' a 'poetical cash' that itself remembers the history that people and cultures forget; he once wrote an autobiography from the perspective of a shilling.",
+          "speaker": null
+        },
+        {
+          "text": "Lycurgus of Sparta reportedly based currency on iron\u2014heavy, difficult to conceal, wildly inconvenient\u2014as a pedagogical tool and social system eliminating trade and enforcing radical self-reliance; Hamilton made a note of this decision while reading Plutarch at Valley Forge.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-050",
+      "text": "Franklin's 'coined land' colonial paper money\u2014backed by land pledges, authenticated with leaf-cast prints from American trees, designed to keep colonial trade within the colonies\u2014demonstrates that monetary design encodes a complete social philosophy and political mission, as Bitcoin's design encodes its own.",
+      "chapter": "Desolate Earth",
+      "concepts": [
+        "monetary_design",
+        "colonial_economics",
+        "monetary_cosmogram"
+      ],
+      "entities": {
+        "people": [
+          "Benjamin Franklin",
+          "Rebecca Spang"
+        ],
+        "places": [
+          "American colonies",
+          "New England"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Franklin's leaf-cast banknotes became an accidental botanical archive: a circulating paper library of New England forests, bringing together a social framework, a political mission, and a physical place into the banknotes themselves.",
+          "speaker": null
+        },
+        {
+          "text": "Rebecca Spang wrote that individuals speaking of a currency's value 'are really relying on their own, barely conscious, expectations of how other human beings will react when presented with bills, coins, and credit cards'\u2014a shared vocabulary of value.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-051",
+      "text": "Bitcoin's architecture\u2014transparent ledger, fixed supply, proof-of-work, individual verification\u2014constitutes a cosmogram for libertarian 'remnant' politics: money held as a retrospective artifact against the coming emergency, whose value is validated not in ordinary time but in the anticipated crisis when existing monetary systems collapse.",
+      "chapter": "Desolate Earth",
+      "concepts": [
+        "emergency_currency",
+        "libertarian_eschatology",
+        "speculative_hoarding"
+      ],
+      "entities": {
+        "people": [
+          "Albert Jay Nock",
+          "Roger Ver",
+          "Peter Thiel"
+        ],
+        "places": [
+          "St. Kitts and Nevis",
+          "Liberland"
+        ],
+        "events": [],
+        "works": [
+          "Atlas Shrugged"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Albert Jay Nock's 1936 'Remnant' concept\u2014a secretive community 'building a substratum like coral insects,' practicing the rituals and keeping the money in anticipation of civilizational breakdown\u2014directly prefigures Bitcoin's early adopter community.",
+          "speaker": null
+        },
+        {
+          "text": "Early Bitcoin businesses offered seeds, survival kits, movement literature, and fund-raising for 3D-printed assault rifle components priced in bitcoins; a T-shirt company stocked shirts on topics from home schooling to raw milk with a promise: 'Bitcoin Users Not Affected.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-052",
+      "text": "Bitcoin generates exactly one thing besides heat: verifiable, distributed, trustless scarcity\u2014and this makes it 'possibly the purest and most honest expression of a society that could not figure out what to do with its technological inventiveness except to squander it in creating new kinds of artificial scarcity.'",
+      "chapter": "Desolate Earth",
+      "concepts": [
+        "artificial_scarcity",
+        "digital_metallism",
+        "technological_waste"
+      ],
+      "entities": {
+        "people": [
+          "Nigel Dodd",
+          "Bill Maurer",
+          "Taylor Nelms",
+          "Lana Swartz"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Nigel Dodd observed that Bitcoin appears 'not only to replicate but exacerbate the self-same inequities of wealth and power that can be found in the existing financial system'\u2014complete with centralized mining pools, speculative cartels, and major shares of the total currency held by a small group.",
+          "speaker": null
+        },
+        {
+          "text": "Anthropologists Maurer, Nelms, and Swartz called Bitcoin's gold-comparison rhetoric 'digital metallism': grounding value outside human society through algorithmic control of money supply, yet relying on 'the social dynamics of community and trust' and the production of excitement through prose, videos, manifestos, and poetry.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-053",
+      "text": "Each speculative currency project ended by dissolving into or being absorbed by a different future than its creators anticipated: Technocracy became a cultural footnote, crypto anarchy became a partial inspiration for surveillance-monetized networks and WikiLeaks, Extropianism normalized into Singularity culture, and early Bitcoin was refined into an increasingly unlike version of itself through crises, hacks, schisms, and institutional adoption.",
+      "chapter": "Conclusion: Sometime in the Future",
+      "concepts": [
+        "utopian_failure",
+        "technological_transformation",
+        "speculative_currency"
+      ],
+      "entities": {
+        "people": [
+          "Howard Scott",
+          "David Chaum",
+          "Bruce Sterling"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Rather than making personal activities private, the Internet built on advertising and aggressive surveillance that monetized users\u2014'tagged livestock in feedlots,' as Chaum had warned\u2014with their attention and payment data just another resource for capture and exploitation.",
+          "speaker": null
+        },
+        {
+          "text": "As of writing, Bitcoin seemed to have found a role 'that perfectly exemplifies the present moment: a wildly volatile vehicle for baseless speculation, a roller coaster driven by a mix of hype, price-fixing, bursts of frenzied panic, and the dream of getting rich without doing much of anything.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-054",
+      "text": "Hal Finney\u2014the quiet main character of the book, recipient of the first Bitcoin transaction, RPOW designer, Extropian, and cypherpunk\u2014died of ALS in 2014 and was cryonically preserved at Alcor, his body simultaneously in the past (memorialized in press and blockchain), present (at \u2212196\u00b0C in Arizona), and future (where all money ultimately resides).",
+      "chapter": "Conclusion: Sometime in the Future",
+      "concepts": [
+        "cryonics",
+        "monetary_futurity",
+        "technological_legacy"
+      ],
+      "entities": {
+        "people": [
+          "Hal Finney",
+          "Max More"
+        ],
+        "places": [
+          "Alcor facility",
+          "Arizona"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Even as he lost control of his hands to ALS, Finney worked on a coding project to better secure Bitcoin wallet software; some of his medical expenses were defrayed by selling Bitcoin he had accumulated in the blockchain's early days.",
+          "speaker": null
+        },
+        {
+          "text": "Max More, now Alcor's CEO, wrote in the announcement of Finney's cryopreservation: 'Hal, I know I speak for many when I say that I look forward to speaking to you again sometime in the future and to throwing a party in honor of your revival.'",
+          "speaker": "Max More"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-055",
+      "text": "The practical question the book leaves is: every kind of money carries a structure of time, history, and anticipated future\u2014to what future, and what arrangements of knowledge and power, does your money belong, and is that the future you hope to realize?",
+      "chapter": "Conclusion: Sometime in the Future",
+      "concepts": [
+        "monetary_futurity",
+        "cosmogram",
+        "critical_monetary_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In their very obscurity and marginality, each speculative currency project offers an unsullied example of the imagination of its community and era expressed in monetary proposals and stories\u2014theories of the future that also act as testimony of their present.",
+          "speaker": null
+        },
+        {
+          "text": "The ultimate horizon of money's future contains our own deaths and the end of the societies that made it valuable\u2014money therefore acts as a model of the future, but always the future within a particular time.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-001",
+      "title": "Introduction: The Passing Current",
+      "summary": "Digital cash is best understood as a problem of knowledge about currency authentication\u2014how data can be made valuable, scarce, and verifiable\u2014and its history is also a history of how money is used to tell stories about the future and mobilize action in the present.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-001",
+        "bitcoin-and-the-future-of-money-002",
+        "bitcoin-and-the-future-of-money-003",
+        "bitcoin-and-the-future-of-money-004"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-002",
+      "title": "Speculating with Money",
+      "summary": "Through the rise and fall of Technocracy Inc. and their energy certificate currency, the chapter argues that money is fundamentally a technology for managing time and futures, and that 'speculative currencies' function as cosmograms\u2014objects encoding a complete model of society, ontology, and anticipated history that allow utopian communities to enact their desired future in the present.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-005",
+        "bitcoin-and-the-future-of-money-006",
+        "bitcoin-and-the-future-of-money-007",
+        "bitcoin-and-the-future-of-money-008"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-003",
+      "title": "Secure Paper",
+      "summary": "Paper money evolved from signature-centric bills of exchange\u2014which authenticated specific people and their credit networks\u2014into 'objects made in new ways' whose industrial production techniques themselves became the mechanism of authentication, a shift that created the parallel challenge of policing the analog-digital border against perfect reproduction.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-009",
+        "bitcoin-and-the-future-of-money-010",
+        "bitcoin-and-the-future-of-money-011",
+        "bitcoin-and-the-future-of-money-012"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-004",
+      "title": "Recognizable without Being Known",
+      "summary": "Public key cryptography solved the fundamental problem of symmetric key distribution by splitting encryption and decryption into separate but mathematically linked keys, and the resulting 'digital signature' technology created a powerful but imperfect analogy to written signatures\u2014producing a strange bestiary of new authentication objects that raised deep questions about identity, presence, and verification.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-013",
+        "bitcoin-and-the-future-of-money-014",
+        "bitcoin-and-the-future-of-money-015",
+        "bitcoin-and-the-future-of-money-016"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-005",
+      "title": "Blinding Factor",
+      "summary": "David Chaum's DigiCash built the first functional digital cash using public key cryptography and the 'blinding factor' technique to make transactions anonymous without enabling fraud, but its failure to achieve adoption despite sound technology revealed that digital cash required not just good mathematics but 'societal buy-in'\u2014a community with a compelling vision of the future it would create.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-017",
+        "bitcoin-and-the-future-of-money-018",
+        "bitcoin-and-the-future-of-money-019",
+        "bitcoin-and-the-future-of-money-020"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-006",
+      "title": "Collapse of Governments",
+      "summary": "The cypherpunk movement, emerging from the 1992 inaugural meeting in Berkeley christened by Jude Milhon, sought to use cryptography to build encrypted information marketplaces and anonymous digital cash that would make governments obsolete, but faced three fundamental unsolved problems\u2014coordination, duplication, and adoption\u2014illustrated by the failed precursor projects AMIX and Xanadu, which tried and failed to make digital information inherently valuable.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-021",
+        "bitcoin-and-the-future-of-money-022",
+        "bitcoin-and-the-future-of-money-023",
+        "bitcoin-and-the-future-of-money-024"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-007",
+      "title": "Permanent Frontiers",
+      "summary": "The cypherpunks addressed the adoption problem for digital cash by building social prototypes\u2014experimental communities, speculative fictions, and political myths of a lawless digital frontier\u2014that would generate the societal buy-in needed for encrypted anonymous systems, with Tim May's BlackNet thought experiment and the Electronic Frontier Foundation's frontier metaphor creating an imagined geography of encrypted liberty.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-025",
+        "bitcoin-and-the-future-of-money-026",
+        "bitcoin-and-the-future-of-money-027",
+        "bitcoin-and-the-future-of-money-028"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-008",
+      "title": "Nanosecond Suitcase",
+      "summary": "Adam Back's hashcash\u2014a proof-of-work postage system for email\u2014showed how partial hash collision algorithms could demand and verify precise quantities of computational work, generating a family of Bitcoin precursors (RPOW, bit gold, b-money) that tried to build cryptographic money native to the network itself, culminating in Wei Dai's b-money proposal for a fully decentralized bank where every participant collectively maintained the ledger.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-029",
+        "bitcoin-and-the-future-of-money-030",
+        "bitcoin-and-the-future-of-money-031",
+        "bitcoin-and-the-future-of-money-032"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-009",
+      "title": "Hayek in Biostasis",
+      "summary": "The Extropian movement fused Austrian economic theory\u2014particularly Hayek's competing private currencies and spontaneous order\u2014with Silicon Valley techno-optimism, cryonics, and nanotechnology to produce a cosmogram in which digital cash was not merely a privacy tool but an accelerant for the inevitable posthuman transformation of civilization, demonstrated through a proliferation of playful speculative currencies from thornes and Ghostmarks to idea futures.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-033",
+        "bitcoin-and-the-future-of-money-034",
+        "bitcoin-and-the-future-of-money-035",
+        "bitcoin-and-the-future-of-money-036"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-010",
+      "title": "Future Desires",
+      "summary": "Cryonics\u2014the practice of freezing bodies for future revival\u2014expressed the Extropian model of money and history in its purest form as 'extreme investment in the self,' demanding specialized financial vehicles for the ultra-long term and connecting digital cash development to the challenge of transmitting assets into an unknown posthuman future, while alternative accounts from Leo Szilard and Soviet anabiosis experiments reveal the deep temporal dislocations inherent in such projects.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-037",
+        "bitcoin-and-the-future-of-money-038",
+        "bitcoin-and-the-future-of-money-039",
+        "bitcoin-and-the-future-of-money-040"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-011",
+      "title": "Emergency Money",
+      "summary": "Bitcoin was announced on Halloween 2008 at the nadir of the global financial crisis, incorporating decades of prior digital cash research into a single incremental but theoretically novel synthesis: a system where the same proof-of-work challenges that mint new coins also secure the shared distributed ledger against double-spending, producing a 'trust bulb' that guarantees scarcity through deliberate computational waste\u2014though what makes the currency actually valuable remains outside the technical apparatus entirely.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-041",
+        "bitcoin-and-the-future-of-money-042",
+        "bitcoin-and-the-future-of-money-043",
+        "bitcoin-and-the-future-of-money-044"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-012",
+      "title": "Escape Geographies",
+      "summary": "Early Bitcoin found its most devoted initial audience in the libertarian speculative currency tradition\u2014where coins and precious metals functioned as artifacts from a future post-collapse order, authenticated through bodily knowledge ('the Drop') rather than institutional trust\u2014and this context explains why Bitcoin's design choices around verifiability, public ledgers, and self-custody resonated: they matched an epistemological stance privileging individual verification over institutional authority.",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-045",
+        "bitcoin-and-the-future-of-money-046",
+        "bitcoin-and-the-future-of-money-047",
+        "bitcoin-and-the-future-of-money-048"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-013",
+      "title": "Desolate Earth",
+      "summary": "Bitcoin's design choices\u2014the public ledger, fixed supply, proof-of-work mining, individual verification\u2014constitute a cosmogram built entirely around producing verifiable scarcity, suited to early adoption by libertarians anticipating monetary collapse; but the system generates nothing except deliberately difficult hashes that guarantee scarcity, making it 'possibly the purest and most honest expression of a society that could not figure out what to do with its technological inventiveness except to squander it in creating new kinds of artificial scarcity.'",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-049",
+        "bitcoin-and-the-future-of-money-050",
+        "bitcoin-and-the-future-of-money-051",
+        "bitcoin-and-the-future-of-money-052"
+      ]
+    },
+    {
+      "id": "bitcoin-and-the-future-of-money-ch-014",
+      "title": "Conclusion: Sometime in the Future",
+      "summary": "Each speculative currency project examined in the book was a 'technique of futurity' that serves as testimony to its own historical moment\u2014Technocratic energy certificates are Depression-era futuristic, Extropian digital cash is old New Economy futuristic, early Bitcoin is libertarian-crisis futuristic\u2014and the larger question the book leaves is: to what future, and what arrangements of knowledge and power, does your money belong?",
+      "claim_ids": [
+        "bitcoin-and-the-future-of-money-053",
+        "bitcoin-and-the-future-of-money-054",
+        "bitcoin-and-the-future-of-money-055"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 55,
+    "chapter_count": 14,
+    "indexed_at": "2026-04-09T19:48:27.707333Z"
+  }
+}
