@@ -1,7 +1,7 @@
 {{/* Collections sidebar for homepage and taxonomy pages */}}
 {{/* Shows only collections listed in data/collections.json */}}
 
-{{ $featured := site.Data.collections }}
+{{ $featured := sort site.Data.collections }}
 {{ $taxonomy := site.Taxonomies.collections }}
 {{ if and $featured $taxonomy }}
 <aside id="collections-sidebar" class="toc-sidebar" aria-label="Collections">

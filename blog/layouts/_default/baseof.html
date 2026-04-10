@@ -117,7 +117,7 @@
   {{- $books := where site.RegularPages "Section" "books" -}}
   {{- $latestBooks := first 5 (sort $books "Params.dateAdded" "desc") -}}
   {{ $collections := site.Taxonomies.collections }}
-  {{ $featured := site.Data.collections }}
+  {{ $featured := sort site.Data.collections }}
   {{ $hasCollections := and $featured $collections }}
   {{ if or $hasCollections (gt (len $latestBooks) 0) }}
   <div id="mobile-categories-panel" class="mobile-toc-panel" hidden>

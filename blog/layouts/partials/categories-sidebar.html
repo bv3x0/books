@@ -4,7 +4,7 @@
 {{- $books := where site.RegularPages "Section" "books" -}}
 {{- $latestBooks := first 5 (sort $books "Params.dateAdded" "desc") -}}
 {{- $collections := site.Taxonomies.collections -}}
-{{- $featured := site.Data.collections -}}
+{{- $featured := sort site.Data.collections -}}
 {{- $hasCollections := and $featured $collections -}}
 
 {{ if or (gt (len $latestBooks) 0) $hasCollections }}
