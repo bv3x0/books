@@ -1,0 +1,173 @@
+---
+title: "Bronze Age Mindset: An Exhortation"
+sortTitle: "Bronze Age Mindset: An Exhortation"
+date: 2026-04-10
+slug: "bronze-age-mindset"
+draft: false
+dateAdded: 2026-04-10
+description: "Modern civilization is a suffocating Iron Prison that suppresses the natural vitality, freedom, and conquering spirit of superior men; the only path to liberation is a return to the Bronze Age mindset of piratical brotherhood, physical excellence, and the unapologetic will to dominate space."
+bookKeywords: "vitalism and the critique of Darwinian biology, masculine friendship and piratical brotherhood, owned space and domestication of higher life, the suppression of beauty and youth by civilizational decay, political strategy and the coming barbaric renewal"
+author: "Bronze Age Pervert"
+shortAuthor: "Pervert"
+year: "2018"
+tags: ["philosophy", "political science", "social science"]
+---
+
+
+
+### Prologue
+
+The author positions this book not as philosophy but as a call to arms against a hidden ugliness that has pervaded modern civilization, promising to draw back the curtain on the Iron Prison in which humanity currently lives and to awaken those with the inner fire to resist it.
+
+* <span id="bronze-age-mindset-an-exhortation-001"></span>**The book is an exhortation, not a philosophical treatise, aimed at a specific type of reader with an already-ascending nature, not at convincing the general public.**
+    - The proliferation of false doctrines and degraded ideas across books and the internet motivates the writing, framed as a rescue mission for minds that might still be saved.
+    - The author claims indifference to most readers and disclaims any interest in winning arguments, presenting the text instead as a record of personal reveries.
+* <span id="bronze-age-mindset-an-exhortation-002"></span>**Modern elites and bureaucrats display a dehumanized, inhuman quality in their eyes and demeanor that signals their role as vehicles for a hidden and malevolent power.**
+    - Hillary Clinton, Adam Schiff, EU bureaucrats, and airport security workers are cited as examples of this robotic, cyborg-like gaze.
+    - This eldritch quality is compared to Hades, whose shame would be revealed if a god drew back the veil on his underworld.
+* <span id="bronze-age-mindset-an-exhortation-003"></span>**The figure of Hercules wearing the Nemean lion-skin represents the divine purgative function of nature, through which a chosen few are called to cleanse a world overwhelmed by surplus and decay.**
+    - The Nemesis principle — nature producing a monstrous corrective force when populations become too dense or corrupt — is illustrated through the lake lizard that culls overpopulated reptiles.
+    - The author predicts piratical bands and brotherhoods will return to the seas to enact this cleansing function against the enemies of Western man and beauty.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Earth_figure-with-weapon.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part One: The Flame of Life
+
+### Part One: The Flame of Life (Sections 1–30)
+
+Life in its highest form is not the survival-and-reproduction machine described by Darwin but a self-expanding drive toward mastery of space, beauty, and excellence; Darwinism describes only life under extreme distress, and the true nature of organisms — governed by hormones, inborn will, and a demonic intelligence inside matter — points toward the production of a supreme specimen as nature's hidden goal.
+
+* <span id="bronze-age-mindset-an-exhortation-004"></span>**Darwinism is true only of life under extreme stress and distress — specifically the conditions of early industrial England — and is therefore a philosophy of the tenement and slum, not a universal account of life.**
+    - Darwin is meaningless without Malthus, and Nietzsche correctly identified that both describe only life in England at the start of the industrial age, when the solution to infant mortality created a surplus of suffering human biomass.
+    - England's demographic surplus enabled it to transplant entire populations to colonies, while Portugal, with a population of one million at the start of the Age of Discovery, could only practice elite dominance.
+* <span id="bronze-age-mindset-an-exhortation-005"></span>**The most noble animals refuse to breed in captivity and choose death over subjection, demonstrating that survival and reproduction are not the ends of life but side effects of a higher drive toward the mastery of space.**
+    - Germanic mothers killed infants when Roman legions closed in; Caribs enslaved by colonizers bit through their own arms to escape captivity; Jews at Masada killed their own children rather than submit.
+    - A jaguar observed in a zoo displayed noble and persistent sadness at living in a simulated environment, recognizing it had no power to move or truly live.
+* <span id="bronze-age-mindset-an-exhortation-006"></span>**Evolutionary psychologists engage in a bait-and-switch between materialist mechanism and teleological purpose, never honestly confronting the real question: what does life actually drive at in the moment?**
+    - The Darwinist denies teleology when pressed, then immediately speaks of animals 'trying to secure reproduction or survival,' and the most honest ones admit to replication as a personal aspiration.
+    - Darwin's key insight — natural selection — is actually a tautology known to every sheep breeder in history: only animals that reproduce pass on their traits.
+* <span id="bronze-age-mindset-an-exhortation-007"></span>**Complex inborn behaviors in animals — like the Alpine mouse's precise ratio of poison herbs, or an insect's foreknowledge of a future threat to its eggs — cannot be explained by incremental natural selection and point to a demonic, hidden intelligence inside matter itself.**
+    - The Ptolemaic system's increasing complexity of epicycles before its collapse is offered as a parallel to evolutionary theory's mounting ad hoc explanations for behavioral adaptations.
+    - Adaptation does not occur randomly but through a spontaneous correspondence between organism and environment — some undiscovered signaling system — and natural selection is only one mechanism by which such adaptations spread.
+* <span id="bronze-age-mindset-an-exhortation-008"></span>**The primary drive of healthy animal life is the struggle for ownership of space — territory in a broad sense — which enables the unfolding of inborn powers; reproduction is merely a downstream side effect of achieved mastery, not the goal.**
+    - Young rams butt heads in anticipation of horns not yet grown, knowing in the blood what they are meant to become — revealing that the will and behavior precede and determine physical development, not the reverse.
+    - Higher and more differentiated organisms delay reproduction longer and are more vulnerable to competition, which means intense competitive pressure produces stunted, less beautiful, less magnificent life.
+* <span class="pull-quote">Life is at most basic, struggle for ownership of space.</span>
+* <span id="bronze-age-mindset-an-exhortation-009"></span>**Hormones — especially the contrast between thyroid/progesterone (which preserve differentiated function and energy) and estrogen/serotonin (which promote cell division and stress) — are the material key to understanding the two fundamental modes of life: yeast-like expansion versus structured ascent toward a supreme specimen.**
+    - Ray Peat is identified as the only thinker who has attempted a serious decipherment of these hormonal relationships, and is dismissed as a crank by mainstream biology.
+    - The aesthetic physique has cosmic significance as the pinnacle of nature's drive toward higher differentiation, while obesity and spiritual lassitude represent life's devolution toward yeast-form; 'only sun and steel will show you the path.'
+* <span id="bronze-age-mindset-an-exhortation-010"></span>**The 'disenchanted' secular worldview is not a liberation but the broken peasant's worldview imposed on civilization by agriculture, which domesticated the human animal and suppressed the natural state of religious intoxication that characterized Paleolithic life.**
+    - For hundreds of thousands of years, humans walked in what we would call religious delirium — the actual default state of conscious life — and agricultural civilization first imposed the depressive frame that masquerades as rational sobriety.
+    - Science as popular religion does not produce enlightenment but cargo-cultism: it removes primal fear without replacing it, feeding false pride and servility to authorities who are presumed to understand the technology.
+* <span id="bronze-age-mindset-an-exhortation-011"></span>**Gods almost certainly exist as beings superior to humans in power and beauty, but they will not reveal themselves to the weakened modern man; it is man's responsibility to cultivate the inner energy and enthusiasm necessary to honor and receive them.**
+    - The 'new atheists' like Sam Harris and Hitchens attack not just religion but aim to colonize the mind with their own stupid organized religion, made credible only because monotheism overreached with grandiose unprovable claims.
+    - Pagan gods cannot be disproven by science since their existence falls entirely outside the domain of scientific investigation; the weakness and spinelessness of modern man is itself the reason no god would show himself.
+* <span id="bronze-age-mindset-an-exhortation-012"></span>**Reincarnation is the universal primitive belief because it is true in a specific sense: not the soul or intellect is reborn, but the inborn will — the biological pattern of desire and behavior — recurs in new bodies, with higher organisms having more particularized wills that persist more distinctly.**
+    - The intellect is a merely physical quality like muscular strength and cannot be reborn; what persists is what Schopenhauer calls the will — the inborn way of wanting and behaving that defines a being more truly than its memories.
+    - Pythagoras, viewing Euphorbus' shield in Sicily, wept in recognition of his own past life — and Homer's description of the death of Euphorbus as a young tree felled in its prime encodes this vision of the eternal youthful force renewing itself.
+* <span id="bronze-age-mindset-an-exhortation-013"></span>**The aion — the eternal youthful life-force — is the true driving principle of the universe, identical to Heraclitus's fire, and is revealed in the Greek equation of youth, life-span, and eternity in their language and in Homer's poetry.**
+    - The Indo-European root behind Latin iuuenis (youth), aetas and aeternus (age, eternity), and the Greek aiei (forever) and aion all derive from the same word for youthful life-force, revealing that these peoples saw vigor of youth as the engine behind all things.
+    - Posting images of beautiful and handsome youths is not vanity but a contemplation of the persistent rejuvenation of this eternal force, and in them can be seen nature's hidden design striving toward a superior creature of terrible beauty and power.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Space_star-emblem.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part Two: Parable of Iron Prison
+
+### Part Two: Parable of Iron Prison (Sections 31–48)
+
+Modern civilization is not merely flawed but represents the return of a very ancient subjection — the rule of matriarchy, domestication, and the longhouse — now hidden behind Enlightenment vocabulary; the gay, the transsexual, and the modern nerd are all products of this smothering, owned space, while Oriental civilization and the primitive village show that this broken state is the default condition of most of mankind throughout history.
+
+* <span id="bronze-age-mindset-an-exhortation-014"></span>**The modern effeminate homosexual is not a product of ancient pederastic traditions but a specific response to 'owned space' — the domesticated, totally managed environment of post-industrial life — which thwarts the conquering spirit of sensitive boys and leads them to misinterpret their alienation in sexual terms.**
+    - Paglia's model — the sensitive artistic boy distanced from masculine peers, who then eroticizes masculinity — is correct but incomplete; the key missing element is that what such a boy recoils from is not masculinity itself but the buffoonish, dependent character of modern masculinity happening inside already-owned space.
+    - When such a boy later identifies as 'gay,' he has reinterpreted his lifelong sense of primal limitation and subjection as a story of sexual repression, becoming an unwitting foot-soldier of the very power he had intuitively identified as the enemy.
+* <span id="bronze-age-mindset-an-exhortation-015"></span>**The gay underworld of the 1950s was a pressure valve and 'remainder' of the new world order — a penetrable space of genuine freedom — whose destruction through AIDS and the gay rights movement converted the most perceptive and potentially rebellious types into the most merciless enforcers of the global slave state.**
+    - The Dark Ocean Society of Japan is cited as the key to understanding all modern political and social organization: beneath the surface of domesticated civilization there has always been a 'floating world' in which monsters, spooks, mafia, and the crafters of civilization itself actually lived.
+    - The gay underworld's value was that it created a space where many types of deviants, impresarios, gangsters, and intelligence operatives could mingle — its destruction has closed off a major entry point into the real world of power and freedom.
+* <span id="bronze-age-mindset-an-exhortation-016"></span>**Oriental civilization — particularly Han China — represents the reduction of the human animal to mere life: a perpetual subject population that prefers subjection to alien rulers over the alternative of allowing its own young men freedom and power.**
+    - The Chinese on multiple occasions, including when they briefly developed a navy in the 15th century, noticed the ferment and disorder that masculine empowerment brought to their society and immediately quashed it — the interests of mere life are too entrenched to change.
+    - Aristotle's formula — Asians are civilized but slavish, northern Europeans are uncivilized but free — is not a call for balance but a recognition that the Greeks valued and respected the free barbarian far more than the slavish Asian.
+* <span id="bronze-age-mindset-an-exhortation-017"></span>**The nerd — characterized by inelegant pedantic intelligence, identification with the intellect, and desire for prestige — is the greatest enemy of the human species, and his fantasy of artificial intelligence is a golem-project that seeks to mimic life through algorithms without ever grasping life's demonic inner intelligence.**
+    - All claims that the universe is 'information,' that consciousness can be uploaded, or that true AI can exist share the same root delusion: the nerd's hatred of vibrant matter and beauty, which the author connects to a Judaizing tendency that appears in many peoples.
+    - No great scientific discovery has ever been made through reason or syllogism; Gauss famously remarked 'I got it... now I have to get it' — meaning he first perceived a spatial relation intuitively and only then translated it into mathematical language.
+* <span class="pull-quote">Anyone born with a will to conquest and expansion, any specimen born to courage and the expansion of boundaries, will feel thwarted now, will awaken at a young age to find themselves in a world pervaded by an evil and smothering shadow that seeks to blot out their spirit and break them.</span>
+* <span id="bronze-age-mindset-an-exhortation-018"></span>**Beauty-hating cultures universally also hate privacy, personal space, and refined manners — revealing that the hatred of beauty is really a hatred of distinction and superiority, rooted in the suspicion that the beautiful mock what the many hold most sacred: survival under need.**
+    - Millennia of arranged marriages for financial gain among the Indians produced a nation of one billion that almost never wins athletic contests; beauty is the preserve only of tribes that have bred for something other than financial or political advantage.
+    - Among the great civilizations, only the ancient Greeks, the French, the Japanese, and somewhat the Italians are true lovers of beauty and refinement — and have based their existence on its promotion.
+* <span id="bronze-age-mindset-an-exhortation-019"></span>**Matriarchy is not a myth but a covert reality in most settled societies — including tribal Africa, China, and the pre-Aryan longhouse — and the modern world represents a literal return to this pre-Aryan mode, which Nietzsche predicted would reassert itself as socialism and feminism.**
+    - In Africa, men are utterly dependent on big-armed women for food production, while all important social decisions pass through interlocking secret societies in which women, as oracles and power-brokers, play a dominant or ruling role.
+    - Everywhere in history 'young males represent a threat' to established communal order, so settled societies — whether primitive or civilized — consistently choose to break and caponize their youths rather than allow flourishing, even preferring subjection to an alien tribe to the alternative.
+* <span id="bronze-age-mindset-an-exhortation-020"></span>**The history we receive is almost certainly massively falsified — by monks, Byzantine scholars, Italian humanists, and sectarian forgers — so that no stable ground exists for the secular man's faith in historical continuity, and this chaos of uncertainty is to be welcomed as the precondition for a new world.**
+    - Islam may be a forgery: the Koran possibly a reworked Syriac Christian devotional text, and Mohammed a name for Christ, with the entire Arab conquest narrative fabricated by both sides — there is no archaeological evidence for the historical Mohammed.
+    - The speculations of Anatoly Fomenko (identifying the Crusades with the Trojan War) and the phantom-time hypothesis (adding three centuries to our chronology) are described as 'small stuff' compared to the author's own suspicions about the fabrication of entire continents and geographies.
+* <span id="bronze-age-mindset-an-exhortation-021"></span>**Gnosticism — the belief that this world is the creation of an evil demiurge and that a divine spark is trapped in wrongly configured matter — is not merely a byproduct of Roman imperial decay but a perennial response to civilizational exhaustion and the feeling of total entrapment.**
+    - The Carpocratians, the Russian Khlysty, and the Jewish Frankists all believed that since matter is governed by Satan's laws, total transgression of every law is the path to liberation — a logic the author finds kinship with but does not endorse.
+    - The modern transsexual is the Gnostic response to total domestication taken to its logical conclusion, and in trying to escape 'matter wrongly configured,' they unwittingly serve to make progressive domestication more totalitarian.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part Three: Men of Power, and the Ascent of Youth
+
+### Part Three: Men of Power, and the Ascent of Youth (Sections 49–62)
+
+Life reaches its peak in the military state and the piratical brotherhood of free men, exemplified by Bronze Age Greeks, Renaissance adventurers, and modern mercenaries like Bob Denard; the Bronze Age mindset — divine carelessness, conquest of space, strong male friendship, and the lust for power as self-overcoming — is the only real antidote to civilizational subjection and can still be practiced by those with the right blood.
+
+* <span id="bronze-age-mindset-an-exhortation-022"></span>**Paleolithic and Bronze Age men physically, intellectually, and spiritually exceeded modern humans in every measurable way — Greek citizen-soldiers at Marathon ran a mile in full bronze armor and then marched back to Athens without pause — making ancient examples simultaneously inspiring and humbling.**
+    - Aeschylus had engraved on his tombstone that he fought at Marathon, not that he wrote his plays — the free man is a warrior first, and only a man of war is a real man.
+    - Some ancient sophists could memorize fifty names upon a single hearing; some possessed the gift of remote vision that Soviet and American intelligence services have tried in vain to rediscover.
+* <span id="bronze-age-mindset-an-exhortation-023"></span>**Alcibiades of Athens — who successively advised and excelled in Athens, Sparta, Persia, and various other powers, each time adopting their customs entirely — is the supreme historical example of the Bronze Age man of erotic power and divine carelessness who recognizes no law as binding on him.**
+    - His shield bore Eros with a thunderbolt, signaling his devotion to the irrepressible life-force and his refusal to be constrained by the opinion of elders; as a boy he refused to play the flute because it made one's cheeks look ridiculous.
+    - Thucydides and Plutarch tell his story, though the latter is described as a 'famous liar'; the author declares that 'in the beginning was not the word, but the demonic fire that bursts out in men like Alcibiades.'
+* <span id="bronze-age-mindset-an-exhortation-024"></span>**The pirate is the original form of the free man and all ascending life; the Bronze Age mindset — exemplified by the ancient Greek drinking song 'this is my wealth: my spear and shield' — is one of conquest, not sacrifice, and the warrior who genuinely does not care about survival or approval is the only truly free person.**
+    - Hippocleides dancing upside down on a table at the risk of losing a prestigious marriage, and responding to his host's protest with 'Hippocleides doesn't care,' encapsulates the entire attitude of the piratical Greek aristocracy.
+    - Tacitus's description of Germanic nobles who preferred to win the necessities of life through battle rather than soil their hands with labor, and who sought out wars in other tribes during peacetime because adventure was their lifeblood, is offered as the model.
+* <span id="bronze-age-mindset-an-exhortation-025"></span>**Strong male friendship — on the model of Achilles and Patroclus, Harmodius and Aristogeiton, Epaminondas and Pelopidas — is not an ethical duty but a pleasure beyond ethics, and the absolute prerequisite for all great political, scientific, and artistic achievements; it is now deliberately suppressed by the modern slave state.**
+    - Every great political act of freedom in antiquity was executed through brotherhoods and aristocratic clubs; Cellini's ability to gather fifty bravos for a raid on an enemy is cited as the premodern norm made impossible today.
+    - The Wandervogel, Zionist youth movements, and Boy Scouts are identified as modern attempts to recover this spirit of masculine camaraderie and nature-based brotherhood, with Israel's founding described as 'the most anti-Semitic act ever conceived' in the positive sense of self-overcoming.
+* <span class="pull-quote">The pirate, the true warrior — not the modern soldier in subjection to a high brass eunuch — is the only free man, and it is this freedom, the primal freedom of the Bronze Age that some must recapture before anything else can be done.</span>
+* <span id="bronze-age-mindset-an-exhortation-026"></span>**The tyrant-kings of antiquity — Periander of Corinth, Lysander of Sparta, Brasidas — pursued power not as public service but as a means of self-overcoming and self-perfection, attempting to turn their lives into works of art and ultimately to be worshiped as gods: this, the secret desire of every noble Greek, is the Bronze Age mindset's true inner logic.**
+    - Periander, whose name means 'superman,' copulated with his mother, violated his wife's corpse, castrated all the boys of Corcyra, and yet was memorialized as one of the Sages of the ancient world — a philosopher-poet who built the first railroad in history across the Isthmus of Corinth.
+    - Lysander was the first man to be worshiped at altars as a god during his lifetime, after turning Sparta into a naval power and ending the Peloponnesian War; Brasidas, a Spartan general who won victories through charisma and speech, died in the middle of victorious battle and was thereafter worshiped at Amphipolis.
+* <span id="bronze-age-mindset-an-exhortation-027"></span>**The great warriors of the Iliad — particularly Diomedes and Achilles — embody the truth that in a condition of aroused spirit, the true man gains heightened perception, rises outside the stream of events, and draws others into his orbit by a biological compulsion identical to the magnetism of the hegemon in animal packs.**
+    - Athena kindles a visible fire on the heads and shoulders of Diomedes and Achilles in their moments of glory — the biological reality of charisma that draws men into orbit as if by magnetic force.
+    - The destruction of Troy — its men killed, its women and children enslaved — was not a moral failure but a form of divine warfare; when a city's tutelary gods are destroyed with it, the greatest warriors are acting as instruments of cosmic renewal.
+* <span id="bronze-age-mindset-an-exhortation-028"></span>**The age of European exploration — Columbus, Vasco da Gama, Cortes, Pizarro, Pedro de Alvarado, Camões — equals or surpasses the heroic age of antiquity in daring and achievement, and Alvarado in particular exemplifies the Bronze Age pirate reborn: single-minded, insatiably hungry for new space, worshiped as a god by those he conquered.**
+    - Camões, the author of the Lusiad, lost an eye fighting the Moor in Ceuta, lived as a brigand and vagabond in Lisbon, was pressed into colonial naval service, and when shipwrecked off the Mekong held his manuscript above his head to save it from the water.
+    - Alvarado — called Tonatiuh (mane of the sun) by the Mexica for his red-blond hair — massacred the Aztec nobles at the Great Temple for no reason at all, was planning the conquest of China just before his death, and never pretended to be more than one thing: a born beast of prey.
+* <span id="bronze-age-mindset-an-exhortation-029"></span>**Bob Denard and 'Mad Mike' Hoare prove that the Bronze Age pirate spirit can flower complete and unedited in the modern world, and their careers as mercenaries in Africa demonstrate that men of adamantine character still exist who are willing to inscribe their wills in bronze for the ages.**
+    - Denard overthrew the government of the Comoros four times and had to be dislodged each time by French special forces; he had many wives and won many properties by the force of his hand, and 'acted and felt like a winner' rather than striving from 'ambition.'
+    - Executive Outcomes, the mercenary company that ended the civil war in Sierra Leone, was stopped by the UN and gangs of international lawyers precisely because it threatened to establish a new order in Africa — demonstrating that the Leviathan fears such men above all else.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_figure-with-tools.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part Four: A Few Arrows
+
+### Part Four: A Few Arrows (Sections 63–77)
+
+The liberation of women is the proximate cause of civilizational collapse because it hands control to demagogues who can mobilize the lower orders; the immediate political strategy requires building nationalist brotherhood through beauty, physical culture, and covert action rather than public ideological performance, while the long-term vision is a piratical fortress-aristocracy on the edges of civilization from which a new order will be imposed.
+
+* <span id="bronze-age-mindset-an-exhortation-030"></span>**The liberation of women is not a moral failure but a political catastrophe: it makes democracy a terminal disease by delivering political power to whoever can manipulate the lower orders of the spirit, specifically financiers, lawyers, and bureaucrats who 'whore out your wife and daughters.'**
+    - Women did not fail to deserve liberation; rather, there is no world in which 'the women' can act as a coherent political unit, so their formal freedom functions in practice as a weapon for hidden powers.
+    - Women voted enthusiastically for Hitler and Mussolini, showing that their liberation is also a two-edged sword that can be turned by a great charismatic leader against the very power that deployed it.
+* <span id="bronze-age-mindset-an-exhortation-031"></span>**Feminism arose because women lost all respect for males who had been replaced by industrialists and bankers; the warrior nobility, however decadent, retained glamour enough to command submission, but the dour economic creature who succeeded them could not, and women's 'liberation' is fundamentally their revolt against the insult of the bugman.**
+    - Napoleon is cited as the great enigma of the 19th century because he was a man out of time — the sudden appearance of a Bronze Age type in the age of middle-class mediocrity — which explains why all the great artists of the century threw themselves at the feet of his memory.
+    - Women never loved the shopkeeper or merchant and it is right that they didn't; they have always loved the knight, the sailor, the adventurer, and the pirate — and their 'liberation' is therefore a misguided search for what was taken from them by the bugman.
+* <span id="bronze-age-mindset-an-exhortation-032"></span>**The immediate political strategy for nationalists requires operating inside normie politics on the Trump/Orban model — denouncing and disavowing extremist rhetoric publicly while pursuing real aims privately — because the normie political sphere cannot be moved far but can be moved enough to prevent demographic replacement.**
+    - People who encourage young men to march publicly under ideological banners, use anachronistic slogans like 'blood and soil,' or discuss ethnostates openly are either spergs or federal informants — the examples of Nehlen and similar figures are offered as cautionary tales.
+    - If Ann Coulter or Pat Buchanan were in charge, 99% of what nationalists want would be achieved; this is the realistic ceiling of normie politics, and it is worth pursuing on its own terms even if one's ultimate aims go further.
+* <span class="pull-quote">The friends you make are more important, far more important, than the girlfriends or wives you'll have.</span>
+* <span id="bronze-age-mindset-an-exhortation-033"></span>**Suburbs are concentration camps for the historical population of America — designed to be ungovernable by their inhabitants and impossible to defend — and are especially destructive to boys because they eliminate nooks, corners, and ungoverned space where gangs can form and territorial instincts can develop.**
+    - Inner cities were not lost to blacks but taken by politicians and their handlers who found it more profitable to replace a tax-paying middle class with a manageable underclass.
+    - In the countryside or city a restive population could hold territory and challenge power if necessary; in the suburbs this is structurally impossible, which is the point — suburbs are living arrangements for slaves.
+* <span id="bronze-age-mindset-an-exhortation-034"></span>**Meme warfare and the visual samizdat pioneered by 4chan and anonymous online networks are many times more effective than public rallies, and represent a genuine intelligence capability superior to formal government propaganda operations.**
+    - The ability of channers to locate obscure objects, people, and places from photographs is described as something formally trained intelligence agents cannot normally replicate — and the memes produced 'put a spike of fear in the hearts of all the constipated spooks.'
+    - The long game is to discredit authorities, mock public pieties, and expose leaders of government, finance, corporate, and media power as pathetic ghouls — when the enemy forces nationalists to make positive ideological claims, the enemy wins.
+* <span id="bronze-age-mindset-an-exhortation-035"></span>**Any successful public nationalist movement must present itself as a social movement for beauty, physical fitness, and the preservation of nature — not a political or ideological one — modeled on scouting, with absolute exclusion of women and strict avoidance of violence or extremist imagery.**
+    - A scouting and nature-preservation movement would put youth in wilderness, build camaraderie, emphasize connection between people and land, and provide a living rebuke to the regime of ugliness — it can simultaneously engage in self-defense training and local welfare projects.
+    - Women must be absolutely excluded from such groups because their presence introduces sexual competition and they will deploy misplaced chivalry to create friction for personal advantage; they should instead be encouraged to form parallel groups.
+* <span id="bronze-age-mindset-an-exhortation-036"></span>**The long-term vision is a piratical fortress-aristocracy on the edges of civilization — fortresses in the tropics where superior specimens gather to develop physical and military power, conduct liberated science, and maintain antennae throughout the nations — eventually precipitated by a brotherhood that descends into the underworld of vice to wield it as a weapon against the Leviathan.**
+    - Executive Outcomes, the mercenary company that ended Sierra Leone's civil war, is identified as a near-example of what such a fortress-aristocracy would look like — stopped only because the great states of Europe were still able to intervene.
+    - The 'great down-going' — a small brotherhood penetrating brothels, casinos, pornography, and the entire underworld of vice, not to insulate themselves from it but to intensify it and wield it as a weapon — is described as an order of knights of the spirit, achievable at most every thousand years.

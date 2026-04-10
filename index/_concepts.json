@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-10T00:47:01.900002Z",
+  "updated_at": "2026-04-10T14:55:02.063986Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -513,7 +513,8 @@
         "occult philosophy in the elizabethan age": 1,
         "revolt-against-the-modern-world": 2,
         "the first ghosts": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "bronze age mindset": 6
       },
       "books": [
         "a disease in the public mind",
@@ -522,9 +523,10 @@
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
         "the first ghosts",
-        "unqualified reservations"
+        "unqualified reservations",
+        "bronze age mindset"
       ],
-      "claim_count": 9
+      "claim_count": 15
     },
     "threatened_secession": {
       "id": "threatened_secession",
@@ -917,7 +919,8 @@
         "the problem of the puer aeternus": 1,
         "the secret teachings of all ages": 1,
         "unqualified reservations": 1,
-        "zero to one": 2
+        "zero to one": 2,
+        "bronze age mindset": 4
       },
       "books": [
         "a disease in the public mind",
@@ -938,9 +941,10 @@
         "the problem of the puer aeternus",
         "the secret teachings of all ages",
         "unqualified reservations",
-        "zero to one"
+        "zero to one",
+        "bronze age mindset"
       ],
-      "claim_count": 27
+      "claim_count": 31
     },
     "mob_violence": {
       "id": "mob_violence",
@@ -1321,7 +1325,8 @@
         "on heroes": 1,
         "orality-and-literacy": 1,
         "the closing of the american mind": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "bronze age mindset": 1
       },
       "books": [
         "a disease in the public mind",
@@ -1330,9 +1335,10 @@
         "on heroes",
         "orality-and-literacy",
         "the closing of the american mind",
-        "unqualified reservations"
+        "unqualified reservations",
+        "bronze age mindset"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "statistical_analysis": {
       "id": "statistical_analysis",
@@ -4073,7 +4079,8 @@
         "revolt-against-the-modern-world": 8,
         "ride the tiger": 4,
         "the concept of acceleration": 1,
-        "the horse": 3
+        "the horse": 3,
+        "bronze age mindset": 6
       },
       "books": [
         "a vision",
@@ -4088,9 +4095,10 @@
         "revolt-against-the-modern-world",
         "ride the tiger",
         "the concept of acceleration",
-        "the horse"
+        "the horse",
+        "bronze age mindset"
       ],
-      "claim_count": 30
+      "claim_count": 36
     },
     "sacred_art": {
       "id": "sacred_art",
@@ -4954,7 +4962,8 @@
         "the interpretation of fairy tales": 1,
         "the mystical theology of the eastern church": 1,
         "the problem of the puer aeternus": 2,
-        "the soul of the world": 1
+        "the soul of the world": 1,
+        "bronze age mindset": 3
       },
       "books": [
         "after progress",
@@ -4968,9 +4977,10 @@
         "the interpretation of fairy tales",
         "the mystical theology of the eastern church",
         "the problem of the puer aeternus",
-        "the soul of the world"
+        "the soul of the world",
+        "bronze age mindset"
       ],
-      "claim_count": 15
+      "claim_count": 18
     },
     "historical_phases": {
       "id": "historical_phases",
@@ -5739,7 +5749,8 @@
         "the horse": 3,
         "the power of ritual in prehistory": 1,
         "through the eye of a needle": 6,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "bronze age mindset": 3
       },
       "books": [
         "american nations",
@@ -5754,9 +5765,10 @@
         "the horse",
         "the power of ritual in prehistory",
         "through the eye of a needle",
-        "transcendental magic"
+        "transcendental magic",
+        "bronze age mindset"
       ],
-      "claim_count": 33
+      "claim_count": 36
     },
     "religious_tolerance": {
       "id": "religious_tolerance",
@@ -5823,14 +5835,16 @@
       "book_claims": {
         "american nations": 3,
         "braudel-vol1": 5,
-        "the age of interconnection": 1
+        "the age of interconnection": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "american nations",
         "braudel-vol1",
-        "the age of interconnection"
+        "the age of interconnection",
+        "bronze age mindset"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "feudal_system": {
       "id": "feudal_system",
@@ -6409,16 +6423,18 @@
         "days of rage": 1,
         "presence in the modern world": 1,
         "revolt-against-the-modern-world": 3,
-        "the concept of acceleration": 1
+        "the concept of acceleration": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "american nations",
         "days of rage",
         "presence in the modern world",
         "revolt-against-the-modern-world",
-        "the concept of acceleration"
+        "the concept of acceleration",
+        "bronze age mindset"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "caste_system": {
       "id": "caste_system",
@@ -6945,14 +6961,16 @@
       "book_claims": {
         "american nations": 1,
         "revolt-against-the-modern-world": 2,
-        "through the eye of a needle": 2
+        "through the eye of a needle": 2,
+        "bronze age mindset": 1
       },
       "books": [
         "american nations",
         "revolt-against-the-modern-world",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "bronze age mindset"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "constitutional_structure": {
       "id": "constitutional_structure",
@@ -9330,13 +9348,15 @@
       "related": [],
       "book_claims": {
         "anthropol": 1,
-        "unqualified reservations": 4
+        "unqualified reservations": 4,
+        "bronze age mindset": 1
       },
       "books": [
         "anthropol",
-        "unqualified reservations"
+        "unqualified reservations",
+        "bronze age mindset"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "resource_competition": {
       "id": "resource_competition",
@@ -9367,7 +9387,8 @@
         "from bacteria to bach and back": 1,
         "introduction-to-christianity": 3,
         "orthodoxy": 1,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "bronze age mindset": 2
       },
       "books": [
         "anthropol",
@@ -9376,9 +9397,10 @@
         "from bacteria to bach and back",
         "introduction-to-christianity",
         "orthodoxy",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "bronze age mindset"
       ],
-      "claim_count": 9
+      "claim_count": 11
     },
     "evolutionary_theory": {
       "id": "evolutionary_theory",
@@ -9854,15 +9876,17 @@
         "beauty": 1,
         "beyond good and evil": 1,
         "sexual personae": 1,
-        "the discarded image": 1
+        "the discarded image": 1,
+        "bronze age mindset": 2
       },
       "books": [
         "beauty",
         "beyond good and evil",
         "sexual personae",
-        "the discarded image"
+        "the discarded image",
+        "bronze age mindset"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "moral_emotions": {
       "id": "moral_emotions",
@@ -13270,7 +13294,8 @@
         "occult philosophy in the elizabethan age": 2,
         "on heroes": 3,
         "sexual personae": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "cult of the saints",
@@ -13278,9 +13303,10 @@
         "occult philosophy in the elizabethan age",
         "on heroes",
         "sexual personae",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "bronze age mindset"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "social_history": {
       "id": "social_history",
@@ -16958,7 +16984,8 @@
         "the age of interconnection": 1,
         "the closing of the american mind": 1,
         "the horse": 1,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "bronze age mindset": 2
       },
       "books": [
         "evil the shadow side of reality",
@@ -16966,9 +16993,10 @@
         "the age of interconnection",
         "the closing of the american mind",
         "the horse",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "bronze age mindset"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "religious_persecution": {
       "id": "religious_persecution",
@@ -17119,16 +17147,18 @@
         "kabbalistic visions": 2,
         "the culture of narcissism": 1,
         "the secret teachings of all ages": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "evil the shadow side of reality",
         "kabbalistic visions",
         "the culture of narcissism",
         "the secret teachings of all ages",
-        "transcendental magic"
+        "transcendental magic",
+        "bronze age mindset"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "personal_freedom": {
       "id": "personal_freedom",
@@ -17787,7 +17817,8 @@
         "the sickness unto death": 1,
         "thus spake zarathustra": 2,
         "transcendental magic": 1,
-        "zero to one": 1
+        "zero to one": 1,
+        "bronze age mindset": 3
       },
       "books": [
         "beelzebubs tales",
@@ -17810,9 +17841,10 @@
         "the sickness unto death",
         "thus spake zarathustra",
         "transcendental magic",
-        "zero to one"
+        "zero to one",
+        "bronze age mindset"
       ],
-      "claim_count": 30
+      "claim_count": 33
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -23571,16 +23603,18 @@
         "revolt-against-the-modern-world": 1,
         "ride the tiger": 1,
         "the horse": 1,
-        "unqualified reservations": 6
+        "unqualified reservations": 6,
+        "bronze age mindset": 4
       },
       "books": [
         "normans in the south",
         "revolt-against-the-modern-world",
         "ride the tiger",
         "the horse",
-        "unqualified reservations"
+        "unqualified reservations",
+        "bronze age mindset"
       ],
-      "claim_count": 12
+      "claim_count": 16
     },
     "political_opportunities": {
       "id": "political_opportunities",
@@ -28934,15 +28968,17 @@
         "beyond good and evil": 1,
         "philosopher-in-the-valley": 1,
         "ride the tiger": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "bronze age mindset": 2
       },
       "books": [
         "beyond good and evil",
         "philosopher-in-the-valley",
         "ride the tiger",
-        "unqualified reservations"
+        "unqualified reservations",
+        "bronze age mindset"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "human_rights": {
       "id": "human_rights",
@@ -29150,7 +29186,8 @@
         "preface to plato": 1,
         "the closing of the american mind": 2,
         "the horse": 3,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "beelzebubs tales",
@@ -29158,9 +29195,10 @@
         "preface to plato",
         "the closing of the american mind",
         "the horse",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "bronze age mindset"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "unconscious_psychology": {
       "id": "unconscious_psychology",
@@ -33687,14 +33725,16 @@
       "book_claims": {
         "beyond good and evil": 1,
         "confessions": 1,
-        "from bacteria to bach and back": 5
+        "from bacteria to bach and back": 5,
+        "bronze age mindset": 2
       },
       "books": [
         "beyond good and evil",
         "confessions",
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "bronze age mindset"
       ],
-      "claim_count": 7
+      "claim_count": 9
     },
     "metaphysics": {
       "id": "metaphysics",
@@ -33745,14 +33785,16 @@
       "book_claims": {
         "beyond good and evil": 3,
         "introduction-to-christianity": 1,
-        "thus spake zarathustra": 13
+        "thus spake zarathustra": 13,
+        "bronze age mindset": 1
       },
       "books": [
         "beyond good and evil",
         "introduction-to-christianity",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "bronze age mindset"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "miracle": {
       "id": "miracle",
@@ -36832,13 +36874,15 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 1,
-        "the culture of narcissism": 1
+        "the culture of narcissism": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
-        "the culture of narcissism"
+        "the culture of narcissism",
+        "bronze age mindset"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "visual_culture": {
       "id": "visual_culture",
@@ -37078,13 +37122,15 @@
       "related": [],
       "book_claims": {
         "sexual personae": 3,
-        "the closing of the american mind": 1
+        "the closing of the american mind": 1,
+        "bronze age mindset": 2
       },
       "books": [
         "sexual personae",
-        "the closing of the american mind"
+        "the closing of the american mind",
+        "bronze age mindset"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "countercultural_politics": {
       "id": "countercultural_politics",
@@ -38188,13 +38234,15 @@
       "related": [],
       "book_claims": {
         "michael-levin-major-talks": 1,
-        "mystery teachings from the living earth": 1
+        "mystery teachings from the living earth": 1,
+        "bronze age mindset": 1
       },
       "books": [
         "michael-levin-major-talks",
-        "mystery teachings from the living earth"
+        "mystery teachings from the living earth",
+        "bronze age mindset"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "dualism": {
       "id": "dualism",
@@ -38516,15 +38564,17 @@
         "on heroes": 1,
         "revolt-against-the-modern-world": 1,
         "ride the tiger": 2,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "bronze age mindset": 3
       },
       "books": [
         "on heroes",
         "revolt-against-the-modern-world",
         "ride the tiger",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "bronze age mindset"
       ],
-      "claim_count": 6
+      "claim_count": 9
     },
     "protestant_theology": {
       "id": "protestant_theology",
@@ -39630,13 +39680,15 @@
       "related": [],
       "book_claims": {
         "mystery teachings from the living earth": 1,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "bronze age mindset": 1
       },
       "books": [
         "mystery teachings from the living earth",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "bronze age mindset"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "spiritual_vocation": {
       "id": "spiritual_vocation",
@@ -44328,13 +44380,15 @@
       "related": [],
       "book_claims": {
         "horror of philosophy 2": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "bronze age mindset": 18
       },
       "books": [
         "horror of philosophy 2",
-        "transcendental magic"
+        "transcendental magic",
+        "bronze age mindset"
       ],
-      "claim_count": 2
+      "claim_count": 20
     },
     "political_order": {
       "id": "political_order",
@@ -46424,13 +46478,15 @@
       "related": [],
       "book_claims": {
         "sexual personae": 2,
-        "the sickness unto death": 2
+        "the sickness unto death": 2,
+        "bronze age mindset": 1
       },
       "books": [
         "sexual personae",
-        "the sickness unto death"
+        "the sickness unto death",
+        "bronze age mindset"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "self_destruction": {
       "id": "self_destruction",
@@ -80465,12 +80521,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "braudel-vol1": 1
+        "braudel-vol1": 1,
+        "bronze age mindset": 2
       },
       "books": [
-        "braudel-vol1"
+        "braudel-vol1",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "social_arrangements": {
       "id": "social_arrangements",
@@ -83503,12 +83561,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "braudel-vol1": 3
+        "braudel-vol1": 3,
+        "bronze age mindset": 1
       },
       "books": [
-        "braudel-vol1"
+        "braudel-vol1",
+        "bronze age mindset"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "industrial_relocation": {
       "id": "industrial_relocation",
@@ -84567,12 +84627,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "catafalque": 1
+        "catafalque": 1,
+        "bronze age mindset": 2
       },
       "books": [
-        "catafalque"
+        "catafalque",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "shamanic_descent": {
       "id": "shamanic_descent",
@@ -99169,12 +99231,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "digital cash": 1
+        "digital cash": 1,
+        "bronze age mindset": 1
       },
       "books": [
-        "digital cash"
+        "digital cash",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "monetary_cosmogram": {
       "id": "monetary_cosmogram",
@@ -120617,12 +120681,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "from bacteria to bach and back": 1
+        "from bacteria to bach and back": 1,
+        "bronze age mindset": 3
       },
       "books": [
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "de_darwinizing": {
       "id": "de_darwinizing",
@@ -139503,12 +139569,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "land greer 2026": 1
+        "land greer 2026": 1,
+        "bronze age mindset": 1
       },
       "books": [
-        "land greer 2026"
+        "land greer 2026",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "cyber_paganism": {
       "id": "cyber_paganism",
@@ -151417,12 +151485,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 4
+        "normans in the south": 4,
+        "bronze age mindset": 1
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "bronze age mindset"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "military_campaigns": {
       "id": "military_campaigns",
@@ -203483,12 +203553,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "sexual personae": 2
+        "sexual personae": 2,
+        "bronze age mindset": 2
       },
       "books": [
-        "sexual personae"
+        "sexual personae",
+        "bronze age mindset"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "gender_power": {
       "id": "gender_power",
@@ -204323,12 +204395,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "sexual personae": 1
+        "sexual personae": 1,
+        "bronze age mindset": 1
       },
       "books": [
-        "sexual personae"
+        "sexual personae",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "libertinism": {
       "id": "libertinism",
@@ -205779,12 +205853,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "sexual personae": 1
+        "sexual personae": 1,
+        "bronze age mindset": 2
       },
       "books": [
-        "sexual personae"
+        "sexual personae",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "decadent_style": {
       "id": "decadent_style",
@@ -217007,12 +217083,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the closing of the american mind": 1
+        "the closing of the american mind": 1,
+        "bronze age mindset": 1
       },
       "books": [
-        "the closing of the american mind"
+        "the closing of the american mind",
+        "bronze age mindset"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "enlightenment_project": {
       "id": "enlightenment_project",
@@ -285641,11 +285719,319 @@
         "zero to one"
       ],
       "claim_count": 1
+    },
+    "esoteric_communication": {
+      "id": "esoteric_communication",
+      "label": "Esoteric Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 2
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 2
+    },
+    "counter_culture": {
+      "id": "counter_culture",
+      "label": "Counter Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 2
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 2
+    },
+    "elite_capture": {
+      "id": "elite_capture",
+      "label": "Elite Capture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "nemesis": {
+      "id": "nemesis",
+      "label": "Nemesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "heroic_archetype": {
+      "id": "heroic_archetype",
+      "label": "Heroic Archetype",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 9
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 9
+    },
+    "social_darwinism_critique": {
+      "id": "social_darwinism_critique",
+      "label": "Social Darwinism Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 2
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 2
+    },
+    "freedom_vs_captivity": {
+      "id": "freedom_vs_captivity",
+      "label": "Freedom Vs Captivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 5
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 5
+    },
+    "noble_savage": {
+      "id": "noble_savage",
+      "label": "Noble Savage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "biological_hierarchy": {
+      "id": "biological_hierarchy",
+      "label": "Biological Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 4
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 4
+    },
+    "territorial_behavior": {
+      "id": "territorial_behavior",
+      "label": "Territorial Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "agricultural_civilization": {
+      "id": "agricultural_civilization",
+      "label": "Agricultural Civilization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "domestication": {
+      "id": "domestication",
+      "label": "Domestication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 5
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 5
+    },
+    "owned_space": {
+      "id": "owned_space",
+      "label": "Owned Space",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 2
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 2
+    },
+    "underground_networks": {
+      "id": "underground_networks",
+      "label": "Underground Networks",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "eugenics": {
+      "id": "eugenics",
+      "label": "Eugenics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "physical_culture": {
+      "id": "physical_culture",
+      "label": "Physical Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "carelessness": {
+      "id": "carelessness",
+      "label": "Carelessness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "male_friendship": {
+      "id": "male_friendship",
+      "label": "Male Friendship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "brotherhood": {
+      "id": "brotherhood",
+      "label": "Brotherhood",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 3
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 3
+    },
+    "colonial_history": {
+      "id": "colonial_history",
+      "label": "Colonial History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 1
+    },
+    "piracy": {
+      "id": "piracy",
+      "label": "Piracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 3
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 3
+    },
+    "feminism_critique": {
+      "id": "feminism_critique",
+      "label": "Feminism Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 2
+      },
+      "books": [
+        "bronze age mindset"
+      ],
+      "claim_count": 2
     }
   },
   "stats": {
-    "total_concepts": 19686,
-    "total_claims": 32693,
-    "books_indexed": 99
+    "total_concepts": 19708,
+    "total_claims": 32835,
+    "books_indexed": 100
   }
 }
