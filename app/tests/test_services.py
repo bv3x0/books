@@ -22,6 +22,7 @@ if project_root not in sys.path:
 
 from app.cli.ingest_prompter import AutoYesIngestPrompter, NonInteractiveIngestPrompter
 from app.config import get_request_max_output_tokens
+from app.core import epub_processor
 from app.core.epub_processor import chunk_markdown_by_chapters
 from app.core.manifest import Manifest
 from app.core import monitor as monitor_module
@@ -1356,6 +1357,33 @@ class IngestServiceInteractionTests(unittest.TestCase):
 
 
 class TocInjectionFallbackTests(unittest.TestCase):
+    def test_toc_matching_ignores_separator_punctuation_in_titles(self):
+        markdown = "# Chapter IV Principle 1 Metalearning First Draw a Map\n\nBody.\n"
+        toc = ["Principle 1 — Metalearning: First Draw a Map"]
+
+        result = epub_processor.test_toc_matches(markdown, toc)
+
+        self.assertEqual(result["match_rate"], 1.0)
+        self.assertEqual(result["unmatched"], [])
+
+    def test_skippable_section_check_ignores_skip_phrases_in_body_prose(self):
+        markdown = (
+            "# Chapter II Why Ultralearning Matters\n\n"
+            "What exactly is ultralearning? While my introduction to the eclectic "
+            "group of intense autodidacts started with seeing examples of unusual "
+            "learning feats, to go forward we need something more concise.\n"
+        )
+
+        self.assertIsNone(epub_processor._is_skippable_section(markdown, "Chapter_II_Why_Ultralearn.xhtml"))
+
+    def test_skippable_section_check_still_skips_copyright_heading(self):
+        markdown = "# Copyright\n\nAll rights reserved.\n"
+
+        self.assertEqual(
+            epub_processor._is_skippable_section(markdown, "Copyright_electronic.xhtml"),
+            "copyright",
+        )
+
     def test_chunking_can_map_generic_chapter_markers_to_manual_titles(self):
         markdown = (
             "Front matter\n\n"

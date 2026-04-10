@@ -1,0 +1,3424 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Art of Doing Science and Engineering: Learning to Learn",
+    "author": "Richard W. Hamming",
+    "year": 1997,
+    "categories": [
+      "science",
+      "education",
+      "technology & engineering"
+    ],
+    "thesis": "Excellence in science and engineering requires cultivating a deliberate 'style' of thinking\u2014combining technical fundamentals, broad curiosity, and visionary goal-setting\u2014rather than merely accumulating technical knowledge. The future belongs to those who prepare their minds, embrace change, and work on important problems with courage and clarity."
+  },
+  "claims": [
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--001",
+      "text": "Education (what and why) differs fundamentally from training (how), and both are necessary; this course focuses on education in the form of meta-education\u2014examining how to think rather than what to think.",
+      "chapter": "Orientation",
+      "concepts": [
+        "education_vs_training",
+        "metacognition",
+        "intellectual_development"
+      ],
+      "entities": {
+        "people": [
+          "Socrates",
+          "Plato",
+          "Aristotle"
+        ],
+        "places": [
+          "Naval Postgraduate School"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Education is what, when, and why to do things; training is how to do it.",
+          "speaker": null
+        },
+        {
+          "text": "The course is compared to studying under a master painter: you learn style and must forge your own, adapted to the future.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--002",
+      "text": "Knowledge has doubled every 17 years since Newton's time, meaning the technical knowledge a person faces will quadruple in roughly 34 years\u2014making the ability to learn new fields continuously more important than any specific current knowledge.",
+      "chapter": "Orientation",
+      "concepts": [
+        "exponential_growth",
+        "knowledge_obsolescence",
+        "quantitative_estimation"
+      ],
+      "entities": {
+        "people": [
+          "Isaac Newton"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Back-of-the-envelope calculation shows the two claims\u2014knowledge doubling every 17 years and 90% of scientists being alive today\u2014are mutually consistent under a simple exponential growth model.",
+          "speaker": null
+        },
+        {
+          "text": "The half-life of technical knowledge learned in school is about 15 years, making continuous self-education essential.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--003",
+      "text": "Back-of-the-envelope calculations are a hallmark of great scientists because they quickly reveal whether quantitative claims are plausible, keep modeling skills sharp, and help avoid accepting nonsense presented in media or public discourse.",
+      "chapter": "Orientation",
+      "concepts": [
+        "quantitative_reasoning",
+        "scientific_habit",
+        "order_of_magnitude_estimation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming regularly used such calculations at the physics lunch table to correct misconceptions in real time.",
+          "speaker": null
+        },
+        {
+          "text": "The first pass uses definite numbers; the second uses parameters to understand the general case.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--004",
+      "text": "Science and engineering are converging: science is what you do when you don't yet know what you're doing, engineering when you must know\u2014but the accelerating pace of progress leaves no leisure to keep the fields separate, and much future knowledge will be created after you leave school.",
+      "chapter": "Orientation",
+      "concepts": [
+        "science_engineering_boundary",
+        "innovation",
+        "disciplinary_convergence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it.",
+          "speaker": null
+        },
+        {
+          "text": "Applied science is a distinct third field between science and engineering, often unrecognized.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--005",
+      "text": "A career with a clear vision travels a distance proportional to n (number of decisions), while one without vision travels only \u221an\u2014making the act of forming and committing to a vision perhaps the single most important career decision.",
+      "chapter": "Orientation",
+      "concepts": [
+        "long_term_planning",
+        "career_strategy",
+        "vision_and_leadership"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Accuracy of the vision matters less than having one; many paths lead to greatness, and the key is directional consistency rather than perfect foresight.",
+          "speaker": null
+        },
+        {
+          "text": "Three distinct questions must be kept separate: what is possible (science), what is likely to happen (engineering), and what is desirable (ethics).",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--006",
+      "text": "Computers will dominate future technical careers, and their advantages over humans\u2014in economics, speed, accuracy, reliability, bandwidth, freedom from boredom, and hostile-environment operation\u2014are so overwhelming that the key question is not whether to use them but how to use them well.",
+      "chapter": "Orientation",
+      "concepts": [
+        "human_machine_complementarity",
+        "technological_change",
+        "interdisciplinary_thinking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The standard departmental organization of knowledge conceals the homogeneity of knowledge and omits topics that fall between courses; one function of this course is to fill those gaps.",
+          "speaker": null
+        },
+        {
+          "text": "Hamming frames the course as 'religious' in the sense of urging students to aim for significant contributions rather than mere comfort.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--007",
+      "text": "Discrete (digital) signaling replaced continuous (analog) signaling primarily because repeaters rather than amplifiers prevent noise accumulation, enabling transmission with remarkable fidelity without requiring exquisitely accurate components.",
+      "chapter": "Foundations of the Digital (Discrete) Revolution",
+      "concepts": [
+        "digital_vs_analog",
+        "noise_immunity",
+        "signal_transmission"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In continuous signaling, a transcontinental telephone path might involve a total amplification factor of 10^120, requiring each amplifier to be built with extreme accuracy.",
+          "speaker": null
+        },
+        {
+          "text": "Error-detecting and error-correcting codes further defeat noise in digital systems.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--008",
+      "text": "Integrated circuits eliminated the soldered-joint problem, reduced cost, increased speed through component proximity, and\u2014combined with lower voltages\u2014enabled the exponential improvement in computing described by Moore's Law-like trends.",
+      "chapter": "Foundations of the Digital (Discrete) Revolution",
+      "concepts": [
+        "integrated_circuits",
+        "economic_incentives_in_technology",
+        "miniaturization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 1992, interconnection costs ranged from 0.001 cent on a chip to 100 cents between frames, creating strong economic pressure to keep components close together.",
+          "speaker": null
+        },
+        {
+          "text": "The steady decrease in voltage and current levels has partially solved the heat dissipation problem.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--009",
+      "text": "Most technological fields follow S-shaped growth curves\u2014slow start, rapid rise, then saturation at physical limits\u2014and the von Neumann single-processor computer is clearly on the saturation portion of its S-curve, as evidenced by the shift toward parallel processors.",
+      "chapter": "Foundations of the Digital (Discrete) Revolution",
+      "concepts": [
+        "s_curve_growth",
+        "technological_saturation",
+        "logistic_growth_model"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The simplest growth model, modified with a limiting factor L, produces the logistic equation, whose solution has a characteristic S-shape; more flexible models allow asymmetric curves.",
+          "speaker": null
+        },
+        {
+          "text": "Often a new innovation sets a field onto a new S-curve taking off near the saturation of the old one.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--010",
+      "text": "Mechanization requires producing an equivalent product, not the identical one\u2014and failure to redesign the product for machine production, rather than merely automating the existing process, is one of the most common and costly errors in technological transition.",
+      "chapter": "Foundations of the Digital (Discrete) Revolution",
+      "concepts": [
+        "technological_transition",
+        "product_redesign",
+        "systems_thinking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When accounting moved from hand to machine methods, the accounting system itself had to change; when fabrication moved from hand to machine, screws and bolts gave way to rivets and welding.",
+          "speaker": null
+        },
+        {
+          "text": "Field maintenance must be part of the original design of any complex system, not grafted on later.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--011",
+      "text": "Computers have transformed both science (by shifting 90\u201399% of experiments to simulation) and engineering (by enabling design of unstable systems stabilized by real-time computer control), but carry the risk of a return to scholasticism\u2014trusting models over direct observation of nature.",
+      "chapter": "Foundations of the Digital (Discrete) Revolution",
+      "concepts": [
+        "simulation_vs_experiment",
+        "scientific_method",
+        "computational_science"
+      ],
+      "entities": {
+        "people": [
+          "Galileo"
+        ],
+        "places": [
+          "Bell Telephone Laboratories",
+          "Los Alamos"
+        ],
+        "events": [
+          "World War II"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming told Bell Labs management in the late 1950s that simulation would eventually dominate real experiments, and was disbelieved\u2014yet that is exactly what happened.",
+          "speaker": null
+        },
+        {
+          "text": "The risk is that we are now looking more and more in books (simulations) and less at nature\u2014the same error Galileo corrected in the Middle Ages.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--012",
+      "text": "General-purpose chips should almost always be preferred over special-purpose chips because other users bear the cost of debugging, documentation, and upgrades\u2014and because the accelerating pace of technological obsolescence means special-purpose designs lock you into your first design.",
+      "chapter": "Foundations of the Digital (Discrete) Revolution",
+      "concepts": [
+        "general_vs_special_purpose",
+        "technology_economics",
+        "information_economy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ego satisfaction in having a special chip is a major reason organizations choose them despite the long-term economic disadvantages.",
+          "speaker": null
+        },
+        {
+          "text": "Computers are enabling a societal shift from a material-goods economy to an information-service economy, with fewer than 25% of workers handling material things projected for 2020.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--013",
+      "text": "The history of digital computing stretches from prehistoric tally bones and Stonehenge through Napier's logarithms, Babbage's analytical engine, and punched-card machines to modern electronic computers\u2014each step increasing computational power by orders of magnitude.",
+      "chapter": "History of Computers\u2014Hardware",
+      "concepts": [
+        "history_of_computing",
+        "technological_innovation",
+        "incremental_vs_revolutionary_change"
+      ],
+      "entities": {
+        "people": [
+          "Babbage",
+          "Hollerith",
+          "Napier",
+          "Pascal",
+          "Leibnitz",
+          "Vannevar Bush"
+        ],
+        "places": [
+          "Harvard",
+          "Los Alamos",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [
+          "World War II"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Babbage's analytical engine, conceived before his difference engine was finished, anticipated the von Neumann architecture; a group in England constructed it from his drawings in 1992 and it worked as designed.",
+          "speaker": null
+        },
+        {
+          "text": "Punched-card computing was invented because the 1890 US Census was taking so long that the next one would begin before the previous one was finished\u2014a practical crisis driving innovation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--014",
+      "text": "The ENIAC (1946) launched the electronic computer age, but the key conceptual breakthrough\u2014internal programming\u2014is often misattributed to von Neumann, who was only a consultant; Mauchly and Eckert's team discussed it before von Neumann joined, and Wilkes at Cambridge built the first usefully running internally programmed machine.",
+      "chapter": "History of Computers\u2014Hardware",
+      "concepts": [
+        "attribution_in_science",
+        "innovation_diffusion",
+        "market_forecasting_failure"
+      ],
+      "entities": {
+        "people": [
+          "von Neumann",
+          "Mauchly",
+          "Eckert",
+          "Wilkes",
+          "Stibitz",
+          "Zuse",
+          "Howard Aitken",
+          "Metropolis"
+        ],
+        "places": [
+          "Cambridge England",
+          "Harvard",
+          "Aberdeen Proving Grounds"
+        ],
+        "events": [
+          "ENIAC delivery 1946"
+        ],
+        "works": [
+          "ENIAC",
+          "EDVAC",
+          "EDSAC",
+          "MANIAC-I"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "A group of experts including Hamming believed 18 IBM 701s would saturate the market for years\u2014a dramatic underestimate because they only imagined existing applications, not new ones.",
+          "speaker": null
+        },
+        {
+          "text": "Mauchly and Eckert gave an open course in 1946 on designing electronic computers, spawning dozens of independent machines built by attendees.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--015",
+      "text": "Physical limits\u2014the size of molecules (~1\u20133 angstroms), the speed of light (~1 foot per nanosecond in a wire), and heat dissipation\u2014create hard upper bounds on single-processor von Neumann computers, explaining the S-curve saturation and the drive toward parallel architectures.",
+      "chapter": "History of Computers\u2014Hardware",
+      "concepts": [
+        "physical_limits_of_computation",
+        "moore_s_law",
+        "parallel_computing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Los Alamos"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "At picosecond pulse rates, signal paths must be separated by less than 1/100 of an inch, making lumped-circuit analysis invalid and heat removal critical.",
+          "speaker": null
+        },
+        {
+          "text": "Los Alamos data fit the equation OPS = 3.585\u00d710^9 / (1 + e^(-0.3(t-1943))), predicting a von Neumann saturation asymptote of about 3.585\u00d710^9 operations per second.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--016",
+      "text": "Computers process bits according to other bits with no inherent meaning\u2014meaning is assigned by humans through interpretation\u2014and this machine-level view is essential for debugging, even as it raises profound questions about whether humans are fundamentally different from machines.",
+      "chapter": "History of Computers\u2014Hardware",
+      "concepts": [
+        "reductionism",
+        "machine_semantics",
+        "philosophy_of_mind"
+      ],
+      "entities": {
+        "people": [
+          "Democritus"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Democritus (~460 BC) said 'All is atoms and void'\u2014the same reductionist view held by many physicists today about both computers and humans.",
+          "speaker": null
+        },
+        {
+          "text": "The Current Address Register (CAR) cycle\u2014fetch, decode, execute, increment\u2014captures the complete, myopic loop of computation with no global awareness.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--017",
+      "text": "Every major advance in software abstraction\u2014symbolic assembly, relocatable programs, FORTRAN, monitors\u2014was fiercely resisted by professional programmers who considered each new level of abstraction unworthy of a 'real' programmer, mirroring the shoemaker's-children pattern seen across all professions.",
+      "chapter": "History of Computers\u2014Software",
+      "concepts": [
+        "resistance_to_innovation",
+        "professional_conservatism",
+        "technology_adoption"
+      ],
+      "entities": {
+        "people": [
+          "Backus",
+          "Wilkes",
+          "Wheeler",
+          "Gill",
+          "McCarthy"
+        ],
+        "places": [
+          "Bell Telephone Laboratories",
+          "MIT",
+          "Cambridge England"
+        ],
+        "events": [],
+        "works": [
+          "EDSAC programming book",
+          "FORTRAN",
+          "ALGOL",
+          "LISP",
+          "APL",
+          "ADA"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "When Hamming demonstrated symbolic assembly to ~100 IBM cafeteria users, only one person showed any interest.",
+          "speaker": null
+        },
+        {
+          "text": "FORTRAN was opposed on three sequential grounds: it can't be done; if done, it wastes machine time; if it works, no respectable programmer would use it.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--018",
+      "text": "FORTRAN succeeded where logically superior languages like ALGOL failed because it was psychologically designed\u2014it translated the familiar notation of school mathematics\u2014while logically designed languages require humans to learn new ways of thinking they cannot easily adopt.",
+      "chapter": "History of Computers\u2014Software",
+      "concepts": [
+        "human_factors_in_language_design",
+        "psychological_vs_logical_design",
+        "redundancy_in_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "FORTRAN",
+          "ALGOL",
+          "APL",
+          "ADA"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "APL is logically elegant but not fit for normal humans; a single letter change completely alters meaning, giving it almost no redundancy, while human language is 40\u201360% redundant for good reason.",
+          "speaker": null
+        },
+        {
+          "text": "Humans are unreliable and require redundancy in their tools; a language easy for the computer expert is not necessarily easy for non-experts who will do most future programming.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--019",
+      "text": "Hamming's design of an interpretive language on the IBM 650 illustrates the deep principle that you can make any machine behave like any other machine by writing an interpreter\u2014the meaning of instructions is defined entirely by the subroutines they call, not by the symbols themselves.",
+      "chapter": "History of Computers\u2014Software",
+      "concepts": [
+        "virtual_machines",
+        "interpretation_vs_compilation",
+        "abstraction_layers"
+      ],
+      "entities": {
+        "people": [
+          "Turing"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "IBM 650"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "By using ten decimal digits for a three-address floating-point virtual machine on a two-address fixed-point real machine, Hamming could produce nearly ten times the output of colleagues still coding in absolute binary.",
+          "speaker": null
+        },
+        {
+          "text": "This is precisely what Turing proved with the Universal Turing Machine, but it was not clearly understood until practitioners had done it repeatedly.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--020",
+      "text": "Productivity improvements in programming over 30 years total roughly a factor of 90\u2014from assemblers through C++, UNIX, and code reuse\u2014yet this pales against machine speed improvements, because the fundamental bottleneck is the human animal as it is, not as we wish it were.",
+      "chapter": "History of Computers\u2014Software",
+      "concepts": [
+        "software_productivity",
+        "human_cognitive_limits",
+        "software_engineering_limits"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Programmers vary in productivity from worst to best by more than a factor of ten; Hamming concluded the best policy is to pay good programmers very well and regularly remove poor ones.",
+          "speaker": null
+        },
+        {
+          "text": "The analogy between programming and novel writing is apt: both have large creative components, and just as you cannot engineer novels, you cannot fully engineer software.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--021",
+      "text": "The 'first discoverer' seldom understands what they invented as clearly as later practitioners do, because creators must fight through confusion and darkness that obscures the clarity later workers enjoy once the path is open.",
+      "chapter": "History of Computers\u2014Software",
+      "concepts": [
+        "discovery_and_understanding",
+        "scientific_credit",
+        "pioneers_vs_followers"
+      ],
+      "entities": {
+        "people": [
+          "Newton",
+          "Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming acknowledges a friend's claim that Hamming himself does not understand error-correcting codes as well as later workers\u2014and he admits the friend is probably right.",
+          "speaker": null
+        },
+        {
+          "text": "It has been said Newton was the last of the ancients and not the first of the moderns.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--022",
+      "text": "The ability to give effective public talks is not optional for scientists: Hamming diagnosed his fear of public speaking as a career liability and deliberately fixed it by accepting every invitation to speak, choosing topics the audience wanted to hear rather than topics dear to his own heart.",
+      "chapter": "History of Computer Applications",
+      "concepts": [
+        "science_communication",
+        "career_development",
+        "public_speaking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bell Telephone Laboratories",
+          "New York City"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "His 'History of Computing to the Year 2000' talk, given around 1960 to IBM customers, launched a series that ran for years and forced him to keep abreast of computing trends.",
+          "speaker": null
+        },
+        {
+          "text": "A scientist must communicate in three forms: written papers and books, prepared public talks, and impromptu talks\u2014lacking any one is a serious career drag.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--023",
+      "text": "Computer applications followed successive S-curves\u2014scientific computing, engineering computing, military, then symbol manipulation\u2014each plateauing in turn while the next kept overall growth roughly exponential, with pattern recognition and virtual reality projected as the next major wave.",
+      "chapter": "History of Computer Applications",
+      "concepts": [
+        "technology_adoption_curves",
+        "application_domains",
+        "exponential_growth"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bell Telephone Laboratories",
+          "Brookhaven"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Scientific computing at Bell Labs rose exponentially but then showed clear upper-curve flattening as the total scientist population and problem types were finite.",
+          "speaker": null
+        },
+        {
+          "text": "The first computers at Bell Labs were used nine-tenths in labs and one-tenth by computer\u2014Hamming predicted the ratio would invert, and it did.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--024",
+      "text": "Interactive computing, pioneered by attaching a small SDS 910 computer to the Brookhaven cyclotron, at least doubled the effective productivity of the expensive cyclotron by enabling real-time data display and early abort of flawed experimental runs.",
+      "chapter": "History of Computer Applications",
+      "concepts": [
+        "interactive_computing",
+        "human_computer_interaction",
+        "productivity_amplification"
+      ],
+      "entities": {
+        "people": [
+          "Jack Kane"
+        ],
+        "places": [
+          "Brookhaven",
+          "Boeing Seattle",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Getting a computer into a lab 'under one pretext' consistently changed both the problem being studied and what the computer was actually used for\u2014the equivalent job, not the same old one.",
+          "speaker": null
+        },
+        {
+          "text": "Boeing's attempt to keep a single shared design database for aircraft design failed because optimization studies require a stable snapshot, not a continuously updated database.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--025",
+      "text": "Recognizing oneself as engaged in 'the mass production of a variable product' was the key insight that led Hamming to invest a full man-year building software tools, which paid off within a year by enabling far more computation than solving each problem one at a time.",
+      "chapter": "History of Computer Applications",
+      "concepts": [
+        "mass_customization",
+        "software_tool_investment",
+        "general_purpose_vs_special_purpose"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "Intel 4004"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In a rapidly changing field like software, if the payoff from a tool is not in the near future it will probably never pay off.",
+          "speaker": null
+        },
+        {
+          "text": "The Intel 4004 was born from the same insight: instead of making a special chip for each customer, make a general four-bit computer and program it for each job.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--026",
+      "text": "Computers manipulate symbols, not information\u2014we cannot define 'information' precisely enough to write a program for it\u2014and AI's limits are therefore not primarily hardware limits but conceptual and definitional ones.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013I",
+      "concepts": [
+        "artificial_intelligence",
+        "symbol_manipulation",
+        "expert_systems"
+      ],
+      "entities": {
+        "people": [
+          "Newell",
+          "Simon"
+        ],
+        "places": [
+          "RAND",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The General Problem Solver, starting with ~5 rules, escalated over decades to 500, then 5,000, then 50,000 rules, suggesting no convergence to a general solution.",
+          "speaker": null
+        },
+        {
+          "text": "Expert systems face two problems: world-class experts in many fields are barely better than beginners, and experts use their subconscious and can only report conscious experience.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--027",
+      "text": "The Turing test pragmatically sidesteps defining 'thinking' but violates scientific method by jumping to a hard problem; Hamming's alternative question\u2014'what is the smallest program I would believe could think?'\u2014eventually led him to suspect thinking is a matter of degree rather than a yes/no property.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013I",
+      "concepts": [
+        "turing_test",
+        "philosophy_of_mind",
+        "vitalism_vs_mechanism"
+      ],
+      "entities": {
+        "people": [
+          "Turing",
+          "Democritus"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A Jesuit-trained engineer defined thinking as 'what humans can do and machines cannot'\u2014honest but circular, and the same logic was used for organic chemistry before Wohler synthesized urea.",
+          "speaker": null
+        },
+        {
+          "text": "The hard AI position\u2014that man is only a collection of molecules and therefore machines can do everything humans do\u2014and the soft AI position both have legitimate logical support.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--028",
+      "text": "Samuel's checkers program, which modified its own weighting parameters by playing one variant against another and promoting the winner, 'learned from experience' in a meaningful sense\u2014and if you deny this because a program told it how to learn, you must confront whether your own education is fundamentally different.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013I",
+      "concepts": [
+        "machine_learning",
+        "game_playing_ai",
+        "originality_in_machines"
+      ],
+      "entities": {
+        "people": [
+          "Samuel"
+        ],
+        "places": [
+          "IBM"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The program beat a Connecticut state checkers champion after iteratively improving its evaluation function through self-play.",
+          "speaker": null
+        },
+        {
+          "text": "A geometry-proving program discovered an elegant proof of the isosceles triangle theorem\u2014comparing triangle ABC with triangle CBA\u2014that its designers did not know and that showed apparent 'novelty.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--029",
+      "text": "A Mars exploration vehicle that must react in milliseconds to falling ground without waiting 20+ minutes for Earth instructions epitomizes why some degree of machine 'intelligence' is not optional but physically required for future high-speed autonomous systems.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013I",
+      "concepts": [
+        "autonomous_systems",
+        "human_limitations",
+        "real_time_control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mars"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Modern fastest aircraft are fundamentally unstable and require computer stabilization millisecond by millisecond\u2014no human pilot could handle this; the human supplies only high-level strategy.",
+          "speaker": null
+        },
+        {
+          "text": "The boredom factor makes humans unreliable for sustained vigilance\u2014'piloting a plane is hours of boredom and seconds of sheer panic,' not something humans were designed for.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--030",
+      "text": "Computer-composed and computer-performed music is now technically perfect\u2014any sound that can exist can be produced\u2014shifting the question entirely from 'what can be done?' to 'what sounds are worth producing?', while also giving composers faster feedback that accelerates stylistic development.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013II",
+      "concepts": [
+        "computer_generated_art",
+        "creative_technology",
+        "human_machine_collaboration"
+      ],
+      "entities": {
+        "people": [
+          "Max Mathews",
+          "John R. Pierce"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Max Mathews and John Pierce at Bell Labs pioneered computer music by reasoning from sampling theory: if you can compute the sound-track height at each time interval and smooth it, you have the music.",
+          "speaker": null
+        },
+        {
+          "text": "The conductor now has complete control down to millisecond timing and fraction-of-tone accuracy for each simulated instrument, eliminating the constraint that all musicians must be perfect simultaneously.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--031",
+      "text": "Medical diagnosis by machine is technically superior to average doctors for rare diseases\u2014machines don't forget and can hold all relevant diseases\u2014but will be blocked for years by legal liability structures that forgive human error but make machine error prosecutable.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013II",
+      "concepts": [
+        "ai_in_medicine",
+        "liability_and_technology",
+        "institutional_barriers_to_innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "With probabilities adjusted for current epidemics, machines can probably outperform the average doctor\u2014and it is average doctors, not famous specialists, who must treat most people.",
+          "speaker": null
+        },
+        {
+          "text": "Every computer program sold explicitly absolves the seller of any responsibility for the product\u2014the legal problems of new applications are often the main difficulty, not the engineering.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--032",
+      "text": "Chess-playing programs approach world-champion level by examining millions of positions per second vs. humans' 50\u2013100\u2014solving the problem 'by volume of computation' rather than by insight\u2014illustrating that AI research goals (understanding human thought) were perverted into merely winning games.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013II",
+      "concepts": [
+        "game_playing_ai",
+        "computational_vs_cognitive_approaches",
+        "ai_research_goals"
+      ],
+      "entities": {
+        "people": [
+          "Shannon"
+        ],
+        "places": [
+          "Los Alamos"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The original purpose of game-playing AI research was to study human thought processes, not to win; this goal has been largely abandoned.",
+          "speaker": null
+        },
+        {
+          "text": "Go remains hard to program well despite simple rules, illustrating that problem difficulty for machines does not correlate with rule complexity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--033",
+      "text": "The distinction between logical novelty (genuinely new conclusions not derivable from premises) and psychological novelty (surprising results that are in fact logically entailed) suggests that all of mathematics beyond its axioms is technically only psychologically novel\u2014yet this is not trivial.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013II",
+      "concepts": [
+        "logical_vs_psychological_novelty",
+        "creativity_and_computation",
+        "philosophy_of_mathematics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Programmers are constantly surprised by what their own programs do\u2014machines produce psychological novelty routinely.",
+          "speaker": null
+        },
+        {
+          "text": "Perhaps thinking should be measured not by what you do but how you do it\u2014watching a child multiply feels like thinking, doing the same operation yourself feels like conditioned response, and a computer feels like neither.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--034",
+      "text": "The most common objections to machine capabilities\u2014'I wouldn't want my life to depend on a machine'; 'machines can never do what humans do'\u2014collapse immediately when confronted with pacemakers, unstable-aircraft stabilizers, and ICU monitoring systems that already do exactly that.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013III",
+      "concepts": [
+        "human_machine_cooperation",
+        "cognitive_biases_about_technology",
+        "technological_dependence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "People who say they do not want their lives to depend on a machine conveniently forget pacemakers keep many people alive.",
+          "speaker": null
+        },
+        {
+          "text": "Often humans can cooperate with a machine far better than with other humans\u2014yet people keep their feelings of supposed superiority rather than looking for places where machines can improve matters.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--035",
+      "text": "The most productive AI framing is not 'can machines think?' but 'what future applications of computers in your domain have you not yet imagined?'\u2014and people are consistently more inhibited imagining applications in their own field than in someone else's.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013III",
+      "concepts": [
+        "technology_forecasting",
+        "human_machine_synergy",
+        "domain_expertise_and_blindness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Discussions of AI tend to report past and present applications rather than speculating about future ones, which is the actual purpose of sensitizing people to future possibilities.",
+          "speaker": null
+        },
+        {
+          "text": "People are sure of their supposed superiority over machines in some area and cling to it rather than finding where machines can actually help\u2014the combination of human and machine is what matters, not the competition.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--036",
+      "text": "The hard AI claim that molecule-banging-against-molecule is all there is leads to determinism and the denial of free will; no satisfactory experiment can settle the question, and the feeling of self-awareness and self-consciousness\u2014though difficult to operationalize\u2014is a datum that materialist physics cannot simply wave away.",
+      "chapter": "Limits of Computer Applications\u2014AI\u2013III",
+      "concepts": [
+        "determinism_and_free_will",
+        "philosophy_of_consciousness",
+        "limits_of_physicalism"
+      ],
+      "entities": {
+        "people": [
+          "Democritus"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The claim that a truly random source contains all knowledge (via the infinite-monkeys argument) is logically inescapable but practically useless\u2014waiting times are too long and recognizing information when you see it remains unsolved.",
+          "speaker": null
+        },
+        {
+          "text": "Dark matter constitutes 90\u201399% of the universe by current (1994) estimates, and physics knows nothing about it except its gravitational attraction\u2014making claims of complete physical description premature.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--037",
+      "text": "In n-dimensional space, almost all volume of a sphere lies in a thin shell near the surface, regardless of how thin you make the shell relative to the radius\u2014which means optimal designs almost always lie on the boundary of feasible regions, not in the interior, making calculus-style interior optimization methods typically inappropriate.",
+      "chapter": "n\u2013Dimensional Space",
+      "concepts": [
+        "high_dimensional_geometry",
+        "optimization_theory",
+        "design_space"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The relative volume of the shell at fractional thickness \u03b5 is 1 - (1-\u03b5)^n, which approaches 1 for large n no matter how small \u03b5 is.",
+          "speaker": null
+        },
+        {
+          "text": "Even in three dimensions, 7/8 of a unit sphere's volume lies within 1/2 of the surface.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--038",
+      "text": "The diagonal of an n-dimensional unit cube makes an angle with each coordinate axis whose cosine is 1/\u221an\u2014nearly perpendicular for large n\u2014and there are 2^n such nearly-perpendicular diagonals, making the geometry of high-dimensional spaces far richer and stranger than three-dimensional intuition suggests.",
+      "chapter": "n\u2013Dimensional Space",
+      "concepts": [
+        "high_dimensional_geometry",
+        "counterintuitive_mathematics",
+        "vector_spaces"
+      ],
+      "entities": {
+        "people": [
+          "Pythagoras"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "By the weak law of large numbers, the dot product of two random \u00b11 vectors of length n divided by n approaches 0 almost surely\u2014almost every pair of such vectors is nearly orthogonal.",
+          "speaker": null
+        },
+        {
+          "text": "In n=10 dimensions, an inner sphere touching all 1024 corner-packed unit spheres has radius \u221a10 - 1 \u2248 2.16, exceeding the cube's half-width of 2 and thus extending outside the cube.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--039",
+      "text": "Three different metrics\u2014L2 (Euclidean/Pythagorean), L1 (Manhattan/Hamming distance), and L\u221e (Chebyshev/maximum-coordinate)\u2014all satisfy the four axioms of a metric and are appropriate for different domains: L2 for physical measurement, L1 and L\u221e for intellectual judgments and pattern recognition.",
+      "chapter": "n\u2013Dimensional Space",
+      "concepts": [
+        "metric_spaces",
+        "distance_functions",
+        "applied_mathematics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In real complex design problems, different coordinates may use different metrics, producing a messy hybrid space unlike the clean idealized spaces of textbook geometry.",
+          "speaker": null
+        },
+        {
+          "text": "The chi-squared test is an L2 measure and is widely misapplied in situations where L1 would be more appropriate.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--040",
+      "text": "Real design occurs in high-dimensional spaces whose peculiarities\u2014near-perpendicularity of most directions, surface-concentration of volume, counter-intuitive sphere packing\u2014mean that engineers and scientists who have not internalized these properties will regularly misjudge the nature of optimization problems.",
+      "chapter": "n\u2013Dimensional Space",
+      "concepts": [
+        "effective_dimensionality",
+        "engineering_intuition",
+        "geometric_reasoning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "You think you live in three dimensions, but in random walks you effectively live in two\u2014fish reduce three-dimensional ocean to two dimensions by schooling or bottom-feeding, and truly random three-dimensional flight would have fewer airplane accidents.",
+          "speaker": null
+        },
+        {
+          "text": "The theory and practice of linear algebra are quite different: finding n orthogonal basis vectors leaves 2^n other directions that are almost perpendicular to those n vectors.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--041",
+      "text": "The standard model of information transmission\u2014source, encoder, noisy channel, decoder, sink\u2014provides a powerful abstraction by divorcing the theory from the meaning of symbols, making it applicable to telephone, radio, computer storage, and any other transmission medium.",
+      "chapter": "Coding Theory\u2014I",
+      "concepts": [
+        "information_theory",
+        "communication_systems",
+        "abstraction_in_theory"
+      ],
+      "entities": {
+        "people": [
+          "Shannon"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Shannon insisted on 'information theory' over the more accurate 'communication theory' for publicity reasons\u2014a choice that created lasting confusion because the theory handles symbol strings, not human information.",
+          "speaker": null
+        },
+        {
+          "text": "Transmission through space and transmission through time (storage) are the same problem.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--042",
+      "text": "A code is uniquely decodable if and only if it satisfies the Kraft inequality \u03a32^(-li) \u2264 1, and McMillan's theorem shows that non-instantaneous unique decodability buys nothing\u2014so the simpler instantaneous codes can always be used without loss.",
+      "chapter": "Coding Theory\u2014I",
+      "concepts": [
+        "coding_theory",
+        "unique_decodability",
+        "information_theoretic_bounds"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The proof of McMillan's theorem uses the fact that for K > 1, some nth power of K exceeds any linear function of n\u2014so if K > 1 the Kraft sum to the nth power eventually contradicts unique decodability.",
+          "speaker": null
+        },
+        {
+          "text": "Comma codes (strings of 1s followed by a 0, except the last symbol) exactly meet the Kraft inequality with equality.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--043",
+      "text": "Human communication of ideas differs fundamentally from the formal model: the 'meaning' is not contained in the specific words but is reconstructed by the receiver from surrounding context\u2014meaning transmission from sender to receiver is inherently lossy and context-dependent in ways the formal theory does not capture.",
+      "chapter": "Coding Theory\u2014I",
+      "concepts": [
+        "semantic_communication",
+        "organizational_communication",
+        "language_and_meaning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When you later retransmit an idea to a friend, you will almost certainly use different words\u2014showing the same information can be encoded many ways and meaning is not in the words themselves.",
+          "speaker": null
+        },
+        {
+          "text": "In organizations, lower management often hears only what they expect to hear from senior management\u2014a serious problem as you rise toward leadership.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--044",
+      "text": "Huffman's algorithm achieves minimum average code length by proving two necessary conditions\u2014probabilities and code lengths must be in opposing order, and two longest symbols must have the same length\u2014and then constructing the optimal code by iteratively merging the two least probable symbols.",
+      "chapter": "Coding Theory\u2014II",
+      "concepts": [
+        "huffman_coding",
+        "optimal_source_coding",
+        "data_compression"
+      ],
+      "entities": {
+        "people": [
+          "Huffman"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Huffman encoding can save more than half of expected storage space; it is easily automated\u2014the machine samples data, estimates probabilities, finds the Huffman code, sends the decoding tree, and then the encoded data, all without human intervention.",
+          "speaker": null
+        },
+        {
+          "text": "The code is not unique: at each split it is arbitrary which symbol gets 0 and which gets 1, and equal probabilities can be ordered either way\u2014but all variants achieve the same average length L.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--045",
+      "text": "Huffman coding pays off substantially when symbol probabilities are very unequal (approaching a comma code) and hardly at all when probabilities are nearly equal\u2014the variance of code length can be minimized by always inserting new combined probabilities as high as possible in the ordering.",
+      "chapter": "Coding Theory\u2014II",
+      "concepts": [
+        "source_coding_efficiency",
+        "entropy_and_compression",
+        "code_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Rule: Huffman coding pays off when the probabilities of the symbols are very different, and does not pay off much when they are all rather equal.",
+          "speaker": null
+        },
+        {
+          "text": "Huffman codes have been used for the instruction part of computer instructions, since different instructions have very different probabilities of being used.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--046",
+      "text": "Standard parity checks detect odd numbers of errors but fail against human error patterns; Ed Gilbert's weighted modular code\u2014assigning values 0\u201336 to symbols and computing a weighted sum modulo 37\u2014catches both single-symbol changes and adjacent-symbol transpositions, because 37 is prime.",
+      "chapter": "Coding Theory\u2014II",
+      "concepts": [
+        "human_error_correction",
+        "weighted_codes",
+        "modular_arithmetic"
+      ],
+      "entities": {
+        "people": [
+          "Ed Gilbert"
+        ],
+        "places": [
+          "Bell Telephone Laboratories",
+          "AT&T"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Human error data from telephone dialing shows strong tendency to interchange adjacent digits (67\u219276) and double a digit (556\u2192566)\u2014patterns that single parity checks miss.",
+          "speaker": null
+        },
+        {
+          "text": "The ISBN system uses the same weighted-code principle with ten decimal digits plus X as an 11th symbol (ten not being prime), catching most single errors.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--047",
+      "text": "Error-correcting codes were discovered when Hamming, furious that a relay machine had wasted two weekends by detecting but not locating errors, asked: 'If the machine can locate there is an error, why can it not locate where it is?'\u2014illustrating that great discoveries typically require emotional stress, not calm detachment.",
+      "chapter": "Error-Correcting Codes",
+      "concepts": [
+        "discovery_process",
+        "emotional_investment_in_research",
+        "prepared_mind"
+      ],
+      "entities": {
+        "people": [
+          "Pasteur"
+        ],
+        "places": [
+          "Bell Telephone Laboratories",
+          "New York City"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The discovery required the immediately prior preparation of having understood 2-out-of-5 codes fundamentally and having worked out the general implications of parity checks.",
+          "speaker": null
+        },
+        {
+          "text": "Working calmly will let you elaborate and extend things, but breakthroughs generally come only after great frustration and emotional involvement.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--048",
+      "text": "The Hamming code design follows directly from using the syndrome\u2014the pattern of failing parity checks\u2014as a binary number naming the error position: parity check k covers all positions whose binary representation has a 1 in bit position k, making the syndrome exactly the binary address of any single error.",
+      "chapter": "Error-Correcting Codes",
+      "concepts": [
+        "error_correcting_codes",
+        "binary_arithmetic",
+        "coding_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The condition 2^r \u2265 n + 1 (where r is the number of check bits and n is the total message length) is both necessary and sufficient for single-error correction.",
+          "speaker": null
+        },
+        {
+          "text": "Adding one overall parity check converts a single-error-correcting code to a single-error-correcting, double-error-detecting code at minimal cost.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--049",
+      "text": "Error-correcting codes are geometrically equivalent to packing non-overlapping spheres in n-dimensional L1 space\u2014minimum distance between code points determines correctability\u2014which is the same metric Hamming had just analyzed abstractly, illustrating why cross-disciplinary knowledge pays dividends.",
+      "chapter": "Error-Correcting Codes",
+      "concepts": [
+        "geometric_coding_theory",
+        "hamming_distance",
+        "field_reliability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Morris Illinois",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The minimum-distance table: distance 1 = unique decoding; 3 = single error correcting; 5 = double error correcting; 2k+1 = k error correcting.",
+          "speaker": null
+        },
+        {
+          "text": "At the first electronic central office installation using Hamming codes in Morris, Illinois (1961), the field installation went in more easily than any other\u2014self-checking properties meant any newly functioning unit stayed trustworthy while the engineer moved on to the next.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--050",
+      "text": "The practical lesson of the discovery is that being in the same situation as Hamming was not sufficient for others to make the same discovery\u2014the difference was systematic preparation through deep understanding of prior work, not raw intelligence, and this means you, adequately prepared, could have done it too.",
+      "chapter": "Error-Correcting Codes",
+      "concepts": [
+        "scientific_creativity",
+        "preparation_and_luck",
+        "deliberate_practice"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Many people were in much the same situation but did not make the discovery\u2014luck played a role, but preparation was the decisive differentiator.",
+          "speaker": null
+        },
+        {
+          "text": "What it takes to be great in one age is not what is required in the next\u2014hence preparing for future greatness requires imagination about the nature of that future.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--051",
+      "text": "Shannon defined information as surprise\u2014I(p) = -log2(p)\u2014the unique continuous, additive measure of probability; entropy H = -\u03a3 pi log2(pi) is the average information and equals log2(q) at maximum when all q symbols are equally probable, by Gibbs' inequality.",
+      "chapter": "Information Theory",
+      "concepts": [
+        "information_theory",
+        "entropy",
+        "probability_and_information"
+      ],
+      "entities": {
+        "people": [
+          "Shannon"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Shannon chose 'information theory' over Bell Labs management's preference for 'communication theory' for publicity reasons\u2014creating lasting confusion because the theory handles symbol surprise, not human meaning.",
+          "speaker": null
+        },
+        {
+          "text": "The measure is relative: the same symbol string contains no information if you know the generating formula, and maximum information if you think the source is random.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--052",
+      "text": "Shannon's noisy coding theorem proves that for the binary symmetric channel, there exists a code achieving arbitrarily low error probability at any rate below channel capacity C = 1 - H(Q)\u2014but the proof is non-constructive, using random coding averaged over all code books, so 'sufficiently large n' is astronomically large in practice.",
+      "chapter": "Information Theory",
+      "concepts": [
+        "channel_capacity",
+        "noisy_channel_coding",
+        "existence_proofs"
+      ],
+      "entities": {
+        "people": [
+          "Shannon"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The decisive step is averaging the error probability over all random code books: if the average is small, at least one code must be good\u2014existence without construction.",
+          "speaker": null
+        },
+        {
+          "text": "Satellite missions to the outer planets confirmed the theorem's relevance by using codes correcting hundreds of errors per block transmitted with only 5\u201320 watts across billions of kilometers.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--053",
+      "text": "Every definition\u2014including Shannon's definition of information, and IQ\u2014should be examined for how it distorts the original intuitive concept, because in the long run it is the formal definition that determines meaning, not the original intuition, and this distortion is greatest in the softer sciences.",
+      "chapter": "Information Theory",
+      "concepts": [
+        "definition_and_distortion",
+        "operationalism",
+        "measurement_theory"
+      ],
+      "entities": {
+        "people": [
+          "Eddington"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Eddington's fishermen concluded there is a minimum fish size from examining only what their net could catch\u2014the tool used, not reality, determined the conclusion.",
+          "speaker": null
+        },
+        {
+          "text": "IQ is defined circularly: a test is revised for internal consistency, calibrated to produce a normal distribution, and then declared to measure 'intelligence'\u2014so of course intelligence is normally distributed.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--054",
+      "text": "The exclusive use of Fourier/trigonometric functions in signal processing is not arbitrary but follows from three independent reasons: (1) time-invariance requires the eigenfunctions of translation, (2) linearity has the same eigenfunctions, and (3) the Nyquist sampling theorem shows that band-limited signals sampled at \u22652\u00d7 the highest frequency can be perfectly reconstructed from equally spaced samples.",
+      "chapter": "Digital Filters\u2014I",
+      "concepts": [
+        "fourier_analysis",
+        "eigenfunctions_and_eigenvalues",
+        "signal_processing_foundations"
+      ],
+      "entities": {
+        "people": [
+          "Nyquist",
+          "Whittaker"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When Hamming asked various electrical engineers why sinusoids dominated the field, no one could give a satisfying answer\u2014one said 'alternating currents are sinusoidal,' which Hamming found meaningless.",
+          "speaker": null
+        },
+        {
+          "text": "The 'transfer function' is exactly the eigenvalue of the filter at each frequency\u2014a connection that apparently no electrical engineer had pointed out to Hamming, despite both concepts appearing in their curricula.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--055",
+      "text": "Aliasing\u2014the folding of frequencies above the Nyquist rate into lower frequencies\u2014is the fundamental effect of sampling, and thinking of it as permanent (once sampled, the aliased signal is what you have) saves enormous conceptual effort compared to drawing periodic extensions.",
+      "chapter": "Digital Filters\u2014I",
+      "concepts": [
+        "aliasing",
+        "sampling_theory",
+        "frequency_domain_analysis"
+      ],
+      "entities": {
+        "people": [
+          "Tukey"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A single high frequency aliases into a single low frequency under uniform sampling\u2014true only for trigonometric functions, not for powers of t or other function sets.",
+          "speaker": null
+        },
+        {
+          "text": "Stretching time to normalize the sampling rate to one per unit removes extraneous scale factors and allows insights from different physical timescales to cross-fertilize.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--056",
+      "text": "Smoothing filters derived from least-squares polynomial fitting (linear, quadratic) produce the central-value estimate as a weighted running average of nearby data, with the filter 'shape' (coefficient window) determining which frequencies are passed and which are attenuated.",
+      "chapter": "Digital Filters\u2014I",
+      "concepts": [
+        "least_squares_smoothing",
+        "digital_filter_design",
+        "windowing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "For a least-squares linear fit to five points, the smoothed value is simply the average of the five\u2014a uniform window.",
+          "speaker": null
+        },
+        {
+          "text": "The quadratic smoothing case produces coefficients with negative values, which should not trouble us since 'window' is metaphorical and negative transmission is mathematically legitimate.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--057",
+      "text": "The Gibbs phenomenon\u2014an overshoot of approximately 8.949% at any discontinuity in a truncated Fourier series that persists regardless of how many terms are taken\u2014was correctly identified by Gibbs after the phenomenon's discoverer Michelson was told by 'experts' his precision equipment must be faulty.",
+      "chapter": "Digital Filters\u2014II",
+      "concepts": [
+        "gibbs_phenomenon",
+        "fourier_series_convergence",
+        "uniform_convergence"
+      ],
+      "entities": {
+        "people": [
+          "Michelson",
+          "Gibbs",
+          "Cauchy",
+          "Lanczos"
+        ],
+        "places": [
+          "Yale"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cauchy's textbooks in the 1850s simultaneously stated that a convergent series of continuous functions converges to a continuous function AND demonstrated the Fourier expansion of a discontinuous function\u2014a flat contradiction that implied the need for uniform convergence.",
+          "speaker": null
+        },
+        {
+          "text": "For general orthogonal functions the overshoot magnitude depends on where the discontinuity occurs; for Fourier functions it is location-independent.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--058",
+      "text": "A filter is the convolution of one array of coefficients by another\u2014equivalently, multiplication of corresponding Fourier functions\u2014and a finite observation window (a rectangular window) convolves the true spectrum with a (sin x)/x function, smearing spectral lines and introducing the Gibbs phenomenon.",
+      "chapter": "Digital Filters\u2014II",
+      "concepts": [
+        "convolution_theorem",
+        "windowing_in_signal_processing",
+        "spectral_leakage"
+      ],
+      "entities": {
+        "people": [
+          "Lanczos",
+          "von Hann",
+          "Tukey"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Whether you sample-then-truncate or truncate-then-sample gives the same result\u2014the order of operations does not matter for equally spaced sampling and finite-range observation.",
+          "speaker": null
+        },
+        {
+          "text": "The Lanczos modification\u2014changing only the two outer coefficients from 1 to 1/2\u2014reduces the overshoot by a factor of ~7 at minimal cost, because the mid-value at a jump should be 1/2, not 1.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--059",
+      "text": "The Hamming window\u2014a raised cosine on a platform with weights 0.54 and 0.46\u2014was designed to minimize the maximum side lobe rather than minimize total leakage, and is named by Tukey, who called it 'hamming' to make Hamming famous in the way that watt and volt became common words.",
+      "chapter": "Digital Filters\u2014II",
+      "concepts": [
+        "window_functions",
+        "spectral_analysis",
+        "scientific_collaboration"
+      ],
+      "entities": {
+        "people": [
+          "Tukey",
+          "von Hann"
+        ],
+        "places": [
+          "Princeton",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The von Hann window is preferable in most situations; the Hamming window is specifically suited to spectra with a single strong line that must be kept from leaking into adjacent frequency estimates.",
+          "speaker": null
+        },
+        {
+          "text": "It pays to be helpful to others as they try to do their work\u2014they may in time give you credit, which is better than trying to claim it yourself.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--060",
+      "text": "The systematic design of nonrecursive digital filters proceeds in six steps: sketch the ideal transfer function, compute Fourier coefficients, truncate (rectangular window), apply a smoothing window to reduce Gibbs overshoot, evaluate the windowed transfer function, and round coefficients before final evaluation.",
+      "chapter": "Digital Filters\u2014III",
+      "concepts": [
+        "filter_design_methodology",
+        "systematic_engineering_design",
+        "computational_experimentation"
+      ],
+      "entities": {
+        "people": [
+          "Kaiser"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Kaiser's method specifies only \u03b4 (vertical tolerance from ideal) and \u0394F (transition width) and returns both N and the Kaiser I\u2080(\u03b1r/r\u2080) window\u2014eliminating the trial-and-error of choosing both N and window type separately.",
+          "speaker": null
+        },
+        {
+          "text": "Kaiser found the exponent 0.4 by trying 0.5 (too large) and then 0.4, which fit well\u2014a good example of using the computer as an experimental tool in theoretical research.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--061",
+      "text": "The fast Fourier transform (FFT) reduces the N\u00b2 operations of a direct DFT to N log N by (1) adding/subtracting before multiplying and (2) computing higher frequencies by multiplying lower ones\u2014but Hamming failed to implement it because he remembered only that it was impractical on his old equipment, not why, illustrating a critical error to avoid.",
+      "chapter": "Digital Filters\u2014III",
+      "concepts": [
+        "fft_algorithm",
+        "learning_from_mistakes",
+        "technology_dependence_of_ideas"
+      ],
+      "entities": {
+        "people": [
+          "Tukey",
+          "Cooley"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A book Hamming published in 1961 shows he knew all the facts necessary to derive the FFT, yet he dismissed it as one of Tukey's few bad ideas\u2014because he forgot the essential reason was the hardware of the time, not the idea itself.",
+          "speaker": null
+        },
+        {
+          "text": "Moral: when you decide something is impossible, record the specific reason why; later, when circumstances change, you must re-examine whether the original reason still applies.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--062",
+      "text": "Power spectrum analysis forces all non-harmonic frequencies into harmonic ones (making the function periodic over the sample window) and all non-integer harmonics distribute their energy across many frequency bins\u2014a consequence of the FFT's implicit periodicity assumption that is widely misunderstood.",
+      "chapter": "Digital Filters\u2014III",
+      "concepts": [
+        "power_spectral_analysis",
+        "uncertainty_principle",
+        "linear_vs_nonlinear_models"
+      ],
+      "entities": {
+        "people": [
+          "Heisenberg"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The old Fourier analysis of stock market data showed only white noise and was interpreted as proving no prediction is possible\u2014but this conclusion is valid only for linear predictors; it says nothing about nonlinear ones.",
+          "speaker": null
+        },
+        {
+          "text": "Linear time invariance leads automatically to Fourier eigenfunctions, which have an uncertainty principle\u2014so the famous Heisenberg uncertainty principle may be an artifact of the assumed linearity of quantum mechanics, not a fact about nature.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--063",
+      "text": "Recursive digital filters\u2014output depends on both input and previous output\u2014are simply difference equations with constant coefficients, and their transfer function is a rational function in z = e^i\u03c9t rather than a polynomial, making systematic design harder and requiring case-by-case methods (Butterworth, Chebyshev, elliptic).",
+      "chapter": "Digital Filters\u2014IV",
+      "concepts": [
+        "recursive_filters",
+        "iir_filters",
+        "stability_theory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The corrector in a predictor-corrector numerical integrator is exactly a recursive digital filter where the 'input' is derivatives from the differential equation and the 'output' is position\u2014showing that numerical integration IS recursive digital filtering.",
+          "speaker": null
+        },
+        {
+          "text": "For two-sided processing (non-real-time), data recorded on tape gives access to future values, making two-sided recursive filters possible and potentially much more accurate.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--064",
+      "text": "Stability in digital filters\u2014the claim that all IIR filters have infinite impulse response\u2014is a convention inherited from analog filter theory, not a necessity; Hamming found a counterexample and used it to illustrate that experts often repeat claims learned as students without ever examining whether they remain true in all circumstances.",
+      "chapter": "Digital Filters\u2014IV",
+      "concepts": [
+        "feedback_instability",
+        "stability_criteria",
+        "questioning_expert_knowledge"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The instability of a hot-water shower with a long pipe delay is an everyday example of feedback instability: too-strong response to delayed signal causes hunting\u2014which can be viewed as either too-large gain or too-large detection delay.",
+          "speaker": null
+        },
+        {
+          "text": "Stability here should mean 'not exponential growth' and should allow polynomial growth\u2014integration of a constant produces linear growth, which is what must happen.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--065",
+      "text": "Digital filters for non-time-domain signals\u2014such as differentiating nuclear count spectra as a function of energy\u2014require the filter designer to free themselves from time-signal assumptions, and the most important contribution is often identifying the problem, finding the right collaborators, and keeping experts on track.",
+      "chapter": "Digital Filters\u2014IV",
+      "concepts": [
+        "interdisciplinary_problem_solving",
+        "expert_tunnel_vision",
+        "applied_signal_processing"
+      ],
+      "entities": {
+        "people": [
+          "Kaiser"
+        ],
+        "places": [
+          "Bell Telephone Laboratories",
+          "Naval Postgraduate School"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Kaiser, one of the world's experts in digital filters, could not solve the problem until Hamming bluntly said 'his energy is time and the measurements are the voltage'\u2014the curse of the expert limiting their view.",
+          "speaker": null
+        },
+        {
+          "text": "Working in the square roots of counts rather than counts themselves, because counts have unequal variances, was the final statistical refinement the physicist needed to be reminded of.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--066",
+      "text": "Computers have largely replaced laboratory experiments (9 out of 10 experiments now on machines) because simulation is cheaper, faster, more flexible, and can do what no laboratory can\u2014but this trend risks a return to scholasticism, where models are trusted over direct observation of nature.",
+      "chapter": "Simulation\u2014I",
+      "concepts": [
+        "simulation_vs_experiment",
+        "scholasticism_risk",
+        "computational_science"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Los Alamos",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [
+          "World War II"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Simulation is defined as the answer to the question 'What if...?'\u2014making it essential for any organization that must make decisions about futures it cannot directly test.",
+          "speaker": null
+        },
+        {
+          "text": "Intellectual shelf life\u2014the decay of skills needed to run laboratory equipment\u2014is often more insidious than physical shelf life of the equipment.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--067",
+      "text": "Domain-expert involvement in every programming detail is essential because both the expert and the programmer can know exactly what the mathematical symbols mean yet disagree on the correct interpretation\u2014as happened with 'fin limiting' vs. 'voltage limiting' in a Navy intercept simulation.",
+      "chapter": "Simulation\u2014I",
+      "concepts": [
+        "simulation_validity",
+        "domain_expertise_in_modeling",
+        "programmer_subject_matter_expert_interface"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "MIT",
+          "White Sands"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming refused to code any simulation until the domain expert sat with him and walked through each line of absolute binary code, understanding what was happening at each step.",
+          "speaker": null
+        },
+        {
+          "text": "Expert knowledge of the field is needed to know whether effects omitted from the model are vital or safely ignored\u2014only an expert can make that judgment.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--068",
+      "text": "Starting with a simple simulation and evolving to a detailed one yields the critical early insights that would be disguised in a full-scale model\u2014Hamming's Nike missile simulations showed vertical launch was universally superior and that larger wings actually reduced end-game maneuverability, insights that shaped the entire design.",
+      "chapter": "Simulation\u2014I",
+      "concepts": [
+        "iterative_simulation_design",
+        "insight_vs_computation",
+        "jargon_and_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "MIT",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Having lots of time to observe slowly-running simulations on the RDA #2 differential analyzer gave Hamming time to develop a 'feel' for the missile's behavior\u2014he doubts hundreds of fast solutions would have taught as much.",
+          "speaker": null
+        },
+        {
+          "text": "Jargon functions simultaneously as a useful restricted language and as a barrier that blocks outsider contributions; consciously resisting jargon when outsiders are present is essential because modern work requires larger-than-tribal collaboration.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--069",
+      "text": "Simulation reliability requires separately evaluating both the accuracy of the model (are the right equations being solved?) and the accuracy of the computation (are they being solved correctly?)\u2014and when asked about reliability, practitioners almost always respond with irrelevant information about manpower, computer size, and problem importance.",
+      "chapter": "Simulation\u2014II",
+      "concepts": [
+        "simulation_validation",
+        "model_accuracy",
+        "computational_accuracy"
+      ],
+      "entities": {
+        "people": [
+          "Jay Forrester"
+        ],
+        "places": [
+          "Pasadena California"
+        ],
+        "events": [
+          "Club of Rome world simulation"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A spaceflight simulation reliability expert was forced to admit under questioning that his '99.44% reliability' figure described the simulation, not the actual flight\u2014and that the program director did not understand this distinction.",
+          "speaker": null
+        },
+        {
+          "text": "The Club of Rome world simulation had equations that guaranteed catastrophe regardless of initial conditions or parameter choices, and was later found to have serious computational errors as well.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--070",
+      "text": "Many simulations are Rorschach tests\u2014the analyst finds what they want to find\u2014and medicine had to invent the double-blind experiment precisely because even honest doctors could not avoid seeing improvement where they expected it; simulation practitioners are no more immune to self-delusion than physicians.",
+      "chapter": "Simulation\u2014II",
+      "concepts": [
+        "self_delusion_in_research",
+        "double_blind_methodology",
+        "confirmation_bias"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "UC Berkeley",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A Bell Labs psychologist showed that not one scientist among many tested\u2014all running random-light experiments\u2014ever concluded there was no message; only statisticians and information theorists trained to recognize randomness would have.",
+          "speaker": null
+        },
+        {
+          "text": "Iterating between assumed model structure and observed behavior until they agree (as Forrester describes) is indistinguishable from adjusting the model to get the desired result.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--071",
+      "text": "Simpson's paradox illustrates that combining data can create apparent effects not present in any subgroup\u2014the UC Berkeley graduate admissions data showed apparent sex discrimination in aggregate while no department discriminated\u2014warning that amalgamated data must be handled with extreme care.",
+      "chapter": "Simulation\u2014II",
+      "concepts": [
+        "simpsons_paradox",
+        "statistical_aggregation",
+        "scenario_planning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "UC Berkeley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The explanation: departments with many openings (hard sciences) attracted more men, while departments with few openings (humanities, social sciences) attracted more women\u2014the discrimination, if any, was in earlier educational tracking.",
+          "speaker": null
+        },
+        {
+          "text": "The scenario method\u2014giving multiple possible projections rather than a single prediction\u2014is the best available approach for systems where humans can alter their behavior in response to the simulation's outputs.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--072",
+      "text": "GIGO (garbage in, garbage out) is wrong in both directions: feedback can compensate for inaccurate input data (as in the Nike missile accident simulation where unknown initial conditions still gave a correct answer because of a strongly convergent direction field), and accurate input can still produce meaningless output when the direction field is divergent.",
+      "chapter": "Simulation\u2014III",
+      "concepts": [
+        "feedback_and_accuracy",
+        "convergent_vs_divergent_systems",
+        "computational_stability"
+      ],
+      "entities": {
+        "people": [
+          "H.S. Black"
+        ],
+        "places": [
+          "Los Alamos",
+          "White Sands"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Nike 'telephone pole' missile breakups were solved using guessed initial conditions\u2014the convergent guidance-feedback direction field meant errors in starting conditions automatically diminished.",
+          "speaker": null
+        },
+        {
+          "text": "The atomic bomb equation-of-state was drawn from scattered data using French curves and read to only 3\u2153 significant figures, yet the predictions were accurate because the second-difference computation averaged over the history of each shell.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--073",
+      "text": "Good design inherently protects against needing too many highly accurate components by building in feedback\u2014just as Black's amplifier makes only one resistor critical while all other components can be inaccurate\u2014but this principle is still poorly understood and not yet systematically incorporated into engineering design methods.",
+      "chapter": "Simulation\u2014III",
+      "concepts": [
+        "feedback_amplification",
+        "robustness_by_design",
+        "systems_design_principles"
+      ],
+      "entities": {
+        "people": [
+          "H.S. Black"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "H.S. Black's feedback amplifier equation shows output \u2248 \u2212(1/feedback resistance) when gain is very high\u2014only the feedback element needs to be accurate.",
+          "speaker": null
+        },
+        {
+          "text": "Whether inaccurate numbers travel through a feedback-protected path or are 'vital' and unprotected must be understood for the whole computation as a whole.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--074",
+      "text": "For simulations of inherently unstable differential equations (such as sinh y boundary value problems), the instability itself can be exploited as the solution method: tracking when the solution veers one direction tells you your slope estimate was too high or too low, enabling piece-by-piece navigation of the unstable solution curve.",
+      "chapter": "Simulation\u2014III",
+      "concepts": [
+        "unstable_differential_equations",
+        "numerical_methods",
+        "simulation_for_training"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Pride in being able to deliver answers to important properly-posed problems\u2014refusing to give up with excuses\u2014was essential to finding the solution that apparently could not be found.",
+          "speaker": null
+        },
+        {
+          "text": "The frequency-domain approach to numerical ODE integration (aligning frequencies) differs fundamentally from the polynomial approach (aligning positions), and the pilot-training application shows the frequency approach better replicates the 'feel' of a vehicle.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--075",
+      "text": "Optical fiber was clearly destined to replace copper wire in the telephone network for at least three reasons: optical frequencies provide enormously greater bandwidth, glass is made from abundant sand while good copper is increasingly scarce, and Manhattan duct capacity was running out\u2014making the development essential, not optional.",
+      "chapter": "Fiber Optics",
+      "concepts": [
+        "technology_forecasting",
+        "resource_economics",
+        "bandwidth_advantages"
+      ],
+      "entities": {
+        "people": [
+          "Alexander Graham Bell"
+        ],
+        "places": [
+          "Bell Telephone Laboratories",
+          "Manhattan",
+          "Atlanta Georgia"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The speaker's remark 'God loved sand, He made so much of it' triggered Hamming's recognition that raw material supply would favor glass over copper in the long run.",
+          "speaker": null
+        },
+        {
+          "text": "Fiber optics also proved resistant to electromagnetic disturbances including nuclear EMP and lightning, guaranteeing strong military support for the research.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--076",
+      "text": "The graded-index fiber\u2014with a smoothly changing refractive index rather than a sharp core/cladding boundary\u2014is the optical analog of 'strong focusing' developed for cyclotrons, illustrating how recognizing an analogy across domains provides immediate insight into a new technology.",
+      "chapter": "Fiber Optics",
+      "concepts": [
+        "cross_domain_analogy",
+        "technology_development_trajectory",
+        "optical_physics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Smaller fiber diameters allow sharper bends without light leaking out, hence the drive to hair-sized fibers is driven by flexibility requirements, not material cost.",
+          "speaker": null
+        },
+        {
+          "text": "The large number of competing splicing methods told Hamming that the splicing problem\u2014his initial concern\u2014would probably be solved, even if no single method dominated.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--077",
+      "text": "Soliton signaling\u2014where pulses maintain shape during propagation and can be amplified without reshaping\u2014represents a potential paradigm shift from classical pulse signaling, and the satellite communication business faces fundamental limits (equatorial parking slots, signal spreading) that fiber optics does not.",
+      "chapter": "Fiber Optics",
+      "concepts": [
+        "soliton_communication",
+        "satellite_vs_cable_tradeoffs",
+        "information_infrastructure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The inefficiency of detecting optical signals, converting to electronic form, amplifying, and converting back made optical amplifiers a predictable necessity\u2014Hamming saw this as obviously bad system design.",
+          "speaker": null
+        },
+        {
+          "text": "Drop lines to houses carrying fiber would make all information channels (phone, radio, TV, personalized newspapers) selectable by setting digital filter parameters\u2014changing 'channel' becomes a software operation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--078",
+      "text": "The Hawthorne effect\u2014productivity rises whenever workers perceive change as being made for their benefit, regardless of whether the change is actually beneficial\u2014vitiates almost all educational experimentation, because showing students a new method reliably improves outcomes whether the method is better or worse.",
+      "chapter": "Computer-Aided Instruction (CAI)",
+      "concepts": [
+        "hawthorne_effect",
+        "educational_research_methodology",
+        "placebo_effects"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Hawthorne plant",
+          "Western Electric"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "At the Hawthorne plant, even reversing a change back to the original state caused productivity to rise\u2014demonstrating that perceived care, not content, drove the improvement.",
+          "speaker": null
+        },
+        {
+          "text": "The proper teaching method may always be in a state of experimental change, since the Hawthorne effect ensures improvement regardless of what the change is.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--079",
+      "text": "Computers genuinely improve training for conditioned responses\u2014rote arithmetic, pilot emergency procedures\u2014because these require reliable repetition that machines do better than teachers; but for high-level education involving abstract pattern recognition and transfer of training, computers have not demonstrated superiority.",
+      "chapter": "Computer-Aided Instruction (CAI)",
+      "concepts": [
+        "conditioned_response_training",
+        "transfer_of_learning",
+        "difficulty_and_learning"
+      ],
+      "entities": {
+        "people": [
+          "Aldous Huxley"
+        ],
+        "places": [
+          "Naval Postgraduate School",
+          "University of Chicago"
+        ],
+        "events": [],
+        "works": [
+          "Brave New World"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The weightlifting analogy: giving students easier proofs is like cutting the weights in half\u2014and the evidence that famous professors who were terrible lecturers produced great students suggests difficulty in learning may be part of what builds intellectual strength.",
+          "speaker": null
+        },
+        {
+          "text": "Analytic integration in the calculus forces students to recognize forms independent of representation\u2014abstract pattern recognition essential to mathematics\u2014and should not be automated away unless replaced by something of equivalent difficulty.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--080",
+      "text": "The failure to transfer learning between contexts\u2014students who knew \u222b(1/x)dx in calculus class couldn't recognize it as ln x in a thermodynamics class across the hall\u2014is a deep problem that better graphics and more elaborate CAI may actually worsen by binding concepts more strongly to specific visual representations.",
+      "chapter": "Computer-Aided Instruction (CAI)",
+      "concepts": [
+        "transfer_of_training",
+        "context_dependence_of_knowledge",
+        "education_vs_training"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Kaiser, an expert in digital filters, could not apply his knowledge when the independent variable was energy rather than time\u2014his expertise had restricted his view.",
+          "speaker": null
+        },
+        {
+          "text": "The better we inculcate a basic idea with the professor's specific pictures, the more we prevent students from later extending it to completely new areas the professor never imagined.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--081",
+      "text": "The five schools of mathematical philosophy\u2014Platonism (mathematical objects exist independently), formalism (mathematics is a meaningless symbol game), logicism (mathematics is a branch of logic), intuitionism (rigor is relative), and constructivism (only explicitly constructed objects exist)\u2014all fail to fully account for both mathematics' internal structure and its practical effectiveness.",
+      "chapter": "Mathematics",
+      "concepts": [
+        "philosophy_of_mathematics",
+        "mathematical_platonism",
+        "foundations_of_mathematics"
+      ],
+      "entities": {
+        "people": [
+          "Plato",
+          "Hilbert",
+          "Whitehead",
+          "Russell",
+          "Euclid"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "What Is Mathematics?",
+          "Principia Mathematica"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Hilbert added many postulates to Euclid to handle betweenness and intersection\u2014yet no theorem in Euclid's 467-theorem corpus turned out to be false, suggesting Euclid worked backward from known results to the postulates needed, not forward from axioms to conclusions.",
+          "speaker": null
+        },
+        {
+          "text": "Most mathematicians are Platonists while working but take refuge in formalism when pressed\u2014pretending to believe mathematics has no meaning while actually finding it enormously meaningful.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--082",
+      "text": "The 'unreasonable effectiveness of mathematics' arises not from mathematics being true or meaningful in itself, but from recognizing analogies between formal structures and parts of reality\u2014and meaning is placed into symbols by humans when converting problems to mathematics and when interpreting results, not by the symbols themselves.",
+      "chapter": "Mathematics",
+      "concepts": [
+        "unreasonable_effectiveness_of_mathematics",
+        "mathematical_modeling",
+        "abstraction_and_meaning"
+      ],
+      "entities": {
+        "people": [
+          "Einstein",
+          "Lewis Carroll"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Alice in Wonderland",
+          "Through the Looking Glass"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The meaning of an instruction in an interpretive language comes from the subroutine it calls, not from its name\u2014exactly as mathematical symbols get meaning from how they are processed, not from their definitions.",
+          "speaker": null
+        },
+        {
+          "text": "Einstein observed that the world appears logically constructed\u2014that it can be understood mathematically\u2014which Hamming regards as the most amazing fact about reality.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--083",
+      "text": "G\u00f6del's theorem shows that any sufficiently rich discrete symbol system contains statements whose truth cannot be proved within the system\u2014but natural language as actually used escapes G\u00f6del's hypotheses because words have multiple context-dependent meanings, which may be why language evolved with this property.",
+      "chapter": "Mathematics",
+      "concepts": [
+        "godels_incompleteness",
+        "limits_of_formal_systems",
+        "future_of_mathematics"
+      ],
+      "entities": {
+        "people": [
+          "G\u00f6del"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Music, poetry, and the classical Greek ideals of truth, beauty, and justice apparently cannot be fully captured in words\u2014suggesting there are things that cannot be communicated in any discrete symbol system.",
+          "speaker": null
+        },
+        {
+          "text": "Since past mathematics found the easy applications first, the future will require new mathematics for harder problems\u2014including things where the whole is not the sum of the parts.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--084",
+      "text": "Planck discovered the quantum by accident\u2014he used a mathematical trick of discretizing energy to derive a formula that fit black-body radiation data, then found the fit disappeared when he took the limit to continuity, and was honest enough to stop before the limit.",
+      "chapter": "Quantum Mechanics",
+      "concepts": [
+        "quantum_mechanics_history",
+        "mathematical_modeling",
+        "multiple_equivalent_theories"
+      ],
+      "entities": {
+        "people": [
+          "Planck",
+          "Heisenberg",
+          "Schr\u00f6dinger",
+          "Einstein",
+          "Bohr",
+          "de Broglie"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming adopted the lesson of fitting problems with functions the client already believes in, rather than standard polynomials\u2014hoping to produce Planck-like insights rather than mere numerical answers.",
+          "speaker": null
+        },
+        {
+          "text": "Two apparently different theories\u2014Heisenberg's matrix mechanics and Schr\u00f6dinger's wave mechanics\u2014were shown to be equivalent, demonstrating that there need not be a unique theoretical form to account for a body of observations.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--085",
+      "text": "The Heisenberg uncertainty principle for conjugate variables is a theorem in Fourier transforms\u2014any linear theory must have a corresponding uncertainty principle\u2014suggesting the famous QM uncertainty principle may be an artifact of the assumed linearity of the model rather than a physical fact about nature.",
+      "chapter": "Quantum Mechanics",
+      "concepts": [
+        "uncertainty_principle",
+        "hidden_variables",
+        "quantum_probability"
+      ],
+      "entities": {
+        "people": [
+          "Heisenberg",
+          "von Neumann",
+          "Born",
+          "Dirac",
+          "Bell"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Von Neumann 'proved' there are no hidden variables, but the proof was later found fallacious; new proofs found, then found fallacious again\u2014the question remains open.",
+          "speaker": null
+        },
+        {
+          "text": "The probabilistic basis of QM attracted philosophers to debates about free will, but Hamming doubts there is any real connection between QM randomness and human agency.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--086",
+      "text": "Alain Aspect's experiments demonstrate non-local effects\u2014measuring the polarization of one particle of an entangled pair instantaneously affects the other, regardless of distance\u2014and while this apparently does not allow faster-than-light signaling, it forces acceptance of non-locality that Einstein refused to accept.",
+      "chapter": "Quantum Mechanics",
+      "concepts": [
+        "quantum_entanglement",
+        "non_locality",
+        "limits_of_human_understanding"
+      ],
+      "entities": {
+        "people": [
+          "Alain Aspect",
+          "Einstein",
+          "Podolsky",
+          "Rosen",
+          "Bell"
+        ],
+        "places": [
+          "Paris"
+        ],
+        "events": [
+          "Aspect experiments"
+        ],
+        "works": [
+          "EPR paper"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Einstein-Podolsky-Rosen paper identified the constraints that non-local effects would impose; Bell sharpened these into testable 'Bell inequalities' that experiments have now consistently violated.",
+          "speaker": null
+        },
+        {
+          "text": "After almost 70 years of QM, professors are still forced to say 'I cannot explain wave-particle duality\u2014you will just have to get used to it,' suggesting there may be thoughts the human brain as currently wired simply cannot think.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--087",
+      "text": "Creativity typically requires emotional involvement and often frustration\u2014working calmly on a problem rarely produces breakthroughs; great creative acts generally follow periods of stress, intense engagement, and temporary abandonment of the problem to let the subconscious work.",
+      "chapter": "Creativity",
+      "concepts": [
+        "creative_process",
+        "incubation_and_insight",
+        "subconscious_problem_solving"
+      ],
+      "entities": {
+        "people": [
+          "Kekule"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The pattern: dim recognition of the problem \u2192 refinement (don't rush, or you'll find only the conventional solution) \u2192 intense gestation \u2192 insight from the subconscious \u2192 often wrong, then back to drawing board \u2192 eventual solution.",
+          "speaker": null
+        },
+        {
+          "text": "When stuck, asking 'If I had a solution, what would it look like?' sharpens the approach and may reveal ways of looking at the problem that were subconsciously ignored.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--088",
+      "text": "Analogy is the most important tool in creativity\u2014and wide acquaintance with many fields, with knowledge 'filed' under multiple hooks for flexible retrieval, makes useful analogies more likely; Tukey recalled relevant information far more often than Hamming because Tukey had more retrieval hooks from mulling new ideas over repeatedly.",
+      "chapter": "Creativity",
+      "concepts": [
+        "analogical_reasoning",
+        "knowledge_organization",
+        "retrieval_and_creativity"
+      ],
+      "entities": {
+        "people": [
+          "Tukey"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A valuable analogy need not be close\u2014it only needs to suggest what to do next; Kekule's snake-biting-its-own-tail dream suggested the ring structure of carbon compounds from a highly imperfect analogy.",
+          "speaker": null
+        },
+        {
+          "text": "When learning something new, think of other applications it might have in situations not yet encountered\u2014this builds the hooks that make later retrieval possible.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--089",
+      "text": "Creativity can be cultivated by deliberately changing your habits\u2014starting with small self-modifications and building capacity for larger ones\u2014because we are in a very real sense the sum total of our habits, and habits can be changed; but overconfidence leads to the Einstein trap of spending decades on a problem that never yields.",
+      "chapter": "Creativity",
+      "concepts": [
+        "habit_formation",
+        "self_management",
+        "creative_career_management"
+      ],
+      "entities": {
+        "people": [
+          "Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Einstein spent the second half of his career on a unified field theory and produced almost nothing, while his early work\u2014prepared by asking as a 12-year-old what light looks like at the speed of light\u2014was transformative.",
+          "speaker": null
+        },
+        {
+          "text": "Hamming regularly made himself promises to deliver a result by a given date, then like a cornered rat had to find something\u2014a form of self-management that repeatedly produced results.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--090",
+      "text": "Kuhn's paradigm framework\u2014normal science elaborates an accepted framework while ignoring contradictions until a sudden paradigm shift overturns the old\u2014describes not just major scientific revolutions but also smaller-scale expert resistance to innovations in methods, tools, and approaches.",
+      "chapter": "Experts",
+      "concepts": [
+        "paradigm_shifts",
+        "innovation_from_outside",
+        "expert_resistance"
+      ],
+      "entities": {
+        "people": [
+          "Kuhn",
+          "Wegener",
+          "Thomas Dick",
+          "Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Structure of Scientific Revolutions"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Continental drift was discussed by Thomas Dick in 1838, published by Wegener in the early 1900s (with matching rock sequences on facing coasts as evidence), and rejected by geologists for decades\u2014only oceanographic mapping of sea-floor spreading after WWII produced acceptance.",
+          "speaker": null
+        },
+        {
+          "text": "Most great innovations come from outside the field: carbon dating from physics into archaeology, automatic telephone exchange from an undertaker, Einstein working in a patent office when academic physics had no room for him.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--091",
+      "text": "All impossibility claims rest on assumptions that may not apply to the new situation\u2014experts rarely inspect these assumptions before declaring something impossible, and the patent office's rejection of a pump that lifted water more than 33 feet was based on this error.",
+      "chapter": "Experts",
+      "concepts": [
+        "impossibility_proofs",
+        "assumption_inspection",
+        "paradigm_blindness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The man demonstrated his device by pumping water to the roof of the patent office building\u2014far more than 33 feet\u2014using standing waves, a method the textbook rule had never considered.",
+          "speaker": null
+        },
+        {
+          "text": "Experts forget the essential reason why they earlier concluded something was impossible; when circumstances change, the old reasoning no longer applies but the conclusion persists.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--092",
+      "text": "When you rise to the top and are the expert, the methods that made you successful are likely to be counterproductive\u2014the direction of progress has turned nearly perpendicular to the direction you mastered\u2014and the most important thing you can do for the next generation is to get out of their way.",
+      "chapter": "Experts",
+      "concepts": [
+        "expertise_and_obsolescence",
+        "generational_change",
+        "leadership_and_humility"
+      ],
+      "entities": {
+        "people": [
+          "Einstein"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming refused to participate in any decisions about current computer choices after retiring, specifically to avoid being the drag on the next generation that he had to endure from his predecessors.",
+          "speaker": null
+        },
+        {
+          "text": "Einstein, who gave quantum mechanics such a start with his photoelectric paper, became a plain drag on QM as it developed\u2014yet physicists are reluctant to admit this.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--093",
+      "text": "Physical constants in standard tables are not remotely as accurate as their listed uncertainties claim\u2014the average later measurement falls 5.267 times outside the earlier stated error bounds\u2014because standard laboratory practice of fine-tuning for low variance produces artificially narrow confidence intervals, not accurate ones.",
+      "chapter": "Unreliable Data",
+      "concepts": [
+        "measurement_accuracy",
+        "overconfident_error_estimates",
+        "scientific_data_reliability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "NBS"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hamming's rule: 90% of the time, the next independent measurement will fall outside the previous 90% confidence limits\u2014a deliberate overstatement to make the rule memorable, but based on a lifetime of observing measurement accuracy.",
+          "speaker": null
+        },
+        {
+          "text": "Hubble's constant measurements regularly fall outside the stated uncertainties of other measurements\u2014fundamental cosmological data has the same problem.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--094",
+      "text": "Economic data is especially unreliable: official gold-flow figures between countries differ by more than two-to-one between reporter and receiver, GNP counts DuPont's GM stock holdings twice, inventory reporting rules change without notice but move key economic indices, and discount practices make cost data systematically biased in recession vs. expansion.",
+      "chapter": "Unreliable Data",
+      "concepts": [
+        "economic_data_reliability",
+        "measurement_bias",
+        "index_construction"
+      ],
+      "entities": {
+        "people": [
+          "Morgenstern"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On the Accuracy of Economic Measurements"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Morgenstern's On the Accuracy of Economic Measurements documents these problems systematically; most economists are unwilling to discuss the fundamental inaccuracy of their data.",
+          "speaker": null
+        },
+        {
+          "text": "Poverty statistics are self-defeating: as society upgrades the poverty definition, achieving the elimination target becomes permanently impossible.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--095",
+      "text": "Small carefully-taken samples are better than large poorly-done ones\u2014both cheaper and more accurate\u2014a fact known but consistently ignored by management, who prefer 100% surveys; questionnaires are especially unreliable because phrasing, sequence, and who administers them systematically affect answers.",
+      "chapter": "Unreliable Data",
+      "concepts": [
+        "sampling_theory_in_practice",
+        "survey_methodology",
+        "organizational_data_quality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bell Telephone Laboratories",
+          "Western Electric"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Telephone and airline companies eventually accepted that small carefully-selected samples could distribute billing revenue between partners more accurately than large cumbersome full surveys.",
+          "speaker": null
+        },
+        {
+          "text": "Good researchers know that high-ranking visitors change what is happening in their presence, and data gathered while they are present reflects what subordinates think they want to see.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--096",
+      "text": "The first rule of systems engineering is: if you optimize the components, you will probably ruin the system performance\u2014demonstrated by improved amplifiers causing ground-leakage back-circuits in a differential analyzer, and by students cramming for individual courses while undermining their total education.",
+      "chapter": "Systems Engineering",
+      "concepts": [
+        "systems_optimization",
+        "component_vs_system_performance",
+        "suboptimization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "University of Chicago",
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A 4\u00d74 square with amplifier improvements caused system failures by introducing back-circuit leakage through inadequate grounding\u2014adding a heavier copper ground fixed it, but the improvement of an apparently self-standing component still ruined the system.",
+          "speaker": null
+        },
+        {
+          "text": "The University of Chicago's nine-course integrated exam system forced students to learn material for retention rather than for passing one course at a time\u2014the system approach to education.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--097",
+      "text": "Systems engineering design must prepare for graceful change\u2014flexibility built into the initial design handles both later upgrades and the inevitable field changes during installation\u2014because the presence of the solution changes the environment and generates new requirements immediately.",
+      "chapter": "Systems Engineering",
+      "concepts": [
+        "graceful_degradation",
+        "design_for_change",
+        "systems_flexibility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Kwajalein Island",
+          "Venice"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Nike missile system required a constant stream of field changes even during initial installation at Kwajalein Island.",
+          "speaker": null
+        },
+        {
+          "text": "The Venetian arsenal (~1200\u20131400 AD) operated a production line where each ship received ropes, masts, sails, and a trained crew at the right moment as it came down the line\u2014an early 'just in time' system that included human training as a component.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--098",
+      "text": "Systems engineering problems have neither fixed boundaries nor final solutions\u2014each solution round provides deeper understanding of the real problem, and the client's stated symptoms are rarely the true cause; the systems engineer's job is to move from symptoms to causes while keeping the client's long-term interests in view.",
+      "chapter": "Systems Engineering",
+      "concepts": [
+        "problem_formulation",
+        "iterative_systems_design",
+        "client_vs_real_requirements"
+      ],
+      "entities": {
+        "people": [
+          "Westerman"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "One Man's Systems Engineering"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Westerman's ten essays on systems engineering conclude that the job is never done because the solved problem changes the environment, generating new problems, and because the solving process itself deepens insight into what was really needed.",
+          "speaker": null
+        },
+        {
+          "text": "The Nike project evolved from 'shoot down a single airplane' to 'coordinate a battery of missiles' to 'decide which cities to defend in proportion to enemy damage potential'\u2014each solution revealing that the real problem was different from the stated one.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--099",
+      "text": "Rating systems with a high floor (e.g., starting at 95%) structurally select for risk-aversion at all levels, because there is little to gain by risk-taking but much to lose, producing a population of conservative survivors who rise to positions requiring exactly the risk-tolerance that was systematically eliminated.",
+      "chapter": "You Get What You Measure",
+      "concepts": [
+        "rating_system_design",
+        "incentive_structures",
+        "risk_taking_promotion"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Starting at 20% would encourage risk-taking: with so little to lose and so much to gain, people would try bold moves, and the survivors would be genuine risk-takers.",
+          "speaker": null
+        },
+        {
+          "text": "The Richter scale uses log(energy), compressing large earthquakes and expanding small ones\u2014a nonlinear transformation that changes what the distribution of earthquakes 'looks like' and what conclusions are drawn.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--100",
+      "text": "Using the full dynamic range of a rating scale gives you disproportionate influence in blind averaging\u2014and from information theory, the entropy (information transmitted) is maximum when all grades are used equally, meaning typical grade inflation (mainly A and B) destroys most of the information value of grades.",
+      "chapter": "You Get What You Measure",
+      "concepts": [
+        "grading_and_information",
+        "dynamic_range_in_ratings",
+        "grade_inflation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Naval Academy"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If you assign a 6 to what you like while a reviewer who dislikes it assigns 2, the average is 4\u2014your positive evaluation is more than wiped out by the full-dynamic-range negative.",
+          "speaker": null
+        },
+        {
+          "text": "The Naval Academy's use of class rank is the only real defense against grade inflation, though it forces someone to the bottom even in an outstanding class.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--101",
+      "text": "Measuring software productivity by lines of code is a counter-incentive to clean, compact code\u2014programmers maximize lines because that is what is measured\u2014illustrating the general principle that any metric becomes a target once instituted, and people will optimize the metric at the expense of the actual goal.",
+      "chapter": "You Get What You Measure",
+      "concepts": [
+        "goodharts_law",
+        "measurement_and_incentives",
+        "software_metrics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Lines-of-code metrics are one reason why modern software systems are so bloated: there is every incentive to leave excess code in and add bells and whistles.",
+          "speaker": null
+        },
+        {
+          "text": "Many reporting systems have the effect of training people to prepare for periodic inspection rather than for constant readiness\u2014military ship inspections being the paradigmatic example.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--102",
+      "text": "Great people repeatedly produce great work\u2014Shannon, Einstein, Newton\u2014which refutes the pure-luck hypothesis; what distinguishes them is that they prepared themselves through sustained hard work, and Pasteur's 'luck favors the prepared mind' captures both the role of luck and the role of preparation.",
+      "chapter": "You and Your Research",
+      "concepts": [
+        "deliberate_practice",
+        "prepared_mind",
+        "scientific_productivity"
+      ],
+      "entities": {
+        "people": [
+          "Shannon",
+          "Einstein",
+          "Newton",
+          "Edison",
+          "Pasteur"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Einstein asked himself as a 12-year-old what light would look like if he traveled at its speed\u2014an obvious contradiction with Maxwell's equations\u2014and was thereby prepared to understand special relativity better than anyone else when he finally attacked it.",
+          "speaker": null
+        },
+        {
+          "text": "Shannon created both information theory AND coding theory in the same period, and his master's thesis applied Boolean algebra to switching circuits\u2014a pattern of multiple breakthroughs inconsistent with pure luck.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--103",
+      "text": "Working on important problems\u2014not just hard ones\u2014is essential; most scientists spend most of their time on problems they believe are neither important nor likely to lead to important things, and no one has ever explained to Hamming why this is rational.",
+      "chapter": "You and Your Research",
+      "concepts": [
+        "problem_selection",
+        "scientific_impact",
+        "research_strategy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "After asking chemists at lunch what the important problems in chemistry were, then what they were working on, then why they were working on unimportant things, Hamming was no longer welcome at the chemistry table\u2014but one chemist thought about it all summer and was soon promoted.",
+          "speaker": null
+        },
+        {
+          "text": "A problem is important partly because there is a possible attack on it, not just because of its inherent importance\u2014anti-gravity and time travel are important but not currently workable.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--104",
+      "text": "Taking 10% of time (Friday afternoons) to think about the big picture\u2014where computing was heading, what role it would play in science and society\u2014kept Hamming from drifting randomly and allowed him to direct his major efforts toward the right problems rather than merely the current ones.",
+      "chapter": "You and Your Research",
+      "concepts": [
+        "strategic_thinking",
+        "compound_intellectual_growth",
+        "research_management"
+      ],
+      "entities": {
+        "people": [
+          "Tukey"
+        ],
+        "places": [
+          "Bell Telephone Laboratories"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Drive matters: intellectual investment compounds like interest\u2014one extra hour per day over a lifetime far more than doubles total output because each year you know more and can do more.",
+          "speaker": null
+        },
+        {
+          "text": "Great people maintain a list of 10\u201320 fundamental unsolved problems; when a clue appears they drop other things immediately and work on the important problem, which is why they tend to come in first.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--105",
+      "text": "Doing your work 'with style'\u2014presenting results in fundamental form so others can build on them, selling ideas through clear written and oral presentation, and never making yourself indispensable (which prevents promotion)\u2014is as important as doing the work in the first place.",
+      "chapter": "You and Your Research",
+      "concepts": [
+        "scientific_communication",
+        "career_strategy",
+        "intellectual_generosity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When Hamming realized he was demonstrating that digital computers could beat analog computers on their home ground, he rewrote the integration method into a clean publishable form\u2014'Hamming's method'\u2014rather than just submitting results.",
+          "speaker": null
+        },
+        {
+          "text": "Change does not mean progress, but progress requires change\u2014and to sell change you must master formal presentations, written reports, and the art of informal presentations.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--106",
+      "text": "The effort required for excellence is worth it not primarily for the achievement but for who you become in the struggle\u2014and the most important realization is that it is generally easier to succeed than it first appears, since around every person there is a halo of opportunities waiting to be recognized.",
+      "chapter": "You and Your Research",
+      "concepts": [
+        "excellence_and_character",
+        "opportunity_recognition",
+        "life_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Socrates"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The chief gain is in the effort to change yourself, in the struggle with yourself, and it is less in the winning than you might expect.",
+          "speaker": null
+        },
+        {
+          "text": "I have now told you in some detail how to succeed, hence you have no excuse for not doing better than I did.",
+          "speaker": "Hamming"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-001",
+      "title": "Orientation",
+      "summary": "The course is not about technical content but about cultivating a 'style of thinking' suited to a future where knowledge doubles every 17 years, requiring individuals to develop a personal vision, master fundamentals, and commit to doing significant rather than merely competent work. Hamming argues that a career guided by vision travels a distance proportional to n rather than the random-walk distance of \u221an.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--001",
+        "the-art-of-doing-science-and-engineering-learning--002",
+        "the-art-of-doing-science-and-engineering-learning--003",
+        "the-art-of-doing-science-and-engineering-learning--004",
+        "the-art-of-doing-science-and-engineering-learning--005",
+        "the-art-of-doing-science-and-engineering-learning--006"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-002",
+      "title": "Foundations of the Digital (Discrete) Revolution",
+      "summary": "The shift from continuous to discrete signaling was driven by noise immunity, transistor and IC development, and the growing information economy\u2014and the S-curve growth model reveals that single-processor von Neumann computers are approaching saturation, pointing toward parallel processing and the dominance of general-purpose chips over special-purpose ones.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--007",
+        "the-art-of-doing-science-and-engineering-learning--008",
+        "the-art-of-doing-science-and-engineering-learning--009",
+        "the-art-of-doing-science-and-engineering-learning--010",
+        "the-art-of-doing-science-and-engineering-learning--011",
+        "the-art-of-doing-science-and-engineering-learning--012"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-003",
+      "title": "History of Computers\u2014Hardware",
+      "summary": "The history of computing hardware follows an S-curve from mechanical calculators through relay machines to electronic computers, with speed increasing from 1/20 operations per second to 10^9 FLOPS\u2014and the handwriting on the wall for single-processor machines points toward parallel architectures, while the human scale of nanoseconds and picoseconds reveals hard physical limits.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--013",
+        "the-art-of-doing-science-and-engineering-learning--014",
+        "the-art-of-doing-science-and-engineering-learning--015",
+        "the-art-of-doing-science-and-engineering-learning--016"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-004",
+      "title": "History of Computers\u2014Software",
+      "summary": "Software history is the progressive liberation of programmers from machine-level details through assemblers, FORTRAN, monitors, and higher-level languages\u2014each step resisted by professionals who saw the new tools as 'sissy stuff'\u2014and programming remains closer to novel writing than classical engineering because the problem is often only discovered through the act of programming itself.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--017",
+        "the-art-of-doing-science-and-engineering-learning--018",
+        "the-art-of-doing-science-and-engineering-learning--019",
+        "the-art-of-doing-science-and-engineering-learning--020",
+        "the-art-of-doing-science-and-engineering-learning--021"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-005",
+      "title": "History of Computer Applications",
+      "summary": "Computer applications evolved from pure number-crunching through engineering, military, and symbol-manipulation uses, each adding a new S-curve that maintained overall exponential growth\u2014and the key insight driving Hamming's own productivity was recognizing he was in 'the mass production of a variable product,' which led directly to investing in software tools that paid off within a year.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--022",
+        "the-art-of-doing-science-and-engineering-learning--023",
+        "the-art-of-doing-science-and-engineering-learning--024",
+        "the-art-of-doing-science-and-engineering-learning--025"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-006",
+      "title": "Limits of Computer Applications\u2014AI\u2013I",
+      "summary": "Artificial intelligence is not a topic you can afford to ignore or to believe in uncritically\u2014the question 'can machines think?' is so poorly defined that whichever position you adopt there is a compelling counterargument, and your answer will determine whether you lead or lag in the computerization of your field.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--026",
+        "the-art-of-doing-science-and-engineering-learning--027",
+        "the-art-of-doing-science-and-engineering-learning--028",
+        "the-art-of-doing-science-and-engineering-learning--029"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-007",
+      "title": "Limits of Computer Applications\u2014AI\u2013II",
+      "summary": "Computers have demonstrably produced psychological novelty\u2014surprising their own programmers\u2014in domains from music composition to medical diagnosis to robot manufacturing, and the central unresolved question is whether the 'how' of doing something (not just the 'what') determines whether thinking has occurred.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--030",
+        "the-art-of-doing-science-and-engineering-learning--031",
+        "the-art-of-doing-science-and-engineering-learning--032",
+        "the-art-of-doing-science-and-engineering-learning--033"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-008",
+      "title": "Limits of Computer Applications\u2014AI\u2013III",
+      "summary": "The AI debate cannot be resolved by evidence because the key terms\u2014thinking, learning, intelligence\u2014are undefined and perhaps indefinable; what matters for your career is that you examine your own position critically, since false beliefs will exclude you from the computerization of your field, while uncritical belief will lead you into first-class failures.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--034",
+        "the-art-of-doing-science-and-engineering-learning--035",
+        "the-art-of-doing-science-and-engineering-learning--036"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-009",
+      "title": "n\u2013Dimensional Space",
+      "summary": "Intuition built on two and three dimensions is systematically wrong in high-dimensional spaces\u2014almost all volume lies near the surface, diagonal directions are nearly perpendicular to all coordinate axes, and a sphere packed inside a grid of corner-spheres eventually extends outside its containing cube\u2014making a rigorous feel for n-dimensional geometry essential for anyone doing complex design or optimization.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--037",
+        "the-art-of-doing-science-and-engineering-learning--038",
+        "the-art-of-doing-science-and-engineering-learning--039",
+        "the-art-of-doing-science-and-engineering-learning--040"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-010",
+      "title": "Coding Theory\u2014I",
+      "summary": "Shannon's information theory provides a framework for representing information as symbol strings with probabilities, and the Kraft inequality and McMillan's theorem establish that instantaneous unique decodability costs nothing\u2014setting the stage for optimal Huffman encoding and channel coding by showing that code design is equivalent to efficient packing in an abstract space.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--041",
+        "the-art-of-doing-science-and-engineering-learning--042",
+        "the-art-of-doing-science-and-engineering-learning--043"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-011",
+      "title": "Coding Theory\u2014II",
+      "summary": "Huffman coding achieves the minimum average code length for a given probability distribution by iteratively merging the two least-probable symbols, and the payoff is large when symbol probabilities are very unequal; the chapter also introduces weighted parity codes designed for human error patterns\u2014transpositions and doublings\u2014which catch both single-symbol changes and adjacent-symbol interchanges.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--044",
+        "the-art-of-doing-science-and-engineering-learning--045",
+        "the-art-of-doing-science-and-engineering-learning--046"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-012",
+      "title": "Error-Correcting Codes",
+      "summary": "Hamming error-correcting codes arose from emotional frustration with relay computer failures and were discovered by recognizing that parity-check syndromes could directly encode the binary position of an error\u2014and the deeper geometric insight that finding an error-correcting code is equivalent to packing non-overlapping spheres in n-dimensional L1 space shows why the codes work and how powerful 'prepared mind' plus luck can be.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--047",
+        "the-art-of-doing-science-and-engineering-learning--048",
+        "the-art-of-doing-science-and-engineering-learning--049",
+        "the-art-of-doing-science-and-engineering-learning--050"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-013",
+      "title": "Information Theory",
+      "summary": "Shannon's information theory measures surprise with -log2(p) and proves the noiseless coding theorem (entropy is a lower bound on average code length) and the noisy coding theorem (reliable communication at rates up to channel capacity C is possible for large n), but the theory should have been called 'communication theory' because it measures statistical surprise, not human information\u2014and all definitions, including Shannon's, should be inspected for how they distort the concepts they formalize.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--051",
+        "the-art-of-doing-science-and-engineering-learning--052",
+        "the-art-of-doing-science-and-engineering-learning--053"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-014",
+      "title": "Digital Filters\u2014I",
+      "summary": "Digital filters arise necessarily from three convergent reasons\u2014time-invariance, linearity, and Nyquist's sampling theorem all point to complex exponentials as eigenfunctions\u2014and the transfer function is simply the eigenvalue of the filter at each frequency, a unifying insight that most electrical engineers who use the concept have never recognized.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--054",
+        "the-art-of-doing-science-and-engineering-learning--055",
+        "the-art-of-doing-science-and-engineering-learning--056"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-015",
+      "title": "Digital Filters\u2014II",
+      "summary": "The Gibbs phenomenon\u2014an ~9% overshoot at discontinuities that does not diminish with more Fourier terms\u2014is the central obstacle in nonrecursive filter design, and windows (Lanczos sigma factors, von Hann raised cosine, Hamming raised cosine on a platform) reduce but do not eliminate it by trading frequency-domain leakage against overshoot.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--057",
+        "the-art-of-doing-science-and-engineering-learning--058",
+        "the-art-of-doing-science-and-engineering-learning--059"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-016",
+      "title": "Digital Filters\u2014III",
+      "summary": "Kaiser's systematic design method for nonrecursive filters derives both the number of coefficients N and the window shape from user-specified passband ripple \u03b4 and transition width \u0394F, using the I\u2080(x) Bessel function window discovered partly by computer experimentation\u2014illustrating the general design process and the power of using the computer as an experimental tool even in theoretical research.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--060",
+        "the-art-of-doing-science-and-engineering-learning--061",
+        "the-art-of-doing-science-and-engineering-learning--062"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-017",
+      "title": "Digital Filters\u2014IV",
+      "summary": "Recursive (IIR) filters introduce feedback and therefore stability questions, are equivalent to solving difference equations with constant coefficients, and arise naturally in numerical integration of differential equations\u2014where Hamming's experience showed that 'stability' should mean 'not exponential growth' (allowing polynomial growth for integration) rather than the classical analog filter definition of 'bounded output.'",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--063",
+        "the-art-of-doing-science-and-engineering-learning--064",
+        "the-art-of-doing-science-and-engineering-learning--065"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-018",
+      "title": "Simulation\u2014I",
+      "summary": "Simulation answers 'what if?' questions that experiments cannot, and the major lessons from Hamming's early simulations\u2014atomic bomb, Nike missiles, travelling wave tubes\u2014are: (1) start simple to gain insight before elaborating, (2) require domain experts to be deeply involved in every coding detail, and (3) use the simulation actively to discover physics the proposers had not thought about.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--066",
+        "the-art-of-doing-science-and-engineering-learning--067",
+        "the-art-of-doing-science-and-engineering-learning--068"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-019",
+      "title": "Simulation\u2014II",
+      "summary": "The fundamental question for any simulation\u2014'Why should anyone believe it is relevant?'\u2014has no silver bullet answer; reliability requires checking both modeling accuracy and computational accuracy, guarding against the Hawthorne-like tendency to find what you want to find, and recognizing that many simulations are essentially Rorschach tests dressed up as quantitative analysis.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--069",
+        "the-art-of-doing-science-and-engineering-learning--070",
+        "the-art-of-doing-science-and-engineering-learning--071"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-020",
+      "title": "Simulation\u2014III",
+      "summary": "'Garbage in, garbage out' is not always true\u2014feedback in the problem can compensate for inaccurate input data, as in H.S. Black's feedback amplifier insight and the atomic bomb equation-of-state computation\u2014but the corollary that 'good data guarantees good output' is also false when the direction field is divergent, and these insights impact design: good design protects against needing too many highly accurate components.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--072",
+        "the-art-of-doing-science-and-engineering-learning--073",
+        "the-art-of-doing-science-and-engineering-learning--074"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-021",
+      "title": "Fiber Optics",
+      "summary": "Hamming's approach to fiber optics\u2014attending a seminar, identifying the key questions (splicing, bandwidth advantage over copper, duct capacity, signal security, EMI immunity), tracking which of the competing solutions would likely be solved, and staying prepared without becoming an expert\u2014illustrates how a thoughtful generalist can remain useful at the frontier of a new technology without abandoning their primary expertise.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--075",
+        "the-art-of-doing-science-and-engineering-learning--076",
+        "the-art-of-doing-science-and-engineering-learning--077"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-022",
+      "title": "Computer-Aided Instruction (CAI)",
+      "summary": "The long history of failed easy-learning promises\u2014from sleep learning to programmed textbooks to PLATO\u2014should make us deeply skeptical of CAI claims, especially given the Hawthorne effect (any novel method improves results temporarily regardless of merit); computers genuinely help for low-level conditioned-response training but the jury is still out for high-level education, where we do not even know what 'educated' means for 2020.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--078",
+        "the-art-of-doing-science-and-engineering-learning--079",
+        "the-art-of-doing-science-and-engineering-learning--080"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-023",
+      "title": "Mathematics",
+      "summary": "Mathematics has no satisfactory definition\u2014the five major schools (Platonic, formalist, logicist, intuitionist, constructivist) all fail\u2014but its 'unreasonable effectiveness' arises from recognizing analogies between formal structures and pieces of reality, and since no definition perfectly matches intuition, all definitions should be inspected for the distortions they introduce.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--081",
+        "the-art-of-doing-science-and-engineering-learning--082",
+        "the-art-of-doing-science-and-engineering-learning--083"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-024",
+      "title": "Quantum Mechanics",
+      "summary": "Quantum mechanics has been spectacularly successful as a formal mathematical structure despite nobody being able to 'understand' it in the classical sense\u2014the wave-particle duality remains unexplained after 70 years, the Aspect experiments demonstrate non-local effects that violate common intuition, and this pattern of successful-but-incomprehensible formalism is likely to recur as future science probes deeper into nature.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--084",
+        "the-art-of-doing-science-and-engineering-learning--085",
+        "the-art-of-doing-science-and-engineering-learning--086"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-025",
+      "title": "Creativity",
+      "summary": "Creativity follows a recognizable pattern\u2014problem recognition, emotional engagement, gestation, sudden insight from the subconscious\u2014and while it cannot be taught by tricks, it can be cultivated by saturating the subconscious with a problem, building many retrieval 'hooks' through multi-angle examination of new knowledge, and deliberately changing oneself toward more creative habits, starting with small changes and building toward larger ones.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--087",
+        "the-art-of-doing-science-and-engineering-learning--088",
+        "the-art-of-doing-science-and-engineering-learning--089"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-026",
+      "title": "Experts",
+      "summary": "Experts block progress by applying past solutions to new situations without examining whether the underlying assumptions still hold\u2014and most great innovations come from outside fields (carbon dating in archaeology, automatic telephone exchange from an undertaker, continental drift from children's observations)\u2014making both the management of experts and the prevention of becoming a blocking expert central challenges for technical leaders.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--090",
+        "the-art-of-doing-science-and-engineering-learning--091",
+        "the-art-of-doing-science-and-engineering-learning--092"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-027",
+      "title": "Unreliable Data",
+      "summary": "Data is almost universally less accurate than claimed\u2014physical constants exceed their announced error bars by factors of 5 on average, economic data can differ by more than two-to-one between reporters, and laboratory 'fine-tuning for low variance' systematically biases accuracy claims\u2014and the practical response is to pre-test all data for inconsistency before processing it, and to prefer small carefully-taken samples over large poorly-done ones.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--093",
+        "the-art-of-doing-science-and-engineering-learning--094",
+        "the-art-of-doing-science-and-engineering-learning--095"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-028",
+      "title": "Systems Engineering",
+      "summary": "Systems engineering is the disciplined practice of keeping the larger goal in mind at all times\u2014resisting the systematic tendency to optimize components at the expense of system performance\u2014and its central paradox is that there is neither a fixed problem nor a final solution: each solution changes the environment and reveals deeper problems, making evolution rather than completion the natural state.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--096",
+        "the-art-of-doing-science-and-engineering-learning--097",
+        "the-art-of-doing-science-and-engineering-learning--098"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-029",
+      "title": "You Get What You Measure",
+      "summary": "The choice of measurement scale controls what happens in an organization far more than most designers of rating systems realize: high-floor rating scales promote risk-aversion, uniform-distribution grading maximizes information, and optimizing individual-level metrics consistently damages system-level performance\u2014making measurement design one of the highest-leverage and most neglected aspects of organizational management.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--099",
+        "the-art-of-doing-science-and-engineering-learning--100",
+        "the-art-of-doing-science-and-engineering-learning--101"
+      ]
+    },
+    {
+      "id": "the-art-of-doing-science-and-engineering-learning--ch-030",
+      "title": "You and Your Research",
+      "summary": "Doing significant work is primarily a matter of preparation, drive, and vision\u2014not luck or extraordinary IQ\u2014and the key practices are: working on important problems, building courage to pursue them, tolerating ambiguity, maintaining a list of 10\u201320 fundamental unsolved problems, taking time weekly to think about the big picture, and presenting work in ways that let others build on it.",
+      "claim_ids": [
+        "the-art-of-doing-science-and-engineering-learning--102",
+        "the-art-of-doing-science-and-engineering-learning--103",
+        "the-art-of-doing-science-and-engineering-learning--104",
+        "the-art-of-doing-science-and-engineering-learning--105",
+        "the-art-of-doing-science-and-engineering-learning--106"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 106,
+    "chapter_count": 30,
+    "indexed_at": "2026-04-10T18:20:01.711282Z"
+  }
+}

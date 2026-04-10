@@ -1,0 +1,1520 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "How the World Really Works",
+    "author": "Vaclav Smil",
+    "year": 2022,
+    "categories": [
+      "science",
+      "history",
+      "political science"
+    ],
+    "thesis": "Modern civilization rests on a foundation of fossil fuels, material flows, and physical processes that cannot be rapidly replaced, and understanding these realities is essential for making rational decisions about energy, food, environment, and the future."
+  },
+  "claims": [
+    {
+      "id": "how-the-world-really-works-001",
+      "text": "The modern world has achieved unprecedented standards of living for a minority of its population, but roughly 40 percent of humanity (3.1 billion people) still had per capita energy use in 2020 no higher than Germany or France achieved in 1860.",
+      "chapter": "Introduction: Why Do We Need This Book?",
+      "concepts": [
+        "energy_inequality",
+        "development_gap",
+        "urbanization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Germany",
+          "France",
+          "sub-Saharan Africa"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Those 3.1 billion people would need to at least double, and preferably triple, their per capita energy use to approach a dignified standard of living, inevitably stressing the biosphere further.",
+          "speaker": null
+        },
+        {
+          "text": "More than 80 percent of people in all affluent countries live in cities, and their jobs are largely in services, disconnecting them from food production and material manufacturing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-002",
+      "text": "The comprehension deficit about how the world works is driven by urbanization, mechanization, and the cultural valorization of information work over physical production\u2014leaving most people ignorant of how food is grown, steel is made, or energy is produced.",
+      "chapter": "Introduction: Why Do We Need This Book?",
+      "concepts": [
+        "knowledge_specialization",
+        "industrial_disconnection",
+        "dematerialization_myth"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "America",
+          "China"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "America has fewer than 3 million people directly engaged in food production\u2014less than 1 percent of the population\u2014making it unsurprising that most Americans don't know basic facts about farming.",
+          "speaker": null
+        },
+        {
+          "text": "China produces nearly a billion tons of steel annually, yet fewer than 0.25 percent of its 1.4 billion people ever work near a blast furnace.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-003",
+      "text": "Complete decarbonization of the global economy by 2050 is conceivable only at the cost of unthinkable economic retreat or near-miraculous technical advances, because we are a fossil-fueled civilization whose prosperity rests on combustion of enormous quantities of fossil carbon.",
+      "chapter": "Introduction: Why Do We Need This Book?",
+      "concepts": [
+        "decarbonization_challenges",
+        "fossil_fuel_dependence",
+        "techno_optimism_critique"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Annual CO2 emissions from fossil fuel combustion surpassed 37 billion tons in 2019, making rapid substitution physically and economically implausible.",
+          "speaker": null
+        },
+        {
+          "text": "Claims about green solutions from those who prefer 'mantras' to understanding physical realities are 'fantasies fostered by a society where fake news has become common.'",
+          "speaker": "Vaclav Smil"
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-004",
+      "text": "Smil positions this book as an attempt to provide a rational, quantitative, non-ideological foundation for understanding the world\u2014explicitly rejecting both catastrophism and techno-optimism as distorting extremes.",
+      "chapter": "Introduction: Why Do We Need This Book?",
+      "concepts": [
+        "scientific_methodology",
+        "interdisciplinary_inquiry",
+        "rational_risk_assessment"
+      ],
+      "entities": {
+        "people": [
+          "Vaclav Smil"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The author describes himself as 'a scientist trying to explain how the world really works,' with 40+ books on energy, food, materials, and the environment forming the foundation.",
+          "speaker": null
+        },
+        {
+          "text": "The book strongly advocates for numbers and orders of magnitude, with an appendix provided for readers unfamiliar with scientific notation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-005",
+      "text": "The history of human civilization can be read as a sequence of energy transitions\u2014from human muscles to fire, draft animals, waterwheels, and eventually fossil fuels\u2014with each transition enabling new levels of complexity, population, and productivity.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "energy_transitions",
+        "prime_movers",
+        "technological_change"
+      ],
+      "entities": {
+        "people": [
+          "James Watt"
+        ],
+        "places": [
+          "England",
+          "UK"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "As late as 1800, plant fuels supplied more than 98 percent of all heat and light globally, and human and animal muscles provided more than 90 percent of all mechanical energy.",
+          "speaker": null
+        },
+        {
+          "text": "By 1850, the world was 'much more akin to the world of 1700 or even of 1600 than that of the year 2000,' even as coal extraction was beginning to rise.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-006",
+      "text": "The 20th century saw a nearly 40-fold gain in useful energy per capita, meaning an average person today has the equivalent of 60 adults working non-stop on their behalf, while citizens of affluent countries have the equivalent of 200\u2013240.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "energy_per_capita",
+        "economic_growth",
+        "living_standards"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States",
+          "Japan",
+          "China"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Global useful energy rose from 0.05 GJ per capita in 1800 to about 34 GJ per capita by 2020\u2014a nearly 700-fold increase.",
+          "speaker": null
+        },
+        {
+          "text": "China saw a more than 120-fold increase in per capita useful energy between 1950 and 2020, the most dramatic national transformation in history.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-007",
+      "text": "Energy is fundamentally different from all other economic inputs because it is the only truly universal currency\u2014yet mainstream economics has largely ignored it, treating energy as a minor input substitutable by labor and capital.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "energy_economics",
+        "resource_scarcity",
+        "institutional_blindness"
+      ],
+      "entities": {
+        "people": [
+          "Ludwig Boltzmann",
+          "Alfred Lotka",
+          "Howard Odum",
+          "Robert Ayres",
+          "Richard Feynman"
+        ],
+        "places": [],
+        "events": [
+          "1973 OPEC oil embargo"
+        ],
+        "works": [
+          "Lectures on Physics"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Robert Ayres stressed that 'the economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services.'",
+          "speaker": "Robert Ayres"
+        },
+        {
+          "text": "The frequency of the term 'energy price' in print remained negligible until OPEC's 1973 oil price quintupling, then spiked and fell again once prices declined\u2014illustrating how public concern tracks price, not physical reality.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-008",
+      "text": "Liquid hydrocarbons refined from crude oil have energy densities (46 GJ/ton for kerosene) roughly three times that of coal and three orders of magnitude above natural gas by volume, making them essentially irreplaceable for aviation, shipping, and long-distance trucking.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "energy_density",
+        "liquid_fuels",
+        "transportation_energy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Today's best lithium-ion batteries supply less than 300 Wh/kg versus 12,000 Wh/kg for aviation kerosene\u2014a more than 40-fold gap that even tripling battery density by 2050 would not close for intercontinental flight.",
+          "speaker": null
+        },
+        {
+          "text": "Crude oil's advantages extend beyond energy density to ease of extraction, storage, and distribution, as well as indispensable non-fuel uses in lubricants (over 120 megatons annually), asphalt (100 megatons), and petrochemical feedstocks.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-009",
+      "text": "OPEC's 1973 oil price increases\u2014a 4.5-fold rise in a single year\u2014ended the era of cheap-energy-driven growth that had tripled Western European GDP and doubled US GDP between 1950 and 1973, demonstrating how deeply civilization's prosperity depends on affordable fossil energy.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "resource_price_shocks",
+        "economic_dependence",
+        "energy_geopolitics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Saudi Arabia",
+          "Middle East"
+        ],
+        "events": [
+          "1973 OPEC oil embargo",
+          "Iranian Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Between 1973 and 1975 the global economic growth rate dropped by about 90 percent; the second oil price shock (1978\u20131981) caused another 90 percent decline.",
+          "speaker": null
+        },
+        {
+          "text": "By 2019, crude oil's share of global primary energy had fallen from 45 percent in 1970 to 33 percent, but this relative decline accompanied growing absolute consumption, not a reduced role.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-010",
+      "text": "Electricity is civilization's most versatile energy form, but generating it reliably at scale requires enormous infrastructure, and intermittent renewables (solar and wind) cannot yet replace baseload fossil generation without mass-scale long-term storage that does not yet exist.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "grid_reliability",
+        "renewable_intermittency",
+        "electrification"
+      ],
+      "entities": {
+        "people": [
+          "Thomas Edison"
+        ],
+        "places": [
+          "Germany",
+          "Denmark",
+          "United States"
+        ],
+        "events": [
+          "Energiewende"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 2020, two decades after Germany's Energiewende began, fossil fuels still produced nearly 48 percent of the country's electricity, and the country still kept 89 percent of its fossil-fired capacity to meet demand on cloudy, calm days.",
+          "speaker": null
+        },
+        {
+          "text": "Electricity supplies only 18 percent of total final global energy consumption\u2014meaning decarbonization of the remaining 82 percent (industry, transport, households) is far more challenging than electricity generation alone.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-011",
+      "text": "Despite net-zero pledges from over 100 nations, global fossil fuel consumption rose about 45 percent during 2000\u20132020 and its share of primary energy fell only from 87 to 84 percent, because China's economic rise alone more than negated all renewable energy gains worldwide.",
+      "chapter": "Understanding Energy: Fuels and Electricity",
+      "concepts": [
+        "decarbonization_pace",
+        "net_zero_targets",
+        "energy_policy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "Japan",
+          "United States",
+          "European Union"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Annual global demand for fossil carbon now exceeds 10 billion tons\u2014nearly five times the mass of all staple grain harvests feeding humanity\u2014making rapid substitution physically implausible at any realistic pace.",
+          "speaker": null
+        },
+        {
+          "text": "The IEA's most aggressive decarbonization scenario still sees fossil fuels supplying 56 percent of global primary energy demand by 2040, making a near-zero share by 2050 'highly improbable.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-012",
+      "text": "Over two centuries, American wheat production reduced human labor from 150 hours per hectare and 10 minutes per kilogram of grain (1801) to under 2 hours per hectare and less than 2 seconds per kilogram (2021)\u2014a productivity gain enabled entirely by fossil fuel inputs, not by improvements in photosynthesis.",
+      "chapter": "Understanding Food Production: Eating Fossil Fuels",
+      "concepts": [
+        "agricultural_productivity",
+        "mechanization",
+        "labor_displacement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Genesee Valley",
+          "Red River Valley",
+          "Arkansas River Valley",
+          "Great Plains"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 1801, Genesee Valley farmers used oxen and hand tools; in 1901, Red River Valley farmers used horse-drawn steel machinery; by 2021, Arkansas River Valley farms deploy tractors over 400 horsepower with GPS-guided precision application of synthetic fertilizers.",
+          "speaker": null
+        },
+        {
+          "text": "This 98 percent reduction in labor also reduced the agricultural share of the US population from 83 percent in 1800 to under 1 percent by 2020.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-013",
+      "text": "The Haber-Bosch synthesis of ammonia, invented by Fritz Haber in 1908 and commercialized by Carl Bosch at BASF by 1913, is arguably the most consequential technical advance in history because it enables feeding approximately 4 billion of today's 8 billion people.",
+      "chapter": "Understanding Food Production: Eating Fossil Fuels",
+      "concepts": [
+        "nitrogen_fixation",
+        "food_security",
+        "green_revolution"
+      ],
+      "entities": {
+        "people": [
+          "Fritz Haber",
+          "Carl Bosch",
+          "William Crookes"
+        ],
+        "places": [
+          "Oppau",
+          "Leuna",
+          "Germany"
+        ],
+        "events": [
+          "Green Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Synthetic fertilizers now supply about 110 megatons of nitrogen per year\u2014slightly more than all natural sources combined (crop residues, manures, legumes, irrigation, deposition)\u2014meaning at least half of global harvests depend on them.",
+          "speaker": null
+        },
+        {
+          "text": "William Crookes warned in 1898 that 'all civilized nations stand in deadly peril of not having enough to eat' and that nitrogen fixation was 'a question of the not far-distant future.'",
+          "speaker": "William Crookes"
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-014",
+      "text": "Producing a kilogram of sourdough bread requires energy equivalent to at least 250 milliliters of diesel fuel; a kilogram of roasted chicken requires 300\u2013350 mL; and greenhouse tomatoes from Almer\u00eda sold in Stockholm embed over 650 mL per kilogram\u2014demonstrating that even plant foods carry substantial fossil fuel subsidies.",
+      "chapter": "Understanding Food Production: Eating Fossil Fuels",
+      "concepts": [
+        "food_energy_subsidies",
+        "life_cycle_assessment",
+        "food_system_energy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Almer\u00eda",
+          "Spain",
+          "California"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "For a medium 125-gram tomato transported from a heated Spanish greenhouse to Scandinavia, the embedded energy equals 5\u20136 tablespoons of diesel fuel\u2014a vivid demonstration of fossil fuel pedigree in supposedly green foods.",
+          "speaker": null
+        },
+        {
+          "text": "Wild shrimp and lobster require more than 10 liters of diesel equivalent per kilogram of product (including inedible shells), making marine hunting the most energy-intensive form of food provision.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-015",
+      "text": "Returning to fully organic farming without synthetic fertilizers would be impossible for a global population of nearly 8 billion: only a global population of about 3 billion on largely plant-based diets could be sustained, because organic matter is too low in nitrogen density (0.3\u20134%) compared to urea (46%) and the total recyclable nitrogen supply falls far short of crop needs.",
+      "chapter": "Understanding Food Production: Eating Fossil Fuels",
+      "concepts": [
+        "organic_farming_limits",
+        "nitrogen_cycle",
+        "population_carrying_capacity"
+      ],
+      "entities": {
+        "people": [
+          "Howard Odum"
+        ],
+        "places": [
+          "China",
+          "North China Plain"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Manure and other organic wastes would have to be applied at 10\u201340 times the mass of synthetic fertilizer to supply the same nitrogen to crops, with higher losses and vastly greater labor demands.",
+          "speaker": null
+        },
+        {
+          "text": "China's most productive double-cropping requires synthetic nitrogen applications averaging over 400 kg N/ha, supporting diets for 20\u201322 people per hectare\u2014roughly double what traditional intensive organic farming could achieve.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-016",
+      "text": "Between 1900 and 2000, anthropogenic energy subsidies in agriculture increased 90-fold while farmland grew only 40 percent and global population grew 3.7 times\u2014revealing how disproportionately food production has come to depend on external energy inputs.",
+      "chapter": "Understanding Food Production: Eating Fossil Fuels",
+      "concepts": [
+        "food_system_energy",
+        "food_waste",
+        "agricultural_intensification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The entire food system in the US, including processing, marketing, packaging, transportation, and household preparation, accounts for nearly 20 percent of the nation's total energy supply.",
+          "speaker": null
+        },
+        {
+          "text": "Global food losses are indefensibly high\u2014the FAO estimates nearly half of root crops and vegetables are lost, and about a third of total food supply\u2014but even the elimination of waste could not replace synthetic fertilizers.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-017",
+      "text": "Mass veganism as a solution to food system environmental impact fails both evolutionary evidence and practical nutrition: all hominin ancestors were omnivorous, rising childhood heights across Asia confirm animal protein's importance to development, and most people who become vegetarians or vegans do not remain so permanently.",
+      "chapter": "Understanding Food Production: Eating Fossil Fuels",
+      "concepts": [
+        "dietary_evolution",
+        "meat_consumption",
+        "food_sustainability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan",
+          "France",
+          "Brazil",
+          "China"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The best nutritional evidence suggests reducing, not eliminating, meat: Japan (world longevity leader) averages under 30 kg of meat per capita per year, while France sees nearly 40 percent of adults eating under 39 kg\u2014demonstrating that moderate consumption supports excellent health outcomes.",
+          "speaker": null
+        },
+        {
+          "text": "Ruminants (cattle, sheep, goats) uniquely digest cellulosic plant matter indigestible by humans, meaning veganism wastes valuable biomass that could otherwise be converted to food.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-018",
+      "text": "The four pillars\u2014cement (4.5 billion tons/year), steel (1.8 billion tons), plastics (370 million tons), and ammonia (150 million tons)\u2014are produced at scales that dwarf anything electronics or digital services require, and they are not readily substitutable by other materials or processes.",
+      "chapter": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "concepts": [
+        "material_civilization",
+        "industrial_scale",
+        "dematerialization_critique"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Global production of these four materials claims about 17 percent of the world's primary energy supply and 25 percent of all CO2 emissions from fossil fuel combustion.",
+          "speaker": null
+        },
+        {
+          "text": "Silicon wafers\u2014the signature material of the electronic age\u2014require production of only about 10,000 tons per year and are not existentially critical; the four pillars are needed in billions to hundreds of millions of tons.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-019",
+      "text": "Ammonia synthesis via the Haber-Bosch process is the most momentous technical advance in history because without it, approximately 4 billion of today's 8 billion people\u2014nearly half of humanity\u2014would not be alive, since no comparable source of reactive nitrogen could replace synthetic fertilizers.",
+      "chapter": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "concepts": [
+        "nitrogen_fertilizer",
+        "food_security",
+        "industrial_chemistry"
+      ],
+      "entities": {
+        "people": [
+          "Fritz Haber",
+          "Carl Bosch"
+        ],
+        "places": [
+          "Oppau",
+          "Leuna"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In China, about 60 percent of the nitrogen available to crops comes from synthetic ammonia, meaning three out of five Chinese people depend on the Haber-Bosch process for food.",
+          "speaker": null
+        },
+        {
+          "text": "About 80 percent of global ammonia production goes to fertilize crops; the rest goes to nitric acid, explosives, rocket propellants, dyes, fibers, and cleaning products.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-020",
+      "text": "Plastics are irreplaceable in modern health care specifically\u2014present in over a quarter of all health-care products including flexible tubes, catheters, IV containers, blood bags, and sterile packaging\u2014making anti-plastic sentiment disconnected from the reality of how modern medicine sustains life.",
+      "chapter": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "concepts": [
+        "plastics_indispensability",
+        "health_care_materials",
+        "supply_chain_vulnerability"
+      ],
+      "entities": {
+        "people": [
+          "Leo Hendrik Baekeland",
+          "Roy Plunkett"
+        ],
+        "places": [
+          "China"
+        ],
+        "events": [
+          "COVID-19 pandemic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Global plastic production rose from 2 million tons in 1950 to 370 million tons in 2019, with thermoplastics (polyethylene, polypropylene, PVC) dominating, and their low weight combined with high strength makes them essential for aircraft interiors, vehicle components, and industrial piping.",
+          "speaker": null
+        },
+        {
+          "text": "COVID-19 demonstrated plastics' indispensability as Western nations ran out of PPE (disposable gloves, masks, gowns) because production had been concentrated in China\u2014showing how dependence on a single material category creates critical vulnerabilities.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-021",
+      "text": "Steel is the most widely used metal and the structural foundation of virtually every aspect of modern civilization\u2014from skyscrapers and bridges to oil pipelines and wind turbines\u2014and its production still depends primarily on coking coal in blast furnaces, with recycled scrap providing less than 30 percent of global output.",
+      "chapter": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "concepts": [
+        "steel_production",
+        "recycling",
+        "industrial_materials"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "Australia",
+          "Brazil"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Iron ore reserves exceed 800 billion tons (a resource-to-production ratio of over 300 years), and steel is readily recycled in electric arc furnaces\u2014but EAF recycling still requires enormous electricity, equivalent to a US city of 150,000 people per furnace per day.",
+          "speaker": null
+        },
+        {
+          "text": "The average car contains about 900 kilograms of steel; with nearly 100 million motor vehicles produced per year, the automotive sector alone accounts for roughly 90 million tons of steel annually.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-022",
+      "text": "In just two years (2018\u20132019), China produced nearly as much cement as the United States did during the entire 20th century (4.4 vs. 4.56 billion tons), illustrating the extraordinary material demands of rapid modernization and what low-income countries will require to reach comparable infrastructure levels.",
+      "chapter": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "concepts": [
+        "infrastructure_development",
+        "modernization",
+        "construction_materials"
+      ],
+      "entities": {
+        "people": [
+          "Joseph Aspdin",
+          "Ernest Ransome"
+        ],
+        "places": [
+          "China",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Portland cement was patented only in 1824, yet it is now the world's most massively deployed material, with global consumption in one year exceeding the entire first half of the 20th century combined.",
+          "speaker": null
+        },
+        {
+          "text": "The infrastructure report card for the US gives dams, roads, and aviation Ds and an overall average of D+\u2014illustrating the enormous concrete replacement burden affluent nations face even before low-income countries begin their needed build-out.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-023",
+      "text": "The 'green' energy transition will itself require massive additional quantities of the four material pillars, exposing the contradiction in claims about dematerialization: a single large wind turbine requires nearly 200 tons of steel per megawatt of capacity, and a single electric vehicle battery requires processing about 225 tons of raw materials.",
+      "chapter": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "concepts": [
+        "green_energy_paradox",
+        "critical_minerals",
+        "material_demand"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Congo"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Supplying materials for electric vehicles at the scale needed to replace current combustion fleets would require demand growth of 15\u201331 times for lithium, cobalt, and nickel between 2020 and 2050\u2014much of it from Congo's dangerous artisanal mines relying on child labor.",
+          "speaker": null
+        },
+        {
+          "text": "Wind turbine blades are made of energy-intensive and difficult-to-recycle plastic resins, and their construction requires large diesel-powered trucks and steel cranes\u2014meaning 'green' infrastructure is deeply embodied in fossil fuels.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-024",
+      "text": "Globalization is fundamentally the movement of mass and transmission of information enabled by techniques that make such transfers affordable at scale\u2014and while its ancient roots go back millennia, only post-1850 innovations (steam, telegraph, diesel, containers, microchips) allowed it to reach genuinely global extent and intensity.",
+      "chapter": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "concepts": [
+        "trade_history",
+        "transportation_technology",
+        "economic_integration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Amsterdam",
+          "Batavia",
+          "Jakarta"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Dutch ships sailing to Batavia (Jakarta) in the 17th\u201318th centuries averaged only 4.7 km/hour\u2014the equivalent of slow walking\u2014and fewer than 5,000 people a year made the voyage, with 15 percent dying before reaching their destination.",
+          "speaker": null
+        },
+        {
+          "text": "The total volume of global trade quadrupled between 1870 and 1913, and trade's share of world GDP rose from about 5 percent in 1850 to 14 percent in 1913\u2014the first large-scale globalization wave enabled by steam ships and telegraph.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-025",
+      "text": "Container shipping, pioneered by Malcolm McLean in 1957, was the single most transformative logistics innovation of the 20th century, enabling a 12-fold increase in maximum vessel capacity by 2019 and making intermodal transport from Chinese factories to Walmart loading docks seamlessly efficient.",
+      "chapter": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "concepts": [
+        "containerization",
+        "shipping_innovation",
+        "supply_chains"
+      ],
+      "entities": {
+        "people": [
+          "Malcolm McLean"
+        ],
+        "places": [
+          "China",
+          "Hong Kong",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Between 1973 and 2019, global seaborne trade more than tripled in mass while requiring a near quadrupling of merchant fleet capacity; the global container fleet expanded roughly 10-fold in 45 years to 5,152 ships.",
+          "speaker": null
+        },
+        {
+          "text": "The shift of container activity to China was total: in 1975 China had no container traffic, while US and Japanese ports held nearly half of global activity; by 2018, China (including Hong Kong) held 32 percent and the combined US-Japan share was under 10 percent.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-026",
+      "text": "Boeing's 747, introduced commercially in 1970, was the most revolutionary airplane in history because it democratized intercontinental travel\u2014carrying an estimated 5.9 billion passengers over 50 years\u2014and made mass tourism, global immigration, and just-in-time Asian exports to Western markets economically viable.",
+      "chapter": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "concepts": [
+        "aviation_history",
+        "mass_tourism",
+        "global_mobility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New York",
+          "London"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Between 1973 and 2018, global scheduled passenger traffic grew nearly 17-fold to more than 8.3 trillion passenger-kilometers, with nearly two-thirds on international flights.",
+          "speaker": null
+        },
+        {
+          "text": "International tourist arrivals grew from below 200 million in the early 1970s to a record 1.4 billion in 2018, with China surpassing the US in total tourist expenditures by 2012.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-027",
+      "text": "Moore's Law\u2014the doubling of transistors on a microchip roughly every two years\u2014produced a 17.1 billion-fold increase in microprocessor power between 1971 and 2019, enabling the GPS navigation, real-time logistics tracking, global communication, and financial integration that underpin modern globalization.",
+      "chapter": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "concepts": [
+        "semiconductor_technology",
+        "information_technology",
+        "computing_history"
+      ],
+      "entities": {
+        "people": [
+          "Gordon Moore"
+        ],
+        "places": [
+          "Intel"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Intel's 4004 microprocessor in 1971 contained 2,300 transistors; AMD's Epyc CPU in 2019 contained 39.5 billion transistors\u2014seven orders of magnitude more.",
+          "speaker": null
+        },
+        {
+          "text": "The original ENIAC computer (1945) weighed 30 tons and filled 80 cubic meters; a 1996 silicon chip containing an emulated ENIAC was 500 times faster, used 40,000 times less electricity, and was 5 million times lighter.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-028",
+      "text": "The first half of the 20th century demonstrated that globalization is reversible: trade's share of GDP fell from 14 percent in 1913 to just 4 percent in 1945, driven by war, depression, and political upheaval\u2014proving that technical capability alone does not guarantee continued globalization.",
+      "chapter": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "concepts": [
+        "deglobalization",
+        "trade_policy",
+        "geopolitical_risk"
+      ],
+      "entities": {
+        "people": [
+          "Deng Xiaoping",
+          "Richard Nixon"
+        ],
+        "places": [
+          "China",
+          "Russia",
+          "India"
+        ],
+        "events": [
+          "World War I",
+          "World War II",
+          "2008 financial crisis"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "China's reintegration into the global economy after 1978 was globalization's greatest recent driver: the country went from no US trade in 1972 to a $420 billion trade surplus with the US by 2018, becoming the world's largest exporter of goods in 2009.",
+          "speaker": null
+        },
+        {
+          "text": "McKinsey analysis of 23 industry value chains shows goods-producing value chains became significantly less trade-intensive, with exports declining from 28.1 percent of gross output in 2007 to 22.5 percent by 2017\u2014suggesting globalization's peak may have passed.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-029",
+      "text": "COVID-19 made irrefutable the security argument against hyperglobalized single-source supply chains: concentrating 70 percent of global rubber glove production in a single factory, and similar shares of PPE and drug components in China and India, is 'extremely irresponsible\u2014if not criminal\u2014governance' when pandemics strike.",
+      "chapter": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "concepts": [
+        "supply_chain_resilience",
+        "reshoring",
+        "pandemic_economics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "India",
+          "United States"
+        ],
+        "events": [
+          "COVID-19 pandemic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A 2020 survey found 64 percent of American manufacturers said reshoring is likely following the pandemic\u2014a significant shift in sentiment that could mark the beginning of a sustained reversal of manufacturing globalization.",
+          "speaker": null
+        },
+        {
+          "text": "The OECD, UNCTAD, and Brookings Institution all published 2020 analyses calling for reorganizing global supply chains to shorten them, reduce dependence on single distant suppliers, and improve resilience.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-030",
+      "text": "The populations with the world's highest longevity\u2014Japanese (84.6 years combined) and Spanish (83+ years)\u2014demonstrate that moderate diets containing animal products, not veganism or extreme carnivory, optimize healthy lifespan, with the key differentiators being lower fat and lower sugar intake rather than absence of meat.",
+      "chapter": "Understanding Risks: From Viruses to Diets to Solar Flares",
+      "concepts": [
+        "dietary_longevity",
+        "nutritional_epidemiology",
+        "comparative_health"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan",
+          "Spain",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "American adults consume about 8 kg more fat and 16 kg more sugar per year than Japanese adults\u2014the principal dietary gap between the longevity leader and the US.",
+          "speaker": null
+        },
+        {
+          "text": "Spain became Europe's leading carnivorous nation (over 100 kg meat per capita/year carcass weight) after joining the EU in 1986, yet still added 13 years to national longevity between 1960 and 2020, showing diet is only one among many interacting factors.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-031",
+      "text": "A uniform metric of fatalities per person per hour of exposure reveals that driving (5 \u00d7 10\u207b\u2077) is roughly 20 times more dangerous than commercial flying (2.8 \u00d7 10\u207b\u2078), base jumping (4 \u00d7 10\u207b\u00b2) is about 80,000 times more dangerous than driving, and terrorism in Western cities carries risks too small to meaningfully internalize.",
+      "chapter": "Understanding Risks: From Viruses to Diets to Solar Flares",
+      "concepts": [
+        "risk_quantification",
+        "comparative_risk",
+        "voluntary_vs_involuntary_risk"
+      ],
+      "entities": {
+        "people": [
+          "Chauncey Starr"
+        ],
+        "places": [
+          "United States",
+          "Norway"
+        ],
+        "events": [
+          "September 11 attacks"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Between 1995 and 2017, 3,516 people died in terrorist attacks on US soil, 85 percent of them on September 11, 2001\u2014producing a countrywide exposure risk of 6 \u00d7 10\u207b\u00b9\u00b9, far lower than the risk of simply being alive.",
+          "speaker": null
+        },
+        {
+          "text": "The risk of dying in a US tornado across the 21 highest-frequency states averages about 3 \u00d7 10\u207b\u2079\u2014three orders of magnitude lower than overall mortality\u2014explaining why people rationally rebuild in Tornado Alley.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-032",
+      "text": "Viral pandemics are guaranteed to recur with relatively high frequency\u2014three occurred within living memory (1957\u20131959, 1968\u20131970, 2009)\u2014yet we remain chronically unprepared because the World Economic Forum's annual global risk rankings placed pandemic threat outside the top three risks every year from 2007 to 2015.",
+      "chapter": "Understanding Risks: From Viruses to Diets to Solar Flares",
+      "concepts": [
+        "pandemic_preparedness",
+        "risk_amnesia",
+        "infectious_disease"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United States"
+        ],
+        "events": [
+          "COVID-19 pandemic",
+          "1957 influenza pandemic",
+          "1968 influenza pandemic",
+          "2009 H1N1 pandemic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The 1957\u20131959 pandemic killed approximately 1.1 million people (mortality rate 38/100,000); the 1968\u20131970 pandemic killed about 1 million (28/100,000); but neither episode prompted the lockdowns or institutional reforms that COVID-19 triggered.",
+          "speaker": null
+        },
+        {
+          "text": "COVID-19 mortality was heavily concentrated in those 65+, which accounted for 81 percent of US deaths at the pandemic's peak\u2014an outcome directly linked to our success in extending life expectancy, creating a larger vulnerable population.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-033",
+      "text": "A Carrington-scale coronal mass ejection\u2014the largest known occurred in 1859 and a 2012 one narrowly missed Earth\u2014would sever global electricity grids, communications, GPS, banking, and transportation simultaneously, with restoration potentially taking years and economic damage estimated at $2\u201320 trillion.",
+      "chapter": "Understanding Risks: From Viruses to Diets to Solar Flares",
+      "concepts": [
+        "natural_catastrophe",
+        "infrastructure_vulnerability",
+        "black_swan_events"
+      ],
+      "entities": {
+        "people": [
+          "Richard Carrington"
+        ],
+        "places": [
+          "Quebec",
+          "Earth"
+        ],
+        "events": [
+          "Carrington Event 1859"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A much smaller 1989 geomagnetic storm knocked out Quebec's entire power grid serving 6 million people for nine hours\u2014a preview of what a Carrington Event would do to a far more interconnected modern grid.",
+          "speaker": null
+        },
+        {
+          "text": "A 2020 Carnegie Mellon study estimated decadal probability of a Carrington-scale event at 0.02\u20131.6 percent, while a 2019 Barcelona study put it at 0.46\u20131.88 percent\u2014low but non-negligible odds for a civilization-disrupting event.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-034",
+      "text": "Fear-driven responses to terrorism have led to multitrillion-dollar wars in Afghanistan and Iraq, while fundamentally unaddressed gun violence kills roughly 125,000 Americans per decade\u2014nearly three orders of magnitude more than the 170 killed in US terrorist attacks in the same period.",
+      "chapter": "Understanding Risks: From Viruses to Diets to Solar Flares",
+      "concepts": [
+        "risk_misperception",
+        "policy_irrationality",
+        "gun_violence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Afghanistan",
+          "Iraq",
+          "United States",
+          "Newtown",
+          "Connecticut"
+        ],
+        "events": [
+          "September 11 attacks"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Gun violence kills African American males at roughly 30 times the rate it kills Asian American females\u2014a disparity that far exceeds any terrorism-related differential and receives far less policy attention.",
+          "speaker": null
+        },
+        {
+          "text": "Societies tolerate 1.2 million annual road deaths globally\u2014something they would never accept if delivered as recurring industrial accidents\u2014because driving feels familiar, voluntary, and controllable.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-035",
+      "text": "Atmospheric oxygen is in no danger from fossil fuel combustion or deforestation: burning all of Earth's terrestrial plant mass at once would consume only 0.1 percent of atmospheric oxygen, and even burning all known fossil fuel reserves would reduce oxygen concentration by a mere 0.25 percent.",
+      "chapter": "Understanding the Environment: The Only Biosphere We Have",
+      "concepts": [
+        "atmospheric_chemistry",
+        "misinformation",
+        "oxygen_cycle"
+      ],
+      "entities": {
+        "people": [
+          "Emmanuel Macron"
+        ],
+        "places": [
+          "Amazon",
+          "Salt Lake City"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Emmanuel Macron's 2019 tweet claiming the Amazon produces '20 percent of our planet's oxygen' was scientifically illiterate\u2014forest trees consume virtually all the oxygen they produce during nocturnal respiration, leaving a near-zero net contribution.",
+          "speaker": null
+        },
+        {
+          "text": "Direct measurements show atmospheric O2 declining by about 4 ppm annually\u20140.002 percent of existing concentration\u2014meaning oxygen levels would take 1,500 years to fall by 3 percent, equivalent to moving from sea level to Salt Lake City's altitude.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-036",
+      "text": "The science of CO2-driven global warming was understood in principle by the 1860s and quantified accurately by 1908\u2014well before any computers or climate models\u2014making the late-1980s 'discovery' by media and politicians a case of ignoring over a century of clear scientific warnings.",
+      "chapter": "Understanding the Environment: The Only Biosphere We Have",
+      "concepts": [
+        "climate_science_history",
+        "greenhouse_effect",
+        "scientific_communication"
+      ],
+      "entities": {
+        "people": [
+          "Eunice Foote",
+          "John Tyndall",
+          "Svante Arrhenius",
+          "Joseph Fourier",
+          "Roger Revelle",
+          "Hans Suess"
+        ],
+        "places": [
+          "Mauna Loa",
+          "Hawaii"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 1908 Arrhenius estimated climate sensitivity at 4\u00b0C per CO2 doubling; more than a century later the IPCC's 2013 fifth assessment report put the likely range at 1.5\u00b0C\u20134.5\u00b0C\u2014the same as the 1979 National Research Council report.",
+          "speaker": null
+        },
+        {
+          "text": "Roger Revelle and Hans Suess warned in 1957 that fossil fuel combustion amounts to 'a large scale geophysical experiment of a kind that could not have happened in the past nor be reproduced in the future'\u2014a statement that remains the best description of our predicament.",
+          "speaker": "Roger Revelle and Hans Suess"
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-037",
+      "text": "Between 1989 and 2019 global greenhouse gas emissions increased by about 65 percent despite three decades of international climate conferences and thousands of studies, because China's emissions rose 4.5 times and India's quadrupled while affluent countries reduced theirs by only about 4 percent combined.",
+      "chapter": "Understanding the Environment: The Only Biosphere We Have",
+      "concepts": [
+        "climate_policy_failure",
+        "emissions_growth",
+        "behavioral_contradictions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "India",
+          "Paris"
+        ],
+        "events": [
+          "Paris Climate Accord 2015",
+          "UN Framework Convention on Climate Change 1992"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Paris Accord (2015) had no specific binding emission-reduction targets for major emitters, and its non-binding pledges would result in 50 percent higher emissions by 2050 even if honored\u2014a fact that received little media attention.",
+          "speaker": null
+        },
+        {
+          "text": "SUVs became the second-highest cause of rising CO2 emissions during the 2010s: with 250 million on the road in 2020, each emitting 25 percent more CO2 than standard cars, their cumulative impact wiped out decarbonization gains from the roughly 10 million electric vehicles then in existence.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-038",
+      "text": "Rapid-decarbonization scenarios that promise zero-carbon by 2030\u20132050 are 'essentially the academic equivalents of science fiction' because they require arbitrary assumptions about demand reduction or non-existent technologies, and they ignore the fact that Germany's unprecedented two-decade push only reduced fossil fuel's share of primary energy from 84 to 78 percent.",
+      "chapter": "Understanding the Environment: The Only Biosphere We Have",
+      "concepts": [
+        "scenario_analysis",
+        "decarbonization_scenarios",
+        "technical_feasibility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Germany",
+          "United States",
+          "Princeton University"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A Princeton scenario for US net-zero by 2050 requires building 110,000 km of new CO2 pipelines and creating a carbon capture industry that would annually handle 1.3\u20132.4 times the volume of current US crude oil production\u2014a system that took 160 years and trillions of dollars to build for oil.",
+          "speaker": null
+        },
+        {
+          "text": "A scenario promising 80 percent renewable energy for 143 countries by 2030 while reducing overall energy demand by 57 percent gives 'no explanation for how the four material pillars of modern civilization will be produced solely with renewable electricity.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-039",
+      "text": "Food production in a warmer world is threatened less by absolute scarcity than by redistribution of precipitation and increased evapotranspiration\u2014but rising CO2 concentrations will improve water-use efficiency in wheat and rice, potentially allowing similar yields with 10\u201320 percent less rainfall in some regions.",
+      "chapter": "Understanding the Environment: The Only Biosphere We Have",
+      "concepts": [
+        "climate_agriculture_impacts",
+        "water_scarcity",
+        "crop_adaptation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "Yangtze River",
+          "Huang He"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A warmer atmosphere will intensify the water cycle with more total precipitation globally, but distribution will be uneven\u2014some river basins like Turkey's Tigris-Euphrates and China's Huang He face further deterioration.",
+          "speaker": null
+        },
+        {
+          "text": "A demonstration project covering nearly 21 million Chinese farmers from 2005\u20132015 showed staple grain yields could rise 11 percent while reducing nitrogen application by 15\u201318 percent\u2014evidence that smart intensification can reduce environmental impact.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-040",
+      "text": "The most effective near-term climate actions\u2014mandatory triple-pane windows, high-efficiency furnaces, building codes for cold climates, and moderating SUV adoption\u2014are conspicuously absent from mainstream 'green revolution' narratives that focus instead on still-unavailable mass storage or speculative carbon capture.",
+      "chapter": "Understanding the Environment: The Only Biosphere We Have",
+      "concepts": [
+        "energy_efficiency",
+        "climate_policy",
+        "low_cost_interventions"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Canada",
+          "Manitoba",
+          "Europe"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Manitoba was the first Canadian province to require high-efficiency (>90%) natural gas furnaces, doing so only in 2009\u2014decades after such options became commercially available\u2014illustrating indefensible inaction in the face of well-understood, affordable solutions.",
+          "speaker": null
+        },
+        {
+          "text": "In 1991 a well-known environmental activist wrote about 'abating global warming for fun and profit'; three decades later, with emissions 65 percent higher, the same magical-solutions optimism persists in new forms.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-041",
+      "text": "Long-range quantitative forecasts have an overwhelmingly poor track record\u2014from predictions of infinite population growth by November 2026 (published by Science in 1960) to peak oil catastrophism and promises of nuclear-powered flight\u2014because complex systems are shaped by unpredictable discontinuities that no model can incorporate.",
+      "chapter": "Understanding the Future: Between Apocalypse and Singularity",
+      "concepts": [
+        "forecasting_failure",
+        "techno_optimism",
+        "catastrophism"
+      ],
+      "entities": {
+        "people": [
+          "Ray Kurzweil"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Science"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Global population growth peaked at about 2.1 percent per year in the late 1960s and fell to 1.08 percent by 2019; at the same time, crude oil extraction rose by two-thirds between 1995 and 2019, disproving peak oil predictions.",
+          "speaker": null
+        },
+        {
+          "text": "Near-term forecasts for worldwide electric vehicle adoption illustrate systematic overestimation: 2014\u20132016 projections put EV share at 8\u201311 percent by 2020, while the actual share was only 2.5 percent.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-042",
+      "text": "The inertia of mass-scale material and energy systems means the fundamentals of civilization\u2014grain cultivation by tractors, steel-and-concrete construction, liquid fuel transportation, synthetic nitrogen fertilizers\u2014will not be transformed within a generation regardless of digital innovation, because the physical scale involved dwarfs the speed of any technical transition.",
+      "chapter": "Understanding the Future: Between Apocalypse and Singularity",
+      "concepts": [
+        "system_inertia",
+        "energy_transition_pace",
+        "technological_determinism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "New renewables (wind, solar, new biofuels) grew roughly 50-fold during the first two decades of the 21st century, yet the world's dependence on fossil carbon declined only from 87 to 85 percent\u2014demonstrating that relative growth rates do not translate to rapid absolute displacement at civilization scale.",
+          "speaker": null
+        },
+        {
+          "text": "The category mistake behind 'everything will change faster' thinking is confusing devices (landlines to mobiles) with the underlying systems (electricity generation, transmission grids) that make those devices possible\u2014the latter cannot be transformed at the same speed.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-043",
+      "text": "COVID-19 exposed the fundamental emptiness of claims about AI and digital technology transforming civilization: none of those capabilities prevented or controlled the pandemic, and the richest countries with the most touted health systems recorded the world's highest mortalities while reverting to medieval quarantine (40-day isolation) as their primary tool.",
+      "chapter": "Understanding the Future: Between Apocalypse and Singularity",
+      "concepts": [
+        "pandemic_response",
+        "governance_failure",
+        "technology_limits"
+      ],
+      "entities": {
+        "people": [
+          "Yuval Noah Harari"
+        ],
+        "places": [
+          "United States",
+          "China",
+          "Europe"
+        ],
+        "events": [
+          "COVID-19 pandemic"
+        ],
+        "works": [
+          "Homo Deus"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In March 2021, all top 10 countries by cumulative COVID-19 mortality (above 1,500 per million) were in Europe; the US rate was two orders of magnitude above China's 3 deaths per million\u2014an outcome no climate or pandemic model could have predicted.",
+          "speaker": null
+        },
+        {
+          "text": "The US spent over $500 billion annually on its military yet could not provide nurses and doctors with enough gloves and masks, having offshored nearly all PPE production to China in pursuit of lowest-unit-cost manufacturing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-044",
+      "text": "Effective global climate action faces the unprecedented challenge of requiring a truly global binding agreement among the top five emitters (responsible for 80 percent of emissions), sustained over two generations, with no discernible economic benefits for the generation that initiates the effort\u2014because break-even from mitigation launched in the 2020s would not arrive until around 2080.",
+      "chapter": "Understanding the Future: Between Apocalypse and Singularity",
+      "concepts": [
+        "intergenerational_justice",
+        "climate_commitment",
+        "discount_rate"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "Paris Climate Accord 2015"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Committed global warming from past emissions already exceeds 1.3\u00b0C, and a comprehensive 2020 analysis concluded current commitments have already locked in 2.3\u00b0C of warming\u2014meaning the 1.5\u00b0C target is likely already beyond reach.",
+          "speaker": null
+        },
+        {
+          "text": "Universal human propensity to discount the future means people will not willingly sustain costly decarbonization for half a century to benefit a generation not yet born, especially while low-income countries legitimately need to grow their energy use.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-045",
+      "text": "The most important lesson from both failed forecasts and real achievements is that the future is neither predetermined nor apocalyptic: it will emerge from a mixture of admirable advances and unavoidable setbacks, and while major challenges including climate change cannot be solved by magic, they can be substantially reduced by persistent, realistic, and non-glamorous interventions.",
+      "chapter": "Understanding the Future: Between Apocalypse and Singularity",
+      "concepts": [
+        "future_uncertainty",
+        "historical_contingency",
+        "rational_optimism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan",
+          "China",
+          "USSR"
+        ],
+        "events": [
+          "World War II"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 1945 no one could have predicted Japan's reconstruction, China's rise from grinding poverty to the world's largest economy by purchasing power, or the USSR's collapse\u2014demonstrating that national trajectories are fundamentally unpredictable beyond a decade or two.",
+          "speaker": null
+        },
+        {
+          "text": "Extreme population forecasts for 2100 differ by 10 billion people (from 4.8 to 15 billion), and being two billion apart in medium variants illustrates how even basic forecasts veer sharply apart after just a single generation.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "how-the-world-really-works-ch-001",
+      "title": "Introduction: Why Do We Need This Book?",
+      "summary": "Most people in modern societies profoundly misunderstand how the world works because urbanization, mechanization, and the allure of digital information have disconnected them from the physical realities of energy, food, and materials that sustain civilization. Smil argues that closing this 'comprehension deficit' is a prerequisite for rational public decision-making about existential challenges like decarbonization.",
+      "claim_ids": [
+        "how-the-world-really-works-001",
+        "how-the-world-really-works-002",
+        "how-the-world-really-works-003",
+        "how-the-world-really-works-004"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-002",
+      "title": "Understanding Energy: Fuels and Electricity",
+      "summary": "Modern civilization was built on a 1,500-fold increase in fossil fuel use since 1800, and despite rapid growth in renewables, the scale and embedded infrastructure of fossil fuel dependence makes rapid decarbonization physically and economically impossible within a few decades. The chapter traces energy history from photosynthesis through coal and oil to electricity, showing why each transition took generations and why the next one will too.",
+      "claim_ids": [
+        "how-the-world-really-works-005",
+        "how-the-world-really-works-006",
+        "how-the-world-really-works-007",
+        "how-the-world-really-works-008",
+        "how-the-world-really-works-009",
+        "how-the-world-really-works-010",
+        "how-the-world-really-works-011"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-003",
+      "title": "Understanding Food Production: Eating Fossil Fuels",
+      "summary": "Modern food production is a fossil-fuel-dependent hybrid system in which solar photosynthesis is amplified by massive anthropogenic energy subsidies\u2014especially synthetic nitrogen fertilizers derived from natural gas\u2014without which roughly half of today's 8 billion people could not be fed. The chapter demonstrates through detailed energy accounting of wheat, chicken, and tomatoes that feeding the world cannot be decarbonized rapidly, and that full return to organic farming would require abandoning cities and could support fewer than half the current global population.",
+      "claim_ids": [
+        "how-the-world-really-works-012",
+        "how-the-world-really-works-013",
+        "how-the-world-really-works-014",
+        "how-the-world-really-works-015",
+        "how-the-world-really-works-016",
+        "how-the-world-really-works-017"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-004",
+      "title": "Understanding Our Material World: The Four Pillars of Modern Civilization",
+      "summary": "Four materials\u2014ammonia, steel, concrete, and plastics\u2014form the indispensable physical foundation of modern civilization, and all four depend heavily on fossil fuels for both energy and feedstocks; no commercially available alternatives exist at the required scale, making claims of imminent 'dematerialization' or rapid decarbonization of industry demonstrably false. The chapter shows that green energy transitions themselves will require vast additional quantities of these same materials.",
+      "claim_ids": [
+        "how-the-world-really-works-018",
+        "how-the-world-really-works-019",
+        "how-the-world-really-works-020",
+        "how-the-world-really-works-021",
+        "how-the-world-really-works-022",
+        "how-the-world-really-works-023"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-005",
+      "title": "Understanding Globalization: Engines, Microchips, and Beyond",
+      "summary": "Globalization is not new, not inevitable, and not driven solely by cheap labor\u2014it has been enabled by successive waves of technical innovation in transportation and communication, from sailing ships through steam and diesel to container ships, jetliners, and microprocessors, but it has also repeatedly retreated when political conditions changed. The chapter argues that the post-1990 peak of globalization may now be reversing, and that COVID-19 accelerated justified concerns about fragile single-source supply chains.",
+      "claim_ids": [
+        "how-the-world-really-works-024",
+        "how-the-world-really-works-025",
+        "how-the-world-really-works-026",
+        "how-the-world-really-works-027",
+        "how-the-world-really-works-028",
+        "how-the-world-really-works-029"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-006",
+      "title": "Understanding Risks: From Viruses to Diets to Solar Flares",
+      "summary": "Humans systematically misperceive risk, overestimating involuntary and unfamiliar dangers while underestimating familiar voluntary ones, and a quantitative framework measuring fatalities per person per hour of exposure reveals that terrorism, tornadoes, and earthquakes are far less deadly than driving or simply being alive, while pandemic viruses\u2014guaranteed to recur\u2014receive less preparation than their actual frequency warrants. The chapter uses comparative risk metrics to cut through media distortion and dietary myth.",
+      "claim_ids": [
+        "how-the-world-really-works-030",
+        "how-the-world-really-works-031",
+        "how-the-world-really-works-032",
+        "how-the-world-really-works-033",
+        "how-the-world-really-works-034"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-007",
+      "title": "Understanding the Environment: The Only Biosphere We Have",
+      "summary": "The fundamental physics of global warming has been understood since the 19th century, yet three decades of international climate conferences have produced a 65 percent increase in global greenhouse gas emissions\u2014because the scale, cost, and inertia of fossil-fuel-dependent civilization make rapid decarbonization physically impossible, and because the most consequential driver of rising emissions (China's economic rise) was unpredictable by any model. The chapter argues for realistic, non-magical improvements while rejecting both apocalypticism and techno-optimist scenarios.",
+      "claim_ids": [
+        "how-the-world-really-works-035",
+        "how-the-world-really-works-036",
+        "how-the-world-really-works-037",
+        "how-the-world-really-works-038",
+        "how-the-world-really-works-039",
+        "how-the-world-really-works-040"
+      ]
+    },
+    {
+      "id": "how-the-world-really-works-ch-008",
+      "title": "Understanding the Future: Between Apocalypse and Singularity",
+      "summary": "Both catastrophist and techno-optimist forecasts have consistently failed because they underestimate the inertia of large complex systems, project past trajectories incorrectly, and cannot anticipate political discontinuities\u2014meaning the future will be neither apocalyptic nor singularly transformative, but a mixture of progress and setbacks shaped by choices that remain unmade. Smil argues that humility, not prophecy, is the appropriate stance toward a future where global challenges require unprecedented commitments whose benefits will arrive only after decades of costly action.",
+      "claim_ids": [
+        "how-the-world-really-works-041",
+        "how-the-world-really-works-042",
+        "how-the-world-really-works-043",
+        "how-the-world-really-works-044",
+        "how-the-world-really-works-045"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 45,
+    "chapter_count": 8,
+    "indexed_at": "2026-04-10T18:20:00.488309Z"
+  }
+}

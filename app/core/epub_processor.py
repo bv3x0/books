@@ -25,6 +25,7 @@ SKIP_IDS = {'nav', 'cover', 'toc', 'ncx'}
 SKIP_SECTIONS = {
     # Front matter
     'preface', 'foreword', 'acknowledgment', 'acknowledgement', 'dedication',
+    'copyright',
     'about the author', 'note to the reader', 'translator\'s note',
     'editor\'s note', 'introduction to the', 'a note on',
     # Back matter
@@ -359,20 +360,31 @@ def _is_skippable_section(text: str, filename: str = '') -> Optional[str]:
         if skip_term in filename_lower:
             return skip_term
     
-    # Extract the first heading to check section type
-    # Look for # Heading or ## Heading at the start
+    def _starts_with_skip_term(candidate: str, skip_term: str) -> bool:
+        normalized_candidate = _normalize_for_matching(candidate).lower()
+        normalized_skip_term = _normalize_for_matching(skip_term).lower()
+        return (
+            normalized_candidate == normalized_skip_term
+            or normalized_candidate.startswith(f"{normalized_skip_term} ")
+        )
+
+    # Extract the first heading to check section type.
+    # Only match skip terms at the start so body prose like
+    # "my introduction to the ..." does not hide a real chapter.
     heading_match = re.search(r'^#+\s*(.+?)(?:\n|$)', text, re.MULTILINE)
     if heading_match:
         first_heading = heading_match.group(1).lower().strip()
         
         for skip_term in skip_terms:
-            if skip_term in first_heading:
+            if _starts_with_skip_term(first_heading, skip_term):
                 return skip_term
     
-    # Also check first 200 chars for section indicators
+    # Also check the start of the body for section indicators.
+    # Keep this anchored to the beginning to avoid false positives from
+    # ordinary prose mentioning phrases like "introduction to the".
     first_chunk = text_lower[:200]
     for skip_term in skip_terms:
-        if skip_term in first_chunk:
+        if _starts_with_skip_term(first_chunk, skip_term):
             return skip_term
     
     return None
@@ -900,14 +912,14 @@ def _normalize_for_matching(text: str) -> str:
     # Remove markdown bold/italic markers (from <i>, <b>, <em>, <strong> in EPUB headings)
     text = text.replace('*', '').replace('_', '')
 
-    # Normalize hyphens, dashes, and slashes
+    # Normalize hyphens and dashes before punctuation folding.
     text = text.replace('\\-', '-').replace('\\', '')
     text = text.replace('\u2013', '-')  # En-dash –
     text = text.replace('\u2014', '-')  # Em-dash —
 
-    # Normalize spacing around colons: "Title :" or "Title  :" → "Title:"
-    # This handles cases where EPUB has "Ghost Magic 1 :" but TOC has "Ghost Magic 1:"
-    text = re.sub(r'\s+:', ':', text)
+    # Fold punctuation differences into spaces so manual TOCs can match
+    # headings that drop separators such as ":" and "—".
+    text = re.sub(r'[^\w\s]', ' ', text)
 
     # Collapse internal whitespace runs for robust matching.
     text = re.sub(r'\s+', ' ', text).strip()

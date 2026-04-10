@@ -1,0 +1,1367 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Healing Back Pain: The Mind-Body Connection",
+    "author": "John E. Sarno, M.D.",
+    "year": 1991,
+    "categories": [
+      "health & fitness",
+      "medical",
+      "psychology"
+    ],
+    "thesis": "The vast majority of common neck, shoulder, and back pain syndromes are caused by Tension Myositis Syndrome (TMS), a psychophysiological process in which repressed emotions\u2014primarily anxiety and anger\u2014trigger the autonomic nervous system to reduce blood flow to muscles, nerves, and tendons; the only effective treatment is education that allows patients to recognize and dismiss the pain's psychological function as a distraction from those emotions."
+  },
+  "claims": [
+    {
+      "id": "healing-back-pain-the-mind-body-connection-001",
+      "text": "The back pain epidemic of the past thirty years\u2014affecting roughly 80 percent of the population and costing $56 billion annually\u2014is a consequence of diagnostic failure, not a sudden structural deterioration of the human spine; medicine's bias toward structural explanations prevents recognition of the real cause.",
+      "chapter": "Introduction",
+      "concepts": [
+        "medical_bias",
+        "epidemic_causation",
+        "diagnostic_failure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "Forbes magazine, August 1986",
+          "Mind Over Back Pain"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Back pain ranks as the first cause of worker absenteeism and second only to respiratory infections as a reason for doctor visits, yet the condition was far less prevalent before the mid-twentieth century.",
+          "speaker": null
+        },
+        {
+          "text": "The pertinent bias is that common pain syndromes must result from structural abnormalities of the spine or chemically or mechanically induced muscle deficiencies, reinforced by a second bias that emotions do not induce physiologic change.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-002",
+      "text": "TMS is a new diagnosis, not a new treatment approach; just as medicine required a new framework (bacteriology) to treat infections, addressing emotionally caused pain requires a treatment matched to its true cause\u2014education\u2014rather than physical intervention.",
+      "chapter": "Introduction",
+      "concepts": [
+        "psychophysiology",
+        "treatment_rationale",
+        "mind_body_medicine"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Howard A. Rusk Institute of Rehabilitation Medicine",
+          "New York University Medical Center"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sarno's seventeen-year clinical experience at the Howard A. Rusk Institute of Rehabilitation Medicine at New York University Medical Center, beginning in 1965, revealed that 88 percent of back pain patients had co-occurring tension-related disorders such as ulcers, colitis, hay fever, and migraine.",
+          "speaker": null
+        },
+        {
+          "text": "Physical treatments such as ultrasound, massage, and injection were prescribed without a clear rationale for how they worked, and outcomes were unpredictable.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-003",
+      "text": "Though TMS is induced by emotional phenomena, it is a physical disorder that must be diagnosed by a physician; labeling the pain as purely psychological or 'all in the head' is both inaccurate and harmful to patients.",
+      "chapter": "Introduction",
+      "concepts": [
+        "psychophysiology",
+        "clinical_diagnosis",
+        "patient_education"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "Mind Over Back Pain"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Psychologists may suspect emotional origins but cannot confirm TMS because they lack training in physical diagnosis; very few physicians are trained to recognize a disorder with psychological roots, leaving patients undiagnosed.",
+          "speaker": null
+        },
+        {
+          "text": "Many readers of the predecessor book Mind Over Back Pain reported complete resolution of symptoms, substantiating that knowledge of the disorder is itself the critical therapeutic factor.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-004",
+      "text": "TMS affects only postural muscles\u2014those of the neck, entire back, and buttocks\u2014because these are the muscles responsible for maintaining upright posture, with the gluteal (buttock) and lumbar muscles being the most common sites, followed by the upper trapezius of the neck and shoulders.",
+      "chapter": "The Manifestations of TMS",
+      "concepts": [
+        "musculoskeletal_pain",
+        "nerve_involvement",
+        "referred_pain"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "On physical examination, virtually every TMS patient shows tenderness on pressure at three consistent bilateral locations: the outer buttocks, the lumbar area, and both upper trapezius muscles\u2014a pattern that supports a brain-based rather than locally structural origin.",
+          "speaker": null
+        },
+        {
+          "text": "TMS also involves peripheral nerves adjacent to affected muscles\u2014sciatic, lumbar spinal, and brachial plexus nerves\u2014producing not just pain but also numbness, tingling, and sometimes measurable weakness documented by EMG.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-005",
+      "text": "TMS affects tendons and ligaments in addition to muscles and nerves, and common diagnoses such as tennis elbow, knee pain, plantar fasciitis, and shoulder bursitis are frequently misidentified structural labels for what is actually tendonalgia caused by oxygen deprivation.",
+      "chapter": "The Manifestations of TMS",
+      "concepts": [
+        "tendonitis",
+        "psychophysiology",
+        "pain_migration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sarno first recognized tendon involvement when treated back pain patients also reported resolution of tennis elbow; he subsequently found that instructing patients to apply TMS principles to their tendon pain produced consistent resolution.",
+          "speaker": null
+        },
+        {
+          "text": "TMS tends to migrate\u2014as one location improves, pain may appear in a new site\u2014because the brain is reluctant to relinquish its strategy of diverting attention from repressed emotions.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-006",
+      "text": "Physical incidents are triggers for TMS, not causes; the real determinant of onset is one's psychological state, as demonstrated by the fact that pains from trivial actions can be as excruciating as those from major trauma, and 60 percent of TMS episodes begin without any physical incident at all.",
+      "chapter": "The Manifestations of TMS",
+      "concepts": [
+        "pain_triggers",
+        "psychosomatic_onset",
+        "healing_capacity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A survey of TMS patients showed 40 percent attributed onset to a physical event and 60 percent experienced gradual or spontaneous onset, yet subsequent severity and duration were indistinguishable between the two groups.",
+          "speaker": null
+        },
+        {
+          "text": "The body's powerful healing capacity\u2014the femur heals in six weeks\u2014makes it biologically implausible that a soft-tissue injury from months or years ago continues to cause pain; persistent pain signals an ongoing psychological process.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-007",
+      "text": "Conditioning (programming) is a central mechanism in TMS, whereby the brain learns to associate pain with specific postures or activities\u2014sitting, bending, lifting\u2014through early co-occurrence, causing pain to appear on cue regardless of any structural damage.",
+      "chapter": "The Manifestations of TMS",
+      "concepts": [
+        "classical_conditioning",
+        "pain_behavior",
+        "medical_iatrogenesis"
+      ],
+      "entities": {
+        "people": [
+          "Ivan Pavlov"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Classic Pavlovian conditioning explains why patients develop pain invariably when sitting, getting into a car, or bending at the waist\u2014these became conditioned stimuli after they coincided with pain early in the TMS experience.",
+          "speaker": null
+        },
+        {
+          "text": "Practitioners' admonitions ('never bend at the waist,' 'sitting compresses the spine') rapidly create new conditioned pain responses, effectively programming patients for ongoing disability.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-008",
+      "text": "Recurrent acute attacks over time evolve into chronic TMS, characterized by constant low-grade pain with conditioned exacerbations, pervasive fear of physical activity (physicophobia), and progressive self-imposed disability that can exceed the functional limitations of paralysis.",
+      "chapter": "The Manifestations of TMS",
+      "concepts": [
+        "chronic_pain",
+        "fear_avoidance",
+        "disability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "As attacks recur, they tend to become more frequent, more severe, and longer lasting; each attack deepens fear and further restricts activity, creating a self-reinforcing cycle.",
+          "speaker": null
+        },
+        {
+          "text": "Sarno has observed that severe TMS patients may be more disabled in daily life than patients paralyzed in both legs who go to work, raise families, and live normally from wheelchairs.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-009",
+      "text": "TMS is predominantly a disorder of the middle years of life (ages 30\u201360, accounting for 77 percent of cases in a 1982 survey), strongly suggesting an emotional rather than structural cause because these are the years of peak psychological responsibility and pressure.",
+      "chapter": "The Manifestations of TMS",
+      "concepts": [
+        "epidemiology",
+        "life_stage_stress",
+        "psychosomatic_illness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If degenerative spinal changes were the primary cause, incidence would increase steadily with age, peaking in the elderly\u2014the opposite of what is observed.",
+          "speaker": null
+        },
+        {
+          "text": "Children as young as five or six can develop TMS; what are known as 'growing pains' likely represent TMS attacks in children, triggered by anxiety analogous to adult attacks.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-010",
+      "text": "The word 'tension' in TMS refers specifically to repressed, unacceptable emotions\u2014primarily anxiety and anger\u2014that are automatically kept in the unconscious because they are painful, embarrassing, or socially unacceptable, not to general stress or muscle tightness.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "repression",
+        "emotional_suppression",
+        "unconscious_processes"
+      ],
+      "entities": {
+        "people": [
+          "Hans Selye"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Internal stressors\u2014one's own personality attributes such as conscientiousness, perfectionism, and the need to excel\u2014are more important generators of tension than external circumstances like job demands, because the external stressors only cause tension when the person's internal drives engage with them.",
+          "speaker": null
+        },
+        {
+          "text": "Repression occurs automatically and unconsciously; individuals have no choice in the matter as their minds are constituted, which is why willful relaxation techniques do not address the root problem.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-011",
+      "text": "The TMS personality combines deep-seated low self-esteem with compensatory perfectionism, compulsive responsibility, and a drive to succeed\u2014traits that continuously generate subconscious anxiety and anger while the person appears consciously capable and hardworking.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "perfectionism",
+        "low_self_esteem",
+        "personality_type"
+      ],
+      "entities": {
+        "people": [
+          "Meyer Friedman",
+          "Ray Rosenman",
+          "Karen Horney"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Type A Behavior and Your Heart"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Compulsive perfectionism can manifest in unexpected contexts: a man raised on a farm realized his TMS perfectionism expressed itself as a powerful compulsion to stack hay bales perfectly.",
+          "speaker": null
+        },
+        {
+          "text": "TMS patients differ from classic Type A individuals described by Friedman and Rosenman in that TMS patients are rarely hostile and seldom develop coronary artery disease; they tend toward excessive niceness and accommodation rather than aggression.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-012",
+      "text": "Narcissism\u2014the universal human tendency toward self-centeredness\u2014coexists with low self-esteem in TMS patients, producing a continuous unconscious anger whenever others fail to meet the person's needs or expectations, even in people who consciously appear selfless.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "narcissism",
+        "unconscious_anger",
+        "secondary_gain_critique"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A young father with TMS was unconsciously enraged at his infant for disrupting sleep, marital intimacy, and his wife's availability\u2014feelings so socially unacceptable that they were instantly and completely repressed, producing back pain instead.",
+          "speaker": null
+        },
+        {
+          "text": "The 'secondary gain' theory promoted by behavioral psychologists\u2014that patients maintain pain to avoid responsibilities\u2014is rejected by Sarno as inverting the causality; TMS occurs because people cope too well, repressing inconvenient emotions to keep functioning.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-013",
+      "text": "Repression of anger is learned early in life through parental conditioning and cultural imperatives, becoming an automatic lifelong response; a mother who extinguished her fifteen-month-old's tantrums with ice water inadvertently programmed lifelong anger repression and its psychophysiological consequences.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "repression",
+        "childhood_conditioning",
+        "emotional_suppression"
+      ],
+      "entities": {
+        "people": [
+          "Sigmund Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Freud: A Life for Our Time"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Cultural forces create strong motivation not to show anger: fear of disapproval, desire to be loved, fear of reprisal, and above all the TMS personality's intolerance of loss of control\u2014all operating unconsciously.",
+          "speaker": null
+        },
+        {
+          "text": "Sarno himself uses heartburn as a personal signal that he is angry about something he has not consciously identified; reflecting on the source consistently resolves the symptom.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-014",
+      "text": "TMS is not a physical expression of repressed emotion but a defense against it\u2014a brain-created distraction designed to keep the conscious mind focused on bodily pain rather than frightening unconscious feelings, which is why identifying and understanding the mechanism eliminates the pain.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "defense_mechanisms",
+        "psychodynamics",
+        "repression"
+      ],
+      "entities": {
+        "people": [
+          "Stanley Coen"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Psychoanalyst Dr. Stanley Coen proposed to Sarno that the pain's function is not to discharge tension but to prevent repressed emotions from reaching consciousness\u2014a defense\u2014which explained the otherwise puzzling observation that patient awareness of the mechanism produces cure.",
+          "speaker": "Stanley Coen"
+        },
+        {
+          "text": "As long as attention remains focused on the pain syndrome, there is no danger the emotions will be revealed; the pain must be not merely frightening but physically credible, which is why it mimics structural injury so effectively.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-015",
+      "text": "TMS equivalents\u2014including peptic ulcer, tension headache, migraine, colitis, hay fever, asthma, eczema, and cardiac palpitations\u2014serve the same psychological defensive function as back pain, and the mind shifts between them as circumstances change, explaining why treating one symptom medically often produces another.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "psychosomatic_equivalents",
+        "symptom_substitution",
+        "autonomic_nervous_system"
+      ],
+      "entities": {
+        "people": [
+          "Russell Baker"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "New York Times magazine, August 16, 1981"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The decline of peptic ulcer in the United States over the past thirty years coincided with the rise of back pain; columnist Russell Baker's 1981 observation that ulcers were disappearing prompted Sarno to theorize that back pain had become the preferred hiding place for tension once ulcers became publicly recognized as stress-related.",
+          "speaker": null
+        },
+        {
+          "text": "A man in his mid-forties cycled through back surgery, then two years of peptic ulcer, then neck and shoulder pain\u2014each new location serving the same psychological purpose after the previous one was medically suppressed.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-016",
+      "text": "Society's stigma against psychological diagnoses causes most patients to reject the TMS diagnosis initially and to prefer physical explanations, a preference reinforced by medical insurance that generously covers structural treatments but sharply limits psychotherapy coverage.",
+      "chapter": "The Psychology of TMS",
+      "concepts": [
+        "stigma",
+        "cultural_attitudes",
+        "healthcare_economics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A thirty-nine-year-old businessman who initially dismissed TMS as 'hogwash' spent two years pursuing every available medical treatment before re-reading Sarno's first book; on second reading, 'it had a totally different effect on me\u2014I saw myself on every page.'",
+          "speaker": null
+        },
+        {
+          "text": "One patient summarized the cultural dynamic: 'If you ask people to ease up on you because you're emotionally overloaded, don't look for a sympathetic response; but tell them you've got pain and they immediately become responsive and solicitous.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-017",
+      "text": "The brain initiates TMS through the autonomic nervous system, which constricts small blood vessels (arterioles) supplying postural muscles, nerves, tendons, and ligaments, reducing their oxygen supply below normal and producing pain as a consequence of that oxygen debt\u2014not as a result of structural damage.",
+      "chapter": "The Physiology of TMS",
+      "concepts": [
+        "autonomic_nervous_system",
+        "ischemia",
+        "oxygen_deprivation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The autonomic system normally regulates circulation with precise purpose\u2014supporting fight-or-flight response or routine function\u2014but in TMS this vasoconstriction serves no physiological purpose other than responding to the psychological need to create a distraction.",
+          "speaker": null
+        },
+        {
+          "text": "Clinical evidence supports the oxygen-deprivation hypothesis: heat modalities (diathermy, ultrasound), deep massage, and active exercise all temporarily relieve TMS pain, and all three are known to increase blood flow and therefore oxygen delivery to muscle.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-018",
+      "text": "Fibromyalgia (also called fibrositis, myofibrositis, and myofasciitis) is synonymous with severe TMS, and laboratory research confirming low muscle-tissue oxygen pressure in fibromyalgia patients provides direct physiological evidence for the oxygen-deprivation mechanism of TMS pain.",
+      "chapter": "The Physiology of TMS",
+      "concepts": [
+        "fibromyalgia",
+        "muscle_physiology",
+        "research_evidence"
+      ],
+      "entities": {
+        "people": [
+          "H. G. Fassbender",
+          "K. Wegner",
+          "N. Lund",
+          "A. Bengtsson",
+          "P. Thorborg"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Scandinavian Journal of Rheumatology, 1986"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "German researchers Fassbender and Wegner found microscopic changes in biopsied muscles from back pain patients consistent with oxygen deprivation as early as 1973.",
+          "speaker": null
+        },
+        {
+          "text": "A 1986 Scandinavian Journal of Rheumatology study by Lund, Bengtsson, and Thorborg directly measured low oxygen pressure in the painful muscles of fibromyalgia patients using precise laboratory tools.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-019",
+      "text": "Muscle spasm in acute TMS attacks and the chronic chemical pain of ongoing TMS are both consequences of oxygen deprivation, not evidence of structural injury; the muscles are not 'tense' in an ordinary sense but are chemically disturbed by inadequate oxygenation.",
+      "chapter": "The Physiology of TMS",
+      "concepts": [
+        "muscle_spasm",
+        "metabolic_waste",
+        "acute_pain"
+      ],
+      "entities": {
+        "people": [
+          "Holmes",
+          "Wolfe"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Psychosomatic Medicine, Vol. 14, 1952"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Muscle spasm is extreme painful contraction analogous to a leg cramp, produced by oxygen deprivation; in TMS, unlike a cramp, the abnormal state is maintained by continued autonomic action rather than resolving with stretching.",
+          "speaker": null
+        },
+        {
+          "text": "Holmes and Wolfe (1952) identified a second pain mechanism: metabolic waste accumulation from altered lactic acid chemistry in oxygen-deprived muscles, the same process seen in oxygen-depleted muscles of long-distance runners.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-020",
+      "text": "Nerve tissue is more sensitive to oxygen deprivation than muscle and responds with a wider range of symptoms\u2014pain, numbness, tingling, burning, and weakness\u2014because even mild oxygen debt threatens nerve integrity and triggers warning signals felt wherever the nerve travels.",
+      "chapter": "The Physiology of TMS",
+      "concepts": [
+        "nerve_physiology",
+        "sciatica",
+        "sensorimotor_symptoms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sciatic nerve oxygen deprivation in the buttock can produce pain anywhere in the leg served by that nerve\u2014the entire back of the leg, the side, the thigh, the calf, the foot\u2014explaining the bewildering variety of 'sciatica' presentations that cannot be explained by a single disc herniation.",
+          "speaker": null
+        },
+        {
+          "text": "EMG changes in TMS patients typically reveal involvement of many more nerves than any structural abnormality could explain, a finding that ironically is cited as evidence of nerve damage when it actually demonstrates the regional, brain-directed nature of TMS.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-021",
+      "text": "Tender points (trigger points) in TMS are not diagnostic of a separate condition but represent central zones of oxygen deprivation in affected tissues; they tend to persist for life in TMS-susceptible individuals even when active pain is absent, representing ongoing mild autonomic activity.",
+      "chapter": "The Physiology of TMS",
+      "concepts": [
+        "trigger_points",
+        "central_sensitization",
+        "autonomic_regulation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Breathing pure oxygen does not relieve TMS pain because if the brain intends to create oxygen deprivation, it will maintain the vasoconstriction regardless of how oxygen-rich the blood supply is\u2014demonstrating that the process is centrally driven, not correctable by increasing available oxygen.",
+          "speaker": null
+        },
+        {
+          "text": "The six key tender points consistently found in TMS patients\u2014bilateral outer buttocks, bilateral lumbar area, bilateral upper trapezius\u2014form a hallmark pattern that distinguishes TMS from locally caused structural conditions.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-022",
+      "text": "The central therapeutic mechanism is 'knowledge therapy': once a patient genuinely understands that TMS pain is a brain-created distraction from repressed emotions\u2014not a structural injury\u2014the pain loses its ability to hold conscious attention and ceases, because the defense is blown.",
+      "chapter": "The Treatment of TMS",
+      "concepts": [
+        "patient_education",
+        "psychophysiology",
+        "defense_mechanisms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "Mind Over Back Pain"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "A woman who had completed the program developed new hip pain nine months later; after standing and having a direct, angry mental confrontation with her own brain about the manipulation, the pain disappeared completely within two minutes.",
+          "speaker": null
+        },
+        {
+          "text": "Numerous readers of the predecessor book Mind Over Back Pain reported complete, permanent resolution of pain without any clinical contact\u2014demonstrating that pure information, absent any placebo personality effect, is curative.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-023",
+      "text": "The treatment program rests on two pillars\u2014acquiring knowledge about TMS and acting on that knowledge to change the brain's behavior\u2014operationalized through four key strategies: thinking psychological instead of physical, talking to one's brain, resuming all physical activity, and discontinuing all physical treatment.",
+      "chapter": "The Treatment of TMS",
+      "concepts": [
+        "behavioral_change",
+        "fear_avoidance",
+        "patient_education"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Patients are instructed that when they notice pain, they must consciously and forcefully shift attention to psychological concerns\u2014a repressed worry, a chronic irritation\u2014because this sends a message to the subconscious that the distraction strategy has been identified and will no longer work.",
+          "speaker": null
+        },
+        {
+          "text": "Resuming physical activity is described as 'possibly the most important part of the therapeutic process' because fear of activity is often more disabling than the pain itself, and overcoming physicophobia is essential to liberating the patient from the syndrome.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-024",
+      "text": "All physical treatments\u2014including physical therapy, manipulation, exercise for the back, and use of corsets or collars\u2014must be abandoned during TMS treatment because they reinforce the structural narrative that keeps the patient focused on the body rather than the emotions, and any benefit they produce is a temporary placebo effect.",
+      "chapter": "The Treatment of TMS",
+      "concepts": [
+        "placebo_effect",
+        "treatment_rationale",
+        "structural_narrative"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sarno continued prescribing physical therapy for twelve or thirteen years after making the TMS diagnosis before recognizing the conceptual contradiction: prescribing physical treatment while simultaneously trying to convince patients their problem is psychological undermines the therapeutic message.",
+          "speaker": null
+        },
+        {
+          "text": "Exercise for general health is strongly encouraged; what must stop is any exercise or physical practice framed as protective of or therapeutic for the back, because such framing sustains the belief in structural vulnerability.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-025",
+      "text": "Follow-up surveys demonstrate high and durable success rates: a 1982 survey of 177 patients showed 76 percent pain-free with unrestricted activity; a 1987 survey of 109 CT-confirmed disc herniation patients showed 88 percent free of pain\u2014results that validate both the diagnosis and the educational treatment approach.",
+      "chapter": "The Treatment of TMS",
+      "concepts": [
+        "treatment_outcomes",
+        "clinical_validation",
+        "disc_herniation"
+      ],
+      "entities": {
+        "people": [
+          "Tony Schwartz",
+          "Michael Sinel"
+        ],
+        "places": [
+          "Cedars-Sinai Medical Center"
+        ],
+        "events": [],
+        "works": [
+          "New York magazine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Of the 109 herniated disc patients, 39 had been advised to have surgery and 3 had already undergone it; the 88 percent success rate with education alone makes it difficult to sustain the clinical significance of disc herniation as a pain cause.",
+          "speaker": null
+        },
+        {
+          "text": "Journalist Tony Schwartz independently referred 40 patients to the program; 39 became pain-free\u2014an informal replication suggesting the results are not artifacts of Sarno's personal influence.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-026",
+      "text": "Approximately 5 percent of TMS patients require psychotherapy in addition to the educational program\u2014those with high levels of repressed rage, often rooted in childhood abuse\u2014while the remaining 95 percent recover through the lecture-based education program alone.",
+      "chapter": "The Treatment of TMS",
+      "concepts": [
+        "psychotherapy",
+        "childhood_trauma",
+        "treatment_stratification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Howard A. Rusk Institute of Rehabilitation Medicine"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A middle-aged woman who had been essentially bedridden for two years after two back surgeries recovered in fourteen weeks of hospitalization combining TMS education with intensive individual and group psychotherapy, once her history of severe childhood sexual and psychological abuse and consequent deep unconscious rage were addressed.",
+          "speaker": null
+        },
+        {
+          "text": "Small group follow-up meetings serve as a valuable tool for patients who do not improve after lectures, allowing Sarno to identify residual structural beliefs, unacknowledged emotional sources, or the need for psychotherapy referral.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-027",
+      "text": "The widespread 'chronic pain' treatment model\u2014which treats pain as a separate disease caused by psychological secondary gain and rewards 'nonpain behavior' using Skinnerian conditioning\u2014is medically unsound because it presupposes an uncorrected structural cause and ignores the true psychophysiological process, thereby rarely curing patients.",
+      "chapter": "The Treatment of TMS",
+      "concepts": [
+        "chronic_pain",
+        "behavioral_psychology",
+        "secondary_gain"
+      ],
+      "entities": {
+        "people": [
+          "B. F. Skinner"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The chronic pain concept originated when frustrated physicians who could not accurately diagnose persistent pain transferred responsibility to behavioral psychologists, who elevated pain from symptom to disease\u2014an abdication of diagnostic responsibility.",
+          "speaker": null
+        },
+        {
+          "text": "Elements of secondary gain exist in TMS patients but are minor compared to the primary dynamic of repressed emotions; elevating secondary gain to preeminence while ignoring the physiology of oxygen deprivation produces chronic pain clinics that sometimes help but rarely cure.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-028",
+      "text": "Herniated disc material is rarely responsible for pain because the pattern of neurological findings in patients consistently implicates the sciatic nerve trunk\u2014which explains multiple muscle groups\u2014rather than the specific spinal nerve level predicted by the disc's location, and a 1987 follow-up of 109 disc-herniation patients showed 88 percent pain-free after TMS treatment.",
+      "chapter": "The Traditional (Conventional) Diagnoses",
+      "concepts": [
+        "disc_herniation",
+        "diagnostic_validity",
+        "structural_diagnosis"
+      ],
+      "entities": {
+        "people": [
+          "Hubert Rosomoff",
+          "Alf Nachemson",
+          "A. Magora",
+          "A. Schwartz",
+          "C. A. Splithoff"
+        ],
+        "places": [
+          "University of Miami School of Medicine"
+        ],
+        "events": [],
+        "works": [
+          "Advances in Pain Research and Therapy",
+          "Spine, Vol. 1, 1976",
+          "Journal of the American Medical Association, 1953",
+          "Scandinavian Journal of Rehabilitation Medicine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Neurosurgeon Dr. Hubert Rosomoff concluded independently that herniated discs rarely cause pain, on the physiological grounds that sustained nerve compression eventually stops pain transmission and produces numbness\u2014making continued pain from old herniations mechanically implausible.",
+          "speaker": null
+        },
+        {
+          "text": "Numerous medical reports document herniated discs discovered incidentally on CT or MRI studies in people with no history of back pain, and Israeli physicians Magora and Schwartz found no statistical difference in structural spinal abnormalities between people with and without back pain in a series of studies from 1976 to 1980.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-029",
+      "text": "Conditions routinely diagnosed as structural causes of pain\u2014including spinal stenosis, pinched nerve, facet syndrome, osteoarthritis, scoliosis, spondylolisthesis, spina bifida occulta, spondylolysis, and transitional vertebra\u2014are in Sarno's extensive clinical experience almost never the actual source of pain, and patients with these diagnoses recover completely when treated for TMS.",
+      "chapter": "The Traditional (Conventional) Diagnoses",
+      "concepts": [
+        "structural_diagnosis",
+        "diagnostic_validity",
+        "clinical_evidence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A man in his late fifties with X-ray-confirmed spondylolisthesis and three years of debilitating pain that resisted surgery recommendations became completely pain-free after the TMS educational program, including resuming competitive sports; his pain returned upon resuming work stress and again resolved after TMS treatment.",
+          "speaker": null
+        },
+        {
+          "text": "Pinched nerve diagnosis fails on multiple grounds: symptoms often appear in young adults without spurs or herniation; bone spurs rarely obliterate the foramen sufficiently to compress a nerve; and large benign spinal tumors frequently produce no pain at all.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-030",
+      "text": "Fibromyalgia is TMS\u2014not a distinct disorder of unknown cause\u2014and its laboratory-confirmed finding of low muscle oxygen pressure directly validates the oxygen-deprivation mechanism of TMS, yet mainstream rheumatology resists this conclusion because it requires accepting an emotional etiology.",
+      "chapter": "The Traditional (Conventional) Diagnoses",
+      "concepts": [
+        "fibromyalgia",
+        "diagnostic_categories",
+        "medical_bias"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Fibromyalgia patients represent among the most severely affected TMS cases, with pain in many muscles simultaneously along with insomnia, anxiety, depression, and fatigue\u2014all interpreted as evidence of higher levels of repressed emotionality, primarily anger.",
+          "speaker": null
+        },
+        {
+          "text": "Doctors acknowledge the oxygen-deprivation finding in fibromyalgia but construct elaborate physical and chemical hypotheses to explain it, unable to accept that something as 'non-physical' as brain-directed emotional processing could produce measurable physiological changes.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-031",
+      "text": "Common tendon and soft-tissue diagnoses\u2014tennis elbow, bursitis, chondromalacia, plantar fasciitis, bone spurs, neuroma, and tendonitis\u2014are TMS tendonalgia rather than inflammation or overuse injuries, as confirmed by their consistent resolution when TMS treatment is applied.",
+      "chapter": "The Traditional (Conventional) Diagnoses",
+      "concepts": [
+        "tendonitis",
+        "inflammation",
+        "diagnostic_validity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Bursitis diagnoses of the shoulder and hip misidentify both the anatomy (the painful structure is a tendon near the bursa, not the bursa itself) and the pathophysiology (oxygen deprivation, not inflammation).",
+          "speaker": null
+        },
+        {
+          "text": "Inflammation as an explanation for back and tendon pain has never been demonstrated with scientific evidence; anti-inflammatory drugs provide relief through their analgesic properties or placebo effect, not by addressing a documented inflammatory process.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-032",
+      "text": "The placebo effect is the primary mechanism behind most positive responses to conventional back pain treatments; a patient's blind faith in a treatment or practitioner allows the mind to produce genuine but temporary physiological improvement, as dramatically demonstrated in Bruno Klopfer's 1957 case of a cancer patient whose large tumors dissolved and recurred in direct response to his belief in Krebiozen.",
+      "chapter": "The Traditional (Conventional) Treatments",
+      "concepts": [
+        "placebo_effect",
+        "mind_body_medicine",
+        "treatment_outcomes"
+      ],
+      "entities": {
+        "people": [
+          "Bruno Klopfer"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A placebo works on the body, not the imagination\u2014it produces real physiological changes, as the Krebiozen case shows, where tumors were physically destroyed by immune activity stimulated by the patient's belief in the treatment.",
+          "speaker": null
+        },
+        {
+          "text": "The strength of a placebo is measured by the impression it makes on the mind; surgery is therefore probably the most powerful placebo, which may explain why it sometimes produces lasting relief even when the removed disc material was not causing the pain.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-033",
+      "text": "Rest-based treatments\u2014bed rest, lumbar traction, cervical collars, lumbar corsets, and physical restrictions\u2014have no therapeutic rationale in TMS because there is no structural injury to heal, and they actively worsen the condition by reinforcing the patient's belief in structural vulnerability and expanding fear.",
+      "chapter": "The Traditional (Conventional) Treatments",
+      "concepts": [
+        "bed_rest",
+        "immobilization",
+        "fear_perpetuation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Lumbar traction is designed to immobilize the patient in bed, not to pull spinal bones apart\u2014the weights used are far too light for distraction\u2014making its function equivalent to prescribed bed rest.",
+          "speaker": null
+        },
+        {
+          "text": "Collars and corsets do not immobilize the structure they cover; when patients report feeling better or becoming dependent on them, Sarno interprets this uniformly as a placebo response.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-034",
+      "text": "Pain-relief treatments\u2014acupuncture, nerve blocks, and transcutaneous nerve stimulation (TNS)\u2014function as local anesthetics that block pain transmission without affecting the underlying TMS process; a Mayo Clinic controlled study demonstrated that a sham (placebo) TNS device produced equivalent results to real TNS.",
+      "chapter": "The Traditional (Conventional) Treatments",
+      "concepts": [
+        "pain_management",
+        "symptomatic_treatment",
+        "placebo_effect"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mayo Clinic"
+        ],
+        "events": [],
+        "works": [
+          "Pain, Vol. 5, 1978"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Treating pain as an end in itself is symptomatic treatment, which Sarno explicitly states he does not do; pain is a symptom like fever\u2014treating it without addressing the cause (TMS) is as inadequate as treating pneumonia fever without antibiotics.",
+          "speaker": null
+        },
+        {
+          "text": "Extended pain relief from any of these symptom-focused treatments can only be explained by placebo effect, since the treatments do not alter the autonomic process generating the oxygen deprivation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-035",
+      "text": "Muscle-strengthening exercise programs for the back are deeply ingrained in American medicine and public health culture but are 'dead wrong' as a treatment or prevention for back pain; while exercise is valuable for general health, it neither eliminates TMS pain nor protects against it, and any improvement is placebo effect.",
+      "chapter": "The Traditional (Conventional) Treatments",
+      "concepts": [
+        "exercise_therapy",
+        "medical_mythology",
+        "rehabilitation"
+      ],
+      "entities": {
+        "people": [
+          "Hubert Rosomoff"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Dr. Hubert Rosomoff's large conservative treatment program in Miami achieves improved patient function through vigorous physical activity but, in Sarno's assessment, fails to achieve complete pain resolution because it does not identify or address the psychophysiological cause.",
+          "speaker": null
+        },
+        {
+          "text": "The only valid reason to use exercise in TMS recovery is to help patients overcome fear of physical activity\u2014a psychological benefit\u2014not because the exercise itself corrects any physical deficit.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-036",
+      "text": "Anti-inflammatory medications\u2014both steroidal (cortisone) and nonsteroidal (ibuprofen)\u2014are prescribed without scientific evidence that inflammation exists in back pain; any benefit comes from analgesic properties or placebo effect, since TMS pain is caused by oxygen deprivation, not inflammation.",
+      "chapter": "The Traditional (Conventional) Treatments",
+      "concepts": [
+        "anti_inflammatory_treatment",
+        "chronic_pain",
+        "diagnostic_failure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Steroids temporarily suppress TMS symptoms in many patients by an unknown mechanism, but when pain returns\u2014as Sarno observes it invariably does\u2014the underlying TMS responds to the educational treatment program and resolves permanently.",
+          "speaker": null
+        },
+        {
+          "text": "The 'chronic pain' movement arose from physicians' diagnostic failure: unable to identify the true cause of persistent pain, they transferred responsibility to behavioral psychologists who reframed pain as a learned behavior disorder reinforced by secondary gain\u2014a diagnosis that elevates pain from symptom to disease and that rarely cures.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-037",
+      "text": "Descartes's seventeenth-century separation of mind and body established the philosophical foundation of modern medicine, causing it to treat the body as a machine and emotions as irrelevant to disease\u2014a bias still dominant today, despite Freud's foundational work on the unconscious and Charcot's clinical demonstrations that psychological intervention could resolve physical neurological symptoms like paralysis.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "mind_body_dualism",
+        "history_of_medicine",
+        "psychosomatic_medicine"
+      ],
+      "entities": {
+        "people": [
+          "Ren\u00e9 Descartes",
+          "Jean-Martin Charcot",
+          "Sigmund Freud",
+          "Franz Alexander"
+        ],
+        "places": [
+          "Institute for Psychoanalysis, Chicago"
+        ],
+        "events": [],
+        "works": [
+          "Psychosomatic Medicine"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Charcot demonstrated to medical audiences that hysterical paralysis of arms and legs\u2014with no neurological disease present\u2014could be made to disappear under hypnosis, providing dramatic evidence of mind-body connection that Freud witnessed at Charcot's Paris clinics.",
+          "speaker": null
+        },
+        {
+          "text": "Franz Alexander and his Chicago Institute for Psychoanalysis colleagues produced rigorous scientific work on psychosomatic medicine mid-century, but as their generation left the scene, the physicochemical view reasserted dominance, and the journal Psychosomatic Medicine was taken over by laboratory-focused researchers.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-038",
+      "text": "TMS equivalents\u2014peptic ulcer, spastic colitis, tension headache, migraine, hay fever, cardiac palpitations, eczema, and others\u2014are interchangeable physical defenses against the same repressed emotions, serving the same psychological purpose as back pain; this equivalence principle challenges Franz Alexander's theory that specific disorders require specific psychological configurations.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "psychosomatic_equivalents",
+        "symptom_substitution",
+        "repression"
+      ],
+      "entities": {
+        "people": [
+          "Franz Alexander"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A man whose wife attended TMS lectures accompanied her; applying the principles to his own lifelong stomach problems, he resolved twenty years of persistent gastrointestinal symptoms that had required constant medication.",
+          "speaker": null
+        },
+        {
+          "text": "Sarno himself has experienced TMS, gastrointestinal symptoms, migraine, hay fever, dermatological conditions, and mitral valve prolapse\u2014all traceable to repressed anger\u2014and can reliably identify the emotional trigger and abort or prevent each syndrome.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-039",
+      "text": "Landmark animal research by Robert Ader at the University of Rochester demonstrated through conditioning experiments that the brain can directly suppress immune function, proving that psychological phenomena can control the immune system and opening the field of psychoneuroimmunology.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "psychoneuroimmunology",
+        "conditioning",
+        "immune_suppression"
+      ],
+      "entities": {
+        "people": [
+          "Robert Ader",
+          "Visintainer",
+          "Volpicelli",
+          "Seligman"
+        ],
+        "places": [
+          "University of Rochester"
+        ],
+        "events": [],
+        "works": [
+          "Science, April 1982"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Ader conditioned rats to associate saccharin-sweetened water with immune suppression from cyclophosphamide; subsequently, saccharin water alone suppressed immunity\u2014showing that a learned brain association could control the immune system without the immunosuppressive chemical.",
+          "speaker": null
+        },
+        {
+          "text": "A parallel experiment by Visintainer, Volpicelli, and Seligman published in Science (1982) showed that rats given inescapable electric shock\u2014psychologically more stressful than escapable shock of the same physical intensity\u2014were only half as likely to reject implanted tumors and twice as likely to die, linking emotional state to immune efficiency.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-040",
+      "text": "Emotional factors\u2014including work stress, social isolation, and psychological state\u2014influence cardiovascular health, including hypertension and atherosclerosis; Dr. Dean Ornish's randomized controlled trial showed that lifestyle changes including stress management could actually reverse coronary artery atherosclerosis over one year.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "cardiovascular_health",
+        "stress_and_disease",
+        "lifestyle_medicine"
+      ],
+      "entities": {
+        "people": [
+          "Dean Ornish",
+          "Peter Schnall",
+          "Neal Miller",
+          "Herbert Benson"
+        ],
+        "places": [
+          "University of California San Francisco",
+          "New York Hospital-Cornell Medical College",
+          "Rockefeller University",
+          "Harvard"
+        ],
+        "events": [],
+        "works": [
+          "Lancet, July 1990",
+          "Journal of the American Medical Association, April 1990"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Dr. Peter Schnall's carefully designed 1990 JAMA study established a clear relationship between 'job strain' and elevated blood pressure accompanied by increased heart size\u2014providing the kind of rigorous evidence needed to convince medical skeptics of the mind-body connection in hypertension.",
+          "speaker": null
+        },
+        {
+          "text": "Sarno predicts that further experimentation will identify emotional state as the most important variable in atherosclerosis and that intensive psychotherapy alone will demonstrate reversal of arterial plaque comparable to Ornish's multi-component program.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-041",
+      "text": "Allergic conditions in adults, particularly hay fever, are TMS equivalents driven by the same emotional dynamics; patients who apply TMS knowledge principles to their allergies can eliminate symptoms, as Sarno demonstrates through his own cat allergy, which stops when he identifies it as a tension response.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "allergy",
+        "immune_overactivation",
+        "psychosomatic_equivalents"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The immune system in allergic people has become overactive under the influence of repressed emotions; the question of why only some people standing in a pollen-filled field begin to sneezing is answered not by allergen exposure but by the emotional state that has primed the immune system toward overreaction.",
+          "speaker": null
+        },
+        {
+          "text": "At a small group meeting, a patient reported ending seventeen years of seasonal fall hay fever in a single year by applying TMS principles\u2014recognizing the condition as emotionally induced and withdrawing focused attention from it.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-042",
+      "text": "Psychological and social factors likely play a role in cancer onset and recovery through immune system modulation; observations of spontaneous remissions in seven San Francisco patients who shared common psychological changes\u2014becoming more outgoing, community-oriented, meditative, and physically active\u2014suggest that emotional state influences tumor rejection.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "cancer_and_emotion",
+        "immune_function",
+        "psycho_oncology"
+      ],
+      "entities": {
+        "people": [
+          "Kenneth Pelletier",
+          "Norman Cousins",
+          "Bernie Siegel",
+          "O. Carl Simonton"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Anatomy of an Illness",
+          "Love, Medicine, and Miracles",
+          "Getting Well Again",
+          "Mind as Healer, Mind as Slayer"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Norman Cousins overcame ankylosing spondylitis through humor therapy and vitamin C; Sarno interprets this not as the specific effect of laughter or ascorbic acid but as the result of Cousins recognizing the emotional basis of his illness\u2014the same mechanism by which TMS resolves when its psychological function is understood.",
+          "speaker": null
+        },
+        {
+          "text": "Sarno cautions that clinicians like Bernie Siegel and the Simontons, while important pioneers, lack sufficient psychological and physiological specificity in their models\u2014'the power of love' without precise mechanisms is unlikely to persuade the research community or produce replicable results.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-043",
+      "text": "Dr. H. K. Beecher's observation that 75 percent of severely wounded World War II soldiers required no morphine\u2014because their wounds represented release from danger rather than threat\u2014demonstrates that a person's emotional interpretation of a situation can completely override the biological pain signal, confirming that emotional state is the primary modulator of pain perception.",
+      "chapter": "Mind and Body",
+      "concepts": [
+        "pain_perception",
+        "emotional_modulation",
+        "mind_body_medicine"
+      ],
+      "entities": {
+        "people": [
+          "H. K. Beecher",
+          "Benjamin Franklin"
+        ],
+        "places": [],
+        "events": [
+          "World War II"
+        ],
+        "works": [
+          "Annals of Surgery, 1946",
+          "The Second World War: A Complete History"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The U.S. Surgeon General's report during World War II noted that soldiers needed to be rotated out of combat regularly to prevent psychiatric breakdown, and that wounds and injuries were regarded 'not as a misfortune, but a blessing'\u2014a psychological context that eliminated pain.",
+          "speaker": null
+        },
+        {
+          "text": "Benjamin Franklin's observation serves as Sarno's conclusion: 'Nor is it of much Importance to us to know the Manner in which Nature executes her Laws: tis enough to know the Laws themselves'\u2014we can treat TMS effectively without fully understanding the neural mechanism by which emotion produces physiology.",
+          "speaker": null,
+          "quote_speaker": "Benjamin Franklin"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-001",
+      "title": "Introduction",
+      "summary": "Sarno introduces TMS as a new diagnosis\u2014not a new treatment\u2014that attributes the epidemic of common pain syndromes to emotionally induced physiological changes rather than structural spinal abnormalities, arguing that medicine's structural bias and dismissal of emotions as disease agents is the primary reason the epidemic persists.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-001",
+        "healing-back-pain-the-mind-body-connection-002",
+        "healing-back-pain-the-mind-body-connection-003"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-002",
+      "title": "The Manifestations of TMS",
+      "summary": "TMS manifests primarily as pain in postural muscles, peripheral nerves, tendons, and ligaments\u2014all caused by oxygen deprivation triggered by emotional tension\u2014and its various patterns, onset types, and conditioned responses are systematically misattributed to structural injury, perpetuating fear and disability.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-004",
+        "healing-back-pain-the-mind-body-connection-005",
+        "healing-back-pain-the-mind-body-connection-006",
+        "healing-back-pain-the-mind-body-connection-007",
+        "healing-back-pain-the-mind-body-connection-008",
+        "healing-back-pain-the-mind-body-connection-009"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-003",
+      "title": "The Psychology of TMS",
+      "summary": "TMS originates in the unconscious mind as a physical defense mechanism created by the brain to prevent repressed emotions\u2014primarily rage and anxiety generated by perfectionism, narcissism, and life pressure\u2014from reaching consciousness, and understanding this mechanism is the central therapeutic intervention.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-010",
+        "healing-back-pain-the-mind-body-connection-011",
+        "healing-back-pain-the-mind-body-connection-012",
+        "healing-back-pain-the-mind-body-connection-013",
+        "healing-back-pain-the-mind-body-connection-014",
+        "healing-back-pain-the-mind-body-connection-015",
+        "healing-back-pain-the-mind-body-connection-016"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-004",
+      "title": "The Physiology of TMS",
+      "summary": "TMS is produced when the autonomic nervous system, responding to repressed emotional states, selectively reduces blood flow (causing ischemia) to postural muscles, peripheral nerves, tendons, and ligaments, creating the oxygen deprivation that directly causes pain, spasm, numbness, tingling, and weakness\u2014a mechanism supported by clinical observation, heat-therapy evidence, and laboratory findings in fibromyalgia.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-017",
+        "healing-back-pain-the-mind-body-connection-018",
+        "healing-back-pain-the-mind-body-connection-019",
+        "healing-back-pain-the-mind-body-connection-020",
+        "healing-back-pain-the-mind-body-connection-021"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-005",
+      "title": "The Treatment of TMS",
+      "summary": "The only effective and permanent treatment for TMS is an educational program that gives patients the knowledge to recognize pain as a psychological defense mechanism and thereby render it purposeless\u2014eliminating the need for physical therapy, which at best produces temporary placebo cures and at worst perpetuates focus on the body.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-022",
+        "healing-back-pain-the-mind-body-connection-023",
+        "healing-back-pain-the-mind-body-connection-024",
+        "healing-back-pain-the-mind-body-connection-025",
+        "healing-back-pain-the-mind-body-connection-026",
+        "healing-back-pain-the-mind-body-connection-027"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-006",
+      "title": "The Traditional (Conventional) Diagnoses",
+      "summary": "Conventional structural diagnoses for back and neck pain\u2014herniated disc, spinal stenosis, arthritis, scoliosis, fibromyalgia, tendonitis, and others\u2014are largely incidental anatomical findings unrelated to pain causation, and attributing pain to them generates the fear and physical restriction that perpetuate the TMS epidemic.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-028",
+        "healing-back-pain-the-mind-body-connection-029",
+        "healing-back-pain-the-mind-body-connection-030",
+        "healing-back-pain-the-mind-body-connection-031"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-007",
+      "title": "The Traditional (Conventional) Treatments",
+      "summary": "Conventional treatments for back pain\u2014including rest, traction, collars, acupuncture, nerve blocks, manipulation, surgery, muscle-strengthening exercises, anti-inflammatory drugs, and pain clinic behavior modification\u2014are either palliative, based on incorrect structural assumptions, or temporary placebo effects that fail to address the psychophysiological cause of TMS.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-032",
+        "healing-back-pain-the-mind-body-connection-033",
+        "healing-back-pain-the-mind-body-connection-034",
+        "healing-back-pain-the-mind-body-connection-035",
+        "healing-back-pain-the-mind-body-connection-036"
+      ]
+    },
+    {
+      "id": "healing-back-pain-the-mind-body-connection-ch-008",
+      "title": "Mind and Body",
+      "summary": "The history of medicine shows a recurring suppression of mind-body understanding\u2014from Descartes's separation of mind and body through the dominance of physicochemical pathology\u2014but accumulating research in psychoneuroimmunology, cardiovascular medicine, cancer biology, allergy, and gastrointestinal medicine increasingly confirms that repressed emotions can influence any organ or system, with TMS representing the clearest clinical demonstration of this principle.",
+      "claim_ids": [
+        "healing-back-pain-the-mind-body-connection-037",
+        "healing-back-pain-the-mind-body-connection-038",
+        "healing-back-pain-the-mind-body-connection-039",
+        "healing-back-pain-the-mind-body-connection-040",
+        "healing-back-pain-the-mind-body-connection-041",
+        "healing-back-pain-the-mind-body-connection-042",
+        "healing-back-pain-the-mind-body-connection-043"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 43,
+    "chapter_count": 8,
+    "indexed_at": "2026-04-10T18:20:00.306193Z"
+  }
+}

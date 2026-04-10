@@ -1,0 +1,1500 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Pattern on the Stone: The Simple Ideas That Make Computers Work",
+    "author": "W. Daniel Hillis",
+    "year": 1998,
+    "categories": [
+      "computers",
+      "science",
+      "technology & engineering"
+    ],
+    "thesis": "Computers, despite their apparent complexity, are built from a small number of simple logical principles\u2014Boolean logic, finite-state machines, and functional abstraction\u2014stacked in hierarchical layers; and understanding this hierarchy reveals both the power and the limits of computation, including the prospect that intelligence itself may emerge from such principles."
+  },
+  "claims": [
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-001",
+      "text": "George Boole's algebra of logical operations (And, Or, Not) provides the mathematical foundation for all computation, and Claude Shannon's 1940 master's thesis showed these operations could be implemented directly as electrical switching circuits.",
+      "chapter": "Nuts and Bolts",
+      "concepts": [
+        "boolean_logic",
+        "switching_circuits",
+        "digital_computation"
+      ],
+      "entities": {
+        "people": [
+          "George Boole",
+          "Claude Shannon",
+          "Augustus De Morgan"
+        ],
+        "places": [
+          "Massachusetts Institute of Technology",
+          "Calcutta"
+        ],
+        "events": [],
+        "works": [
+          "An Investigation of the Laws of Thought",
+          "A Symbolic Analysis of Relay Switching Circuits"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Shannon demonstrated that any Boolean expression could be converted into an arrangement of switches that connects when the expression is true and breaks when it is false.",
+          "speaker": null
+        },
+        {
+          "text": "The tic-tac-toe machine Hillis built as a child\u2014with about 150 switches wired in series and parallel\u2014embodies the same logical principles as modern chips with millions of transistors.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-002",
+      "text": "The bit\u2014a signal carrying exactly one of two possible values\u2014is the minimal unit of meaningful distinction, and naming the two values 1 and 0 is an arbitrary convention that enables mathematical manipulation of what is really just a physical difference (current flowing vs. not flowing).",
+      "chapter": "Nuts and Bolts",
+      "concepts": [
+        "binary_representation",
+        "information_theory",
+        "abstraction"
+      ],
+      "entities": {
+        "people": [
+          "Claude Shannon"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The claim that 'computers do everything with numbers' is misleading; more accurately, computers represent numbers, letters, and everything else with patterns of bits.",
+          "speaker": null
+        },
+        {
+          "text": "The two classes could equally be called True/False or Alice/Bob; the choice of 1 and 0 is purely conventional.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-003",
+      "text": "Any physical technology that provides a restoring, asymmetric switch and a connector that can branch is sufficient to build a computer\u2014hydraulic valves, mechanical sticks, or transistors are all equivalent in logical power, differing only in speed and scale.",
+      "chapter": "Nuts and Bolts",
+      "concepts": [
+        "restoring_logic",
+        "physical_implementation",
+        "computational_equivalence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Computer Museum, Boston"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A hydraulic computer equivalent to a modern microprocessor would cover about a square kilometer with valves and pipes, since a transistor is one millionth of a meter across while a hydraulic valve is about 10 centimeters.",
+          "speaker": null
+        },
+        {
+          "text": "Hillis and colleagues built a tic-tac-toe computer from Tinker Toy construction sets requiring tens of thousands of pieces; it never lost, and now resides in the Computer Museum in Boston.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-004",
+      "text": "Restoring logic\u2014where each switching stage regenerates a full-strength signal from a potentially degraded input\u2014is essential for building reliable computers, because without it small errors accumulate across stages and the machine breaks down.",
+      "chapter": "Nuts and Bolts",
+      "concepts": [
+        "digital_vs_analog",
+        "error_accumulation",
+        "signal_restoration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hillis's first Tinker Toy computer lacked restoring logic; accumulated string-stretching errors required constant tuning and the machine frequently made mistakes.",
+          "speaker": null
+        },
+        {
+          "text": "This is the essence of digital over analog: a digital valve is either fully on or fully off, so a weakened input still produces a full-strength output.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-005",
+      "text": "Functional abstraction\u2014treating any implemented function as a 'black box' whose internals can be ignored\u2014is the most powerful tool in computer design, enabling a hierarchy of building blocks that remains valid even as the underlying technology becomes obsolete.",
+      "chapter": "Nuts and Bolts",
+      "concepts": [
+        "functional_abstraction",
+        "hierarchical_design",
+        "modularity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Once And, Or, and Invert are implemented, higher-level designers need never think about switches or transistors again.",
+          "speaker": null
+        },
+        {
+          "text": "This hierarchical abstraction means that almost everything said about computers will remain true when silicon chips are replaced by future technologies.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-006",
+      "text": "Any binary function\u2014any rule mapping combinations of 0s and 1s to output values\u2014can be implemented by connecting And, Or, and Invert blocks, making this trio a universal construction set for computing.",
+      "chapter": "Universal Building Blocks",
+      "concepts": [
+        "boolean_logic",
+        "universal_computation",
+        "binary_encoding"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The general method: use one And gate (with appropriate Inverters) to detect each input combination that should produce a 1 output, then combine these with Or gates\u2014a procedure that always produces a working implementation, if not always the simplest one.",
+          "speaker": null
+        },
+        {
+          "text": "A Scissors/Paper/Rock judging machine illustrates how non-binary functions are converted to binary by encoding each option (e.g., Scissors = 01, Paper = 10, Rock = 11) before applying Boolean logic.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-007",
+      "text": "Finite-state machines extend Boolean logic into the time domain by pairing a look-up table with a register that stores the current state, allowing a machine's output to depend not just on present inputs but on the full history of past inputs.",
+      "chapter": "Universal Building Blocks",
+      "concepts": [
+        "finite_state_machines",
+        "sequential_computation",
+        "state_memory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Familiar examples include combination locks (state summarizes recent dial sequence), retractable ballpoint pens (two states: extended/retracted), and traffic-light controllers.",
+          "speaker": null
+        },
+        {
+          "text": "A digital clock with a seconds display is a finite-state machine with 86,400 states (24 \u00d7 60 \u00d7 60), advancing state exactly once per second.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-008",
+      "text": "The clock rate of a computer\u2014the frequency at which it advances its finite-state machine\u2014directly determines its speed, and this rate is bounded by the time required for signals to propagate through logic blocks to compute the next state.",
+      "chapter": "Universal Building Blocks",
+      "concepts": [
+        "clock_rate",
+        "computational_speed",
+        "technological_improvement"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hillis's laptop at the time of writing operated at 33 megahertz, advancing state 33 million times per second.",
+          "speaker": null
+        },
+        {
+          "text": "As transistors shrink, logic becomes faster and clock rates rise\u2014one of the key dynamics driving Moore's Law-era improvements.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-009",
+      "text": "Finite-state machines cannot recognize all patterns in sequences: problems requiring unbounded memory\u2014like identifying palindromes of arbitrary length or verifying grammatical correctness of arbitrarily nested sentences\u2014are impossible for any finite-state machine.",
+      "chapter": "Universal Building Blocks",
+      "concepts": [
+        "computational_limits",
+        "formal_language_theory",
+        "memory_requirements"
+      ],
+      "entities": {
+        "people": [
+          "Marvin Minsky"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Palindromes of any length require remembering every character in the first half to check the second half, demanding an infinite number of states.",
+          "speaker": null
+        },
+        {
+          "text": "The sentence 'Dogs that dogs that dogs annoy ate bit bite' is grammatically correct but requires the same kind of deep memory tracking that stumps finite-state machines\u2014and also challenges human readers, suggesting a possible architectural similarity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-010",
+      "text": "The firing squad problem\u2014getting an arbitrarily long line of finite-state machines to all output 'fire' simultaneously in response to a single command at one end\u2014illustrates that coordinated parallel behavior can emerge from local, identical finite-state machines without global control.",
+      "chapter": "Universal Building Blocks",
+      "concepts": [
+        "parallel_computation",
+        "emergent_coordination",
+        "local_rules"
+      ],
+      "entities": {
+        "people": [
+          "Marvin Minsky"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Each soldier-machine has only its immediate neighbors as inputs yet must synchronize with every other machine despite not knowing the total line length.",
+          "speaker": null
+        },
+        {
+          "text": "The problem is solvable with machines that have only a few states, demonstrating the surprising power of local rules in producing global coordination.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-011",
+      "text": "Programming languages are universal in the same sense as Boolean logic: any language with the right primitives and combination rules can express any computation, and the programmer's art is specifying intent with enough precision to eliminate all ambiguity.",
+      "chapter": "Programming",
+      "concepts": [
+        "programming_languages",
+        "functional_abstraction",
+        "formal_specification"
+      ],
+      "entities": {
+        "people": [
+          "Seymour Papert"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "An accounting program that bills clients for amounts owed will send threatening letters to clients who owe $0.00 unless the programmer explicitly distinguishes 'owes nothing' from 'has not paid'\u2014precision is everything.",
+          "speaker": null
+        },
+        {
+          "text": "Logo, designed by Seymour Papert for children, is extensible: user-defined words become new primitives, demonstrating functional abstraction at the language level.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-012",
+      "text": "Recursion\u2014a procedure calling itself with a modified parameter\u2014is one of the most powerful techniques in programming because it naturally expresses self-similar structures, from fractal trees to palindrome recognition, by breaking complex cases into simpler ones of the same type.",
+      "chapter": "Programming",
+      "concepts": [
+        "recursion",
+        "self_similarity",
+        "fractals"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A Logo tree program encodes the insight 'a big tree is a stick with two smaller trees on top, but a little tree is just a stick'\u2014the recursive definition mirrors the recursive structure of the object.",
+          "speaker": null
+        },
+        {
+          "text": "Recursive definitions without a stopping condition produce infinite loops; adding a parameter that decrements toward a base case (DESIGN :NUMBER) prevents the turtle from drawing squares 'all the way down'.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-013",
+      "text": "Machine language is the bridge between high-level programming and hardware: a finite-state machine fetches instructions from memory, executes them (processing or control), and calculates the next instruction address, with subroutines and a stack enabling structured, reusable code.",
+      "chapter": "Programming",
+      "concepts": [
+        "machine_language",
+        "instruction_sets",
+        "stack_memory"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Control instructions like conditional Jump load the program counter with a different address only when a condition is met, enabling loops that repeat a sequence until a condition is no longer satisfied.",
+          "speaker": null
+        },
+        {
+          "text": "Return addresses for nested subroutines are stored on a last-in, first-out stack\u2014a subroutine is never finished until all its nested subroutines finish, making the stack structure a perfect fit.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-014",
+      "text": "The operating system is the set of always-loaded subroutines that mediate between programs and hardware, providing richer operations than raw machine instructions and allowing the same program to run on different hardware by abstracting away implementation details.",
+      "chapter": "Programming",
+      "concepts": [
+        "operating_systems",
+        "hardware_abstraction",
+        "input_output"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Whether an arithmetic operation is handled by hardware circuitry or an OS subroutine is irrelevant to the programmer, as long as the same bit pattern produces the same result.",
+          "speaker": null
+        },
+        {
+          "text": "Input/output works by wiring physical devices to specific memory addresses: reading address 23 returns 1 if the space bar is pressed, and writing to display-mapped addresses draws pixels on screen.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-015",
+      "text": "Object-oriented languages treat data structures as autonomous objects with internal state and behavioral rules, so that complex program behavior emerges from object interactions rather than being explicitly programmed\u2014a design style that is powerful but potentially unpredictable in safety-critical applications.",
+      "chapter": "Programming",
+      "concepts": [
+        "object_oriented_programming",
+        "emergent_behavior",
+        "abstraction_levels"
+      ],
+      "entities": {
+        "people": [
+          "Guy Steele"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In a video game, each bouncing ball is a separate object with its own position, velocity, and color; behavior emerges from object interactions rather than a single controlling procedure.",
+          "speaker": null
+        },
+        {
+          "text": "Guy Steele described LISP as 'a high-level language, but you can still feel the bits sliding between your toes'\u2014capturing the spectrum from high abstraction to low-level bit manipulation.",
+          "speaker": "Guy Steele"
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-016",
+      "text": "The full hierarchy of computer abstraction runs from physical switches through Boolean logic, registers, finite-state machines, memory, machine language, operating system, and finally programming language\u2014each layer hiding the complexity below and enabling the layer above.",
+      "chapter": "Programming",
+      "concepts": [
+        "hierarchical_abstraction",
+        "compilation",
+        "system_architecture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Compilation converts programming language to machine language before execution; interpretation does so during execution; there is no hard line between the two.",
+          "speaker": null
+        },
+        {
+          "text": "The important thing is not the details of any single layer but the principle that each layer of functional abstraction builds upon the one below it.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-017",
+      "text": "Alan Turing's 1937 universal machine hypothesis holds that any computation performable by any physical device can be performed by a universal computer with sufficient time and memory, making all general-purpose computers fundamentally equivalent in capability.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "universal_computation",
+        "computability_theory",
+        "church_turing_thesis"
+      ],
+      "entities": {
+        "people": [
+          "Alan Turing",
+          "Alonzo Church",
+          "Emil Post"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A Turing machine consists of a finite-state machine reading and writing symbols on an infinitely long tape; any computable problem can be encoded as symbols on the tape.",
+          "speaker": null
+        },
+        {
+          "text": "Turing, Alonzo Church, and Emil Post independently arrived at the idea of universal computation and all published in 1937\u2014a striking example of scientific synchrony.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-018",
+      "text": "Neither three-state logic, analog signals, nor any other finite-state variant adds computational power beyond binary digital computers, because any such system can be simulated on a two-state machine through appropriate encoding.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "computational_equivalence",
+        "analog_vs_digital",
+        "noise_limits"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A three-state computer can be emulated by encoding each of its three states as a pair of bits (00, 11, 01), so every three-state function has a corresponding two-state function.",
+          "speaker": null
+        },
+        {
+          "text": "Analog computers appear more powerful because they represent continuous values, but noise limits them to at most about 30 bits of meaningful distinction\u2014less than a standard 32-bit digital word.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-019",
+      "text": "Pseudorandom number generation\u2014producing sequences that appear random but are generated by a deterministic algorithm\u2014is sufficient for most computational purposes, because digital computers are predictable and unpredictable in exactly the same senses as other physical systems.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "pseudorandom_numbers",
+        "chaotic_systems",
+        "determinism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A roulette wheel is a chaotic system where tiny differences in initial conditions (throw angle, ball mass) produce unpredictable outcomes\u2014a computer can simulate this physics to generate pseudorandom sequences.",
+          "speaker": null
+        },
+        {
+          "text": "Pseudorandom sequences pass all normal statistical tests of randomness but are not truly random; they are predictable if the generating algorithm is known.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-020",
+      "text": "The halting problem\u2014determining whether an arbitrary program will eventually stop\u2014is provably noncomputable: no algorithm can exist that correctly solves it for all programs, as shown by Turing's paradox construction.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "halting_problem",
+        "noncomputability",
+        "logical_paradox"
+      ],
+      "entities": {
+        "people": [
+          "Alan Turing"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If a Test-for-Halt program existed, a program called Paradox could use it to do the opposite of whatever Test-for-Halt predicts about Paradox itself, creating a logical contradiction.",
+          "speaker": null
+        },
+        {
+          "text": "The halting problem's noncomputability is not a weakness of computers; it is inherently unsolvable by any mechanism, including the human mind.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-021",
+      "text": "G\u00f6del's incompleteness theorem proves that within any sufficiently powerful mathematical system there exist statements that can neither be proved nor disproved, but this does not imply that humans can intuit truths beyond what computers can prove\u2014the theorem's limits apply to both.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "incompleteness_theorem",
+        "mathematical_logic",
+        "human_vs_machine"
+      ],
+      "entities": {
+        "people": [
+          "Kurt Goedel"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "G\u00f6del proved his theorem in 1931, just before Turing described the halting problem; both results shocked mathematicians who had assumed every mathematical statement was decidable.",
+          "speaker": null
+        },
+        {
+          "text": "The argument that G\u00f6del's theorem shows human intuition surpasses computers is fallacious: as far as we know, any theorem provable by a human can also be proved by a computer.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-022",
+      "text": "Quantum computing may offer genuine computational advantages by exploiting quantum superposition and entanglement\u2014allowing a single quantum logic operation to process vast numbers of states simultaneously\u2014but decoherence and the limited class of problems suited to quantum methods remain serious obstacles.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "quantum_computing",
+        "entanglement",
+        "computational_complexity"
+      ],
+      "entities": {
+        "people": [
+          "Peter Shor",
+          "Albert Einstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Peter Shor discovered a quantum algorithm for factoring large numbers, which would break widely used encryption schemes, renewing serious interest in quantum computers.",
+          "speaker": null
+        },
+        {
+          "text": "Einstein called entanglement 'spooky action at a distance' and was unhappy with the implication; decoherence caused by any disturbance (even a passing cosmic ray) can destroy the entanglement a quantum computation depends on.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-023",
+      "text": "The theoretical limits of computation provide no meaningful dividing line between human brains and machines: thought appears to be a complex computation, and this conclusion, while seemingly reductive, actually elevates the concept of what a machine can be rather than diminishing the wonder of thought.",
+      "chapter": "How Universal Are Turing Machines?",
+      "concepts": [
+        "philosophy_of_mind",
+        "artificial_intelligence",
+        "reductionism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "There is no evidence that neural processing occurs at the quantum mechanical level rather than the classical level; all relevant computational properties of neurons appear simulable on a conventional computer.",
+          "speaker": null
+        },
+        {
+          "text": "Saying thought is a complex computation is like saying life is a complex chemical reaction\u2014both identify correct components while leaving the mystery intact.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-024",
+      "text": "An algorithm's practical value is measured by its order of growth\u2014how runtime scales with problem size\u2014not by its absolute speed on a single instance, because a bad algorithm on a large problem can take exponentially longer than a good one.",
+      "chapter": "Algorithms and Heuristics",
+      "concepts": [
+        "algorithmic_complexity",
+        "sorting_algorithms",
+        "computational_efficiency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The naive sock-matching algorithm is order n\u00b2: sorting ten times as many socks takes a hundred times as long. The improved algorithm (laying socks on a table and comparing each new sock to the row) is order n: ten times the socks takes ten times as long.",
+          "speaker": null
+        },
+        {
+          "text": "Merge sort achieves order n log n\u2014provably near-optimal for comparison-based sorting\u2014by recursively dividing a stack in half, sorting each half, and merging the results.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-025",
+      "text": "The traveling salesman problem\u2014finding the shortest route through n cities\u2014has no known polynomial-time algorithm; the best known is order 2\u207f, meaning adding 30 cities makes the problem about a billion times harder, and no practical computer can solve it exactly for more than a few thousand cities.",
+      "chapter": "Algorithms and Heuristics",
+      "concepts": [
+        "np_completeness",
+        "combinatorial_explosion",
+        "computational_intractability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The traveling salesman problem is NP-complete: a fast solution would immediately yield fast solutions to a large class of other important problems, including breaking widely used cryptographic codes.",
+          "speaker": null
+        },
+        {
+          "text": "No one has proved that a fast algorithm cannot exist; finding one\u2014or proving its impossibility\u2014remains one of computing's 'holy grails'.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-026",
+      "text": "Heuristics\u2014rules that tend to give the right answer without guaranteeing it\u2014are often more practical than algorithms, and some of the most impressive computer behaviors, including chess playing, result from heuristics rather than guaranteed procedures.",
+      "chapter": "Algorithms and Heuristics",
+      "concepts": [
+        "heuristics",
+        "game_theory",
+        "adversarial_search"
+      ],
+      "entities": {
+        "people": [
+          "Claude Shannon",
+          "Wolfgang von Kempelen",
+          "Garry Kasparov"
+        ],
+        "places": [],
+        "events": [
+          "Deep Blue vs. Kasparov 1997"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A chess program uses three heuristics: score positions by piece count, choose the move leading to the best position several moves ahead, and assume the opponent adopts the same strategy\u2014none of these are always correct, but together they produce strong play.",
+          "speaker": null
+        },
+        {
+          "text": "IBM's Deep Blue beat world champion Garry Kasparov in 1997 using search heuristics that examine millions of lines of play, not by solving chess algorithmically.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-027",
+      "text": "Combinatorial search spaces can be visualized as fitness landscapes where the height of each point represents solution quality, and hill-climbing heuristics\u2014always moving to a nearby better solution\u2014efficiently find good answers but risk getting stuck on local rather than global maxima.",
+      "chapter": "Algorithms and Heuristics",
+      "concepts": [
+        "fitness_landscapes",
+        "hill_climbing",
+        "local_vs_global_optima"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In the traveling salesman problem, hill climbing varies the best-known route by swapping two cities; if the swap improves the tour it is accepted, otherwise rejected\u2014this quickly reaches a local optimum.",
+          "speaker": null
+        },
+        {
+          "text": "Variants like random restarts (trying hill climbing from many different starting points) reduce the chance of settling on a suboptimal local peak.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-028",
+      "text": "The distinction between algorithms and heuristics matters because 'almost always correct' is sufficient for many real applications, and demanding a perfect guarantee often comes at a prohibitive computational cost that makes the solution useless in practice.",
+      "chapter": "Algorithms and Heuristics",
+      "concepts": [
+        "approximation_algorithms",
+        "practical_computation",
+        "philosophy_of_computation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A real traveling salesman would prefer a heuristic that finds a near-optimal route in seconds over an algorithm guaranteed to find the perfect route but requiring billions of years.",
+          "speaker": null
+        },
+        {
+          "text": "Philosophers who write about 'the limitations of computers' often conflate the limitations of algorithms with the limitations of computers generally, ignoring the practical power of heuristics.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-029",
+      "text": "The number of bits used to store data in a particular representation is not the same as the information content of that data; the true measure is the minimum number of bits required, which depends on the regularities present in the data.",
+      "chapter": "Memory: Information and Secret Codes",
+      "concepts": [
+        "information_theory",
+        "data_compression",
+        "algorithmic_information"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The text of this book uses about 2 million bits in 8-bit ASCII, but since fewer than 64 distinct characters appear, 6 bits per character suffices, compressing to 1.5 million bits.",
+          "speaker": null
+        },
+        {
+          "text": "The deepest measure\u2014the length of the smallest program that can generate the data\u2014subsumes all compression methods and is independent of any particular machine language, since any computer can simulate any other.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-030",
+      "text": "Compression works by exploiting statistical regularities in data: variable-length codes assign shorter bit sequences to more frequent symbols, and higher-order regularities (word frequencies, grammar, spatial correlation in images) enable further reduction.",
+      "chapter": "Memory: Information and Secret Codes",
+      "concepts": [
+        "data_compression",
+        "entropy_coding",
+        "statistical_regularity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Morse code uses a single dot for E and a single dash for T (the most common letters), while rare letters like Q and Z require sequences of four symbols\u2014the principle directly translates to binary variable-length codes.",
+          "speaker": null
+        },
+        {
+          "text": "Image compression takes advantage of the fact that adjacent pixels in a photograph of a face are likely nearly identical in color and brightness; a picture of random static cannot be compressed at all because it has no such regularity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-031",
+      "text": "Fully compressed data appears random\u2014any remaining pattern would be an opportunity for further compression\u2014which means that optimally compressed text is indistinguishable from a sequence of coin flips, and this property serves as a mathematical definition of randomness.",
+      "chapter": "Memory: Information and Secret Codes",
+      "concepts": [
+        "algorithmic_randomness",
+        "incompressibility",
+        "pseudorandomness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Pseudorandom sequences that look random but are generated by an algorithm are, by this definition, highly nonrandom: the entire sequence is described by a short description of the generating algorithm.",
+          "speaker": null
+        },
+        {
+          "text": "It is easy to determine a string can be compressed when you recognize a pattern, but impossible to prove it cannot be compressed if you see none\u2014establishing true randomness is fundamentally difficult.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-032",
+      "text": "Encryption works by combining a message's bits with a pseudorandom bit stream so that an eavesdropper who does not know the stream sees only meaningless data, while a recipient who can regenerate the same stream can recover the original message.",
+      "chapter": "Memory: Information and Secret Codes",
+      "concepts": [
+        "cryptography",
+        "public_key_encryption",
+        "information_security"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Public key encryption uses different keys for encoding and decoding: anyone can encrypt a message using a published public key, but only the holder of the private key can decrypt it\u2014solving the problem of securely establishing shared secrets.",
+          "speaker": null
+        },
+        {
+          "text": "The same asymmetry used in reverse authenticates messages: encrypting with a private key produces a 'signature' anyone can verify with the public key, proving the message came from the key's owner.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-033",
+      "text": "Error-detecting and error-correcting codes add deliberate redundancy to data so that transmission errors can be identified and fixed; a two-dimensional parity code, for example, can correct any single-bit error using only 6 extra bits for every 9 bits of data.",
+      "chapter": "Memory: Information and Secret Codes",
+      "concepts": [
+        "error_correction",
+        "redundancy",
+        "fault_tolerance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A single parity bit added to a 7-bit character makes the total number of 1s always odd; if a bit flips in transmission, the recipient detects the resulting even count as an error.",
+          "speaker": null
+        },
+        {
+          "text": "Even arbitrarily unreliable switching components\u2014such as a hypothetical molecular switch that fails 20 percent of the time\u2014can be used to build computers with 99.99999-percent reliability through systematic redundancy.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-034",
+      "text": "Most real computer failures are not caused by hardware errors but by software design errors; complex systems exhibit unanticipated interactions between correctly functioning components that violate the assumptions underlying functional abstraction.",
+      "chapter": "Memory: Information and Secret Codes",
+      "concepts": [
+        "software_reliability",
+        "system_complexity",
+        "catastrophic_failure"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The long-distance telephone network of the eastern United States once failed for hours even though all hardware was functioning correctly: two software versions at different switching stations interacted in an unanticipated way that crashed the entire fault-tolerant system.",
+          "speaker": null
+        },
+        {
+          "text": "A modern computer can have millions of logical operations running simultaneously, and it is impossible to anticipate every possible combination of events\u2014making perfect reliability fundamentally unachievable for sufficiently complex systems.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-035",
+      "text": "The sequential processor-connected-to-memory design, inherited from 1940s hardware economics, has become a fundamental bottleneck: the fastest computers now have cycle times of about a nanosecond, and processors are less than a foot across because light travels only a foot per nanosecond.",
+      "chapter": "Speed: Parallel Computers",
+      "concepts": [
+        "computational_speed",
+        "memory_bottleneck",
+        "hardware_architecture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Early computers used expensive processors and cheap-but-slow memory (mercury delay lines, magnetic drums); the design optimized processor utilization at the cost of memory throughput, and that structure persisted through all subsequent technology changes.",
+          "speaker": null
+        },
+        {
+          "text": "A modern microprocessor chip still shows the vestigial two-part structure\u2014one area for processing, one for memory\u2014even though both are now fabricated identically on the same silicon.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-036",
+      "text": "Amdahl's Law\u2014which argues that even a small sequential fraction of a computation limits overall speedup to a fixed factor regardless of how many parallel processors are added\u2014is based on the false assumption that a fixed portion of computation must always be sequential.",
+      "chapter": "Speed: Parallel Computers",
+      "concepts": [
+        "parallel_computation",
+        "amdahl_law",
+        "computational_scalability"
+      ],
+      "entities": {
+        "people": [
+          "Gene Amdahl"
+        ],
+        "places": [
+          "MIT Artificial Intelligence Laboratory"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Gene Amdahl argued in the 1960s that if even 10 percent of a computation is sequential, adding 1,000 processors will produce at most a 10x speedup; the remaining 990 processors spend most of their time waiting.",
+          "speaker": null
+        },
+        {
+          "text": "Hillis knew Amdahl's Law did not apply to the problems he was trying to solve because those problems had already been solved by a massively parallel processor\u2014the human brain.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-037",
+      "text": "Data-parallel decomposition\u2014giving each processor a different piece of the data rather than a different part of the program\u2014achieves near-linear speedup because the work scales with data volume rather than requiring sequential coordination.",
+      "chapter": "Speed: Parallel Computers",
+      "concepts": [
+        "data_parallelism",
+        "parallel_decomposition",
+        "scalability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Image processing assigns each processor a patch of the image; chess search assigns each processor different lines of play; weather simulation assigns each processor a geographic cell\u2014all achieve near-proportional speedup.",
+          "speaker": null
+        },
+        {
+          "text": "Even the apparently sequential chain-following problem (finding the last element of a million-element linked list) can be solved by a million parallel processors in just 20 steps through repeated halving of the chain.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-038",
+      "text": "Most large computations are models of a physical world that itself operates in parallel, which is why data-parallel decomposition works so naturally: the computational locality mirrors the physical locality of the phenomena being simulated.",
+      "chapter": "Speed: Parallel Computers",
+      "concepts": [
+        "physical_simulation",
+        "computational_locality",
+        "concurrent_modeling"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Weather simulation divides the atmosphere into 1-km cubes, each represented by temperature, pressure, wind, and humidity; each processor models one cube and only communicates with neighboring cubes, mirroring the locality of physical fluid dynamics.",
+          "speaker": null
+        },
+        {
+          "text": "Calculating telephone bills is concurrent because telephone customers operate independently in the physical world; the only problems hard to parallelize are those whose growing dimension is analogous to the sequential passage of time, like predicting planetary orbits step by step.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-039",
+      "text": "The Internet is already a massively parallel computer in embryonic form, and as computers embedded in appliances and infrastructure connect and exchange programs rather than just data, emergent behaviors more complex than computer viruses or routing patterns are likely to develop.",
+      "chapter": "Speed: Parallel Computers",
+      "concepts": [
+        "emergent_behavior",
+        "networked_computing",
+        "internet_as_computer"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New York Hilton"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Every doorknob in the New York Hilton hotel today contains a microprocessor controlling its lock\u2014in the mid-1970s, Hillis's prediction of more microprocessors than people was considered outrageous extrapolation.",
+          "speaker": null
+        },
+        {
+          "text": "The Internet already shows emergent behavior (virus plagues, unanticipated routing patterns); as connected computers begin exchanging interacting programs, Hillis expects qualitatively richer emergent phenomena.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-040",
+      "text": "All learning systems are feedback systems requiring three components\u2014a goal state, a measure of the error between current and goal states, and a response that reduces the error\u2014and differ from mere control systems in that their response parameters adapt over time rather than being fixed.",
+      "chapter": "Computers That Learn and Adapt",
+      "concepts": [
+        "feedback_systems",
+        "control_theory",
+        "adaptive_learning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A household thermostat is a feedback control system but not a learning system: it can only turn a furnace on or off regardless of how far the temperature is from the goal, which is why setting the thermostat to 90\u00b0 does not warm the house faster.",
+          "speaker": null
+        },
+        {
+          "text": "A human pilot learning to fly uses a second feedback loop: the goal of the secondary loop is smooth flight, the error is oscillation, and the response is to adjust the sensitivity of the primary rudder-correction loop.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-041",
+      "text": "Winston's arch-learning program demonstrates that a system can acquire concept definitions through training on positive and negative examples by generalizing its working definition when it fails to include a positive example and restricting it when it wrongly includes a negative one.",
+      "chapter": "Computers That Learn and Adapt",
+      "concepts": [
+        "concept_learning",
+        "supervised_learning",
+        "symbolic_ai"
+      ],
+      "entities": {
+        "people": [
+          "Patrick Winston"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "After being shown two upright blocks supporting a triangle (positive), the same blocks lying flat (negative), and a rectangular block on top instead of a triangle (positive), the program converges on: 'A prismatic body supported by two upright blocks that do not touch one another.'",
+          "speaker": null
+        },
+        {
+          "text": "Winston's program learns only what is taught; concepts like 'touching' and 'support' are built in from the start, limiting its generality to the blocks-world domain.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-042",
+      "text": "Artificial neural networks implement learning through weighted connections between neuron-like units: each unit sums its weighted inputs and fires if the sum exceeds a threshold, and any Boolean function can be computed by appropriately weighting a network of such units.",
+      "chapter": "Computers That Learn and Adapt",
+      "concepts": [
+        "neural_networks",
+        "synaptic_plasticity",
+        "weighted_voting"
+      ],
+      "entities": {
+        "people": [
+          "Marvin Minsky",
+          "Seymour Papert"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Perceptrons"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "An Or neuron has threshold 1 with all weights \u22651; an And neuron has threshold equal to the sum of all weights; an Invert neuron has a single negative-weight input and threshold 0\u2014making neurons universal building blocks.",
+          "speaker": null
+        },
+        {
+          "text": "Sea snails can be taught conditioned responses, and it can be shown that learning occurs by changing synaptic connection strengths\u2014the biological basis for the artificial learning rule of adjusting weights in response to errors.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-043",
+      "text": "A perceptron learns to classify patterns by adjusting second-layer weights whenever it makes a classification error\u2014increasing weights of inputs that supported a missed positive and decreasing weights of inputs that supported a false positive\u2014and is guaranteed to converge if a correct weight setting exists.",
+      "chapter": "Computers That Learn and Adapt",
+      "concepts": [
+        "perceptrons",
+        "pattern_recognition",
+        "supervised_learning"
+      ],
+      "entities": {
+        "people": [
+          "Marvin Minsky",
+          "Seymour Papert"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Perceptrons"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The first layer of a perceptron contains thousands of fixed feature detectors (corners, line orientations, serifs) that detect local image properties; the second layer learns which combination of features signals the target pattern.",
+          "speaker": null
+        },
+        {
+          "text": "Two-layer perceptrons cannot recognize globally defined properties like connectedness, because no local feature is evidence for or against a global topological property\u2014motivating the development of deeper multi-layer networks.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-044",
+      "text": "Self-organizing neural networks learn without an external trainer by generating their own training signals from internal correlations\u2014an image-unscrambling network, for instance, corrects each neuron's connections by comparing its output to those of its spatial neighbors, using the regularity of natural images as an implicit training signal.",
+      "chapter": "Computers That Learn and Adapt",
+      "concepts": [
+        "self_organizing_systems",
+        "unsupervised_learning",
+        "correlation_learning"
+      ],
+      "entities": {
+        "people": [
+          "Alan Turing"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The unscrambler exploits the fact that in natural images nearby pixels tend to look similar; neurons that fire differently from their neighbors are 'wrong' and adjust their input weights accordingly.",
+          "speaker": null
+        },
+        {
+          "text": "Alan Turing published early work on self-organizing systems; renewed research activity has been enabled by faster parallel computers, which are a natural fit for networks of concurrently operating neurons.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-045",
+      "text": "The brain is not a hierarchically engineered system: it has about 10\u00b9\u00b2 neurons with 10\u2075 connections each, organized into roughly fifty anatomically distinct regions with bidirectional rather than feed-forward connectivity, and its wiring pattern does not resemble the neat input-output hierarchy of a computer.",
+      "chapter": "Beyond Engineering",
+      "concepts": [
+        "neuroscience",
+        "brain_architecture",
+        "functional_specialization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Damage to Broca's area (frontal lobe regions 44 and 45) impairs grammatical speech production without affecting pronunciation or comprehension; damage to the annular gyrus impairs reading and writing\u2014suggesting functional specialization without simple modularity.",
+          "speaker": null
+        },
+        {
+          "text": "A monkey with a missing finger continues to use the brain region that formerly processed that finger's signals\u2014idle neurons are recruited for remaining fingers\u2014showing that even 'hardwired' regions can reorganize.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-046",
+      "text": "Engineering's reliance on strict hierarchical modularity is its Achilles heel: when components interact in unanticipated ways, the contract between modules breaks down and failures can propagate catastrophically through the system\u2014a fragility the brain does not share.",
+      "chapter": "Beyond Engineering",
+      "concepts": [
+        "system_fragility",
+        "catastrophic_failure",
+        "biological_robustness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The long-distance telephone network of the eastern United States failed for hours even though all hardware was functioning correctly, because two software versions at different switching stations interacted unexpectedly and crashed the fault-tolerant system.",
+          "speaker": null
+        },
+        {
+          "text": "Individual neurons in the brain constantly die and are never replaced; unless damage is severe, the brain adapts and compensates. Computers, by contrast, can crash from a single software error.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-047",
+      "text": "Simulated evolution\u2014generating a population of random programs, testing them for fitness, selecting survivors, and breeding the next generation with mutations and recombinations\u2014can produce software that outperforms human-designed algorithms, including programs the designer cannot fully understand.",
+      "chapter": "Beyond Engineering",
+      "concepts": [
+        "evolutionary_computation",
+        "genetic_algorithms",
+        "emergent_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hillis evolved sorting programs that were slightly faster than any of the standard algorithms described in chapter 5; he has examined their instruction sequences carefully and does not understand how they achieve this speed.",
+          "speaker": null
+        },
+        {
+          "text": "The unintelligibility of evolved programs should not make them less trustworthy than engineered ones: no single person completely understands a modern operating system, and we trust human pilots despite not understanding how they work.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-048",
+      "text": "The Baldwin effect\u2014the synergistic interaction between evolution and individual learning\u2014dramatically accelerates the evolution of complex multi-step behaviors by giving partial evolutionary credit to each component mutation, because each step that an organism is born knowing reduces the number of steps it must learn.",
+      "chapter": "Beyond Engineering",
+      "concepts": [
+        "baldwin_effect",
+        "evolutionary_biology",
+        "gene_culture_interaction"
+      ],
+      "entities": {
+        "people": [
+          "James Baldwin",
+          "Geoffrey Hinton"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Nest-building in birds requires dozens of individually learnable steps; evolution of the complete instinct all at once requires an improbably simultaneous set of mutations, but when birds can learn missing steps, each single mutation has independent survival value and can be selected for separately.",
+          "speaker": null
+        },
+        {
+          "text": "The Baldwin effect was first described by James Baldwin in 1896 and rediscovered by computer scientist Geoffrey Hinton almost a century later; it applies to any adaptive developmental mechanism, not just learning.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-049",
+      "text": "Artificial general intelligence is more likely to emerge from a staged evolutionary process\u2014primed with biological observations, exploiting the Baldwin effect, and eventually incorporating human language and culture\u2014than from top-down engineering, and once a language-capable machine exists, human culture becomes the fastest mechanism for conveying intelligence to it.",
+      "chapter": "Beyond Engineering",
+      "concepts": [
+        "artificial_general_intelligence",
+        "cultural_transmission",
+        "evolutionary_ai"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Hillis proposes a sequence: evolve insect-level intelligence in a simple simulated environment, then progressively richer environments toward frog, mouse, and primate intelligence\u2014a process likely requiring decades and many dead ends.",
+          "speaker": null
+        },
+        {
+          "text": "A machine that understands language could be taught like a child, absorbing the accumulated knowledge of human culture; the resulting intelligence would be 'a human intelligence supported by an artificial mind,' which Hillis expects we would get along with just fine.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-050",
+      "text": "Describing the brain as a machine and thought as computation is not a reduction that diminishes human experience but an elevation of the concept of machine; consciousness remains mysterious even if it emerges from ordinary physical laws, and the gap between neural signals and subjective experience may never be bridged by human understanding.",
+      "chapter": "Beyond Engineering",
+      "concepts": [
+        "philosophy_of_mind",
+        "consciousness",
+        "reductionism"
+      ],
+      "entities": {
+        "people": [
+          "Roger Bacon"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Saying thought is a complex computation is like saying life is a complex chemical reaction: both statements identify correct components while leaving the mystery intact.",
+          "speaker": null
+        },
+        {
+          "text": "Hillis argues that neither religion nor science has everything figured out, and that consciousness being a manifestation of complex computation makes it more wonderful, not less.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-001",
+      "title": "Nuts and Bolts",
+      "summary": "All computers, regardless of physical implementation, reduce to two operations\u2014connecting switches in series (And) and in parallel (Or)\u2014and this principle of Boolean logic, embodied in everything from a tic-tac-toe machine to a microprocessor, shows that computation is the art of breaking seemingly complex tasks into simple switch operations. Functional abstraction allows each level of this hierarchy to be treated as a 'black box,' so that the same logical truths hold whether the machine is built from transistors, hydraulic valves, or wooden sticks.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-001",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-002",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-003",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-004",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-005"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-002",
+      "title": "Universal Building Blocks",
+      "summary": "And, Or, and Invert form a universal construction set capable of implementing any binary function, and when combined with a register-based memory to create finite-state machines, they provide all the building blocks needed to construct a general-purpose computer. Finite-state machines are especially powerful because they can process sequences in time, not just instantaneous inputs, but they are fundamentally limited by their finite number of states, which prevents them from recognizing unbounded patterns like palindromes.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-006",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-007",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-008",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-009",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-010"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-003",
+      "title": "Programming",
+      "summary": "A programming language is a set of building blocks for software that mirrors the hierarchical abstraction of hardware: primitives combine into subroutines, subroutines into programs, and the computer translates these high-level instructions down through compilers or interpreters into machine language, which directly drives the finite-state machine. The entire chain\u2014from Logo commands to transistor switches\u2014is a hierarchy of functional abstractions, each layer hiding the complexity of the one below.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-011",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-012",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-013",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-014",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-015",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-016"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-004",
+      "title": "How Universal Are Turing Machines?",
+      "summary": "Alan Turing's 1937 insight that a single universal computing machine can simulate any other computing device implies that all general-purpose computers are fundamentally equivalent in power, differing only in speed and memory; and while some problems are provably noncomputable (like the halting problem), these limits apply equally to human mathematicians, providing no basis for claiming that human thought transcends mechanical computation. Quantum computing offers the only serious theoretical possibility of exceeding Turing machine power, but its practical realization remains uncertain.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-017",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-018",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-019",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-020",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-021",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-022",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-023"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-005",
+      "title": "Algorithms and Heuristics",
+      "summary": "An algorithm is a guaranteed procedure whose speed is characterized by how its runtime grows with problem size, and the difference between a good and bad algorithm can be the difference between a problem being tractable or effectively unsolvable; but for many real-world problems\u2014including chess and the traveling salesman problem\u2014no efficient algorithm is known, and heuristics that almost always produce good answers are more practical than slow guarantees. The key insight is that combinatorial search spaces can be navigated efficiently using techniques like hill climbing on fitness landscapes, making 'almost always right' computers surprisingly capable.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-024",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-025",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-026",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-027",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-028"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-006",
+      "title": "Memory: Information and Secret Codes",
+      "summary": "The amount of information in a message is not simply the number of bits used to store it but the minimum number of bits needed to represent it, a quantity that depends on exploitable regularities in the data; compression, error correction, and encryption all flow from this insight about information's true measure. Real-world data\u2014text, images, sound\u2014contains far more regularity than naive representations suggest, enabling dramatic compression, while redundancy added deliberately enables detection and correction of errors, and pseudorandom bit streams enable secure encryption.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-029",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-030",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-031",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-032",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-033",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-034"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-007",
+      "title": "Speed: Parallel Computers",
+      "summary": "Sequential computers are architecturally constrained by the single memory-processor bottleneck that originated in 1940s hardware economics, and as signal propagation speed approaches physical limits, further speedup requires parallel computation\u2014many processors each with their own memory, working concurrently. The key insight that overcame early skepticism about parallelism is that most large computations are models of a physical world that itself operates in parallel, so data-parallel decomposition achieves near-linear speedup with processor count, refuting Amdahl's Law's pessimistic assumptions.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-035",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-036",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-037",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-038",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-039"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-008",
+      "title": "Computers That Learn and Adapt",
+      "summary": "Learning systems are feedback systems that reduce the gap between current and desired states by adjusting their own parameters in response to errors, and this principle\u2014from thermostats to neural networks to self-organizing unscramblers\u2014can be implemented in software that improves with experience rather than following fixed rules. Neural networks in particular demonstrate that the ability to generalize from examples to novel inputs emerges from simple weighted-voting neurons, whose connection strengths are tuned by correcting mistakes.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-040",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-041",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-042",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-043",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-044"
+      ]
+    },
+    {
+      "id": "the-pattern-on-the-stone-the-simple-ideas-that-mak-ch-009",
+      "title": "Beyond Engineering",
+      "summary": "The hierarchical modularity that makes engineering possible\u2014specifying each component's interface so parts can be understood independently\u2014is also engineering's fundamental weakness: unanticipated interactions between correctly functioning components cause catastrophic failures that no amount of redundancy can guard against, because redundancy only protects against anticipated failure modes. The alternative is to mimic biological evolution and development, allowing intelligence to emerge from complex interactions that the designer does not fully understand, and Hillis argues this evolutionary, emergent approach\u2014rather than top-down engineering\u2014is the most plausible path to artificial general intelligence.",
+      "claim_ids": [
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-045",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-046",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-047",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-048",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-049",
+        "the-pattern-on-the-stone-the-simple-ideas-that-mak-050"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 50,
+    "chapter_count": 9,
+    "indexed_at": "2026-04-10T18:20:02.492171Z"
+  }
+}

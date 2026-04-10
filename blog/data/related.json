@@ -6,14 +6,14 @@
       "shared_count": 18
     },
     {
-      "slug": "philosopher-in-the-valley",
-      "title": "The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
-      "shared_count": 10
+      "slug": "only-the-paranoid-survive",
+      "title": "Only the Paranoid Survive",
+      "shared_count": 14
     },
     {
-      "slug": "zero-to-one",
-      "title": "Zero to One: Notes on Startups, or How to Build the Future",
-      "shared_count": 8
+      "slug": "extreme-ownership",
+      "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+      "shared_count": 13
     }
   ],
   "the-first-ghosts": [
@@ -31,6 +31,18 @@
       "slug": "introduction-to-christianity",
       "title": "Introduction to Christianity",
       "shared_count": 17
+    }
+  ],
+  "why-we-sleep": [
+    {
+      "slug": "mystery-teachings-from-the-living-earth",
+      "title": "Mystery Teachings from the Living Earth",
+      "shared_count": 6
+    },
+    {
+      "slug": "the-body-keeps-the-score",
+      "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+      "shared_count": 6
     }
   ],
   "meetings-with-remarkable-men": [
@@ -89,6 +101,11 @@
       "slug": "zero-to-one",
       "title": "Zero to One: Notes on Startups, or How to Build the Future",
       "shared_count": 6
+    },
+    {
+      "slug": "alchemy-of-air",
+      "title": "The Alchemy of Air",
+      "shared_count": 5
     }
   ],
   "the-reality-of-being": [
@@ -96,6 +113,13 @@
       "slug": "in-search-of-the-miraculous",
       "title": "In Search of the Miraculous: Fragments of an Unknown Teaching",
       "shared_count": 20
+    }
+  ],
+  "fooled-by-randomness": [
+    {
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "shared_count": 7
     }
   ],
   "horror-of-philosophy-2": [
@@ -243,6 +267,13 @@
       "shared_count": 41
     }
   ],
+  "the-structure-of-scientific-revolutions": [
+    {
+      "slug": "the-art-of-doing-science-and-engineering",
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "shared_count": 6
+    }
+  ],
   "confessions": [
     {
       "slug": "introduction-to-christianity",
@@ -291,13 +322,13 @@
       "shared_count": 8
     },
     {
-      "slug": "the-misbehavior-of-markets",
-      "title": "The Misbehavior of Markets: A Fractal View of Financial Turbulence",
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
       "shared_count": 6
     },
     {
-      "slug": "zero-to-one",
-      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "slug": "the-misbehavior-of-markets",
+      "title": "The Misbehavior of Markets: A Fractal View of Financial Turbulence",
       "shared_count": 6
     }
   ],
@@ -352,6 +383,13 @@
       "shared_count": 12
     }
   ],
+  "the-body-keeps-the-score": [
+    {
+      "slug": "why-we-sleep",
+      "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+      "shared_count": 6
+    }
+  ],
   "dark-night-of-the-soul": [
     {
       "slug": "the-interior-castle",
@@ -369,10 +407,61 @@
       "shared_count": 11
     }
   ],
+  "how-the-world-really-works": [
+    {
+      "slug": "braudel-vol1",
+      "title": "Civilization and Capitalism, 15th-18th Century, Vol. I",
+      "shared_count": 11
+    },
+    {
+      "slug": "alchemy-of-air",
+      "title": "The Alchemy of Air",
+      "shared_count": 9
+    },
+    {
+      "slug": "the-age-of-interconnection",
+      "title": "The Age of Interconnection: A Global History of the Second Half of the Twentieth Century",
+      "shared_count": 8
+    }
+  ],
   "beauty": [
     {
       "slug": "the-soul-of-the-world",
       "title": "The Soul of the World",
+      "shared_count": 6
+    }
+  ],
+  "ultralearning": [
+    {
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "shared_count": 9
+    },
+    {
+      "slug": "the-art-of-doing-science-and-engineering",
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "shared_count": 6
+    },
+    {
+      "slug": "zero-to-one",
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "shared_count": 5
+    }
+  ],
+  "now-it-can-be-told": [
+    {
+      "slug": "skunk-works",
+      "title": "Skunk Works: A Personal Memoir of My Years at Lockheed",
+      "shared_count": 9
+    },
+    {
+      "slug": "alchemy-of-air",
+      "title": "The Alchemy of Air",
+      "shared_count": 8
+    },
+    {
+      "slug": "philosopher-in-the-valley",
+      "title": "The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
       "shared_count": 6
     }
   ],
@@ -618,9 +707,14 @@
       "shared_count": 7
     },
     {
-      "slug": "zero-to-one",
-      "title": "Zero to One: Notes on Startups, or How to Build the Future",
-      "shared_count": 5
+      "slug": "the-pattern-on-the-stone",
+      "title": "The Pattern on the Stone: The Simple Ideas That Make Computers Work",
+      "shared_count": 6
+    },
+    {
+      "slug": "the-art-of-doing-science-and-engineering",
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "shared_count": 6
     }
   ],
   "through-the-eye-of-a-needle": [
@@ -684,6 +778,23 @@
       "slug": "occult-philosophy-in-the-elizabethan-age",
       "title": "The Occult Philosophy in the Elizabethan Age",
       "shared_count": 14
+    }
+  ],
+  "the-elephant-in-the-brain": [
+    {
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "shared_count": 7
+    },
+    {
+      "slug": "mystery-teachings-from-the-living-earth",
+      "title": "Mystery Teachings from the Living Earth",
+      "shared_count": 6
+    },
+    {
+      "slug": "from-bacteria-to-bach-and-back",
+      "title": "From Bacteria to Bach and Back: The Evolution of Minds",
+      "shared_count": 6
     }
   ],
   "elon-musk": [
@@ -754,6 +865,23 @@
       "shared_count": 6
     }
   ],
+  "the-art-of-doing-science-and-engineering": [
+    {
+      "slug": "from-bacteria-to-bach-and-back",
+      "title": "From Bacteria to Bach and Back: The Evolution of Minds",
+      "shared_count": 7
+    },
+    {
+      "slug": "mirror-worlds",
+      "title": "Mirror Worlds: or the Day Software Puts the Universe in a Shoebox... How It Will Happen and What It Will Mean",
+      "shared_count": 6
+    },
+    {
+      "slug": "ultralearning",
+      "title": "Ultralearning",
+      "shared_count": 6
+    }
+  ],
   "memories-dreams-reflections": [
     {
       "slug": "psychomagic",
@@ -769,6 +897,47 @@
       "slug": "kabbalistic-visions",
       "title": "Kabbalistic Visions: C. G. Jung and Jewish Mysticism",
       "shared_count": 12
+    }
+  ],
+  "the-mythical-man-month": [
+    {
+      "slug": "skunk-works",
+      "title": "Skunk Works: A Personal Memoir of My Years at Lockheed",
+      "shared_count": 5
+    }
+  ],
+  "the-lean-startup": [
+    {
+      "slug": "the-hard-thing-about-hard-things",
+      "title": "The Hard Thing About Hard Things",
+      "shared_count": 9
+    },
+    {
+      "slug": "only-the-paranoid-survive",
+      "title": "Only the Paranoid Survive",
+      "shared_count": 8
+    },
+    {
+      "slug": "skunk-works",
+      "title": "Skunk Works: A Personal Memoir of My Years at Lockheed",
+      "shared_count": 6
+    }
+  ],
+  "skunk-works": [
+    {
+      "slug": "kelly-more-than-my-share-of-it-all",
+      "title": "Kelly: More Than My Share of It All",
+      "shared_count": 22
+    },
+    {
+      "slug": "elon-musk",
+      "title": "Elon Musk",
+      "shared_count": 13
+    },
+    {
+      "slug": "now-it-can-be-told",
+      "title": "Now It Can Be Told: The Story of the Manhattan Project",
+      "shared_count": 9
     }
   ],
   "sexual-personae": [
@@ -832,6 +1001,40 @@
       "slug": "zero-to-one",
       "title": "Zero to One: Notes on Startups, or How to Build the Future",
       "shared_count": 5
+    }
+  ],
+  "only-the-paranoid-survive": [
+    {
+      "slug": "the-hard-thing-about-hard-things",
+      "title": "The Hard Thing About Hard Things",
+      "shared_count": 14
+    },
+    {
+      "slug": "elon-musk",
+      "title": "Elon Musk",
+      "shared_count": 13
+    },
+    {
+      "slug": "zero-to-one",
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "shared_count": 10
+    }
+  ],
+  "extreme-ownership": [
+    {
+      "slug": "the-hard-thing-about-hard-things",
+      "title": "The Hard Thing About Hard Things",
+      "shared_count": 13
+    },
+    {
+      "slug": "elon-musk",
+      "title": "Elon Musk",
+      "shared_count": 11
+    },
+    {
+      "slug": "only-the-paranoid-survive",
+      "title": "Only the Paranoid Survive",
+      "shared_count": 9
     }
   ],
   "eros-and-magic-in-the-renaissance": [
@@ -986,6 +1189,23 @@
       "shared_count": 6
     }
   ],
+  "the-pattern-on-the-stone": [
+    {
+      "slug": "mirror-worlds",
+      "title": "Mirror Worlds: or the Day Software Puts the Universe in a Shoebox... How It Will Happen and What It Will Mean",
+      "shared_count": 6
+    },
+    {
+      "slug": "from-bacteria-to-bach-and-back",
+      "title": "From Bacteria to Bach and Back: The Evolution of Minds",
+      "shared_count": 6
+    },
+    {
+      "slug": "the-art-of-doing-science-and-engineering",
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "shared_count": 6
+    }
+  ],
   "animus-and-anima": [
     {
       "slug": "kabbalistic-visions",
@@ -1010,14 +1230,14 @@
       "shared_count": 7
     },
     {
+      "slug": "the-art-of-doing-science-and-engineering",
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "shared_count": 7
+    },
+    {
       "slug": "mystery-teachings-from-the-living-earth",
       "title": "Mystery Teachings from the Living Earth",
       "shared_count": 6
-    },
-    {
-      "slug": "language-machines",
-      "title": "Language Machines: Cultural AI and the End of Remainder Humanism",
-      "shared_count": 5
     }
   ],
   "the-power-of-ritual-in-prehistory": [
@@ -1073,14 +1293,14 @@
       "shared_count": 25
     },
     {
-      "slug": "philosopher-in-the-valley",
-      "title": "The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
       "shared_count": 13
     },
     {
-      "slug": "the-hard-thing-about-hard-things",
-      "title": "The Hard Thing About Hard Things",
-      "shared_count": 8
+      "slug": "philosopher-in-the-valley",
+      "title": "The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
+      "shared_count": 13
     }
   ],
   "philosopher-in-the-valley": [
@@ -1117,6 +1337,23 @@
       "shared_count": 8
     }
   ],
+  "kelly-more-than-my-share-of-it-all": [
+    {
+      "slug": "skunk-works",
+      "title": "Skunk Works: A Personal Memoir of My Years at Lockheed",
+      "shared_count": 22
+    },
+    {
+      "slug": "philosopher-in-the-valley",
+      "title": "The Contrarian: Peter Thiel and Silicon Valley's Pursuit of Power",
+      "shared_count": 6
+    },
+    {
+      "slug": "alchemy-of-air",
+      "title": "The Alchemy of Air",
+      "shared_count": 5
+    }
+  ],
   "the-horse": [
     {
       "slug": "braudel-vol1",
@@ -1149,6 +1386,23 @@
       "slug": "the-horse",
       "title": "The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World",
       "shared_count": 14
+    }
+  ],
+  "alchemy-of-air": [
+    {
+      "slug": "the-age-of-interconnection",
+      "title": "The Age of Interconnection: A Global History of the Second Half of the Twentieth Century",
+      "shared_count": 13
+    },
+    {
+      "slug": "the-horse",
+      "title": "The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World",
+      "shared_count": 11
+    },
+    {
+      "slug": "braudel-vol1",
+      "title": "Civilization and Capitalism, 15th-18th Century, Vol. I",
+      "shared_count": 11
     }
   ],
   "circles-of-power": [
@@ -1243,8 +1497,13 @@
       "shared_count": 5
     },
     {
-      "slug": "from-bacteria-to-bach-and-back",
-      "title": "From Bacteria to Bach and Back: The Evolution of Minds",
+      "slug": "the-pattern-on-the-stone",
+      "title": "The Pattern on the Stone: The Simple Ideas That Make Computers Work",
+      "shared_count": 5
+    },
+    {
+      "slug": "the-elephant-in-the-brain",
+      "title": "The Elephant in the Brain: Hidden Motives in Everyday Life",
       "shared_count": 5
     }
   ],
@@ -1277,9 +1536,9 @@
       "shared_count": 8
     },
     {
-      "slug": "ride-the-tiger",
-      "title": "Ride the Tiger: A Survival Manual for the Aristocrats of the Soul",
-      "shared_count": 6
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "shared_count": 7
     }
   ],
   "language-machines": [
@@ -1309,6 +1568,23 @@
       "slug": "revolt-against-the-modern-world",
       "title": "Revolt Against the Modern World",
       "shared_count": 36
+    }
+  ],
+  "poor-charlies-almanack": [
+    {
+      "slug": "zero-to-one",
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "shared_count": 13
+    },
+    {
+      "slug": "elon-musk",
+      "title": "Elon Musk",
+      "shared_count": 11
+    },
+    {
+      "slug": "ultralearning",
+      "title": "Ultralearning",
+      "shared_count": 9
     }
   ],
   "the-soul-of-the-world": [

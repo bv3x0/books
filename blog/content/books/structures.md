@@ -1,0 +1,357 @@
+---
+title: "Structures: or Why Things Don't Fall Down"
+sortTitle: "Structures: or Why Things Don't Fall Down"
+date: 2026-04-10
+slug: "structures"
+draft: false
+dateAdded: 2026-04-10
+description: "The behavior of all structures—biological, historical, and technological—can be understood through the unified science of elasticity, which reveals that strength, stiffness, and fracture are governed by the same fundamental principles of stress, strain, and energy. By making these principles accessible, engineers and laypeople alike can better understand why things are built as they are and why they sometimes fail."
+bookKeywords: "elasticity and materials science, structural failure and fracture mechanics, biological structures and biomechanics, engineering history and design philosophy, tension, compression, and shear in structures"
+author: "J.E. Gordon"
+shortAuthor: "Gordon"
+year: "1978"
+tags: ["science", "technology & engineering", "architecture"]
+collections: ["Terraform Industries"]
+---
+
+
+
+### Chapter 1: The Structures in Our Lives
+
+Structures are ubiquitous in nature and technology, yet their study has been hampered by a language barrier between engineers and the public, and by a historical prejudice—reinforced by Newton's dominance—against practical, applied science. Gordon argues that understanding structural principles is essential not only for safety and efficiency but also for aesthetic appreciation of the built and natural world.
+
+* <span id="structures-or-why-things-dont-fall-down-001"></span>**Every plant, animal, and human artefact is a structure that must sustain mechanical forces, making the study of structures universally relevant—from why birds have feathers to why sailing ships are rigged as they are.**
+    - Early life forms required mechanical containment from the outset; biological evolution is inseparable from the development of stronger materials and more ingenious structures.
+    - Nature accepted rigid materials reluctantly; even large animals remain predominantly flexible, using soft parts to protect brittle skeletons from their own brittleness.
+* <span id="structures-or-why-things-dont-fall-down-002"></span>**Pre-metallic and non-Western cultures often displayed superior intuition for stress distribution in fibrous structures, an intuition that modern engineers using uniform metals have lost and are only recovering through composite materials.**
+    - The Polynesians and Eskimos developed sophisticated fibrous non-metallic structures that modern Fibreglass research is only beginning to match.
+    - The introduction of metals between 2,000 and 1,000 B.C. did not immediately transform most load-bearing structures, which continued to use masonry, timber, leather, and rope.
+* <span id="structures-or-why-things-dont-fall-down-003"></span>**The Industrial Revolution's reliance on rigid metals narrowed engineering imagination, creating a prejudice against flexible and biological materials that persists despite the pneumatic tyre's demonstrated importance.**
+    - Steam engines required rigid metal because leather and membranes cannot withstand hot steam, forcing engineers into a world of wheels, pistons, and connecting rods that then became the only 'proper' engineering.
+    - The pneumatic tyre is probably a more important invention than the internal combustion engine, yet flexible structures are rarely taught in engineering schools.
+* <span id="structures-or-why-things-dont-fall-down-004"></span>**The serious scientific study of structural strength began effectively with Galileo's house arrest after his 1633 recantation, which redirected one of history's greatest minds toward the strength of materials as a politically safe subject.**
+    - Galileo corresponded with Mersenne in France and Mariotte, both clergy, who continued elasticity research under Church and State approval.
+    - Medieval masons never thought scientifically about why structures carry loads; their 'mysteries' amounted to scaled-up cookery-book rules, as demonstrated by Jacques Heyman.
+* <span id="structures-or-why-things-dont-fall-down-005"></span>**Aesthetics cannot be separated from structural design because every artefact makes an emotional statement whether intended or not, and the ugliness of modern technology represents a genuine civilizational failure.**
+    - Most engineers have no aesthetic training and despise such concerns as frivolous, while architects claim to be too occupied with sociological objectives to consider either aesthetics or structural strength.
+    - Nearly every artefact of the eighteenth century, even humble ones, seems beautiful by comparison with modern equivalents—a fact reflected in today's premium prices for period houses and antiques.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Space_rocket-ship.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part One: The Difficult Birth of the Science of Elasticity
+
+### Chapter 2: Why Structures Carry Loads
+
+Robert Hooke's discovery that all solids change shape when loaded—and that this elastic deformation, operating at the atomic level, is precisely what enables them to push back against forces—provides the foundational insight of structural science, an insight that was suppressed for decades by Newton's personal enmity toward Hooke and by the anti-practical prejudices of eighteenth-century science.
+
+* <span id="structures-or-why-things-dont-fall-down-006"></span>**Newton's third law requires that every force acting on a structure must be exactly balanced by an equal and opposite reaction; if this equilibrium is not met, the structure either breaks or accelerates into space.**
+    - Whether a load is a dead weight or wind pressure, whether the reaction comes from a living muscle or an inert wall makes no physical difference—the balance must be exact.
+    - This principle applies to every structure without exception: floors, cathedrals, bridges, aeroplanes, balloons, lions, tigers, cabbages, and earthworms.
+* <span id="structures-or-why-things-dont-fall-down-007"></span>**Hooke's key insight was that solids resist loads by changing shape—stretching or contracting internally at the atomic level—and that it is this elastic deformation that generates the reactive force; without deflection there is no resistance.**
+    - Even cathedral towers are shortened by the weight of a climber, by a tiny but real amount; the four columns supporting Salisbury Cathedral's tower are visibly bent.
+    - Chemical bonds between atoms are stretched when material is strained, and it is the vigorous resistance of millions of such bonds to deformation that produces the large reactive forces in solid structures.
+* <span id="structures-or-why-things-dont-fall-down-008"></span>**Hooke's law—that extension is proportional to force ('ut tensio sic vis')—applies broadly to most solids and forms the basis of modern elasticity, though Hooke's original formulation confused the properties of materials with the behaviour of whole structures.**
+    - Elastic behaviour, where a solid recovers its original shape on unloading, is common to steel, stone, brick, bone, wood, tendon, and even the springs of a mosquito's wings.
+    - Plastic behaviour, where permanent distortion remains after unloading, characterises putty, plasticine, and many real materials that are imperfectly elastic under accurate modern testing.
+* <span id="structures-or-why-things-dont-fall-down-009"></span>**Newton's personal hatred of Hooke, combined with his social prestige and anti-practical intellectual temperament, caused the science of elasticity to stagnate throughout most of the eighteenth century.**
+    - Newton spent years after Hooke's death denigrating Hooke's memory and the importance of applied science, reinforcing the aristocratic view that practical problems were beneath serious scientists.
+    - French engineers tried to apply the limited theory available and their structures sometimes fell down; English engineers relied on rule-of-thumb and their structures probably fell down nearly as often.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Life_grapes-cluster.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 3: The Invention of Stress and Strain
+
+Augustin Cauchy's 1822 introduction of the concepts of stress and strain—quantities defined at a point within a material rather than for a structure as a whole—was the decisive breakthrough that made elasticity a practical engineering tool, enabling the critical distinction between the stiffness and the strength of a material.
+
+* <span id="structures-or-why-things-dont-fall-down-010"></span>**Stress, defined as force per unit area at a point within a material, is the internal analogue of fluid pressure and describes how hard atoms are being pushed together or pulled apart—it is not the same as strain.**
+    - Galileo had come close by noting that tensile strength is proportional to cross-sectional area, but it took nearly two hundred more years for anyone to divide breaking load by area to obtain a breaking stress applicable to all specimens of the same material.
+    - Stress can be expressed in MN/m², p.s.i., or kgf/cm² and exists at a point independently of the area over which it acts, just as pressure exists at a point in a fluid.
+* <span id="structures-or-why-things-dont-fall-down-011"></span>**Strain, the proportionate change in length, is a dimensionless ratio describing how far atoms have been pulled apart or pushed together—it is entirely distinct from stress, and confusing the two has led to expensive errors even among eminent scientists.**
+    - Engineering strains are typically very small (often expressed as percentages), yet even apparently rigid structures like cathedrals experience real, measurable elastic strains under load.
+    - Gordon describes spending an evening in Cambridge trying to explain the difference between stress, strain, strength, and stiffness to two world-famous scientists advising the government on an expensive project.
+* <span id="structures-or-why-things-dont-fall-down-012"></span>**Young's modulus (E = stress/strain) measures the intrinsic stiffness of a material independent of its shape and size, and varies by a factor of about six million between the softest biological materials and diamond.**
+    - Thomas Young struggled to define this concept around 1800 without the vocabulary of stress and strain, producing an almost incomprehensible definition that his contemporaries could not follow; Navier gave the modern definition in 1826.
+    - A biscuit is stiff but weak, steel is stiff and strong, nylon is flexible and strong, raspberry jelly is flexible and weak—these two parameters together describe a solid about as well as two numbers can.
+* <span id="structures-or-why-things-dont-fall-down-013"></span>**Tensile strength (the stress required to break a material) must be distinguished from stiffness, and both vary enormously across biological and engineering materials—a distinction with life-or-death consequences in structural design.**
+    - The contrast between the low strength of muscle and the high strength of tendon explains why thick calf muscles can transmit their force through a pencil-thin Achilles tendon.
+    - Metals are stronger than most biological materials in absolute terms, but because metals are much denser, they are not impressively strong on a strength-per-unit-weight basis.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 4: Designing for Safety
+
+Classical stress calculations, while useful, are dangerously incomplete because they ignore stress concentrations at holes, notches, and cracks, where local stresses can far exceed the nominal breaking stress of the material—a reality demonstrated by C.E. Inglis's 1913 mathematical analysis and confirmed by catastrophic failures of ships and structures.
+
+* <span id="structures-or-why-things-dont-fall-down-014"></span>**Mathematical structural theory, however elegant, produces the right answer to the wrong sum whenever real-world irregularities like holes, cracks, and joints are ignored—a danger recognized by pragmatic British engineers like Telford even as they lacked the formal tools to quantify it.**
+    - Thomas Telford, who had a singular distaste for mathematics and never learned geometry, built hundreds of bridges without a single serious failure—while French Polytechniciens using the best available theory sometimes built bridges that fell down.
+    - The 'factor of safety'—making working stress three to eight times less than the breaking stress—was really a 'factor of ignorance' compensating for unknown local stress elevations that calculations missed.
+* <span id="structures-or-why-things-dont-fall-down-015"></span>**Inglis's 1913 analysis proved that holes, notches, and cracks concentrate stress locally to levels that can be hundreds or thousands of times the nominal stress, explaining why structures break at loads far below their calculated strength.**
+    - The stress at the tip of a crack of length L and tip radius r is raised from the nominal stress s to approximately s × 2√(L/r); for a sharp crack where r is of molecular dimensions, this multiplier can exceed a thousand.
+    - In the 1903 H.M.S. Wolf sea trials, no extensometer was placed near hatchway corners; had this been done, the readings in Portland Race would almost certainly have been terrifying.
+* <span id="structures-or-why-things-dont-fall-down-016"></span>**Adding stiff material to a structure can increase rather than decrease stress concentrations, because anything elastically out of step with its surroundings diverts stress trajectories just as surely as a hole does.**
+    - Welding a stiff armour plate to a thin ship's side creates a stress concentration at the plate boundary; similarly, riveting a new patch onto an old garment concentrates stress at the patch edge.
+    - Insurance inspectors who insist on strengthening pressure vessels with extra gussets and webs have, in Gordon's experience, sometimes caused the very accidents they sought to prevent.
+* <span id="structures-or-why-things-dont-fall-down-017"></span>**Nature designs organisms with optimized structural proportions through RNA-DNA-guided growth that responds to actual loads, an adaptive process unavailable to human engineers who must rely on guesswork combined with calculation.**
+    - In living creatures the composition and thickness of each load-carrying component is determined by the actual forces experienced during life, tending toward an optimum; bad biological designs are simply eaten by good ones.
+    - Nature seems to be a pragmatic rather than a mathematical designer, and her structural solutions are generally better than those of human engineers.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Space_star-circle-cosmos.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 5: Strain Energy and Modern Fracture Mechanics
+
+Griffith's 1920 energy-based theory of fracture reveals that whether a crack propagates depends not on local stress alone but on whether the strain energy released as the crack grows exceeds the energy required to create new fracture surfaces—establishing a critical crack length below which even highly stressed cracks are stable, and explaining why structures with high resilience and high toughness are safe even in the presence of defects.
+
+* <span id="structures-or-why-things-dont-fall-down-018"></span>**Strain energy—stored in any loaded elastic material like a compressed spring—is the universal currency of fracture: a structure breaks when this stored energy is sufficient to pay for the creation of new crack surfaces, not simply when the local stress exceeds some nominal breaking value.**
+    - The strain energy per unit volume in a material under stress s with Young's modulus E is s²/2E; rubber stores far more strain energy per unit volume than steel, which is why a pin-pricked balloon explodes while a pin-pricked steel plate does not.
+    - Bows and catapults store strain energy efficiently and can convert it with nearly 100 percent efficiency into the kinetic energy of a missile—unlike the trebuchet, which wastes most energy accelerating its own throwing arm.
+* <span id="structures-or-why-things-dont-fall-down-019"></span>**Biological materials store far more strain energy per unit weight than engineering metals: tendon stores approximately twenty times more than modern spring steel, which explains how the tendons of a skier weighing under a pound can absorb the shocks of skiing at 50 mph.**
+    - Kangaroo tendons reportedly have exceptional strain energy storage characteristics; at each landing, energy is stored and returned, making bounding locomotion energetically efficient.
+    - The composite bow used horn and tendon rather than wood, achieving higher strain energy storage and better high-temperature performance than the English yew longbow—making it superior in most respects but more expensive to manufacture.
+* <span id="structures-or-why-things-dont-fall-down-020"></span>**Griffith showed mathematically that crack propagation requires the strain energy released (proportional to crack length squared) to exceed the fracture energy required (proportional to crack length), producing a critical crack length Lg below which cracks are stable and above which they become self-propagating and catastrophic.**
+    - The Griffith formula gives Lg = 2WE/πs², where W is work of fracture, E is Young's modulus, and s is the applied stress; below this length even a highly stressed crack is stable.
+    - A cook on a freighter who tracked a growing hull crack by painting date-marks on the deck provided what Professor Conn called the best existing record of sub-critical crack growth in a large structure.
+* <span id="structures-or-why-things-dont-fall-down-021"></span>**Work of fracture (toughness) is entirely distinct from tensile strength: mild steel may have a work of fracture a million times higher than glass while their tensile strengths are similar, which is why a table of tensile strengths is a dangerously misleading guide to material selection for large structures.**
+    - Brittle solids like stone, glass, and concrete need only about 1 J/m² to fracture—a pathetically small energy—while ductile metals may require 100,000 to 1,000,000 J/m², achieved through the dislocation mechanism in metal crystals first postulated by Sir Geoffrey Taylor in 1934.
+    - High-tensile steel doubles the strength of mild steel but may reduce work of fracture by a factor of fifteen, shrinking the safe crack length from 1 metre to 6 centimetres at the same stress—making it far more dangerous for large structures.
+* <span id="structures-or-why-things-dont-fall-down-022"></span>**The brittleness of bone increases with animal size because the critical Griffith crack length is an absolute dimension independent of scale, meaning that a crack safe in a mouse is dangerous in an elephant—imposing an upper limit on the safe size of land animals.**
+    - A mouse, cat, or fit man can jump off a table safely; an elephant almost certainly cannot, and elephants are conspicuously cautious about any kind of jumping or gambolling.
+    - Many fractures in elderly people are caused not by falls but by sudden muscular contractions that break bones first, causing the person to fall afterward—a finding from Professor J.P. Paul's research at the University of Strathclyde.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Life_grapes-cluster.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part Two: Tension Structures
+
+### Chapter 6: Tension Structures and Pressure Vessels
+
+The geometry of pressure vessels—spherical or cylindrical containers holding fluids under pressure—produces well-defined and easily calculated stress distributions, with the key result that circumferential stress in a cylinder is exactly twice the longitudinal stress, explaining phenomena from bursting sausages to bat wing mechanics to the design of Chinese junk sails.
+
+* <span id="structures-or-why-things-dont-fall-down-023"></span>**Muscles and tendons embody the principle of tension structures: bulky, low-strength muscle generates force, while thin, high-strength tendon transmits it over long distances, allowing limbs to have slender proportions and a centre of gravity high in the body for efficient pendulum-like gait.**
+    - The hands and fingers are operated by muscles located far up the arm via very long thin tendons, enabling slender hand proportions that would be impossible if the hand contained all its own muscles.
+    - The Achilles tendon is pencil-thin yet adequate to transmit the full force of the thick calf muscle to the heel bone—a ratio that reflects the enormous difference in strength between tendon and muscle tissue.
+* <span id="structures-or-why-things-dont-fall-down-024"></span>**In any cylindrical pressure vessel—from a boiler to an artery—the circumferential (hoop) stress is exactly twice the longitudinal stress, a simple result with far-reaching consequences for design and failure.**
+    - When a sausage skin bursts during frying, the split is almost always longitudinal because it is caused by the circumferential stress, which is twice as large as the stress along the sausage.
+    - The stress formula for a spherical vessel (s = pr/2t) and for the circumferential stress in a cylinder (s = pr/t) follow directly from equilibrium of forces on imaginary cut sections—mathematics accessible to anyone with elementary algebra.
+* <span id="structures-or-why-things-dont-fall-down-025"></span>**The Chinese junk rig exploits membrane mechanics to keep structural loads nearly constant regardless of wind speed: as wind increases, the sail bulges more between its battens, reducing the radius of curvature and thus the membrane tension, achieving a self-regulating system impossible in Western taut-sail designs.**
+    - The force per unit width in any curved membrane under pressure equals the product of pressure and radius of curvature (T = pr); the more the membrane bulges, the smaller its radius and the lower the force, so loads do not escalate with wind speed.
+    - Colonel 'Blondie' Hasler adapted the Chinese lug sail for ocean voyaging with notable success and relaxation compared with conventional Western rigs; hang-gliders follow the same structural principle.
+* <span id="structures-or-why-things-dont-fall-down-026"></span>**Bat wings and pterodactyl wings apply the same membrane mechanics as Chinese sails: flexible skin spanning a bony framework bulges under aerodynamic load in a way that minimizes structural forces while maintaining aerodynamic efficiency.**
+    - Fruit bats with 4-foot wingspans fly 30-40 miles nightly to raid orchards without fatigue; their wings bulge into roughly semi-circular shapes on the downstroke, minimizing bone loads.
+    - Pteranodon, with an 8-metre wingspan and total weight of only 20 kg, had wing bones of almost unbelievable thinness that could only have worked if the wing skin behaved like a bat's—absorbing load by curvature rather than resisting it rigidly.
+* <span id="structures-or-why-things-dont-fall-down-027"></span>**Feathers give birds a structural advantage over bats and pterodactyls because they provide resilient impact protection through a high work-of-fracture mechanism, allowing birds to fly through dense vegetation and escape predators in ways membrane-winged fliers cannot.**
+    - A hawk kills its prey not by piercing with beak or talons—which would not penetrate feathers—but by striking with outstretched feet to impart a sudden acceleration that breaks the prey bird's neck.
+    - Japanese feather armour was not picturesque nonsense but effective protection against swords; similarly, Finnish armoured trains used bales of paper and modern pilots' boots use layers of Cellophane as impact protection.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 7: Joints, Fastenings and People
+
+The weakest element of most structures is not the material itself but the joints between components, where stress concentrations are unavoidable; the relative importance of joint strength versus overall stiffness depends on whether a structure is controlled by strength or rigidity requirements, and creep in materials over time can both relieve and redistribute stresses in ways that are sometimes beneficial and sometimes catastrophic.
+
+* <span id="structures-or-why-things-dont-fall-down-028"></span>**Most everyday structures—furniture, floors, buildings—are designed primarily for stiffness rather than strength, so their joints need only prevent wobble, not resist high stresses; only in weight-critical applications like ships and aircraft does joint strength become the governing design problem.**
+    - A little flexibility in traditional furniture joints can be beneficial: when one leg rests on carpet while another rests on bare floor, tenoned joints can redistribute load; modern glued joints may simply break.
+    - Traditional joinery uses 'inefficient' slotted joints that allow for wood's seasonal shrinkage and swelling of up to 10 percent cross-grain; a new High Table in Churchill College, glued with rigid joints, split down the middle in a heated Hall.
+* <span id="structures-or-why-things-dont-fall-down-029"></span>**In any lapped joint, most of the load transfer occurs at the two ends of the overlap regardless of joint type, so extending the overlap beyond a modest length adds little strength—a principle illustrated by the analogy of a thrush extracting a worm from a lawn.**
+    - The difficulty of pulling a worm from a lawn does not depend on the worm's length; a short worm is just as hard to extract because stress concentration exists only at the point of entry, not along the whole worm.
+    - When attaching a stiff steel insert to a flexible plastic wing structure, sword-like tapered blades proved far stronger than frayed wire cables because they spread load over a wider area rather than concentrating it at the tip.
+* <span id="structures-or-why-things-dont-fall-down-030"></span>**Riveted joints have structural advantages over welds for large structures: they act as crack-stoppers, allow slight slippage that redistributes stress away from concentrations, and age-harden beneficially as rust locks the plates together in shear.**
+    - Kipling's 'The Ship that Found Herself' captures with uncanny accuracy the stress redistribution mechanism of riveted joints—individual rivets slipping slightly until load is shared more evenly—decades before Inglis and Griffith formalized the theory.
+    - A welded joint provides no barrier to crack propagation, while a riveted joint may stop or delay even a large healthy Griffith crack by the discontinuity at the joint.
+* <span id="structures-or-why-things-dont-fall-down-031"></span>**Creep—the time-dependent extension of materials under sustained load—is significant in wood, rope, concrete, and textiles, and explains phenomena from the comfortable moulding of old shoes to the hogging of wooden ships and the bagginess of trouser knees.**
+    - The Mycenaean practice of removing chariot wheels each evening reflects the fact that their thin bent-wood wheels would creep and distort permanently under the chariot's weight if left loaded overnight.
+    - Terylene sails do not need the careful 'stretching' required by cotton and flax sails because artificial fibres have much lower creep rates than natural fibres, allowing sails to hold their designed aerodynamic shape.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Space_star-emblem.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 8: Soft Materials and Living Structures
+
+Animal soft tissues achieve their remarkable mechanical properties through a composite structure of low-modulus elastin reinforced by kinked collagen fibres, producing a stress-strain curve that is neither Hookean nor rubbery but uniquely stable against aneurism formation under pressure—the only type of elasticity compatible with safe operation at the very high strains required by living organisms.
+
+* <span id="structures-or-why-things-dont-fall-down-032"></span>**Living membranes must operate elastically at strains a thousand times higher than engineering materials can manage, requiring a fundamentally different kind of elasticity that cannot be provided by crystalline or glassy materials.**
+    - The safe working strain for engineering materials is generally less than 0.1 percent; living membranes routinely work at 50-100 percent strain, and the pregnant locust cuticle stretches to 1,200 percent and still recovers completely.
+    - Surface tension, which acts as a constant-stress device independent of extension, may have provided the earliest biological membranes; present-day cell walls show mechanical behaviour reminiscent of this origin.
+* <span id="structures-or-why-things-dont-fall-down-033"></span>**Rubber's sigmoid stress-strain curve makes it mechanically unstable for tubular pressure vessels: under internal pressure, a rubber tube inevitably develops a spherical bulge or aneurism, which is why artery walls cannot have rubbery elasticity.**
+    - This instability can be demonstrated experimentally by inflating a cylindrical rubber balloon, which always develops an aneurism rather than distending uniformly—exactly the condition that would be fatal in a blood vessel.
+    - The only elasticity that is completely stable under fluid pressure at high strains is the J-shaped curve characteristic of animal tissues, where stiffness increases sharply at higher strains.
+* <span id="structures-or-why-things-dont-fall-down-034"></span>**Poisson's ratio—the ratio of lateral contraction to longitudinal extension—explains why arteries do not change length appreciably during each heartbeat despite large changes in diameter, because the two orthogonal stresses partially cancel each other's strains.**
+    - Without Poisson's ratio effects, a major leg artery subjected to half-millimetre diameter changes with each heartbeat would have to change length by about 25 mm (1 inch) seventy times per minute—which is obviously impossible.
+    - Poisson's ratio for engineering materials lies between 1/4 and 1/3; for biological soft tissues it is often around 1/2 or higher, and Gordon's informal measurement on his own tummy gave a value of approximately 1.0.
+* <span id="structures-or-why-things-dont-fall-down-035"></span>**Most animal soft tissues consist of low-modulus elastin matrix reinforced by kinked collagen fibres; the elastin governs initial low-strain behaviour while straightening collagen fibres take over at high strains, producing the J-shaped curve that prevents aneurisms and maximises toughness.**
+    - When living tissue is cut, collagen fibres are reabsorbed for several centimetres around the wound during healing, leaving the flesh with almost negligibly low work of fracture for up to three or four weeks—explaining why surgical wounds reopened within that period may not hold sutures.
+    - Collagen makes meat tough; cooking converts it to gelatin at a temperature lower than that which destroys elastin and muscle, which is why slow cooking tenderises meat by dissolving the structural reinforcement.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Life_grapes-cluster.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part Three: Compression and Bending Structures
+
+### Chapter 9: Walls, Arches and Dams
+
+Masonry structures fail not from crushing of the material—compressive stresses are far below crushing strength—but from instability caused when the thrust line, tracking the path of compressive force through the structure, approaches or exits the boundary of the wall, causing it to hinge and tip over; arches are extraordinarily resistant to this because they can tolerate three hinge-points before becoming mechanisms, while the Gothic masons' pinnacles and statues perform the structural function of keeping thrust lines within safe limits.
+
+* <span id="structures-or-why-things-dont-fall-down-036"></span>**Masonry buildings do not fail by material crushing—a tower could theoretically be built 2 kilometres high before the bricks at the bottom were crushed—but by tipping over when compressive forces become eccentric and the thrust line approaches the wall surface.**
+    - Brick and stone weigh about 2,000 kg/m³ and have a crushing strength around 40 MN/m²; arithmetic shows a parallel-walled tower could reach 2 km before the base bricks were crushed—but no serious masonry building exceeds 150 metres.
+    - Young's analysis showed that when a compressive load acts eccentrically beyond the 'middle third' of a wall cross-section, a joint must crack on the tension side, progressively reducing the effective wall width until eventually the thrust line exits the wall surface and it topples.
+* <span id="structures-or-why-things-dont-fall-down-037"></span>**The counterintuitive structural function of Gothic pinnacles, statues, and heavy cornices is to add top weight that redirects the thrust line back toward the centre of the wall, preventing it from wandering outside the masonry.**
+    - Adding weight to the top of a wall reduces, rather than increases, the eccentricity of the thrust line, making the wall more stable; this is the genuine structural justification for the elaborate Gothic stonework that functionalists dismiss as mere ornament.
+    - Coulomb first developed the concept of the thrust line as a tool for analysing masonry stability, enabling quantitative rather than purely intuitive judgement about where a building's thrust line travels.
+* <span id="structures-or-why-things-dont-fall-down-038"></span>**Arches are extraordinarily stable because they can accommodate up to three hinge-points without collapsing; only a fourth hinge, converting the structure into a mechanism, causes failure—which is why arch bridges survive earthquakes, foundation movements, and explosions that would destroy any other structure.**
+    - Clare Bridge in Cambridge has had its foundations move significantly since construction, visibly distorting the arch, but remains perfectly safe because even a kinked arch is structurally stable with only three hinge-points.
+    - To demolish a bridge by explosives most efficiently, the charge should be placed near the third-point of the arch to create the fourth hinge needed for collapse—which requires digging through the roadway to reach the arch ring.
+* <span id="structures-or-why-things-dont-fall-down-039"></span>**The 'square-cube law'—that weight grows as the cube of dimensions while structural cross-sections grow only as the square—does not limit masonry buildings as it limits beams and columns, because masonry fails by instability rather than stress, and instability scales geometrically rather than as a power law.**
+    - The stability of a building is analogous to a balance: both sides of the equation scale with the fourth power of the dimensions, leaving the ratio—and hence stability—unchanged by scaling up.
+    - This is why medieval masons could safely scale up from small successes to great cathedrals using only proportional rules, while the same approach would be catastrophically unsafe for beams or ships.
+* <span id="structures-or-why-things-dont-fall-down-040"></span>**The vertebral column behaves like a masonry wall—safe only if the compressive thrust remains near its centre—which is why there is a correct way to lift heavy weights, and why the middle-third rule for joints becomes increasingly relevant as spinal discs lose tensile strength with age.**
+    - In young people, disc material can withstand significant tension, so spinal injury typically fractures bone rather than disc; after age 20, discs progressively lose tensile strength and 'lumbago' from thrust-line eccentricity becomes increasingly common.
+    - As animals scale up, vertebrae can remain proportional (like masonry columns) but limb bones and ribs must become disproportionately thicker—as visible in comparative primate skeletons from small monkeys to gorillas.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Space_orbit-path.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 10: Something About Bridges
+
+The history of bridge design illustrates how material properties determine structural form: cast iron's brittleness in tension forced the arch, wrought iron's toughness enabled the suspension chain, and high-tensile steel wire made possible modern spans eight times longer than Telford's, while the fundamental equivalence between arch thrust lines and suspension cable shapes unifies what appear to be opposite structural systems.
+
+* <span id="structures-or-why-things-dont-fall-down-041"></span>**Brunei's Maidenhead railway bridge (1837), with the flattest brick arches in the world, stood safely only because flat arches develop higher thrust than steep ones—not higher stress in the voussoirs—and the real risk is in the abutments, not the arch ring.**
+    - Brunei deliberately delayed removing the centering for nearly a year to generate publicity about his audacity; when a storm destroyed the centering it was revealed he had eased it months earlier and the arches had been self-supporting all along.
+    - The bridge still carries trains ten times heavier than Brunei designed for, confirming his judgement that the compressive stresses were always well within the masonry's capacity.
+* <span id="structures-or-why-things-dont-fall-down-042"></span>**Robert Stephenson's decision to use cast-iron beams for railway bridges was catastrophically wrong because cast iron, like stone, is brittle in tension, and every one of several hundred such bridges had to be replaced at great expense.**
+    - Cast iron is strong in compression but weak and unreliable in tension, making it suitable for arches (where all material is in compression) but dangerous for beams (whose tension face is always critical).
+    - Thomas Paine designed a cast-iron arch bridge over the Schuylkill River but was imprisoned in Paris by the Jacobins; his castings were sold to build the Sunderland bridge (1796), with a span of 236 feet and rise of only 34 feet.
+* <span id="structures-or-why-things-dont-fall-down-043"></span>**Telford's Menai suspension bridge used wrought-iron chains at only one-third of their breaking stress because chain links with pin joints create stress concentrations requiring ductile tough materials, limiting practicable working stress to about 8,000 p.s.i.—a constraint overcome by modern wire cables which operate at 85,000 p.s.i.**
+    - The Humber motorway bridge achieves a span of 4,626 feet (1,388 metres)—over eight times the Menai span—because continuous wire cables avoid the pin-joint stress concentrations that limited wrought-iron chains.
+    - Modern cables are woven from hundreds of separate wires, so failure of any single wire is not dangerous; Telford's chains had only three or four plate links in parallel, making individual link failure much more consequential.
+* <span id="structures-or-why-things-dont-fall-down-044"></span>**The suspension bridge cable naturally takes the mathematically optimal shape for its loading—the 'thrust line in tension'—and this shape is the exact upside-down equivalent of the compressive thrust line in an arch, unifying the two structural forms.**
+    - Telford designed his Menai chain profile by loading a scale model rather than calculating the funicular polygon analytically; the same approach can be used in reverse to determine safe arch shapes.
+    - The Victorian tied arch or 'bowstring girder' relieved abutments of lateral thrust by using the suspended roadway itself as a tension member, allowing arched railway bridges to sit on slender piers without spreading.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Earth_satellite-array.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 11: The Advantage of Being a Beam
+
+Beams and trusses, by transmitting loads vertically into their supports without horizontal thrust, solve the fundamental problem of roofing large spaces without requiring massive buttressed walls, enabling both the evolution of Gothic windows and the efficiency of Egyptian ships; the key structural insight is that longitudinal stresses in beams increase with distance from the neutral axis, making I-sections and hollow tubes inherently more efficient than solid rectangular cross-sections.
+
+* <span id="structures-or-why-things-dont-fall-down-045"></span>**The great historic advantage of the beam over the arch for roofing is that it imposes no outward thrust on its supports, allowing thin walls and large windows—a property that Gothic builders exploited by combining flying buttresses with elaborate timber roof trusses.**
+    - Byzantine and Roman buildings used thick concrete walls (sometimes incorporating empty wine amphoras for lightness and insulation) to contain the thrust of vaulted roofs; this provided structural safety and excellent heat insulation but prevented large windows.
+    - The hammer-beam roof, an English invention, moved the point of outward thrust lower down the walls than a high collar would have done, reducing its effect on the thrust line while keeping the view of east and west windows clear.
+* <span id="structures-or-why-things-dont-fall-down-046"></span>**Ancient Egyptian and Greek shipwrights understood trussing long before shore-side architects did: Egyptian hogging-trusses prevented hull sag, Greek trireme hypozomata resisted hogging so effectively that removing them served as a disarmament measure, and American river steamers independently rediscovered the same Egyptian solution.**
+    - A trireme's hypozoma—a heavy rope running around the outside of the hull just below the gunwale, tightened by a Spanish windlass—was so essential that disarmament commissioners removed them rather than the oars.
+    - Mississippi steamboat captains claimed to squeeze an extra half-knot from their vessels by adjusting the hull camber via iron-rod hogging-trusses screwed tight—a direct functional descendant of the papyrus-rope trusses of 2500 B.C.
+* <span id="structures-or-why-things-dont-fall-down-047"></span>**In any beam or truss, diagonal members resist shear (directly supporting the load), while the top and bottom chords resist longitudinal compression and tension respectively; these longitudinal forces increase with distance from the root of a cantilever and can be far larger than the shear forces, even though they do not directly sustain the load.**
+    - Nature exploits the multi-diagonal truss principle in vertebrate ribcages: the bones of the ribs and vertebrae form compression members while muscle and tendon crossing at approximately ±45° provide the shear web.
+    - The Warren girder and Pratt/Howe truss are widely used modern developments that simplify the multiple-diagonal lattice to a manageable number of members while maintaining the same structural function.
+* <span id="structures-or-why-things-dont-fall-down-048"></span>**Since bending stress in a beam is proportional to distance from the neutral axis, structural efficiency demands placing material as far as possible from the neutral axis—the basis of I-beams, box sections, hollow tubes, and the corrugated cross-sections of leaves and clam shells.**
+    - The Stephenson Britannia bridge (1850) was the first major use of box-beam construction; the critical design challenge was preventing the thin iron compression plates from buckling, a problem so difficult that the three designers nearly quarrelled to dissolution.
+    - A round hollow tube is optimal when loads can come from any direction, as with lamp-posts, bamboos, and leg bones; an oval tube is better when one direction is more heavily loaded, as with Bermuda masts that are more easily stayed laterally than fore-and-aft.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Earth_circle-void.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 12: The Mysteries of Shear and Torsion
+
+Shear stress—the tendency of one layer of material to slide past its neighbour—is ubiquitous and governs phenomena as diverse as the bias cut in dressmaking, the failure of the Fokker D8 aircraft, and the torsional requirements of modern car bodies; the key insight is that shear and tension/compression at 45° are mathematically equivalent, so any anisotropic material must be arranged with its reinforcing fibres at the correct angle to the applied loads.
+
+* <span id="structures-or-why-things-dont-fall-down-049"></span>**Cloth is highly anisotropic: stiff and low-Poisson's-ratio when pulled along warp or weft threads, but extensible with high Poisson's ratio (approximately 1.0) when pulled at 45°—the 'bias direction'—a property Mlle Vionnet exploited in 1922 to create the bias-cut dress.**
+    - American sailmakers in the early nineteenth century revolutionised sail performance by arranging canvas seams so that thread directions corresponded to stress directions; their superiority was dramatically demonstrated when the schooner America won Queen Victoria's cup at Cowes in 1851.
+    - The same bias-cut mathematics, derived independently for rocket motor casings made from helically wound glass fibres around 1950, was later recognised as identical to the mathematics Professor Wainwright had derived independently for the collagen fibre angles in worm cuticles.
+* <span id="structures-or-why-things-dont-fall-down-050"></span>**The Fokker D8 monoplane disasters of 1917 were caused by coupled bending-torsion instability: when the wings bent upward they also twisted in a direction that increased aerodynamic lift, which bent them more, which twisted them more—a divergent condition—because the flexural centre lay too far behind the aerodynamic centre of pressure.**
+    - Strengthening the rear spar (as ordered by the German Air Ministry after initial failures) moved the flexural centre further rearward, making the divergence worse rather than better and increasing the accident rate.
+    - Fokker's fix was to reduce the rear spar stiffness, moving the flexural centre forward closer to the quarter-chord centre of pressure position—the aerodynamically correct location—after which the aircraft became comparatively safe.
+* <span id="structures-or-why-things-dont-fall-down-051"></span>**Torsional stiffness in structures depends on the square of the enclosed cross-sectional area of a closed tube, making large-section torsion boxes inherently efficient; the transition from biplane to monoplane construction required thick metal skins to compensate for the smaller available cross-section.**
+    - The old-fashioned biplane forms a large torsion box from the four main spars at the corners of the inter-wing structure; this large cross-section gave it inherently high torsional stiffness with light material.
+    - Authorities in many countries prohibited monoplane construction not from reactionary stupidity but because fabric-covered monoplanes were genuinely less safe than biplanes due to inadequate torsional stiffness—a technical reality, not a prejudice.
+* <span id="structures-or-why-things-dont-fall-down-052"></span>**The Wagner tension field—diagonal wrinkling of thin panels under shear—is equivalent to the cloth dressmaker's 'drape' problem: fabrics and metal skins wrinkle for the same reason, and low shear modulus is the key property governing whether a material drapes gracefully or stiffens into ugly creases.**
+    - Paper and Cellophane are useless for clothing not because they lack tensile strength but because their high shear modulus prevents them from conforming to the body's contours—they stiffen rather than drape.
+    - Knitted fabrics have both low Young's modulus and low shear modulus, enabling the close conforming fit of sweaters; ageing skin loses shear flexibility and stiffens, producing wrinkles for the same structural reason.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_orbit-arrow.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 13: The Various Ways of Failing in Compression
+
+Compression structures fail not by atomic bond collapse but by lateral escape—either by shear fracture at 45° in short struts, by Euler buckling in long columns (where failure load varies inversely as the square of length regardless of material strength), or by local Brazier buckling in thin-walled tubes—and Nature's solutions to these problems in wood, bamboo, bone, and pre-stressed trees are generally more ingenious than equivalent engineering solutions.
+
+* <span id="structures-or-why-things-dont-fall-down-053"></span>**Compression failure is never a direct crushing of atomic bonds but always involves a sideways escape mechanism: diagonal shearing in brittle materials, plastic bulging at 45° in ductile metals, or fibre buckling and compression creases in fibrous composites.**
+    - A short metal strut bulges into a barrel shape when compressed because dislocation slip occurs on planes at 45° to the load; this is the same mechanism exploited in riveting, where the rivet head is spread by compressive force.
+    - Fibrous materials like wood and carbon-fibre composites form compression creases that may run at 90° rather than 45° to the load; these short creases pinch shut as they propagate and so may arrest without complete failure—which is why multiple small creases appear on oar and bow compression faces without immediate fracture.
+* <span id="structures-or-why-things-dont-fall-down-054"></span>**Euler's buckling formula (P = π²EI/L²) shows that the load at which a long column buckles depends on stiffness and cross-sectional shape but not on material strength—a long column does not break when it buckles but simply bends elastically out of the way, recovering fully when the load is removed.**
+    - Euler derived the formula as a test case for his newly invented calculus of variations, not because he was interested in practical engineering; serious technological use of the formula only began about a century after his death.
+    - Grasses, quickset hedges, and other small plants exploit Euler buckling deliberately: they are designed to bend without breaking when trodden on, recovering elastically afterward—making lawns walkable and hedges virtually indestructible.
+* <span id="structures-or-why-things-dont-fall-down-055"></span>**Trees pre-stress their outer wood in tension (by approximately 2,000 p.s.i.) and their central wood in compression, roughly halving the maximum compressive stress experienced during bending by wind—exactly the opposite of pre-stressed concrete, where concrete is pre-compressed to resist tensile failure.**
+    - Traditional spar-makers refused to hollow masts or remove much outer wood precisely because the natural pre-stress in the outer layers provides most of the mast's bending strength; modern engineers who first cut trees into pieces and then glue them back together lose this advantage.
+    - Wood's compressive strength (about 4,000 p.s.i.) is much lower than its tensile strength (about 15,000 p.s.i.); a mast or bow must accommodate bending from any direction, so pre-stressing the outer wood in tension doubles the effective bending strength without asymmetric cross-section.
+* <span id="structures-or-why-things-dont-fall-down-056"></span>**Thin-walled tubes fail by local Brazier buckling (skin wrinkling) independently of Euler buckling, and both Nature and engineering combat this through ribs, bulkheads, stringers, sandwich construction, and honeycomb cores—all of which increase effective bending stiffness without proportional weight increase.**
+    - Bamboo nodes (cross-partitions spaced along the hollow stem) prevent Brazier buckling by the same principle as ship's bulkheads and aircraft ribs; the spacing and thickness of bamboo nodes is remarkably well optimized for the loads bamboos actually experience.
+    - Paper honeycomb, accidentally brought to Gordon's attention by a circus proprietor in 1943, was waterproofed by resin impregnation and became widely used for aircraft sandwich structures; today roughly half the world's interior doors use paper honeycomb cores.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Architecture/Earth_crescent-blade.png" alt="" role="presentation" loading="lazy"></div>
+
+## Part Four: And the Consequence Was...
+
+### Chapter 14: The Philosophy of Design
+
+Structural optimization shows that tension members become relatively cheaper per unit weight as they are made longer or subdivided, while compression members become catastrophically heavier because Euler buckling penalizes length as L²—making the ideal structure a small number of short, heavy compression members surrounded by a large number of long, light tension members, precisely the architecture of vertebrate bodies, sailing ships, and tents; and wood outperforms all common materials on an energy-cost basis for most large lightly-loaded structures.
+
+* <span id="structures-or-why-things-dont-fall-down-057"></span>**Tension members become relatively more efficient with greater length or subdivision because end-fitting weight is a fixed overhead that becomes proportionally smaller per unit of carrying capacity as the member grows; this explains the evolutionary multiplication of tendons, muscles, and ropes.**
+    - For a long suspension bridge cable the fixed weight of the end anchorages is trivial compared with the cable length, justifying high-tensile steel despite heavier fittings; for chain links the end-fitting weight dominates, justifying tough wrought iron at low stress.
+    - Two tension bars in parallel have less total end-fitting weight than one bar of equivalent cross-section, so subdividing a tension load saves weight—Nature never hesitates to multiply tendons and muscles for exactly this reason.
+* <span id="structures-or-why-things-dont-fall-down-058"></span>**Compression members become drastically heavier than tension members as length increases because Euler buckling requires the mass to grow approximately as L³ for a given load, whereas tension member mass grows only as L—so carrying one ton over 10 metres in tension requires about 3.5 kg of steel, while compression requires about 200 kg.**
+    - Subdividing a compression load between four columns instead of one makes the situation worse, not better: the weight increases as √n where n is the number of columns.
+    - A bell-tent (one central pole, many guy-ropes) is the lightest possible 'building' per unit of enclosed volume; similarly a single-masted cutter is a lighter rig than a ketch or schooner for the same reason.
+* <span id="structures-or-why-things-dont-fall-down-059"></span>**Monocoque shells are always heavier than space-frames for resisting compression and bending, but more efficient for resisting shear and torsion; the historical transition from biplane space-frames to monoplane monocoques was therefore a logical response to increasing torsional requirements at higher speeds, not a fashion.**
+    - The Weymann saloon car body (c.1930), a wooden space-frame covered with padded fabric, was much lighter than any pressed-metal shell; in an era of expensive fuel this form might rationally be revived.
+    - Nature nearly always avoids torsion, enabling large animals and flying creatures to retain space-frame rather than monocoque construction, with consequent savings in structural weight.
+* <span id="structures-or-why-things-dont-fall-down-060"></span>**On an energy-cost basis, wood is overwhelmingly superior to steel, aluminium, titanium, and carbon-fibre composites for most structural purposes—requiring 50 times less energy to produce a panel of given compressive strength than steel, and new fast-growing timber varieties can be raised in six years using solar energy.**
+    - The structural efficiency criterion for panels under compression is (tensile strength)^(2/3)/density; wood (spruce) scores approximately 48 on this criterion while steel scores only 7.5, making wood six times more efficient by weight for this loading case.
+    - Fast-growing varieties of Pinus radiata can increase 12 cm in diameter per year and be felled in six years; modern techniques can season softwood scantlings in 24 hours, eliminating the main historical disadvantages of timber as a structural material.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_orbit-with-rocket.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 15: A Chapter of Accidents
+
+Structural accidents are caused overwhelmingly not by abstruse technical effects but by human failings—carelessness, pride, ignorance, and greed—compounded by the inherent impossibility of predicting structural strength to better than a factor of three even with the most sophisticated analysis; metal fatigue, stress concentrations at holes cut in existing structures, and the cumulative effects of overweight represent the most common technical mechanisms, but the underlying causes are almost always preventable failures of character and professional competence.
+
+* <span id="structures-or-why-things-dont-fall-down-061"></span>**Even the most careful structural calculations by the best designers cannot predict the actual strength of complex structures like aircraft within better than a factor of about three: between 1935 and 1955, tested British aircraft strengths were randomly distributed between 50 and 150 percent of the required factored load.**
+    - The war-time Mosquito bomber initially failed its structural test at only 88 percent of the required load—in the rear wing-spar—then was progressively strengthened to 118 percent through iterative testing, contributing to its outstanding performance.
+    - Stiffness predictions are far more reliable than strength predictions because they depend on overall structural character rather than on finding the weakest link; designing by stiffness and then checking strength is generally more trustworthy than designing for strength directly.
+* <span id="structures-or-why-things-dont-fall-down-062"></span>**Metal fatigue occurs because fluctuating stresses progressively reduce the work of fracture of metal near stress concentrations, allowing cracks to grow at stresses far below the static breaking strength until they reach the critical Griffith length and propagate catastrophically.**
+    - The Comet airliner disasters (1953-54) were caused by fatigue cracks growing from small stress concentrations at window corners in the pressurised fuselage, which was repeatedly pressurised and depressurised on every flight; Sir Arnold Hall's team recovered almost the entire crashed aircraft from 300 feet depth in the Mediterranean for analysis.
+    - Iron and steel show a definite fatigue limit (typically after about 10^6 reversals) below which they will never fail; aluminium alloys have no such limit and continue to weaken with every stress cycle, making them more dangerous in long-service applications.
+* <span id="structures-or-why-things-dont-fall-down-063"></span>**Cutting holes in existing structures—whether hatchways in ships, lift openings in the Majestic, control rod slots in the Master trainer, or bulkhead openings in the Birkenhead—invariably weakens them severely and has repeatedly caused catastrophic accidents with large loss of life.**
+    - The troopship Birkenhead (1852) was weakened by War Office insistence on cutting large openings in watertight bulkheads for troop comfort; when she struck a rock, the flooded forward section broke off almost immediately, and 475 men drowned or were eaten by sharks while the women and children were saved in an act of legendary military discipline.
+    - The Master advanced trainer was converted to a fighter by installing rod controls requiring slots cut in the rear fuselage bulkhead, reducing the structure's strength from adequate to 45 percent of the required load—causing three fatal accidents before the cause was identified on the test frame.
+* <span id="structures-or-why-things-dont-fall-down-064"></span>**The loss of H.M.S. Captain (1870), which capsized in a moderate Bay of Biscay squall killing 472 people, was caused by structural overweight that raised the centre of gravity above a safe metacentric height—a consequence of political interference, pride, jealousy, and allowing an unqualified naval officer to design his own warship.**
+    - Captain Cowper Coles's campaign involved both Houses of Parliament, the Royal Family, and the Editor of The Times; the Admiralty capitulated and allowed Coles to design the ship himself at public expense—the only time this has ever been permitted.
+    - The ship ended up 15 percent overweight, reducing her capsizing angle to only 21°; calculations showed this before the disaster but the political momentum was unstoppable—illustrating what Gordon calls the 'Gadarene inevitability' of disasters driven by pride and ambition.
+* <span id="structures-or-why-things-dont-fall-down-065"></span>**The Tacoma Narrows bridge collapse (1940) demonstrated that wind-induced oscillation, not static wind pressure, governs suspension bridge design: the bridge's inadequate torsional stiffness allowed resonant oscillation at 42 mph to destroy it, and all modern long-span bridges now incorporate large-cross-section torsion boxes in their decking.**
+    - 'Galloping Gertie' displayed visible wind-induced oscillations from the day it opened; the collapse was filmed and the footage has been shown in virtually every engineering school in the world ever since.
+    - The Severn road bridge uses a large six-sided steel tube as its deck, forming a torsion box; the torsional stiffness requirement accounts for a substantial fraction of the total bridge weight.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Science/Space_star-constellation.png" alt="" role="presentation" loading="lazy"></div>
+
+### Chapter 16: Efficiency and Aesthetics
+
+Every artefact makes an emotional statement whether intended or not, and the ugliness of modern technology represents not an inevitable consequence of industrialism but a failure of character and values transmitted through design; skiamorphs, formalism, and ornament are not inherently dishonest but can be vehicles for genuine aesthetic achievement, as demonstrated by the Parthenon (which uses structural illusions of stress to achieve its effects) and the Watson steam yacht (which retains functionless bowsprit and clipper bow as the basis of its beauty).
+
+* <span id="structures-or-why-things-dont-fall-down-066"></span>**Every designed object unavoidably transmits the character and values of its maker, encoded at a subconscious level readable by everyone but articulable by few—just as a person's manner of sailing a yacht or flying an aircraft is as characteristic as their handwriting.**
+    - Archaeologists can date potsherds within a few years on stylistic grounds alone; walking through Pompeii conveys a powerful sense of what its inhabitants were like that no amount of factual history can equal.
+    - The ugliness of modern mass-production is not an inevitable consequence of industrialism: Sir Marc Brunel's Portsmouth block-making machinery (c.1800) remains both handsome and productive 180 years later, and Greek amphorae were simply the cheapest available wine containers, yet we collect them as art.
+* <span id="structures-or-why-things-dont-fall-down-067"></span>**The concept of 'efficiency' is a useful but limited engineering tool that becomes actively misleading when applied to the totality of a situation, because many of the most important values—the beauty of wet sand, the sound of gulls—are incommensurable with economic quantities.**
+    - It is impossible by any numerical criterion to compare the economic value of a proposed Thames Estuary airport with the rights of gulls and the beauty of the wet sands; Gordon is passionately on the side of the gulls.
+    - Modern technology becomes less visually bearable as it becomes more functionally optimised: automobile mechanical components are ugly when exposed, wireless sets hideous in their wiry state, and the Moon landers—the ultimate weight-optimised structures—are simply ugly.
+* <span id="structures-or-why-things-dont-fall-down-068"></span>**The Parthenon achieves its beauty not through structural honesty but through deliberate structural illusions: swelling columns simulate Poisson's ratio bulging under compressive stress, cushion-like capitals suggest load transfer, and deep architraves imply weight far beyond what actually exists.**
+    - Fenelon observed that classical architecture appears heavier than it is, Gothic architecture lighter; in both cases the aesthetic effect depends on a subjective sense of stress that has nothing to do with actual structural efficiency.
+    - The Parthenon contains scarcely a straight line or pair of parallel lines: its 72 columns incline toward a vanishing point five miles up in the sky, the stylobate curves upward, and the entasis bulges the columns—all deliberate deceptions that enchant without the observer knowing how.
+* <span id="structures-or-why-things-dont-fall-down-069"></span>**Skiamorphs—structural forms retained from a previous material or technology—are not inherently dishonest or inferior; the Doric order faithfully reproduced in marble the peg-holes and beam-ends of wooden construction that preceded it, yet produced the greatest buildings in history.**
+    - The Watson steam yacht retained the clipper bow and functionless bowsprit of sailing-ship practice as the foundation of its beauty; this is the same structural principle as the Doric temple's marble copies of irrelevant wooden details.
+    - Eighteenth-century 'Gothick' buildings, the Brighton Pavilion, and other deliberate architectural 'fakes' can be delightful; what matters is not honesty to structural function but the quality of the values expressed by the maker.
