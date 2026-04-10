@@ -30,11 +30,9 @@ The author positions this book not as philosophy but as a call to arms against a
     - The author predicts piratical bands and brotherhoods will return to the seas to enact this cleansing function against the enemies of Western man and beauty.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Political Science/Earth_figure-with-weapon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_arrow-forward-to.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part One: The Flame of Life
-
-### Part One: The Flame of Life (Sections 1–30)
 
 Life in its highest form is not the survival-and-reproduction machine described by Darwin but a self-expanding drive toward mastery of space, beauty, and excellence; Darwinism describes only life under extreme distress, and the true nature of organisms — governed by hormones, inborn will, and a demonic intelligence inside matter — points toward the production of a supreme specimen as nature's hidden goal.
 
@@ -71,11 +69,9 @@ Life in its highest form is not the survival-and-reproduction machine described 
     - Posting images of beautiful and handsome youths is not vanity but a contemplation of the persistent rejuvenation of this eternal force, and in them can be seen nature's hidden design striving toward a superior creature of terrible beauty and power.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Political Science/Space_star-emblem.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-announcing.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part Two: Parable of Iron Prison
-
-### Part Two: Parable of Iron Prison (Sections 31–48)
 
 Modern civilization is not merely flawed but represents the return of a very ancient subjection — the rule of matriarchy, domestication, and the longhouse — now hidden behind Enlightenment vocabulary; the gay, the transsexual, and the modern nerd are all products of this smothering, owned space, while Oriental civilization and the primitive village show that this broken state is the default condition of most of mankind throughout history.
 
@@ -106,11 +102,9 @@ Modern civilization is not merely flawed but represents the return of a very anc
     - The modern transsexual is the Gnostic response to total domestication taken to its logical conclusion, and in trying to escape 'matter wrongly configured,' they unwittingly serve to make progressive domestication more totalitarian.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part Three: Men of Power, and the Ascent of Youth
-
-### Part Three: Men of Power, and the Ascent of Youth (Sections 49–62)
 
 Life reaches its peak in the military state and the piratical brotherhood of free men, exemplified by Bronze Age Greeks, Renaissance adventurers, and modern mercenaries like Bob Denard; the Bronze Age mindset — divine carelessness, conquest of space, strong male friendship, and the lust for power as self-overcoming — is the only real antidote to civilizational subjection and can still be practiced by those with the right blood.
 
@@ -141,11 +135,9 @@ Life reaches its peak in the military state and the piratical brotherhood of fre
     - Executive Outcomes, the mercenary company that ended the civil war in Sierra Leone, was stopped by the UN and gangs of international lawyers precisely because it threatened to establish a new order in Africa — demonstrating that the Leviathan fears such men above all else.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_figure-with-tools.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part Four: A Few Arrows
-
-### Part Four: A Few Arrows (Sections 63–77)
 
 The liberation of women is the proximate cause of civilizational collapse because it hands control to demagogues who can mobilize the lower orders; the immediate political strategy requires building nationalist brotherhood through beauty, physical culture, and covert action rather than public ideological performance, while the long-term vision is a piratical fortress-aristocracy on the edges of civilization from which a new order will be imposed.
 
