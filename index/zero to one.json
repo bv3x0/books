@@ -1,0 +1,2189 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "author": "Peter Thiel with Blake Masters",
+    "year": 2014,
+    "categories": [
+      "business & economics",
+      "technology & engineering"
+    ],
+    "thesis": "Creating genuinely new things\u2014going from 0 to 1\u2014requires building monopolies through proprietary technology and unique insights, not competing in existing markets; the future depends on founders who think for themselves and plan definitively rather than iterating on what already exists."
+  },
+  "claims": [
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--001",
+      "text": "The contrarian question\u2014'What important truth do very few people agree with you on?'\u2014is the foundation for both original thinking and building the future, because good answers reveal what lies hidden behind delusional popular beliefs.",
+      "chapter": "The Challenge of the Future",
+      "concepts": [
+        "contrarian_thinking",
+        "epistemic_authority",
+        "future_orientation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Most answers fail because they either restate conventional wisdom or pick one side of a familiar debate; a genuinely good answer takes the form 'most people believe X, but the truth is the opposite.'",
+          "speaker": null
+        },
+        {
+          "text": "Seeing the present differently from others is as close as anyone can come to looking into the future.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--002",
+      "text": "Horizontal progress (globalization, copying what works) and vertical progress (technology, doing something entirely new) are distinct modes, and technology matters more because spreading old methods in a world of scarce resources leads to catastrophe, not prosperity.",
+      "chapter": "The Challenge of the Future",
+      "concepts": [
+        "technological_progress",
+        "globalization",
+        "resource_scarcity",
+        "innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China",
+          "India",
+          "Silicon Valley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "China's 20-year plan to copy developed-world infrastructure illustrates pure globalization; Silicon Valley's software advances illustrate pure vertical progress.",
+          "speaker": null
+        },
+        {
+          "text": "If every Indian household adopted American living standards using only today's tools, the environmental result would be catastrophic\u2014new technology is the only sustainable path.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--003",
+      "text": "Technological progress is not automatic\u2014after a surge from the steam engine (1760s) to roughly 1970, it stalled, and only computers and communications have dramatically improved since midcentury, leaving most of our physical world strangely unchanged.",
+      "chapter": "The Challenge of the Future",
+      "concepts": [
+        "technological_stagnation",
+        "historical_progress",
+        "innovation_cycles"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Prior generations expected a four-day workweek, energy too cheap to meter, and moon vacations\u2014they were wrong not to expect progress but wrong to assume it would happen automatically.",
+          "speaker": null
+        },
+        {
+          "text": "The challenge today is to both imagine and create new technologies that can make the 21st century more peaceful and prosperous than the 20th.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--004",
+      "text": "Startups are the best vehicle for 0-to-1 progress because they are large enough to require collaboration yet small enough to think clearly\u2014bureaucracies move slowly, lone geniuses can't build industries, and startups occupy the productive middle ground.",
+      "chapter": "The Challenge of the Future",
+      "concepts": [
+        "organizational_design",
+        "institutional_critique",
+        "entrepreneurship",
+        "innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In dysfunctional large organizations, signaling that work is being done becomes a better career strategy than actually doing work.",
+          "speaker": null
+        },
+        {
+          "text": "A startup is the largest group of people you can convince of a plan to build a different future; its most important strength is new thinking.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--005",
+      "text": "The dot-com mania of September 1998 to March 2000 arose against a backdrop of global economic failure\u2014the Asian financial crisis, the Russian ruble default, the LTCM collapse, and a weak euro\u2014making the New Economy internet thesis seem like the only path forward, not mere irrational exuberance.",
+      "chapter": "Party Like It's 1999",
+      "concepts": [
+        "financial_crisis",
+        "market_psychology",
+        "economic_history",
+        "technological_optimism"
+      ],
+      "entities": {
+        "people": [
+          "Alan Greenspan"
+        ],
+        "places": [
+          "Silicon Valley",
+          "Russia",
+          "Thailand",
+          "Indonesia",
+          "South Korea"
+        ],
+        "events": [
+          "East Asian financial crisis 1997",
+          "Russian ruble crisis 1998",
+          "LTCM collapse 1998"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The ruble crisis set off a chain reaction that brought down Long-Term Capital Management, which lost $4.6 billion in the latter half of 1998 and still had over $100 billion in liabilities when the Fed intervened.",
+          "speaker": null
+        },
+        {
+          "text": "By indirect proof, the New Economy of the internet was the only way forward\u2014the Old Economy couldn't handle globalization's challenges.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--006",
+      "text": "PayPal's strategy during the bubble illustrates rational behavior amid irrational surroundings: knowing the boom would end, they moved fast to raise $100 million in March 2000 just as the bubble popped, buying the time needed to build a sustainable business.",
+      "chapter": "Party Like It's 1999",
+      "concepts": [
+        "viral_growth",
+        "startup_financing",
+        "market_timing",
+        "customer_acquisition"
+      ],
+      "entities": {
+        "people": [
+          "Peter Thiel"
+        ],
+        "places": [
+          "Silicon Valley",
+          "Palo Alto"
+        ],
+        "events": [
+          "dot-com bubble",
+          "NASDAQ peak March 2000"
+        ],
+        "works": [
+          "Wall Street Journal"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "PayPal paid new customers $10 to join and $10 more per referral, achieving exponential growth but at exponentially growing cost\u2014they judged this rational given a clear path to profitability through transaction fees.",
+          "speaker": null
+        },
+        {
+          "text": "A South Korean firm wired PayPal $5 million without negotiating a deal or signing documents\u2014an emblem of how extreme the mania had become.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--007",
+      "text": "The four lessons Silicon Valley drew from the crash\u2014be incremental, stay lean and unplanned, improve on competitors, and focus on product over sales\u2014are largely wrong; their opposites are probably more correct.",
+      "chapter": "Party Like It's 1999",
+      "concepts": [
+        "startup_dogma",
+        "contrarian_thinking",
+        "post_crisis_reaction",
+        "entrepreneurship"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Silicon Valley"
+        ],
+        "events": [
+          "dot-com crash 2000"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "It is better to risk boldness than triviality; a bad plan is better than no plan; competitive markets destroy profits; and sales matters just as much as product.",
+          "speaker": null
+        },
+        {
+          "text": "These dogmas calcified into orthodoxy because they were understandable reactions to real failures\u2014but you can't escape the madness of crowds by dogmatically rejecting them.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--008",
+      "text": "The March 2000 market peak was simultaneously a peak of insanity and a peak of clarity\u2014people correctly saw that valuable new technology was needed for a better future, even if too few startups were actually delivering it.",
+      "chapter": "Party Like It's 1999",
+      "concepts": [
+        "technological_optimism",
+        "market_cycles",
+        "innovation",
+        "contrarian_thinking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "NASDAQ peak March 2000"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "People understood we had no choice but to find ways to do more with less; the error was grandiose talk without genuine 0-to-1 creation.",
+          "speaker": null
+        },
+        {
+          "text": "We still need new technology and may even need some 1999-style hubris to get it; the next generation of companies must abandon post-crash dogma.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--009",
+      "text": "Creating value is not sufficient\u2014a company must also capture it, which is why Google (with a 21% profit margin on $50 billion in revenue) is worth three times all U.S. airlines combined, despite airlines creating far more aggregate value.",
+      "chapter": "All Happy Companies Are Different",
+      "concepts": [
+        "value_capture",
+        "monopoly_economics",
+        "profit_margins",
+        "competitive_markets"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 2012, U.S. airlines made only 37 cents per passenger on an average $178 fare, while Google kept 21% of revenues as profit\u2014more than 100 times the airline industry's profit margin.",
+          "speaker": null
+        },
+        {
+          "text": "The lesson for entrepreneurs is clear: if you want to create and capture lasting value, don't build an undifferentiated commodity business.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--010",
+      "text": "Monopolists and competitors both lie about their market position\u2014monopolists exaggerate competition to avoid scrutiny (Google frames itself as a tiny fish in a vast global advertising market), while competitors exaggerate uniqueness to appear differentiated (a restaurant owner who claims to 'own' the British food market in Palo Alto).",
+      "chapter": "All Happy Companies Are Different",
+      "concepts": [
+        "market_definition",
+        "monopoly_concealment",
+        "competitive_deception",
+        "market_framing"
+      ],
+      "entities": {
+        "people": [
+          "Eric Schmidt"
+        ],
+        "places": [
+          "Palo Alto",
+          "Mountain View"
+        ],
+        "events": [
+          "2011 congressional hearing"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Google's 68% search market share looks like monopoly, but if framed as a player in the $495 billion global advertising market, it appears to own just 3.4%\u2014both framings serve different rhetorical purposes.",
+          "speaker": null
+        },
+        {
+          "text": "Non-monopolists define their market as the intersection of small niches; monopolists disguise their power by framing their market as the union of several large markets.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--011",
+      "text": "Competition destroys profits and drives people toward ruthlessness or death, while monopoly profits give companies the latitude to care about workers, products, and broader impact\u2014making monopoly good not just for insiders but for society in a dynamic world.",
+      "chapter": "All Happy Companies Are Different",
+      "concepts": [
+        "monopoly_economics",
+        "competitive_pressure",
+        "corporate_ethics",
+        "market_power"
+      ],
+      "entities": {
+        "people": [
+          "Bernard Loiseau"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "French chef Bernard Loiseau, who won three Michelin stars, killed himself in 2003 when a competing guide downgraded his restaurant\u2014the competitive ecosystem's extreme cost.",
+          "speaker": null
+        },
+        {
+          "text": "Google's 'Don't be evil' motto is characteristic of a business successful enough to take ethics seriously without jeopardizing its existence; non-monopolists can't afford this luxury.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--012",
+      "text": "Creative monopolies drive progress by offering customers new categories of abundance and by providing the profits needed for long-term R&D; the history of progress is a history of better monopoly businesses replacing incumbents, not of perfect competition.",
+      "chapter": "All Happy Companies Are Different",
+      "concepts": [
+        "creative_destruction",
+        "monopoly_succession",
+        "technological_progress",
+        "economic_modeling"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "Anna Karenina"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Apple's iOS rise dramatically reduced Microsoft's decades-long OS dominance; before that, IBM's hardware monopoly was overtaken by Microsoft's software monopoly; AT&T's telephone monopoly was supplanted by competitive cell service.",
+          "speaker": null
+        },
+        {
+          "text": "Economists obsess over competition as an ideal because it's easy to model mathematically, not because it represents the best of business\u2014equilibrium in business means stasis, and stasis means death.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--013",
+      "text": "The educational system reinforces competition as an ideology by precisely ranking students, teaching everyone the same subjects in the same way, and rewarding conformity\u2014trapping even elite students in fierce rivalries for conventional credentials like law clerkships and investment banking jobs.",
+      "chapter": "The Ideology of Competition",
+      "concepts": [
+        "educational_competition",
+        "credentialism",
+        "opportunity_cost",
+        "social_conformity"
+      ],
+      "entities": {
+        "people": [
+          "Peter Thiel"
+        ],
+        "places": [
+          "Stanford",
+          "Stanford Law School"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Thiel clerked on a federal appeals court and was close to winning a Supreme Court clerkship, but in retrospect that victory would have sentenced him to a career taking depositions rather than creating anything new.",
+          "speaker": null
+        },
+        {
+          "text": "All Rhodes Scholars had a great future in their past\u2014the highest prizes in conventional competition mark the end of genuine creation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--014",
+      "text": "Shakespeare's model of conflict\u2014where combatants are alike and fight precisely because of their sameness\u2014better explains business rivalry than Marx's model of conflict between genuinely different parties with different goals.",
+      "chapter": "The Ideology of Competition",
+      "concepts": [
+        "mimetic_rivalry",
+        "competitive_imitation",
+        "market_dynamics",
+        "strategic_distraction"
+      ],
+      "entities": {
+        "people": [
+          "Bill Gates",
+          "Eric Schmidt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Romeo and Juliet"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Microsoft and Google, coming from different places (OS/Office vs. search), grew obsessed with each other and produced Windows vs. Chrome OS, Bing vs. Google Search, Office vs. Docs, Surface vs. Nexus\u2014while Apple came along and overtook them both.",
+          "speaker": null
+        },
+        {
+          "text": "In January 2013, Apple's market cap was $500 billion while Google and Microsoft combined were worth $467 billion\u2014three years earlier, each rival was individually more valuable than Apple.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--015",
+      "text": "Rivalry causes companies to fixate on copying competitors rather than creating, as shown by the proliferation of mobile card readers copying Square's design with different geometric shapes\u2014a Shakespearean saga of imitation that adds no real value.",
+      "chapter": "The Ideology of Competition",
+      "concepts": [
+        "mimetic_rivalry",
+        "product_differentiation",
+        "competitive_imitation",
+        "innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Silicon Valley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "After Square released its white square card reader in 2010, NetSecure launched a half-moon shape, Intuit a cylinder, and PayPal a triangle\u2014as if three sides were a competitive advantage over four.",
+          "speaker": null
+        },
+        {
+          "text": "Individuals with Asperger's-like social ineptitude may have an advantage in Silicon Valley precisely because they are less sensitive to social cues and therefore less likely to imitate what everyone else is doing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--016",
+      "text": "When direct competition is unavoidable, merging is often better than fighting\u2014as when Thiel and Elon Musk merged PayPal and X.com in March 2000, motivated more by fear of the collapsing tech bubble than by each other, enabling both to survive the crash.",
+      "chapter": "The Ideology of Competition",
+      "concepts": [
+        "competitive_destruction",
+        "merger_strategy",
+        "startup_rivalry",
+        "strategic_de_escalation"
+      ],
+      "entities": {
+        "people": [
+          "Elon Musk",
+          "Max Levchin"
+        ],
+        "places": [
+          "Palo Alto",
+          "University Avenue"
+        ],
+        "events": [
+          "PayPal-X.com merger 2000"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "PayPal and X.com offices were four blocks apart on University Avenue, their products were feature-for-feature mirrors, and engineers were working 100-hour weeks focused on defeating the rival rather than building the product.",
+          "speaker": null
+        },
+        {
+          "text": "One PayPal engineer actually designed a bomb to use against X.com; calmer heads attributed the proposal to extreme sleep deprivation\u2014an emblem of how destructive rivalry had become.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--017",
+      "text": "Competition can make people hallucinate opportunities where none exist, as the Pets.com vs. PetStore.com vs. Petopia.com battle demonstrated\u2014companies so obsessed with defeating rivals that they never asked whether the online pet supply market was worth fighting for at all.",
+      "chapter": "The Ideology of Competition",
+      "concepts": [
+        "competitive_distraction",
+        "market_validation",
+        "mimetic_rivalry",
+        "opportunity_cost"
+      ],
+      "entities": {
+        "people": [
+          "Larry Ellison",
+          "Tom Siebel",
+          "Phil White"
+        ],
+        "places": [
+          "Redwood Shores"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When Pets.com folded after the dot-com crash, $300 million of investment capital disappeared because everyone had lost sight of the wider question of whether online pet supply was a viable market.",
+          "speaker": null
+        },
+        {
+          "text": "The Larry Ellison\u2013Tom Siebel rivalry led to Siebel employees being bribed with ice cream sandwiches and Informix CEO Phil White commissioning billboards attacking Ellison personally\u2014while Informix imploded in an accounting scandal and White ended up in federal prison.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--018",
+      "text": "A business's value today equals the sum of all future cash flows discounted to present value, which is why Twitter (losing money in 2013) was valued at $24 billion\u201412 times the profitable New York Times\u2014because investors expected Twitter to generate monopoly profits for a decade or more.",
+      "chapter": "Last Mover Advantage",
+      "concepts": [
+        "discounted_cash_flow",
+        "monopoly_profits",
+        "long_term_value",
+        "market_valuation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In March 2001, PayPal projected that 75% of its present value would come from profits generated in 2011 and beyond\u2014even though the company had been in business only 27 months; that turned out to be an underestimate.",
+          "speaker": null
+        },
+        {
+          "text": "Technology companies lose money early but generate most of their value 10 to 15 years in the future; old-economy businesses derive most value from near-term cash flows.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--019",
+      "text": "The four characteristics of durable monopolies\u2014proprietary technology at least 10x better than substitutes, network effects, economies of scale, and branding\u2014must work together; beginning with branding without substance (as Yahoo! tried under Marissa Mayer) fails.",
+      "chapter": "Last Mover Advantage",
+      "concepts": [
+        "proprietary_technology",
+        "network_effects",
+        "economies_of_scale",
+        "brand_monopoly"
+      ],
+      "entities": {
+        "people": [
+          "Marissa Mayer",
+          "Steve Jobs"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Amazon achieved its first 10x improvement by offering at least 10 times as many books as any physical bookstore; PayPal made eBay transactions at least 10x better by replacing 7-to-10-day check waits with instant payment.",
+          "speaker": null
+        },
+        {
+          "text": "Apple's brand monopoly rests on proprietary touchscreen technology, manufacturing scale that dominates materials pricing, and a content ecosystem with network effects from millions of developers and users\u2014surface imitation of Apple's aesthetics without this substance doesn't work.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--020",
+      "text": "Every startup should start with a very small, highly specific market it can dominate completely, then expand deliberately into adjacent markets\u2014as Amazon did from books to CDs to software to general retail, and as eBay did from Beanie Baby obsessives to all hobbyist trading.",
+      "chapter": "Last Mover Advantage",
+      "concepts": [
+        "market_sequencing",
+        "niche_domination",
+        "scaling_strategy",
+        "market_selection"
+      ],
+      "entities": {
+        "people": [
+          "Jeff Bezos"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "PayPal's PalmPilot payment product failed because its users were scattered, had little in common, and used devices only episodically; shifting to eBay PowerSellers\u2014a concentrated, high-frequency group\u2014allowed PayPal to serve 25% of them within three months.",
+          "speaker": null
+        },
+        {
+          "text": "Any big market is a bad starting choice, and a big market already served by competitors is even worse\u2014entrepreneurs talking about getting 1% of a $100 billion market are signaling they have no real plan.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--021",
+      "text": "Startups should avoid framing themselves as 'disruptors'\u2014a self-congratulatory buzzword that encourages companies to define themselves through opposition to incumbents rather than through genuine creation, attracting unnecessary conflict as Napster discovered.",
+      "chapter": "Last Mover Advantage",
+      "concepts": [
+        "disruption_ideology",
+        "competitive_positioning",
+        "market_expansion",
+        "startup_strategy"
+      ],
+      "entities": {
+        "people": [
+          "Shawn Fanning",
+          "Sean Parker"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Napster credibly threatened to disrupt the music recording industry in 1999, made the cover of Time, and ended up in bankruptcy court 18 months later.",
+          "speaker": null
+        },
+        {
+          "text": "PayPal took some business from Visa but expanded the overall payments market, giving Visa far more business than it took\u2014a net positive dynamic unlike Napster's zero-sum struggle.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--022",
+      "text": "Being the last mover\u2014making the final great development in a specific market and then enjoying decades of monopoly profits\u2014matters more than being the first mover, because first-mover advantage is a tactic, not a goal, and can be easily erased by a better entrant.",
+      "chapter": "Last Mover Advantage",
+      "concepts": [
+        "first_mover_advantage",
+        "last_mover_advantage",
+        "market_timing",
+        "long_term_planning"
+      ],
+      "entities": {
+        "people": [
+          "Jos\u00e9 Ra\u00fal Capablanca"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Grandmaster Jos\u00e9 Ra\u00fal Capablanca's advice applies to business: 'You must study the endgame before everything else.'",
+          "speaker": "Jos\u00e9 Ra\u00fal Capablanca"
+        },
+        {
+          "text": "The way to become the last mover is to dominate a small niche first, then scale toward an ambitious long-term vision.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--023",
+      "text": "Serial entrepreneurship\u2014people like Steve Jobs, Jack Dorsey, and Elon Musk creating multiple multibillion-dollar companies\u2014suggests that success is not primarily a matter of luck, since luck alone could not produce consistent extraordinary outcomes across different ventures.",
+      "chapter": "You Are Not a Lottery Ticket",
+      "concepts": [
+        "luck_vs_skill",
+        "serial_entrepreneurship",
+        "success_attribution",
+        "agency"
+      ],
+      "entities": {
+        "people": [
+          "Malcolm Gladwell",
+          "Warren Buffett",
+          "Jeff Bezos",
+          "Bill Gates",
+          "Steve Jobs",
+          "Jack Dorsey",
+          "Elon Musk"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Outliers"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Malcolm Gladwell attributes success to 'a patchwork of lucky breaks and arbitrary advantages,' but this reflects the broader Baby Boomer tendency to overrate chance and underrate planning.",
+          "speaker": null
+        },
+        {
+          "text": "Statistics doesn't work when the sample size is one\u2014every company starts only once in unique circumstances, so no scientific answer is possible, but the behavioral evidence from serial entrepreneurs points away from luck.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--024",
+      "text": "The key distinction is between definite and indefinite attitudes toward the future: definite people make firm plans and work to execute them, while indefinite people accumulate options and diversify against an unknowable future\u2014and indefinite optimism now dominates American culture.",
+      "chapter": "You Are Not a Lottery Ticket",
+      "concepts": [
+        "definite_optimism",
+        "indefinite_optimism",
+        "future_orientation",
+        "optionality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Stanford"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "American students spend a decade curating a 'bewilderingly diverse r\u00e9sum\u00e9 to prepare for a completely unknowable future'\u2014omnicompetent but ready for nothing in particular.",
+          "speaker": null
+        },
+        {
+          "text": "A definite person determines the one best thing to do and does it, striving to be a 'monopoly of one' rather than pursuing many-sided mediocrity called 'well-roundedness.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--025",
+      "text": "The four views of the future\u2014indefinite pessimism (Europe), definite pessimism (China), definite optimism (mid-20th-century America), and indefinite optimism (post-1982 America)\u2014represent fundamentally different relationships to planning and action, with definite optimism having produced the greatest achievements.",
+      "chapter": "You Are Not a Lottery Ticket",
+      "concepts": [
+        "definite_optimism",
+        "historical_progress",
+        "geopolitical_attitudes",
+        "planning_vs_improvisation"
+      ],
+      "entities": {
+        "people": [
+          "John Reber"
+        ],
+        "places": [
+          "Europe",
+          "China",
+          "San Francisco Bay Area"
+        ],
+        "events": [
+          "Apollo Program",
+          "Manhattan Project",
+          "Interstate Highway System"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Definite optimism built the Empire State Building (started 1929, finished 1931), the Golden Gate Bridge (1933\u20131937), the Manhattan Project (1941\u20131945), the Interstate Highway System, and NASA's Apollo Program (1961\u20131972).",
+          "speaker": null
+        },
+        {
+          "text": "China's rapid growth is definitively pessimistic\u2014executing concrete plans because leaders know living standards cannot catch up to the richest countries, not because they're confident.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--026",
+      "text": "Indefinite optimism dominates modern American finance, politics, and philosophy, producing a world where no one in the capital allocation chain knows what to do with money in the real economy\u2014money becomes the end rather than a means to concrete goals.",
+      "chapter": "You Are Not a Lottery Ticket",
+      "concepts": [
+        "indefinite_optimism",
+        "financialization",
+        "political_philosophy",
+        "process_vs_substance"
+      ],
+      "entities": {
+        "people": [
+          "John Rawls",
+          "Robert Nozick",
+          "Nate Silver"
+        ],
+        "places": [
+          "Wall Street"
+        ],
+        "events": [],
+        "works": [
+          "A Theory of Justice"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "After successful entrepreneurs sell companies, their money passes through banks, institutional investors, and diversified stock portfolios without anyone ever deciding what to actually build with it.",
+          "speaker": null
+        },
+        {
+          "text": "John Rawls and Robert Nozick, the two dominant late-20th-century political philosophers, were both indefinite optimists\u2014they focused on process (the veil of ignorance; voluntary exchange) rather than any concrete vision of a good society.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--027",
+      "text": "Indefinite optimism in biotechnology\u2014funding companies whose researchers experiment randomly rather than pursuing definite theories\u2014explains why Eroom's law shows drug approvals per billion dollars of R&D halving every nine years since 1950, even as information technology accelerated.",
+      "chapter": "You Are Not a Lottery Ticket",
+      "concepts": [
+        "indefinite_optimism",
+        "biotech_strategy",
+        "research_methodology",
+        "innovation_decline"
+      ],
+      "entities": {
+        "people": [
+          "Alexander Fleming"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Alexander Fleming discovered penicillin by accident in 1928 when he forgot to cover a petri dish; modern pharmaceutical companies have tried to amplify serendipity a millionfold by searching through molecular compounds at random.",
+          "speaker": null
+        },
+        {
+          "text": "The genuine difficulty of biology has become an excuse for biotech startups' indefinite business approach\u2014professors become part-time consultants rather than full-time founders, and everyone imitates this lack of commitment.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--028",
+      "text": "Intelligent design beats Darwinian iteration in startups: making small changes to existing things leads only to local maxima, and the 'lean startup' methodology of iterating toward success without a bold plan cannot take a company from 0 to 1.",
+      "chapter": "You Are Not a Lottery Ticket",
+      "concepts": [
+        "definite_planning",
+        "startup_strategy",
+        "product_vision",
+        "long_term_thinking"
+      ],
+      "entities": {
+        "people": [
+          "Steve Jobs",
+          "Mark Zuckerberg"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Steve Jobs changed the world through careful multi-year planning\u2014not by listening to focus groups or copying others\u2014designing the iPod (2001) as the first of a new generation of portable post-PC devices when analysts could only see 'a nice feature for Macintosh users.'",
+          "speaker": null
+        },
+        {
+          "text": "When Yahoo! offered to buy Facebook for $1 billion in 2006, Zuckerberg dismissed it in under 10 minutes because he had a definite vision for where he could take the company\u2014a definite founder with robust plans doesn't sell.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--029",
+      "text": "The Pareto principle\u201420% of inputs produce 80% of outputs\u2014extends in venture capital to an extreme power law where a single investment in a successful fund outperforms the entire rest of the fund combined, making diversification a catastrophic error for VCs.",
+      "chapter": "Follow the Money",
+      "concepts": [
+        "power_law",
+        "venture_capital",
+        "portfolio_theory",
+        "investment_concentration"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "At Founders Fund's 2005 fund, Facebook returned more than all other investments combined; Palantir, the second-best investment, was set to return more than the sum of every other investment except Facebook.",
+          "speaker": null
+        },
+        {
+          "text": "Andreessen Horowitz's $250,000 investment in Instagram returned $78 million (312x) in under two years\u2014phenomenal, but with a $1.5 billion fund they would need 19 Instagrams just to break even if they only wrote $250,000 checks.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--030",
+      "text": "The two rules that follow from the power law\u2014only invest in companies with potential to return the entire fund, and because that rule is so restrictive there can be no other rules\u2014eliminate the vast majority of possible investments and demand intense conviction about a very few bets.",
+      "chapter": "Follow the Money",
+      "concepts": [
+        "investment_concentration",
+        "power_law",
+        "venture_capital",
+        "portfolio_construction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Founders Fund focuses on five to seven companies per fund, each believed capable of becoming a multibillion-dollar business based on unique fundamentals.",
+          "speaker": null
+        },
+        {
+          "text": "Shifting from the substance of a business to whether it fits a diversified hedging strategy makes venture investing indistinguishable from buying lottery tickets\u2014once you think you're playing the lottery, you've prepared yourself to lose.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--031",
+      "text": "VCs miss the power law because it only becomes unambiguous over a 10-year fund's lifetime, while daily experience is dominated by early-stage companies that look superficially similar\u2014and investors spend disproportionate time on the most problematic companies.",
+      "chapter": "Follow the Money",
+      "concepts": [
+        "power_law",
+        "survivorship_bias",
+        "venture_capital",
+        "economic_impact"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Silicon Valley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Venture returns don't follow a normal distribution where bad companies fail and good ones return 2-4x; they follow a power law where the top company dwarfs all others combined.",
+          "speaker": null
+        },
+        {
+          "text": "Less than 1% of U.S. businesses started each year receive venture funding, and VC investment is less than 0.2% of GDP\u2014yet venture-backed companies generate revenues equivalent to 21% of GDP and create 11% of all private sector jobs.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--032",
+      "text": "The power law applies to individuals too: an entrepreneur cannot diversify across many ventures, and the power law means differences between companies dwarf differences in roles within companies\u2014joining the best company while it's growing fast often beats founding a mediocre new one.",
+      "chapter": "Follow the Money",
+      "concepts": [
+        "power_law",
+        "career_strategy",
+        "opportunity_cost",
+        "concentration_vs_diversification"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Owning 0.01% of Google is worth more than $35 million\u2014far more than 100% of most new ventures; you could have 100% of a failed startup's equity and still have 100% of nothing.",
+          "speaker": null
+        },
+        {
+          "text": "Institutionalized education traffics in homogenized knowledge and trains people not to think in power law terms\u2014every course period is 45 minutes regardless of subject, and model students build portfolios of minor skills rather than concentrating on one valuable thing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--033",
+      "text": "The belief that no hard secrets remain\u2014illustrated by the Unabomber's manifesto, hipster nostalgia culture, and fundamentalism of all kinds\u2014is a modern pathology; Kaczynski correctly diagnosed that modern people are depressed because they think only easy or impossible tasks remain, but his response (destroy technology) was wrong.",
+      "chapter": "Secrets",
+      "concepts": [
+        "epistemic_humility",
+        "technological_pessimism",
+        "contrarian_thinking",
+        "progress_ideology"
+      ],
+      "entities": {
+        "people": [
+          "Ted Kaczynski"
+        ],
+        "places": [
+          "Harvard",
+          "UC Berkeley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Kaczynski argued that modern people are depressed because hard problems have all been solved, leaving only easy tasks a child could do or impossible ones Einstein couldn't do; his 35,000-word manifesto was cogent enough that his brother recognized his style and turned him in.",
+          "speaker": null
+        },
+        {
+          "text": "Hipster faux-vintage photography, handlebar mustaches, and vinyl records all hark back to an earlier time when people were still optimistic about the future\u2014the aesthetics of a world where everything worth doing has already been done.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--034",
+      "text": "Four social trends have conspired to eliminate belief in secrets: incrementalism (school rewards doing exactly what's asked, not discovering what's not on the test), risk aversion (secrets haven't been vetted by the mainstream), complacency (elites don't need to search), and 'flatness' (globalization implies someone smarter has already found it).",
+      "chapter": "Secrets",
+      "concepts": [
+        "risk_aversion",
+        "social_conformity",
+        "globalization",
+        "epistemic_humility"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If something is discoverable, wouldn't someone from the global talent pool of smarter, more creative people have already found it? This voice of doubt discourages even starting to look.",
+          "speaker": null
+        },
+        {
+          "text": "We can be glad there are fewer crazy cults now, yet that gain has come at great cost: we have given up our sense of wonder at secrets left to be discovered.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--035",
+      "text": "Disbelief in secrets leads to faith in efficient markets and the suppression of injustice\u2014a world with no secrets is also a world with no hidden injustices\u2014while financial bubbles demonstrate that markets can have extraordinary inefficiencies that conventional wisdom refuses to see.",
+      "chapter": "Secrets",
+      "concepts": [
+        "market_efficiency",
+        "institutional_decline",
+        "technological_secrets",
+        "corporate_governance"
+      ],
+      "entities": {
+        "people": [
+          "Tom Perkins",
+          "Patricia Dunn"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "HP went from $9 billion in 1990 to $135 billion by mid-2000 by relentlessly inventing new products (the first affordable color printer, first superportable laptop, first all-in-one printer/fax/copier), then collapsed to $23 billion by 2012 after its board stopped believing in technological secrets.",
+          "speaker": null
+        },
+        {
+          "text": "HP board chair Patricia Dunn argued that charting a plan for future technology was beyond the board's competence\u2014it should restrict itself to a night watchman's role of accounting compliance and rule-following.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--036",
+      "text": "Andrew Wiles's proof of Fermat's Last Theorem\u2014working in secret for nine years on a problem unsolved for 358 years\u2014demonstrates that belief in secrets is an effective truth: if you think something hard is impossible, you'll never start; great companies like Airbnb, Lyft, and Uber were built on secrets hidden in plain sight.",
+      "chapter": "Secrets",
+      "concepts": [
+        "contrarian_thinking",
+        "hidden_opportunities",
+        "market_discovery",
+        "secrets_of_nature"
+      ],
+      "entities": {
+        "people": [
+          "Andrew Wiles",
+          "Pierre de Fermat"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Airbnb saw untapped supply (unoccupied property) and unaddressed demand (travelers needing affordable alternatives) where others saw nothing; Uber connected people who want rides with people willing to drive\u2014both seemed obvious in retrospect but required believing in secrets first.",
+          "speaker": null
+        },
+        {
+          "text": "There are two kinds of secrets: secrets of nature (undiscovered physical facts) and secrets about people (things people don't know about themselves or hide). Nutrition is an example of a neglected field\u2014we know more about the physics of faraway stars than about human nutrition.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--037",
+      "text": "The best place to share a secret is within a company\u2014a conspiracy to change the world\u2014where you tell only those you need to and no more, because every great business is built around a secret hidden from the outside.",
+      "chapter": "Secrets",
+      "concepts": [
+        "organizational_secrecy",
+        "startup_founding",
+        "knowledge_sharing",
+        "competitive_advantage"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Lord of the Rings",
+          "Faust"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Unless you have perfectly conventional beliefs, it's rarely a good idea to tell everyone everything you know; the golden mean between telling nobody and telling everybody is a company.",
+          "speaker": null
+        },
+        {
+          "text": "When you share your secret, the recipient becomes a fellow conspirator\u2014this is the founding logic of every great startup.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--038",
+      "text": "Choosing a co-founder is the first and most crucial decision a founder makes, and mismatched co-founders doom a company just as irreconcilably as a bad marriage\u2014founders should share a prehistory before starting a company, not meet at a networking event and decide to partner.",
+      "chapter": "Foundations",
+      "concepts": [
+        "co_founder_selection",
+        "startup_founding",
+        "partnership_dynamics",
+        "organizational_design"
+      ],
+      "entities": {
+        "people": [
+          "Luke Nosek"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Thiel invested in a company co-founded by Luke Nosek and an MBA type they had met at a networking event; with no real shared history or complementary vision, the company blew up and Thiel lost his money.",
+          "speaker": null
+        },
+        {
+          "text": "Meeting a co-founder at a networking event and deciding to start a company is no better than marrying the first person you meet at the slot machines in Vegas.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--039",
+      "text": "The three-way distinction between ownership (equity), possession (day-to-day operation), and control (board governance) reveals the structural sources of startup misalignment\u2014and the DMV illustrates how dysfunction arises when these functions are divorced from accountability.",
+      "chapter": "Foundations",
+      "concepts": [
+        "corporate_governance",
+        "principal_agent_problem",
+        "ownership_structure",
+        "organizational_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A startup distributes ownership among founders, employees, and investors; possession to managers and employees; and control to a board of directors\u2014in theory these work smoothly, but in practice they multiply opportunities for conflict.",
+          "speaker": null
+        },
+        {
+          "text": "A large corporation's CEO owns only a trivial fraction of stock, incentivizing him to reward himself through possession (salary, jet, quarterly results) rather than ownership value.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--040",
+      "text": "Boards should be kept small\u2014ideally three people, never more than five for private companies\u2014because a small board can exercise effective oversight, while a large board provides cover for whatever microdictator actually runs the organization.",
+      "chapter": "Foundations",
+      "concepts": [
+        "corporate_governance",
+        "board_composition",
+        "organizational_design",
+        "accountability"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Government regulations effectively mandate larger boards for public companies (averaging nine members), but private startups should resist this\u2014even one problem director will cause pain and may jeopardize the company's future.",
+          "speaker": null
+        },
+        {
+          "text": "A nonprofit with dozens of board members signals not strong governance but the absence of any effective oversight at all.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--041",
+      "text": "Everyone involved with a company should be involved full-time and in the same physical location, because misalignment creeps in whenever colleagues aren't together\u2014consultants, part-time employees, and remote workers are all incentivized to claim near-term value rather than create future value.",
+      "chapter": "Foundations",
+      "concepts": [
+        "organizational_alignment",
+        "full_time_commitment",
+        "incentive_design",
+        "team_cohesion"
+      ],
+      "entities": {
+        "people": [
+          "Ken Kesey"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Anyone who doesn't own stock options or draw a regular salary is fundamentally misaligned: at the margin, they'll be biased toward claiming value in the near term.",
+          "speaker": null
+        },
+        {
+          "text": "Ken Kesey was right: you're either on the bus or off the bus.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--042",
+      "text": "Early-stage CEOs should take low cash salaries\u2014ideally no more than $150,000\u2014because high cash compensation incentivizes defending the status quo, while low pay aligns the CEO with equity creation and sets a ceiling that shapes the entire company's compensation culture.",
+      "chapter": "Foundations",
+      "concepts": [
+        "executive_compensation",
+        "equity_incentives",
+        "startup_culture",
+        "alignment"
+      ],
+      "entities": {
+        "people": [
+          "Aaron Levie"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Aaron Levie, CEO of Box, was still living in a one-bedroom apartment with only a mattress four years after founding the company\u2014every employee noticed his obvious commitment to the mission and emulated it.",
+          "speaker": null
+        },
+        {
+          "text": "Equity is the best compensation tool because it orients people toward creating future value; anyone who prefers cash to equity reveals a preference against long-term commitment.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--043",
+      "text": "The PayPal Mafia's extraordinary post-company success\u2014SpaceX, Tesla, LinkedIn, YouTube, Yelp, Yammer, and Palantir, each worth over $1 billion\u2014demonstrates that a culture strong enough to transcend the original company is built on genuine personal bonds, not perks or professional credentials.",
+      "chapter": "The Mechanics of Mafia",
+      "concepts": [
+        "team_cohesion",
+        "startup_culture",
+        "network_effects",
+        "organizational_loyalty"
+      ],
+      "entities": {
+        "people": [
+          "Elon Musk",
+          "Reid Hoffman",
+          "Steve Chen",
+          "Chad Hurley",
+          "Jeremy Stoppelman",
+          "David Sacks"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "PayPal was sold to eBay for $1.5 billion in 2002; since then its alumni have co-founded seven companies each worth over $1 billion\u2014all built on relationships forged at PayPal.",
+          "speaker": null
+        },
+        {
+          "text": "Thin professional relationships\u2014like those among the lawyers Thiel worked with at a New York law firm, who spent all day together but had little to say outside the office\u2014are worse than cold: they're irrational, because time is your most valuable asset.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--044",
+      "text": "Recruiting should focus on why a specific candidate would want to work at this company with this team on this mission\u2014generic pitches about stock options, smart colleagues, or challenging problems won't differentiate you and won't attract the right people.",
+      "chapter": "The Mechanics of Mafia",
+      "concepts": [
+        "recruiting_strategy",
+        "mission_alignment",
+        "talent_acquisition",
+        "startup_culture"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The 20th engineer considering Google has better options\u2014the only compelling answer to why she should join your startup instead must be specific to your company's mission and team, not applicable to any other company.",
+          "speaker": null
+        },
+        {
+          "text": "At PayPal, if you were excited by creating a new digital currency to replace the U.S. dollar, they wanted to talk; if not, you weren't the right fit.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--045",
+      "text": "Early team members should be as personally similar as possible\u2014sharing an understanding of the world enables the fast, efficient work small teams with limited resources must do\u2014but on the inside each individual should be sharply distinguished by having exactly one unique responsibility.",
+      "chapter": "The Mechanics of Mafia",
+      "concepts": [
+        "team_homogeneity",
+        "role_clarity",
+        "internal_conflict",
+        "organizational_design"
+      ],
+      "entities": {
+        "people": [
+          "Max Levchin"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Cryptonomicon"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The early PayPal team worked well because they were all the same kind of nerd: they loved science fiction, preferred Star Wars to Star Trek, and were all obsessed with digital currency controlled by individuals rather than governments.",
+          "speaker": null
+        },
+        {
+          "text": "Making every person in the company responsible for doing just one thing reduced conflict by eliminating competition for the same responsibilities\u2014most internal fights erupt when colleagues compete for overlapping roles.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--046",
+      "text": "The best startups are like slightly less extreme cults\u2014people at a successful startup are fanatically right about something the outside world has missed, whereas actual cults are fanatically wrong; the opposite extreme of a cult, the consulting firm, lacks any distinctive mission entirely.",
+      "chapter": "The Mechanics of Mafia",
+      "concepts": [
+        "organizational_culture",
+        "mission_intensity",
+        "startup_culture",
+        "institutional_critique"
+      ],
+      "entities": {
+        "people": [
+          "Jim Jones",
+          "Charles Manson"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cultures of total dedication look crazy from the outside partly because the most notorious cults were homicidal\u2014Jim Jones and Charles Manson did not make good exits.",
+          "speaker": null
+        },
+        {
+          "text": "A consulting firm like Accenture not only lacks a distinctive mission but has individual consultants regularly dropping in and out of companies to which they have no long-term connection\u2014the polar opposite of a cult, and equally unproductive.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--047",
+      "text": "Sales is effective precisely because it is hidden\u2014all salespeople present themselves with titles that obscure what they do (account executives, business development, investment bankers, politicians), and the best sales is invisible even to those being sold to.",
+      "chapter": "If You Build It, Will They Come?",
+      "concepts": [
+        "sales_psychology",
+        "distribution_strategy",
+        "persuasion",
+        "hidden_influence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Tom Sawyer persuaded neighborhood friends to whitewash the fence for him; convincing them to actually pay him for the privilege of doing his chores was the move of a grandmaster, and his friends were none the wiser.",
+          "speaker": null
+        },
+        {
+          "text": "Engineers underrate sales because they are used to transparent technical work where solutions either work or fail; sales is the opposite\u2014an orchestrated campaign to change surface appearances without changing underlying reality.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--048",
+      "text": "Different products require fundamentally different distribution methods determined by price point: complex sales (7-figure deals, personal CEO attention, SpaceX with NASA), personal sales ($10K\u2013$100K, Box selling to Stanford), marketing and advertising (mass-market physical goods, Warby Parker), and viral distribution (network effects, PayPal).",
+      "chapter": "If You Build It, Will They Come?",
+      "concepts": [
+        "distribution_strategy",
+        "sales_methodology",
+        "customer_acquisition",
+        "market_segmentation"
+      ],
+      "entities": {
+        "people": [
+          "Elon Musk"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "SpaceX persuaded NASA to sign billion-dollar contracts to replace the space shuttle\u2014complex sales requiring Elon Musk to personally overcome political inertia from an aerospace industry employing 500,000 people spread across all 50 states.",
+          "speaker": null
+        },
+        {
+          "text": "Box's Blake started with small groups at the Stanford Sleep Clinic, built relationships user by user within client companies, and eventually won a Stanford-wide contract\u2014starting with enterprise-wide pitches would have killed the company.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--049",
+      "text": "Viral distribution is the most powerful channel when available: PayPal's referral program (paying $10 to join and $10 per referral) cost $20 per customer but generated 7% daily growth\u2014nearly doubling the user base every 10 days\u2014because each new user naturally invited more users through the payment mechanism.",
+      "chapter": "If You Build It, Will They Come?",
+      "concepts": [
+        "viral_growth",
+        "network_effects",
+        "customer_acquisition",
+        "market_seeding"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "PayPal identified eBay PowerSellers\u201420,000 high-frequency merchants with multiple daily auctions and terrible existing payment solutions\u2014as the ideal viral seed market because they transacted constantly and would enthusiastically adopt a better payment tool.",
+          "speaker": null
+        },
+        {
+          "text": "Whoever dominates the most important viral segment first becomes the last mover in the whole market: once PayPal dominated eBay payments, there was no catching up on eBay or anywhere else.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--050",
+      "text": "Distribution follows a power law\u2014one channel is likely to be far more powerful than all others\u2014so the kitchen-sink approach of trying several channels without nailing one leads to failure; most businesses get zero distribution channels to work, making poor sales the most common cause of startup death.",
+      "chapter": "If You Build It, Will They Come?",
+      "concepts": [
+        "power_law",
+        "distribution_strategy",
+        "startup_failure",
+        "sales_effectiveness"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The 'distribution doldrums' trap products priced around $1,000\u2014too expensive for mass advertising, too cheap to justify personal salespeople\u2014leaving small business software with no viable path to customers.",
+          "speaker": null
+        },
+        {
+          "text": "A company must sell itself to employees and investors as well as customers; nerds who instinctively mistrust media make the mistake of having no public relations strategy, but prospective hires will google the company and the results will be critical.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--051",
+      "text": "Technology means complementarity, not substitution: unlike workers from other countries who compete for the same jobs and resources, computers are categorically different from humans\u2014good at data processing but incapable of the basic judgment any four-year-old can perform, making the gains from human-computer collaboration far greater than gains from trade.",
+      "chapter": "Man and Machine",
+      "concepts": [
+        "human_computer_complementarity",
+        "technological_displacement",
+        "comparative_advantage",
+        "automation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Google's supercomputer learned to identify a cat with 75% accuracy after scanning 10 million YouTube thumbnails\u2014impressive until you remember that an average four-year-old can do it flawlessly.",
+          "speaker": null
+        },
+        {
+          "text": "Unlike people in industrializing countries, computers don't desire food or beachfront villas; they require only a nominal amount of electricity, which they're not even smart enough to want\u2014so we get all efficiency gains without competing for resources.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--052",
+      "text": "PayPal's fraud detection system 'Igor' demonstrated that human-computer hybrids outperform either alone: automatic detection algorithms couldn't adapt to fraudsters' changing tactics, but human analysts could spot what computers missed, so combining them turned a $10 million monthly loss into PayPal's first quarterly profit.",
+      "chapter": "Man and Machine",
+      "concepts": [
+        "human_computer_complementarity",
+        "fraud_detection",
+        "hybrid_systems",
+        "machine_learning"
+      ],
+      "entities": {
+        "people": [
+          "Max Levchin"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "PayPal was losing over $10 million a month to credit card fraud in mid-2000; purely automated detection failed because fraudsters adapted their tactics within hours of each new algorithm.",
+          "speaker": null
+        },
+        {
+          "text": "The hybrid system\u2014computer flagging suspicious transactions on a well-designed interface, human operators making final judgment\u2014earned the FBI's interest and enabled PayPal to turn a $29.3 million quarterly loss into a quarterly profit within a year.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--053",
+      "text": "Palantir applied the PayPal hybrid principle to national security\u2014combining human intelligence analysts' judgment with computers' data processing power\u2014achieving what neither the CIA (too human) nor the NSA (too machine) could do alone, and building toward $1 billion in 2014 revenues.",
+      "chapter": "Man and Machine",
+      "concepts": [
+        "human_computer_complementarity",
+        "intelligence_analysis",
+        "data_analytics",
+        "national_security"
+      ],
+      "entities": {
+        "people": [
+          "Alex Karp",
+          "Stephen Cohen"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "CIA analysts wade through so much noise they can't identify serious threats; NSA computers process enormous quantities of data but can't authoritatively determine whether someone is plotting a terrorist act\u2014Palantir's software bridges this gap.",
+          "speaker": null
+        },
+        {
+          "text": "Analysts using Palantir's software have predicted IED placement in Afghanistan, prosecuted insider trading cases, taken down the largest child pornography ring in the world, and saved banks and government hundreds of millions annually through fraud detection.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--054",
+      "text": "The computer science field's bias toward 'machine learning' and 'big data' reflects a substitutionist ideology embedded in academic training\u2014researchers make their reputations by teaching computers to perform human tasks one by one\u2014but big data is usually dumb data because computers can't interpret patterns across different sources without human guidance.",
+      "chapter": "Man and Machine",
+      "concepts": [
+        "machine_learning",
+        "big_data_critique",
+        "human_computer_complementarity",
+        "technology_ideology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "LinkedIn didn't poll recruiters for discrete pain points or try to replace them outright\u2014recruiting requires detective work, judgment, and sales, all impossible to fully automate\u2014instead it transformed how recruiters do their jobs, and today more than 97% of recruiters use it.",
+          "speaker": null
+        },
+        {
+          "text": "We are impressed by small feats accomplished by computers alone but ignore big achievements from complementarity because the human contribution makes them less uncanny\u2014Watson and Deep Blue are cool, but hybrid systems are more valuable.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--055",
+      "text": "Most cleantech companies failed the engineering question by producing only incremental improvements rather than 10x breakthroughs\u2014Solyndra's cylindrical solar cells were inherently 1/\u03c0 as efficient as flat ones, starting from a radically inferior position that mirrors and clever design couldn't overcome.",
+      "chapter": "Seeing Green",
+      "concepts": [
+        "proprietary_technology",
+        "cleantech",
+        "product_differentiation",
+        "innovation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Companies must strive for 10x better because merely incremental improvements (like a 20% more efficient wind turbine) often mean no improvement at all for the end user once real-world expenses and skepticism about exaggerated claims are factored in.",
+          "speaker": null
+        },
+        {
+          "text": "Only when your product is 10x better can you offer transparent superiority\u2014anything less is hard to sell and easy to dismiss as a marginal improvement.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--056",
+      "text": "Cleantech companies failed the monopoly question by simultaneously shrinking their market definition to appear differentiated and then seeking valuations based on enormous markets\u2014but huge trillion-dollar markets mean ruthless competition, not easily attainable opportunity.",
+      "chapter": "Seeing Green",
+      "concepts": [
+        "market_definition",
+        "monopoly_strategy",
+        "cleantech",
+        "competitive_analysis"
+      ],
+      "entities": {
+        "people": [
+          "John Doerr",
+          "Dave Pearce"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "MiaSol\u00e9 CEO Dave Pearce acknowledged being one of several 'very strong' startups working on thin-film solar in 2006, then minutes later predicted his company would become the world's largest thin-film producer within a year; it was acquired in 2013 for hundreds of millions less than investors put in.",
+          "speaker": null
+        },
+        {
+          "text": "A solar company with 100 megawatts of installed capacity might seem to own 10.53% of the U.S. solar market\u2014until you realize the relevant market might be global renewables (420 gigawatts) or total global power (15,000 gigawatts), reducing market share to fractions of a percent.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--057",
+      "text": "Cleantech companies failed the people and distribution questions together: executives in suits (not technical founders) raised capital and government subsidies but couldn't build products customers wanted, while Better Place spent $800 million building electric car infrastructure that sold only 1,000 vehicles because it made buying impossibly complicated.",
+      "chapter": "Seeing Green",
+      "concepts": [
+        "cleantech",
+        "distribution_strategy",
+        "founder_characteristics",
+        "product_adoption"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Israel"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Founders Fund instituted a rule to pass on any company whose founders dressed up for pitch meetings\u2014real technologists wear T-shirts and jeans; if a CEO looks like a salesman, he's probably bad at sales and worse at tech.",
+          "speaker": null
+        },
+        {
+          "text": "Better Place required customers to prove they lived near a battery swap station, sign up for a fueling subscription, and learn new driving behaviors\u2014then didn't bother to market the car clearly, leaving a frustrated hobbyist to ask why there wasn't even a billboard comparing it to a Prius.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--058",
+      "text": "Tesla succeeded on all seven dimensions\u2014proprietary integrated technology good enough that Daimler and Toyota license it; perfect timing on a one-time DOE loan window; monopoly in high-end electric sports cars first; a CEO who is both engineer and salesman; owned distribution through its own stores; a durable brand head start; and the secret that cleantech was a social phenomenon as much as an environmental one.",
+      "chapter": "Seeing Green",
+      "concepts": [
+        "cleantech",
+        "monopoly_strategy",
+        "market_timing",
+        "brand_strategy"
+      ],
+      "entities": {
+        "people": [
+          "Elon Musk",
+          "Leonardo DiCaprio"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Tesla secured a $465 million DOE loan in January 2010\u2014unthinkable in the mid-2000s and unthinkable today\u2014by identifying the single window when such a subsidy was politically possible and playing it perfectly.",
+          "speaker": null
+        },
+        {
+          "text": "Tesla built cars that made drivers look cool, period\u2014Leonardo DiCaprio ditched his Prius for a Tesla Roadster\u2014exploiting the secret that rich people wanted to appear green but also wanted to look cool, something generic cleantech companies missed entirely.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--059",
+      "text": "The macro need for energy solutions is real and will define the future, but no sector is so important that merely participating in it creates a great business\u2014Energy 2.0 entrepreneurs must think small first, finding specific niches like remote island power or modular military reactors before scaling.",
+      "chapter": "Seeing Green",
+      "concepts": [
+        "cleantech",
+        "market_sequencing",
+        "niche_strategy",
+        "technological_progress"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The cleantech bubble followed the same shape as the NASDAQ bubble a decade earlier\u2014both driven by one big macro idea (internet will be big; green energy is needed) with too many companies sharing exactly that idea and no specific plan.",
+          "speaker": null
+        },
+        {
+          "text": "Facebook started as a service for one university campus; the challenge for Energy 2.0 is paradoxically to think small\u2014dominate a specific niche before expanding to the enormous market that undeniably exists.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--060",
+      "text": "Founders' traits appear to follow an inverse normal distribution\u2014clustering at the extremes rather than the middle\u2014through a self-reinforcing cycle where unusual individuals strategically exaggerate their distinctiveness while the public amplifies those extremes through media mythologization.",
+      "chapter": "The Founder's Paradox",
+      "concepts": [
+        "founder_psychology",
+        "media_mythologization",
+        "insider_outsider_dynamic",
+        "personal_branding"
+      ],
+      "entities": {
+        "people": [
+          "Richard Branson",
+          "Sean Parker",
+          "Mark Zuckerberg"
+        ],
+        "places": [
+          "Silicon Valley"
+        ],
+        "events": [],
+        "works": [
+          "The Social Network"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Richard Branson started his first business at 16 and cultivated extreme traits (kiteboarding with naked supermodels, lion's mane hair) that media amplified into titles like 'The Virgin King' and 'The Ice King'\u2014a feedback loop between genuine eccentricity and strategic persona-building.",
+          "speaker": null
+        },
+        {
+          "text": "Sean Parker went from criminal hacker to Napster co-founder to Facebook's founding president to Justin Timberlake's role in The Social Network\u2014each transformation amplifying his outsider/insider oscillation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--061",
+      "text": "The scapegoat dynamic explains why founder figures are simultaneously worshipped and vilified: primitive societies needed someone to blame for collective misfortune, and that same logic makes founders targets of adulation during prosperity and attacks during difficulty.",
+      "chapter": "The Founder's Paradox",
+      "concepts": [
+        "scapegoat_mechanism",
+        "founder_psychology",
+        "cultural_mythology",
+        "collective_psychology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Classical mythology's founders\u2014Oedipus (abandoned infant who became brilliant king), Romulus (law-maker who killed his brother Remus for crossing the city boundary)\u2014are insider/outsider archetypes that served as vessels for collective sentiment.",
+          "speaker": null
+        },
+        {
+          "text": "Aztecs worshipped their sacrificial victims as earthly forms of gods before cutting out their hearts\u2014'every king was a living god, and every god a murdered king'; modern celebrity founders follow the same pattern of elevation and destruction.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--062",
+      "text": "Bill Gates's experience shows how dominant founders attract dominant attacks: the DOJ antitrust case forced Gates to spend most of his time on legal defense instead of building technology, depriving Microsoft of its founder's full engagement and beginning the company's era of relative stagnation.",
+      "chapter": "The Founder's Paradox",
+      "concepts": [
+        "antitrust",
+        "founder_vulnerability",
+        "regulatory_attack",
+        "monopoly_power"
+      ],
+      "entities": {
+        "people": [
+          "Bill Gates",
+          "Howard Hughes"
+        ],
+        "places": [],
+        "events": [
+          "Microsoft antitrust case 2000"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 2000, journalist Peter Jennings asked whether Bill Gates or Bill Clinton was more important in the world\u2014that level of dominance made Microsoft a target for government action that ultimately cost it more than any competitor could have.",
+          "speaker": null
+        },
+        {
+          "text": "Howard Hughes's trajectory\u2014world records in aviation, Congressional Gold Medal, then obsessive-compulsive addiction and 30 years of self-imposed solitary confinement\u2014illustrates how a founder who survives long enough may become an object of pity as much as awe.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--063",
+      "text": "Steve Jobs's return to Apple demonstrates that the most important task in business\u2014creating new value\u2014cannot be reduced to formula and applied by professionals: Jobs introduced the iPod, iPhone, and iPad after impeccably credentialed professional executives had nearly bankrupted the company.",
+      "chapter": "The Founder's Paradox",
+      "concepts": [
+        "founder_irreplaceability",
+        "creative_leadership",
+        "organizational_design",
+        "long_term_planning"
+      ],
+      "entities": {
+        "people": [
+          "Steve Jobs",
+          "Michael Dell"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When Jobs was hired as interim CEO in 1997, Michael Dell said he would shut Apple down and give the money back to shareholders; instead Jobs made Apple the most valuable company in the world by 2012 through a decade of definite multi-year product plans.",
+          "speaker": null
+        },
+        {
+          "text": "Apple's value crucially depended on the singular vision of one particular person\u2014this is why companies creating new technology often resemble feudal monarchies more than modern organizations: a unique founder can make authoritative decisions, inspire loyalty, and plan decades ahead.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--064",
+      "text": "Founders are important not as Ayn Randian self-sufficient prime movers but because a great founder brings out the best work from everyone at the company\u2014and the greatest danger for a founder is becoming so certain of their own myth that they lose their mind, or conversely losing all sense of myth and mistaking disenchantment for wisdom.",
+      "chapter": "The Founder's Paradox",
+      "concepts": [
+        "founder_psychology",
+        "leadership_philosophy",
+        "organizational_culture",
+        "self_awareness"
+      ],
+      "entities": {
+        "people": [
+          "Ayn Rand"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Rand was a merely half-great writer: her villains were real, but her heroes were fake\u2014there is no Galt's Gulch, no secession from society, and believing yourself invested with divine self-sufficiency is not strength but mistaking the crowd's worship for truth.",
+          "speaker": null
+        },
+        {
+          "text": "We should be more tolerant of founders who seem strange or extreme because we need unusual individuals to lead companies beyond mere incrementalism\u2014individual prominence can be exchanged for notoriety at any moment, so founders must remain clear-eyed about both the myth and its limits.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--065",
+      "text": "Of philosopher Nick Bostrom's four scenarios for humanity's future\u2014recurrent collapse, plateau convergence, extinction, and accelerating takeoff\u2014the two most realistic are stagnation (globalization without new technology leading to resource conflict and extinction) or breakthrough (new technology enabling a singularity).",
+      "chapter": "Conclusion: Stagnation or Singularity?",
+      "concepts": [
+        "existential_risk",
+        "technological_progress",
+        "future_scenarios",
+        "global_competition"
+      ],
+      "entities": {
+        "people": [
+          "Nick Bostrom",
+          "Ray Kurzweil"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Recurrent collapse seems unlikely because knowledge underlying civilization is so widespread that complete annihilation would be more probable than recovery from a dark age.",
+          "speaker": null
+        },
+        {
+          "text": "Without new technology to relieve competitive pressures, stagnation is likely to erupt into conflict; in case of global conflict, stagnation collapses into extinction\u2014leaving deliberate technological creation as the only viable path.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--066",
+      "text": "The Singularity\u2014Ray Kurzweil's scenario of superhuman AI transcending current limits of understanding\u2014matters less than the immediate choice between doing nothing and creating something; the future won't happen on its own, and we cannot take for granted that it will be better.",
+      "chapter": "Conclusion: Stagnation or Singularity?",
+      "concepts": [
+        "singularity",
+        "artificial_intelligence",
+        "technological_progress",
+        "agency"
+      ],
+      "entities": {
+        "people": [
+          "Ray Kurzweil"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Strong AI is a worry for the 22nd century at the earliest; indefinite fears about the far future shouldn't stop us from making definite plans today.",
+          "speaker": null
+        },
+        {
+          "text": "Whether we achieve the Singularity on a cosmic scale is perhaps less important than whether we seize unique opportunities to do new things in our own working lives\u2014everything important, from the universe to this very moment, is singular.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--067",
+      "text": "The essential first step toward a better future is to think for yourself\u2014only by seeing the world as fresh and strange as it was to the ancients who first encountered it can we both re-create it and preserve it, going from 0 to 1.",
+      "chapter": "Conclusion: Stagnation or Singularity?",
+      "concepts": [
+        "contrarian_thinking",
+        "future_orientation",
+        "innovation",
+        "agency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Our task today is to find singular ways to create new things that will make the future not just different, but better.",
+          "speaker": null
+        },
+        {
+          "text": "The contrarian question\u2014what important truth do very few people agree with you on?\u2014is both the beginning of original thinking and the beginning of building the future.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-001",
+      "title": "The Challenge of the Future",
+      "summary": "Vertical progress\u2014inventing genuinely new things (0 to 1)\u2014matters more than horizontal globalization (1 to n), and startups are the primary vehicle for this kind of progress because small groups with a shared mission can think and act in ways that large organizations cannot.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--001",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--002",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--003",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--004"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-002",
+      "title": "Party Like It's 1999",
+      "summary": "The dot-com crash taught Silicon Valley four lessons (be incremental, stay lean, improve on competition, focus on product over sales) that are largely wrong, and understanding why requires seeing the late 1990s internet boom not as irrational exuberance but as a rational bet on the only promising path forward amid global economic chaos.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--005",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--006",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--007",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--008"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-003",
+      "title": "All Happy Companies Are Different",
+      "summary": "Creating lasting value requires capturing it too, which means building a monopoly\u2014a company so uniquely good that no one can offer a close substitute\u2014because perfect competition systematically eliminates all profits, while monopolies generate the surplus that enables innovation, ethical behavior, and long-term planning.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--009",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--010",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--011",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--012"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-004",
+      "title": "The Ideology of Competition",
+      "summary": "Competition is not merely an economic inconvenience but a pervasive ideology that distorts thinking, drives people to imitate rivals rather than create, and\u2014as illustrated by the Shakespeare model of conflict\u2014causes combatants to grow more similar while losing sight of what actually matters.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--013",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--014",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--015",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--016",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--017"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-005",
+      "title": "Last Mover Advantage",
+      "summary": "A monopoly is only a great business if it endures, and endurance depends on dominating a small market first, expanding deliberately into adjacent ones, building durable proprietary advantages (technology, network effects, economies of scale, branding), and being the last mover\u2014the one who makes the final great development in a market\u2014rather than merely the first.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--018",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--019",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--020",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--021",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--022"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-006",
+      "title": "You Are Not a Lottery Ticket",
+      "summary": "Whether success results from luck or planning is not merely a historical curiosity but a practical choice about how to approach the future; the most important distinction is between definite and indefinite attitudes toward the future, and indefinite optimism\u2014expecting things to get better without any concrete plan\u2014is uniquely unsustainable and currently dominates American thinking.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--023",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--024",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--025",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--026",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--027",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--028"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-007",
+      "title": "Follow the Money",
+      "summary": "Venture capital returns follow a power law\u2014a small handful of investments radically outperform all others combined\u2014which means VCs must only invest in companies with the potential to return the value of an entire fund, and every individual must similarly resist diversification in favor of concentrating on where their actions will fall on the curve.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--029",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--030",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--031",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--032"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-008",
+      "title": "Secrets",
+      "summary": "The world still contains many important secrets\u2014things that are hard but doable, not impossible\u2014and the failure to look for them reflects four social trends (incrementalism, risk aversion, complacency, and perceived flatness) that have made contrarian thinking seem like hubris; great companies are built on exactly these secrets.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--033",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--034",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--035",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--036",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--037"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-009",
+      "title": "Foundations",
+      "summary": "A startup messed up at its foundation cannot be fixed, so founders must get key structural decisions right from the start\u2014particularly co-founder selection, board size and composition, equity allocation, and compensation structure\u2014because early misalignment between ownership, possession, and control compounds irreversibly over time.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--038",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--039",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--040",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--041",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--042"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-010",
+      "title": "The Mechanics of Mafia",
+      "summary": "A strong startup culture is not about perks but about a tightly knit team of people personally excited about working together on a unique mission\u2014recruiting for mission fit and personal compatibility, assigning everyone a single clear responsibility, and sustaining the fanatical intensity of a cult without the cult's tendency to be wrong.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--043",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--044",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--045",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--046"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-011",
+      "title": "If You Build It, Will They Come?",
+      "summary": "Distribution\u2014everything it takes to sell a product\u2014is as essential as the product itself and follows its own power law, yet engineers systematically underrate it because effective sales hides itself; every startup must find at least one distribution channel that works, and if you can't, poor sales rather than bad product is the most common cause of failure.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--047",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--048",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--049",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--050"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-012",
+      "title": "Man and Machine",
+      "summary": "Computers complement rather than substitute for humans because the two are categorically different\u2014humans excel at judgment and intentionality, computers at data processing\u2014and the most valuable businesses of coming decades will build human-computer hybrid systems that achieve what neither could alone, as PayPal's fraud detection system and Palantir demonstrate.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--051",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--052",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--053",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--054"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-013",
+      "title": "Seeing Green",
+      "summary": "The cleantech bubble failed because most companies got zero of the seven essential business questions right\u2014engineering, timing, monopoly, people, distribution, durability, and secrets\u2014while Tesla succeeded by getting all seven right, demonstrating that the macro need for energy solutions doesn't create business opportunity without a specific, superior solution for a specific problem.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--055",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--056",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--057",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--058",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--059"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-014",
+      "title": "The Founder's Paradox",
+      "summary": "Successful founders tend to exhibit extreme and contradictory traits\u2014simultaneously insider and outsider, celebrated and vilified\u2014not necessarily because they are born that way but through a reinforcing cycle of unusual individuals, strategic exaggeration, and public mythologization; and despite the dangers this creates, companies need distinctive founders because only they can make authoritative long-term decisions that transcend bureaucratic incrementalism.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--060",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--061",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--062",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--063",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--064"
+      ]
+    },
+    {
+      "id": "zero-to-one-notes-on-startups-or-how-to-build-the--ch-015",
+      "title": "Conclusion: Stagnation or Singularity?",
+      "summary": "Humanity faces a binary choice between two likely scenarios\u2014stagnation that collapses into extinction through resource conflict, or the deliberate creation of new technology that enables a much better future\u2014and because the future won't happen on its own, the essential first step is to think for yourself and find singular ways to create genuinely new things.",
+      "claim_ids": [
+        "zero-to-one-notes-on-startups-or-how-to-build-the--065",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--066",
+        "zero-to-one-notes-on-startups-or-how-to-build-the--067"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 67,
+    "chapter_count": 15,
+    "indexed_at": "2026-04-10T00:27:59.679610Z"
+  }
+}

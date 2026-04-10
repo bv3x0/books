@@ -1,0 +1,336 @@
+---
+title: "Zero to One: Notes on Startups, or How to Build the Future"
+sortTitle: "Zero to One: Notes on Startups, or How to Build the Future"
+date: 2026-04-09
+slug: "zero-to-one"
+draft: false
+dateAdded: 2026-04-09
+description: "Creating genuinely new things—going from 0 to 1—requires building monopolies through proprietary technology and unique insights, not competing in existing markets; the future depends on founders who think for themselves and plan definitively rather than iterating on what already exists."
+bookKeywords: "startup strategy, monopoly vs. competition, technological progress, venture capital, founder psychology"
+author: "Peter Thiel with Blake Masters"
+shortAuthor: "Masters"
+year: "2014"
+tags: ["business & economics", "technology & engineering"]
+collections: ["Terraform Industries"]
+---
+
+
+
+## The Challenge of the Future
+
+Vertical progress—inventing genuinely new things (0 to 1)—matters more than horizontal globalization (1 to n), and startups are the primary vehicle for this kind of progress because small groups with a shared mission can think and act in ways that large organizations cannot.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--001"></span>**The contrarian question—'What important truth do very few people agree with you on?'—is the foundation for both original thinking and building the future, because good answers reveal what lies hidden behind delusional popular beliefs.**
+    - Most answers fail because they either restate conventional wisdom or pick one side of a familiar debate; a genuinely good answer takes the form 'most people believe X, but the truth is the opposite.'
+    - Seeing the present differently from others is as close as anyone can come to looking into the future.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--002"></span>**Horizontal progress (globalization, copying what works) and vertical progress (technology, doing something entirely new) are distinct modes, and technology matters more because spreading old methods in a world of scarce resources leads to catastrophe, not prosperity.**
+    - China's 20-year plan to copy developed-world infrastructure illustrates pure globalization; Silicon Valley's software advances illustrate pure vertical progress.
+    - If every Indian household adopted American living standards using only today's tools, the environmental result would be catastrophic—new technology is the only sustainable path.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--003"></span>**Technological progress is not automatic—after a surge from the steam engine (1760s) to roughly 1970, it stalled, and only computers and communications have dramatically improved since midcentury, leaving most of our physical world strangely unchanged.**
+    - Prior generations expected a four-day workweek, energy too cheap to meter, and moon vacations—they were wrong not to expect progress but wrong to assume it would happen automatically.
+    - The challenge today is to both imagine and create new technologies that can make the 21st century more peaceful and prosperous than the 20th.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--004"></span>**Startups are the best vehicle for 0-to-1 progress because they are large enough to require collaboration yet small enough to think clearly—bureaucracies move slowly, lone geniuses can't build industries, and startups occupy the productive middle ground.**
+    - In dysfunctional large organizations, signaling that work is being done becomes a better career strategy than actually doing work.
+    - A startup is the largest group of people you can convince of a plan to build a different future; its most important strength is new thinking.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_orbit-with-rocket.png" alt="" role="presentation" loading="lazy"></div>
+
+## Party Like It's 1999
+
+The dot-com crash taught Silicon Valley four lessons (be incremental, stay lean, improve on competition, focus on product over sales) that are largely wrong, and understanding why requires seeing the late 1990s internet boom not as irrational exuberance but as a rational bet on the only promising path forward amid global economic chaos.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--005"></span>**The dot-com mania of September 1998 to March 2000 arose against a backdrop of global economic failure—the Asian financial crisis, the Russian ruble default, the LTCM collapse, and a weak euro—making the New Economy internet thesis seem like the only path forward, not mere irrational exuberance.**
+    - The ruble crisis set off a chain reaction that brought down Long-Term Capital Management, which lost $4.6 billion in the latter half of 1998 and still had over $100 billion in liabilities when the Fed intervened.
+    - By indirect proof, the New Economy of the internet was the only way forward—the Old Economy couldn't handle globalization's challenges.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--006"></span>**PayPal's strategy during the bubble illustrates rational behavior amid irrational surroundings: knowing the boom would end, they moved fast to raise $100 million in March 2000 just as the bubble popped, buying the time needed to build a sustainable business.**
+    - PayPal paid new customers $10 to join and $10 more per referral, achieving exponential growth but at exponentially growing cost—they judged this rational given a clear path to profitability through transaction fees.
+    - A South Korean firm wired PayPal $5 million without negotiating a deal or signing documents—an emblem of how extreme the mania had become.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--007"></span>**The four lessons Silicon Valley drew from the crash—be incremental, stay lean and unplanned, improve on competitors, and focus on product over sales—are largely wrong; their opposites are probably more correct.**
+    - It is better to risk boldness than triviality; a bad plan is better than no plan; competitive markets destroy profits; and sales matters just as much as product.
+    - These dogmas calcified into orthodoxy because they were understandable reactions to real failures—but you can't escape the madness of crowds by dogmatically rejecting them.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--008"></span>**The March 2000 market peak was simultaneously a peak of insanity and a peak of clarity—people correctly saw that valuable new technology was needed for a better future, even if too few startups were actually delivering it.**
+    - People understood we had no choice but to find ways to do more with less; the error was grandiose talk without genuine 0-to-1 creation.
+    - We still need new technology and may even need some 1999-style hubris to get it; the next generation of companies must abandon post-crash dogma.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_animal-livestock.png" alt="" role="presentation" loading="lazy"></div>
+
+## All Happy Companies Are Different
+
+Creating lasting value requires capturing it too, which means building a monopoly—a company so uniquely good that no one can offer a close substitute—because perfect competition systematically eliminates all profits, while monopolies generate the surplus that enables innovation, ethical behavior, and long-term planning.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--009"></span>**Creating value is not sufficient—a company must also capture it, which is why Google (with a 21% profit margin on $50 billion in revenue) is worth three times all U.S. airlines combined, despite airlines creating far more aggregate value.**
+    - In 2012, U.S. airlines made only 37 cents per passenger on an average $178 fare, while Google kept 21% of revenues as profit—more than 100 times the airline industry's profit margin.
+    - The lesson for entrepreneurs is clear: if you want to create and capture lasting value, don't build an undifferentiated commodity business.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--010"></span>**Monopolists and competitors both lie about their market position—monopolists exaggerate competition to avoid scrutiny (Google frames itself as a tiny fish in a vast global advertising market), while competitors exaggerate uniqueness to appear differentiated (a restaurant owner who claims to 'own' the British food market in Palo Alto).**
+    - Google's 68% search market share looks like monopoly, but if framed as a player in the $495 billion global advertising market, it appears to own just 3.4%—both framings serve different rhetorical purposes.
+    - Non-monopolists define their market as the intersection of small niches; monopolists disguise their power by framing their market as the union of several large markets.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--011"></span>**Competition destroys profits and drives people toward ruthlessness or death, while monopoly profits give companies the latitude to care about workers, products, and broader impact—making monopoly good not just for insiders but for society in a dynamic world.**
+    - French chef Bernard Loiseau, who won three Michelin stars, killed himself in 2003 when a competing guide downgraded his restaurant—the competitive ecosystem's extreme cost.
+    - Google's 'Don't be evil' motto is characteristic of a business successful enough to take ethics seriously without jeopardizing its existence; non-monopolists can't afford this luxury.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--012"></span>**Creative monopolies drive progress by offering customers new categories of abundance and by providing the profits needed for long-term R&D; the history of progress is a history of better monopoly businesses replacing incumbents, not of perfect competition.**
+    - Apple's iOS rise dramatically reduced Microsoft's decades-long OS dominance; before that, IBM's hardware monopoly was overtaken by Microsoft's software monopoly; AT&T's telephone monopoly was supplanted by competitive cell service.
+    - Economists obsess over competition as an ideal because it's easy to model mathematically, not because it represents the best of business—equilibrium in business means stasis, and stasis means death.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_satellite-orbit.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Ideology of Competition
+
+Competition is not merely an economic inconvenience but a pervasive ideology that distorts thinking, drives people to imitate rivals rather than create, and—as illustrated by the Shakespeare model of conflict—causes combatants to grow more similar while losing sight of what actually matters.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--013"></span>**The educational system reinforces competition as an ideology by precisely ranking students, teaching everyone the same subjects in the same way, and rewarding conformity—trapping even elite students in fierce rivalries for conventional credentials like law clerkships and investment banking jobs.**
+    - Thiel clerked on a federal appeals court and was close to winning a Supreme Court clerkship, but in retrospect that victory would have sentenced him to a career taking depositions rather than creating anything new.
+    - All Rhodes Scholars had a great future in their past—the highest prizes in conventional competition mark the end of genuine creation.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--014"></span>**Shakespeare's model of conflict—where combatants are alike and fight precisely because of their sameness—better explains business rivalry than Marx's model of conflict between genuinely different parties with different goals.**
+    - Microsoft and Google, coming from different places (OS/Office vs. search), grew obsessed with each other and produced Windows vs. Chrome OS, Bing vs. Google Search, Office vs. Docs, Surface vs. Nexus—while Apple came along and overtook them both.
+    - In January 2013, Apple's market cap was $500 billion while Google and Microsoft combined were worth $467 billion—three years earlier, each rival was individually more valuable than Apple.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--015"></span>**Rivalry causes companies to fixate on copying competitors rather than creating, as shown by the proliferation of mobile card readers copying Square's design with different geometric shapes—a Shakespearean saga of imitation that adds no real value.**
+    - After Square released its white square card reader in 2010, NetSecure launched a half-moon shape, Intuit a cylinder, and PayPal a triangle—as if three sides were a competitive advantage over four.
+    - Individuals with Asperger's-like social ineptitude may have an advantage in Silicon Valley precisely because they are less sensitive to social cues and therefore less likely to imitate what everyone else is doing.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--016"></span>**When direct competition is unavoidable, merging is often better than fighting—as when Thiel and Elon Musk merged PayPal and X.com in March 2000, motivated more by fear of the collapsing tech bubble than by each other, enabling both to survive the crash.**
+    - PayPal and X.com offices were four blocks apart on University Avenue, their products were feature-for-feature mirrors, and engineers were working 100-hour weeks focused on defeating the rival rather than building the product.
+    - One PayPal engineer actually designed a bomb to use against X.com; calmer heads attributed the proposal to extreme sleep deprivation—an emblem of how destructive rivalry had become.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--017"></span>**Competition can make people hallucinate opportunities where none exist, as the Pets.com vs. PetStore.com vs. Petopia.com battle demonstrated—companies so obsessed with defeating rivals that they never asked whether the online pet supply market was worth fighting for at all.**
+    - When Pets.com folded after the dot-com crash, $300 million of investment capital disappeared because everyone had lost sight of the wider question of whether online pet supply was a viable market.
+    - The Larry Ellison–Tom Siebel rivalry led to Siebel employees being bribed with ice cream sandwiches and Informix CEO Phil White commissioning billboards attacking Ellison personally—while Informix imploded in an accounting scandal and White ended up in federal prison.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_orbit-arrow.png" alt="" role="presentation" loading="lazy"></div>
+
+## Last Mover Advantage
+
+A monopoly is only a great business if it endures, and endurance depends on dominating a small market first, expanding deliberately into adjacent ones, building durable proprietary advantages (technology, network effects, economies of scale, branding), and being the last mover—the one who makes the final great development in a market—rather than merely the first.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--018"></span>**A business's value today equals the sum of all future cash flows discounted to present value, which is why Twitter (losing money in 2013) was valued at $24 billion—12 times the profitable New York Times—because investors expected Twitter to generate monopoly profits for a decade or more.**
+    - In March 2001, PayPal projected that 75% of its present value would come from profits generated in 2011 and beyond—even though the company had been in business only 27 months; that turned out to be an underestimate.
+    - Technology companies lose money early but generate most of their value 10 to 15 years in the future; old-economy businesses derive most value from near-term cash flows.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--019"></span>**The four characteristics of durable monopolies—proprietary technology at least 10x better than substitutes, network effects, economies of scale, and branding—must work together; beginning with branding without substance (as Yahoo! tried under Marissa Mayer) fails.**
+    - Amazon achieved its first 10x improvement by offering at least 10 times as many books as any physical bookstore; PayPal made eBay transactions at least 10x better by replacing 7-to-10-day check waits with instant payment.
+    - Apple's brand monopoly rests on proprietary touchscreen technology, manufacturing scale that dominates materials pricing, and a content ecosystem with network effects from millions of developers and users—surface imitation of Apple's aesthetics without this substance doesn't work.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--020"></span>**Every startup should start with a very small, highly specific market it can dominate completely, then expand deliberately into adjacent markets—as Amazon did from books to CDs to software to general retail, and as eBay did from Beanie Baby obsessives to all hobbyist trading.**
+    - PayPal's PalmPilot payment product failed because its users were scattered, had little in common, and used devices only episodically; shifting to eBay PowerSellers—a concentrated, high-frequency group—allowed PayPal to serve 25% of them within three months.
+    - Any big market is a bad starting choice, and a big market already served by competitors is even worse—entrepreneurs talking about getting 1% of a $100 billion market are signaling they have no real plan.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--021"></span>**Startups should avoid framing themselves as 'disruptors'—a self-congratulatory buzzword that encourages companies to define themselves through opposition to incumbents rather than through genuine creation, attracting unnecessary conflict as Napster discovered.**
+    - Napster credibly threatened to disrupt the music recording industry in 1999, made the cover of Time, and ended up in bankruptcy court 18 months later.
+    - PayPal took some business from Visa but expanded the overall payments market, giving Visa far more business than it took—a net positive dynamic unlike Napster's zero-sum struggle.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--022"></span>**Being the last mover—making the final great development in a specific market and then enjoying decades of monopoly profits—matters more than being the first mover, because first-mover advantage is a tactic, not a goal, and can be easily erased by a better entrant.**
+    - "Grandmaster José Raúl Capablanca's advice applies to business: 'You must study the endgame before everything else.'" —José Raúl Capablanca
+    - The way to become the last mover is to dominate a small niche first, then scale toward an ambitious long-term vision.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_person-carrying.png" alt="" role="presentation" loading="lazy"></div>
+
+## You Are Not a Lottery Ticket
+
+Whether success results from luck or planning is not merely a historical curiosity but a practical choice about how to approach the future; the most important distinction is between definite and indefinite attitudes toward the future, and indefinite optimism—expecting things to get better without any concrete plan—is uniquely unsustainable and currently dominates American thinking.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--023"></span>**Serial entrepreneurship—people like Steve Jobs, Jack Dorsey, and Elon Musk creating multiple multibillion-dollar companies—suggests that success is not primarily a matter of luck, since luck alone could not produce consistent extraordinary outcomes across different ventures.**
+    - Malcolm Gladwell attributes success to 'a patchwork of lucky breaks and arbitrary advantages,' but this reflects the broader Baby Boomer tendency to overrate chance and underrate planning.
+    - Statistics doesn't work when the sample size is one—every company starts only once in unique circumstances, so no scientific answer is possible, but the behavioral evidence from serial entrepreneurs points away from luck.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--024"></span>**The key distinction is between definite and indefinite attitudes toward the future: definite people make firm plans and work to execute them, while indefinite people accumulate options and diversify against an unknowable future—and indefinite optimism now dominates American culture.**
+    - American students spend a decade curating a 'bewilderingly diverse résumé to prepare for a completely unknowable future'—omnicompetent but ready for nothing in particular.
+    - A definite person determines the one best thing to do and does it, striving to be a 'monopoly of one' rather than pursuing many-sided mediocrity called 'well-roundedness.'
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--025"></span>**The four views of the future—indefinite pessimism (Europe), definite pessimism (China), definite optimism (mid-20th-century America), and indefinite optimism (post-1982 America)—represent fundamentally different relationships to planning and action, with definite optimism having produced the greatest achievements.**
+    - Definite optimism built the Empire State Building (started 1929, finished 1931), the Golden Gate Bridge (1933–1937), the Manhattan Project (1941–1945), the Interstate Highway System, and NASA's Apollo Program (1961–1972).
+    - China's rapid growth is definitively pessimistic—executing concrete plans because leaders know living standards cannot catch up to the richest countries, not because they're confident.
+* <span class="pull-quote">A startup is the largest endeavor over which you can have definite mastery. You can have agency not just over your own life, but over a small and important part of the world.</span>
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--026"></span>**Indefinite optimism dominates modern American finance, politics, and philosophy, producing a world where no one in the capital allocation chain knows what to do with money in the real economy—money becomes the end rather than a means to concrete goals.**
+    - After successful entrepreneurs sell companies, their money passes through banks, institutional investors, and diversified stock portfolios without anyone ever deciding what to actually build with it.
+    - John Rawls and Robert Nozick, the two dominant late-20th-century political philosophers, were both indefinite optimists—they focused on process (the veil of ignorance; voluntary exchange) rather than any concrete vision of a good society.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--027"></span>**Indefinite optimism in biotechnology—funding companies whose researchers experiment randomly rather than pursuing definite theories—explains why Eroom's law shows drug approvals per billion dollars of R&D halving every nine years since 1950, even as information technology accelerated.**
+    - Alexander Fleming discovered penicillin by accident in 1928 when he forgot to cover a petri dish; modern pharmaceutical companies have tried to amplify serendipity a millionfold by searching through molecular compounds at random.
+    - The genuine difficulty of biology has become an excuse for biotech startups' indefinite business approach—professors become part-time consultants rather than full-time founders, and everyone imitates this lack of commitment.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--028"></span>**Intelligent design beats Darwinian iteration in startups: making small changes to existing things leads only to local maxima, and the 'lean startup' methodology of iterating toward success without a bold plan cannot take a company from 0 to 1.**
+    - Steve Jobs changed the world through careful multi-year planning—not by listening to focus groups or copying others—designing the iPod (2001) as the first of a new generation of portable post-PC devices when analysts could only see 'a nice feature for Macintosh users.'
+    - When Yahoo! offered to buy Facebook for $1 billion in 2006, Zuckerberg dismissed it in under 10 minutes because he had a definite vision for where he could take the company—a definite founder with robust plans doesn't sell.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
+
+## Follow the Money
+
+Venture capital returns follow a power law—a small handful of investments radically outperform all others combined—which means VCs must only invest in companies with the potential to return the value of an entire fund, and every individual must similarly resist diversification in favor of concentrating on where their actions will fall on the curve.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--029"></span>**The Pareto principle—20% of inputs produce 80% of outputs—extends in venture capital to an extreme power law where a single investment in a successful fund outperforms the entire rest of the fund combined, making diversification a catastrophic error for VCs.**
+    - At Founders Fund's 2005 fund, Facebook returned more than all other investments combined; Palantir, the second-best investment, was set to return more than the sum of every other investment except Facebook.
+    - Andreessen Horowitz's $250,000 investment in Instagram returned $78 million (312x) in under two years—phenomenal, but with a $1.5 billion fund they would need 19 Instagrams just to break even if they only wrote $250,000 checks.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--030"></span>**The two rules that follow from the power law—only invest in companies with potential to return the entire fund, and because that rule is so restrictive there can be no other rules—eliminate the vast majority of possible investments and demand intense conviction about a very few bets.**
+    - Founders Fund focuses on five to seven companies per fund, each believed capable of becoming a multibillion-dollar business based on unique fundamentals.
+    - Shifting from the substance of a business to whether it fits a diversified hedging strategy makes venture investing indistinguishable from buying lottery tickets—once you think you're playing the lottery, you've prepared yourself to lose.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--031"></span>**VCs miss the power law because it only becomes unambiguous over a 10-year fund's lifetime, while daily experience is dominated by early-stage companies that look superficially similar—and investors spend disproportionate time on the most problematic companies.**
+    - Venture returns don't follow a normal distribution where bad companies fail and good ones return 2-4x; they follow a power law where the top company dwarfs all others combined.
+    - Less than 1% of U.S. businesses started each year receive venture funding, and VC investment is less than 0.2% of GDP—yet venture-backed companies generate revenues equivalent to 21% of GDP and create 11% of all private sector jobs.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--032"></span>**The power law applies to individuals too: an entrepreneur cannot diversify across many ventures, and the power law means differences between companies dwarf differences in roles within companies—joining the best company while it's growing fast often beats founding a mediocre new one.**
+    - Owning 0.01% of Google is worth more than $35 million—far more than 100% of most new ventures; you could have 100% of a failed startup's equity and still have 100% of nothing.
+    - Institutionalized education traffics in homogenized knowledge and trains people not to think in power law terms—every course period is 45 minutes regardless of subject, and model students build portfolios of minor skills rather than concentrating on one valuable thing.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_rocket-ship.png" alt="" role="presentation" loading="lazy"></div>
+
+## Secrets
+
+The world still contains many important secrets—things that are hard but doable, not impossible—and the failure to look for them reflects four social trends (incrementalism, risk aversion, complacency, and perceived flatness) that have made contrarian thinking seem like hubris; great companies are built on exactly these secrets.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--033"></span>**The belief that no hard secrets remain—illustrated by the Unabomber's manifesto, hipster nostalgia culture, and fundamentalism of all kinds—is a modern pathology; Kaczynski correctly diagnosed that modern people are depressed because they think only easy or impossible tasks remain, but his response (destroy technology) was wrong.**
+    - Kaczynski argued that modern people are depressed because hard problems have all been solved, leaving only easy tasks a child could do or impossible ones Einstein couldn't do; his 35,000-word manifesto was cogent enough that his brother recognized his style and turned him in.
+    - Hipster faux-vintage photography, handlebar mustaches, and vinyl records all hark back to an earlier time when people were still optimistic about the future—the aesthetics of a world where everything worth doing has already been done.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--034"></span>**Four social trends have conspired to eliminate belief in secrets: incrementalism (school rewards doing exactly what's asked, not discovering what's not on the test), risk aversion (secrets haven't been vetted by the mainstream), complacency (elites don't need to search), and 'flatness' (globalization implies someone smarter has already found it).**
+    - If something is discoverable, wouldn't someone from the global talent pool of smarter, more creative people have already found it? This voice of doubt discourages even starting to look.
+    - We can be glad there are fewer crazy cults now, yet that gain has come at great cost: we have given up our sense of wonder at secrets left to be discovered.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--035"></span>**Disbelief in secrets leads to faith in efficient markets and the suppression of injustice—a world with no secrets is also a world with no hidden injustices—while financial bubbles demonstrate that markets can have extraordinary inefficiencies that conventional wisdom refuses to see.**
+    - HP went from $9 billion in 1990 to $135 billion by mid-2000 by relentlessly inventing new products (the first affordable color printer, first superportable laptop, first all-in-one printer/fax/copier), then collapsed to $23 billion by 2012 after its board stopped believing in technological secrets.
+    - HP board chair Patricia Dunn argued that charting a plan for future technology was beyond the board's competence—it should restrict itself to a night watchman's role of accounting compliance and rule-following.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--036"></span>**Andrew Wiles's proof of Fermat's Last Theorem—working in secret for nine years on a problem unsolved for 358 years—demonstrates that belief in secrets is an effective truth: if you think something hard is impossible, you'll never start; great companies like Airbnb, Lyft, and Uber were built on secrets hidden in plain sight.**
+    - Airbnb saw untapped supply (unoccupied property) and unaddressed demand (travelers needing affordable alternatives) where others saw nothing; Uber connected people who want rides with people willing to drive—both seemed obvious in retrospect but required believing in secrets first.
+    - There are two kinds of secrets: secrets of nature (undiscovered physical facts) and secrets about people (things people don't know about themselves or hide). Nutrition is an example of a neglected field—we know more about the physics of faraway stars than about human nutrition.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--037"></span>**The best place to share a secret is within a company—a conspiracy to change the world—where you tell only those you need to and no more, because every great business is built around a secret hidden from the outside.**
+    - Unless you have perfectly conventional beliefs, it's rarely a good idea to tell everyone everything you know; the golden mean between telling nobody and telling everybody is a company.
+    - When you share your secret, the recipient becomes a fellow conspirator—this is the founding logic of every great startup.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Life_gears-mechanism.png" alt="" role="presentation" loading="lazy"></div>
+
+## Foundations
+
+A startup messed up at its foundation cannot be fixed, so founders must get key structural decisions right from the start—particularly co-founder selection, board size and composition, equity allocation, and compensation structure—because early misalignment between ownership, possession, and control compounds irreversibly over time.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--038"></span>**Choosing a co-founder is the first and most crucial decision a founder makes, and mismatched co-founders doom a company just as irreconcilably as a bad marriage—founders should share a prehistory before starting a company, not meet at a networking event and decide to partner.**
+    - Thiel invested in a company co-founded by Luke Nosek and an MBA type they had met at a networking event; with no real shared history or complementary vision, the company blew up and Thiel lost his money.
+    - Meeting a co-founder at a networking event and deciding to start a company is no better than marrying the first person you meet at the slot machines in Vegas.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--039"></span>**The three-way distinction between ownership (equity), possession (day-to-day operation), and control (board governance) reveals the structural sources of startup misalignment—and the DMV illustrates how dysfunction arises when these functions are divorced from accountability.**
+    - A startup distributes ownership among founders, employees, and investors; possession to managers and employees; and control to a board of directors—in theory these work smoothly, but in practice they multiply opportunities for conflict.
+    - A large corporation's CEO owns only a trivial fraction of stock, incentivizing him to reward himself through possession (salary, jet, quarterly results) rather than ownership value.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--040"></span>**Boards should be kept small—ideally three people, never more than five for private companies—because a small board can exercise effective oversight, while a large board provides cover for whatever microdictator actually runs the organization.**
+    - Government regulations effectively mandate larger boards for public companies (averaging nine members), but private startups should resist this—even one problem director will cause pain and may jeopardize the company's future.
+    - A nonprofit with dozens of board members signals not strong governance but the absence of any effective oversight at all.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--041"></span>**Everyone involved with a company should be involved full-time and in the same physical location, because misalignment creeps in whenever colleagues aren't together—consultants, part-time employees, and remote workers are all incentivized to claim near-term value rather than create future value.**
+    - Anyone who doesn't own stock options or draw a regular salary is fundamentally misaligned: at the margin, they'll be biased toward claiming value in the near term.
+    - Ken Kesey was right: you're either on the bus or off the bus.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--042"></span>**Early-stage CEOs should take low cash salaries—ideally no more than $150,000—because high cash compensation incentivizes defending the status quo, while low pay aligns the CEO with equity creation and sets a ceiling that shapes the entire company's compensation culture.**
+    - Aaron Levie, CEO of Box, was still living in a one-bedroom apartment with only a mattress four years after founding the company—every employee noticed his obvious commitment to the mission and emulated it.
+    - Equity is the best compensation tool because it orients people toward creating future value; anyone who prefers cash to equity reveals a preference against long-term commitment.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_orbit-with-rocket.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Mechanics of Mafia
+
+A strong startup culture is not about perks but about a tightly knit team of people personally excited about working together on a unique mission—recruiting for mission fit and personal compatibility, assigning everyone a single clear responsibility, and sustaining the fanatical intensity of a cult without the cult's tendency to be wrong.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--043"></span>**The PayPal Mafia's extraordinary post-company success—SpaceX, Tesla, LinkedIn, YouTube, Yelp, Yammer, and Palantir, each worth over $1 billion—demonstrates that a culture strong enough to transcend the original company is built on genuine personal bonds, not perks or professional credentials.**
+    - PayPal was sold to eBay for $1.5 billion in 2002; since then its alumni have co-founded seven companies each worth over $1 billion—all built on relationships forged at PayPal.
+    - Thin professional relationships—like those among the lawyers Thiel worked with at a New York law firm, who spent all day together but had little to say outside the office—are worse than cold: they're irrational, because time is your most valuable asset.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--044"></span>**Recruiting should focus on why a specific candidate would want to work at this company with this team on this mission—generic pitches about stock options, smart colleagues, or challenging problems won't differentiate you and won't attract the right people.**
+    - The 20th engineer considering Google has better options—the only compelling answer to why she should join your startup instead must be specific to your company's mission and team, not applicable to any other company.
+    - At PayPal, if you were excited by creating a new digital currency to replace the U.S. dollar, they wanted to talk; if not, you weren't the right fit.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--045"></span>**Early team members should be as personally similar as possible—sharing an understanding of the world enables the fast, efficient work small teams with limited resources must do—but on the inside each individual should be sharply distinguished by having exactly one unique responsibility.**
+    - The early PayPal team worked well because they were all the same kind of nerd: they loved science fiction, preferred Star Wars to Star Trek, and were all obsessed with digital currency controlled by individuals rather than governments.
+    - Making every person in the company responsible for doing just one thing reduced conflict by eliminating competition for the same responsibilities—most internal fights erupt when colleagues compete for overlapping roles.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--046"></span>**The best startups are like slightly less extreme cults—people at a successful startup are fanatically right about something the outside world has missed, whereas actual cults are fanatically wrong; the opposite extreme of a cult, the consulting firm, lacks any distinctive mission entirely.**
+    - Cultures of total dedication look crazy from the outside partly because the most notorious cults were homicidal—Jim Jones and Charles Manson did not make good exits.
+    - A consulting firm like Accenture not only lacks a distinctive mission but has individual consultants regularly dropping in and out of companies to which they have no long-term connection—the polar opposite of a cult, and equally unproductive.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_person-carrying.png" alt="" role="presentation" loading="lazy"></div>
+
+## If You Build It, Will They Come?
+
+Distribution—everything it takes to sell a product—is as essential as the product itself and follows its own power law, yet engineers systematically underrate it because effective sales hides itself; every startup must find at least one distribution channel that works, and if you can't, poor sales rather than bad product is the most common cause of failure.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--047"></span>**Sales is effective precisely because it is hidden—all salespeople present themselves with titles that obscure what they do (account executives, business development, investment bankers, politicians), and the best sales is invisible even to those being sold to.**
+    - Tom Sawyer persuaded neighborhood friends to whitewash the fence for him; convincing them to actually pay him for the privilege of doing his chores was the move of a grandmaster, and his friends were none the wiser.
+    - Engineers underrate sales because they are used to transparent technical work where solutions either work or fail; sales is the opposite—an orchestrated campaign to change surface appearances without changing underlying reality.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--048"></span>**Different products require fundamentally different distribution methods determined by price point: complex sales (7-figure deals, personal CEO attention, SpaceX with NASA), personal sales ($10K–$100K, Box selling to Stanford), marketing and advertising (mass-market physical goods, Warby Parker), and viral distribution (network effects, PayPal).**
+    - SpaceX persuaded NASA to sign billion-dollar contracts to replace the space shuttle—complex sales requiring Elon Musk to personally overcome political inertia from an aerospace industry employing 500,000 people spread across all 50 states.
+    - Box's Blake started with small groups at the Stanford Sleep Clinic, built relationships user by user within client companies, and eventually won a Stanford-wide contract—starting with enterprise-wide pitches would have killed the company.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--049"></span>**Viral distribution is the most powerful channel when available: PayPal's referral program (paying $10 to join and $10 per referral) cost $20 per customer but generated 7% daily growth—nearly doubling the user base every 10 days—because each new user naturally invited more users through the payment mechanism.**
+    - PayPal identified eBay PowerSellers—20,000 high-frequency merchants with multiple daily auctions and terrible existing payment solutions—as the ideal viral seed market because they transacted constantly and would enthusiastically adopt a better payment tool.
+    - Whoever dominates the most important viral segment first becomes the last mover in the whole market: once PayPal dominated eBay payments, there was no catching up on eBay or anywhere else.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--050"></span>**Distribution follows a power law—one channel is likely to be far more powerful than all others—so the kitchen-sink approach of trying several channels without nailing one leads to failure; most businesses get zero distribution channels to work, making poor sales the most common cause of startup death.**
+    - The 'distribution doldrums' trap products priced around $1,000—too expensive for mass advertising, too cheap to justify personal salespeople—leaving small business software with no viable path to customers.
+    - A company must sell itself to employees and investors as well as customers; nerds who instinctively mistrust media make the mistake of having no public relations strategy, but prospective hires will google the company and the results will be critical.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_satellite-orbit.png" alt="" role="presentation" loading="lazy"></div>
+
+## Man and Machine
+
+Computers complement rather than substitute for humans because the two are categorically different—humans excel at judgment and intentionality, computers at data processing—and the most valuable businesses of coming decades will build human-computer hybrid systems that achieve what neither could alone, as PayPal's fraud detection system and Palantir demonstrate.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--051"></span>**Technology means complementarity, not substitution: unlike workers from other countries who compete for the same jobs and resources, computers are categorically different from humans—good at data processing but incapable of the basic judgment any four-year-old can perform, making the gains from human-computer collaboration far greater than gains from trade.**
+    - Google's supercomputer learned to identify a cat with 75% accuracy after scanning 10 million YouTube thumbnails—impressive until you remember that an average four-year-old can do it flawlessly.
+    - Unlike people in industrializing countries, computers don't desire food or beachfront villas; they require only a nominal amount of electricity, which they're not even smart enough to want—so we get all efficiency gains without competing for resources.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--052"></span>**PayPal's fraud detection system 'Igor' demonstrated that human-computer hybrids outperform either alone: automatic detection algorithms couldn't adapt to fraudsters' changing tactics, but human analysts could spot what computers missed, so combining them turned a $10 million monthly loss into PayPal's first quarterly profit.**
+    - PayPal was losing over $10 million a month to credit card fraud in mid-2000; purely automated detection failed because fraudsters adapted their tactics within hours of each new algorithm.
+    - The hybrid system—computer flagging suspicious transactions on a well-designed interface, human operators making final judgment—earned the FBI's interest and enabled PayPal to turn a $29.3 million quarterly loss into a quarterly profit within a year.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--053"></span>**Palantir applied the PayPal hybrid principle to national security—combining human intelligence analysts' judgment with computers' data processing power—achieving what neither the CIA (too human) nor the NSA (too machine) could do alone, and building toward $1 billion in 2014 revenues.**
+    - CIA analysts wade through so much noise they can't identify serious threats; NSA computers process enormous quantities of data but can't authoritatively determine whether someone is plotting a terrorist act—Palantir's software bridges this gap.
+    - Analysts using Palantir's software have predicted IED placement in Afghanistan, prosecuted insider trading cases, taken down the largest child pornography ring in the world, and saved banks and government hundreds of millions annually through fraud detection.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--054"></span>**The computer science field's bias toward 'machine learning' and 'big data' reflects a substitutionist ideology embedded in academic training—researchers make their reputations by teaching computers to perform human tasks one by one—but big data is usually dumb data because computers can't interpret patterns across different sources without human guidance.**
+    - LinkedIn didn't poll recruiters for discrete pain points or try to replace them outright—recruiting requires detective work, judgment, and sales, all impossible to fully automate—instead it transformed how recruiters do their jobs, and today more than 97% of recruiters use it.
+    - We are impressed by small feats accomplished by computers alone but ignore big achievements from complementarity because the human contribution makes them less uncanny—Watson and Deep Blue are cool, but hybrid systems are more valuable.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Space_orbit-with-rocket.png" alt="" role="presentation" loading="lazy"></div>
+
+## Seeing Green
+
+The cleantech bubble failed because most companies got zero of the seven essential business questions right—engineering, timing, monopoly, people, distribution, durability, and secrets—while Tesla succeeded by getting all seven right, demonstrating that the macro need for energy solutions doesn't create business opportunity without a specific, superior solution for a specific problem.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--055"></span>**Most cleantech companies failed the engineering question by producing only incremental improvements rather than 10x breakthroughs—Solyndra's cylindrical solar cells were inherently 1/π as efficient as flat ones, starting from a radically inferior position that mirrors and clever design couldn't overcome.**
+    - Companies must strive for 10x better because merely incremental improvements (like a 20% more efficient wind turbine) often mean no improvement at all for the end user once real-world expenses and skepticism about exaggerated claims are factored in.
+    - Only when your product is 10x better can you offer transparent superiority—anything less is hard to sell and easy to dismiss as a marginal improvement.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--056"></span>**Cleantech companies failed the monopoly question by simultaneously shrinking their market definition to appear differentiated and then seeking valuations based on enormous markets—but huge trillion-dollar markets mean ruthless competition, not easily attainable opportunity.**
+    - MiaSolé CEO Dave Pearce acknowledged being one of several 'very strong' startups working on thin-film solar in 2006, then minutes later predicted his company would become the world's largest thin-film producer within a year; it was acquired in 2013 for hundreds of millions less than investors put in.
+    - A solar company with 100 megawatts of installed capacity might seem to own 10.53% of the U.S. solar market—until you realize the relevant market might be global renewables (420 gigawatts) or total global power (15,000 gigawatts), reducing market share to fractions of a percent.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--057"></span>**Cleantech companies failed the people and distribution questions together: executives in suits (not technical founders) raised capital and government subsidies but couldn't build products customers wanted, while Better Place spent $800 million building electric car infrastructure that sold only 1,000 vehicles because it made buying impossibly complicated.**
+    - Founders Fund instituted a rule to pass on any company whose founders dressed up for pitch meetings—real technologists wear T-shirts and jeans; if a CEO looks like a salesman, he's probably bad at sales and worse at tech.
+    - Better Place required customers to prove they lived near a battery swap station, sign up for a fueling subscription, and learn new driving behaviors—then didn't bother to market the car clearly, leaving a frustrated hobbyist to ask why there wasn't even a billboard comparing it to a Prius.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--058"></span>**Tesla succeeded on all seven dimensions—proprietary integrated technology good enough that Daimler and Toyota license it; perfect timing on a one-time DOE loan window; monopoly in high-end electric sports cars first; a CEO who is both engineer and salesman; owned distribution through its own stores; a durable brand head start; and the secret that cleantech was a social phenomenon as much as an environmental one.**
+    - Tesla secured a $465 million DOE loan in January 2010—unthinkable in the mid-2000s and unthinkable today—by identifying the single window when such a subsidy was politically possible and playing it perfectly.
+    - Tesla built cars that made drivers look cool, period—Leonardo DiCaprio ditched his Prius for a Tesla Roadster—exploiting the secret that rich people wanted to appear green but also wanted to look cool, something generic cleantech companies missed entirely.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--059"></span>**The macro need for energy solutions is real and will define the future, but no sector is so important that merely participating in it creates a great business—Energy 2.0 entrepreneurs must think small first, finding specific niches like remote island power or modular military reactors before scaling.**
+    - The cleantech bubble followed the same shape as the NASDAQ bubble a decade earlier—both driven by one big macro idea (internet will be big; green energy is needed) with too many companies sharing exactly that idea and no specific plan.
+    - Facebook started as a service for one university campus; the challenge for Energy 2.0 is paradoxically to think small—dominate a specific niche before expanding to the enormous market that undeniably exists.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_group-people.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Founder's Paradox
+
+Successful founders tend to exhibit extreme and contradictory traits—simultaneously insider and outsider, celebrated and vilified—not necessarily because they are born that way but through a reinforcing cycle of unusual individuals, strategic exaggeration, and public mythologization; and despite the dangers this creates, companies need distinctive founders because only they can make authoritative long-term decisions that transcend bureaucratic incrementalism.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--060"></span>**Founders' traits appear to follow an inverse normal distribution—clustering at the extremes rather than the middle—through a self-reinforcing cycle where unusual individuals strategically exaggerate their distinctiveness while the public amplifies those extremes through media mythologization.**
+    - Richard Branson started his first business at 16 and cultivated extreme traits (kiteboarding with naked supermodels, lion's mane hair) that media amplified into titles like 'The Virgin King' and 'The Ice King'—a feedback loop between genuine eccentricity and strategic persona-building.
+    - Sean Parker went from criminal hacker to Napster co-founder to Facebook's founding president to Justin Timberlake's role in The Social Network—each transformation amplifying his outsider/insider oscillation.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--061"></span>**The scapegoat dynamic explains why founder figures are simultaneously worshipped and vilified: primitive societies needed someone to blame for collective misfortune, and that same logic makes founders targets of adulation during prosperity and attacks during difficulty.**
+    - Classical mythology's founders—Oedipus (abandoned infant who became brilliant king), Romulus (law-maker who killed his brother Remus for crossing the city boundary)—are insider/outsider archetypes that served as vessels for collective sentiment.
+    - Aztecs worshipped their sacrificial victims as earthly forms of gods before cutting out their hearts—'every king was a living god, and every god a murdered king'; modern celebrity founders follow the same pattern of elevation and destruction.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--062"></span>**Bill Gates's experience shows how dominant founders attract dominant attacks: the DOJ antitrust case forced Gates to spend most of his time on legal defense instead of building technology, depriving Microsoft of its founder's full engagement and beginning the company's era of relative stagnation.**
+    - In 2000, journalist Peter Jennings asked whether Bill Gates or Bill Clinton was more important in the world—that level of dominance made Microsoft a target for government action that ultimately cost it more than any competitor could have.
+    - Howard Hughes's trajectory—world records in aviation, Congressional Gold Medal, then obsessive-compulsive addiction and 30 years of self-imposed solitary confinement—illustrates how a founder who survives long enough may become an object of pity as much as awe.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--063"></span>**Steve Jobs's return to Apple demonstrates that the most important task in business—creating new value—cannot be reduced to formula and applied by professionals: Jobs introduced the iPod, iPhone, and iPad after impeccably credentialed professional executives had nearly bankrupted the company.**
+    - When Jobs was hired as interim CEO in 1997, Michael Dell said he would shut Apple down and give the money back to shareholders; instead Jobs made Apple the most valuable company in the world by 2012 through a decade of definite multi-year product plans.
+    - Apple's value crucially depended on the singular vision of one particular person—this is why companies creating new technology often resemble feudal monarchies more than modern organizations: a unique founder can make authoritative decisions, inspire loyalty, and plan decades ahead.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--064"></span>**Founders are important not as Ayn Randian self-sufficient prime movers but because a great founder brings out the best work from everyone at the company—and the greatest danger for a founder is becoming so certain of their own myth that they lose their mind, or conversely losing all sense of myth and mistaking disenchantment for wisdom.**
+    - Rand was a merely half-great writer: her villains were real, but her heroes were fake—there is no Galt's Gulch, no secession from society, and believing yourself invested with divine self-sufficiency is not strength but mistaking the crowd's worship for truth.
+    - We should be more tolerant of founders who seem strange or extreme because we need unusual individuals to lead companies beyond mere incrementalism—individual prominence can be exchanged for notoriety at any moment, so founders must remain clear-eyed about both the myth and its limits.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Technology & Engineering/Life_tower-antenna.png" alt="" role="presentation" loading="lazy"></div>
+
+## Conclusion: Stagnation or Singularity?
+
+Humanity faces a binary choice between two likely scenarios—stagnation that collapses into extinction through resource conflict, or the deliberate creation of new technology that enables a much better future—and because the future won't happen on its own, the essential first step is to think for yourself and find singular ways to create genuinely new things.
+
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--065"></span>**Of philosopher Nick Bostrom's four scenarios for humanity's future—recurrent collapse, plateau convergence, extinction, and accelerating takeoff—the two most realistic are stagnation (globalization without new technology leading to resource conflict and extinction) or breakthrough (new technology enabling a singularity).**
+    - Recurrent collapse seems unlikely because knowledge underlying civilization is so widespread that complete annihilation would be more probable than recovery from a dark age.
+    - Without new technology to relieve competitive pressures, stagnation is likely to erupt into conflict; in case of global conflict, stagnation collapses into extinction—leaving deliberate technological creation as the only viable path.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--066"></span>**The Singularity—Ray Kurzweil's scenario of superhuman AI transcending current limits of understanding—matters less than the immediate choice between doing nothing and creating something; the future won't happen on its own, and we cannot take for granted that it will be better.**
+    - Strong AI is a worry for the 22nd century at the earliest; indefinite fears about the far future shouldn't stop us from making definite plans today.
+    - Whether we achieve the Singularity on a cosmic scale is perhaps less important than whether we seize unique opportunities to do new things in our own working lives—everything important, from the universe to this very moment, is singular.
+* <span id="zero-to-one-notes-on-startups-or-how-to-build-the--067"></span>**The essential first step toward a better future is to think for yourself—only by seeing the world as fresh and strange as it was to the ancients who first encountered it can we both re-create it and preserve it, going from 0 to 1.**
+    - Our task today is to find singular ways to create new things that will make the future not just different, but better.
+    - The contrarian question—what important truth do very few people agree with you on?—is both the beginning of original thinking and the beginning of building the future.

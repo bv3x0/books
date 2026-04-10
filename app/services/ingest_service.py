@@ -73,6 +73,13 @@ def _stage_and_validate_inputs(runtime, prompter: IngestPrompter):
     return uploaded_files
 
 
+def _print_batch_job_header(phase: str, idx: int, total: int, book: str) -> None:
+    print(
+        f"\n{'=' * 60}\nBatch {phase} {idx}/{total}: {book}\n{'=' * 60}",
+        flush=True,
+    )
+
+
 def _process_requests(runtime, uploaded_files: dict, retry_mode: bool):
     plan_requests = [] if retry_mode else runtime.manifest.get_chunk_plan_requests(uploaded_files)
     if plan_requests:
@@ -225,8 +232,8 @@ def load_batch_request(manifest_path: str, options: IngestOptions) -> BatchInges
     return BatchIngestRequest(jobs=jobs)
 
 
-def run_ingest_job(job: IngestJob, prompter: IngestPrompter) -> ProcessedIngestJob:
-    """Stage, validate, and process one ingest job without canonical writes."""
+def prepare_ingest_job(job: IngestJob, prompter: IngestPrompter) -> ProcessedIngestJob:
+    """Stage and validate one ingest job before batch execution begins."""
     try:
         book_name = validate_book_name(job.book)
         settings: ProviderSettings = resolve_provider_settings(job.options)
@@ -267,25 +274,49 @@ def run_ingest_job(job: IngestJob, prompter: IngestPrompter) -> ProcessedIngestJ
             error="Staging or validation failed.",
         )
 
-    job_result = _process_requests(runtime, uploaded_files, job.options.retry_mode)
-    if not job_result:
-        return ProcessedIngestJob(
-            job=job,
-            settings=settings,
-            runtime=runtime,
-            uploaded_files=uploaded_files,
-            status="failed",
-            error="Processing failed.",
-        )
-
     return ProcessedIngestJob(
         job=job,
         settings=settings,
         runtime=runtime,
         uploaded_files=uploaded_files,
+        status="prepared",
+    )
+
+
+def process_prepared_job(prepared_job: ProcessedIngestJob) -> ProcessedIngestJob:
+    """Run provider processing for a job that already passed staging and validation."""
+    if not prepared_job.runtime or not prepared_job.settings:
+        return replace(
+            prepared_job,
+            status="failed",
+            error="Prepared job is missing runtime context.",
+        )
+
+    job_result = _process_requests(
+        prepared_job.runtime,
+        prepared_job.uploaded_files,
+        prepared_job.job.options.retry_mode,
+    )
+    if not job_result:
+        return replace(
+            prepared_job,
+            status="failed",
+            error="Processing failed.",
+        )
+
+    return replace(
+        prepared_job,
         job_result=job_result,
         status="processed",
     )
+
+
+def run_ingest_job(job: IngestJob, prompter: IngestPrompter) -> ProcessedIngestJob:
+    """Stage, validate, and process one ingest job without canonical writes."""
+    prepared_job = prepare_ingest_job(job, prompter)
+    if prepared_job.status != "prepared":
+        return prepared_job
+    return process_prepared_job(prepared_job)
 
 
 def _write_processed_job(
@@ -314,7 +345,7 @@ def run_batch_ingest(
     batch_request: BatchIngestRequest | list[IngestJob],
     prompter: Optional[IngestPrompter] = None,
 ) -> bool:
-    """Run a batch of ingest jobs with serialized canonical writes."""
+    """Run a batch with upfront staging/validation and serialized canonical writes."""
     load_ingest_env()
     prompter = prompter or IngestPrompter()
     if isinstance(batch_request, list):
@@ -325,14 +356,29 @@ def run_batch_ingest(
         print("No ingest jobs were provided.", flush=True)
         return False
 
+    preflight_jobs = []
     processed_jobs = []
     for idx, job in enumerate(batch_request.jobs, start=1):
         if total_jobs > 1:
-            print(
-                f"\n{'=' * 60}\nBatch job {idx}/{total_jobs}: {job.book}\n{'=' * 60}",
-                flush=True,
+            _print_batch_job_header("preflight", idx, total_jobs, job.book)
+        preflight_jobs.append(prepare_ingest_job(job, prompter))
+
+    ready_total = sum(1 for job in preflight_jobs if job.status == "prepared")
+    execution_idx = 0
+    for prepared_job in preflight_jobs:
+        if prepared_job.status != "prepared":
+            processed_jobs.append(prepared_job)
+            continue
+
+        execution_idx += 1
+        if total_jobs > 1:
+            _print_batch_job_header(
+                "execution",
+                execution_idx,
+                ready_total,
+                prepared_job.job.book,
             )
-        processed_jobs.append(run_ingest_job(job, prompter))
+        processed_jobs.append(process_prepared_job(prepared_job))
 
     successful_books = []
     failed_books = [
@@ -378,6 +424,8 @@ __all__ = [
     "LowMatchDecision",
     "ChunkingReview",
     "TocValidationReview",
+    "prepare_ingest_job",
+    "process_prepared_job",
     "resolve_provider_settings",
     "run_batch_ingest",
     "run_ingest",

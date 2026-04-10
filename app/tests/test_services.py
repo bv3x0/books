@@ -792,7 +792,7 @@ class IngestServiceInteractionTests(unittest.TestCase):
                     ingest_service.IngestOptions(use_manual_toc=True),
                 )
 
-    def test_run_batch_ingest_processes_multiple_jobs_with_serialized_writes(self):
+    def test_run_batch_ingest_preflights_all_jobs_before_processing_and_writing(self):
         options = ingest_service.IngestOptions(book="", use_manual_toc=True)
         settings = ingest_service.ProviderSettings(
             provider="anthropic",
@@ -811,10 +811,27 @@ class IngestServiceInteractionTests(unittest.TestCase):
             options=replace(options, book="mirror worlds"),
             source_paths=ingest_service.IngestSourcePaths("/tmp/mirror-worlds", "/tmp/mirror-worlds/toc.txt"),
         )
+        prepared = {
+            "digital cash": ingest_service.ProcessedIngestJob(
+                job=job1,
+                settings=settings,
+                runtime=SimpleNamespace(),
+                uploaded_files={"Digital Cash.epub": {}},
+                status="prepared",
+            ),
+            "mirror worlds": ingest_service.ProcessedIngestJob(
+                job=job2,
+                settings=settings,
+                runtime=SimpleNamespace(),
+                uploaded_files={"Mirror Worlds.pdf": {}},
+                status="prepared",
+            ),
+        }
         processed = {
             "digital cash": ingest_service.ProcessedIngestJob(
                 job=job1,
                 settings=settings,
+                runtime=SimpleNamespace(),
                 uploaded_files={"Digital Cash.epub": {}},
                 job_result=SimpleNamespace(name="job-1", results=[]),
                 status="processed",
@@ -822,6 +839,7 @@ class IngestServiceInteractionTests(unittest.TestCase):
             "mirror worlds": ingest_service.ProcessedIngestJob(
                 job=job2,
                 settings=settings,
+                runtime=SimpleNamespace(),
                 uploaded_files={"Mirror Worlds.pdf": {}},
                 job_result=SimpleNamespace(name="job-2", results=[]),
                 status="processed",
@@ -829,9 +847,13 @@ class IngestServiceInteractionTests(unittest.TestCase):
         }
         calls = []
 
-        def fake_run_ingest_job(job, prompter):
-            calls.append(f"process:{job.book}")
-            return processed[job.book]
+        def fake_prepare_ingest_job(job, prompter):
+            calls.append(f"prepare:{job.book}")
+            return prepared[job.book]
+
+        def fake_process_prepared_job(prepared_job):
+            calls.append(f"process:{prepared_job.job.book}")
+            return processed[prepared_job.job.book]
 
         def fake_initialize_concept_registry(job_options):
             calls.append("shared-write-setup")
@@ -843,7 +865,16 @@ class IngestServiceInteractionTests(unittest.TestCase):
 
         with (
             mock.patch.object(ingest_service, "load_ingest_env"),
-            mock.patch.object(ingest_service, "run_ingest_job", side_effect=fake_run_ingest_job),
+            mock.patch.object(
+                ingest_service,
+                "prepare_ingest_job",
+                side_effect=fake_prepare_ingest_job,
+            ),
+            mock.patch.object(
+                ingest_service,
+                "process_prepared_job",
+                side_effect=fake_process_prepared_job,
+            ),
             mock.patch.object(
                 ingest_service,
                 "initialize_concept_registry",
@@ -858,6 +889,8 @@ class IngestServiceInteractionTests(unittest.TestCase):
         self.assertEqual(
             calls,
             [
+                "prepare:digital cash",
+                "prepare:mirror worlds",
                 "process:digital cash",
                 "process:mirror worlds",
                 "shared-write-setup",
@@ -866,7 +899,7 @@ class IngestServiceInteractionTests(unittest.TestCase):
             ],
         )
 
-    def test_run_batch_ingest_continues_after_one_job_fails_before_write(self):
+    def test_run_batch_ingest_skips_execution_for_jobs_that_fail_preflight(self):
         options = ingest_service.IngestOptions(book="", use_manual_toc=True)
         settings = ingest_service.ProviderSettings(
             provider="anthropic",
@@ -885,24 +918,36 @@ class IngestServiceInteractionTests(unittest.TestCase):
             options=replace(options, book="mirror worlds"),
             source_paths=ingest_service.IngestSourcePaths("/tmp/mirror-worlds", "/tmp/mirror-worlds/toc.txt"),
         )
-        failed = ingest_service.ProcessedIngestJob(
+        failed_preflight = ingest_service.ProcessedIngestJob(
             job=job1,
             settings=settings,
             status="failed",
             error="validation failed",
         )
+        prepared = ingest_service.ProcessedIngestJob(
+            job=job2,
+            settings=settings,
+            runtime=SimpleNamespace(),
+            uploaded_files={"Mirror Worlds.pdf": {}},
+            status="prepared",
+        )
         succeeded = ingest_service.ProcessedIngestJob(
             job=job2,
             settings=settings,
+            runtime=SimpleNamespace(),
             uploaded_files={"Mirror Worlds.pdf": {}},
             job_result=SimpleNamespace(name="job-2", results=[]),
             status="processed",
         )
         calls = []
 
-        def fake_run_ingest_job(job, prompter):
-            calls.append(f"process:{job.book}")
-            return failed if job.book == "digital cash" else succeeded
+        def fake_prepare_ingest_job(job, prompter):
+            calls.append(f"prepare:{job.book}")
+            return failed_preflight if job.book == "digital cash" else prepared
+
+        def fake_process_prepared_job(prepared_job):
+            calls.append(f"process:{prepared_job.job.book}")
+            return succeeded
 
         def fake_write(processed_job, concept_registry, enable_semantic_merge):
             calls.append(f"write:{processed_job.job.book}")
@@ -910,7 +955,16 @@ class IngestServiceInteractionTests(unittest.TestCase):
 
         with (
             mock.patch.object(ingest_service, "load_ingest_env"),
-            mock.patch.object(ingest_service, "run_ingest_job", side_effect=fake_run_ingest_job),
+            mock.patch.object(
+                ingest_service,
+                "prepare_ingest_job",
+                side_effect=fake_prepare_ingest_job,
+            ),
+            mock.patch.object(
+                ingest_service,
+                "process_prepared_job",
+                side_effect=fake_process_prepared_job,
+            ),
             mock.patch.object(
                 ingest_service,
                 "initialize_concept_registry",
@@ -925,14 +979,111 @@ class IngestServiceInteractionTests(unittest.TestCase):
         self.assertEqual(
             calls,
             [
-                "process:digital cash",
+                "prepare:digital cash",
+                "prepare:mirror worlds",
                 "process:mirror worlds",
                 "write:mirror worlds",
             ],
         )
         summary.assert_called_once_with(2, ["mirror worlds"], ["digital cash"])
 
-    def test_run_batch_ingest_non_interactive_continues_after_aborted_job(self):
+    def test_run_batch_ingest_continues_after_one_job_fails_during_processing(self):
+        options = ingest_service.IngestOptions(book="", use_manual_toc=True)
+        settings = ingest_service.ProviderSettings(
+            provider="anthropic",
+            model_id="claude-sonnet-4-6",
+            notes_suffix="",
+            cache_suffix=".anthropic",
+            require_openai=False,
+        )
+        job1 = ingest_service.IngestJob(
+            book="digital cash",
+            options=replace(options, book="digital cash"),
+            source_paths=ingest_service.IngestSourcePaths("/tmp/digital-cash", "/tmp/digital-cash/toc.txt"),
+        )
+        job2 = ingest_service.IngestJob(
+            book="mirror worlds",
+            options=replace(options, book="mirror worlds"),
+            source_paths=ingest_service.IngestSourcePaths("/tmp/mirror-worlds", "/tmp/mirror-worlds/toc.txt"),
+        )
+        prepared1 = ingest_service.ProcessedIngestJob(
+            job=job1,
+            settings=settings,
+            runtime=SimpleNamespace(),
+            uploaded_files={"Digital Cash.epub": {}},
+            status="prepared",
+        )
+        prepared2 = ingest_service.ProcessedIngestJob(
+            job=job2,
+            settings=settings,
+            runtime=SimpleNamespace(),
+            uploaded_files={"Mirror Worlds.pdf": {}},
+            status="prepared",
+        )
+        failed = ingest_service.ProcessedIngestJob(
+            job=job1,
+            settings=settings,
+            runtime=SimpleNamespace(),
+            status="failed",
+            error="provider failure",
+        )
+        succeeded = ingest_service.ProcessedIngestJob(
+            job=job2,
+            settings=settings,
+            runtime=SimpleNamespace(),
+            uploaded_files={"Mirror Worlds.pdf": {}},
+            job_result=SimpleNamespace(name="job-2", results=[]),
+            status="processed",
+        )
+        calls = []
+
+        def fake_prepare_ingest_job(job, prompter):
+            calls.append(f"prepare:{job.book}")
+            return prepared1 if job.book == "digital cash" else prepared2
+
+        def fake_process_prepared_job(prepared_job):
+            calls.append(f"process:{prepared_job.job.book}")
+            return failed if prepared_job.job.book == "digital cash" else succeeded
+
+        with (
+            mock.patch.object(ingest_service, "load_ingest_env"),
+            mock.patch.object(
+                ingest_service,
+                "prepare_ingest_job",
+                side_effect=fake_prepare_ingest_job,
+            ),
+            mock.patch.object(
+                ingest_service,
+                "process_prepared_job",
+                side_effect=fake_process_prepared_job,
+            ),
+            mock.patch.object(
+                ingest_service,
+                "initialize_concept_registry",
+                return_value=("registry", False),
+            ),
+            mock.patch.object(ingest_service, "_write_processed_job", return_value=True) as write_job,
+            mock.patch.object(ingest_service, "print_batch_summary") as summary,
+        ):
+            ok = ingest_service.run_batch_ingest(
+                [job1, job2],
+                prompter=FakePrompter(),
+            )
+
+        self.assertFalse(ok)
+        write_job.assert_called_once_with(succeeded, "registry", False)
+        self.assertEqual(
+            calls,
+            [
+                "prepare:digital cash",
+                "prepare:mirror worlds",
+                "process:digital cash",
+                "process:mirror worlds",
+            ],
+        )
+        summary.assert_called_once_with(2, ["mirror worlds"], ["digital cash"])
+
+    def test_run_batch_ingest_non_interactive_continues_after_aborted_preflight_job(self):
         options = ingest_service.IngestOptions(book="", use_manual_toc=True)
         settings = ingest_service.ProviderSettings(
             provider="anthropic",
@@ -957,23 +1108,44 @@ class IngestServiceInteractionTests(unittest.TestCase):
             status="failed",
             error="non-interactive abort",
         )
+        prepared = ingest_service.ProcessedIngestJob(
+            job=job2,
+            settings=settings,
+            runtime=SimpleNamespace(),
+            uploaded_files={"Mirror Worlds.pdf": {}},
+            status="prepared",
+        )
         succeeded = ingest_service.ProcessedIngestJob(
             job=job2,
             settings=settings,
+            runtime=SimpleNamespace(),
             uploaded_files={"Mirror Worlds.pdf": {}},
             job_result=SimpleNamespace(name="job-2", results=[]),
             status="processed",
         )
         calls = []
 
-        def fake_run_ingest_job(job, prompter):
+        def fake_prepare_ingest_job(job, prompter):
             self.assertIsInstance(prompter, NonInteractiveIngestPrompter)
-            calls.append(f"process:{job.book}")
-            return aborted if job.book == "digital cash" else succeeded
+            calls.append(f"prepare:{job.book}")
+            return aborted if job.book == "digital cash" else prepared
+
+        def fake_process_prepared_job(prepared_job):
+            calls.append(f"process:{prepared_job.job.book}")
+            return succeeded
 
         with (
             mock.patch.object(ingest_service, "load_ingest_env"),
-            mock.patch.object(ingest_service, "run_ingest_job", side_effect=fake_run_ingest_job),
+            mock.patch.object(
+                ingest_service,
+                "prepare_ingest_job",
+                side_effect=fake_prepare_ingest_job,
+            ),
+            mock.patch.object(
+                ingest_service,
+                "process_prepared_job",
+                side_effect=fake_process_prepared_job,
+            ),
             mock.patch.object(
                 ingest_service,
                 "initialize_concept_registry",
@@ -992,7 +1164,8 @@ class IngestServiceInteractionTests(unittest.TestCase):
         self.assertEqual(
             calls,
             [
-                "process:digital cash",
+                "prepare:digital cash",
+                "prepare:mirror worlds",
                 "process:mirror worlds",
             ],
         )
@@ -1099,6 +1272,43 @@ class IngestServiceInteractionTests(unittest.TestCase):
         self.assertEqual(len(prompter.toc_continue_reviews), 1)
         _review, passed = prompter.toc_continue_reviews[0]
         self.assertTrue(passed)
+
+    def test_validate_toc_matches_checks_every_markdown_input(self):
+        uploaded_files = {
+            "book-one.epub": {
+                "format": "markdown",
+                "toc": ["Chapter 1"],
+                "text": "body one",
+            },
+            "book-two.epub": {
+                "format": "markdown",
+                "toc": ["Chapter 1", "Chapter 2"],
+                "text": "body two",
+            },
+        }
+        prompter = FakePrompter(toc_continue=True)
+
+        with mock.patch(
+            "app.core.epub_processor.test_toc_matches",
+            side_effect=[
+                {
+                    "matched": [("Chapter 1", "ctx")],
+                    "unmatched": [],
+                    "match_rate": 1.0,
+                },
+                {
+                    "matched": [("Chapter 1", "ctx"), ("Chapter 2", "ctx")],
+                    "unmatched": [],
+                    "match_rate": 1.0,
+                },
+            ],
+        ) as match_toc:
+            ok = ingest_service.validate_toc_matches(uploaded_files, prompter)
+
+        self.assertTrue(ok)
+        self.assertEqual(match_toc.call_count, 2)
+        self.assertEqual(prompter.low_match_reviews, [])
+        self.assertEqual(prompter.toc_continue_reviews, [])
 
     def test_auto_yes_prompter_accepts_reviews(self):
         review = ingest_service.TocValidationReview(

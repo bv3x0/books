@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-09T20:26:39.585934Z",
+  "updated_at": "2026-04-10T00:47:01.900002Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -912,10 +912,12 @@
         "nick land explains the numogram": 1,
         "on heroes": 1,
         "the closing of the american mind": 2,
+        "the hard thing about hard things": 1,
         "the lacanian subject": 1,
         "the problem of the puer aeternus": 1,
         "the secret teachings of all ages": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "zero to one": 2
       },
       "books": [
         "a disease in the public mind",
@@ -931,12 +933,14 @@
         "nick land explains the numogram",
         "on heroes",
         "the closing of the american mind",
+        "the hard thing about hard things",
         "the lacanian subject",
         "the problem of the puer aeternus",
         "the secret teachings of all ages",
-        "unqualified reservations"
+        "unqualified reservations",
+        "zero to one"
       ],
-      "claim_count": 24
+      "claim_count": 27
     },
     "mob_violence": {
       "id": "mob_violence",
@@ -1848,15 +1852,17 @@
         "a disease in the public mind": 1,
         "after progress": 1,
         "elon-musk": 1,
-        "normans in the south": 2
+        "normans in the south": 2,
+        "the hard thing about hard things": 1
       },
       "books": [
         "a disease in the public mind",
         "after progress",
         "elon-musk",
-        "normans in the south"
+        "normans in the south",
+        "the hard thing about hard things"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "defensive_strategies": {
       "id": "defensive_strategies",
@@ -4993,16 +4999,18 @@
         "anthropol": 7,
         "elon-musk": 3,
         "language machines": 1,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "zero to one": 1
       },
       "books": [
         "after progress",
         "anthropol",
         "elon-musk",
         "language machines",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "zero to one"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "faith_necessity": {
       "id": "faith_necessity",
@@ -5366,7 +5374,8 @@
         "elon-musk": 3,
         "meetings with remarkable men": 1,
         "the soul of the world": 2,
-        "the-body-keeps-the-score": 1
+        "the-body-keeps-the-score": 1,
+        "zero to one": 1
       },
       "books": [
         "alchemical active imagination",
@@ -5374,9 +5383,10 @@
         "elon-musk",
         "meetings with remarkable men",
         "the soul of the world",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "zero to one"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "divine_attraction": {
       "id": "divine_attraction",
@@ -6881,14 +6891,16 @@
       "book_claims": {
         "american nations": 1,
         "kabbalistic visions": 1,
-        "normans in the south": 1
+        "normans in the south": 1,
+        "zero to one": 1
       },
       "books": [
         "american nations",
         "kabbalistic visions",
-        "normans in the south"
+        "normans in the south",
+        "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "threat_assessment": {
       "id": "threat_assessment",
@@ -8827,6 +8839,7 @@
         "from bacteria to bach and back": 1,
         "mystery teachings from the living earth": 1,
         "the ascent of money": 1,
+        "the hard thing about hard things": 1,
         "the misbehavior of markets": 1,
         "unqualified reservations": 1
       },
@@ -8837,10 +8850,11 @@
         "from bacteria to bach and back",
         "mystery teachings from the living earth",
         "the ascent of money",
+        "the hard thing about hard things",
         "the misbehavior of markets",
         "unqualified reservations"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "convergence": {
       "id": "convergence",
@@ -9058,13 +9072,15 @@
       "related": [],
       "book_claims": {
         "anthropol": 1,
-        "the age of interconnection": 1
+        "the age of interconnection": 1,
+        "the hard thing about hard things": 1
       },
       "books": [
         "anthropol",
-        "the age of interconnection"
+        "the age of interconnection",
+        "the hard thing about hard things"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "import_substitution": {
       "id": "import_substitution",
@@ -9560,15 +9576,19 @@
         "anthropol": 1,
         "boom": 1,
         "digital cash": 1,
-        "fooled by randomness": 2
+        "fooled by randomness": 2,
+        "the hard thing about hard things": 1,
+        "zero to one": 3
       },
       "books": [
         "anthropol",
         "boom",
         "digital cash",
-        "fooled by randomness"
+        "fooled by randomness",
+        "the hard thing about hard things",
+        "zero to one"
       ],
-      "claim_count": 5
+      "claim_count": 9
     },
     "aesthetic_judgment": {
       "id": "aesthetic_judgment",
@@ -9987,14 +10007,16 @@
       "book_claims": {
         "best loser wins": 1,
         "boom": 3,
-        "the ascent of money": 2
+        "the ascent of money": 2,
+        "zero to one": 1
       },
       "books": [
         "best loser wins",
         "boom",
-        "the ascent of money"
+        "the ascent of money",
+        "zero to one"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "trend_following": {
       "id": "trend_following",
@@ -10021,14 +10043,16 @@
       "book_claims": {
         "best loser wins": 1,
         "philosopher-in-the-valley": 2,
-        "the misbehavior of markets": 1
+        "the misbehavior of markets": 1,
+        "zero to one": 3
       },
       "books": [
         "best loser wins",
         "philosopher-in-the-valley",
-        "the misbehavior of markets"
+        "the misbehavior of markets",
+        "zero to one"
       ],
-      "claim_count": 4
+      "claim_count": 7
     },
     "selection_bias": {
       "id": "selection_bias",
@@ -10079,14 +10103,16 @@
       "book_claims": {
         "best loser wins": 1,
         "elon-musk": 1,
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "zero to one": 5
       },
       "books": [
         "best loser wins",
         "elon-musk",
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 8
     },
     "childhood_influence": {
       "id": "childhood_influence",
@@ -10282,15 +10308,17 @@
         "boom": 1,
         "braudel-vol1": 2,
         "the age of interconnection": 1,
-        "the concept of acceleration": 1
+        "the concept of acceleration": 1,
+        "zero to one": 1
       },
       "books": [
         "boom",
         "braudel-vol1",
         "the age of interconnection",
-        "the concept of acceleration"
+        "the concept of acceleration",
+        "zero to one"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "productivity_decline": {
       "id": "productivity_decline",
@@ -10386,13 +10414,15 @@
       "related": [],
       "book_claims": {
         "boom": 1,
-        "elon-musk": 1
+        "elon-musk": 1,
+        "zero to one": 1
       },
       "books": [
         "boom",
-        "elon-musk"
+        "elon-musk",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "radical_transformation": {
       "id": "radical_transformation",
@@ -10531,7 +10561,8 @@
         "from bacteria to bach and back": 7,
         "mirror worlds": 1,
         "philosopher-in-the-valley": 1,
-        "the concept of acceleration": 1
+        "the concept of acceleration": 1,
+        "zero to one": 1
       },
       "books": [
         "boom",
@@ -10540,9 +10571,10 @@
         "from bacteria to bach and back",
         "mirror worlds",
         "philosopher-in-the-valley",
-        "the concept of acceleration"
+        "the concept of acceleration",
+        "zero to one"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "materials_science": {
       "id": "materials_science",
@@ -14131,6 +14163,7 @@
         "elon-musk": 4,
         "philosopher-in-the-valley": 1,
         "psychomagic": 1,
+        "the hard thing about hard things": 1,
         "the-body-keeps-the-score": 3
       },
       "books": [
@@ -14138,9 +14171,10 @@
         "elon-musk",
         "philosopher-in-the-valley",
         "psychomagic",
+        "the hard thing about hard things",
         "the-body-keeps-the-score"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "anachronism": {
       "id": "anachronism",
@@ -14380,13 +14414,15 @@
       "related": [],
       "book_claims": {
         "deschooling society": 1,
+        "the hard thing about hard things": 1,
         "unqualified reservations": 3
       },
       "books": [
         "deschooling society",
+        "the hard thing about hard things",
         "unqualified reservations"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "resource_access": {
       "id": "resource_access",
@@ -14634,13 +14670,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 2,
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "zero to one": 2
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "friendship": {
       "id": "friendship",
@@ -14704,13 +14742,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
-        "philosopher-in-the-valley": 2
+        "philosopher-in-the-valley": 2,
+        "the hard thing about hard things": 3,
+        "zero to one": 3
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "the hard thing about hard things",
+        "zero to one"
       ],
-      "claim_count": 6
+      "claim_count": 12
     },
     "corporate_governance": {
       "id": "corporate_governance",
@@ -14721,14 +14763,18 @@
       "book_claims": {
         "elon-musk": 4,
         "philosopher-in-the-valley": 1,
-        "unqualified reservations": 6
+        "the hard thing about hard things": 1,
+        "unqualified reservations": 6,
+        "zero to one": 3
       },
       "books": [
         "elon-musk",
         "philosopher-in-the-valley",
-        "unqualified reservations"
+        "the hard thing about hard things",
+        "unqualified reservations",
+        "zero to one"
       ],
-      "claim_count": 11
+      "claim_count": 15
     },
     "strategic_direction": {
       "id": "strategic_direction",
@@ -14930,13 +14976,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "zero to one": 2
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "emotional_development": {
       "id": "emotional_development",
@@ -15120,13 +15168,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "the hard thing about hard things": 3,
+        "zero to one": 2
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "the hard thing about hard things",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 7
     },
     "executive_succession": {
       "id": "executive_succession",
@@ -15152,13 +15204,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 3,
-        "philosopher-in-the-valley": 2
+        "philosopher-in-the-valley": 2,
+        "the hard thing about hard things": 1
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "the hard thing about hard things"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "government_financing": {
       "id": "government_financing",
@@ -15331,14 +15385,16 @@
       "book_claims": {
         "elon-musk": 9,
         "philosopher-in-the-valley": 3,
-        "the culture of narcissism": 1
+        "the culture of narcissism": 1,
+        "the hard thing about hard things": 4
       },
       "books": [
         "elon-musk",
         "philosopher-in-the-valley",
-        "the culture of narcissism"
+        "the culture of narcissism",
+        "the hard thing about hard things"
       ],
-      "claim_count": 13
+      "claim_count": 17
     },
     "manufacturing_optimization": {
       "id": "manufacturing_optimization",
@@ -15380,13 +15436,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 2,
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "zero to one": 1
       },
       "books": [
         "elon-musk",
-        "the ascent of money"
+        "the ascent of money",
+        "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "artistic_inspiration": {
       "id": "artistic_inspiration",
@@ -15448,13 +15506,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "zero to one": 1
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "financial_crisis": {
       "id": "financial_crisis",
@@ -15466,15 +15526,17 @@
         "elon-musk": 1,
         "the age of interconnection": 2,
         "the ascent of money": 3,
-        "the concept of acceleration": 1
+        "the concept of acceleration": 1,
+        "zero to one": 1
       },
       "books": [
         "elon-musk",
         "the age of interconnection",
         "the ascent of money",
-        "the concept of acceleration"
+        "the concept of acceleration",
+        "zero to one"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "software_development": {
       "id": "software_development",
@@ -15617,14 +15679,16 @@
       "book_claims": {
         "elon-musk": 2,
         "from bacteria to bach and back": 1,
-        "mirror worlds": 1
+        "mirror worlds": 1,
+        "zero to one": 2
       },
       "books": [
         "elon-musk",
         "from bacteria to bach and back",
-        "mirror worlds"
+        "mirror worlds",
+        "zero to one"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "information_transfer": {
       "id": "information_transfer",
@@ -15860,13 +15924,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "zero to one": 1
       },
       "books": [
         "elon-musk",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "decision_making": {
       "id": "decision_making",
@@ -15878,6 +15944,7 @@
         "elon-musk": 1,
         "on heroes": 1,
         "the ascent of money": 1,
+        "the hard thing about hard things": 1,
         "the light eaters": 2,
         "the soul of the world": 1,
         "unqualified reservations": 2
@@ -15886,11 +15953,12 @@
         "elon-musk",
         "on heroes",
         "the ascent of money",
+        "the hard thing about hard things",
         "the light eaters",
         "the soul of the world",
         "unqualified reservations"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "corporate_culture": {
       "id": "corporate_culture",
@@ -15934,13 +16002,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "the age of interconnection": 1
+        "the age of interconnection": 1,
+        "zero to one": 2
       },
       "books": [
         "elon-musk",
-        "the age of interconnection"
+        "the age of interconnection",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "verification_systems": {
       "id": "verification_systems",
@@ -16113,14 +16183,16 @@
       "book_claims": {
         "elon-musk": 1,
         "mirror worlds": 1,
-        "the horse": 1
+        "the horse": 1,
+        "zero to one": 1
       },
       "books": [
         "elon-musk",
         "mirror worlds",
-        "the horse"
+        "the horse",
+        "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "technological_singularity": {
       "id": "technological_singularity",
@@ -17133,6 +17205,7 @@
         "dark night of the soul": 1,
         "evil the shadow side of reality": 1,
         "in search of the miraculous": 6,
+        "the hard thing about hard things": 1,
         "the reality of being": 3,
         "the sickness unto death": 2,
         "things hidden since the foundation of the world": 1,
@@ -17145,12 +17218,13 @@
         "dark night of the soul",
         "evil the shadow side of reality",
         "in search of the miraculous",
+        "the hard thing about hard things",
         "the reality of being",
         "the sickness unto death",
         "things hidden since the foundation of the world",
         "thus spake zarathustra"
       ],
-      "claim_count": 24
+      "claim_count": 25
     },
     "psychological_dissociation": {
       "id": "psychological_dissociation",
@@ -17672,7 +17746,8 @@
         "orthodoxy": 2,
         "revelations of divine love": 3,
         "the discarded image": 1,
-        "the reality of being": 1
+        "the reality of being": 1,
+        "zero to one": 2
       },
       "books": [
         "catafalque",
@@ -17680,9 +17755,10 @@
         "orthodoxy",
         "revelations of divine love",
         "the discarded image",
-        "the reality of being"
+        "the reality of being",
+        "zero to one"
       ],
-      "claim_count": 11
+      "claim_count": 13
     },
     "epistemic_authority": {
       "id": "epistemic_authority",
@@ -17710,7 +17786,8 @@
         "the secret teachings of all ages": 1,
         "the sickness unto death": 1,
         "thus spake zarathustra": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "zero to one": 1
       },
       "books": [
         "beelzebubs tales",
@@ -17732,9 +17809,10 @@
         "the secret teachings of all ages",
         "the sickness unto death",
         "thus spake zarathustra",
-        "transcendental magic"
+        "transcendental magic",
+        "zero to one"
       ],
-      "claim_count": 29
+      "claim_count": 30
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -22092,15 +22170,17 @@
         "kabbalistic visions": 1,
         "the ascent of money": 2,
         "the concept of acceleration": 1,
-        "thus spake zarathustra": 2
+        "thus spake zarathustra": 2,
+        "zero to one": 1
       },
       "books": [
         "kabbalistic visions",
         "the ascent of money",
         "the concept of acceleration",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "zero to one"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "sublimation": {
       "id": "sublimation",
@@ -22332,7 +22412,8 @@
         "kabbalistic visions": 1,
         "man and his symbols": 1,
         "memories-dreams-reflections": 1,
-        "the problem of the puer aeternus": 5
+        "the problem of the puer aeternus": 5,
+        "zero to one": 1
       },
       "books": [
         "beelzebubs tales",
@@ -22340,9 +22421,10 @@
         "kabbalistic visions",
         "man and his symbols",
         "memories-dreams-reflections",
-        "the problem of the puer aeternus"
+        "the problem of the puer aeternus",
+        "zero to one"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "jewish_mysticism": {
       "id": "jewish_mysticism",
@@ -31502,13 +31584,15 @@
       "related": [],
       "book_claims": {
         "the age of interconnection": 1,
-        "the horse": 1
+        "the horse": 1,
+        "zero to one": 1
       },
       "books": [
         "the age of interconnection",
-        "the horse"
+        "the horse",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "international_finance": {
       "id": "international_finance",
@@ -33067,14 +33151,16 @@
       "book_claims": {
         "all desire is a desire for being": 6,
         "the soul of the world": 1,
-        "things hidden since the foundation of the world": 7
+        "things hidden since the foundation of the world": 7,
+        "zero to one": 1
       },
       "books": [
         "all desire is a desire for being",
         "the soul of the world",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "zero to one"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "emergent_properties": {
       "id": "emergent_properties",
@@ -33534,13 +33620,15 @@
       "related": [],
       "book_claims": {
         "best loser wins": 1,
-        "in search of the miraculous": 1
+        "in search of the miraculous": 1,
+        "zero to one": 1
       },
       "books": [
         "best loser wins",
-        "in search of the miraculous"
+        "in search of the miraculous",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "institutional_separation": {
       "id": "institutional_separation",
@@ -35157,14 +35245,16 @@
       "book_claims": {
         "meetings with remarkable men": 1,
         "occult philosophy in the elizabethan age": 1,
+        "the hard thing about hard things": 1,
         "the interior castle": 1
       },
       "books": [
         "meetings with remarkable men",
         "occult philosophy in the elizabethan age",
+        "the hard thing about hard things",
         "the interior castle"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "sacred_lineage": {
       "id": "sacred_lineage",
@@ -36287,16 +36377,18 @@
         "on heroes": 1,
         "sexual personae": 2,
         "the secret teachings of all ages": 1,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "zero to one": 1
       },
       "books": [
         "beyond good and evil",
         "on heroes",
         "sexual personae",
         "the secret teachings of all ages",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "zero to one"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "cultural_change": {
       "id": "cultural_change",
@@ -36390,13 +36482,15 @@
       "related": [],
       "book_claims": {
         "deschooling society": 1,
-        "the culture of narcissism": 1
+        "the culture of narcissism": 1,
+        "zero to one": 1
       },
       "books": [
         "deschooling society",
-        "the culture of narcissism"
+        "the culture of narcissism",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "higher_education": {
       "id": "higher_education",
@@ -41112,13 +41206,15 @@
       "related": [],
       "book_claims": {
         "anthropol": 1,
-        "language machines": 1
+        "language machines": 1,
+        "zero to one": 1
       },
       "books": [
         "anthropol",
-        "language machines"
+        "language machines",
+        "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "visualization": {
       "id": "visualization",
@@ -43434,13 +43530,15 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
-        "things hidden since the foundation of the world": 9
+        "things hidden since the foundation of the world": 9,
+        "zero to one": 3
       },
       "books": [
         "all desire is a desire for being",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "zero to one"
       ],
-      "claim_count": 10
+      "claim_count": 13
     },
     "ethology": {
       "id": "ethology",
@@ -45306,13 +45404,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
-        "thus spake zarathustra": 2
+        "thus spake zarathustra": 2,
+        "zero to one": 3
       },
       "books": [
         "introduction-to-christianity",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 6
     },
     "atheism": {
       "id": "atheism",
@@ -47151,6 +47251,746 @@
         "unqualified reservations"
       ],
       "claim_count": 2
+    },
+    "progress_ideology": {
+      "id": "progress_ideology",
+      "label": "Progress Ideology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "after progress": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "after progress",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "historical_progress": {
+      "id": "historical_progress",
+      "label": "Historical Progress",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "all desire is a desire for being": 1,
+        "zero to one": 2
+      },
+      "books": [
+        "all desire is a desire for being",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "social_conformity": {
+      "id": "social_conformity",
+      "label": "Social Conformity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beelzebubs tales": 2,
+        "zero to one": 2
+      },
+      "books": [
+        "beelzebubs tales",
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "definite_optimism": {
+      "id": "definite_optimism",
+      "label": "Definite Optimism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "boom": 1,
+        "zero to one": 2
+      },
+      "books": [
+        "boom",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "strategic_pivot": {
+      "id": "strategic_pivot",
+      "label": "Strategic Pivot",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "days of rage": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "days of rage",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "organizational_decline": {
+      "id": "organizational_decline",
+      "label": "Organizational Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "days of rage": 2,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "days of rage",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 3
+    },
+    "strategic_decision_making": {
+      "id": "strategic_decision_making",
+      "label": "Strategic Decision Making",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "management_style": {
+      "id": "management_style",
+      "label": "Management Style",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 2,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 3
+    },
+    "board_governance": {
+      "id": "board_governance",
+      "label": "Board Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 3,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 4
+    },
+    "startup_financing": {
+      "id": "startup_financing",
+      "label": "Startup Financing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 2,
+        "zero to one": 1
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "product_differentiation": {
+      "id": "product_differentiation",
+      "label": "Product Differentiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "zero to one": 2
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "ceo_succession": {
+      "id": "ceo_succession",
+      "label": "Ceo Succession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "competitive_positioning": {
+      "id": "competitive_positioning",
+      "label": "Competitive Positioning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "work_life_balance": {
+      "id": "work_life_balance",
+      "label": "Work Life Balance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 3,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 4
+    },
+    "talent_acquisition": {
+      "id": "talent_acquisition",
+      "label": "Talent Acquisition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 2,
+        "zero to one": 1
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "mission_alignment": {
+      "id": "mission_alignment",
+      "label": "Mission Alignment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "business_model_innovation": {
+      "id": "business_model_innovation",
+      "label": "Business Model Innovation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "global_competition": {
+      "id": "global_competition",
+      "label": "Global Competition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "first_mover_advantage": {
+      "id": "first_mover_advantage",
+      "label": "First Mover Advantage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "elon-musk",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "performance_management": {
+      "id": "performance_management",
+      "label": "Performance Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the hard thing about hard things": 3
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 4
+    },
+    "employee_retention": {
+      "id": "employee_retention",
+      "label": "Employee Retention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "team_motivation": {
+      "id": "team_motivation",
+      "label": "Team Motivation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "elon-musk",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "survivorship_bias": {
+      "id": "survivorship_bias",
+      "label": "Survivorship Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "fooled by randomness": 12,
+        "zero to one": 1
+      },
+      "books": [
+        "fooled by randomness",
+        "zero to one"
+      ],
+      "claim_count": 13
+    },
+    "persuasion": {
+      "id": "persuasion",
+      "label": "Persuasion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "from bacteria to bach and back": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "from bacteria to bach and back",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "first_impressions": {
+      "id": "first_impressions",
+      "label": "First Impressions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "in search of the miraculous": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "in search of the miraculous",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "agency": {
+      "id": "agency",
+      "label": "Agency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "michael-levin-major-talks": 1,
+        "zero to one": 3
+      },
+      "books": [
+        "michael-levin-major-talks",
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "hybrid_systems": {
+      "id": "hybrid_systems",
+      "label": "Hybrid Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mirror worlds": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "mirror worlds",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "organizational_design": {
+      "id": "organizational_design",
+      "label": "Organizational Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mirror worlds": 1,
+        "the hard thing about hard things": 4,
+        "zero to one": 6
+      },
+      "books": [
+        "mirror worlds",
+        "the hard thing about hard things",
+        "zero to one"
+      ],
+      "claim_count": 11
+    },
+    "opportunity_cost": {
+      "id": "opportunity_cost",
+      "label": "Opportunity Cost",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mystery teachings from the living earth": 1,
+        "zero to one": 3
+      },
+      "books": [
+        "mystery teachings from the living earth",
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "cultural_mythology": {
+      "id": "cultural_mythology",
+      "label": "Cultural Mythology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "occult philosophy in the elizabethan age": 3,
+        "zero to one": 1
+      },
+      "books": [
+        "occult philosophy in the elizabethan age",
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "moral_courage": {
+      "id": "moral_courage",
+      "label": "Moral Courage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "on heroes": 1,
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "on heroes",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 3
+    },
+    "data_analytics": {
+      "id": "data_analytics",
+      "label": "Data Analytics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "leadership_philosophy": {
+      "id": "leadership_philosophy",
+      "label": "Leadership Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "market_validation": {
+      "id": "market_validation",
+      "label": "Market Validation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 2,
+        "zero to one": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "organizational_hierarchy": {
+      "id": "organizational_hierarchy",
+      "label": "Organizational Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "customer_retention": {
+      "id": "customer_retention",
+      "label": "Customer Retention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "executive_decision_making": {
+      "id": "executive_decision_making",
+      "label": "Executive Decision Making",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "executive_accountability": {
+      "id": "executive_accountability",
+      "label": "Executive Accountability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "customer_acquisition": {
+      "id": "customer_acquisition",
+      "label": "Customer Acquisition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "philosopher-in-the-valley": 1,
+        "zero to one": 3
+      },
+      "books": [
+        "philosopher-in-the-valley",
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "market_selection": {
+      "id": "market_selection",
+      "label": "Market Selection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the ascent of money": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "the ascent of money",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "market_efficiency": {
+      "id": "market_efficiency",
+      "label": "Market Efficiency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the ascent of money": 1,
+        "the hard thing about hard things": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "the ascent of money",
+        "the hard thing about hard things",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "economic_impact": {
+      "id": "economic_impact",
+      "label": "Economic Impact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the horse": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "the horse",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "portfolio_theory": {
+      "id": "portfolio_theory",
+      "label": "Portfolio Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the misbehavior of markets": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "the misbehavior of markets",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "resilience": {
+      "id": "resilience",
+      "label": "Resilience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 3,
+        "thus spake zarathustra": 1
+      },
+      "books": [
+        "the hard thing about hard things",
+        "thus spake zarathustra"
+      ],
+      "claim_count": 4
+    },
+    "conflict_resolution": {
+      "id": "conflict_resolution",
+      "label": "Conflict Resolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1,
+        "unqualified reservations": 3
+      },
+      "books": [
+        "the hard thing about hard things",
+        "unqualified reservations"
+      ],
+      "claim_count": 4
+    },
+    "incentive_design": {
+      "id": "incentive_design",
+      "label": "Incentive Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2,
+        "zero to one": 1
+      },
+      "books": [
+        "the hard thing about hard things",
+        "zero to one"
+      ],
+      "claim_count": 3
     },
     "slave_insurrection": {
       "id": "slave_insurrection",
@@ -54152,20 +54992,6 @@
       ],
       "claim_count": 1
     },
-    "progress_ideology": {
-      "id": "progress_ideology",
-      "label": "Progress Ideology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "after progress": 1
-      },
-      "books": [
-        "after progress"
-      ],
-      "claim_count": 1
-    },
     "cognitive_entrapment": {
       "id": "cognitive_entrapment",
       "label": "Cognitive Entrapment",
@@ -56587,20 +57413,6 @@
         "all desire is a desire for being"
       ],
       "claim_count": 2
-    },
-    "historical_progress": {
-      "id": "historical_progress",
-      "label": "Historical Progress",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "all desire is a desire for being": 1
-      },
-      "books": [
-        "all desire is a desire for being"
-      ],
-      "claim_count": 1
     },
     "crowd_dissolution": {
       "id": "crowd_dissolution",
@@ -69454,20 +70266,6 @@
       ],
       "claim_count": 1
     },
-    "social_conformity": {
-      "id": "social_conformity",
-      "label": "Social Conformity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beelzebubs tales": 2
-      },
-      "books": [
-        "beelzebubs tales"
-      ],
-      "claim_count": 2
-    },
     "being_grief": {
       "id": "being_grief",
       "label": "Being Grief",
@@ -76471,20 +77269,6 @@
     "transformative_technology": {
       "id": "transformative_technology",
       "label": "Transformative Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "boom": 1
-      },
-      "books": [
-        "boom"
-      ],
-      "claim_count": 1
-    },
-    "definite_optimism": {
-      "id": "definite_optimism",
-      "label": "Definite Optimism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -91070,20 +91854,6 @@
       ],
       "claim_count": 1
     },
-    "strategic_pivot": {
-      "id": "strategic_pivot",
-      "label": "Strategic Pivot",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "days of rage": 1
-      },
-      "books": [
-        "days of rage"
-      ],
-      "claim_count": 1
-    },
     "strategic_reorientation": {
       "id": "strategic_reorientation",
       "label": "Strategic Reorientation",
@@ -92049,20 +92819,6 @@
         "days of rage"
       ],
       "claim_count": 1
-    },
-    "organizational_decline": {
-      "id": "organizational_decline",
-      "label": "Organizational Decline",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "days of rage": 2
-      },
-      "books": [
-        "days of rage"
-      ],
-      "claim_count": 2
     },
     "core_membership": {
       "id": "core_membership",
@@ -99414,20 +100170,6 @@
       ],
       "claim_count": 1
     },
-    "strategic_decision_making": {
-      "id": "strategic_decision_making",
-      "label": "Strategic Decision Making",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "startup_bootstrapping": {
       "id": "startup_bootstrapping",
       "label": "Startup Bootstrapping",
@@ -99455,20 +100197,6 @@
         "elon-musk"
       ],
       "claim_count": 1
-    },
-    "management_style": {
-      "id": "management_style",
-      "label": "Management Style",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 2
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 2
     },
     "workplace_conflict": {
       "id": "workplace_conflict",
@@ -99693,20 +100421,6 @@
         "elon-musk"
       ],
       "claim_count": 1
-    },
-    "board_governance": {
-      "id": "board_governance",
-      "label": "Board Governance",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 3
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 3
     },
     "employee_relations": {
       "id": "employee_relations",
@@ -100800,20 +101514,6 @@
       ],
       "claim_count": 1
     },
-    "startup_financing": {
-      "id": "startup_financing",
-      "label": "Startup Financing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 2
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 2
-    },
     "mission_driven_investing": {
       "id": "mission_driven_investing",
       "label": "Mission Driven Investing",
@@ -100887,20 +101587,6 @@
     "cost_escalation": {
       "id": "cost_escalation",
       "label": "Cost Escalation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "product_differentiation": {
-      "id": "product_differentiation",
-      "label": "Product Differentiation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -101247,20 +101933,6 @@
         "elon-musk"
       ],
       "claim_count": 2
-    },
-    "ceo_succession": {
-      "id": "ceo_succession",
-      "label": "Ceo Succession",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
     },
     "founder_conflicts": {
       "id": "founder_conflicts",
@@ -102942,20 +103614,6 @@
       ],
       "claim_count": 1
     },
-    "competitive_positioning": {
-      "id": "competitive_positioning",
-      "label": "Competitive Positioning",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "social_media_rivalry": {
       "id": "social_media_rivalry",
       "label": "Social Media Rivalry",
@@ -103011,20 +103669,6 @@
         "elon-musk"
       ],
       "claim_count": 1
-    },
-    "work_life_balance": {
-      "id": "work_life_balance",
-      "label": "Work Life Balance",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 3
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 3
     },
     "relationship_sacrifice": {
       "id": "relationship_sacrifice",
@@ -103197,34 +103841,6 @@
     "corporate_competition": {
       "id": "corporate_competition",
       "label": "Corporate Competition",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "talent_acquisition": {
-      "id": "talent_acquisition",
-      "label": "Talent Acquisition",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 2
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 2
-    },
-    "mission_alignment": {
-      "id": "mission_alignment",
-      "label": "Mission Alignment",
       "description": "",
       "aliases": [],
       "related": [],
@@ -103435,20 +104051,6 @@
     "vision_versus_reality": {
       "id": "vision_versus_reality",
       "label": "Vision Versus Reality",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "business_model_innovation": {
-      "id": "business_model_innovation",
-      "label": "Business Model Innovation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -105056,20 +105658,6 @@
       ],
       "claim_count": 1
     },
-    "global_competition": {
-      "id": "global_competition",
-      "label": "Global Competition",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "toy_industry_inspiration": {
       "id": "toy_industry_inspiration",
       "label": "Toy Industry Inspiration",
@@ -105325,20 +105913,6 @@
     "engineering_involvement": {
       "id": "engineering_involvement",
       "label": "Engineering Involvement",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "first_mover_advantage": {
-      "id": "first_mover_advantage",
-      "label": "First Mover Advantage",
       "description": "",
       "aliases": [],
       "related": [],
@@ -105745,20 +106319,6 @@
     "installation_efficiency": {
       "id": "installation_efficiency",
       "label": "Installation Efficiency",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "performance_management": {
-      "id": "performance_management",
-      "label": "Performance Management",
       "description": "",
       "aliases": [],
       "related": [],
@@ -108304,20 +108864,6 @@
       ],
       "claim_count": 1
     },
-    "employee_retention": {
-      "id": "employee_retention",
-      "label": "Employee Retention",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "content_reinstatement": {
       "id": "content_reinstatement",
       "label": "Content Reinstatement",
@@ -109147,20 +109693,6 @@
     "gamification": {
       "id": "gamification",
       "label": "Gamification",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "team_motivation": {
-      "id": "team_motivation",
-      "label": "Team Motivation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -118244,20 +118776,6 @@
       ],
       "claim_count": 2
     },
-    "survivorship_bias": {
-      "id": "survivorship_bias",
-      "label": "Survivorship Bias",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "fooled by randomness": 12
-      },
-      "books": [
-        "fooled by randomness"
-      ],
-      "claim_count": 12
-    },
     "social_signaling": {
       "id": "social_signaling",
       "label": "Social Signaling",
@@ -120627,20 +121145,6 @@
     "rationality_evolution": {
       "id": "rationality_evolution",
       "label": "Rationality Evolution",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "from bacteria to bach and back": 1
-      },
-      "books": [
-        "from bacteria to bach and back"
-      ],
-      "claim_count": 1
-    },
-    "persuasion": {
-      "id": "persuasion",
-      "label": "Persuasion",
       "description": "",
       "aliases": [],
       "related": [],
@@ -125565,20 +126069,6 @@
         "in search of the miraculous"
       ],
       "claim_count": 7
-    },
-    "first_impressions": {
-      "id": "first_impressions",
-      "label": "First Impressions",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "in search of the miraculous": 1
-      },
-      "books": [
-        "in search of the miraculous"
-      ],
-      "claim_count": 1
     },
     "mechanicalness": {
       "id": "mechanicalness",
@@ -146580,20 +147070,6 @@
       ],
       "claim_count": 1
     },
-    "agency": {
-      "id": "agency",
-      "label": "Agency",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "michael-levin-major-talks": 1
-      },
-      "books": [
-        "michael-levin-major-talks"
-      ],
-      "claim_count": 1
-    },
     "morphogenetic_plasticity": {
       "id": "morphogenetic_plasticity",
       "label": "Morphogenetic Plasticity",
@@ -148918,34 +149394,6 @@
       ],
       "claim_count": 1
     },
-    "hybrid_systems": {
-      "id": "hybrid_systems",
-      "label": "Hybrid Systems",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "mirror worlds": 1
-      },
-      "books": [
-        "mirror worlds"
-      ],
-      "claim_count": 1
-    },
-    "organizational_design": {
-      "id": "organizational_design",
-      "label": "Organizational Design",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "mirror worlds": 1
-      },
-      "books": [
-        "mirror worlds"
-      ],
-      "claim_count": 1
-    },
     "mega_scale_systems": {
       "id": "mega_scale_systems",
       "label": "Mega Scale Systems",
@@ -149817,20 +150265,6 @@
     "manifestation": {
       "id": "manifestation",
       "label": "Manifestation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "mystery teachings from the living earth": 1
-      },
-      "books": [
-        "mystery teachings from the living earth"
-      ],
-      "claim_count": 1
-    },
-    "opportunity_cost": {
-      "id": "opportunity_cost",
-      "label": "Opportunity Cost",
       "description": "",
       "aliases": [],
       "related": [],
@@ -156477,20 +156911,6 @@
         "occult philosophy in the elizabethan age"
       ],
       "claim_count": 1
-    },
-    "cultural_mythology": {
-      "id": "cultural_mythology",
-      "label": "Cultural Mythology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "occult philosophy in the elizabethan age": 3
-      },
-      "books": [
-        "occult philosophy in the elizabethan age"
-      ],
-      "claim_count": 3
     },
     "archetype_shift": {
       "id": "archetype_shift",
@@ -164825,20 +165245,6 @@
     "symbolic_protest": {
       "id": "symbolic_protest",
       "label": "Symbolic Protest",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "on heroes": 1
-      },
-      "books": [
-        "on heroes"
-      ],
-      "claim_count": 1
-    },
-    "moral_courage": {
-      "id": "moral_courage",
-      "label": "Moral Courage",
       "description": "",
       "aliases": [],
       "related": [],
@@ -175518,20 +175924,6 @@
       ],
       "claim_count": 1
     },
-    "data_analytics": {
-      "id": "data_analytics",
-      "label": "Data Analytics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
     "counterterrorism": {
       "id": "counterterrorism",
       "label": "Counterterrorism",
@@ -175573,20 +175965,6 @@
         "philosopher-in-the-valley"
       ],
       "claim_count": 2
-    },
-    "leadership_philosophy": {
-      "id": "leadership_philosophy",
-      "label": "Leadership Philosophy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
     },
     "organizational_psychology": {
       "id": "organizational_psychology",
@@ -176064,20 +176442,6 @@
       ],
       "claim_count": 1
     },
-    "market_validation": {
-      "id": "market_validation",
-      "label": "Market Validation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 2
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 2
-    },
     "technology_trends": {
       "id": "technology_trends",
       "label": "Technology Trends",
@@ -176414,37 +176778,9 @@
       ],
       "claim_count": 1
     },
-    "organizational_hierarchy": {
-      "id": "organizational_hierarchy",
-      "label": "Organizational Hierarchy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
     "executive_sales": {
       "id": "executive_sales",
       "label": "Executive Sales",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
-    "customer_retention": {
-      "id": "customer_retention",
-      "label": "Customer Retention",
       "description": "",
       "aliases": [],
       "related": [],
@@ -177044,20 +177380,6 @@
       ],
       "claim_count": 1
     },
-    "executive_decision_making": {
-      "id": "executive_decision_making",
-      "label": "Executive Decision Making",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
     "shareholder_control": {
       "id": "shareholder_control",
       "label": "Shareholder Control",
@@ -177243,20 +177565,6 @@
     "growth_hacking": {
       "id": "growth_hacking",
       "label": "Growth Hacking",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
-    "executive_accountability": {
-      "id": "executive_accountability",
-      "label": "Executive Accountability",
       "description": "",
       "aliases": [],
       "related": [],
@@ -177607,20 +177915,6 @@
     "ai_integration": {
       "id": "ai_integration",
       "label": "Ai Integration",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
-    "customer_acquisition": {
-      "id": "customer_acquisition",
-      "label": "Customer Acquisition",
       "description": "",
       "aliases": [],
       "related": [],
@@ -214438,20 +214732,6 @@
       ],
       "claim_count": 1
     },
-    "market_selection": {
-      "id": "market_selection",
-      "label": "Market Selection",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the ascent of money": 1
-      },
-      "books": [
-        "the ascent of money"
-      ],
-      "claim_count": 1
-    },
     "business_extinction": {
       "id": "business_extinction",
       "label": "Business Extinction",
@@ -214595,20 +214875,6 @@
     "capital_allocation": {
       "id": "capital_allocation",
       "label": "Capital Allocation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the ascent of money": 1
-      },
-      "books": [
-        "the ascent of money"
-      ],
-      "claim_count": 1
-    },
-    "market_efficiency": {
-      "id": "market_efficiency",
-      "label": "Market Efficiency",
       "description": "",
       "aliases": [],
       "related": [],
@@ -224364,6 +224630,1154 @@
       ],
       "claim_count": 1
     },
+    "leadership_theory": {
+      "id": "leadership_theory",
+      "label": "Leadership Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "entrepreneurial_identity": {
+      "id": "entrepreneurial_identity",
+      "label": "Entrepreneurial Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 3
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 3
+    },
+    "cultural_analogy": {
+      "id": "cultural_analogy",
+      "label": "Cultural Analogy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "political_socialization": {
+      "id": "political_socialization",
+      "label": "Political Socialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "epistemic_diversity": {
+      "id": "epistemic_diversity",
+      "label": "Epistemic Diversity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "childhood_formation": {
+      "id": "childhood_formation",
+      "label": "Childhood Formation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "platform_competition": {
+      "id": "platform_competition",
+      "label": "Platform Competition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "open_standards": {
+      "id": "open_standards",
+      "label": "Open Standards",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "competitive_strategy": {
+      "id": "competitive_strategy",
+      "label": "Competitive Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "product_management": {
+      "id": "product_management",
+      "label": "Product Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "technology_platform": {
+      "id": "technology_platform",
+      "label": "Technology Platform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "professional_conflict": {
+      "id": "professional_conflict",
+      "label": "Professional Conflict",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "executive_relationships": {
+      "id": "executive_relationships",
+      "label": "Executive Relationships",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "organizational_communication": {
+      "id": "organizational_communication",
+      "label": "Organizational Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "family_priorities": {
+      "id": "family_priorities",
+      "label": "Family Priorities",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "personal_values": {
+      "id": "personal_values",
+      "label": "Personal Values",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "cloud_computing": {
+      "id": "cloud_computing",
+      "label": "Cloud Computing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "startup_growth": {
+      "id": "startup_growth",
+      "label": "Startup Growth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "market_collapse": {
+      "id": "market_collapse",
+      "label": "Market Collapse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "business_fragility": {
+      "id": "business_fragility",
+      "label": "Business Fragility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "economic_cycles": {
+      "id": "economic_cycles",
+      "label": "Economic Cycles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "public_markets": {
+      "id": "public_markets",
+      "label": "Public Markets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "crisis_leadership": {
+      "id": "crisis_leadership",
+      "label": "Crisis Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "personal_sacrifice": {
+      "id": "personal_sacrifice",
+      "label": "Personal Sacrifice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "information_management": {
+      "id": "information_management",
+      "label": "Information Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "wartime_leadership": {
+      "id": "wartime_leadership",
+      "label": "Wartime Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 3
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 3
+    },
+    "mergers_and_acquisitions": {
+      "id": "mergers_and_acquisitions",
+      "label": "Mergers And Acquisitions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "negotiation_strategy": {
+      "id": "negotiation_strategy",
+      "label": "Negotiation Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 3
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 3
+    },
+    "organizational_politics": {
+      "id": "organizational_politics",
+      "label": "Organizational Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "employee_trust": {
+      "id": "employee_trust",
+      "label": "Employee Trust",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "transparent_leadership": {
+      "id": "transparent_leadership",
+      "label": "Transparent Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "organizational_recovery": {
+      "id": "organizational_recovery",
+      "label": "Organizational Recovery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "stakeholder_insight": {
+      "id": "stakeholder_insight",
+      "label": "Stakeholder Insight",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "ethical_leadership": {
+      "id": "ethical_leadership",
+      "label": "Ethical Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "employee_welfare": {
+      "id": "employee_welfare",
+      "label": "Employee Welfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "corporate_values": {
+      "id": "corporate_values",
+      "label": "Corporate Values",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "product_strategy": {
+      "id": "product_strategy",
+      "label": "Product Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "innovation_under_pressure": {
+      "id": "innovation_under_pressure",
+      "label": "Innovation Under Pressure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "company_valuation": {
+      "id": "company_valuation",
+      "label": "Company Valuation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "ceo_psychology": {
+      "id": "ceo_psychology",
+      "label": "Ceo Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "organizational_trust": {
+      "id": "organizational_trust",
+      "label": "Organizational Trust",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "information_flow": {
+      "id": "information_flow",
+      "label": "Information Flow",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "layoff_management": {
+      "id": "layoff_management",
+      "label": "Layoff Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "leadership_integrity": {
+      "id": "leadership_integrity",
+      "label": "Leadership Integrity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "executive_hiring": {
+      "id": "executive_hiring",
+      "label": "Executive Hiring",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "product_leadership": {
+      "id": "product_leadership",
+      "label": "Product Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "action_orientation": {
+      "id": "action_orientation",
+      "label": "Action Orientation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "hiring_for_strength": {
+      "id": "hiring_for_strength",
+      "label": "Hiring For Strength",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "leadership_values": {
+      "id": "leadership_values",
+      "label": "Leadership Values",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "employee_training": {
+      "id": "employee_training",
+      "label": "Employee Training",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "organizational_learning": {
+      "id": "organizational_learning",
+      "label": "Organizational Learning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "management_leverage": {
+      "id": "management_leverage",
+      "label": "Management Leverage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "organizational_debt": {
+      "id": "organizational_debt",
+      "label": "Organizational Debt",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "compensation_design": {
+      "id": "compensation_design",
+      "label": "Compensation Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "measurement_systems": {
+      "id": "measurement_systems",
+      "label": "Measurement Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "organizational_behavior": {
+      "id": "organizational_behavior",
+      "label": "Organizational Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "promotion_systems": {
+      "id": "promotion_systems",
+      "label": "Promotion Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "talent_management": {
+      "id": "talent_management",
+      "label": "Talent Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "behavioral_design": {
+      "id": "behavioral_design",
+      "label": "Behavioral Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "leadership_symbolism": {
+      "id": "leadership_symbolism",
+      "label": "Leadership Symbolism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "organizational_adaptation": {
+      "id": "organizational_adaptation",
+      "label": "Organizational Adaptation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "scaling_organizations": {
+      "id": "scaling_organizations",
+      "label": "Scaling Organizations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "communication_architecture": {
+      "id": "communication_architecture",
+      "label": "Communication Architecture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "leadership_typology": {
+      "id": "leadership_typology",
+      "label": "Leadership Typology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "executive_development": {
+      "id": "executive_development",
+      "label": "Executive Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "organizational_vision": {
+      "id": "organizational_vision",
+      "label": "Organizational Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "decision_making_under_uncertainty": {
+      "id": "decision_making_under_uncertainty",
+      "label": "Decision Making Under Uncertainty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "leadership_character": {
+      "id": "leadership_character",
+      "label": "Leadership Character",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "leadership_courage": {
+      "id": "leadership_courage",
+      "label": "Leadership Courage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "narrative_strategy": {
+      "id": "narrative_strategy",
+      "label": "Narrative Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 2
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 2
+    },
+    "ceo_evaluation": {
+      "id": "ceo_evaluation",
+      "label": "Ceo Evaluation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "organizational_leadership": {
+      "id": "organizational_leadership",
+      "label": "Organizational Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "corporate_communication": {
+      "id": "corporate_communication",
+      "label": "Corporate Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "empathy_building": {
+      "id": "empathy_building",
+      "label": "Empathy Building",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "organizational_planning": {
+      "id": "organizational_planning",
+      "label": "Organizational Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "deal_execution": {
+      "id": "deal_execution",
+      "label": "Deal Execution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "external_risk": {
+      "id": "external_risk",
+      "label": "External Risk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "executive_courage": {
+      "id": "executive_courage",
+      "label": "Executive Courage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "accountability_systems": {
+      "id": "accountability_systems",
+      "label": "Accountability Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "innovation_management": {
+      "id": "innovation_management",
+      "label": "Innovation Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "founder_ceo": {
+      "id": "founder_ceo",
+      "label": "Founder Ceo",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
+    "personal_development": {
+      "id": "personal_development",
+      "label": "Personal Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the hard thing about hard things": 1
+      },
+      "books": [
+        "the hard thing about hard things"
+      ],
+      "claim_count": 1
+    },
     "ancestral_heritage": {
       "id": "ancestral_heritage",
       "label": "Ancestral Heritage",
@@ -226845,20 +228259,6 @@
     "specialized_hunting": {
       "id": "specialized_hunting",
       "label": "Specialized Hunting",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the horse": 1
-      },
-      "books": [
-        "the horse"
-      ],
-      "claim_count": 1
-    },
-    "economic_impact": {
-      "id": "economic_impact",
-      "label": "Economic Impact",
       "description": "",
       "aliases": [],
       "related": [],
@@ -238843,20 +240243,6 @@
     "regulatory_applications": {
       "id": "regulatory_applications",
       "label": "Regulatory Applications",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the misbehavior of markets": 1
-      },
-      "books": [
-        "the misbehavior of markets"
-      ],
-      "claim_count": 1
-    },
-    "portfolio_theory": {
-      "id": "portfolio_theory",
-      "label": "Portfolio Theory",
       "description": "",
       "aliases": [],
       "related": [],
@@ -267582,20 +268968,6 @@
       ],
       "claim_count": 1
     },
-    "resilience": {
-      "id": "resilience",
-      "label": "Resilience",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "thus spake zarathustra": 1
-      },
-      "books": [
-        "thus spake zarathustra"
-      ],
-      "claim_count": 1
-    },
     "grief_and_memory": {
       "id": "grief_and_memory",
       "label": "Grief And Memory",
@@ -272859,20 +274231,6 @@
         "unqualified reservations"
       ],
       "claim_count": 1
-    },
-    "conflict_resolution": {
-      "id": "conflict_resolution",
-      "label": "Conflict Resolution",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 3
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 3
     },
     "warfare_patterns": {
       "id": "warfare_patterns",
@@ -282561,11 +283919,1733 @@
         "unqualified reservations"
       ],
       "claim_count": 1
+    },
+    "contrarian_thinking": {
+      "id": "contrarian_thinking",
+      "label": "Contrarian Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 6
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 6
+    },
+    "globalization": {
+      "id": "globalization",
+      "label": "Globalization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "innovation": {
+      "id": "innovation",
+      "label": "Innovation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 6
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 6
+    },
+    "innovation_cycles": {
+      "id": "innovation_cycles",
+      "label": "Innovation Cycles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "economic_history": {
+      "id": "economic_history",
+      "label": "Economic History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "viral_growth": {
+      "id": "viral_growth",
+      "label": "Viral Growth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "startup_dogma": {
+      "id": "startup_dogma",
+      "label": "Startup Dogma",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "post_crisis_reaction": {
+      "id": "post_crisis_reaction",
+      "label": "Post Crisis Reaction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_cycles": {
+      "id": "market_cycles",
+      "label": "Market Cycles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "value_capture": {
+      "id": "value_capture",
+      "label": "Value Capture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_economics": {
+      "id": "monopoly_economics",
+      "label": "Monopoly Economics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "profit_margins": {
+      "id": "profit_margins",
+      "label": "Profit Margins",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "competitive_markets": {
+      "id": "competitive_markets",
+      "label": "Competitive Markets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_definition": {
+      "id": "market_definition",
+      "label": "Market Definition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "monopoly_concealment": {
+      "id": "monopoly_concealment",
+      "label": "Monopoly Concealment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "competitive_deception": {
+      "id": "competitive_deception",
+      "label": "Competitive Deception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_framing": {
+      "id": "market_framing",
+      "label": "Market Framing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "competitive_pressure": {
+      "id": "competitive_pressure",
+      "label": "Competitive Pressure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "corporate_ethics": {
+      "id": "corporate_ethics",
+      "label": "Corporate Ethics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_power": {
+      "id": "market_power",
+      "label": "Market Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_succession": {
+      "id": "monopoly_succession",
+      "label": "Monopoly Succession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "economic_modeling": {
+      "id": "economic_modeling",
+      "label": "Economic Modeling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "educational_competition": {
+      "id": "educational_competition",
+      "label": "Educational Competition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "competitive_imitation": {
+      "id": "competitive_imitation",
+      "label": "Competitive Imitation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "market_dynamics": {
+      "id": "market_dynamics",
+      "label": "Market Dynamics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "strategic_distraction": {
+      "id": "strategic_distraction",
+      "label": "Strategic Distraction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "competitive_destruction": {
+      "id": "competitive_destruction",
+      "label": "Competitive Destruction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "merger_strategy": {
+      "id": "merger_strategy",
+      "label": "Merger Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "startup_rivalry": {
+      "id": "startup_rivalry",
+      "label": "Startup Rivalry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "strategic_de_escalation": {
+      "id": "strategic_de_escalation",
+      "label": "Strategic De Escalation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "competitive_distraction": {
+      "id": "competitive_distraction",
+      "label": "Competitive Distraction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "discounted_cash_flow": {
+      "id": "discounted_cash_flow",
+      "label": "Discounted Cash Flow",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_profits": {
+      "id": "monopoly_profits",
+      "label": "Monopoly Profits",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "long_term_value": {
+      "id": "long_term_value",
+      "label": "Long Term Value",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_valuation": {
+      "id": "market_valuation",
+      "label": "Market Valuation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "proprietary_technology": {
+      "id": "proprietary_technology",
+      "label": "Proprietary Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "economies_of_scale": {
+      "id": "economies_of_scale",
+      "label": "Economies Of Scale",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "brand_monopoly": {
+      "id": "brand_monopoly",
+      "label": "Brand Monopoly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_sequencing": {
+      "id": "market_sequencing",
+      "label": "Market Sequencing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "niche_domination": {
+      "id": "niche_domination",
+      "label": "Niche Domination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "scaling_strategy": {
+      "id": "scaling_strategy",
+      "label": "Scaling Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "disruption_ideology": {
+      "id": "disruption_ideology",
+      "label": "Disruption Ideology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "startup_strategy": {
+      "id": "startup_strategy",
+      "label": "Startup Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "last_mover_advantage": {
+      "id": "last_mover_advantage",
+      "label": "Last Mover Advantage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "long_term_planning": {
+      "id": "long_term_planning",
+      "label": "Long Term Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "luck_vs_skill": {
+      "id": "luck_vs_skill",
+      "label": "Luck Vs Skill",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "serial_entrepreneurship": {
+      "id": "serial_entrepreneurship",
+      "label": "Serial Entrepreneurship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "success_attribution": {
+      "id": "success_attribution",
+      "label": "Success Attribution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "indefinite_optimism": {
+      "id": "indefinite_optimism",
+      "label": "Indefinite Optimism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 3
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "optionality": {
+      "id": "optionality",
+      "label": "Optionality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "geopolitical_attitudes": {
+      "id": "geopolitical_attitudes",
+      "label": "Geopolitical Attitudes",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "planning_vs_improvisation": {
+      "id": "planning_vs_improvisation",
+      "label": "Planning Vs Improvisation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "financialization": {
+      "id": "financialization",
+      "label": "Financialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "process_vs_substance": {
+      "id": "process_vs_substance",
+      "label": "Process Vs Substance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "biotech_strategy": {
+      "id": "biotech_strategy",
+      "label": "Biotech Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "research_methodology": {
+      "id": "research_methodology",
+      "label": "Research Methodology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "innovation_decline": {
+      "id": "innovation_decline",
+      "label": "Innovation Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "definite_planning": {
+      "id": "definite_planning",
+      "label": "Definite Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "product_vision": {
+      "id": "product_vision",
+      "label": "Product Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "long_term_thinking": {
+      "id": "long_term_thinking",
+      "label": "Long Term Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "power_law": {
+      "id": "power_law",
+      "label": "Power Law",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 5
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 5
+    },
+    "investment_concentration": {
+      "id": "investment_concentration",
+      "label": "Investment Concentration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "portfolio_construction": {
+      "id": "portfolio_construction",
+      "label": "Portfolio Construction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "career_strategy": {
+      "id": "career_strategy",
+      "label": "Career Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "concentration_vs_diversification": {
+      "id": "concentration_vs_diversification",
+      "label": "Concentration Vs Diversification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "technological_pessimism": {
+      "id": "technological_pessimism",
+      "label": "Technological Pessimism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "institutional_decline": {
+      "id": "institutional_decline",
+      "label": "Institutional Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "technological_secrets": {
+      "id": "technological_secrets",
+      "label": "Technological Secrets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "hidden_opportunities": {
+      "id": "hidden_opportunities",
+      "label": "Hidden Opportunities",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_discovery": {
+      "id": "market_discovery",
+      "label": "Market Discovery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "secrets_of_nature": {
+      "id": "secrets_of_nature",
+      "label": "Secrets Of Nature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "organizational_secrecy": {
+      "id": "organizational_secrecy",
+      "label": "Organizational Secrecy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "knowledge_sharing": {
+      "id": "knowledge_sharing",
+      "label": "Knowledge Sharing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "co_founder_selection": {
+      "id": "co_founder_selection",
+      "label": "Co Founder Selection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "partnership_dynamics": {
+      "id": "partnership_dynamics",
+      "label": "Partnership Dynamics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "principal_agent_problem": {
+      "id": "principal_agent_problem",
+      "label": "Principal Agent Problem",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "ownership_structure": {
+      "id": "ownership_structure",
+      "label": "Ownership Structure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "board_composition": {
+      "id": "board_composition",
+      "label": "Board Composition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "organizational_alignment": {
+      "id": "organizational_alignment",
+      "label": "Organizational Alignment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "full_time_commitment": {
+      "id": "full_time_commitment",
+      "label": "Full Time Commitment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "team_cohesion": {
+      "id": "team_cohesion",
+      "label": "Team Cohesion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "equity_incentives": {
+      "id": "equity_incentives",
+      "label": "Equity Incentives",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "startup_culture": {
+      "id": "startup_culture",
+      "label": "Startup Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 4
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "alignment": {
+      "id": "alignment",
+      "label": "Alignment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "organizational_loyalty": {
+      "id": "organizational_loyalty",
+      "label": "Organizational Loyalty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "recruiting_strategy": {
+      "id": "recruiting_strategy",
+      "label": "Recruiting Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "team_homogeneity": {
+      "id": "team_homogeneity",
+      "label": "Team Homogeneity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "role_clarity": {
+      "id": "role_clarity",
+      "label": "Role Clarity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "mission_intensity": {
+      "id": "mission_intensity",
+      "label": "Mission Intensity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "sales_psychology": {
+      "id": "sales_psychology",
+      "label": "Sales Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "distribution_strategy": {
+      "id": "distribution_strategy",
+      "label": "Distribution Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 4
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "hidden_influence": {
+      "id": "hidden_influence",
+      "label": "Hidden Influence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "sales_methodology": {
+      "id": "sales_methodology",
+      "label": "Sales Methodology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_segmentation": {
+      "id": "market_segmentation",
+      "label": "Market Segmentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "market_seeding": {
+      "id": "market_seeding",
+      "label": "Market Seeding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "startup_failure": {
+      "id": "startup_failure",
+      "label": "Startup Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "sales_effectiveness": {
+      "id": "sales_effectiveness",
+      "label": "Sales Effectiveness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "human_computer_complementarity": {
+      "id": "human_computer_complementarity",
+      "label": "Human Computer Complementarity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 4
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 4
+    },
+    "technological_displacement": {
+      "id": "technological_displacement",
+      "label": "Technological Displacement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "comparative_advantage": {
+      "id": "comparative_advantage",
+      "label": "Comparative Advantage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "fraud_detection": {
+      "id": "fraud_detection",
+      "label": "Fraud Detection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "intelligence_analysis": {
+      "id": "intelligence_analysis",
+      "label": "Intelligence Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "big_data_critique": {
+      "id": "big_data_critique",
+      "label": "Big Data Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "technology_ideology": {
+      "id": "technology_ideology",
+      "label": "Technology Ideology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "cleantech": {
+      "id": "cleantech",
+      "label": "Cleantech",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 5
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 5
+    },
+    "monopoly_strategy": {
+      "id": "monopoly_strategy",
+      "label": "Monopoly Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 2
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "competitive_analysis": {
+      "id": "competitive_analysis",
+      "label": "Competitive Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "founder_characteristics": {
+      "id": "founder_characteristics",
+      "label": "Founder Characteristics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "product_adoption": {
+      "id": "product_adoption",
+      "label": "Product Adoption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "brand_strategy": {
+      "id": "brand_strategy",
+      "label": "Brand Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "niche_strategy": {
+      "id": "niche_strategy",
+      "label": "Niche Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "founder_psychology": {
+      "id": "founder_psychology",
+      "label": "Founder Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 3
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "media_mythologization": {
+      "id": "media_mythologization",
+      "label": "Media Mythologization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "insider_outsider_dynamic": {
+      "id": "insider_outsider_dynamic",
+      "label": "Insider Outsider Dynamic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "personal_branding": {
+      "id": "personal_branding",
+      "label": "Personal Branding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "antitrust": {
+      "id": "antitrust",
+      "label": "Antitrust",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "founder_vulnerability": {
+      "id": "founder_vulnerability",
+      "label": "Founder Vulnerability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "regulatory_attack": {
+      "id": "regulatory_attack",
+      "label": "Regulatory Attack",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_power": {
+      "id": "monopoly_power",
+      "label": "Monopoly Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "founder_irreplaceability": {
+      "id": "founder_irreplaceability",
+      "label": "Founder Irreplaceability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "creative_leadership": {
+      "id": "creative_leadership",
+      "label": "Creative Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "future_scenarios": {
+      "id": "future_scenarios",
+      "label": "Future Scenarios",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
+    },
+    "singularity": {
+      "id": "singularity",
+      "label": "Singularity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "zero to one": 1
+      },
+      "books": [
+        "zero to one"
+      ],
+      "claim_count": 1
     }
   },
   "stats": {
-    "total_concepts": 19480,
-    "total_claims": 32272,
-    "books_indexed": 97
+    "total_concepts": 19686,
+    "total_claims": 32693,
+    "books_indexed": 99
   }
 }

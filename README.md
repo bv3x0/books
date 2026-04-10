@@ -10,6 +10,11 @@ python3 scripts/workflow.py add "book-name"
 python3 scripts/workflow.py smoke
 python3 scripts/workflow.py ship --reconcile full --sync-vectors
 
+# Batch ingest: process multiple books in one run from a manifest
+python3 scripts/workflow.py add --batch-manifest books/batch-ingest.json
+python3 scripts/workflow.py smoke
+python3 scripts/workflow.py ship
+
 # Fast common case on main: add one book, then publish + push
 python3 scripts/workflow.py add "book-name"
 python3 scripts/workflow.py ship
@@ -57,7 +62,8 @@ This repo now has one deployment boundary and one build contract.
 
 - `notes/` is the canonical human-readable output
 - `index/` is the canonical machine-readable output
-- `books/@staging/` is transient ingest input
+- `books/@staging/` is transient ingest input for the backward-compatible single-book path
+- batch ingest uses one source folder per book, for example `books/batches/digital-cash/`
 - Canonical book renames must keep the `notes/` stem and `index/` stem aligned; publish and Pagefind both derive `/books/<slug>/` from that shared slugified stem
 
 ### Derived Artifacts
@@ -133,7 +139,7 @@ Start with the **TL;DR Workflow** above. The sections below are detailed options
 ### Processing Books
 
 ```bash
-# Place PDF/EPUB in books/@staging/, then:
+# Single-book path: place PDF/EPUB in books/@staging/, then:
 python3 scripts/workflow.py add "book-name"           # Recommended wrapper (defaults to --toc)
 python3 scripts/workflow.py add "book-name" --no-toc  # Skip manual TOC and rely on extracted structure
 python3 scripts/workflow.py add "book-name" --yes     # Wrapper + auto-accept reviewed prompts
@@ -156,13 +162,59 @@ python3 app/main.py "book-name" --gpt --test          # Benchmark/throwaway QA o
 
 `python3 scripts/workflow.py add` forwards to `app/main.py`, but it defaults to `--toc`. Use `--no-toc` if you want the wrapper without manual TOC guidance.
 
+### Batch Processing Books
+
+Batch ingest processes multiple books in one run while keeping each book's source files and TOC separate.
+
+Use one folder per book:
+
+```text
+books/
+  batches/
+    digital-cash/
+      Digital Cash.epub
+      toc.txt
+    mirror-worlds/
+      Mirror Worlds.pdf
+      toc.txt
+```
+
+Create a manifest that points each book slug to its folder:
+
+```json
+[
+  {
+    "book": "digital cash",
+    "source_dir": "books/batches/digital-cash"
+  },
+  {
+    "book": "mirror worlds",
+    "source_dir": "books/batches/mirror-worlds"
+  }
+]
+```
+
+Then run either:
+
+```bash
+python3 scripts/workflow.py add --batch-manifest books/batch-ingest.json
+python3 app/main.py --batch-manifest books/batch-ingest.json --toc
+```
+
+Notes:
+- `source_dir` should contain only the files for that one book plus an optional `toc.txt`
+- the wrapper defaults to `--toc`, so it will automatically use `source_dir/toc.txt` when present
+- `app/main.py` only infers `source_dir/toc.txt` when you pass `--toc`
+- if you want to override the inferred TOC path, add `"toc_path": "relative/or/absolute/path.txt"` to a manifest entry
+- batch runs process books in manifest order and serialize writes to `notes/`, `index/`, concepts, and vectors
+
 **When to use `--ocr`:** For scanned or degraded PDFs where standard text extraction produces garbled output. Uses Granite-Docling VLM running locally via MLX (~6 sec/page on Apple Silicon).
 
 **PDF extractor default:** Standard PDF extraction now prefers `PyMuPDF4LLM` on macOS/Apple Silicon because standard Docling extraction can crash in the local MLX/Metal stack on that platform. You can override the order with `SUMMARIZER_PDF_EXTRACTOR=docling` or `SUMMARIZER_PDF_EXTRACTOR=pymupdf`.
 
 **When to use `--split`:** For PDFs where each page contains two book pages side by side (common with scanned old books). Crops each PDF page into left and right halves before extraction.
 
-**When to use `--yes`:** When you have already reviewed the input conditions yourself, such as after updating `books/toc.txt`, and want the run to continue without confirmation prompts.
+**When to use `--yes`:** When you have already reviewed the input conditions yourself, such as after updating `books/toc.txt` for a single-book run or `toc.txt` inside a batch book folder, and want the run to continue without confirmation prompts.
 
 **When to use `--non-interactive`:** For automation, agents, or strict unattended runs. Safe confirmations proceed automatically, but cases requiring human judgment abort instead of prompting.
 
@@ -383,7 +435,8 @@ Summarizer/
 │   ├── check_integrity.py      # Integrity gate for index/vectors/concepts consistency
 │   ├── reconcile_vectors.py    # Low-cost vector/metadata repair without full re-summarization
 │   └── migrate-vectors.py      # SQLite → Neon migration
-├── books/@staging/     # Input files
+├── books/@staging/     # Backward-compatible single-book input
+├── books/batches/      # Optional batch ingest folders (one folder per book)
 ├── notes/              # Generated markdown
 ├── index/              # Structured data + vectors
 ├── blog/               # Hugo source + derived public output
@@ -403,6 +456,16 @@ Part Two: Title
 ```
 
 Rules: Parts at start of line with "Part", chapters indented 2+ spaces.
+
+Single-book runs read manual TOC from `books/toc.txt` when you pass `--toc`.
+
+Batch runs should put `toc.txt` inside each book folder referenced by `source_dir`, for example:
+
+```text
+books/batches/digital-cash/toc.txt
+```
+
+If needed, a batch manifest entry can override that default with `toc_path`.
 
 In interactive runs, low-match TOC review now uses typed decisions internally:
 - proceed
