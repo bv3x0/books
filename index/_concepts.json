@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-10T19:15:28.173349Z",
+  "updated_at": "2026-04-12T20:25:40.369454Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -875,6 +875,7 @@
       "book_claims": {
         "a disease in the public mind": 1,
         "american nations": 1,
+        "jesus and his times vol 1": 1,
         "normans in the south": 1,
         "occult philosophy in the elizabethan age": 4,
         "revolt-against-the-modern-world": 1
@@ -882,11 +883,12 @@
       "books": [
         "a disease in the public mind",
         "american nations",
+        "jesus and his times vol 1",
         "normans in the south",
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "ideological_suppression": {
       "id": "ideological_suppression",
@@ -2321,14 +2323,16 @@
       "book_claims": {
         "a secret history of christianity": 1,
         "confessions": 1,
+        "jesus and his times vol 1": 1,
         "the mask and face of contemporary spiritualism": 1
       },
       "books": [
         "a secret history of christianity",
         "confessions",
+        "jesus and his times vol 1",
         "the mask and face of contemporary spiritualism"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "linguistic_evolution": {
       "id": "linguistic_evolution",
@@ -2491,6 +2495,7 @@
         "confessions": 1,
         "cult of the saints": 1,
         "giordano bruno": 1,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 2,
         "origins of the kabbalah": 1,
         "orthodoxy": 3,
@@ -2505,6 +2510,7 @@
         "confessions",
         "cult of the saints",
         "giordano bruno",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
         "orthodoxy",
@@ -2514,7 +2520,7 @@
         "the mystical theology of the eastern church",
         "through the eye of a needle"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "textual_authority": {
       "id": "textual_authority",
@@ -2636,13 +2642,15 @@
       "related": [],
       "book_claims": {
         "a secret history of christianity": 1,
+        "jesus and his times vol 1": 2,
         "occult philosophy in the elizabethan age": 10
       },
       "books": [
         "a secret history of christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age"
       ],
-      "claim_count": 11
+      "claim_count": 13
     },
     "divine_nature": {
       "id": "divine_nature",
@@ -3022,13 +3030,15 @@
       "related": [],
       "book_claims": {
         "a secret history of christianity": 1,
+        "jesus and his times vol 1": 1,
         "presence in the modern world": 1
       },
       "books": [
         "a secret history of christianity",
+        "jesus and his times vol 1",
         "presence in the modern world"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "consciousness_transformation": {
       "id": "consciousness_transformation",
@@ -3314,6 +3324,7 @@
         "a secret history of christianity": 1,
         "beauty": 1,
         "introduction-to-christianity": 7,
+        "jesus and his times vol 1": 1,
         "presence in the modern world": 1,
         "things hidden since the foundation of the world": 2,
         "through the eye of a needle": 1
@@ -3322,11 +3333,12 @@
         "a secret history of christianity",
         "beauty",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "presence in the modern world",
         "things hidden since the foundation of the world",
         "through the eye of a needle"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "spiritual_equality": {
       "id": "spiritual_equality",
@@ -5801,6 +5813,7 @@
         "braudel-vol1": 4,
         "bronze age mindset": 3,
         "in search of the miraculous": 1,
+        "jesus and his times vol 1": 1,
         "on heroes": 1,
         "revolt-against-the-modern-world": 5,
         "sexual personae": 1,
@@ -5817,6 +5830,7 @@
         "braudel-vol1",
         "bronze age mindset",
         "in search of the miraculous",
+        "jesus and his times vol 1",
         "on heroes",
         "revolt-against-the-modern-world",
         "sexual personae",
@@ -5826,7 +5840,7 @@
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 36
+      "claim_count": 37
     },
     "religious_tolerance": {
       "id": "religious_tolerance",
@@ -6138,6 +6152,7 @@
         "american nations": 1,
         "beelzebubs tales": 1,
         "confessions": 1,
+        "jesus and his times vol 1": 1,
         "the closing of the american mind": 1,
         "the secret teachings of all ages": 1
       },
@@ -6145,10 +6160,11 @@
         "american nations",
         "beelzebubs tales",
         "confessions",
+        "jesus and his times vol 1",
         "the closing of the american mind",
         "the secret teachings of all ages"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "community_participation": {
       "id": "community_participation",
@@ -7329,16 +7345,18 @@
       "book_claims": {
         "american nations": 1,
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 1,
         "origins of the kabbalah": 2
       },
       "books": [
         "american nations",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "institutional_control": {
       "id": "institutional_control",
@@ -7971,6 +7989,7 @@
       "book_claims": {
         "american nations": 2,
         "beyond good and evil": 1,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 1,
         "on heroes": 1,
         "the age of interconnection": 1,
@@ -7979,12 +7998,13 @@
       "books": [
         "american nations",
         "beyond good and evil",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "on heroes",
         "the age of interconnection",
         "unqualified reservations"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "cultural_pluralism": {
       "id": "cultural_pluralism",
@@ -8692,6 +8712,7 @@
         "animus and anima": 1,
         "art of memory": 1,
         "beelzebubs tales": 1,
+        "jesus and his times vol 1": 1,
         "meetings with remarkable men": 1,
         "mystery teachings from the living earth": 1,
         "on heroes": 2,
@@ -8706,6 +8727,7 @@
         "animus and anima",
         "art of memory",
         "beelzebubs tales",
+        "jesus and his times vol 1",
         "meetings with remarkable men",
         "mystery teachings from the living earth",
         "on heroes",
@@ -8716,7 +8738,7 @@
         "the interpretation of fairy tales",
         "the secret teachings of all ages"
       ],
-      "claim_count": 42
+      "claim_count": 43
     },
     "gender_hierarchy": {
       "id": "gender_hierarchy",
@@ -9333,6 +9355,7 @@
         "catafalque": 1,
         "evil the shadow side of reality": 4,
         "introduction-to-christianity": 3,
+        "jesus and his times vol 1": 1,
         "kabbalistic visions": 2,
         "memories-dreams-reflections": 1,
         "origins of the kabbalah": 3,
@@ -9344,13 +9367,14 @@
         "catafalque",
         "evil the shadow side of reality",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "kabbalistic visions",
         "memories-dreams-reflections",
         "origins of the kabbalah",
         "revelations of divine love",
         "transcendental magic"
       ],
-      "claim_count": 27
+      "claim_count": 28
     },
     "predestination": {
       "id": "predestination",
@@ -12108,6 +12132,7 @@
         "braudel-vol1": 2,
         "cult of the saints": 2,
         "elon-musk": 1,
+        "jesus and his times vol 1": 1,
         "normans in the south": 1,
         "occult philosophy in the elizabethan age": 3,
         "orality-and-literacy": 5,
@@ -12121,6 +12146,7 @@
         "braudel-vol1",
         "cult of the saints",
         "elon-musk",
+        "jesus and his times vol 1",
         "normans in the south",
         "occult philosophy in the elizabethan age",
         "orality-and-literacy",
@@ -12130,7 +12156,7 @@
         "the interpretation of fairy tales",
         "through the eye of a needle"
       ],
-      "claim_count": 23
+      "claim_count": 24
     },
     "social_distinction": {
       "id": "social_distinction",
@@ -13355,6 +13381,7 @@
         "catafalque": 1,
         "cult of the saints": 1,
         "evil the shadow side of reality": 1,
+        "jesus and his times vol 1": 1,
         "land greer 2026": 2,
         "the mystical theology of the eastern church": 1,
         "the power of ritual in prehistory": 1,
@@ -13366,13 +13393,14 @@
         "catafalque",
         "cult of the saints",
         "evil the shadow side of reality",
+        "jesus and his times vol 1",
         "land greer 2026",
         "the mystical theology of the eastern church",
         "the power of ritual in prehistory",
         "the sickness unto death",
         "thus spake zarathustra"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "church_history": {
       "id": "church_history",
@@ -13448,13 +13476,15 @@
       "related": [],
       "book_claims": {
         "cult of the saints": 1,
+        "jesus and his times vol 1": 1,
         "through the eye of a needle": 1
       },
       "books": [
         "cult of the saints",
+        "jesus and his times vol 1",
         "through the eye of a needle"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "religious_reform": {
       "id": "religious_reform",
@@ -13466,6 +13496,7 @@
         "bronze age mindset": 1,
         "cult of the saints": 1,
         "giordano bruno": 3,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 2,
         "on heroes": 3,
         "sexual personae": 1,
@@ -13475,12 +13506,13 @@
         "bronze age mindset",
         "cult of the saints",
         "giordano bruno",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "on heroes",
         "sexual personae",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "social_history": {
       "id": "social_history",
@@ -13653,6 +13685,7 @@
         "confessions": 1,
         "cult of the saints": 1,
         "introduction-to-christianity": 2,
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 4
       },
       "books": [
@@ -13660,9 +13693,10 @@
         "confessions",
         "cult of the saints",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "providential_history": {
       "id": "providential_history",
@@ -13710,13 +13744,15 @@
       "related": [],
       "book_claims": {
         "cult of the saints": 1,
+        "jesus and his times vol 1": 1,
         "transcendental magic": 1
       },
       "books": [
         "cult of the saints",
+        "jesus and his times vol 1",
         "transcendental magic"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "exorcism": {
       "id": "exorcism",
@@ -17713,6 +17749,7 @@
         "dark night of the soul": 1,
         "evil the shadow side of reality": 1,
         "introduction-to-christianity": 21,
+        "jesus and his times vol 1": 2,
         "nick land explains the numogram": 1,
         "occult philosophy in the elizabethan age": 1,
         "origins of the kabbalah": 1,
@@ -17726,6 +17763,7 @@
         "dark night of the soul",
         "evil the shadow side of reality",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "nick land explains the numogram",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
@@ -17734,7 +17772,7 @@
         "the secret teachings of all ages",
         "through the eye of a needle"
       ],
-      "claim_count": 44
+      "claim_count": 46
     },
     "christian_optimism": {
       "id": "christian_optimism",
@@ -18848,15 +18886,17 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 7,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 2,
         "orthodoxy and the religion of the future": 1
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "christological_unity": {
       "id": "christological_unity",
@@ -18915,6 +18955,7 @@
       "book_claims": {
         "confessions": 1,
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 3,
         "orthodoxy and the religion of the future": 1,
         "the interior castle": 1
@@ -18922,11 +18963,12 @@
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future",
         "the interior castle"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "religious_epistemology": {
       "id": "religious_epistemology",
@@ -19149,16 +19191,18 @@
       "book_claims": {
         "beyond good and evil": 1,
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 5,
         "transcendental magic": 1
       },
       "books": [
         "beyond good and evil",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love",
         "transcendental magic"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "baptismal_theology": {
       "id": "baptismal_theology",
@@ -19168,13 +19212,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 2,
+        "jesus and his times vol 1": 1,
         "through the eye of a needle": 1
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "through the eye of a needle"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "medieval_christianity": {
       "id": "medieval_christianity",
@@ -19399,6 +19445,7 @@
       "book_claims": {
         "confessions": 1,
         "introduction-to-christianity": 8,
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 12,
         "the interior castle": 4,
         "the sickness unto death": 1,
@@ -19408,13 +19455,14 @@
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love",
         "the interior castle",
         "the sickness unto death",
         "the soul of the world",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 28
+      "claim_count": 29
     },
     "divine_relationship": {
       "id": "divine_relationship",
@@ -19626,6 +19674,7 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 6,
+        "jesus and his times vol 1": 1,
         "kabbalistic visions": 1,
         "revelations of divine love": 1,
         "the adventure of consciousness": 1,
@@ -19633,12 +19682,13 @@
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "kabbalistic visions",
         "revelations of divine love",
         "the adventure of consciousness",
         "the soul of the world"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "personal_disclosure": {
       "id": "personal_disclosure",
@@ -19799,6 +19849,7 @@
       "book_claims": {
         "confessions": 3,
         "introduction-to-christianity": 12,
+        "jesus and his times vol 1": 3,
         "orthodoxy": 2,
         "revelations of divine love": 2,
         "the mystical theology of the eastern church": 2,
@@ -19808,13 +19859,14 @@
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "orthodoxy",
         "revelations of divine love",
         "the mystical theology of the eastern church",
         "the problem of the puer aeternus",
         "the tarot sadhu"
       ],
-      "claim_count": 23
+      "claim_count": 26
     },
     "timeless_being": {
       "id": "timeless_being",
@@ -19973,6 +20025,7 @@
       "book_claims": {
         "catafalque": 2,
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1,
         "revolt-against-the-modern-world": 1,
         "the secret teachings of all ages": 1,
         "things hidden since the foundation of the world": 1,
@@ -19981,12 +20034,13 @@
       "books": [
         "catafalque",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revolt-against-the-modern-world",
         "the secret teachings of all ages",
         "things hidden since the foundation of the world",
         "transcendental magic"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "ancient_cosmology": {
       "id": "ancient_cosmology",
@@ -20013,6 +20067,7 @@
       "book_claims": {
         "confessions": 1,
         "introduction-to-christianity": 12,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 2,
         "revelations of divine love": 13,
         "the discarded image": 1,
@@ -20023,6 +20078,7 @@
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "revelations of divine love",
         "the discarded image",
@@ -20030,7 +20086,7 @@
         "the mystical theology of the eastern church",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 32
+      "claim_count": 33
     },
     "natural_divinity": {
       "id": "natural_divinity",
@@ -20056,15 +20112,17 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 2,
+        "jesus and his times vol 1": 2,
         "occult philosophy in the elizabethan age": 1,
         "the interior castle": 2
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "the interior castle"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "creation_theology": {
       "id": "creation_theology",
@@ -20312,6 +20370,7 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 3,
+        "jesus and his times vol 1": 1,
         "presence in the modern world": 1,
         "revolt-against-the-modern-world": 2,
         "the adventure of consciousness": 1,
@@ -20319,12 +20378,13 @@
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "presence in the modern world",
         "revolt-against-the-modern-world",
         "the adventure of consciousness",
         "transcendental magic"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "christian_life": {
       "id": "christian_life",
@@ -20592,17 +20652,19 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 2,
         "occult philosophy in the elizabethan age": 1,
         "orthodoxy": 1,
         "unqualified reservations": 2
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "orthodoxy",
         "unqualified reservations"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "ritual_technology": {
       "id": "ritual_technology",
@@ -20646,15 +20708,17 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 7,
+        "jesus and his times vol 1": 1,
         "the mystical theology of the eastern church": 5,
         "through the eye of a needle": 1
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "the mystical theology of the eastern church",
         "through the eye of a needle"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "redemption": {
       "id": "redemption",
@@ -21104,13 +21168,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 2,
         "occult philosophy in the elizabethan age": 3
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "historical_interpretation": {
       "id": "historical_interpretation",
@@ -21288,17 +21354,19 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1,
         "revolt-against-the-modern-world": 3,
         "sexual personae": 1,
         "the horse": 1
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revolt-against-the-modern-world",
         "sexual personae",
         "the horse"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "anti_materialism": {
       "id": "anti_materialism",
@@ -21327,6 +21395,7 @@
         "circles of power": 1,
         "dark night of the soul": 1,
         "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 11,
         "the interior castle": 7,
         "the mystical theology of the eastern church": 3,
@@ -21337,12 +21406,13 @@
         "circles of power",
         "dark night of the soul",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love",
         "the interior castle",
         "the mystical theology of the eastern church",
         "through the eye of a needle"
       ],
-      "claim_count": 26
+      "claim_count": 27
     },
     "priestly_mediation": {
       "id": "priestly_mediation",
@@ -22283,18 +22353,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "jesus and his times vol 1": 1,
         "kabbalistic visions": 1,
         "origins of the kabbalah": 2,
         "the discarded image": 4,
         "the secret teachings of all ages": 1
       },
       "books": [
+        "jesus and his times vol 1",
         "kabbalistic visions",
         "origins of the kabbalah",
         "the discarded image",
         "the secret teachings of all ages"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "intellectual_history": {
       "id": "intellectual_history",
@@ -24810,17 +24882,19 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 1,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 2,
         "origins of the kabbalah": 1,
         "through the eye of a needle": 1
       },
       "books": [
         "giordano bruno",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
         "through the eye of a needle"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "intellectual_defense": {
       "id": "intellectual_defense",
@@ -26528,6 +26602,7 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 1,
+        "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 3,
         "sexual personae": 1,
         "the power of ritual in prehistory": 1,
@@ -26535,12 +26610,13 @@
       },
       "books": [
         "giordano bruno",
+        "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "sexual personae",
         "the power of ritual in prehistory",
         "the secret teachings of all ages"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "occult_history": {
       "id": "occult_history",
@@ -29055,6 +29131,7 @@
       "book_claims": {
         "confessions": 1,
         "dark night of the soul": 2,
+        "jesus and his times vol 1": 2,
         "orthodoxy and the religion of the future": 2,
         "revelations of divine love": 5,
         "revolt-against-the-modern-world": 2,
@@ -29064,13 +29141,14 @@
       "books": [
         "confessions",
         "dark night of the soul",
+        "jesus and his times vol 1",
         "orthodoxy and the religion of the future",
         "revelations of divine love",
         "revolt-against-the-modern-world",
         "the interior castle",
         "thus spake zarathustra"
       ],
-      "claim_count": 15
+      "claim_count": 17
     },
     "western_spirituality": {
       "id": "western_spirituality",
@@ -34190,13 +34268,15 @@
       "related": [],
       "book_claims": {
         "in search of the miraculous": 1,
-        "introduction-to-christianity": 1
+        "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1
       },
       "books": [
         "in search of the miraculous",
-        "introduction-to-christianity"
+        "introduction-to-christianity",
+        "jesus and his times vol 1"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "german_culture": {
       "id": "german_culture",
@@ -36990,13 +37070,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
+        "jesus and his times vol 1": 1,
         "the culture of narcissism": 2
       },
       "books": [
         "elon-musk",
+        "jesus and his times vol 1",
         "the culture of narcissism"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "gender_identity": {
       "id": "gender_identity",
@@ -37982,17 +38064,19 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 2,
+        "jesus and his times vol 1": 1,
         "origins of the kabbalah": 1,
         "the interior castle": 1,
         "through the eye of a needle": 1
       },
       "books": [
         "giordano bruno",
+        "jesus and his times vol 1",
         "origins of the kabbalah",
         "the interior castle",
         "through the eye of a needle"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "sect_formation": {
       "id": "sect_formation",
@@ -39946,13 +40030,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 3,
+        "jesus and his times vol 1": 1,
         "the secret teachings of all ages": 2
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "the secret teachings of all ages"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "sacramental_theology": {
       "id": "sacramental_theology",
@@ -39962,17 +40048,19 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 7,
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 2,
         "the mystical theology of the eastern church": 2,
         "the secret teachings of all ages": 1
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "perseverance": {
       "id": "perseverance",
@@ -42338,15 +42426,17 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
+        "jesus and his times vol 1": 1,
         "the mystical theology of the eastern church": 1,
         "the tarot sadhu": 1
       },
       "books": [
         "beelzebubs tales",
+        "jesus and his times vol 1",
         "the mystical theology of the eastern church",
         "the tarot sadhu"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "subtle_body": {
       "id": "subtle_body",
@@ -42826,17 +42916,19 @@
       "related": [],
       "book_claims": {
         "confessions": 3,
+        "jesus and his times vol 1": 1,
         "the mystical theology of the eastern church": 1,
         "the reality of being": 1,
         "the tarot sadhu": 1
       },
       "books": [
         "confessions",
+        "jesus and his times vol 1",
         "the mystical theology of the eastern church",
         "the reality of being",
         "the tarot sadhu"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "alchemical_process": {
       "id": "alchemical_process",
@@ -45435,16 +45527,18 @@
       "book_claims": {
         "confessions": 3,
         "introduction-to-christianity": 8,
+        "jesus and his times vol 1": 3,
         "revelations of divine love": 3,
         "the mystical theology of the eastern church": 4
       },
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 18
+      "claim_count": 21
     },
     "professional_ethics": {
       "id": "professional_ethics",
@@ -47380,13 +47474,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 2,
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 2
       },
       "books": [
         "introduction-to-christianity",
+        "jesus and his times vol 1",
         "revelations of divine love"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "christian_mysticism": {
       "id": "christian_mysticism",
@@ -47539,14 +47635,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "jesus and his times vol 1": 1,
         "revelations of divine love": 1,
         "the mystical theology of the eastern church": 1
       },
       "books": [
+        "jesus and his times vol 1",
         "revelations of divine love",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "atonement": {
       "id": "atonement",
@@ -48315,14 +48413,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "jesus and his times vol 1": 1,
         "on heroes": 1,
         "the hard thing about hard things": 2
       },
       "books": [
+        "jesus and his times vol 1",
         "on heroes",
         "the hard thing about hard things"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "data_analytics": {
       "id": "data_analytics",
@@ -53823,14 +53923,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "jesus and his times vol 1": 1,
         "now it can be told": 2,
         "skunk works": 1
       },
       "books": [
+        "jesus and his times vol 1",
         "now it can be told",
         "skunk works"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "workforce_management": {
       "id": "workforce_management",
@@ -54309,6 +54411,342 @@
       "books": [
         "poor charlies almanack",
         "ultralearning"
+      ],
+      "claim_count": 2
+    },
+    "moral_reversal": {
+      "id": "moral_reversal",
+      "label": "Moral Reversal",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a vision": 1,
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "a vision",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 3
+    },
+    "political_confrontation": {
+      "id": "political_confrontation",
+      "label": "Political Confrontation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "alchemy of air": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "alchemy of air",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "political_resistance": {
+      "id": "political_resistance",
+      "label": "Political Resistance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "alchemy of air": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "alchemy of air",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "political_persecution": {
+      "id": "political_persecution",
+      "label": "Political Persecution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "all desire is a desire for being": 1,
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "all desire is a desire for being",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 3
+    },
+    "colonial_administration": {
+      "id": "colonial_administration",
+      "label": "Colonial Administration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "american nations": 4,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "american nations",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 5
+    },
+    "religious_nationalism": {
+      "id": "religious_nationalism",
+      "label": "Religious Nationalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "american nations": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "american nations",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "servant_leadership": {
+      "id": "servant_leadership",
+      "label": "Servant Leadership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "extreme ownership": 2,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "extreme ownership",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 3
+    },
+    "crucifixion": {
+      "id": "crucifixion",
+      "label": "Crucifixion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 5,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 6
+    },
+    "messianic_identity": {
+      "id": "messianic_identity",
+      "label": "Messianic Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "death_and_resurrection": {
+      "id": "death_and_resurrection",
+      "label": "Death And Resurrection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "pauline_theology": {
+      "id": "pauline_theology",
+      "label": "Pauline Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "sacrificial_theology": {
+      "id": "sacrificial_theology",
+      "label": "Sacrificial Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 2,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 3
+    },
+    "mystery_religions": {
+      "id": "mystery_religions",
+      "label": "Mystery Religions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "man and his symbols": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "man and his symbols"
+      ],
+      "claim_count": 2
+    },
+    "moral_integrity": {
+      "id": "moral_integrity",
+      "label": "Moral Integrity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "meetings with remarkable men": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "meetings with remarkable men"
+      ],
+      "claim_count": 2
+    },
+    "character_psychology": {
+      "id": "character_psychology",
+      "label": "Character Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "occult philosophy in the elizabethan age": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "occult philosophy in the elizabethan age"
+      ],
+      "claim_count": 2
+    },
+    "christian_hope": {
+      "id": "christian_hope",
+      "label": "Christian Hope",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "presence in the modern world": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "presence in the modern world"
+      ],
+      "claim_count": 2
+    },
+    "spiritual_rebirth": {
+      "id": "spiritual_rebirth",
+      "label": "Spiritual Rebirth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "revolt-against-the-modern-world": 2
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 3
+    },
+    "chronology": {
+      "id": "chronology",
+      "label": "Chronology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "the horse": 2
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "the horse"
+      ],
+      "claim_count": 3
+    },
+    "vocation": {
+      "id": "vocation",
+      "label": "Vocation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "the interior castle": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "the interior castle"
+      ],
+      "claim_count": 2
+    },
+    "miraculous_healing": {
+      "id": "miraculous_healing",
+      "label": "Miraculous Healing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 2,
+        "transcendental magic": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "transcendental magic"
+      ],
+      "claim_count": 3
+    },
+    "historical_methodology": {
+      "id": "historical_methodology",
+      "label": "Historical Methodology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "jesus and his times vol 1",
+        "unqualified reservations"
       ],
       "claim_count": 2
     },
@@ -60318,20 +60756,6 @@
       ],
       "claim_count": 1
     },
-    "moral_reversal": {
-      "id": "moral_reversal",
-      "label": "Moral Reversal",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "a vision": 1
-      },
-      "books": [
-        "a vision"
-      ],
-      "claim_count": 1
-    },
     "equilibrium": {
       "id": "equilibrium",
       "label": "Equilibrium",
@@ -63916,20 +64340,6 @@
       ],
       "claim_count": 1
     },
-    "political_confrontation": {
-      "id": "political_confrontation",
-      "label": "Political Confrontation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "alchemy of air": 1
-      },
-      "books": [
-        "alchemy of air"
-      ],
-      "claim_count": 1
-    },
     "corporate_politics": {
       "id": "corporate_politics",
       "label": "Corporate Politics",
@@ -64087,20 +64497,6 @@
     "prophesy": {
       "id": "prophesy",
       "label": "Prophesy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "alchemy of air": 1
-      },
-      "books": [
-        "alchemy of air"
-      ],
-      "claim_count": 1
-    },
-    "political_resistance": {
-      "id": "political_resistance",
-      "label": "Political Resistance",
       "description": "",
       "aliases": [],
       "related": [],
@@ -65204,20 +65600,6 @@
       ],
       "claim_count": 1
     },
-    "political_persecution": {
-      "id": "political_persecution",
-      "label": "Political Persecution",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "all desire is a desire for being": 1
-      },
-      "books": [
-        "all desire is a desire for being"
-      ],
-      "claim_count": 1
-    },
     "institutional_transcendence": {
       "id": "institutional_transcendence",
       "label": "Institutional Transcendence",
@@ -66071,20 +66453,6 @@
         "american nations"
       ],
       "claim_count": 3
-    },
-    "colonial_administration": {
-      "id": "colonial_administration",
-      "label": "Colonial Administration",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "american nations": 4
-      },
-      "books": [
-        "american nations"
-      ],
-      "claim_count": 4
     },
     "democratic_institutions": {
       "id": "democratic_institutions",
@@ -69015,20 +69383,6 @@
     "political_defeat": {
       "id": "political_defeat",
       "label": "Political Defeat",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "american nations": 1
-      },
-      "books": [
-        "american nations"
-      ],
-      "claim_count": 1
-    },
-    "religious_nationalism": {
-      "id": "religious_nationalism",
-      "label": "Religious Nationalism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -120392,20 +120746,6 @@
       ],
       "claim_count": 1
     },
-    "servant_leadership": {
-      "id": "servant_leadership",
-      "label": "Servant Leadership",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "extreme ownership": 2
-      },
-      "books": [
-        "extreme ownership"
-      ],
-      "claim_count": 2
-    },
     "change_management": {
       "id": "change_management",
       "label": "Change Management",
@@ -141910,37 +142250,9 @@
       ],
       "claim_count": 1
     },
-    "crucifixion": {
-      "id": "crucifixion",
-      "label": "Crucifixion",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 5
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 5
-    },
     "faith_origin": {
       "id": "faith_origin",
       "label": "Faith Origin",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 1
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 1
-    },
-    "messianic_identity": {
-      "id": "messianic_identity",
-      "label": "Messianic Identity",
       "description": "",
       "aliases": [],
       "related": [],
@@ -143128,20 +143440,6 @@
       ],
       "claim_count": 1
     },
-    "death_and_resurrection": {
-      "id": "death_and_resurrection",
-      "label": "Death And Resurrection",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 1
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 1
-    },
     "fruitfulness": {
       "id": "fruitfulness",
       "label": "Fruitfulness",
@@ -143562,20 +143860,6 @@
       ],
       "claim_count": 1
     },
-    "pauline_theology": {
-      "id": "pauline_theology",
-      "label": "Pauline Theology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 1
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 1
-    },
     "textual_hermeneutics": {
       "id": "textual_hermeneutics",
       "label": "Textual Hermeneutics",
@@ -143771,20 +144055,6 @@
         "introduction-to-christianity"
       ],
       "claim_count": 1
-    },
-    "sacrificial_theology": {
-      "id": "sacrificial_theology",
-      "label": "Sacrificial Theology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 2
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 2
     },
     "theological_contrast": {
       "id": "theological_contrast",
@@ -146009,6 +146279,1056 @@
       },
       "books": [
         "introduction-to-christianity"
+      ],
+      "claim_count": 1
+    },
+    "messianic_tradition": {
+      "id": "messianic_tradition",
+      "label": "Messianic Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "memory_culture": {
+      "id": "memory_culture",
+      "label": "Memory Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "canon_formation": {
+      "id": "canon_formation",
+      "label": "Canon Formation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "apostolic_testimony": {
+      "id": "apostolic_testimony",
+      "label": "Apostolic Testimony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "gospel_authorship": {
+      "id": "gospel_authorship",
+      "label": "Gospel Authorship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "synoptic_problem": {
+      "id": "synoptic_problem",
+      "label": "Synoptic Problem",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "biblical_archaeology": {
+      "id": "biblical_archaeology",
+      "label": "Biblical Archaeology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "geographic_context": {
+      "id": "geographic_context",
+      "label": "Geographic Context",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "historical_authenticity": {
+      "id": "historical_authenticity",
+      "label": "Historical Authenticity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "biography_writing": {
+      "id": "biography_writing",
+      "label": "Biography Writing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "messianic_revelation": {
+      "id": "messianic_revelation",
+      "label": "Messianic Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "roman_administration": {
+      "id": "roman_administration",
+      "label": "Roman Administration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "census_records": {
+      "id": "census_records",
+      "label": "Census Records",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "divine_human_cooperation": {
+      "id": "divine_human_cooperation",
+      "label": "Divine Human Cooperation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "nativity_narrative": {
+      "id": "nativity_narrative",
+      "label": "Nativity Narrative",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "incarnational_humility": {
+      "id": "incarnational_humility",
+      "label": "Incarnational Humility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "liturgical_calendar": {
+      "id": "liturgical_calendar",
+      "label": "Liturgical Calendar",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "messianic_prophecy": {
+      "id": "messianic_prophecy",
+      "label": "Messianic Prophecy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "artisan_class": {
+      "id": "artisan_class",
+      "label": "Artisan Class",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "imperial_control": {
+      "id": "imperial_control",
+      "label": "Imperial Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "religious_sectarianism": {
+      "id": "religious_sectarianism",
+      "label": "Religious Sectarianism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "legal_formalism": {
+      "id": "legal_formalism",
+      "label": "Legal Formalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "religious_diffusion": {
+      "id": "religious_diffusion",
+      "label": "Religious Diffusion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "cultural_syncretism": {
+      "id": "cultural_syncretism",
+      "label": "Cultural Syncretism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "renunciation": {
+      "id": "renunciation",
+      "label": "Renunciation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "discipleship": {
+      "id": "discipleship",
+      "label": "Discipleship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "sacramental_symbolism": {
+      "id": "sacramental_symbolism",
+      "label": "Sacramental Symbolism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "messianic_disclosure": {
+      "id": "messianic_disclosure",
+      "label": "Messianic Disclosure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "prophetic_action": {
+      "id": "prophetic_action",
+      "label": "Prophetic Action",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "universalism": {
+      "id": "universalism",
+      "label": "Universalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "religious_boundaries": {
+      "id": "religious_boundaries",
+      "label": "Religious Boundaries",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "teaching_authority": {
+      "id": "teaching_authority",
+      "label": "Teaching Authority",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "parabolic_method": {
+      "id": "parabolic_method",
+      "label": "Parabolic Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "moral_revolution": {
+      "id": "moral_revolution",
+      "label": "Moral Revolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "faith_and_miracle": {
+      "id": "faith_and_miracle",
+      "label": "Faith And Miracle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "miraculous_provision": {
+      "id": "miraculous_provision",
+      "label": "Miraculous Provision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "sacramental_prefiguration": {
+      "id": "sacramental_prefiguration",
+      "label": "Sacramental Prefiguration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "prophetic_martyrdom": {
+      "id": "prophetic_martyrdom",
+      "label": "Prophetic Martyrdom",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "petrine_primacy": {
+      "id": "petrine_primacy",
+      "label": "Petrine Primacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "cultural_representation": {
+      "id": "cultural_representation",
+      "label": "Cultural Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "divine_human_nature": {
+      "id": "divine_human_nature",
+      "label": "Divine Human Nature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "messianic_consciousness": {
+      "id": "messianic_consciousness",
+      "label": "Messianic Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "apocalyptic_tradition": {
+      "id": "apocalyptic_tradition",
+      "label": "Apocalyptic Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "sabbath_controversy": {
+      "id": "sabbath_controversy",
+      "label": "Sabbath Controversy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "divine_fatherhood": {
+      "id": "divine_fatherhood",
+      "label": "Divine Fatherhood",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "christian_distinctiveness": {
+      "id": "christian_distinctiveness",
+      "label": "Christian Distinctiveness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "resurrection_power": {
+      "id": "resurrection_power",
+      "label": "Resurrection Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "political_conspiracy": {
+      "id": "political_conspiracy",
+      "label": "Political Conspiracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "christian_doctrine": {
+      "id": "christian_doctrine",
+      "label": "Christian Doctrine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "pagan_philosophy": {
+      "id": "pagan_philosophy",
+      "label": "Pagan Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "cultural_conversion": {
+      "id": "cultural_conversion",
+      "label": "Cultural Conversion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "covenantal_theology": {
+      "id": "covenantal_theology",
+      "label": "Covenantal Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "messianic_entry": {
+      "id": "messianic_entry",
+      "label": "Messianic Entry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "prophetic_fulfillment": {
+      "id": "prophetic_fulfillment",
+      "label": "Prophetic Fulfillment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 2
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "judgment_theology": {
+      "id": "judgment_theology",
+      "label": "Judgment Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "betrayal": {
+      "id": "betrayal",
+      "label": "Betrayal",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "eucharistic_institution": {
+      "id": "eucharistic_institution",
+      "label": "Eucharistic Institution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "human_suffering": {
+      "id": "human_suffering",
+      "label": "Human Suffering",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "legal_injustice": {
+      "id": "legal_injustice",
+      "label": "Legal Injustice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "judicial_corruption": {
+      "id": "judicial_corruption",
+      "label": "Judicial Corruption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "blasphemy_charge": {
+      "id": "blasphemy_charge",
+      "label": "Blasphemy Charge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "moral_cowardice": {
+      "id": "moral_cowardice",
+      "label": "Moral Cowardice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "political_justice": {
+      "id": "political_justice",
+      "label": "Political Justice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "colonial_psychology": {
+      "id": "colonial_psychology",
+      "label": "Colonial Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "symbolic_reversal": {
+      "id": "symbolic_reversal",
+      "label": "Symbolic Reversal",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "redemptive_sacrifice": {
+      "id": "redemptive_sacrifice",
+      "label": "Redemptive Sacrifice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "fulfillment_of_prophecy": {
+      "id": "fulfillment_of_prophecy",
+      "label": "Fulfillment Of Prophecy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "divine_forgiveness": {
+      "id": "divine_forgiveness",
+      "label": "Divine Forgiveness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "burial_customs": {
+      "id": "burial_customs",
+      "label": "Burial Customs",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "empty_tomb": {
+      "id": "empty_tomb",
+      "label": "Empty Tomb",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "resurrection_apologetics": {
+      "id": "resurrection_apologetics",
+      "label": "Resurrection Apologetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "resurrection_appearances": {
+      "id": "resurrection_appearances",
+      "label": "Resurrection Appearances",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "glorified_body": {
+      "id": "glorified_body",
+      "label": "Glorified Body",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "resurrection_doctrine": {
+      "id": "resurrection_doctrine",
+      "label": "Resurrection Doctrine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 1
+    },
+    "sacramental_presence": {
+      "id": "sacramental_presence",
+      "label": "Sacramental Presence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "jesus and his times vol 1"
       ],
       "claim_count": 1
     },
@@ -155112,20 +156432,6 @@
       ],
       "claim_count": 1
     },
-    "mystery_religions": {
-      "id": "mystery_religions",
-      "label": "Mystery Religions",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "man and his symbols": 1
-      },
-      "books": [
-        "man and his symbols"
-      ],
-      "claim_count": 1
-    },
     "ethical_development": {
       "id": "ethical_development",
       "label": "Ethical Development",
@@ -156655,20 +157961,6 @@
     "experiential_understanding": {
       "id": "experiential_understanding",
       "label": "Experiential Understanding",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "meetings with remarkable men": 1
-      },
-      "books": [
-        "meetings with remarkable men"
-      ],
-      "claim_count": 1
-    },
-    "moral_integrity": {
-      "id": "moral_integrity",
-      "label": "Moral Integrity",
       "description": "",
       "aliases": [],
       "related": [],
@@ -173945,20 +175237,6 @@
     "humanization": {
       "id": "humanization",
       "label": "Humanization",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "occult philosophy in the elizabethan age": 1
-      },
-      "books": [
-        "occult philosophy in the elizabethan age"
-      ],
-      "claim_count": 1
-    },
-    "character_psychology": {
-      "id": "character_psychology",
-      "label": "Character Psychology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -198372,20 +199650,6 @@
       ],
       "claim_count": 1
     },
-    "christian_hope": {
-      "id": "christian_hope",
-      "label": "Christian Hope",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "presence in the modern world": 1
-      },
-      "books": [
-        "presence in the modern world"
-      ],
-      "claim_count": 1
-    },
     "worldly_perspective": {
       "id": "worldly_perspective",
       "label": "Worldly Perspective",
@@ -202333,20 +203597,6 @@
         "revolt-against-the-modern-world"
       ],
       "claim_count": 1
-    },
-    "spiritual_rebirth": {
-      "id": "spiritual_rebirth",
-      "label": "Spiritual Rebirth",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 2
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 2
     },
     "metaphysical_mediation": {
       "id": "metaphysical_mediation",
@@ -251516,20 +252766,6 @@
       ],
       "claim_count": 2
     },
-    "chronology": {
-      "id": "chronology",
-      "label": "Chronology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the horse": 2
-      },
-      "books": [
-        "the horse"
-      ],
-      "claim_count": 2
-    },
     "dating_accuracy": {
       "id": "dating_accuracy",
       "label": "Dating Accuracy",
@@ -255383,20 +256619,6 @@
     "spiritual_anthropology": {
       "id": "spiritual_anthropology",
       "label": "Spiritual Anthropology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the interior castle": 1
-      },
-      "books": [
-        "the interior castle"
-      ],
-      "claim_count": 1
-    },
-    "vocation": {
-      "id": "vocation",
-      "label": "Vocation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -301524,20 +302746,6 @@
       ],
       "claim_count": 1
     },
-    "miraculous_healing": {
-      "id": "miraculous_healing",
-      "label": "Miraculous Healing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "transcendental magic": 1
-      },
-      "books": [
-        "transcendental magic"
-      ],
-      "claim_count": 1
-    },
     "faith_healing": {
       "id": "faith_healing",
       "label": "Faith Healing",
@@ -309504,20 +310712,6 @@
       ],
       "claim_count": 1
     },
-    "historical_methodology": {
-      "id": "historical_methodology",
-      "label": "Historical Methodology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
     "definitional_problems": {
       "id": "definitional_problems",
       "label": "Definitional Problems",
@@ -317108,8 +318302,8 @@
     }
   },
   "stats": {
-    "total_concepts": 21834,
-    "total_claims": 36180,
-    "books_indexed": 117
+    "total_concepts": 21909,
+    "total_claims": 36345,
+    "books_indexed": 118
   }
 }
