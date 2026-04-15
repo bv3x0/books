@@ -1,7 +1,7 @@
 ---
 title: "Extreme Ownership: How U.S. Navy SEALs Lead and Win"
 sortTitle: "Extreme Ownership: How U.S. Navy SEALs Lead and Win"
-date: 2026-04-10
+date: 2026-04-14
 slug: "extreme-ownership"
 draft: false
 dateAdded: 2026-04-10
@@ -32,11 +32,11 @@ A SEAL ground force commander separated from his unit and outnumbered by enemy f
     - Enemy attacks in Ramadi fell from thirty to fifty per day throughout 2006 to an average of one per week, then one per month, demonstrating the strategic impact of sound leadership and combined operations.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_animal-livestock.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part I: Winning the War Within
 
-### Chapter 1: Extreme Ownership
+### Extreme Ownership
 
 When a friendly-fire incident in Ramadi nearly killed multiple SEALs, Jocko Willink took complete personal responsibility as commander rather than distributing blame across the many individuals whose mistakes contributed, demonstrating that absolute accountability is both the ethical and strategically superior leadership response.
 
@@ -56,7 +56,7 @@ When a friendly-fire incident in Ramadi nearly killed multiple SEALs, Jocko Will
 
 <div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_person-leaping.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 2: No Bad Teams, Only Bad Leaders
+### No Bad Teams, Only Bad Leaders
 
 When SEAL instructors swapped the leaders of the best and worst boat crews during Hell Week, the worst crew immediately won its first race under new leadership, proving that leader quality—not personnel quality—is the single greatest determinant of team performance.
 
@@ -74,9 +74,9 @@ When SEAL instructors swapped the leaders of the best and worst boat crews durin
     - "When it comes to performance standards, it's not what you preach, it's what you tolerate." —Leif Babin
 
 
-<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_animal-livestock.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 3: Believe
+### Believe
 
 When ordered to conduct all combat operations alongside poorly trained Iraqi soldiers—a directive that initially seemed tactically counterproductive—Jocko Willink worked through the strategic logic until he genuinely believed in the mission, then conveyed that belief to his SEALs so they could commit and execute rather than resist.
 
@@ -94,9 +94,9 @@ When ordered to conduct all combat operations alongside poorly trained Iraqi sol
     - "If you don't understand or believe in the decisions coming down from your leadership, it is up to you to ask questions until you understand how and why those decisions are being made." —Jocko Willink
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 4: Check the Ego
+### Check the Ego
 
 A visiting special operations unit in Ramadi whose members refused to share operational information, accept advice from experienced SEALs, or conform to the host unit's standards was expelled from Camp Corregidor within two weeks, illustrating how unchecked ego destroys the cooperation that high-stakes environments require.
 
@@ -114,11 +114,11 @@ A visiting special operations unit in Ramadi whose members refused to share oper
     - "If you approached it as he did something wrong, and he needs to fix something, and he is at fault, it becomes a clash of egos and you two will be at odds. That's human nature." —Leif Babin
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_money-100-bill.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_lightbulb-person.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part II: Laws of Combat
 
-### Chapter 5: Cover and Move
+### Cover and Move
 
 When Leif Babin's SEAL overwatch team extracted on foot through enemy-held Ramadi without coordinating with the other SEAL team to cover their movement, they were attacked from the rear—a mistake his platoon chief immediately identified as a violation of the most fundamental law of combat: all elements of a team must mutually support one another.
 
@@ -133,9 +133,9 @@ When Leif Babin's SEAL overwatch team extracted on foot through enemy-held Ramad
     - After building a working relationship with the subsidiary, the production manager's team reduced downtime to industry-leading levels by understanding and filling gaps in the subsidiary's workflow.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_pen-quill.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 6: Simple
+### Simple
 
 When a military transition team lieutenant proposed a two-kilometer presence patrol through multiple enemy-held battlespace sectors on their first day at COP Falcon—a plan so complex it would have been catastrophic if things went wrong—Willink simplified it to a few hundred meters within a single unit's battlespace, a decision vindicated when the patrol was attacked twelve minutes after stepping off.
 
@@ -150,9 +150,9 @@ When a military transition team lieutenant proposed a two-kilometer presence pat
     - After simplifying to just two measures (weighted units and a quality threshold), the company saw near-immediate productivity increases and naturally shed its four lowest performers within a month.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_numbers-puzzle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 7: Prioritize and Execute
+### Prioritize and Execute
 
 When a SEAL fell through a rooftop into a locked street while an IED countdown clock ticked and the platoon was exposed on an open rooftop deep in enemy territory after a day of heavy combat, Babin used Prioritize and Execute—relax, look around, make a call—to sequentially address each crisis rather than being overwhelmed by all of them simultaneously.
 
@@ -167,9 +167,9 @@ When a SEAL fell through a rooftop into a locked street while an IED countdown c
     - Focusing the entire company on supporting frontline sales—tours, pamphlets, minimum activity metrics, training videos—produced rapid progress and momentum within months, validating the Prioritize and Execute method.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_animal-livestock.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 8: Decentralized Command
+### Decentralized Command
 
 During the largest Task Unit Bruiser operation in Ramadi, Willink's practice of Decentralized Command—trusting platoon commanders to make tactical decisions while he maintained strategic oversight—allowed him to catch a near-fratricide incident in time, because he had bandwidth to monitor multiple units rather than being absorbed in directing individual SEALs.
 
@@ -187,11 +187,11 @@ During the largest Task Unit Bruiser operation in Ramadi, Willink's practice of 
     - Junior leaders must receive clear mission statements explaining not just what to do but why, so they can execute in the absence of explicit orders and without running every question up the chain of command.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_person-directing.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part III: Sustaining Victory
 
-### Chapter 9: Plan
+### Plan
 
 Effective mission planning for Task Unit Bruiser evolved from slide-heavy PowerPoint productions designed to impress evaluators into simple, troop-focused briefings centered on Commander's Intent—and this shift, together with post-operational debriefs, directly enabled hundreds of successful combat operations in Ramadi and should be systematized by any organization seeking repeatable execution.
 
@@ -209,9 +209,9 @@ Effective mission planning for Task Unit Bruiser evolved from slide-heavy PowerP
     - An emerging-markets VP who implemented a standardized planning process reported that his team was able to anticipate and address contingencies that previously would have cost significant revenue, and frontline leaders became more decisive without running every question up the chain.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 10: Leading Up and Down the Chain of Command
+### Leading Up and Down the Chain of Command
 
 Babin learned two complementary leadership lessons from Ramadi: he had failed to explain the strategic picture to his own frontline troops, leaving them questioning risk and suffering combat fatigue, while simultaneously blaming his chain of command for burdensome questions rather than recognizing that those questions were his failure to communicate upward.
 
@@ -229,9 +229,9 @@ Babin learned two complementary leadership lessons from Ramadi: he had failed to
     - A field manager who invited corporate executives for a field visit transformed the relationship: executives understood on-the-ground challenges, the field manager recognized executives were smart allies not adversaries, and bureaucratic friction was substantially reduced.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_gears-machinery.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 11: Decisiveness amid Uncertainty
+### Decisiveness amid Uncertainty
 
 When Chris Kyle spotted a man with a scoped weapon in a building window and the U.S. Army company commander repeatedly pressured Babin to take the shot, Babin held his ground because positive identification was impossible—a decision vindicated when Warrior Soldiers dashing across the street revealed the 'enemy sniper' was an American soldier with an ACOG scope.
 
@@ -247,9 +247,9 @@ When Chris Kyle spotted a man with a scoped weapon in a building window and the 
     - Both engineers were escorted out the same day; high-potential frontline engineers stepped up into their roles, quickly demonstrating that the real technical knowledge resided with the front line—not the feuding managers.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_person-carrying.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Self-Help/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
 
-### Chapter 12: Discipline Equals Freedom—The Dichotomy of Leadership
+### Discipline Equals Freedom—The Dichotomy of Leadership
 
 Standardized, disciplined operating procedures—whether in SEAL evidence-collection methods in Baghdad or in any business process—paradoxically produce greater freedom and adaptability by establishing a reliable baseline from which teams can improvise, while leadership itself requires balancing opposing qualities in a dichotomy that defines effective command.
 
@@ -267,7 +267,7 @@ Standardized, disciplined operating procedures—whether in SEAL evidence-collec
     - After shutting down the electrical division, Andy found another role for his friend using his experience, the friendship survived intact, and the freed capital was reinvested in profitable divisions—resolving both the financial and relational problem simultaneously.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_numbers-puzzle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Afterword
 

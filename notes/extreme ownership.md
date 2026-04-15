@@ -26,7 +26,7 @@ A SEAL ground force commander separated from his unit and outnumbered by enemy f
 
 ## Part I: Winning the War Within
 
-### Chapter 1: Extreme Ownership
+### Extreme Ownership
 
 When a friendly-fire incident in Ramadi nearly killed multiple SEALs, Jocko Willink took complete personal responsibility as commander rather than distributing blame across the many individuals whose mistakes contributed, demonstrating that absolute accountability is both the ethical and strategically superior leadership response.
 
@@ -43,7 +43,7 @@ When a friendly-fire incident in Ramadi nearly killed multiple SEALs, Jocko Will
     - "You can't make people listen to you. You can't make them execute. That might be a temporary solution for a simple task. But to implement real change, to drive people to accomplish something truly complex or difficult or dangerous—you can't make people do those things. You have to lead them." —Leif Babin
     - At a subsequent board meeting, the VP took complete blame for the failed execution and presented a corrective list starting with his own behavioral changes—not others'—which impressed the board and put him on a path to Extreme Ownership.
 
-### Chapter 2: No Bad Teams, Only Bad Leaders
+### No Bad Teams, Only Bad Leaders
 
 When SEAL instructors swapped the leaders of the best and worst boat crews during Hell Week, the worst crew immediately won its first race under new leadership, proving that leader quality—not personnel quality—is the single greatest determinant of team performance.
 
@@ -60,7 +60,7 @@ When SEAL instructors swapped the leaders of the best and worst boat crews durin
     - The CTO's abrasiveness and blame-shifting infected other departments, making cross-functional collaboration impossible and dragging company performance down.
     - "When it comes to performance standards, it's not what you preach, it's what you tolerate." —Leif Babin
 
-### Chapter 3: Believe
+### Believe
 
 When ordered to conduct all combat operations alongside poorly trained Iraqi soldiers—a directive that initially seemed tactically counterproductive—Jocko Willink worked through the strategic logic until he genuinely believed in the mission, then conveyed that belief to his SEALs so they could commit and execute rather than resist.
 
@@ -77,7 +77,7 @@ When ordered to conduct all combat operations alongside poorly trained Iraqi sol
     - The CEO's logic was sound: cutting compensation for low producers reduced overhead, enabling lower product prices that would allow high producers to capture more business—but this was never communicated.
     - "If you don't understand or believe in the decisions coming down from your leadership, it is up to you to ask questions until you understand how and why those decisions are being made." —Jocko Willink
 
-### Chapter 4: Check the Ego
+### Check the Ego
 
 A visiting special operations unit in Ramadi whose members refused to share operational information, accept advice from experienced SEALs, or conform to the host unit's standards was expelled from Camp Corregidor within two weeks, illustrating how unchecked ego destroys the cooperation that high-stakes environments require.
 
@@ -96,7 +96,7 @@ A visiting special operations unit in Ramadi whose members refused to share oper
 
 ## Part II: Laws of Combat
 
-### Chapter 5: Cover and Move
+### Cover and Move
 
 When Leif Babin's SEAL overwatch team extracted on foot through enemy-held Ramadi without coordinating with the other SEAL team to cover their movement, they were attacked from the rear—a mistake his platoon chief immediately identified as a violation of the most fundamental law of combat: all elements of a team must mutually support one another.
 
@@ -110,7 +110,7 @@ When Leif Babin's SEAL overwatch team extracted on foot through enemy-held Ramad
     - The production manager was so focused on his own department's immediate tasks that he couldn't see how his mission aligned with the rest of the corporation and supporting assets.
     - After building a working relationship with the subsidiary, the production manager's team reduced downtime to industry-leading levels by understanding and filling gaps in the subsidiary's workflow.
 
-### Chapter 6: Simple
+### Simple
 
 When a military transition team lieutenant proposed a two-kilometer presence patrol through multiple enemy-held battlespace sectors on their first day at COP Falcon—a plan so complex it would have been catastrophic if things went wrong—Willink simplified it to a few hundred meters within a single unit's battlespace, a decision vindicated when the patrol was attacked twelve minutes after stepping off.
 
@@ -124,7 +124,7 @@ When a military transition team lieutenant proposed a two-kilometer presence pat
     - When Babin asked the plant manager to explain the plan, her own explanation required multiple nested variables and she warned it was 'pretty complex'—a fatal indicator that the plan violated the Simple principle.
     - After simplifying to just two measures (weighted units and a quality threshold), the company saw near-immediate productivity increases and naturally shed its four lowest performers within a month.
 
-### Chapter 7: Prioritize and Execute
+### Prioritize and Execute
 
 When a SEAL fell through a rooftop into a locked street while an IED countdown clock ticked and the platoon was exposed on an open rooftop deep in enemy territory after a day of heavy combat, Babin used Prioritize and Execute—relax, look around, make a call—to sequentially address each crisis rather than being overwhelmed by all of them simultaneously.
 
@@ -138,7 +138,7 @@ When a SEAL fell through a rooftop into a locked street while an IED countdown c
     - The CEO identified activity management of the sales force as the highest priority because without salespeople in front of customers, nothing else mattered—yet this priority was not clearly communicated to the rest of the company.
     - Focusing the entire company on supporting frontline sales—tours, pamphlets, minimum activity metrics, training videos—produced rapid progress and momentum within months, validating the Prioritize and Execute method.
 
-### Chapter 8: Decentralized Command
+### Decentralized Command
 
 During the largest Task Unit Bruiser operation in Ramadi, Willink's practice of Decentralized Command—trusting platoon commanders to make tactical decisions while he maintained strategic oversight—allowed him to catch a near-fratricide incident in time, because he had bandwidth to monitor multiple units rather than being absorbed in directing individual SEALs.
 
@@ -157,7 +157,7 @@ During the largest Task Unit Bruiser operation in Ramadi, Willink's practice of 
 
 ## Part III: Sustaining Victory
 
-### Chapter 9: Plan
+### Plan
 
 Effective mission planning for Task Unit Bruiser evolved from slide-heavy PowerPoint productions designed to impress evaluators into simple, troop-focused briefings centered on Commander's Intent—and this shift, together with post-operational debriefs, directly enabled hundreds of successful combat operations in Ramadi and should be systematized by any organization seeking repeatable execution.
 
@@ -174,7 +174,7 @@ Effective mission planning for Task Unit Bruiser evolved from slide-heavy PowerP
     - One must make time for post-operational analysis. The best SEAL units, after each combat operation, conduct a post-operational debrief because lives and future mission success depend on it.
     - An emerging-markets VP who implemented a standardized planning process reported that his team was able to anticipate and address contingencies that previously would have cost significant revenue, and frontline leaders became more decisive without running every question up the chain.
 
-### Chapter 10: Leading Up and Down the Chain of Command
+### Leading Up and Down the Chain of Command
 
 Babin learned two complementary leadership lessons from Ramadi: he had failed to explain the strategic picture to his own frontline troops, leaving them questioning risk and suffering combat fatigue, while simultaneously blaming his chain of command for burdensome questions rather than recognizing that those questions were his failure to communicate upward.
 
@@ -191,7 +191,7 @@ Babin learned two complementary leadership lessons from Ramadi: he had failed to
     - If your leader is not giving the support you need, don't blame him or her. Instead, reexamine what you can do to better clarify, educate, influence, or convince that person to give you what you need in order to win.
     - A field manager who invited corporate executives for a field visit transformed the relationship: executives understood on-the-ground challenges, the field manager recognized executives were smart allies not adversaries, and bureaucratic friction was substantially reduced.
 
-### Chapter 11: Decisiveness amid Uncertainty
+### Decisiveness amid Uncertainty
 
 When Chris Kyle spotted a man with a scoped weapon in a building window and the U.S. Army company commander repeatedly pressured Babin to take the shot, Babin held his ground because positive identification was impossible—a decision vindicated when Warrior Soldiers dashing across the street revealed the 'enemy sniper' was an American soldier with an ACOG scope.
 
@@ -206,7 +206,7 @@ When Chris Kyle spotted a man with a scoped weapon in a building window and the 
     - "As a leader, you want to be seen—you need to be seen—as decisive, and willing to make tough choices. The outcome may be uncertain, but you have enough understanding and information to make a decision." —Leif Babin
     - Both engineers were escorted out the same day; high-potential frontline engineers stepped up into their roles, quickly demonstrating that the real technical knowledge resided with the front line—not the feuding managers.
 
-### Chapter 12: Discipline Equals Freedom—The Dichotomy of Leadership
+### Discipline Equals Freedom—The Dichotomy of Leadership
 
 Standardized, disciplined operating procedures—whether in SEAL evidence-collection methods in Baghdad or in any business process—paradoxically produce greater freedom and adaptability by establishing a reliable baseline from which teams can improvise, while leadership itself requires balancing opposing qualities in a dichotomy that defines effective command.
 
