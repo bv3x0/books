@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-15T00:35:43.423346Z",
+  "updated_at": "2026-04-20T21:35:33.184489Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -525,6 +525,7 @@
         "bronze age mindset": 6,
         "occult philosophy in the elizabethan age": 1,
         "revolt-against-the-modern-world": 2,
+        "rhythmanalysis": 1,
         "the first ghosts": 1,
         "unqualified reservations": 1
       },
@@ -535,10 +536,11 @@
         "bronze age mindset",
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
+        "rhythmanalysis",
         "the first ghosts",
         "unqualified reservations"
       ],
-      "claim_count": 15
+      "claim_count": 16
     },
     "threatened_secession": {
       "id": "threatened_secession",
@@ -930,6 +932,7 @@
         "on heroes": 1,
         "on the aesthetic education of man": 1,
         "poor charlies almanack": 4,
+        "signs and machines": 1,
         "the closing of the american mind": 2,
         "the elephant in the brain": 2,
         "the hard thing about hard things": 1,
@@ -956,6 +959,7 @@
         "on heroes",
         "on the aesthetic education of man",
         "poor charlies almanack",
+        "signs and machines",
         "the closing of the american mind",
         "the elephant in the brain",
         "the hard thing about hard things",
@@ -966,7 +970,7 @@
         "unqualified reservations",
         "zero to one"
       ],
-      "claim_count": 39
+      "claim_count": 40
     },
     "mob_violence": {
       "id": "mob_violence",
@@ -2093,16 +2097,18 @@
       "book_claims": {
         "a disease in the public mind": 1,
         "introduction-to-christianity": 2,
+        "rhythmanalysis": 1,
         "the closing of the american mind": 1,
         "unqualified reservations": 1
       },
       "books": [
         "a disease in the public mind",
         "introduction-to-christianity",
+        "rhythmanalysis",
         "the closing of the american mind",
         "unqualified reservations"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "union_loyalty": {
       "id": "union_loyalty",
@@ -3990,6 +3996,7 @@
         "all desire is a desire for being": 1,
         "le mystere des cathedrales": 1,
         "revolt-against-the-modern-world": 6,
+        "rhythmanalysis": 1,
         "the concept of acceleration": 1,
         "the mask and face of contemporary spiritualism": 1
       },
@@ -3999,10 +4006,11 @@
         "all desire is a desire for being",
         "le mystere des cathedrales",
         "revolt-against-the-modern-world",
+        "rhythmanalysis",
         "the concept of acceleration",
         "the mask and face of contemporary spiritualism"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "astronomical_symbolism": {
       "id": "astronomical_symbolism",
@@ -5630,6 +5638,7 @@
         "introduction-to-christianity": 1,
         "kabbalistic visions": 10,
         "man and his symbols": 1,
+        "parables for the virtual": 1,
         "the interpretation of fairy tales": 9,
         "the problem of the puer aeternus": 10,
         "the world as will and representation": 1,
@@ -5643,12 +5652,13 @@
         "introduction-to-christianity",
         "kabbalistic visions",
         "man and his symbols",
+        "parables for the virtual",
         "the interpretation of fairy tales",
         "the problem of the puer aeternus",
         "the world as will and representation",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 40
+      "claim_count": 41
     },
     "unified_consciousness": {
       "id": "unified_consciousness",
@@ -5845,6 +5855,7 @@
         "on heroes": 1,
         "revolt-against-the-modern-world": 5,
         "sexual personae": 1,
+        "signs and machines": 1,
         "the first ghosts": 1,
         "the horse": 3,
         "the power of ritual in prehistory": 1,
@@ -5862,13 +5873,14 @@
         "on heroes",
         "revolt-against-the-modern-world",
         "sexual personae",
+        "signs and machines",
         "the first ghosts",
         "the horse",
         "the power of ritual in prehistory",
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 37
+      "claim_count": 38
     },
     "religious_tolerance": {
       "id": "religious_tolerance",
@@ -6317,14 +6329,16 @@
       "book_claims": {
         "american nations": 1,
         "orality-and-literacy": 1,
-        "preface to plato": 1
+        "preface to plato": 1,
+        "rhythmanalysis": 1
       },
       "books": [
         "american nations",
         "orality-and-literacy",
-        "preface to plato"
+        "preface to plato",
+        "rhythmanalysis"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "imperial_authority": {
       "id": "imperial_authority",
@@ -6507,6 +6521,7 @@
         "beelzebubs tales": 2,
         "fanged noumena": 1,
         "flatline constructs": 1,
+        "rhythmanalysis": 1,
         "the culture of narcissism": 4,
         "the power of ritual in prehistory": 5,
         "through the eye of a needle": 2
@@ -6516,11 +6531,12 @@
         "beelzebubs tales",
         "fanged noumena",
         "flatline constructs",
+        "rhythmanalysis",
         "the culture of narcissism",
         "the power of ritual in prehistory",
         "through the eye of a needle"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "dehumanization": {
       "id": "dehumanization",
@@ -8753,6 +8769,7 @@
         "orality-and-literacy": 20,
         "origins of the kabbalah": 1,
         "preface to plato": 6,
+        "rhythmanalysis": 1,
         "the discarded image": 1,
         "the interpretation of fairy tales": 5,
         "the secret teachings of all ages": 2
@@ -8768,11 +8785,12 @@
         "orality-and-literacy",
         "origins of the kabbalah",
         "preface to plato",
+        "rhythmanalysis",
         "the discarded image",
         "the interpretation of fairy tales",
         "the secret teachings of all ages"
       ],
-      "claim_count": 43
+      "claim_count": 44
     },
     "gender_hierarchy": {
       "id": "gender_hierarchy",
@@ -9303,6 +9321,7 @@
         "from bacteria to bach and back": 1,
         "language machines": 1,
         "on the aesthetic education of man": 1,
+        "signs and machines": 1,
         "the mythical man-month": 1
       },
       "books": [
@@ -9310,9 +9329,10 @@
         "from bacteria to bach and back",
         "language machines",
         "on the aesthetic education of man",
+        "signs and machines",
         "the mythical man-month"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "universal_basic_income": {
       "id": "universal_basic_income",
@@ -9857,16 +9877,18 @@
       "book_claims": {
         "beauty": 1,
         "introduction-to-christianity": 2,
+        "parables for the virtual": 2,
         "sexual personae": 1,
         "the world as will and representation": 3
       },
       "books": [
         "beauty",
         "introduction-to-christianity",
+        "parables for the virtual",
         "sexual personae",
         "the world as will and representation"
       ],
-      "claim_count": 7
+      "claim_count": 9
     },
     "natural_beauty": {
       "id": "natural_beauty",
@@ -14660,6 +14682,7 @@
         "introduction-to-christianity": 1,
         "lacan seminars i": 1,
         "psychomagic": 1,
+        "rhythmanalysis": 1,
         "structures": 1,
         "unqualified reservations": 4
       },
@@ -14669,10 +14692,11 @@
         "introduction-to-christianity",
         "lacan seminars i",
         "psychomagic",
+        "rhythmanalysis",
         "structures",
         "unqualified reservations"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "educational_philosophy": {
       "id": "educational_philosophy",
@@ -14825,16 +14849,18 @@
       "book_claims": {
         "deschooling society": 1,
         "from bacteria to bach and back": 3,
+        "parables for the virtual": 1,
         "the interpretation of fairy tales": 1,
         "things hidden since the foundation of the world": 1
       },
       "books": [
         "deschooling society",
         "from bacteria to bach and back",
+        "parables for the virtual",
         "the interpretation of fairy tales",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "family_dysfunction": {
       "id": "family_dysfunction",
@@ -17903,14 +17929,18 @@
       "book_claims": {
         "fanged noumena": 2,
         "flatline constructs": 4,
+        "parables for the virtual": 1,
+        "signs and machines": 2,
         "the concept of acceleration": 1
       },
       "books": [
         "fanged noumena",
         "flatline constructs",
+        "parables for the virtual",
+        "signs and machines",
         "the concept of acceleration"
       ],
-      "claim_count": 7
+      "claim_count": 10
     },
     "universal_law": {
       "id": "universal_law",
@@ -18220,6 +18250,7 @@
         "nick land explains the numogram": 1,
         "only the paranoid survive": 1,
         "poor charlies almanack": 1,
+        "signs and machines": 2,
         "the closing of the american mind": 2,
         "the culture of narcissism": 1,
         "the discarded image": 3,
@@ -18248,6 +18279,7 @@
         "nick land explains the numogram",
         "only the paranoid survive",
         "poor charlies almanack",
+        "signs and machines",
         "the closing of the american mind",
         "the culture of narcissism",
         "the discarded image",
@@ -18262,7 +18294,7 @@
         "why we sleep",
         "zero to one"
       ],
-      "claim_count": 39
+      "claim_count": 41
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -18522,13 +18554,15 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 2,
+        "parables for the virtual": 1,
         "the light eaters": 1
       },
       "books": [
         "from bacteria to bach and back",
+        "parables for the virtual",
         "the light eaters"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "ontology": {
       "id": "ontology",
@@ -20585,6 +20619,7 @@
       "book_claims": {
         "circles of power": 1,
         "introduction-to-christianity": 1,
+        "rhythmanalysis": 1,
         "ride the tiger": 1,
         "the soul of the world": 2,
         "the world as will and representation vol 2": 5
@@ -20592,11 +20627,12 @@
       "books": [
         "circles of power",
         "introduction-to-christianity",
+        "rhythmanalysis",
         "ride the tiger",
         "the soul of the world",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "modern_theology": {
       "id": "modern_theology",
@@ -21980,15 +22016,17 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
+        "parables for the virtual": 1,
         "revolt-against-the-modern-world": 1,
         "transcendental magic": 2
       },
       "books": [
         "introduction-to-christianity",
+        "parables for the virtual",
         "revolt-against-the-modern-world",
         "transcendental magic"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "spiritual_unity": {
       "id": "spiritual_unity",
@@ -22622,15 +22660,17 @@
       "related": [],
       "book_claims": {
         "kabbalistic visions": 1,
+        "parables for the virtual": 1,
         "philosopher-in-the-valley": 1,
         "the closing of the american mind": 1
       },
       "books": [
         "kabbalistic visions",
+        "parables for the virtual",
         "philosopher-in-the-valley",
         "the closing of the american mind"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "gender_symbolism": {
       "id": "gender_symbolism",
@@ -23982,13 +24022,15 @@
       "related": [],
       "book_claims": {
         "michael-levin-major-talks": 3,
+        "signs and machines": 1,
         "the light eaters": 1
       },
       "books": [
         "michael-levin-major-talks",
+        "signs and machines",
         "the light eaters"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "morphological_plasticity": {
       "id": "morphological_plasticity",
@@ -24051,6 +24093,7 @@
         "in search of the miraculous": 1,
         "michael-levin-major-talks": 1,
         "orthodoxy": 2,
+        "parables for the virtual": 1,
         "psychomagic": 1,
         "the discarded image": 2,
         "the mystical theology of the eastern church": 1,
@@ -24068,6 +24111,7 @@
         "in search of the miraculous",
         "michael-levin-major-talks",
         "orthodoxy",
+        "parables for the virtual",
         "psychomagic",
         "the discarded image",
         "the mystical theology of the eastern church",
@@ -24078,7 +24122,7 @@
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 25
+      "claim_count": 26
     },
     "feudal_nobility": {
       "id": "feudal_nobility",
@@ -28805,14 +28849,16 @@
       "book_claims": {
         "language machines": 1,
         "orality-and-literacy": 1,
+        "signs and machines": 1,
         "the soul of the world": 1
       },
       "books": [
         "language machines",
         "orality-and-literacy",
+        "signs and machines",
         "the soul of the world"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "intellectual_development": {
       "id": "intellectual_development",
@@ -32752,15 +32798,17 @@
       "related": [],
       "book_claims": {
         "beyond good and evil": 1,
+        "signs and machines": 1,
         "the closing of the american mind": 2,
         "unqualified reservations": 4
       },
       "books": [
         "beyond good and evil",
+        "signs and machines",
         "the closing of the american mind",
         "unqualified reservations"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "democratic_failure": {
       "id": "democratic_failure",
@@ -33167,16 +33215,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "rhythmanalysis": 1,
         "the horse": 1,
         "the mask and face of contemporary spiritualism": 1,
         "the structure of scientific revolutions": 1
       },
       "books": [
+        "rhythmanalysis",
         "the horse",
         "the mask and face of contemporary spiritualism",
         "the structure of scientific revolutions"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "monumental_construction": {
       "id": "monumental_construction",
@@ -34362,13 +34412,15 @@
       "related": [],
       "book_claims": {
         "beyond good and evil": 1,
-        "fooled by randomness": 2
+        "fooled by randomness": 2,
+        "rhythmanalysis": 1
       },
       "books": [
         "beyond good and evil",
-        "fooled by randomness"
+        "fooled by randomness",
+        "rhythmanalysis"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "philosophy_of_mind": {
       "id": "philosophy_of_mind",
@@ -37091,16 +37143,18 @@
       "book_claims": {
         "beyond good and evil": 2,
         "nick land explains the numogram": 1,
+        "rhythmanalysis": 1,
         "sexual personae": 1,
         "the sickness unto death": 1
       },
       "books": [
         "beyond good and evil",
         "nick land explains the numogram",
+        "rhythmanalysis",
         "sexual personae",
         "the sickness unto death"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "cultural_production": {
       "id": "cultural_production",
@@ -37301,14 +37355,16 @@
       "book_claims": {
         "elon-musk": 1,
         "jesus and his times vol 1": 1,
+        "signs and machines": 1,
         "the culture of narcissism": 2
       },
       "books": [
         "elon-musk",
         "jesus and his times vol 1",
+        "signs and machines",
         "the culture of narcissism"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "gender_identity": {
       "id": "gender_identity",
@@ -38995,14 +39051,16 @@
       "book_claims": {
         "bronze age mindset": 1,
         "michael-levin-major-talks": 1,
-        "mystery teachings from the living earth": 1
+        "mystery teachings from the living earth": 1,
+        "parables for the virtual": 1
       },
       "books": [
         "bronze age mindset",
         "michael-levin-major-talks",
-        "mystery teachings from the living earth"
+        "mystery teachings from the living earth",
+        "parables for the virtual"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "dualism": {
       "id": "dualism",
@@ -39663,14 +39721,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "rhythmanalysis": 1,
         "ride the tiger": 1,
         "transcendental magic": 1
       },
       "books": [
+        "rhythmanalysis",
         "ride the tiger",
         "transcendental magic"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "hermetic_cosmology": {
       "id": "hermetic_cosmology",
@@ -42157,14 +42217,16 @@
       "book_claims": {
         "art of memory": 1,
         "lacan seminars i": 1,
-        "language machines": 1
+        "language machines": 1,
+        "rhythmanalysis": 3
       },
       "books": [
         "art of memory",
         "lacan seminars i",
-        "language machines"
+        "language machines",
+        "rhythmanalysis"
       ],
-      "claim_count": 3
+      "claim_count": 6
     },
     "simulation_theory": {
       "id": "simulation_theory",
@@ -44047,16 +44109,18 @@
       "book_claims": {
         "lacan seminars i": 1,
         "on the aesthetic education of man": 2,
+        "parables for the virtual": 2,
         "ride the tiger": 1,
         "the world as will and representation vol 2": 1
       },
       "books": [
         "lacan seminars i",
         "on the aesthetic education of man",
+        "parables for the virtual",
         "ride the tiger",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "body_image": {
       "id": "body_image",
@@ -45082,13 +45146,15 @@
       "related": [],
       "book_claims": {
         "horror of philosophy 3": 1,
+        "rhythmanalysis": 1,
         "sexual personae": 1
       },
       "books": [
         "horror of philosophy 3",
+        "rhythmanalysis",
         "sexual personae"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "gothic_literature": {
       "id": "gothic_literature",
@@ -45450,13 +45516,15 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
-        "confessions": 3
+        "confessions": 3,
+        "rhythmanalysis": 2
       },
       "books": [
         "beelzebubs tales",
-        "confessions"
+        "confessions",
+        "rhythmanalysis"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "sexual_ethics": {
       "id": "sexual_ethics",
@@ -46992,13 +47060,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 9,
+        "parables for the virtual": 1,
         "the sickness unto death": 1
       },
       "books": [
         "introduction-to-christianity",
+        "parables for the virtual",
         "the sickness unto death"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "dialectical_synthesis": {
       "id": "dialectical_synthesis",
@@ -48180,13 +48250,15 @@
       "related": [],
       "book_claims": {
         "digital cash": 1,
-        "language machines": 1
+        "language machines": 1,
+        "parables for the virtual": 1
       },
       "books": [
         "digital cash",
-        "language machines"
+        "language machines",
+        "parables for the virtual"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "individual_sovereignty": {
       "id": "individual_sovereignty",
@@ -50039,14 +50111,16 @@
       "book_claims": {
         "alchemy of air": 3,
         "bronze age mindset": 1,
-        "digital cash": 1
+        "digital cash": 1,
+        "signs and machines": 1
       },
       "books": [
         "alchemy of air",
         "bronze age mindset",
-        "digital cash"
+        "digital cash",
+        "signs and machines"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "risk_tolerance": {
       "id": "risk_tolerance",
@@ -50808,13 +50882,15 @@
       "related": [],
       "book_claims": {
         "horror of philosophy 3": 1,
+        "parables for the virtual": 1,
         "the pattern on the stone": 1
       },
       "books": [
         "horror of philosophy 3",
+        "parables for the virtual",
         "the pattern on the stone"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "self_presentation": {
       "id": "self_presentation",
@@ -53272,13 +53348,15 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 1,
+        "rhythmanalysis": 1,
         "unqualified reservations": 2
       },
       "books": [
         "alchemy of air",
+        "rhythmanalysis",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "energy_density": {
       "id": "energy_density",
@@ -53368,15 +53446,17 @@
       "related": [],
       "book_claims": {
         "kelly more than my share of it all": 1,
+        "rhythmanalysis": 1,
         "structures": 1,
         "unqualified reservations": 1
       },
       "books": [
         "kelly more than my share of it all",
+        "rhythmanalysis",
         "structures",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "public_safety": {
       "id": "public_safety",
@@ -53598,15 +53678,17 @@
       "related": [],
       "book_claims": {
         "only the paranoid survive": 1,
+        "signs and machines": 1,
         "ultralearning": 1,
         "zero to one": 1
       },
       "books": [
         "only the paranoid survive",
+        "signs and machines",
         "ultralearning",
         "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "comparative_advantage": {
       "id": "comparative_advantage",
@@ -54477,14 +54559,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "parables for the virtual": 1,
         "the art of doing science and engineering": 1,
         "the pattern on the stone": 1
       },
       "books": [
+        "parables for the virtual",
         "the art of doing science and engineering",
         "the pattern on the stone"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "data_compression": {
       "id": "data_compression",
@@ -55752,13 +55836,15 @@
       "related": [],
       "book_claims": {
         "flatline constructs": 1,
-        "lacan seminars i": 1
+        "lacan seminars i": 1,
+        "parables for the virtual": 1
       },
       "books": [
         "flatline constructs",
-        "lacan seminars i"
+        "lacan seminars i",
+        "parables for the virtual"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "media_theory": {
       "id": "media_theory",
@@ -55768,13 +55854,15 @@
       "related": [],
       "book_claims": {
         "flatline constructs": 9,
-        "language machines": 1
+        "language machines": 1,
+        "parables for the virtual": 1
       },
       "books": [
         "flatline constructs",
-        "language machines"
+        "language machines",
+        "parables for the virtual"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "hyperreality": {
       "id": "hyperreality",
@@ -56247,16 +56335,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "signs and machines": 1,
         "the ascent of money": 1,
         "the world as will and representation": 1,
         "the world as will and representation vol 2": 2
       },
       "books": [
+        "signs and machines",
         "the ascent of money",
         "the world as will and representation",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "aesthetic_education": {
       "id": "aesthetic_education",
@@ -56654,13 +56744,15 @@
       "related": [],
       "book_claims": {
         "flatline constructs": 2,
+        "parables for the virtual": 2,
         "thus spake zarathustra": 2
       },
       "books": [
         "flatline constructs",
+        "parables for the virtual",
         "thus spake zarathustra"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "unity_of_will": {
       "id": "unity_of_will",
@@ -57109,6 +57201,778 @@
         "the world as will and representation vol 2"
       ],
       "claim_count": 6
+    },
+    "catalysis": {
+      "id": "catalysis",
+      "label": "Catalysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "alchemy of air": 3,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "alchemy of air",
+        "parables for the virtual"
+      ],
+      "claim_count": 4
+    },
+    "marxist_critique": {
+      "id": "marxist_critique",
+      "label": "Marxist Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beauty": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "beauty",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "color_perception": {
+      "id": "color_perception",
+      "label": "Color Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beelzebubs tales": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "beelzebubs tales",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "false_consciousness": {
+      "id": "false_consciousness",
+      "label": "False Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beelzebubs tales": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "beelzebubs tales",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "value_theory": {
+      "id": "value_theory",
+      "label": "Value Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beyond good and evil": 3,
+        "signs and machines": 1
+      },
+      "books": [
+        "beyond good and evil",
+        "signs and machines"
+      ],
+      "claim_count": 4
+    },
+    "critique_of_rationalism": {
+      "id": "critique_of_rationalism",
+      "label": "Critique Of Rationalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beyond good and evil": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "beyond good and evil",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "social_construction": {
+      "id": "social_construction",
+      "label": "Social Construction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "boom": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "boom",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "temporal_analysis": {
+      "id": "temporal_analysis",
+      "label": "Temporal Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "braudel-vol1": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "braudel-vol1",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "social_determination": {
+      "id": "social_determination",
+      "label": "Social Determination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "braudel-vol1": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "braudel-vol1",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "hypertext": {
+      "id": "hypertext",
+      "label": "Hypertext",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "digital cash": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "digital cash",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "machinic_assemblage": {
+      "id": "machinic_assemblage",
+      "label": "Machinic Assemblage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "fanged noumena": 1,
+        "signs and machines": 1
+      },
+      "books": [
+        "fanged noumena",
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "technological_evolution": {
+      "id": "technological_evolution",
+      "label": "Technological Evolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "fanged noumena": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "fanged noumena",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "affect_theory": {
+      "id": "affect_theory",
+      "label": "Affect Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "flatline constructs": 1,
+        "parables for the virtual": 1,
+        "signs and machines": 2
+      },
+      "books": [
+        "flatline constructs",
+        "parables for the virtual",
+        "signs and machines"
+      ],
+      "claim_count": 4
+    },
+    "feedback": {
+      "id": "feedback",
+      "label": "Feedback",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "flatline constructs": 3,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "flatline constructs",
+        "parables for the virtual"
+      ],
+      "claim_count": 4
+    },
+    "intellectual_genealogy": {
+      "id": "intellectual_genealogy",
+      "label": "Intellectual Genealogy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "giordano bruno": 1,
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "giordano bruno",
+        "rhythmanalysis"
+      ],
+      "claim_count": 3
+    },
+    "constructivism": {
+      "id": "constructivism",
+      "label": "Constructivism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "introduction-to-christianity",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "resistance": {
+      "id": "resistance",
+      "label": "Resistance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "lacan seminars i": 3,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "lacan seminars i",
+        "rhythmanalysis"
+      ],
+      "claim_count": 4
+    },
+    "temporal_recursion": {
+      "id": "temporal_recursion",
+      "label": "Temporal Recursion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "land greer 2026": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "land greer 2026",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "simulacrum": {
+      "id": "simulacrum",
+      "label": "Simulacrum",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "language machines": 2,
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "language machines",
+        "rhythmanalysis"
+      ],
+      "claim_count": 4
+    },
+    "performativity": {
+      "id": "performativity",
+      "label": "Performativity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "language machines": 1,
+        "parables for the virtual": 1,
+        "signs and machines": 1
+      },
+      "books": [
+        "language machines",
+        "parables for the virtual",
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "media_critique": {
+      "id": "media_critique",
+      "label": "Media Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "meetings with remarkable men": 1,
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "meetings with remarkable men",
+        "rhythmanalysis"
+      ],
+      "claim_count": 3
+    },
+    "embodied_knowledge": {
+      "id": "embodied_knowledge",
+      "label": "Embodied Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "meetings with remarkable men": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "meetings with remarkable men",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "autopoiesis": {
+      "id": "autopoiesis",
+      "label": "Autopoiesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "michael-levin-major-talks": 1,
+        "signs and machines": 1
+      },
+      "books": [
+        "michael-levin-major-talks",
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "self_reference": {
+      "id": "self_reference",
+      "label": "Self Reference",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mirror worlds": 1,
+        "signs and machines": 1
+      },
+      "books": [
+        "mirror worlds",
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "topology": {
+      "id": "topology",
+      "label": "Topology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "nick land explains the numogram": 1,
+        "parables for the virtual": 2
+      },
+      "books": [
+        "nick land explains the numogram",
+        "parables for the virtual"
+      ],
+      "claim_count": 3
+    },
+    "sensory_perception": {
+      "id": "sensory_perception",
+      "label": "Sensory Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orality-and-literacy": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "orality-and-literacy",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "cultural_studies": {
+      "id": "cultural_studies",
+      "label": "Cultural Studies",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orality-and-literacy": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "orality-and-literacy",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "critical_theory": {
+      "id": "critical_theory",
+      "label": "Critical Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orality-and-literacy": 2,
+        "signs and machines": 1
+      },
+      "books": [
+        "orality-and-literacy",
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "logocentrism": {
+      "id": "logocentrism",
+      "label": "Logocentrism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orality-and-literacy": 1,
+        "signs and machines": 1
+      },
+      "books": [
+        "orality-and-literacy",
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "media_technology": {
+      "id": "media_technology",
+      "label": "Media Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orality-and-literacy": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "orality-and-literacy",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "revolutionary_change": {
+      "id": "revolutionary_change",
+      "label": "Revolutionary Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "presence in the modern world": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "presence in the modern world",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "spatial_orientation": {
+      "id": "spatial_orientation",
+      "label": "Spatial Orientation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "revolt-against-the-modern-world": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 2
+    },
+    "ideology_critique": {
+      "id": "ideology_critique",
+      "label": "Ideology Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "ride the tiger": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "ride the tiger"
+      ],
+      "claim_count": 2
+    },
+    "gender_power": {
+      "id": "gender_power",
+      "label": "Gender Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "sexual personae": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "sexual personae"
+      ],
+      "claim_count": 2
+    },
+    "cultural_determinism": {
+      "id": "cultural_determinism",
+      "label": "Cultural Determinism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "the closing of the american mind": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "the closing of the american mind"
+      ],
+      "claim_count": 2
+    },
+    "citizenship": {
+      "id": "citizenship",
+      "label": "Citizenship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1,
+        "the culture of narcissism": 1
+      },
+      "books": [
+        "rhythmanalysis",
+        "the culture of narcissism"
+      ],
+      "claim_count": 2
+    },
+    "social_change": {
+      "id": "social_change",
+      "label": "Social Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "the culture of narcissism": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "the culture of narcissism"
+      ],
+      "claim_count": 2
+    },
+    "cartography": {
+      "id": "cartography",
+      "label": "Cartography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1,
+        "the discarded image": 1
+      },
+      "books": [
+        "signs and machines",
+        "the discarded image"
+      ],
+      "claim_count": 2
+    },
+    "political_ecology": {
+      "id": "political_ecology",
+      "label": "Political Ecology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "the power of ritual in prehistory": 2
+      },
+      "books": [
+        "parables for the virtual",
+        "the power of ritual in prehistory"
+      ],
+      "claim_count": 3
+    },
+    "recognition_theory": {
+      "id": "recognition_theory",
+      "label": "Recognition Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1,
+        "the soul of the world": 1
+      },
+      "books": [
+        "signs and machines",
+        "the soul of the world"
+      ],
+      "claim_count": 2
+    },
+    "subject_object_relation": {
+      "id": "subject_object_relation",
+      "label": "Subject Object Relation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1,
+        "the world as will and representation": 2
+      },
+      "books": [
+        "rhythmanalysis",
+        "the world as will and representation"
+      ],
+      "claim_count": 3
+    },
+    "visual_perception": {
+      "id": "visual_perception",
+      "label": "Visual Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "the world as will and representation vol 2": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "the world as will and representation vol 2"
+      ],
+      "claim_count": 2
+    },
+    "urban_politics": {
+      "id": "urban_politics",
+      "label": "Urban Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1,
+        "through the eye of a needle": 2
+      },
+      "books": [
+        "signs and machines",
+        "through the eye of a needle"
+      ],
+      "claim_count": 3
+    },
+    "pastoral_power": {
+      "id": "pastoral_power",
+      "label": "Pastoral Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1,
+        "through the eye of a needle": 1
+      },
+      "books": [
+        "signs and machines",
+        "through the eye of a needle"
+      ],
+      "claim_count": 2
+    },
+    "social_democracy": {
+      "id": "social_democracy",
+      "label": "Social Democracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "signs and machines",
+        "unqualified reservations"
+      ],
+      "claim_count": 2
+    },
+    "singularity": {
+      "id": "singularity",
+      "label": "Singularity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2,
+        "zero to one": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "zero to one"
+      ],
+      "claim_count": 3
+    },
+    "repetition_and_difference": {
+      "id": "repetition_and_difference",
+      "label": "Repetition And Difference",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "parables for the virtual",
+        "rhythmanalysis"
+      ],
+      "claim_count": 3
+    },
+    "interdisciplinary_method": {
+      "id": "interdisciplinary_method",
+      "label": "Interdisciplinary Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1,
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
     },
     "slave_insurrection": {
       "id": "slave_insurrection",
@@ -65971,20 +66835,6 @@
         "alchemy of air"
       ],
       "claim_count": 1
-    },
-    "catalysis": {
-      "id": "catalysis",
-      "label": "Catalysis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "alchemy of air": 3
-      },
-      "books": [
-        "alchemy of air"
-      ],
-      "claim_count": 3
     },
     "research_and_development": {
       "id": "research_and_development",
@@ -78418,20 +79268,6 @@
       ],
       "claim_count": 1
     },
-    "marxist_critique": {
-      "id": "marxist_critique",
-      "label": "Marxist Critique",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beauty": 1
-      },
-      "books": [
-        "beauty"
-      ],
-      "claim_count": 1
-    },
     "aesthetic_ideology": {
       "id": "aesthetic_ideology",
       "label": "Aesthetic Ideology",
@@ -81890,20 +82726,6 @@
       ],
       "claim_count": 1
     },
-    "color_perception": {
-      "id": "color_perception",
-      "label": "Color Perception",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beelzebubs tales": 1
-      },
-      "books": [
-        "beelzebubs tales"
-      ],
-      "claim_count": 1
-    },
     "warfare_psychology": {
       "id": "warfare_psychology",
       "label": "Warfare Psychology",
@@ -82117,20 +82939,6 @@
     "psychic_abnormality": {
       "id": "psychic_abnormality",
       "label": "Psychic Abnormality",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beelzebubs tales": 1
-      },
-      "books": [
-        "beelzebubs tales"
-      ],
-      "claim_count": 1
-    },
-    "false_consciousness": {
-      "id": "false_consciousness",
-      "label": "False Consciousness",
       "description": "",
       "aliases": [],
       "related": [],
@@ -85236,20 +86044,6 @@
       ],
       "claim_count": 1
     },
-    "value_theory": {
-      "id": "value_theory",
-      "label": "Value Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beyond good and evil": 3
-      },
-      "books": [
-        "beyond good and evil"
-      ],
-      "claim_count": 3
-    },
     "philosophical_psychology": {
       "id": "philosophical_psychology",
       "label": "Philosophical Psychology",
@@ -85267,20 +86061,6 @@
     "unconscious_motivation": {
       "id": "unconscious_motivation",
       "label": "Unconscious Motivation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beyond good and evil": 1
-      },
-      "books": [
-        "beyond good and evil"
-      ],
-      "claim_count": 1
-    },
-    "critique_of_rationalism": {
-      "id": "critique_of_rationalism",
-      "label": "Critique Of Rationalism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -87339,20 +88119,6 @@
     "productive_channeling": {
       "id": "productive_channeling",
       "label": "Productive Channeling",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "boom": 1
-      },
-      "books": [
-        "boom"
-      ],
-      "claim_count": 1
-    },
-    "social_construction": {
-      "id": "social_construction",
-      "label": "Social Construction",
       "description": "",
       "aliases": [],
       "related": [],
@@ -89551,20 +90317,6 @@
     "agricultural_evolution": {
       "id": "agricultural_evolution",
       "label": "Agricultural Evolution",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "braudel-vol1": 1
-      },
-      "books": [
-        "braudel-vol1"
-      ],
-      "claim_count": 1
-    },
-    "temporal_analysis": {
-      "id": "temporal_analysis",
-      "label": "Temporal Analysis",
       "description": "",
       "aliases": [],
       "related": [],
@@ -92057,20 +92809,6 @@
     "agricultural_importance": {
       "id": "agricultural_importance",
       "label": "Agricultural Importance",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "braudel-vol1": 1
-      },
-      "books": [
-        "braudel-vol1"
-      ],
-      "claim_count": 1
-    },
-    "social_determination": {
-      "id": "social_determination",
-      "label": "Social Determination",
       "description": "",
       "aliases": [],
       "related": [],
@@ -108115,20 +108853,6 @@
     "digital_reproduction": {
       "id": "digital_reproduction",
       "label": "Digital Reproduction",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "digital cash": 1
-      },
-      "books": [
-        "digital cash"
-      ],
-      "claim_count": 1
-    },
-    "hypertext": {
-      "id": "hypertext",
-      "label": "Hypertext",
       "description": "",
       "aliases": [],
       "related": [],
@@ -126088,20 +126812,6 @@
       ],
       "claim_count": 1
     },
-    "machinic_assemblage": {
-      "id": "machinic_assemblage",
-      "label": "Machinic Assemblage",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "fanged noumena": 1
-      },
-      "books": [
-        "fanged noumena"
-      ],
-      "claim_count": 1
-    },
     "virtual_actual_circuit": {
       "id": "virtual_actual_circuit",
       "label": "Virtual Actual Circuit",
@@ -129028,20 +129738,6 @@
       ],
       "claim_count": 1
     },
-    "technological_evolution": {
-      "id": "technological_evolution",
-      "label": "Technological Evolution",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "fanged noumena": 1
-      },
-      "books": [
-        "fanged noumena"
-      ],
-      "claim_count": 1
-    },
     "market_mechanics": {
       "id": "market_mechanics",
       "label": "Market Mechanics",
@@ -129532,20 +130228,6 @@
       ],
       "claim_count": 2
     },
-    "affect_theory": {
-      "id": "affect_theory",
-      "label": "Affect Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "flatline constructs": 1
-      },
-      "books": [
-        "flatline constructs"
-      ],
-      "claim_count": 1
-    },
     "intensity": {
       "id": "intensity",
       "label": "Intensity",
@@ -129563,20 +130245,6 @@
     "cybernetic_realism": {
       "id": "cybernetic_realism",
       "label": "Cybernetic Realism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "flatline constructs": 3
-      },
-      "books": [
-        "flatline constructs"
-      ],
-      "claim_count": 3
-    },
-    "feedback": {
-      "id": "feedback",
-      "label": "Feedback",
       "description": "",
       "aliases": [],
       "related": [],
@@ -133591,20 +134259,6 @@
         "giordano bruno"
       ],
       "claim_count": 3
-    },
-    "intellectual_genealogy": {
-      "id": "intellectual_genealogy",
-      "label": "Intellectual Genealogy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "giordano bruno": 1
-      },
-      "books": [
-        "giordano bruno"
-      ],
-      "claim_count": 1
     },
     "christian_hermetism": {
       "id": "christian_hermetism",
@@ -142065,20 +142719,6 @@
     "epistemological_shift": {
       "id": "epistemological_shift",
       "label": "Epistemological Shift",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 1
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 1
-    },
-    "constructivism": {
-      "id": "constructivism",
-      "label": "Constructivism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -154522,20 +155162,6 @@
       ],
       "claim_count": 1
     },
-    "resistance": {
-      "id": "resistance",
-      "label": "Resistance",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "lacan seminars i": 3
-      },
-      "books": [
-        "lacan seminars i"
-      ],
-      "claim_count": 3
-    },
     "pathogenic_nucleus": {
       "id": "pathogenic_nucleus",
       "label": "Pathogenic Nucleus",
@@ -156384,20 +157010,6 @@
       ],
       "claim_count": 1
     },
-    "temporal_recursion": {
-      "id": "temporal_recursion",
-      "label": "Temporal Recursion",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "land greer 2026": 1
-      },
-      "books": [
-        "land greer 2026"
-      ],
-      "claim_count": 1
-    },
     "conspiratorial_organization": {
       "id": "conspiratorial_organization",
       "label": "Conspiratorial Organization",
@@ -157084,20 +157696,6 @@
       ],
       "claim_count": 1
     },
-    "simulacrum": {
-      "id": "simulacrum",
-      "label": "Simulacrum",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "language machines": 2
-      },
-      "books": [
-        "language machines"
-      ],
-      "claim_count": 2
-    },
     "neural_network_history": {
       "id": "neural_network_history",
       "label": "Neural Network History",
@@ -157437,20 +158035,6 @@
     "generativity": {
       "id": "generativity",
       "label": "Generativity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "language machines": 1
-      },
-      "books": [
-        "language machines"
-      ],
-      "claim_count": 1
-    },
-    "performativity": {
-      "id": "performativity",
-      "label": "Performativity",
       "description": "",
       "aliases": [],
       "related": [],
@@ -159912,20 +160496,6 @@
       ],
       "claim_count": 1
     },
-    "media_critique": {
-      "id": "media_critique",
-      "label": "Media Critique",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "meetings with remarkable men": 1
-      },
-      "books": [
-        "meetings with remarkable men"
-      ],
-      "claim_count": 1
-    },
     "genuine_knowledge": {
       "id": "genuine_knowledge",
       "label": "Genuine Knowledge",
@@ -160517,20 +161087,6 @@
     "sacred_dance": {
       "id": "sacred_dance",
       "label": "Sacred Dance",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "meetings with remarkable men": 1
-      },
-      "books": [
-        "meetings with remarkable men"
-      ],
-      "claim_count": 1
-    },
-    "embodied_knowledge": {
-      "id": "embodied_knowledge",
-      "label": "Embodied Knowledge",
       "description": "",
       "aliases": [],
       "related": [],
@@ -163804,20 +164360,6 @@
       ],
       "claim_count": 1
     },
-    "autopoiesis": {
-      "id": "autopoiesis",
-      "label": "Autopoiesis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "michael-levin-major-talks": 1
-      },
-      "books": [
-        "michael-levin-major-talks"
-      ],
-      "claim_count": 1
-    },
     "persuadability_spectrum": {
       "id": "persuadability_spectrum",
       "label": "Persuadability Spectrum",
@@ -165767,20 +166309,6 @@
     "software_modularity": {
       "id": "software_modularity",
       "label": "Software Modularity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "mirror worlds": 1
-      },
-      "books": [
-        "mirror worlds"
-      ],
-      "claim_count": 1
-    },
-    "self_reference": {
-      "id": "self_reference",
-      "label": "Self Reference",
       "description": "",
       "aliases": [],
       "related": [],
@@ -167783,20 +168311,6 @@
     "binary_systems": {
       "id": "binary_systems",
       "label": "Binary Systems",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "nick land explains the numogram": 1
-      },
-      "books": [
-        "nick land explains the numogram"
-      ],
-      "claim_count": 1
-    },
-    "topology": {
-      "id": "topology",
-      "label": "Topology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -187996,20 +188510,6 @@
       ],
       "claim_count": 1
     },
-    "sensory_perception": {
-      "id": "sensory_perception",
-      "label": "Sensory Perception",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orality-and-literacy": 1
-      },
-      "books": [
-        "orality-and-literacy"
-      ],
-      "claim_count": 1
-    },
     "sound_power": {
       "id": "sound_power",
       "label": "Sound Power",
@@ -192126,20 +192626,6 @@
       ],
       "claim_count": 1
     },
-    "cultural_studies": {
-      "id": "cultural_studies",
-      "label": "Cultural Studies",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orality-and-literacy": 1
-      },
-      "books": [
-        "orality-and-literacy"
-      ],
-      "claim_count": 1
-    },
     "oral_residues": {
       "id": "oral_residues",
       "label": "Oral Residues",
@@ -192167,20 +192653,6 @@
         "orality-and-literacy"
       ],
       "claim_count": 1
-    },
-    "critical_theory": {
-      "id": "critical_theory",
-      "label": "Critical Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orality-and-literacy": 2
-      },
-      "books": [
-        "orality-and-literacy"
-      ],
-      "claim_count": 2
     },
     "structural_anthropology": {
       "id": "structural_anthropology",
@@ -192255,20 +192727,6 @@
     "textual_rigidity": {
       "id": "textual_rigidity",
       "label": "Textual Rigidity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orality-and-literacy": 1
-      },
-      "books": [
-        "orality-and-literacy"
-      ],
-      "claim_count": 1
-    },
-    "logocentrism": {
-      "id": "logocentrism",
-      "label": "Logocentrism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -192381,20 +192839,6 @@
     "theoretical_differences": {
       "id": "theoretical_differences",
       "label": "Theoretical Differences",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orality-and-literacy": 1
-      },
-      "books": [
-        "orality-and-literacy"
-      ],
-      "claim_count": 1
-    },
-    "media_technology": {
-      "id": "media_technology",
-      "label": "Media Technology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -197121,6 +197565,1882 @@
       },
       "books": [
         "orthodoxy and the religion of the future"
+      ],
+      "claim_count": 1
+    },
+    "positionality": {
+      "id": "positionality",
+      "label": "Positionality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "ideological_interpellation": {
+      "id": "ideological_interpellation",
+      "label": "Ideological Interpellation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "process_philosophy": {
+      "id": "process_philosophy",
+      "label": "Process Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "ontology_of_movement": {
+      "id": "ontology_of_movement",
+      "label": "Ontology Of Movement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "temporal_emergence": {
+      "id": "temporal_emergence",
+      "label": "Temporal Emergence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "incorporeal_materialism": {
+      "id": "incorporeal_materialism",
+      "label": "Incorporeal Materialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "ontological_difference": {
+      "id": "ontological_difference",
+      "label": "Ontological Difference",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtuality": {
+      "id": "virtuality",
+      "label": "Virtuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "ontogenesis": {
+      "id": "ontogenesis",
+      "label": "Ontogenesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "nature_culture_continuum": {
+      "id": "nature_culture_continuum",
+      "label": "Nature Culture Continuum",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "processual_ontology": {
+      "id": "processual_ontology",
+      "label": "Processual Ontology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "exemplary_method": {
+      "id": "exemplary_method",
+      "label": "Exemplary Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "conceptual_invention": {
+      "id": "conceptual_invention",
+      "label": "Conceptual Invention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affirmative_thought": {
+      "id": "affirmative_thought",
+      "label": "Affirmative Thought",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "experimental_writing": {
+      "id": "experimental_writing",
+      "label": "Experimental Writing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "concept_transfer": {
+      "id": "concept_transfer",
+      "label": "Concept Transfer",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "science_humanities_relation": {
+      "id": "science_humanities_relation",
+      "label": "Science Humanities Relation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affect_of_concepts": {
+      "id": "affect_of_concepts",
+      "label": "Affect Of Concepts",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "media_reception": {
+      "id": "media_reception",
+      "label": "Media Reception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "autonomic_response": {
+      "id": "autonomic_response",
+      "label": "Autonomic Response",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "intensity_vs_qualification": {
+      "id": "intensity_vs_qualification",
+      "label": "Intensity Vs Qualification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affect_emotion_distinction": {
+      "id": "affect_emotion_distinction",
+      "label": "Affect Emotion Distinction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "asignifying_intensity": {
+      "id": "asignifying_intensity",
+      "label": "Asignifying Intensity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "spinozist_ethics": {
+      "id": "spinozist_ethics",
+      "label": "Spinozist Ethics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "neuroscience_of_consciousness": {
+      "id": "neuroscience_of_consciousness",
+      "label": "Neuroscience Of Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "nonconscious_process": {
+      "id": "nonconscious_process",
+      "label": "Nonconscious Process",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affective_politics": {
+      "id": "affective_politics",
+      "label": "Affective Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "postmodern_power": {
+      "id": "postmodern_power",
+      "label": "Postmodern Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "virtual_in_politics": {
+      "id": "virtual_in_politics",
+      "label": "Virtual In Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "media_and_affect": {
+      "id": "media_and_affect",
+      "label": "Media And Affect",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "preindividual_field": {
+      "id": "preindividual_field",
+      "label": "Preindividual Field",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtual_actual_relation": {
+      "id": "virtual_actual_relation",
+      "label": "Virtual Actual Relation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "synesthesia": {
+      "id": "synesthesia",
+      "label": "Synesthesia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 5
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 5
+    },
+    "potentialization": {
+      "id": "potentialization",
+      "label": "Potentialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "mirror_vision": {
+      "id": "mirror_vision",
+      "label": "Mirror Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "movement_vision": {
+      "id": "movement_vision",
+      "label": "Movement Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "embodied_identity": {
+      "id": "embodied_identity",
+      "label": "Embodied Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "embodied_event": {
+      "id": "embodied_event",
+      "label": "Embodied Event",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affective_contagion": {
+      "id": "affective_contagion",
+      "label": "Affective Contagion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "political_performance": {
+      "id": "political_performance",
+      "label": "Political Performance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "proprioception": {
+      "id": "proprioception",
+      "label": "Proprioception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "quasi_corporeality": {
+      "id": "quasi_corporeality",
+      "label": "Quasi Corporeality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "body_without_image": {
+      "id": "body_without_image",
+      "label": "Body Without Image",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtual_event": {
+      "id": "virtual_event",
+      "label": "Virtual Event",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "visceral_perception": {
+      "id": "visceral_perception",
+      "label": "Visceral Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "incorporeality": {
+      "id": "incorporeality",
+      "label": "Incorporeality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "political_economy_of_affect": {
+      "id": "political_economy_of_affect",
+      "label": "Political Economy Of Affect",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "media_power": {
+      "id": "media_power",
+      "label": "Media Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "liberalism_critique": {
+      "id": "liberalism_critique",
+      "label": "Liberalism Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "part_subject": {
+      "id": "part_subject",
+      "label": "Part Subject",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "force_field": {
+      "id": "force_field",
+      "label": "Force Field",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "collective_individuation": {
+      "id": "collective_individuation",
+      "label": "Collective Individuation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "style_as_variation": {
+      "id": "style_as_variation",
+      "label": "Style As Variation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "transcendence_and_immanence": {
+      "id": "transcendence_and_immanence",
+      "label": "Transcendence And Immanence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "regulation_and_emergence": {
+      "id": "regulation_and_emergence",
+      "label": "Regulation And Emergence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "media_transmission": {
+      "id": "media_transmission",
+      "label": "Media Transmission",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "event_transitivity": {
+      "id": "event_transitivity",
+      "label": "Event Transitivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "potentialization_and_containment": {
+      "id": "potentialization_and_containment",
+      "label": "Potentialization And Containment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "capitalism_and_control": {
+      "id": "capitalism_and_control",
+      "label": "Capitalism And Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "modulation_of_power": {
+      "id": "modulation_of_power",
+      "label": "Modulation Of Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "belonging_and_becoming": {
+      "id": "belonging_and_becoming",
+      "label": "Belonging And Becoming",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "perception_action_continuum": {
+      "id": "perception_action_continuum",
+      "label": "Perception Action Continuum",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "intelligence": {
+      "id": "intelligence",
+      "label": "Intelligence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "sensation": {
+      "id": "sensation",
+      "label": "Sensation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "potential_and_actuality": {
+      "id": "potential_and_actuality",
+      "label": "Potential And Actuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "body_art": {
+      "id": "body_art",
+      "label": "Body Art",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "suspension_of_function": {
+      "id": "suspension_of_function",
+      "label": "Suspension Of Function",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "operative_reason": {
+      "id": "operative_reason",
+      "label": "Operative Reason",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "negentropic_induction": {
+      "id": "negentropic_induction",
+      "label": "Negentropic Induction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "chaos_theory": {
+      "id": "chaos_theory",
+      "label": "Chaos Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "minor_science": {
+      "id": "minor_science",
+      "label": "Minor Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "cyborg_performance": {
+      "id": "cyborg_performance",
+      "label": "Cyborg Performance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "collective_sensation": {
+      "id": "collective_sensation",
+      "label": "Collective Sensation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "transduction": {
+      "id": "transduction",
+      "label": "Transduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "networked_body": {
+      "id": "networked_body",
+      "label": "Networked Body",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "collective_evolution": {
+      "id": "collective_evolution",
+      "label": "Collective Evolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "desire_and_becoming": {
+      "id": "desire_and_becoming",
+      "label": "Desire And Becoming",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "networked_subjectivity": {
+      "id": "networked_subjectivity",
+      "label": "Networked Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtual_image": {
+      "id": "virtual_image",
+      "label": "Virtual Image",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "intuition": {
+      "id": "intuition",
+      "label": "Intuition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "analog_process": {
+      "id": "analog_process",
+      "label": "Analog Process",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "possibilistic_logic": {
+      "id": "possibilistic_logic",
+      "label": "Possibilistic Logic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "reading_as_analog": {
+      "id": "reading_as_analog",
+      "label": "Reading As Analog",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "sensation_and_thought": {
+      "id": "sensation_and_thought",
+      "label": "Sensation And Thought",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "analog_digital_cooperation": {
+      "id": "analog_digital_cooperation",
+      "label": "Analog Digital Cooperation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtual_center": {
+      "id": "virtual_center",
+      "label": "Virtual Center",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "ganzfeld_experiment": {
+      "id": "ganzfeld_experiment",
+      "label": "Ganzfeld Experiment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "phase_space": {
+      "id": "phase_space",
+      "label": "Phase Space",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtual_attractor": {
+      "id": "virtual_attractor",
+      "label": "Virtual Attractor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "limit_field": {
+      "id": "limit_field",
+      "label": "Limit Field",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "intermodal_perception": {
+      "id": "intermodal_perception",
+      "label": "Intermodal Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 2
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "perceptual_constancy": {
+      "id": "perceptual_constancy",
+      "label": "Perceptual Constancy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "habit_and_perception": {
+      "id": "habit_and_perception",
+      "label": "Habit And Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "hallucination_as_real": {
+      "id": "hallucination_as_real",
+      "label": "Hallucination As Real",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "chaotic_emergence": {
+      "id": "chaotic_emergence",
+      "label": "Chaotic Emergence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "virtual_limit": {
+      "id": "virtual_limit",
+      "label": "Virtual Limit",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "perception_hallucination": {
+      "id": "perception_hallucination",
+      "label": "Perception Hallucination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "relational_whole": {
+      "id": "relational_whole",
+      "label": "Relational Whole",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "gestalt_psychology": {
+      "id": "gestalt_psychology",
+      "label": "Gestalt Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "experiential_confound": {
+      "id": "experiential_confound",
+      "label": "Experiential Confound",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "hypostasis": {
+      "id": "hypostasis",
+      "label": "Hypostasis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "empirical_reduction": {
+      "id": "empirical_reduction",
+      "label": "Empirical Reduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "color_linguistics": {
+      "id": "color_linguistics",
+      "label": "Color Linguistics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "cross_cultural_perception": {
+      "id": "cross_cultural_perception",
+      "label": "Cross Cultural Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "emergence_of_abstraction": {
+      "id": "emergence_of_abstraction",
+      "label": "Emergence Of Abstraction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "art_as_catalysis": {
+      "id": "art_as_catalysis",
+      "label": "Art As Catalysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "singular_expression": {
+      "id": "singular_expression",
+      "label": "Singular Expression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "composition_vs_construction": {
+      "id": "composition_vs_construction",
+      "label": "Composition Vs Construction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "dead_reckoning": {
+      "id": "dead_reckoning",
+      "label": "Dead Reckoning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "hallucination_as_norm": {
+      "id": "hallucination_as_norm",
+      "label": "Hallucination As Norm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "biogram": {
+      "id": "biogram",
+      "label": "Biogram",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "mnemonic_perception": {
+      "id": "mnemonic_perception",
+      "label": "Mnemonic Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "recursive_duration": {
+      "id": "recursive_duration",
+      "label": "Recursive Duration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "nonconscious_perception": {
+      "id": "nonconscious_perception",
+      "label": "Nonconscious Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "feedback_of_higher_forms": {
+      "id": "feedback_of_higher_forms",
+      "label": "Feedback Of Higher Forms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "topological_architecture": {
+      "id": "topological_architecture",
+      "label": "Topological Architecture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "body_as_membrane": {
+      "id": "body_as_membrane",
+      "label": "Body As Membrane",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "non_euclidean_space": {
+      "id": "non_euclidean_space",
+      "label": "Non Euclidean Space",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "architectural_modulation": {
+      "id": "architectural_modulation",
+      "label": "Architectural Modulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "color_memory": {
+      "id": "color_memory",
+      "label": "Color Memory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affect_and_emotion": {
+      "id": "affect_and_emotion",
+      "label": "Affect And Emotion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "social_emergence_of_subjectivity": {
+      "id": "social_emergence_of_subjectivity",
+      "label": "Social Emergence Of Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "affect_as_world_glue": {
+      "id": "affect_as_world_glue",
+      "label": "Affect As World Glue",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "trans_situational_affect": {
+      "id": "trans_situational_affect",
+      "label": "Trans Situational Affect",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "emotion_vs_affect": {
+      "id": "emotion_vs_affect",
+      "label": "Emotion Vs Affect",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "lived_belief": {
+      "id": "lived_belief",
+      "label": "Lived Belief",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "quasi_causality": {
+      "id": "quasi_causality",
+      "label": "Quasi Causality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "potential_vs_possible": {
+      "id": "potential_vs_possible",
+      "label": "Potential Vs Possible",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "radical_empiricism": {
+      "id": "radical_empiricism",
+      "label": "Radical Empiricism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "participatory_knowledge": {
+      "id": "participatory_knowledge",
+      "label": "Participatory Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "relation_as_given": {
+      "id": "relation_as_given",
+      "label": "Relation As Given",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "vagueness": {
+      "id": "vagueness",
+      "label": "Vagueness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "process_lines_of_knowledge": {
+      "id": "process_lines_of_knowledge",
+      "label": "Process Lines Of Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
+      ],
+      "claim_count": 1
+    },
+    "philosophy_of_nature": {
+      "id": "philosophy_of_nature",
+      "label": "Philosophy Of Nature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 1
+      },
+      "books": [
+        "parables for the virtual"
       ],
       "claim_count": 1
     },
@@ -203637,20 +205957,6 @@
     "church_world_relationship": {
       "id": "church_world_relationship",
       "label": "Church World Relationship",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "presence in the modern world": 1
-      },
-      "books": [
-        "presence in the modern world"
-      ],
-      "claim_count": 1
-    },
-    "revolutionary_change": {
-      "id": "revolutionary_change",
-      "label": "Revolutionary Change",
       "description": "",
       "aliases": [],
       "related": [],
@@ -212720,20 +215026,6 @@
       ],
       "claim_count": 2
     },
-    "spatial_orientation": {
-      "id": "spatial_orientation",
-      "label": "Spatial Orientation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 1
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 1
-    },
     "cardinal_directions": {
       "id": "cardinal_directions",
       "label": "Cardinal Directions",
@@ -220294,6 +222586,1126 @@
       ],
       "claim_count": 1
     },
+    "spatial_theory": {
+      "id": "spatial_theory",
+      "label": "Spatial Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "everyday_life": {
+      "id": "everyday_life",
+      "label": "Everyday Life",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 5
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 5
+    },
+    "non_linear_temporality": {
+      "id": "non_linear_temporality",
+      "label": "Non Linear Temporality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "musical_theory": {
+      "id": "musical_theory",
+      "label": "Musical Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "measure_and_rhythm": {
+      "id": "measure_and_rhythm",
+      "label": "Measure And Rhythm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "aesthetic_temporality": {
+      "id": "aesthetic_temporality",
+      "label": "Aesthetic Temporality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "capitalist_temporality": {
+      "id": "capitalist_temporality",
+      "label": "Capitalist Temporality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 3
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 3
+    },
+    "rhythmic_analysis": {
+      "id": "rhythmic_analysis",
+      "label": "Rhythmic Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "commodity_form": {
+      "id": "commodity_form",
+      "label": "Commodity Form",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "social_space": {
+      "id": "social_space",
+      "label": "Social Space",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "triadic_analysis": {
+      "id": "triadic_analysis",
+      "label": "Triadic Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "polyrhythmia": {
+      "id": "polyrhythmia",
+      "label": "Polyrhythmia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 4
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 4
+    },
+    "health_and_pathology": {
+      "id": "health_and_pathology",
+      "label": "Health And Pathology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "bodily_rhythms": {
+      "id": "bodily_rhythms",
+      "label": "Bodily Rhythms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 3
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 3
+    },
+    "rationality_and_lived_experience": {
+      "id": "rationality_and_lived_experience",
+      "label": "Rationality And Lived Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "historical_change": {
+      "id": "historical_change",
+      "label": "Historical Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "class_struggle": {
+      "id": "class_struggle",
+      "label": "Class Struggle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "rhythmic_power": {
+      "id": "rhythmic_power",
+      "label": "Rhythmic Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "social_rhythms": {
+      "id": "social_rhythms",
+      "label": "Social Rhythms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "rhythm_typology": {
+      "id": "rhythm_typology",
+      "label": "Rhythm Typology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "power_and_domination": {
+      "id": "power_and_domination",
+      "label": "Power And Domination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "transdisciplinarity": {
+      "id": "transdisciplinarity",
+      "label": "Transdisciplinarity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "perceptual_training": {
+      "id": "perceptual_training",
+      "label": "Perceptual Training",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "eurhythmia": {
+      "id": "eurhythmia",
+      "label": "Eurhythmia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "presence_and_representation": {
+      "id": "presence_and_representation",
+      "label": "Presence And Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "image_critique": {
+      "id": "image_critique",
+      "label": "Image Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "poetic_knowledge": {
+      "id": "poetic_knowledge",
+      "label": "Poetic Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "revolutionary_practice": {
+      "id": "revolutionary_practice",
+      "label": "Revolutionary Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "urban_rhythms": {
+      "id": "urban_rhythms",
+      "label": "Urban Rhythms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "street_life": {
+      "id": "street_life",
+      "label": "Street Life",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "temporal_perception": {
+      "id": "temporal_perception",
+      "label": "Temporal Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "nature_and_rhythm": {
+      "id": "nature_and_rhythm",
+      "label": "Nature And Rhythm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "urban_governance": {
+      "id": "urban_governance",
+      "label": "Urban Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "spatial_politics": {
+      "id": "spatial_politics",
+      "label": "Spatial Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "memory_and_perception": {
+      "id": "memory_and_perception",
+      "label": "Memory And Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "observational_method": {
+      "id": "observational_method",
+      "label": "Observational Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "bodily_discipline": {
+      "id": "bodily_discipline",
+      "label": "Bodily Discipline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "bodily_dispossession": {
+      "id": "bodily_dispossession",
+      "label": "Bodily Dispossession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "arrhythmia": {
+      "id": "arrhythmia",
+      "label": "Arrhythmia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 3
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 3
+    },
+    "social_crisis": {
+      "id": "social_crisis",
+      "label": "Social Crisis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "gender_and_power": {
+      "id": "gender_and_power",
+      "label": "Gender And Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "bodily_politics": {
+      "id": "bodily_politics",
+      "label": "Bodily Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "commodity_information": {
+      "id": "commodity_information",
+      "label": "Commodity Information",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "temporal_fragmentation": {
+      "id": "temporal_fragmentation",
+      "label": "Temporal Fragmentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "dialogue_and_communication": {
+      "id": "dialogue_and_communication",
+      "label": "Dialogue And Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "media_and_language": {
+      "id": "media_and_language",
+      "label": "Media And Language",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "capitalist_destruction": {
+      "id": "capitalist_destruction",
+      "label": "Capitalist Destruction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "body_and_technology": {
+      "id": "body_and_technology",
+      "label": "Body And Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "semiotics_of_music": {
+      "id": "semiotics_of_music",
+      "label": "Semiotics Of Music",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "music_history": {
+      "id": "music_history",
+      "label": "Music History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "social_context_of_art": {
+      "id": "social_context_of_art",
+      "label": "Social Context Of Art",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "rhythm_and_autonomy": {
+      "id": "rhythm_and_autonomy",
+      "label": "Rhythm And Autonomy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "musical_notation": {
+      "id": "musical_notation",
+      "label": "Musical Notation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "codification_and_loss": {
+      "id": "codification_and_loss",
+      "label": "Codification And Loss",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "global_music": {
+      "id": "global_music",
+      "label": "Global Music",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "bodily_universals": {
+      "id": "bodily_universals",
+      "label": "Bodily Universals",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "rhythmic_control": {
+      "id": "rhythmic_control",
+      "label": "Rhythmic Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "mobilisation": {
+      "id": "mobilisation",
+      "label": "Mobilisation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "theory_and_practice": {
+      "id": "theory_and_practice",
+      "label": "Theory And Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "isorhythmia": {
+      "id": "isorhythmia",
+      "label": "Isorhythmia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "cyclical_and_linear_time": {
+      "id": "cyclical_and_linear_time",
+      "label": "Cyclical And Linear Time",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "measurement": {
+      "id": "measurement",
+      "label": "Measurement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "social_production_of_time": {
+      "id": "social_production_of_time",
+      "label": "Social Production Of Time",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "use_value_and_exchange_value": {
+      "id": "use_value_and_exchange_value",
+      "label": "Use Value And Exchange Value",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "definition_of_rhythm": {
+      "id": "definition_of_rhythm",
+      "label": "Definition Of Rhythm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "memory_and_repetition": {
+      "id": "memory_and_repetition",
+      "label": "Memory And Repetition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "embodied_perception": {
+      "id": "embodied_perception",
+      "label": "Embodied Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "scale_and_knowledge": {
+      "id": "scale_and_knowledge",
+      "label": "Scale And Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "human_measure": {
+      "id": "human_measure",
+      "label": "Human Measure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "urban_temporality": {
+      "id": "urban_temporality",
+      "label": "Urban Temporality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "solar_and_lunar_rhythms": {
+      "id": "solar_and_lunar_rhythms",
+      "label": "Solar And Lunar Rhythms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "urban_resistance": {
+      "id": "urban_resistance",
+      "label": "Urban Resistance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 2
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 2
+    },
+    "public_and_private": {
+      "id": "public_and_private",
+      "label": "Public And Private",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "urban_theatre": {
+      "id": "urban_theatre",
+      "label": "Urban Theatre",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "rhythm_of_self_and_other": {
+      "id": "rhythm_of_self_and_other",
+      "label": "Rhythm Of Self And Other",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "ritual_and_rhythm": {
+      "id": "ritual_and_rhythm",
+      "label": "Ritual And Rhythm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "sacred_and_profane": {
+      "id": "sacred_and_profane",
+      "label": "Sacred And Profane",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "urban_crisis": {
+      "id": "urban_crisis",
+      "label": "Urban Crisis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "alliance_and_conflict": {
+      "id": "alliance_and_conflict",
+      "label": "Alliance And Conflict",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
+    "tourism_and_identity": {
+      "id": "tourism_and_identity",
+      "label": "Tourism And Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "rhythmanalysis": 1
+      },
+      "books": [
+        "rhythmanalysis"
+      ],
+      "claim_count": 1
+    },
     "traditional_civilization": {
       "id": "traditional_civilization",
       "label": "Traditional Civilization",
@@ -220549,20 +223961,6 @@
     "socioeconomic_mythology": {
       "id": "socioeconomic_mythology",
       "label": "Socioeconomic Mythology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "ride the tiger": 1
-      },
-      "books": [
-        "ride the tiger"
-      ],
-      "claim_count": 1
-    },
-    "ideology_critique": {
-      "id": "ideology_critique",
-      "label": "Ideology Critique",
       "description": "",
       "aliases": [],
       "related": [],
@@ -224886,20 +228284,6 @@
       ],
       "claim_count": 11
     },
-    "gender_power": {
-      "id": "gender_power",
-      "label": "Gender Power",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "sexual personae": 1
-      },
-      "books": [
-        "sexual personae"
-      ],
-      "claim_count": 1
-    },
     "gender_transgression": {
       "id": "gender_transgression",
       "label": "Gender Transgression",
@@ -228005,6 +231389,1252 @@
       },
       "books": [
         "sexual personae"
+      ],
+      "claim_count": 1
+    },
+    "subjectivity_production": {
+      "id": "subjectivity_production",
+      "label": "Subjectivity Production",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "economic_recovery": {
+      "id": "economic_recovery",
+      "label": "Economic Recovery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "neoliberal_subjectivity": {
+      "id": "neoliberal_subjectivity",
+      "label": "Neoliberal Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "entrepreneurial_self": {
+      "id": "entrepreneurial_self",
+      "label": "Entrepreneurial Self",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "debt_subjectivity": {
+      "id": "debt_subjectivity",
+      "label": "Debt Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "social_subjection": {
+      "id": "social_subjection",
+      "label": "Social Subjection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "machinic_enslavement": {
+      "id": "machinic_enslavement",
+      "label": "Machinic Enslavement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 3
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "dividual": {
+      "id": "dividual",
+      "label": "Dividual",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "desubjectivation": {
+      "id": "desubjectivation",
+      "label": "Desubjectivation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 3
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "political_subjectivation": {
+      "id": "political_subjectivation",
+      "label": "Political Subjectivation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 6
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 6
+    },
+    "revolutionary_rupture": {
+      "id": "revolutionary_rupture",
+      "label": "Revolutionary Rupture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "micropolitics": {
+      "id": "micropolitics",
+      "label": "Micropolitics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "macropolitics": {
+      "id": "macropolitics",
+      "label": "Macropolitics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "non_discursive_subjectivity": {
+      "id": "non_discursive_subjectivity",
+      "label": "Non Discursive Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 3
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "existential_affirmation": {
+      "id": "existential_affirmation",
+      "label": "Existential Affirmation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "aesthetic_paradigm": {
+      "id": "aesthetic_paradigm",
+      "label": "Aesthetic Paradigm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "political_rupture": {
+      "id": "political_rupture",
+      "label": "Political Rupture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "governmentality": {
+      "id": "governmentality",
+      "label": "Governmentality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "individualization": {
+      "id": "individualization",
+      "label": "Individualization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "diagrammatic_functioning": {
+      "id": "diagrammatic_functioning",
+      "label": "Diagrammatic Functioning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "megamachine": {
+      "id": "megamachine",
+      "label": "Megamachine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "social_machine": {
+      "id": "social_machine",
+      "label": "Social Machine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "historical_materialism": {
+      "id": "historical_materialism",
+      "label": "Historical Materialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "asignifying_semiotics": {
+      "id": "asignifying_semiotics",
+      "label": "Asignifying Semiotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 3
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "signifying_semiotics": {
+      "id": "signifying_semiotics",
+      "label": "Signifying Semiotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "capital_as_semiotic_operator": {
+      "id": "capital_as_semiotic_operator",
+      "label": "Capital As Semiotic Operator",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "machinic_surplus_value": {
+      "id": "machinic_surplus_value",
+      "label": "Machinic Surplus Value",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "collective_assemblage": {
+      "id": "collective_assemblage",
+      "label": "Collective Assemblage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "immaterial_labor": {
+      "id": "immaterial_labor",
+      "label": "Immaterial Labor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "desire_as_production": {
+      "id": "desire_as_production",
+      "label": "Desire As Production",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "economy_of_possibles": {
+      "id": "economy_of_possibles",
+      "label": "Economy Of Possibles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "linguistic_turn": {
+      "id": "linguistic_turn",
+      "label": "Linguistic Turn",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "machine_centric_world": {
+      "id": "machine_centric_world",
+      "label": "Machine Centric World",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "proto_subjectivity": {
+      "id": "proto_subjectivity",
+      "label": "Proto Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "non_human_agency": {
+      "id": "non_human_agency",
+      "label": "Non Human Agency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "general_semiotics": {
+      "id": "general_semiotics",
+      "label": "General Semiotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "assemblage_theory": {
+      "id": "assemblage_theory",
+      "label": "Assemblage Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "national_language": {
+      "id": "national_language",
+      "label": "National Language",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "linguistic_standardization": {
+      "id": "linguistic_standardization",
+      "label": "Linguistic Standardization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "political_linguistics": {
+      "id": "political_linguistics",
+      "label": "Political Linguistics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "power_signs": {
+      "id": "power_signs",
+      "label": "Power Signs",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "everyday_life_enslavement": {
+      "id": "everyday_life_enslavement",
+      "label": "Everyday Life Enslavement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "unpaid_labor": {
+      "id": "unpaid_labor",
+      "label": "Unpaid Labor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "consumer_labor": {
+      "id": "consumer_labor",
+      "label": "Consumer Labor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "machinic_subjectivity": {
+      "id": "machinic_subjectivity",
+      "label": "Machinic Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "mimetic_rationality": {
+      "id": "mimetic_rationality",
+      "label": "Mimetic Rationality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "preverbal_subjectivity": {
+      "id": "preverbal_subjectivity",
+      "label": "Preverbal Subjectivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "non_discursive_experience": {
+      "id": "non_discursive_experience",
+      "label": "Non Discursive Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "cinematic_semiotics": {
+      "id": "cinematic_semiotics",
+      "label": "Cinematic Semiotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "cultural_industry": {
+      "id": "cultural_industry",
+      "label": "Cultural Industry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "personologization": {
+      "id": "personologization",
+      "label": "Personologization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "organizational_control": {
+      "id": "organizational_control",
+      "label": "Organizational Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "service_work": {
+      "id": "service_work",
+      "label": "Service Work",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "cultural_genocide": {
+      "id": "cultural_genocide",
+      "label": "Cultural Genocide",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "neocapitalism": {
+      "id": "neocapitalism",
+      "label": "Neocapitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "nonverbal_semiotics": {
+      "id": "nonverbal_semiotics",
+      "label": "Nonverbal Semiotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "machinic_animism": {
+      "id": "machinic_animism",
+      "label": "Machinic Animism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "problematization": {
+      "id": "problematization",
+      "label": "Problematization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "precarious_labor": {
+      "id": "precarious_labor",
+      "label": "Precarious Labor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "disciplinary_normalization": {
+      "id": "disciplinary_normalization",
+      "label": "Disciplinary Normalization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "media_subjection": {
+      "id": "media_subjection",
+      "label": "Media Subjection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "enunciation": {
+      "id": "enunciation",
+      "label": "Enunciation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 3
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 3
+    },
+    "semiotic_governmentality": {
+      "id": "semiotic_governmentality",
+      "label": "Semiotic Governmentality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "consensus_production": {
+      "id": "consensus_production",
+      "label": "Consensus Production",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "singular_enunciation": {
+      "id": "singular_enunciation",
+      "label": "Singular Enunciation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "dialogic_enunciation": {
+      "id": "dialogic_enunciation",
+      "label": "Dialogic Enunciation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "speech_genres": {
+      "id": "speech_genres",
+      "label": "Speech Genres",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "intonation_affect": {
+      "id": "intonation_affect",
+      "label": "Intonation Affect",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "political_enunciation": {
+      "id": "political_enunciation",
+      "label": "Political Enunciation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "dialogic_rupture": {
+      "id": "dialogic_rupture",
+      "label": "Dialogic Rupture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "creative_enunciation": {
+      "id": "creative_enunciation",
+      "label": "Creative Enunciation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "subjectivation": {
+      "id": "subjectivation",
+      "label": "Subjectivation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "existential_pragmatics": {
+      "id": "existential_pragmatics",
+      "label": "Existential Pragmatics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "self_affectation": {
+      "id": "self_affectation",
+      "label": "Self Affectation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "existential_logic": {
+      "id": "existential_logic",
+      "label": "Existential Logic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "refrain": {
+      "id": "refrain",
+      "label": "Refrain",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "processuality": {
+      "id": "processuality",
+      "label": "Processuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "myth_and_concept": {
+      "id": "myth_and_concept",
+      "label": "Myth And Concept",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_capitalism_critique": {
+      "id": "cognitive_capitalism_critique",
+      "label": "Cognitive Capitalism Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "anti_production": {
+      "id": "anti_production",
+      "label": "Anti Production",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "knowledge_economy": {
+      "id": "knowledge_economy",
+      "label": "Knowledge Economy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "parrhesia": {
+      "id": "parrhesia",
+      "label": "Parrhesia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "ethical_differentiation": {
+      "id": "ethical_differentiation",
+      "label": "Ethical Differentiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 2
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "distribution_of_the_sensible": {
+      "id": "distribution_of_the_sensible",
+      "label": "Distribution Of The Sensible",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "cynic_philosophy": {
+      "id": "cynic_philosophy",
+      "label": "Cynic Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "bios_politics": {
+      "id": "bios_politics",
+      "label": "Bios Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "transvaluation": {
+      "id": "transvaluation",
+      "label": "Transvaluation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "analytical_militantism": {
+      "id": "analytical_militantism",
+      "label": "Analytical Militantism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
+      ],
+      "claim_count": 1
+    },
+    "organizational_form": {
+      "id": "organizational_form",
+      "label": "Organizational Form",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "signs and machines": 1
+      },
+      "books": [
+        "signs and machines"
       ],
       "claim_count": 1
     },
@@ -244948,20 +249578,6 @@
       ],
       "claim_count": 1
     },
-    "cultural_determinism": {
-      "id": "cultural_determinism",
-      "label": "Cultural Determinism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the closing of the american mind": 1
-      },
-      "books": [
-        "the closing of the american mind"
-      ],
-      "claim_count": 1
-    },
     "nietzsche_influence": {
       "id": "nietzsche_influence",
       "label": "Nietzsche Influence",
@@ -248616,20 +253232,6 @@
       ],
       "claim_count": 1
     },
-    "citizenship": {
-      "id": "citizenship",
-      "label": "Citizenship",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the culture of narcissism": 1
-      },
-      "books": [
-        "the culture of narcissism"
-      ],
-      "claim_count": 1
-    },
     "progressive_education": {
       "id": "progressive_education",
       "label": "Progressive Education",
@@ -248801,20 +253403,6 @@
     "male_anxiety": {
       "id": "male_anxiety",
       "label": "Male Anxiety",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the culture of narcissism": 1
-      },
-      "books": [
-        "the culture of narcissism"
-      ],
-      "claim_count": 1
-    },
-    "social_change": {
-      "id": "social_change",
-      "label": "Social Change",
       "description": "",
       "aliases": [],
       "related": [],
@@ -249809,20 +254397,6 @@
     "spherical_earth": {
       "id": "spherical_earth",
       "label": "Spherical Earth",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the discarded image": 1
-      },
-      "books": [
-        "the discarded image"
-      ],
-      "claim_count": 1
-    },
-    "cartography": {
-      "id": "cartography",
-      "label": "Cartography",
       "description": "",
       "aliases": [],
       "related": [],
@@ -277022,20 +281596,6 @@
       ],
       "claim_count": 1
     },
-    "political_ecology": {
-      "id": "political_ecology",
-      "label": "Political Ecology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the power of ritual in prehistory": 2
-      },
-      "books": [
-        "the power of ritual in prehistory"
-      ],
-      "claim_count": 2
-    },
     "puppet_governance": {
       "id": "puppet_governance",
       "label": "Puppet Governance",
@@ -285352,20 +289912,6 @@
       ],
       "claim_count": 1
     },
-    "recognition_theory": {
-      "id": "recognition_theory",
-      "label": "Recognition Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the soul of the world": 1
-      },
-      "books": [
-        "the soul of the world"
-      ],
-      "claim_count": 1
-    },
     "logical_presupposition": {
       "id": "logical_presupposition",
       "label": "Logical Presupposition",
@@ -290910,20 +295456,6 @@
       ],
       "claim_count": 1
     },
-    "subject_object_relation": {
-      "id": "subject_object_relation",
-      "label": "Subject Object Relation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the world as will and representation": 2
-      },
-      "books": [
-        "the world as will and representation"
-      ],
-      "claim_count": 2
-    },
     "vedanta_philosophy": {
       "id": "vedanta_philosophy",
       "label": "Vedanta Philosophy",
@@ -291805,20 +296337,6 @@
         "the world as will and representation vol 2"
       ],
       "claim_count": 2
-    },
-    "visual_perception": {
-      "id": "visual_perception",
-      "label": "Visual Perception",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the world as will and representation vol 2": 1
-      },
-      "books": [
-        "the world as will and representation vol 2"
-      ],
-      "claim_count": 1
     },
     "unconscious_inference": {
       "id": "unconscious_inference",
@@ -305358,20 +309876,6 @@
       ],
       "claim_count": 1
     },
-    "urban_politics": {
-      "id": "urban_politics",
-      "label": "Urban Politics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 2
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 2
-    },
     "social_imagination": {
       "id": "social_imagination",
       "label": "Social Imagination",
@@ -305641,20 +310145,6 @@
     "institutional_permanence": {
       "id": "institutional_permanence",
       "label": "Institutional Permanence",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 1
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 1
-    },
-    "pastoral_power": {
-      "id": "pastoral_power",
-      "label": "Pastoral Power",
       "description": "",
       "aliases": [],
       "related": [],
@@ -323040,20 +327530,6 @@
       ],
       "claim_count": 1
     },
-    "social_democracy": {
-      "id": "social_democracy",
-      "label": "Social Democracy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
     "pareto_optimization": {
       "id": "pareto_optimization",
       "label": "Pareto Optimization",
@@ -326847,25 +331323,11 @@
         "zero to one"
       ],
       "claim_count": 1
-    },
-    "singularity": {
-      "id": "singularity",
-      "label": "Singularity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
     }
   },
   "stats": {
-    "total_concepts": 22475,
-    "total_claims": 37861,
-    "books_indexed": 122
+    "total_concepts": 22780,
+    "total_claims": 38344,
+    "books_indexed": 125
   }
 }

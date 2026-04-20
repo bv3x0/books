@@ -1,0 +1,1628 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Parables for the Virtual: Movement, Affect, Sensation",
+    "author": "Brian Massumi",
+    "year": 2002,
+    "categories": [
+      "philosophy",
+      "social science",
+      "art"
+    ],
+    "thesis": "The dominant models of cultural theory, grounded in positionality and signification, fail to account for the primary reality of movement, affect, and sensation; Massumi argues that an incorporeal materialism drawing on Bergson, Spinoza, and Deleuze can restore these dimensions to cultural analysis, revealing how bodies, media, and power operate through virtual potentials and affective intensities that exceed semiotic capture."
+  },
+  "claims": [
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-001",
+      "text": "Positionality models in cultural theory subtract movement by defining the body through its location on a grid of culturally constructed oppositions (male/female, black/white), which produces 'gridlock': because every position is pre-coded, genuine qualitative change becomes theoretically impossible.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "positionality",
+        "cultural_determinism",
+        "social_construction",
+        "ideological_interpellation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The positional grid was designed to bring theory 'down to earth' by accounting for local cultural differences and practices of resistance, but ends up boxing every body-subject into a site on the culture map.",
+          "speaker": null
+        },
+        {
+          "text": "Adding movement to stasis is about as easy as multiplying a number by zero and getting a positive product.",
+          "speaker": "Brian Massumi"
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-002",
+      "text": "Bergson's analysis of Zeno's paradoxes demonstrates that movement is not decomposable into positions: a path is a dynamic unity, and positions are retrospective constructs plotted backward from movement's cessation, so passage is ontologically prior to position.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "process_philosophy",
+        "ontology_of_movement",
+        "temporal_emergence",
+        "becoming"
+      ],
+      "entities": {
+        "people": [
+          "Henri Bergson",
+          "Zeno"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Creative Evolution"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Zeno's arrow cannot be in any point along its path, because between any two points lies an infinity of points it could never traverse; it moves because it was never in any point but in passage across them all.",
+          "speaker": null
+        },
+        {
+          "text": "Concrete is as concrete doesn't\u2014a thing is concretely where and what it is when it is in a state of arrest.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-003",
+      "text": "Movement slips bodies into what Foucault called 'incorporeal materialism': there is a real but non-corporeal dimension of the body\u2014its charge of indeterminacy, its openness to variation\u2014that accompanies the body as energy accompanies matter, real and material but not itself bodily.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "incorporeal_materialism",
+        "ontological_difference",
+        "embodiment",
+        "virtuality"
+      ],
+      "entities": {
+        "people": [
+          "Michel Foucault",
+          "Gilles Deleuze"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The body's potential to vary belongs to the same reality as the body as positioned thing but partakes of it in a different mode, creating an ontological difference within the body itself.",
+          "speaker": null
+        },
+        {
+          "text": "Michel Foucault's incorporeal materialism is invoked as the philosophical precedent for thinking this non-bodily yet real dimension.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-004",
+      "text": "Social and cultural determinations such as gender, race, and sexual orientation are themselves emergent and back-formed from indeterminate process, making processual indeterminacy ontologically primary relative to social determination, without denying that such determinations effectively feed back into process.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "ontogenesis",
+        "social_determination",
+        "emergence",
+        "feedback"
+      ],
+      "entities": {
+        "people": [
+          "Gilbert Simondon",
+          "Ian Hacking"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Passage precedes construction, but construction does effectively back-form its reality\u2014grids happen, and social and cultural determinations feed back into the process from which they arose.",
+          "speaker": null
+        },
+        {
+          "text": "Gilbert Simondon's work is cited as exemplary for expressing this priority while respecting the contemporaneousness of indeterminacy and determination.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-005",
+      "text": "The nature-culture continuum must replace any categorical divide between the two: logical operations prolong forces already in nature, and forces of nature divert into culturally regulated operations, so that 'natural' and 'cultural' relay each other in a dynamic unity of reciprocal variation.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "nature_culture_continuum",
+        "cultural_evolution",
+        "constructivism",
+        "processual_ontology"
+      ],
+      "entities": {
+        "people": [
+          "Ian Hacking",
+          "William James"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Space itself is a retroduction\u2014a production by feedback of new movements\u2014enabled by the standardization of measurement that stops movement in thought.",
+          "speaker": null
+        },
+        {
+          "text": "Gender, race, and orientation are what Ian Hacking calls 'interactive kinds': logical categories that feed back into and transform the reality they describe.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-006",
+      "text": "The exemplary method, borrowed from Giorgio Agamben's logic of the example, is adopted as a writing strategy: the example is neither general nor particular but singular, and its details harbor 'terrible powers of deviation' that allow concepts to be set in motion rather than applied.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "exemplary_method",
+        "conceptual_invention",
+        "affirmative_thought",
+        "experimental_writing"
+      ],
+      "entities": {
+        "people": [
+          "Giorgio Agamben"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "If you apply a concept or system of connection between concepts, it is the material you apply it to that undergoes change, much more markedly than do the concepts\u2014this is mastery and control, not invention.",
+          "speaker": null
+        },
+        {
+          "text": "The first rule of thumb if you want to invent or reinvent concepts is simple: don't apply them.",
+          "speaker": "Brian Massumi"
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-007",
+      "text": "Scientific and mathematical concepts\u2014particularly from chaos theory and topology\u2014are 'poached' for the humanities not by application or metaphor but by severing them from their home system and allowing the example's activity to transmit to the concept, producing a creative tension that changes both fields.",
+      "chapter": "Introduction: Concrete Is as Concrete Doesn't",
+      "concepts": [
+        "interdisciplinary_method",
+        "concept_transfer",
+        "science_humanities_relation",
+        "affect_of_concepts"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When you poach a scientific concept, it carries with it scientific affects\u2014a residue of activity, a rhythm of arrival and departure\u2014and those affects transmit to the humanities project in a two-way exchange.",
+          "speaker": null
+        },
+        {
+          "text": "The point is to borrow from science in order to make a difference in the humanities, while forcing the humanities to continually renegotiate their relations with the sciences.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-008",
+      "text": "A study of children's responses to a snowman story in three versions (silent, factual narration, emotional narration) showed that the strength and duration of an image's effect is not logically connected to its semantic content: the most 'unpleasant' factual version produced the highest autonomic arousal, while the silent version produced the strongest skin response, revealing a gap between content-level qualification and intensity.",
+      "chapter": "The Autonomy of Affect",
+      "concepts": [
+        "affect_theory",
+        "media_reception",
+        "autonomic_response",
+        "intensity_vs_qualification"
+      ],
+      "entities": {
+        "people": [
+          "Hertha Sturm"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The primacy of the affective is marked by a gap between content and effect: the strength or duration of an image's effect is not logically connected to the content in any straightforward way.",
+          "speaker": null
+        },
+        {
+          "text": "Intensity is embodied in purely autonomic reactions most directly manifested in the skin\u2014at the surface of the body, at its interface with things\u2014while depth reactions belong more to the form/content level.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-009",
+      "text": "Affect and emotion follow different logics and pertain to different orders: emotion is qualified, owned, sociolinguistically fixed intensity inserted into narrative action-reaction circuits, while affect is unqualified, impersonal intensity that is neither ownable nor recognizable, preceding and exceeding emotional capture.",
+      "chapter": "The Autonomy of Affect",
+      "concepts": [
+        "affect_emotion_distinction",
+        "asignifying_intensity",
+        "spinozist_ethics",
+        "embodiment"
+      ],
+      "entities": {
+        "people": [
+          "Baruch Spinoza",
+          "Fredric Jameson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Ethics"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "If some have the impression that affect has waned, it is because affect is unqualified. As such, it is not ownable or recognizable and is thus resistant to critique.",
+          "speaker": null
+        },
+        {
+          "text": "Spinoza's Ethics is the central philosophical precedent for thinking affect: on the difference between affect and emotion, on affect as a suspension of action-reaction circuits, and on the bodily, autonomic nature of affect.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-010",
+      "text": "Benjamin Libet's brain experiments reveal a half-second gap between the onset of brain activity and conscious awareness, during which autonomic bodily processes perform functions usually attributed to 'higher' volition and cognition\u2014demonstrating that will and consciousness are subtractive, limitative functions that reduce a complexity too rich to be directly expressed.",
+      "chapter": "The Autonomy of Affect",
+      "concepts": [
+        "neuroscience_of_consciousness",
+        "nonconscious_process",
+        "free_will",
+        "temporal_recursion"
+      ],
+      "entities": {
+        "people": [
+          "Benjamin Libet"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "We may exert free will not by initiating intentions but by vetoing, acceding or otherwise responding to them after they arise.",
+          "speaker": "Benjamin Libet"
+        },
+        {
+          "text": "Intensity is incipience\u2014incipient action and expression\u2014and the beginning of a selection: the incipience of mutually exclusive pathways of action and expression, all but one of which will be inhibited.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-011",
+      "text": "Reagan's political power exemplifies the autonomy of affect: his gestural and verbal incoherence functioned as a 'mime effect' that introduced flashes of virtuality\u2014bifurcation points where movement could veer\u2014and his voice embodied the resonance of two parallel levels of suspense, transmitting incipient vitality rather than ideological content.",
+      "chapter": "The Autonomy of Affect",
+      "concepts": [
+        "affective_politics",
+        "postmodern_power",
+        "virtual_in_politics",
+        "media_and_affect"
+      ],
+      "entities": {
+        "people": [
+          "Ronald Reagan"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Reagan operationalized the virtual in postmodern politics\u2014he was an incipience, unqualified and without content, whose incipience was prolonged by technologies of image transmission and then relayed by apparatuses such as the family, church, and school.",
+          "speaker": null
+        },
+        {
+          "text": "Confidence is the emotional translation of affect as capturable life potential; Reagan transmitted vitality, virtuality, tendency, in sickness and interruption.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-012",
+      "text": "Gilbert Simondon's preindividual field provides a physical analogy for the virtual as a continuous, differentiated field 'out of phase' with formed entities, populated by germinal forms as bundles of potential functions in regional tension\u2014a 'bubbling of structuration' that is the condition of emergence for individuation.",
+      "chapter": "The Autonomy of Affect",
+      "concepts": [
+        "preindividual_field",
+        "individuation",
+        "virtual_actual_relation",
+        "synesthesia"
+      ],
+      "entities": {
+        "people": [
+          "Gilbert Simondon",
+          "David Bohm"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Simondon calls these regions of potential 'quanta,' even as they appear on the macrophysical and human level, emphasizing their abstract, non-bounded character as mobile differentiations within an open field characterized by action at a distance.",
+          "speaker": null
+        },
+        {
+          "text": "Affect is the two-sidedness of the virtual and actual as seen from the side of the actual thing: affect is virtual synesthetic perspectives anchored in the actually existing, particular things that embody them.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-013",
+      "text": "Affect holds a key to rethinking postmodern power after ideology: media transmissions are 'breaches of indetermination' that are massively potentializing, and the fast cuts, interruptions, and incongruities of television, advertising, and the Internet operationalize the mime effect of virtuality at a cultural scale.",
+      "chapter": "The Autonomy of Affect",
+      "concepts": [
+        "postmodern_power",
+        "media_theory",
+        "ideology_critique",
+        "potentialization"
+      ],
+      "entities": {
+        "people": [
+          "Walter Benjamin",
+          "F\u00e9lix Guattari"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ideology is still very much with us, often in the most virulent of forms, but it no longer encompasses\u2014it no longer defines the global mode of functioning of power, which is now one mode in a larger field defined overall by affect.",
+          "speaker": null
+        },
+        {
+          "text": "Walter Benjamin's concepts of shock, image bombardment, and the 'dialectical image' offer resources for an affective theory of late-capitalist power.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-014",
+      "text": "Reagan's account of the difficulty of acting reveals a distinction between two orders of appearance: mirror-vision, which fixes the body in a specular structure of reciprocal identity where movement is never seen as such, and movement-vision, which grasps only movement from perspectives that render the subject unrecognizable to itself.",
+      "chapter": "The Bleed: Where Body Meets Image",
+      "concepts": [
+        "mirror_vision",
+        "movement_vision",
+        "embodied_identity",
+        "performativity"
+      ],
+      "entities": {
+        "people": [
+          "Ronald Reagan"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "King's Row",
+          "Where's the Rest of Me?"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In mirror-vision there is a single axis of sight\u2014you resemble yourself perfectly, stilted and static\u2014while movement-vision occupies an axis of vision on a tangent to self and other, entering a space of dislocation where sheer transformation replaces identity.",
+          "speaker": null
+        },
+        {
+          "text": "The completeness Reagan yearns for is found in a way of appearing that goes beyond text and visualization, script and picture\u2014the movement, only the movement: walking, standing, moving normally through a room.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-015",
+      "text": "Reagan's preparation for the King's Row amputation scene\u2014repeatedly rehearsing the line 'Where's the rest of me?' across many contexts\u2014deposits traces of the exemplary event in each empirical context, gradually coloring the everyday world until the accumulated movement folds in on the body in a state of heightened passivity from which the event erupts.",
+      "chapter": "The Bleed: Where Body Meets Image",
+      "concepts": [
+        "embodied_event",
+        "affective_contagion",
+        "repetition_and_difference",
+        "political_performance"
+      ],
+      "entities": {
+        "people": [
+          "Ronald Reagan"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "King's Row"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The prop men's trick bed\u2014with a hole cut for his legs\u2014jolts Reagan across a blackout of vision into the space of transformation; the feeling wells inside his body and bursts forth in gesture and phrase, and at that moment he enters the body of another fellow.",
+          "speaker": null
+        },
+        {
+          "text": "Reagan afterward feels like 'a shut-in invalid, nursed by publicity'\u2014the autonomic repetition has carried over into his everyday life\u2014and resolves to complete his transformation through conservative politics.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-016",
+      "text": "The 'body without an image' is defined as the involution of subject-object relations into the body\u2014an accumulation of relative perspectives and passages subtracted from their actual terms, leaving pure relationality of process expressed as quasi-corporeal abstract space.",
+      "chapter": "The Bleed: Where Body Meets Image",
+      "concepts": [
+        "proprioception",
+        "quasi_corporeality",
+        "body_without_image",
+        "incorporeal_materialism"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Proprioception translates the exertions and ease of the body's encounters with objects into a muscular memory of relationality\u2014a cumulative memory of skill, habit, posture\u2014diagrammable as a superposition of vectorial fields composed of multiple points in varying relations of movement and rest.",
+          "speaker": null
+        },
+        {
+          "text": "Movement-vision is sight turned proprioceptive, the eyes reabsorbed into the flesh through a black hole in the geometry of empirical space; it must interrupt itself to see movement as such, throwing aside form in favor of unmediated participation in the flesh.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-017",
+      "text": "The pure event\u2014distinct from both the quasi-corporeal body without an image and empirical time\u2014is a virtual time-form: the immediate proximity of before and after, looping from the actual as past into the actual as future without a mediating present, constituting the ontological reality of transformation.",
+      "chapter": "The Bleed: Where Body Meets Image",
+      "concepts": [
+        "virtual_event",
+        "temporality",
+        "visceral_perception",
+        "incorporeality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The pure event cannot be suspended because, unlike empirical time, it does not flow\u2014it is superempirical, the crystallization out of quasi-corporeality of spatial perspectives into a time-form from which the passing present is excluded.",
+          "speaker": null
+        },
+        {
+          "text": "Viscerality\u2014the interoceptive sense\u2014subtracts quality from excitation, registering intensity before conscious processing; walking down a dark street, your lungs throw a spasm before you recognize the shadow as human.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-018",
+      "text": "Reagan's subsequent political career extends the logic of the bleed: as political actor he drags his founding exemplary event (phantom amputation) through ever-multiplying contexts, catalyzing a national affective regime of confidence and jingoism through the same technologies of seeming-made-being that he developed as a screen actor.",
+      "chapter": "The Bleed: Where Body Meets Image",
+      "concepts": [
+        "affective_politics",
+        "political_economy_of_affect",
+        "media_power",
+        "becoming"
+      ],
+      "entities": {
+        "people": [
+          "Ronald Reagan"
+        ],
+        "places": [],
+        "events": [
+          "Vietnam War"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Reaganism is the regime of the visibility of seeming being\u2014the operations he contracted into his person are argued to be endemic to late-capitalist, image-and-information-based economics, from fast cuts in video clips to Internet surfing.",
+          "speaker": null
+        },
+        {
+          "text": "REPETITION PRECEDES RESEMBLANCE (even to oneself); PASSAGE PRECEDES POSITION.",
+          "speaker": "Brian Massumi"
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-019",
+      "text": "The apparent choice between legislating a norm (liberal universalism) and asserting positional determination (identity politics) is a false dilemma: both back-project a stencil of the already-constituted to explain its constitution, missing change by assuming the precedence of terms over their relation.",
+      "chapter": "The Political Economy of Belonging and the Logic of Relation",
+      "concepts": [
+        "identity_politics",
+        "liberalism_critique",
+        "relational_ontology",
+        "social_change"
+      ],
+      "entities": {
+        "people": [
+          "Bruno Latour",
+          "Pierre L\u00e9vy",
+          "Michel Serres"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The in-between, as valorized by theories of hybridity and queering, ends up back on the positional map when conceived as a space of interaction of already-constituted individuals\u2014it must be given a logical consistency of its own as the being of relation.",
+          "speaker": null
+        },
+        {
+          "text": "It is only by asserting the exteriority of the relation to its terms that chicken-and-egg absurdities can be avoided and the discussion diverted from an addiction to foundation and its negation to an engagement with change as such.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-020",
+      "text": "In a soccer game, the ball functions as a 'part-subject'\u2014not a discrete object but the catalysis-point of a force-field whose displacements globally reconfigure the distribution of potential movement across the field, making the player the object of the ball rather than its subject.",
+      "chapter": "The Political Economy of Belonging and the Logic of Relation",
+      "concepts": [
+        "part_subject",
+        "catalysis",
+        "force_field",
+        "collective_individuation"
+      ],
+      "entities": {
+        "people": [
+          "Michel Serres",
+          "Bruno Latour",
+          "Pierre L\u00e9vy"
+        ],
+        "places": [],
+        "events": [
+          "Super Bowl Sunday"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The field is polarized by two attractors\u2014the goals\u2014and the play is an in-between of charged movement; the ground and goals are inductive limit-signs rather than a ground in any foundational sense.",
+          "speaker": null
+        },
+        {
+          "text": "The player does not play on the ground. He looks past it and past the ball to the field of potential\u2014which is insubstantial, real but abstract. He plays the field of potential directly.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-021",
+      "text": "Style is the mode through which already-codified formations evolve: a star player adds free variations\u2014small, unregulated contingencies to the charged mix\u2014that disproportionately modulate the field of potential, provoking referees and generating new rules; this is collective individuation rather than individual expression.",
+      "chapter": "The Political Economy of Belonging and the Logic of Relation",
+      "concepts": [
+        "style_as_variation",
+        "transcendence_and_immanence",
+        "collective_individuation",
+        "regulation_and_emergence"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "From the point of view of the rules, the codifiable form of extrinsic relating determines the intrinsic properties of the play: fair or foul\u2014the field of immanence is interrupted by an operation of transcendence that institutes a regime of intrinsic-extrinsic relationality.",
+          "speaker": null
+        },
+        {
+          "text": "Transcendence becomes a productive element in the mix: the rules are a preservative organ of the field of play, the condition of the game's identity across serial repetitions, and their negativity (stopping variation) is also their positivity (enabling repetition and thus future variation).",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-022",
+      "text": "Television transmits not image-content but event-potential: the Super Bowl's event-dimension migrates from stadium to home, changing in nature, repotentializing the domestic space and triggering male domestic violence as a gendered capture and containment of the field of potential\u2014illustrating how event-transitivity is a distinct mode of power.",
+      "chapter": "The Political Economy of Belonging and the Logic of Relation",
+      "concepts": [
+        "media_transmission",
+        "event_transitivity",
+        "gender_power",
+        "potentialization_and_containment"
+      ],
+      "entities": {
+        "people": [
+          "Michel Foucault"
+        ],
+        "places": [],
+        "events": [
+          "Super Bowl Sunday"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The television set combines sign, part-object, and part-subject functions in the home, but is a less powerful catalyzer than the soccer ball because the home event-space's subfields are more loosely held together, governed by coding rather than formal regulation.",
+          "speaker": null
+        },
+        {
+          "text": "Media transmission is the becoming of the event\u2014the migration of event-dimension to a new space where its elements modulate, and there is no general model for the catalysis of an event across this migration.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-023",
+      "text": "Capitalism is theorized as the global power formation of control: money traverses every event-space and piggybacks every intervallic body, making capital the 'immanence of immanence'\u2014a modulation of both coding and codification that operates through decoding and deterritorialization, capturing the very movement of the event rather than its elements.",
+      "chapter": "The Political Economy of Belonging and the Logic of Relation",
+      "concepts": [
+        "capitalism_and_control",
+        "deterritorialization",
+        "modulation_of_power",
+        "belonging_and_becoming"
+      ],
+      "entities": {
+        "people": [
+          "Gilles Deleuze"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The current capitalist mode of power could be called control: neither coding nor codification, but the immanently encompassing modulation of both\u2014predicated on decoding and deterritorialization delivered ready for catalysis into potentialization-and-containment.",
+          "speaker": null
+        },
+        {
+          "text": "Capitalism is the global usurpation of belonging\u2014the worldwide trafficking in modulation as the stylization of power.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-024",
+      "text": "Perception lies between perceiver and perceived as a material conjunction: a creature's perceptions are its actions in their latent state, belonging simultaneously to an order of substitution (one conjunction relayed by another) and superposition (the latent presence of the next conjunction in the actual one), and these together constitute intelligence as a processual excess over the actual.",
+      "chapter": "The Evolutionary Alchemy of Reason: Stelarc",
+      "concepts": [
+        "perception_action_continuum",
+        "intelligence",
+        "sensation",
+        "potential_and_actuality"
+      ],
+      "entities": {
+        "people": [
+          "Stelarc"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The bee's hungry or horny perception is not 'relative' to the flower\u2014it is selective of it (and less). Perception, even before its thinking out, is a limited selection, an actualization of potential plug-ins; there is more in the 'thing' than in the perception of it.",
+          "speaker": null
+        },
+        {
+          "text": "Sensation is the registering of the multiplicity of potential connections in the singularity of a connection actually under way\u2014the direct experience of a more to the less of every perception.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-025",
+      "text": "Stelarc's body suspension events use carefully engineered counteractions of gravity to suspend embodied human possibility: by interrupting the body's necessary relation to gravity, the suspensions place the body at the limit of functionality where the usual mode of possibility is radically suspended and the body is placed in a state of pure potential\u2014'operative reason' approaching the body's virtual center.",
+      "chapter": "The Evolutionary Alchemy of Reason: Stelarc",
+      "concepts": [
+        "body_art",
+        "suspension_of_function",
+        "operative_reason",
+        "potentialization"
+      ],
+      "entities": {
+        "people": [
+          "Stelarc",
+          "Paul Virilio"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Obsolete Bodies/Suspensions/Stelarc"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The suspension variations should not be confused with answers to the problem posed\u2014the problem posed by a force cannot be 'solved,' only exhausted; the compulsive force of unfolding was responsible for the felt intensity of each event as well as their continuity across the series.",
+          "speaker": null
+        },
+        {
+          "text": "The sewn-shut body\u2014eyes and mouth stitched closed, suspended between planks for 75 hours\u2014is the 'Anesthetized Body' at the virtual center of the suspension series, the ur-idea of potential where sensation returns to activated matter.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-026",
+      "text": "Operative reason is distinguished from instrumental reason as the experimental crafting of negentropic induction: rather than mastering a situation with exhaustive knowledge, it 'tweaks' it, recognizing it as finally indomitable and deploying local interventions to induce a qualitative global transformation\u2014small causes with disproportionate effect\u2014exemplified by the B\u00e9nard instability.",
+      "chapter": "The Evolutionary Alchemy of Reason: Stelarc",
+      "concepts": [
+        "operative_reason",
+        "negentropic_induction",
+        "chaos_theory",
+        "minor_science"
+      ],
+      "entities": {
+        "people": [
+          "Stelarc",
+          "Gilbert Simondon",
+          "Ilya Prigogine",
+          "Isabelle Stengers"
+        ],
+        "places": [],
+        "events": [
+          "B\u00e9nard instability"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In the B\u00e9nard instability, turbulent liquid suddenly 'senses' gravity and spontaneously self-organizes into convection cells\u2014an event so improbable it is practically impossible by classical standards, yet effectively induced by operative reason.",
+          "speaker": null
+        },
+        {
+          "text": "Stelarc's art is more akin to alchemy, the qualitative science of impossible transformations, than to high chemistry or physics; following Deleuze and Guattari, it is a 'minor science.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-027",
+      "text": "The 'Fractal Flesh' and 'Ping Body' performances stage sensation collectively by splitting the body between voluntary, involuntary, controlled, and programmed movements in a cybernetic relay, transmitting not meaning but sensation itself to the audience, who enter a momentary state of stupor\u2014received sensation\u2014and carry potential inventiveness away with them.",
+      "chapter": "The Evolutionary Alchemy of Reason: Stelarc",
+      "concepts": [
+        "cyborg_performance",
+        "collective_sensation",
+        "transduction",
+        "networked_body"
+      ],
+      "entities": {
+        "people": [
+          "Stelarc"
+        ],
+        "places": [],
+        "events": [
+          "Fractal Flesh performance",
+          "Ping Body performance",
+          "Telepolis performance"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Information is the prosthesis that props up the obsolete body\u2014meaning adheres the body-object and its voluntary human control to the immediate past rather than splitting it with futurity; what is transmitted in these performances is potential inventiveness.",
+          "speaker": null
+        },
+        {
+          "text": "In 'Ping Body,' the body is controlled by the quantity of information traveling the Internet wires\u2014pinging global sites and mapping reverberating signals to muscles\u2014so that the body does a data dance, becoming a barometer of Internet activity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-028",
+      "text": "Stelarc's project multiplexes all its phases\u2014sensation, expression, extension, relay, interconnection\u2014as co-present dimensions rather than sequential periods, performing the conditions of evolution without offering a utopia: the desire for posthuman transformation is the condition of evolution, not its triumph of will or natural selection.",
+      "chapter": "The Evolutionary Alchemy of Reason: Stelarc",
+      "concepts": [
+        "posthumanism",
+        "collective_evolution",
+        "desire_and_becoming",
+        "networked_subjectivity"
+      ],
+      "entities": {
+        "people": [
+          "Stelarc",
+          "Gilbert Simondon"
+        ],
+        "places": [
+          "MIT Media Lab"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The fractal body is no metaphor\u2014fractalization is the posthumanizing operation, bringing to full expression the extensile mutuality the human shares with everything it is not: a worlding of the human where the moon's the limit.",
+          "speaker": null
+        },
+        {
+          "text": "If it happens it will only be through desire. Desire is the condition of evolution.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-029",
+      "text": "The virtual cannot be directly imaged but can be figured through a multiplication of images whose sequencing and folding\u2014their 'ins and outs'\u2014produce fleeting appearances of the virtual in the cracks between and around formed content; topology, as the science of self-varying deformation, is the mode of thought most precisely suited to the virtual.",
+      "chapter": "On the Superiority of the Analog",
+      "concepts": [
+        "topology",
+        "virtual_image",
+        "intuition",
+        "analog_process"
+      ],
+      "entities": {
+        "people": [
+          "Gilles Deleuze",
+          "Ren\u00e9 Thom"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A topological figure is defined as the continuous transformation of one geometrical figure into another\u2014a coffee cup deformed into a doughnut\u2014and its unity is virtual: never present in any given static form but only in the process of continuous transformation.",
+          "speaker": null
+        },
+        {
+          "text": "Imagination is the mode of thought most precisely suited to the differentiating vagueness of the virtual\u2014it alone manages to diagram without stilling, and can also be called intuition: a thinking feeling.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-030",
+      "text": "Digital technologies are 'possibilistic to the limit'\u2014they array alternative states for sequencing into routines (the combinatoric of the possible) and have no direct connection to potential or virtuality; whatever inventiveness emerges from digital processing is a result not of the coding itself but of its detour into the analog at the reception end.",
+      "chapter": "On the Superiority of the Analog",
+      "concepts": [
+        "digital_vs_analog",
+        "possibilistic_logic",
+        "media_technology",
+        "virtuality"
+      ],
+      "entities": {
+        "people": [
+          "Pierre L\u00e9vy",
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Nothing could be more destructive for the thinking and imaging of the virtual than equating it with the digital\u2014digital technologies in fact have a remarkably weak connection to the virtual by virtue of the enormous power of their systematization of the possible.",
+          "speaker": null
+        },
+        {
+          "text": "The digital is sandwiched between an analog disappearance into code at the recording end and an analog appearance out of code at the listening end\u2014digital sound is a misnomer; the sound is as analog as ever.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-031",
+      "text": "Reading is an analog process in which ASCII code is translated into figures of speech enveloping figures of thought, accompanied throughout by synesthetic fringes of sensation\u2014muscular, tactile, and visceral\u2014that background conscious reflection and constitute the analog process by which digital content achieves potentialization.",
+      "chapter": "On the Superiority of the Analog",
+      "concepts": [
+        "reading_as_analog",
+        "synesthesia",
+        "hypertext",
+        "sensation_and_thought"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "World Wide Web"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When we read, we do not see the individual letters and words\u2014that is what learning to read is all about: learning to stop seeing the letters so you can see through them, directly experiencing fleeting visionlike sensations, inklings of sound, faint brushes of movement.",
+          "speaker": null
+        },
+        {
+          "text": "The hyperlink surfer's experience is compelling not because of the form or content of the screens taken separately, but because of an accumulation of analog effect or transductive momentum continuing across the linkages.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-032",
+      "text": "The 'superiority of the analog' does not mean the digital is obsolete but that their co-operation is itself analog: the analog always fringes, synesthetically dopplers, and recedes to a virtual center immanent at every point\u2014it is always a fold ahead of the digital.",
+      "chapter": "On the Superiority of the Analog",
+      "concepts": [
+        "analog_digital_cooperation",
+        "virtual_center",
+        "technological_evolution",
+        "sensation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "MIT Media Lab"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "There is always an excess of the analog over the digital, because it perceptually fringes, synesthetically dopplers, umbilically backgrounds, and insensibly recedes to a virtual center immanent at every point along the path.",
+          "speaker": null
+        },
+        {
+          "text": "Adaptive neural nets approach analog process ability by coding recursivity\u2014machinic self-referentiality\u2014so that the running of code induces qualitative transformation in its own loopy operation: evolutionary digitality, machinic invention.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-033",
+      "text": "The Ganzfeld experiments\u2014producing a uniform visual field through Ping-Pong ball halves over the eyes\u2014resulted not in elementary visual experience but in its extinction: subjects reported difficulty sensing whether their eyes were open, experienced bodily disorientation and depersonalization, indicating that the objective conditions of vision are not a phenomenal field but an anomalous event that befalls experience.",
+      "chapter": "Chaos in the \"Total Field\" of Vision",
+      "concepts": [
+        "ganzfeld_experiment",
+        "visual_perception",
+        "phase_space",
+        "virtual_attractor"
+      ],
+      "entities": {
+        "people": [
+          "James J. Gibson"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Subjects described an unfocusable 'cloud' or 'fog' of no determinate shape or measurable distance from the eyes, with only tendencies toward object-like impressions such as edge and slant, indeterminate with respect to depth\u2014neither two-dimensional nor three-dimensional, but vaguely 'surface-like.'",
+          "speaker": null
+        },
+        {
+          "text": "The 'total field' of vision is visual chaos: the random coming into and out of existence of all possible visual attributes, excluding only stability\u2014a phase space of vision.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-034",
+      "text": "Vision has a virtual attractor\u2014its limit-field\u2014that governs an indeterminate motion without being present in any particular visual experience; like a mathematical limit approached but never reached, this limit-field is existentializing: it gives the approach its effectivity and reality, functioning as a virtual attractor in the chaos-theory sense.",
+      "chapter": "Chaos in the \"Total Field\" of Vision",
+      "concepts": [
+        "virtual_attractor",
+        "limit_field",
+        "intermodal_perception",
+        "hallucination"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A limit is not a boundary\u2014it is open, a point that a curve infinitely approaches but never reaches; the limit of vision is 'surfacelike' because it lacks determinate dimensionality, existing not on but for the curve of visual experience.",
+          "speaker": null
+        },
+        {
+          "text": "Adding a stimulus in another sense mode was incompatible with the maintenance of even ambiguous characteristics of the Ganzfeld\u2014producing extensive hallucinations\u2014because once other-sense stimulation was present it was no longer a pure field but a mixed intermodal field.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-035",
+      "text": "Object constancy is not the persistence of stable things but a ratio between perpetual variations: the relative slowness of the body and the automatism of habit provide a common factor that divides into the sea of chaotic visual multiplicities, spontaneously patterning itself through repetition and thereby adding its own self-structuring\u2014its own hallucination\u2014to the world.",
+      "chapter": "Chaos in the \"Total Field\" of Vision",
+      "concepts": [
+        "perceptual_constancy",
+        "habit_and_perception",
+        "hallucination_as_real",
+        "chaotic_emergence"
+      ],
+      "entities": {
+        "people": [
+          "Alfred North Whitehead"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "What the body lends in the first instance is its slowness, not its presumptive unity\u2014unity appears 'out there' as recognizably patterned by habit in such a way as to reduce the complexity of chaos by a factor, and then feeds back 'in' as the body's own unity.",
+          "speaker": null
+        },
+        {
+          "text": "Alfred North Whitehead: 'Factors in our experience are clear and distinct in proportion to their variability, provided that they sustain themselves for that moderate period required for importance.'",
+          "speaker": "Alfred North Whitehead"
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-036",
+      "text": "Vision is constitutionally doubled: it is simultaneously governed by a disjunctive limit (what pertains to vision alone) and a conjunctive/hallucinatory intermodal limit (where vision folds in alien-uptakes from other senses), and every actual experience is sung between these cross-tendencies\u2014there is no firm distinction between perception and hallucination.",
+      "chapter": "Chaos in the \"Total Field\" of Vision",
+      "concepts": [
+        "intermodal_perception",
+        "synesthesia",
+        "virtual_limit",
+        "perception_hallucination"
+      ],
+      "entities": {
+        "people": [
+          "Gilles Deleuze"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "What the experiments accomplished, rather than distilling an elementary unit, was to approach a complex limit in the same sense a mathematical curve approaches a limit\u2014showing that vision's limit-field is virtual.",
+          "speaker": null
+        },
+        {
+          "text": "A scientist who anesthetized his own buttocks during high-altitude flight could no longer orient visually\u2014proving we see with the seat of our pants and that the senses are so completely interconnected that removing a strategic patch of tactile/proprioceptive feed makes the whole visual process dysfunctional.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-037",
+      "text": "Color, when actually seen, is not composed of independent variables (hue, saturation, brightness) that combine extrinsically but belongs to a 'brightness confound': an indissoluble relational whole in which color and illumination bear and convey each other, emerging together from an undifferentiated intensity specific to no particular sense mode.",
+      "chapter": "The Brightness Confound",
+      "concepts": [
+        "color_perception",
+        "relational_whole",
+        "gestalt_psychology",
+        "experiential_confound"
+      ],
+      "entities": {
+        "people": [
+          "David Katz",
+          "Ludwig Wittgenstein",
+          "Johann Wolfgang von Goethe",
+          "Paul Klee"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The World of Colour",
+          "Remarks on Colour"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "David Katz: 'Surface colour and illumination constitute, rather, an indissoluble unity. To every visual field with a particular illumination there belongs a particular singular white, a particular grey, etc.; the one illumination with its colours emerges from the other, and merges back into it; they are both indicators and bearers of each other.'",
+          "speaker": "David Katz"
+        },
+        {
+          "text": "The 'brightness confound' extends to an 'experiential confound' encompassing other sense modes and even space and time: color, illumination, form, three-dimensional space, and linear time all emerge reciprocally from a many-more-dimensioned self-varying confound.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-038",
+      "text": "Hypostasis is the endemic danger of empirical thought: the slippage from process to part, from relation to term in relation, whereby a variable extracted from the relational whole is mistaken for an objective part existing separately\u2014Euclidean space and its dimensions are the prototype of this procedure.",
+      "chapter": "The Brightness Confound",
+      "concepts": [
+        "hypostasis",
+        "empirical_reduction",
+        "singularity",
+        "abstraction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A matchable color or measurable degree of brightness is an independent variable indexed to standardization rather than to its situation\u2014its medium is generality rather than singularity, enabling diagnostic de-situation at the price of the glow.",
+          "speaker": null
+        },
+        {
+          "text": "Statistics is the methodological instrument for identifying and discounting exceptions\u2014it squeezes out the singular in a pincer movement between the general and the discounted, closing the circle between the assumption of the standard and its practical production.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-039",
+      "text": "Cross-cultural and historical evidence\u2014from the ancient Greek vocabulary of brightness, to Hanunoo color terms that confound color with texture and moisture, to Darwin's children who could not name colors\u2014demonstrates that the confound persists into and through adulthood, fringed and haunting every abstracted color term.",
+      "chapter": "The Brightness Confound",
+      "concepts": [
+        "color_linguistics",
+        "cross_cultural_perception",
+        "synesthesia",
+        "emergence_of_abstraction"
+      ],
+      "entities": {
+        "people": [
+          "Charles Darwin",
+          "David Katz",
+          "Johann Wolfgang von Goethe",
+          "Paul Klee"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The only 'systematic error' in attempts to establish universal basic color terms was the 'premature appearance of grey'\u2014consistent with Goethe's anti-Newtonian phenomenology in which color is enveloped in and emerges from gray, in fuzzy transitional zones of moving edge and shadow.",
+          "speaker": null
+        },
+        {
+          "text": "Many languages do not have color-referring terms as such but words for the appearance of things that confound color with texture, taste, and modality\u2014confirming the necessity of synesthetic and amodal dimensions to the definition of color.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-040",
+      "text": "Artistic activity that yields to the self-activity of the confound rather than extracting and recombining independent variables is catalytic rather than constructive: it resituates variation, bringing a singular co-emergence of color, illumination, form, and space-time into integral unfolding expression\u2014art as cosmogenesis.",
+      "chapter": "The Brightness Confound",
+      "concepts": [
+        "art_as_catalysis",
+        "cosmogenesis",
+        "singular_expression",
+        "composition_vs_construction"
+      ],
+      "entities": {
+        "people": [
+          "Paul Klee",
+          "Paul C\u00e9zanne",
+          "Claude Monet",
+          "F\u00e9lix Guattari"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "For Klee (as for C\u00e9zanne and Guattari), bringing into singular expression, unfolding of the confoundingly enveloped, is the literal creation of a world\u2014art as cosmogenesis\u2014to be understood not as subjective expression but as catalysis of an autonomous process.",
+          "speaker": null
+        },
+        {
+          "text": "If the singular confound is self-varying, then the artist's activity must join the confound through experienced zones of synesthetic and spatiotemporal indistinction, becoming one of the encompassed variations\u2014an experimental tweaking of an autonomous process rather than a molding of dumb matter.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-041",
+      "text": "The author's experience of hallucinating a non-existent street out his office window for two months illustrates that orientation normally operates through a proprioceptive self-referential system ('dead reckoning') that is more fundamental than visual cognitive mapping, and that the two systems regularly enter into interference, producing hallucination as the norm rather than the exception.",
+      "chapter": "Strange Horizon: Buildings, Biograms, and the Body Topologic",
+      "concepts": [
+        "spatial_orientation",
+        "dead_reckoning",
+        "proprioception",
+        "hallucination_as_norm"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Canadian Centre for Architecture"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Research found that the brain's ability to orient increased the emptier the space, suggesting humans orient more by the 'shape of the space' than by visual characteristics of objects in it\u2014but the shape of empty space is indeterminate except for the rhythm of movement through it.",
+          "speaker": null
+        },
+        {
+          "text": "Place arises from a dynamic of interference and accord between sense-dimensions: we find ourselves when we go to the fold in experience where vision feeds back into proprioception and proprioception feeds forward into vision.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-042",
+      "text": "Clinical synesthetes' 'biograms'\u2014perceptual mnemonic forms occupying the peri-personal plane between eyes and world\u2014are one-sided topological surfaces (like a M\u00f6bius strip without a back) that are 'larger than visual range, like looking at the horizon,' and are described using topological vocabulary of arcs, weaves, knots, and centers folding into peripherals.",
+      "chapter": "Strange Horizon: Buildings, Biograms, and the Body Topologic",
+      "concepts": [
+        "synesthesia",
+        "biogram",
+        "topology",
+        "mnemonic_perception"
+      ],
+      "entities": {
+        "people": [
+          "A. R. Luria"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Mind of the Mnemonist"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Synesthetic forms are 'involuntary and elicited'\u2014they retain the surprise of the d\u00e9j\u00e0 vu even for proficient synesthetes who can summon them for mnemonic use; they maintain a peri-personal autonomy from psychological or cognitive containment.",
+          "speaker": null
+        },
+        {
+          "text": "The biogram is a perceptual reliving\u2014a folding back of experience on itself\u2014and is therefore a virtual topological superposition of a potentially infinite series of self-repetitions; each new present is a differential repetition of the spatiotemporal loop-the-loop of reaccess.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-043",
+      "text": "Libet's experiments\u2014showing a half-second lag between brain activity and conscious awareness, during which intervening stimuli can modulate the outcome\u2014confirm that the elementary unit of thought is already a recursive duration rather than a discrete perception, and that the bulk of perceptions remain virtual as Leibnizian 'small perceptions' in an infinite cloud of microawarenesses.",
+      "chapter": "Strange Horizon: Buildings, Biograms, and the Body Topologic",
+      "concepts": [
+        "recursive_duration",
+        "nonconscious_perception",
+        "feedback_of_higher_forms",
+        "temporality"
+      ],
+      "entities": {
+        "people": [
+          "Benjamin Libet",
+          "Gottfried Wilhelm Leibniz"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The effective discreteness of an awareness is an active creation of experience doubling back (on its already recursive duration) and extractively self-referencing\u2014every first-time perception of form is already, virtually, a memory.",
+          "speaker": null
+        },
+        {
+          "text": "Blind-sight patients who insist they see nothing can nonetheless reach accurately for objects\u2014and can even have word meanings presented to their blind field modulate conscious interpretation of words in their sighted field\u2014showing that practiced meanings dissolve back into direct perceptions.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-044",
+      "text": "A building is a technology of movement\u2014a technology of transposition in direct membranic connection with virtual event-spaces\u2014that modulates the corporeal by regulating which determinate threads are pulled from the relational continuum of habits, memories, and tropisms that bodies carry; topological architecture should aim to build in biogrammatic triggers rather than contenting itself with cognitive citations.",
+      "chapter": "Strange Horizon: Buildings, Biograms, and the Body Topologic",
+      "concepts": [
+        "topological_architecture",
+        "body_as_membrane",
+        "non_euclidean_space",
+        "architectural_modulation"
+      ],
+      "entities": {
+        "people": [
+          "Greg Lynn"
+        ],
+        "places": [
+          "Canadian Centre for Architecture"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "We do not live in Euclidean space\u2014the body is a Klein bottle, a two-dimensional topological figure: one leaky 'box' whose skin regulates movements into and out of the fractal it twistedly envelops, making a building a membrane rather than a container.",
+          "speaker": null
+        },
+        {
+          "text": "The arguments all make the same point: that the life of the body cannot be understood without reference to abstract-real processual dimensions that must be topologically described using concepts of continuous variation, intensive movement, transpositionality, event, recursive-duration, modulation, and biogram.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-045",
+      "text": "In Katz's experiment, subjects asked to match a remembered friend's eye color almost always selected patches that were 'too bright,' 'too dark,' or 'too saturated'\u2014exaggerating the color's 'absolute striking peculiarity'\u2014demonstrating that color memory is not a reproduction but a transformation, and that the excess of effect escapes the standardizing language that triggers and tests it.",
+      "chapter": "Too-Blue: Color-Patch for an Expanded Empiricism",
+      "concepts": [
+        "color_memory",
+        "affect_and_emotion",
+        "singularity",
+        "social_emergence_of_subjectivity"
+      ],
+      "entities": {
+        "people": [
+          "David Katz"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The World of Colour"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The 'too-blue' of the friend's eyes dodges the standardizing language that triggers and tests it\u2014expressed only negatively as a miss, it enters language in the experimenter's reporting and becomes generally available, but remains in excess over any quantity of personal feeling.",
+          "speaker": null
+        },
+        {
+          "text": "Experience becomes personal socially\u2014the experienced excess is personally owned up to only by the 'subject' while the experimenter maintains distance via reportage\u2014showing that the emergence of the subjective and the maintenance of the objective are co-results of the same asymmetrical event.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-046",
+      "text": "Affect is the trans-situational connecting thread of experience\u2014impersonal, precessional, pre- and post-contextual\u2014that is irreducible to personalized emotion; affect inhabits the passage between contexts, self-continuing across the gaps as the 'world-glue' that holds things together from the angle of what new and unpredictable enters into them.",
+      "chapter": "Too-Blue: Color-Patch for an Expanded Empiricism",
+      "concepts": [
+        "affect_as_world_glue",
+        "trans_situational_affect",
+        "emotion_vs_affect",
+        "lived_belief"
+      ],
+      "entities": {
+        "people": [
+          "Frank Sinatra",
+          "William James"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Reserve the term 'emotion' for the personalized content, and affect for the continuation\u2014emotion is contextual, affect is situational: eventfully ingressive to context, and serially so, for affect is trans-situational.",
+          "speaker": null
+        },
+        {
+          "text": "A quality is a perceptual self-expression, an expressive self-perception, of the world's holding-together: its affective self-adhesion\u2014we all adhere, impersonally, in a lived belief in the world's continued holding-together across its gaps.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-047",
+      "text": "The B\u00e9nard instability provides an inorganic analog for quasi-causality: the liquid's self-organization into convection cells when it 'senses' gravity is practically impossible by classical standards yet effectively induced, demonstrating that the real conditions of any event include necessarily-contingent quasi-causal efficiencies that cannot be reduced to objective part-to-part interactions between discrete ingredients.",
+      "chapter": "Too-Blue: Color-Patch for an Expanded Empiricism",
+      "concepts": [
+        "quasi_causality",
+        "self_organization",
+        "chaos_theory",
+        "potential_vs_possible"
+      ],
+      "entities": {
+        "people": [
+          "Ilya Prigogine",
+          "Isabelle Stengers"
+        ],
+        "places": [],
+        "events": [
+          "B\u00e9nard instability"
+        ],
+        "works": [
+          "Order Out of Chaos"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Relationality is a global excess of belonging-together enabled by but not reducible to the bare fact of having objectively come together\u2014the order-out-of-chaos effect was entirely unexpected, as good as impossible by classical standards, yet it happens.",
+          "speaker": null
+        },
+        {
+          "text": "A potential does not preexist its emergence\u2014if it doesn't emerge, it wasn't really there; if it does, it really only just arrived. Potential is an advent: 'will have come, that's all there is to it\u2014always, just: a hint of eternity arriving.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-048",
+      "text": "William James's radical empiricism holds that relations are directly sensed givens of experience\u2014not secondary products of mental association\u2014and that participation precedes recognition: being precedes cognition, as we always find ourselves already actively engaged in an unfolding relation whose outcome is uncertain, its subjects and objects still open to amendment.",
+      "chapter": "Too-Blue: Color-Patch for an Expanded Empiricism",
+      "concepts": [
+        "radical_empiricism",
+        "participatory_knowledge",
+        "relation_as_given",
+        "vagueness"
+      ],
+      "entities": {
+        "people": [
+          "William James",
+          "Alfred North Whitehead"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Essays in Radical Empiricism"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "We do not run because we are afraid, but are afraid because we run\u2014we become conscious of a situation in its midst, already actively engaged in it, and only retrospectively do we clearly cognize what set us dashing.",
+          "speaker": "William James"
+        },
+        {
+          "text": "The vague is the newness, the 'nextness' of what will be again\u2014it is the difference in the process of repetition, the perception of continuation, what relation looks like in action\u2014and is a constitutive, existential, not simply informational lack.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-049",
+      "text": "Philosophy, science, and art constitute distinct process lines through the expanded empirical field: science runs from recognizability to reproducibility; philosophy runs counter-contextually from accompaniment (expressed singularity) to virtual relation; art runs from quality to quality, composing shareable lifestyle contagion; and cultural studies could become a political ecology if it pushed its own process to its limits rather than collapsing into social science or policy.",
+      "chapter": "Too-Blue: Color-Patch for an Expanded Empiricism",
+      "concepts": [
+        "process_lines_of_knowledge",
+        "philosophy_of_nature",
+        "political_ecology",
+        "cultural_studies"
+      ],
+      "entities": {
+        "people": [
+          "Baruch Spinoza",
+          "Bruno Latour",
+          "Isabelle Stengers",
+          "Gilles Deleuze",
+          "F\u00e9lix Guattari",
+          "Tony Bennett"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Cosmopolitiques",
+          "Culture: A Reformer's Science"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Philosophy is the activity dedicated to keeping wonder in the world\u2014its non-object is change, the counterthinking of the new, and its truth is in giving itself up to catalyze change in a movement of ceasing to be its useless self.",
+          "speaker": null
+        },
+        {
+          "text": "Nature is partitive\u2014always giving of itself, of relational potential, while holding back a remainder on which to draw again; 'naturing nature' is Spinoza's name for this inexhaustible, impersonal reserve of giving self-activity.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-001",
+      "title": "Introduction: Concrete Is as Concrete Doesn't",
+      "summary": "Massumi argues that dominant cultural-theoretical models based on positionality and signification subtract movement from the body, producing 'gridlock,' and that integrating movement requires a Bergsonian ontology of process in which position, identity, and social determination are emergent back-formations from a primary indeterminacy rather than foundational givens.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-001",
+        "parables-for-the-virtual-movement-affect-sensation-002",
+        "parables-for-the-virtual-movement-affect-sensation-003",
+        "parables-for-the-virtual-movement-affect-sensation-004",
+        "parables-for-the-virtual-movement-affect-sensation-005",
+        "parables-for-the-virtual-movement-affect-sensation-006",
+        "parables-for-the-virtual-movement-affect-sensation-007"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-002",
+      "title": "The Autonomy of Affect",
+      "summary": "Drawing on experiments in media reception, neuroscience, and the philosophies of Spinoza, Bergson, and Simondon, Massumi argues that affect operates as an autonomous, asignifying intensity that is irreducible to and runs parallel with semantic content and emotion, and that this autonomy of affect is key to understanding postmodern power, from Reagan's politics to capitalist media culture.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-008",
+        "parables-for-the-virtual-movement-affect-sensation-009",
+        "parables-for-the-virtual-movement-affect-sensation-010",
+        "parables-for-the-virtual-movement-affect-sensation-011",
+        "parables-for-the-virtual-movement-affect-sensation-012",
+        "parables-for-the-virtual-movement-affect-sensation-013"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-003",
+      "title": "The Bleed: Where Body Meets Image",
+      "summary": "Through a close reading of Ronald Reagan's autobiographical account of acting\u2014particularly his preparation for the amputation scene in King's Row\u2014Massumi theorizes the 'body without an image' as a quasi-corporeal, incorporeal dimension of the body where accumulated relative perspectives and passages blend into pure relationality, and argues that this intensive space is the condition under which exemplary events bleed into everyday life and power operates through affective contagion.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-014",
+        "parables-for-the-virtual-movement-affect-sensation-015",
+        "parables-for-the-virtual-movement-affect-sensation-016",
+        "parables-for-the-virtual-movement-affect-sensation-017",
+        "parables-for-the-virtual-movement-affect-sensation-018"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-004",
+      "title": "The Political Economy of Belonging and the Logic of Relation",
+      "summary": "Using Michel Serres's soccer ball as a central example, Massumi argues that collective formations are not constituted by already-existing individual or social terms in extrinsic relation but by an immanent field of potential whose catalytic, inductive, and transductive dynamics\u2014including sport, domestic violence via television, and ultimately capitalism\u2014must be theorized through a logic of relation that is exterior to its terms.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-019",
+        "parables-for-the-virtual-movement-affect-sensation-020",
+        "parables-for-the-virtual-movement-affect-sensation-021",
+        "parables-for-the-virtual-movement-affect-sensation-022",
+        "parables-for-the-virtual-movement-affect-sensation-023"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-005",
+      "title": "The Evolutionary Alchemy of Reason: Stelarc",
+      "summary": "Through an extended analysis of performance artist Stelarc's body suspension events, insect-vision helmets, and cyborg performances, Massumi develops a theory of sensation as the zero-degree of intelligence and of 'operative reason' as a pragmatic, negentropic logic of impossible transformations that contrasts with instrumental reason, arguing that Stelarc's art performs the conditions of posthuman evolution by potentializing the body toward collective networked becoming.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-024",
+        "parables-for-the-virtual-movement-affect-sensation-025",
+        "parables-for-the-virtual-movement-affect-sensation-026",
+        "parables-for-the-virtual-movement-affect-sensation-027",
+        "parables-for-the-virtual-movement-affect-sensation-028"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-006",
+      "title": "On the Superiority of the Analog",
+      "summary": "Massumi argues that the virtual can only be approached through topological, analog processes of continuous self-varying transformation, and that digital technologies\u2014despite their cultural prestige\u2014are exhaustively possibilistic rather than virtual or even genuinely potential, always requiring an analog detour through sensation, reading, and reception to achieve any potentializing effect.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-029",
+        "parables-for-the-virtual-movement-affect-sensation-030",
+        "parables-for-the-virtual-movement-affect-sensation-031",
+        "parables-for-the-virtual-movement-affect-sensation-032"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-007",
+      "title": "Chaos in the \"Total Field\" of Vision",
+      "summary": "By revisiting mid-twentieth-century Ganzfeld experiments in which subjects were exposed to homogeneous visual fields and experienced the extinction of seeing, hallucination, and depersonalization, Massumi argues that the empirical conditions of vision self-abstract into a chaotic phase space governed by a virtual attractor, and that vision is constitutionally doubled by a nonphenomenal field of emergence from which all perceptual constancy and object unity are productively added.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-033",
+        "parables-for-the-virtual-movement-affect-sensation-034",
+        "parables-for-the-virtual-movement-affect-sensation-035",
+        "parables-for-the-virtual-movement-affect-sensation-036"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-008",
+      "title": "The Brightness Confound",
+      "summary": "Drawing on David Katz's Gestalt color psychology, Wittgenstein's remarks on color, cross-cultural linguistics, and Goethe's phenomenology, Massumi argues that what is actually seen is an 'experiential confound'\u2014a singular, relational whole in which color, illumination, form, space, and time emerge together\u2014and that empirical science's analytical extraction of independent variables like hue and brightness performs a hypostasis that misses singularity, while art and philosophy remain close to the confound.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-037",
+        "parables-for-the-virtual-movement-affect-sensation-038",
+        "parables-for-the-virtual-movement-affect-sensation-039",
+        "parables-for-the-virtual-movement-affect-sensation-040"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-009",
+      "title": "Strange Horizon: Buildings, Biograms, and the Body Topologic",
+      "summary": "Through arguments from orientation, synesthesia, recursion, the feedback of higher forms, and cosmology, Massumi argues that lived spatial experience is fundamentally non-Euclidean and topological: proprioceptive dead-reckoning is more fundamental than cognitive mapping, synesthetic 'biograms' are one-sided topological hypersurfaces of event-perception, and architecture should be understood as a technology of movement that modulates the virtual event-spaces inhabited by bodies.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-041",
+        "parables-for-the-virtual-movement-affect-sensation-042",
+        "parables-for-the-virtual-movement-affect-sensation-043",
+        "parables-for-the-virtual-movement-affect-sensation-044"
+      ]
+    },
+    {
+      "id": "parables-for-the-virtual-movement-affect-sensation-ch-010",
+      "title": "Too-Blue: Color-Patch for an Expanded Empiricism",
+      "summary": "Using David Katz's color-memory experiment (in which subjects systematically 'exaggerate' remembered colors) as its central example and expanding through William James's radical empiricism, chaos theory, Spinoza's naturing nature, and the processual specificity of philosophy, science, and art, Massumi argues for an expanded empirical field in which singularity, affect, quasi-causality, and relation are irreducible companions to objectivity, and outlines the distinct process lines through which philosophy, science, art, and potentially cultural studies traverse this field.",
+      "claim_ids": [
+        "parables-for-the-virtual-movement-affect-sensation-045",
+        "parables-for-the-virtual-movement-affect-sensation-046",
+        "parables-for-the-virtual-movement-affect-sensation-047",
+        "parables-for-the-virtual-movement-affect-sensation-048",
+        "parables-for-the-virtual-movement-affect-sensation-049"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 49,
+    "chapter_count": 10,
+    "indexed_at": "2026-04-20T21:26:27.990161Z"
+  }
+}
