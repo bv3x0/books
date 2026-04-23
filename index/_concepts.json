@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-20T21:35:33.184489Z",
+  "updated_at": "2026-04-23T14:43:13.696416Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -1421,14 +1421,16 @@
       "book_claims": {
         "a disease in the public mind": 1,
         "american nations": 1,
+        "muskism": 1,
         "unqualified reservations": 1
       },
       "books": [
         "a disease in the public mind",
         "american nations",
+        "muskism",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "labor_shortage": {
       "id": "labor_shortage",
@@ -2158,13 +2160,15 @@
       "related": [],
       "book_claims": {
         "a disease in the public mind": 1,
+        "muskism": 1,
         "unqualified reservations": 3
       },
       "books": [
         "a disease in the public mind",
+        "muskism",
         "unqualified reservations"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "religious_decline": {
       "id": "religious_decline",
@@ -5105,6 +5109,7 @@
         "anthropol": 7,
         "elon-musk": 3,
         "language machines": 1,
+        "muskism": 1,
         "thus spake zarathustra": 1,
         "zero to one": 1
       },
@@ -5113,10 +5118,11 @@
         "anthropol",
         "elon-musk",
         "language machines",
+        "muskism",
         "thus spake zarathustra",
         "zero to one"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "faith_necessity": {
       "id": "faith_necessity",
@@ -9112,15 +9118,17 @@
         "anthropol": 1,
         "flatline constructs": 11,
         "michael-levin-major-talks": 1,
+        "muskism": 1,
         "the concept of acceleration": 1
       },
       "books": [
         "anthropol",
         "flatline constructs",
         "michael-levin-major-talks",
+        "muskism",
         "the concept of acceleration"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "diagonal_method": {
       "id": "diagonal_method",
@@ -10820,6 +10828,7 @@
         "fanged noumena": 4,
         "from bacteria to bach and back": 7,
         "mirror worlds": 1,
+        "muskism": 2,
         "philosopher-in-the-valley": 1,
         "the art of doing science and engineering": 1,
         "the concept of acceleration": 1,
@@ -10832,13 +10841,14 @@
         "fanged noumena",
         "from bacteria to bach and back",
         "mirror worlds",
+        "muskism",
         "philosopher-in-the-valley",
         "the art of doing science and engineering",
         "the concept of acceleration",
         "the pattern on the stone",
         "zero to one"
       ],
-      "claim_count": 20
+      "claim_count": 22
     },
     "materials_science": {
       "id": "materials_science",
@@ -11532,6 +11542,7 @@
         "alchemy of air": 1,
         "braudel-vol1": 6,
         "elon-musk": 1,
+        "muskism": 1,
         "normans in the south": 1,
         "philosopher-in-the-valley": 3,
         "the horse": 6
@@ -11540,11 +11551,12 @@
         "alchemy of air",
         "braudel-vol1",
         "elon-musk",
+        "muskism",
         "normans in the south",
         "philosopher-in-the-valley",
         "the horse"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "agricultural_systems": {
       "id": "agricultural_systems",
@@ -13124,17 +13136,19 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 1,
+        "muskism": 1,
         "sexual personae": 1,
         "the closing of the american mind": 2,
         "the culture of narcissism": 2
       },
       "books": [
         "braudel-vol1",
+        "muskism",
         "sexual personae",
         "the closing of the american mind",
         "the culture of narcissism"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "state_formation": {
       "id": "state_formation",
@@ -14540,13 +14554,15 @@
       "related": [],
       "book_claims": {
         "days of rage": 1,
-        "elon-musk": 2
+        "elon-musk": 2,
+        "muskism": 1
       },
       "books": [
         "days of rage",
-        "elon-musk"
+        "elon-musk",
+        "muskism"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "professional_achievement": {
       "id": "professional_achievement",
@@ -15104,17 +15120,19 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
+        "muskism": 1,
         "philosopher-in-the-valley": 2,
         "the hard thing about hard things": 3,
         "zero to one": 3
       },
       "books": [
         "elon-musk",
+        "muskism",
         "philosopher-in-the-valley",
         "the hard thing about hard things",
         "zero to one"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "corporate_governance": {
       "id": "corporate_governance",
@@ -15332,15 +15350,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
+        "muskism": 1,
         "philosopher-in-the-valley": 3,
         "skunk works": 1
       },
       "books": [
         "elon-musk",
+        "muskism",
         "philosopher-in-the-valley",
         "skunk works"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "startup_founding": {
       "id": "startup_founding",
@@ -17912,13 +17932,15 @@
       "related": [],
       "book_claims": {
         "fanged noumena": 1,
+        "muskism": 1,
         "philosopher-in-the-valley": 1
       },
       "books": [
         "fanged noumena",
+        "muskism",
         "philosopher-in-the-valley"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "deterritorialization": {
       "id": "deterritorialization",
@@ -18031,6 +18053,7 @@
       "book_claims": {
         "fanged noumena": 1,
         "horror of philosophy": 1,
+        "muskism": 1,
         "poor charlies almanack": 1,
         "the ascent of money": 3,
         "the closing of the american mind": 1,
@@ -18039,12 +18062,13 @@
       "books": [
         "fanged noumena",
         "horror of philosophy",
+        "muskism",
         "poor charlies almanack",
         "the ascent of money",
         "the closing of the american mind",
         "through the eye of a needle"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "death_drive": {
       "id": "death_drive",
@@ -22623,16 +22647,18 @@
       "book_claims": {
         "alchemy of air": 4,
         "kabbalistic visions": 3,
+        "muskism": 1,
         "occult philosophy in the elizabethan age": 4,
         "things hidden since the foundation of the world": 2
       },
       "books": [
         "alchemy of air",
         "kabbalistic visions",
+        "muskism",
         "occult philosophy in the elizabethan age",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "intellectual_suppression": {
       "id": "intellectual_suppression",
@@ -24022,15 +24048,17 @@
       "related": [],
       "book_claims": {
         "michael-levin-major-talks": 3,
+        "muskism": 1,
         "signs and machines": 1,
         "the light eaters": 1
       },
       "books": [
         "michael-levin-major-talks",
+        "muskism",
         "signs and machines",
         "the light eaters"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "morphological_plasticity": {
       "id": "morphological_plasticity",
@@ -32643,16 +32671,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "muskism": 1,
         "the ascent of money": 1,
         "through the eye of a needle": 1,
         "unqualified reservations": 1
       },
       "books": [
+        "muskism",
         "the ascent of money",
         "through the eye of a needle",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "fat_tails": {
       "id": "fat_tails",
@@ -39779,16 +39809,18 @@
       "book_claims": {
         "horror of philosophy": 1,
         "horror of philosophy 3": 2,
+        "muskism": 1,
         "ride the tiger": 1,
         "unqualified reservations": 1
       },
       "books": [
         "horror of philosophy",
         "horror of philosophy 3",
+        "muskism",
         "ride the tiger",
         "unqualified reservations"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "esoteric_doctrine": {
       "id": "esoteric_doctrine",
@@ -42117,14 +42149,16 @@
       "book_claims": {
         "anthropol": 1,
         "language machines": 1,
+        "muskism": 2,
         "zero to one": 1
       },
       "books": [
         "anthropol",
         "language machines",
+        "muskism",
         "zero to one"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "visualization": {
       "id": "visualization",
@@ -50242,13 +50276,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
+        "muskism": 2,
         "only the paranoid survive": 1
       },
       "books": [
         "elon-musk",
+        "muskism",
         "only the paranoid survive"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "rapid_prototyping": {
       "id": "rapid_prototyping",
@@ -51697,14 +51733,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "muskism": 2,
         "philosopher-in-the-valley": 1,
         "skunk works": 1
       },
       "books": [
+        "muskism",
         "philosopher-in-the-valley",
         "skunk works"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "intellectual_partnership": {
       "id": "intellectual_partnership",
@@ -52036,13 +52074,15 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 1,
+        "muskism": 1,
         "the age of interconnection": 1
       },
       "books": [
         "alchemy of air",
+        "muskism",
         "the age of interconnection"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "counterinsurgency": {
       "id": "counterinsurgency",
@@ -52147,14 +52187,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "muskism": 1,
         "only the paranoid survive": 1,
         "the age of interconnection": 1
       },
       "books": [
+        "muskism",
         "only the paranoid survive",
         "the age of interconnection"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "long_term_investing": {
       "id": "long_term_investing",
@@ -57974,6 +58016,534 @@
       ],
       "claim_count": 2
     },
+    "white_supremacy": {
+      "id": "white_supremacy",
+      "label": "White Supremacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a disease in the public mind": 1,
+        "muskism": 1
+      },
+      "books": [
+        "a disease in the public mind",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "military_industrial_complex": {
+      "id": "military_industrial_complex",
+      "label": "Military Industrial Complex",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "alchemy of air": 2,
+        "muskism": 1
+      },
+      "books": [
+        "alchemy of air",
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "market_speculation": {
+      "id": "market_speculation",
+      "label": "Market Speculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "best loser wins": 1,
+        "muskism": 1
+      },
+      "books": [
+        "best loser wins",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "algorithmic_governance": {
+      "id": "algorithmic_governance",
+      "label": "Algorithmic Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "boom": 1,
+        "muskism": 1
+      },
+      "books": [
+        "boom",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "class_privilege": {
+      "id": "class_privilege",
+      "label": "Class Privilege",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "days of rage": 1,
+        "muskism": 1
+      },
+      "books": [
+        "days of rage",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "surveillance_capitalism": {
+      "id": "surveillance_capitalism",
+      "label": "Surveillance Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "digital cash": 1,
+        "muskism": 1
+      },
+      "books": [
+        "digital cash",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "digital_governance": {
+      "id": "digital_governance",
+      "label": "Digital Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "digital cash": 1,
+        "muskism": 1
+      },
+      "books": [
+        "digital cash",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "transhumanism": {
+      "id": "transhumanism",
+      "label": "Transhumanism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "digital cash": 1,
+        "muskism": 1
+      },
+      "books": [
+        "digital cash",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "battery_technology": {
+      "id": "battery_technology",
+      "label": "Battery Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 3,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 4
+    },
+    "manufacturing_strategy": {
+      "id": "manufacturing_strategy",
+      "label": "Manufacturing Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 2,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "brain_computer_interface": {
+      "id": "brain_computer_interface",
+      "label": "Brain Computer Interface",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 2,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "market_manipulation": {
+      "id": "market_manipulation",
+      "label": "Market Manipulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "social_media_psychology": {
+      "id": "social_media_psychology",
+      "label": "Social Media Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "content_moderation": {
+      "id": "content_moderation",
+      "label": "Content Moderation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 3,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 4
+    },
+    "meme_culture": {
+      "id": "meme_culture",
+      "label": "Meme Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "muskism": 1
+      },
+      "books": [
+        "elon-musk",
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "deglobalization": {
+      "id": "deglobalization",
+      "label": "Deglobalization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how the world really works": 1,
+        "muskism": 2
+      },
+      "books": [
+        "how the world really works",
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "attention_economy": {
+      "id": "attention_economy",
+      "label": "Attention Economy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 2,
+        "nick land explains the numogram": 1
+      },
+      "books": [
+        "muskism",
+        "nick land explains the numogram"
+      ],
+      "claim_count": 3
+    },
+    "financial_leverage": {
+      "id": "financial_leverage",
+      "label": "Financial Leverage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "normans in the south": 1
+      },
+      "books": [
+        "muskism",
+        "normans in the south"
+      ],
+      "claim_count": 2
+    },
+    "platform_economics": {
+      "id": "platform_economics",
+      "label": "Platform Economics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 2,
+        "only the paranoid survive": 2
+      },
+      "books": [
+        "muskism",
+        "only the paranoid survive"
+      ],
+      "claim_count": 4
+    },
+    "political_performance": {
+      "id": "political_performance",
+      "label": "Political Performance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "muskism",
+        "parables for the virtual"
+      ],
+      "claim_count": 2
+    },
+    "data_integration": {
+      "id": "data_integration",
+      "label": "Data Integration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "philosopher-in-the-valley": 3
+      },
+      "books": [
+        "muskism",
+        "philosopher-in-the-valley"
+      ],
+      "claim_count": 4
+    },
+    "founder_power": {
+      "id": "founder_power",
+      "label": "Founder Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "philosopher-in-the-valley": 1
+      },
+      "books": [
+        "muskism",
+        "philosopher-in-the-valley"
+      ],
+      "claim_count": 2
+    },
+    "mass_deportation": {
+      "id": "mass_deportation",
+      "label": "Mass Deportation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "philosopher-in-the-valley": 1
+      },
+      "books": [
+        "muskism",
+        "philosopher-in-the-valley"
+      ],
+      "claim_count": 2
+    },
+    "democratic_erosion": {
+      "id": "democratic_erosion",
+      "label": "Democratic Erosion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "philosopher-in-the-valley": 1
+      },
+      "books": [
+        "muskism",
+        "philosopher-in-the-valley"
+      ],
+      "claim_count": 2
+    },
+    "regulatory_capture": {
+      "id": "regulatory_capture",
+      "label": "Regulatory Capture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "poor charlies almanack": 1
+      },
+      "books": [
+        "muskism",
+        "poor charlies almanack"
+      ],
+      "claim_count": 2
+    },
+    "founder_mythology": {
+      "id": "founder_mythology",
+      "label": "Founder Mythology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 2,
+        "revolt-against-the-modern-world": 1
+      },
+      "books": [
+        "muskism",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 3
+    },
+    "technocracy": {
+      "id": "technocracy",
+      "label": "Technocracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 3,
+        "the closing of the american mind": 1
+      },
+      "books": [
+        "muskism",
+        "the closing of the american mind"
+      ],
+      "claim_count": 4
+    },
+    "survivalism": {
+      "id": "survivalism",
+      "label": "Survivalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "the culture of narcissism": 1
+      },
+      "books": [
+        "muskism",
+        "the culture of narcissism"
+      ],
+      "claim_count": 2
+    },
+    "militarization": {
+      "id": "militarization",
+      "label": "Militarization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "the horse": 1
+      },
+      "books": [
+        "muskism",
+        "the horse"
+      ],
+      "claim_count": 2
+    },
+    "ideological_reproduction": {
+      "id": "ideological_reproduction",
+      "label": "Ideological Reproduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "muskism",
+        "unqualified reservations"
+      ],
+      "claim_count": 2
+    },
+    "demographic_politics": {
+      "id": "demographic_politics",
+      "label": "Demographic Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "muskism",
+        "unqualified reservations"
+      ],
+      "claim_count": 2
+    },
+    "competitive_markets": {
+      "id": "competitive_markets",
+      "label": "Competitive Markets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "muskism",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "institutional_decline": {
+      "id": "institutional_decline",
+      "label": "Institutional Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "muskism",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
     "slave_insurrection": {
       "id": "slave_insurrection",
       "label": "Slave Insurrection",
@@ -60819,20 +61389,6 @@
     "constitutional_respect": {
       "id": "constitutional_respect",
       "label": "Constitutional Respect",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "a disease in the public mind": 1
-      },
-      "books": [
-        "a disease in the public mind"
-      ],
-      "claim_count": 1
-    },
-    "white_supremacy": {
-      "id": "white_supremacy",
-      "label": "White Supremacy",
       "description": "",
       "aliases": [],
       "related": [],
@@ -66293,20 +66849,6 @@
     "dual_use_technology": {
       "id": "dual_use_technology",
       "label": "Dual Use Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "alchemy of air": 2
-      },
-      "books": [
-        "alchemy of air"
-      ],
-      "claim_count": 2
-    },
-    "military_industrial_complex": {
-      "id": "military_industrial_complex",
-      "label": "Military Industrial Complex",
       "description": "",
       "aliases": [],
       "related": [],
@@ -84910,20 +85452,6 @@
       ],
       "claim_count": 1
     },
-    "market_speculation": {
-      "id": "market_speculation",
-      "label": "Market Speculation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "best loser wins": 1
-      },
-      "books": [
-        "best loser wins"
-      ],
-      "claim_count": 1
-    },
     "value_analysis": {
       "id": "value_analysis",
       "label": "Value Analysis",
@@ -88189,20 +88717,6 @@
     "transformative_technology": {
       "id": "transformative_technology",
       "label": "Transformative Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "boom": 1
-      },
-      "books": [
-        "boom"
-      ],
-      "claim_count": 1
-    },
-    "algorithmic_governance": {
-      "id": "algorithmic_governance",
-      "label": "Algorithmic Governance",
       "description": "",
       "aliases": [],
       "related": [],
@@ -105336,20 +105850,6 @@
       ],
       "claim_count": 1
     },
-    "class_privilege": {
-      "id": "class_privilege",
-      "label": "Class Privilege",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "days of rage": 1
-      },
-      "books": [
-        "days of rage"
-      ],
-      "claim_count": 1
-    },
     "revolutionary_family": {
       "id": "revolutionary_family",
       "label": "Revolutionary Family",
@@ -108682,20 +109182,6 @@
       ],
       "claim_count": 1
     },
-    "surveillance_capitalism": {
-      "id": "surveillance_capitalism",
-      "label": "Surveillance Capitalism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "digital cash": 1
-      },
-      "books": [
-        "digital cash"
-      ],
-      "claim_count": 1
-    },
     "financial_coercion": {
       "id": "financial_coercion",
       "label": "Financial Coercion",
@@ -108797,20 +109283,6 @@
     "crypto_anarchism": {
       "id": "crypto_anarchism",
       "label": "Crypto Anarchism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "digital cash": 1
-      },
-      "books": [
-        "digital cash"
-      ],
-      "claim_count": 1
-    },
-    "digital_governance": {
-      "id": "digital_governance",
-      "label": "Digital Governance",
       "description": "",
       "aliases": [],
       "related": [],
@@ -109245,20 +109717,6 @@
     "cryptocurrency_precursors": {
       "id": "cryptocurrency_precursors",
       "label": "Cryptocurrency Precursors",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "digital cash": 1
-      },
-      "books": [
-        "digital cash"
-      ],
-      "claim_count": 1
-    },
-    "transhumanism": {
-      "id": "transhumanism",
-      "label": "Transhumanism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -111958,20 +112416,6 @@
       ],
       "claim_count": 2
     },
-    "battery_technology": {
-      "id": "battery_technology",
-      "label": "Battery Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 3
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 3
-    },
     "environmental_motivation": {
       "id": "environmental_motivation",
       "label": "Environmental Motivation",
@@ -112041,20 +112485,6 @@
         "elon-musk"
       ],
       "claim_count": 1
-    },
-    "manufacturing_strategy": {
-      "id": "manufacturing_strategy",
-      "label": "Manufacturing Strategy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 2
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 2
     },
     "cash_flow": {
       "id": "cash_flow",
@@ -114212,20 +114642,6 @@
       ],
       "claim_count": 1
     },
-    "brain_computer_interface": {
-      "id": "brain_computer_interface",
-      "label": "Brain Computer Interface",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 2
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 2
-    },
     "training_data": {
       "id": "training_data",
       "label": "Training Data",
@@ -115083,20 +115499,6 @@
     "defamation_risk": {
       "id": "defamation_risk",
       "label": "Defamation Risk",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "market_manipulation": {
-      "id": "market_manipulation",
-      "label": "Market Manipulation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -117782,20 +118184,6 @@
       ],
       "claim_count": 1
     },
-    "social_media_psychology": {
-      "id": "social_media_psychology",
-      "label": "Social Media Psychology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "impulsive_communication": {
       "id": "impulsive_communication",
       "label": "Impulsive Communication",
@@ -118047,20 +118435,6 @@
         "elon-musk"
       ],
       "claim_count": 1
-    },
-    "content_moderation": {
-      "id": "content_moderation",
-      "label": "Content Moderation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 3
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 3
     },
     "platform_philosophy": {
       "id": "platform_philosophy",
@@ -120095,20 +120469,6 @@
     "regulatory_burden": {
       "id": "regulatory_burden",
       "label": "Regulatory Burden",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "meme_culture": {
-      "id": "meme_culture",
-      "label": "Meme Culture",
       "description": "",
       "aliases": [],
       "related": [],
@@ -139947,20 +140307,6 @@
     "computing_history": {
       "id": "computing_history",
       "label": "Computing History",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "how the world really works": 1
-      },
-      "books": [
-        "how the world really works"
-      ],
-      "claim_count": 1
-    },
-    "deglobalization": {
-      "id": "deglobalization",
-      "label": "Deglobalization",
       "description": "",
       "aliases": [],
       "related": [],
@@ -166936,6 +167282,1084 @@
       ],
       "claim_count": 1
     },
+    "ideological_framework": {
+      "id": "ideological_framework",
+      "label": "Ideological Framework",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "platform_monopoly": {
+      "id": "platform_monopoly",
+      "label": "Platform Monopoly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 3
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "state_dependency": {
+      "id": "state_dependency",
+      "label": "State Dependency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "white_nationalism": {
+      "id": "white_nationalism",
+      "label": "White Nationalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 3
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "techno_authoritarianism": {
+      "id": "techno_authoritarianism",
+      "label": "Techno Authoritarianism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 2
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "exclusionary_politics": {
+      "id": "exclusionary_politics",
+      "label": "Exclusionary Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "state_symbiosis": {
+      "id": "state_symbiosis",
+      "label": "State Symbiosis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 4
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 4
+    },
+    "financial_fabulism": {
+      "id": "financial_fabulism",
+      "label": "Financial Fabulism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 3
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 3
+    },
+    "stock_valuation": {
+      "id": "stock_valuation",
+      "label": "Stock Valuation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "far_right_politics": {
+      "id": "far_right_politics",
+      "label": "Far Right Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 2
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "autarky": {
+      "id": "autarky",
+      "label": "Autarky",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "racial_capitalism": {
+      "id": "racial_capitalism",
+      "label": "Racial Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "biometric_surveillance": {
+      "id": "biometric_surveillance",
+      "label": "Biometric Surveillance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "state_technocracy": {
+      "id": "state_technocracy",
+      "label": "State Technocracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "personal_computing": {
+      "id": "personal_computing",
+      "label": "Personal Computing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "cyborg_consciousness": {
+      "id": "cyborg_consciousness",
+      "label": "Cyborg Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "self_education": {
+      "id": "self_education",
+      "label": "Self Education",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "science_fiction_influence": {
+      "id": "science_fiction_influence",
+      "label": "Science Fiction Influence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "human_machine_merger": {
+      "id": "human_machine_merger",
+      "label": "Human Machine Merger",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "militarized_technology": {
+      "id": "militarized_technology",
+      "label": "Militarized Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "colonial_legacy": {
+      "id": "colonial_legacy",
+      "label": "Colonial Legacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "public_private_partnership": {
+      "id": "public_private_partnership",
+      "label": "Public Private Partnership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "fintech": {
+      "id": "fintech",
+      "label": "Fintech",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_capitalism": {
+      "id": "monopoly_capitalism",
+      "label": "Monopoly Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "libertarianism": {
+      "id": "libertarianism",
+      "label": "Libertarianism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "platform_hegemony": {
+      "id": "platform_hegemony",
+      "label": "Platform Hegemony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "media_convergence": {
+      "id": "media_convergence",
+      "label": "Media Convergence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "digital_power": {
+      "id": "digital_power",
+      "label": "Digital Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "agile_manufacturing": {
+      "id": "agile_manufacturing",
+      "label": "Agile Manufacturing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "lean_production": {
+      "id": "lean_production",
+      "label": "Lean Production",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "satellite_infrastructure": {
+      "id": "satellite_infrastructure",
+      "label": "Satellite Infrastructure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "geopolitical_leverage": {
+      "id": "geopolitical_leverage",
+      "label": "Geopolitical Leverage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "infrastructure_monopoly": {
+      "id": "infrastructure_monopoly",
+      "label": "Infrastructure Monopoly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "green_capitalism": {
+      "id": "green_capitalism",
+      "label": "Green Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "supply_chain_security": {
+      "id": "supply_chain_security",
+      "label": "Supply Chain Security",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "geoeconomics": {
+      "id": "geoeconomics",
+      "label": "Geoeconomics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "fortress_futurism": {
+      "id": "fortress_futurism",
+      "label": "Fortress Futurism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "climate_adaptation": {
+      "id": "climate_adaptation",
+      "label": "Climate Adaptation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "post_humanism": {
+      "id": "post_humanism",
+      "label": "Post Humanism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 2
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 2
+    },
+    "factory_capitalism": {
+      "id": "factory_capitalism",
+      "label": "Factory Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "political_hashtag": {
+      "id": "political_hashtag",
+      "label": "Political Hashtag",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "trolling": {
+      "id": "trolling",
+      "label": "Trolling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "cryptocurrency": {
+      "id": "cryptocurrency",
+      "label": "Cryptocurrency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "meme_economy": {
+      "id": "meme_economy",
+      "label": "Meme Economy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "meme_stocks": {
+      "id": "meme_stocks",
+      "label": "Meme Stocks",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "retail_investing": {
+      "id": "retail_investing",
+      "label": "Retail Investing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "troll_capitalism": {
+      "id": "troll_capitalism",
+      "label": "Troll Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "human_augmentation": {
+      "id": "human_augmentation",
+      "label": "Human Augmentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "pandemic_politics": {
+      "id": "pandemic_politics",
+      "label": "Pandemic Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "mind_virus": {
+      "id": "mind_virus",
+      "label": "Mind Virus",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "cyborg_conservatism": {
+      "id": "cyborg_conservatism",
+      "label": "Cyborg Conservatism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "transphobia": {
+      "id": "transphobia",
+      "label": "Transphobia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "platform_acquisition": {
+      "id": "platform_acquisition",
+      "label": "Platform Acquisition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "ideological_warfare": {
+      "id": "ideological_warfare",
+      "label": "Ideological Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "digital_party": {
+      "id": "digital_party",
+      "label": "Digital Party",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "algorithmic_amplification": {
+      "id": "algorithmic_amplification",
+      "label": "Algorithmic Amplification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "far_right_networking": {
+      "id": "far_right_networking",
+      "label": "Far Right Networking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "great_replacement": {
+      "id": "great_replacement",
+      "label": "Great Replacement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "environmental_racism": {
+      "id": "environmental_racism",
+      "label": "Environmental Racism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "digital_infrastructure": {
+      "id": "digital_infrastructure",
+      "label": "Digital Infrastructure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "sacrifice_zones": {
+      "id": "sacrifice_zones",
+      "label": "Sacrifice Zones",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "state_restructuring": {
+      "id": "state_restructuring",
+      "label": "State Restructuring",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "mass_surveillance": {
+      "id": "mass_surveillance",
+      "label": "Mass Surveillance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "platform_state": {
+      "id": "platform_state",
+      "label": "Platform State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "digital_nativism": {
+      "id": "digital_nativism",
+      "label": "Digital Nativism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "financial_exclusion": {
+      "id": "financial_exclusion",
+      "label": "Financial Exclusion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "ai_regulation": {
+      "id": "ai_regulation",
+      "label": "Ai Regulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "contractor_state": {
+      "id": "contractor_state",
+      "label": "Contractor State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "political_capital": {
+      "id": "political_capital",
+      "label": "Political Capital",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "surveillance_infrastructure": {
+      "id": "surveillance_infrastructure",
+      "label": "Surveillance Infrastructure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "green_technology": {
+      "id": "green_technology",
+      "label": "Green Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "carbon_removal": {
+      "id": "carbon_removal",
+      "label": "Carbon Removal",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "technological_contradiction": {
+      "id": "technological_contradiction",
+      "label": "Technological Contradiction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "pronatalism": {
+      "id": "pronatalism",
+      "label": "Pronatalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "digital_superintelligence": {
+      "id": "digital_superintelligence",
+      "label": "Digital Superintelligence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "algorithmic_sovereignty": {
+      "id": "algorithmic_sovereignty",
+      "label": "Algorithmic Sovereignty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
+    "surveillance_state": {
+      "id": "surveillance_state",
+      "label": "Surveillance State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1
+      },
+      "books": [
+        "muskism"
+      ],
+      "claim_count": 1
+    },
     "popular_spirituality": {
       "id": "popular_spirituality",
       "label": "Popular Spirituality",
@@ -168195,20 +169619,6 @@
         "nick land explains the numogram"
       ],
       "claim_count": 2
-    },
-    "attention_economy": {
-      "id": "attention_economy",
-      "label": "Attention Economy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "nick land explains the numogram": 1
-      },
-      "books": [
-        "nick land explains the numogram"
-      ],
-      "claim_count": 1
     },
     "thelema": {
       "id": "thelema",
@@ -170747,20 +172157,6 @@
     "governmental_collapse": {
       "id": "governmental_collapse",
       "label": "Governmental Collapse",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "normans in the south": 1
-      },
-      "books": [
-        "normans in the south"
-      ],
-      "claim_count": 1
-    },
-    "financial_leverage": {
-      "id": "financial_leverage",
-      "label": "Financial Leverage",
       "description": "",
       "aliases": [],
       "related": [],
@@ -186620,20 +188016,6 @@
       ],
       "claim_count": 1
     },
-    "platform_economics": {
-      "id": "platform_economics",
-      "label": "Platform Economics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "only the paranoid survive": 2
-      },
-      "books": [
-        "only the paranoid survive"
-      ],
-      "claim_count": 2
-    },
     "inertia_of_success": {
       "id": "inertia_of_success",
       "label": "Inertia Of Success",
@@ -198114,20 +199496,6 @@
       ],
       "claim_count": 1
     },
-    "political_performance": {
-      "id": "political_performance",
-      "label": "Political Performance",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "parables for the virtual": 1
-      },
-      "books": [
-        "parables for the virtual"
-      ],
-      "claim_count": 1
-    },
     "proprioception": {
       "id": "proprioception",
       "label": "Proprioception",
@@ -199584,20 +200952,6 @@
       ],
       "claim_count": 1
     },
-    "data_integration": {
-      "id": "data_integration",
-      "label": "Data Integration",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 3
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 3
-    },
     "interracial_marriage": {
       "id": "interracial_marriage",
       "label": "Interracial Marriage",
@@ -200732,20 +202086,6 @@
       ],
       "claim_count": 1
     },
-    "founder_power": {
-      "id": "founder_power",
-      "label": "Founder Power",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
     "tech_industry_critique": {
       "id": "tech_industry_critique",
       "label": "Tech Industry Critique",
@@ -201474,20 +202814,6 @@
       ],
       "claim_count": 1
     },
-    "mass_deportation": {
-      "id": "mass_deportation",
-      "label": "Mass Deportation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
     "government_disruption": {
       "id": "government_disruption",
       "label": "Government Disruption",
@@ -201575,20 +202901,6 @@
     "employee_criticism": {
       "id": "employee_criticism",
       "label": "Employee Criticism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
-    "democratic_erosion": {
-      "id": "democratic_erosion",
-      "label": "Democratic Erosion",
       "description": "",
       "aliases": [],
       "related": [],
@@ -202093,20 +203405,6 @@
     "conflicts_of_interest": {
       "id": "conflicts_of_interest",
       "label": "Conflicts Of Interest",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "poor charlies almanack": 1
-      },
-      "books": [
-        "poor charlies almanack"
-      ],
-      "claim_count": 1
-    },
-    "regulatory_capture": {
-      "id": "regulatory_capture",
-      "label": "Regulatory Capture",
       "description": "",
       "aliases": [],
       "related": [],
@@ -218553,20 +219851,6 @@
         "revolt-against-the-modern-world"
       ],
       "claim_count": 2
-    },
-    "founder_mythology": {
-      "id": "founder_mythology",
-      "label": "Founder Mythology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 1
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 1
     },
     "mythological_twins": {
       "id": "mythological_twins",
@@ -249830,20 +251114,6 @@
       ],
       "claim_count": 1
     },
-    "technocracy": {
-      "id": "technocracy",
-      "label": "Technocracy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the closing of the american mind": 1
-      },
-      "books": [
-        "the closing of the american mind"
-      ],
-      "claim_count": 1
-    },
     "rationalism_critique": {
       "id": "rationalism_critique",
       "label": "Rationalism Critique",
@@ -252703,20 +253973,6 @@
     "political_disengagement": {
       "id": "political_disengagement",
       "label": "Political Disengagement",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the culture of narcissism": 1
-      },
-      "books": [
-        "the culture of narcissism"
-      ],
-      "claim_count": 1
-    },
-    "survivalism": {
-      "id": "survivalism",
-      "label": "Survivalism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -263553,20 +264809,6 @@
     "fortification_technology": {
       "id": "fortification_technology",
       "label": "Fortification Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the horse": 1
-      },
-      "books": [
-        "the horse"
-      ],
-      "claim_count": 1
-    },
-    "militarization": {
-      "id": "militarization",
-      "label": "Militarization",
       "description": "",
       "aliases": [],
       "related": [],
@@ -322280,20 +323522,6 @@
       ],
       "claim_count": 1
     },
-    "ideological_reproduction": {
-      "id": "ideological_reproduction",
-      "label": "Ideological Reproduction",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
     "ideological_framing": {
       "id": "ideological_framing",
       "label": "Ideological Framing",
@@ -323319,20 +324547,6 @@
     "conflict_description": {
       "id": "conflict_description",
       "label": "Conflict Description",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
-    "demographic_politics": {
-      "id": "demographic_politics",
-      "label": "Demographic Politics",
       "description": "",
       "aliases": [],
       "related": [],
@@ -329952,20 +331166,6 @@
       ],
       "claim_count": 1
     },
-    "competitive_markets": {
-      "id": "competitive_markets",
-      "label": "Competitive Markets",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
-    },
     "market_definition": {
       "id": "market_definition",
       "label": "Market Definition",
@@ -330627,20 +331827,6 @@
     "technological_pessimism": {
       "id": "technological_pessimism",
       "label": "Technological Pessimism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
-    },
-    "institutional_decline": {
-      "id": "institutional_decline",
-      "label": "Institutional Decline",
       "description": "",
       "aliases": [],
       "related": [],
@@ -331326,8 +332512,8 @@
     }
   },
   "stats": {
-    "total_concepts": 22780,
-    "total_claims": 38344,
-    "books_indexed": 125
+    "total_concepts": 22857,
+    "total_claims": 38497,
+    "books_indexed": 126
   }
 }
