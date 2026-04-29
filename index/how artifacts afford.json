@@ -1,0 +1,1213 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "How Artifacts Afford: The Power and Politics of Everyday Things",
+    "author": "Jenny L. Davis",
+    "year": 2020,
+    "categories": [
+      "social science",
+      "design",
+      "technology & engineering"
+    ],
+    "thesis": "Technologies are political artifacts that shape human action through affordances, which are best understood not as binary properties but as graduated mechanisms (request, demand, encourage, discourage, refuse, allow) that vary across subjects and circumstances, requiring a 'mechanisms and conditions framework' to analyze how power and inequality are built into everyday objects."
+  },
+  "claims": [
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-001",
+      "text": "The shopping cart's evolution from Goldman's 1937 labor-saving device to a coin-locked commodity illustrates how even mundane objects encode values, gender norms, and political-economic interests into their material form.",
+      "chapter": "Introduction",
+      "concepts": [
+        "materialized_values",
+        "consumer_technology",
+        "gender_norms"
+      ],
+      "entities": {
+        "people": [
+          "Sylvan Goldman"
+        ],
+        "places": [
+          "Oklahoma"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Women initially rejected carts because they resembled baby buggies, and men found them effeminate; Goldman overcame this through a PR campaign using attractive shoppers as models.",
+          "speaker": null
+        },
+        {
+          "text": "Coin-lock systems, patented in the 1980s\u201390s, create collateral-based friction that dissuades cart use altogether, disproportionately affecting people without vehicles or spare change.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-002",
+      "text": "An affordance is the relational structure between an object and a subject that enables or constrains potential behavioral outcomes in context\u2014technologies don't make people do things but push, pull, enable, and constrain with varying degrees of force.",
+      "chapter": "Introduction",
+      "concepts": [
+        "affordance_theory",
+        "human_technology_relations",
+        "technological_determinism"
+      ],
+      "entities": {
+        "people": [
+          "James J. Gibson",
+          "Donald A. Norman"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The concept originated with ecological psychologist James J. Gibson in the 1960s\u201370s and was brought to design studies by Donald A. Norman in 1988.",
+          "speaker": null
+        },
+        {
+          "text": "Front-facing digital cameras afford selfies in ways that diverge from film devices; drop-down menus shape choice more confinely than write-in boxes\u2014affordances are everywhere and always relational.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-003",
+      "text": "The binary depiction of affordances\u2014objects either afford or do not afford\u2014is the concept's central flaw; shifting from 'what' to 'how' reveals affordances as graduated and relational, varying across persons and circumstances.",
+      "chapter": "Introduction",
+      "concepts": [
+        "affordance_theory",
+        "relational_ontology",
+        "inequality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Canberra",
+          "Australia"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Coin-lock and wheel-lock systems both reduce cart transportability but with different degrees of force: the coin-lock allows removal at a $2 cost while the wheel-lock physically stops the cart at a magnetic perimeter.",
+          "speaker": null
+        },
+        {
+          "text": "For the author as a coin-lock novice in Australia, the barrier was stronger than for experienced users; the barrier amplifies under time pressure and is more consequential for someone experiencing homelessness.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-004",
+      "text": "The mechanisms and conditions framework operationalizes affordance by specifying how technologies afford (request, demand, encourage, discourage, refuse, allow) and for whom and under what circumstances (perception, dexterity, cultural and institutional legitimacy).",
+      "chapter": "Introduction",
+      "concepts": [
+        "affordance_mechanisms",
+        "structural_inequality",
+        "surveillance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Shopping carts encourage large purchases and discourage frequent small trips; neither baskets nor carts refuse particular contents, but they allow different distributions of labor between shopper and staff.",
+          "speaker": null
+        },
+        {
+          "text": "Customers of color face heightened surveillance in stores, meaning cart removal is effectively refused for them in ways it is merely discouraged for white customers\u2014illustrating how normative biases shape affordance conditions.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-005",
+      "text": "Technologies are political by default and tend to reinforce privilege and normality when left unchecked, as demonstrated by facial recognition systems that fail on dark skin tones, Facebook's exclusionary real-name policy, and Google's ad algorithm presenting men with higher-paying jobs than women.",
+      "chapter": "Introduction",
+      "concepts": [
+        "algorithmic_bias",
+        "systemic_racism",
+        "design_politics"
+      ],
+      "entities": {
+        "people": [
+          "Virginia Eubanks",
+          "Safiya Umoja Noble"
+        ],
+        "places": [
+          "Carnegie Mellon University"
+        ],
+        "events": [],
+        "works": [
+          "Automating Inequality",
+          "Algorithms of Oppression"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Virginia Eubanks's Automating Inequality shows that automated welfare, healthcare, and child-protection systems over-monitor and underserve poor populations\u2014placing the burden of reconciliation on the most vulnerable.",
+          "speaker": null
+        },
+        {
+          "text": "Safiya Umoja Noble's Algorithms of Oppression demonstrates that searching 'black girls' on Google returned pornographic imagery, while 'white girls' returned images of innocence\u2014racist and sexist logics encoded into information infrastructure.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-006",
+      "text": "The mechanisms and conditions framework bridges critical social science analysis and the practical turn in design studies\u2014translating political critique into actionable vocabulary for redesigning sociotechnical systems toward equity.",
+      "chapter": "Introduction",
+      "concepts": [
+        "value_sensitive_design",
+        "design_ethics",
+        "sociotechnical_systems"
+      ],
+      "entities": {
+        "people": [
+          "Batya Friedman",
+          "Mary Flanagan",
+          "Helen Nissenbaum"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Values at Play in Digital Games"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Value-sensitive design (Friedman et al.) and Values at Play in Digital Games (Flanagan and Nissenbaum) represent a practical turn that centralizes ethics in design, using strategies like stakeholder mapping, prototyping, and value scenarios.",
+          "speaker": null
+        },
+        {
+          "text": "The framework is empirically agnostic and transferable\u2014equally applicable to bots, social media platforms, chalkboards, seat belts, and shopping carts as sociotechnical change accelerates.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-007",
+      "text": "Gibson introduced affordances in ecological psychology as a direct, antirepresentational theory of perception in which organisms and environments are bidirectionally co-constitutive\u2014affordances are action opportunities arising from the relationship between object properties and subject properties, not from a subject's needs.",
+      "chapter": "A Brief History of Affordances",
+      "concepts": [
+        "ecological_psychology",
+        "direct_perception",
+        "relational_ontology"
+      ],
+      "entities": {
+        "people": [
+          "James J. Gibson",
+          "Kurt Lewin",
+          "Kurt Koffka",
+          "Hermann von Helmholtz"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Ecological Approach to Visual Perception"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Gibson's 1979 canonical definition: 'The affordances of an environment are what it offers the animal, what it provides or furnishes, either for good or ill'\u2014he coined the noun 'affordance' himself.",
+          "speaker": "James J. Gibson"
+        },
+        {
+          "text": "Gibson built on Gestalt psychologists Kurt Lewin and Kurt Koffka, especially Koffka's idea that mailboxes have a 'demand-character' for letter-writers\u2014but Gibson insisted affordances exist regardless of the observer's need or propensity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-008",
+      "text": "Norman shifted affordances to design studies and HCI in 1988, emphasizing perceived affordances and tasking designers with the psychological work of guiding users along intended pathways\u2014a move that introduced productive tension with Gibson's materialist objectivism.",
+      "chapter": "A Brief History of Affordances",
+      "concepts": [
+        "human_computer_interaction",
+        "design_theory",
+        "perception"
+      ],
+      "entities": {
+        "people": [
+          "Donald A. Norman"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Psychology of Everyday Things",
+          "The Design of Everyday Things"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Norman's original definition treated affordance as 'perceived and actual properties of the thing, primarily those fundamental properties that determine just how the thing could possibly be used.'",
+          "speaker": "Donald A. Norman"
+        },
+        {
+          "text": "In his updated Design of Everyday Things, Norman distinguished 'real' affordances (material features) from 'perceived' affordances (user awareness), arguing designers should focus on the latter\u2014critics had faulted the original as too subjective.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-009",
+      "text": "Affordance spread productively across anthropology, engineering, communication studies, and education\u2014each discipline adding precision while demonstrating the concept's cross-disciplinary hardiness as an analytic tool for understanding human-technology relations in context.",
+      "chapter": "A Brief History of Affordances",
+      "concepts": [
+        "interdisciplinary_theory",
+        "affordance_theory",
+        "design_engineering"
+      ],
+      "entities": {
+        "people": [
+          "Tim Ingold",
+          "Jonathan R. A. Maier",
+          "George M. Fadel",
+          "Roy D. Pea",
+          "Diana Laurillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Tim Ingold argued that a relational affordance approach 'could escape the endlessly self-replicating dualism between a universally given world of nature and the diversely constructed worlds of culture.'",
+          "speaker": "Tim Ingold"
+        },
+        {
+          "text": "In engineering, Maier and Fadel's affordance-based design (ABD) defines affordance as the relationship between artifacts, users, and environments\u2014optimized by the designer toward defined goals, such as standing desks promoting health.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-010",
+      "text": "Three persistent critiques have plagued affordance theory: definitional confusion, binary formulation, and failure to account for diverse subjects and contexts\u2014together these undermine the concept's analytic integrity without negating its value.",
+      "chapter": "A Brief History of Affordances",
+      "concepts": [
+        "conceptual_critique",
+        "binary_thinking",
+        "affordance_theory"
+      ],
+      "entities": {
+        "people": [
+          "William H. Warren",
+          "Donald A. Norman"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Norman himself suggested abandoning 'affordance' in favor of 'signifier' because definitional discord had become so widespread\u2014a symptom of the concept being simultaneously overspecified in niche literatures and undefined in broad applications.",
+          "speaker": null
+        },
+        {
+          "text": "Warren's mathematical stair-climbing study was designed precisely to show affordances as degrees rather than binaries, yet binary usage persisted in applied research\u2014demonstrating the gap between theoretical advances and practical application.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-011",
+      "text": "Recent conceptual advances by Nagy and Neff (imagined affordance) and Evans and colleagues (affordances as mediators between features and outcomes) correct for binary and static applications by treating affordances as gradated potentialities operating through diverse subjects and changing circumstances.",
+      "chapter": "A Brief History of Affordances",
+      "concepts": [
+        "affordance_theory",
+        "sociotechnical_systems",
+        "relational_ontology"
+      ],
+      "entities": {
+        "people": [
+          "Peter Nagy",
+          "Gina Neff",
+          "Sandra K. Evans"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Nagy and Neff's 'imagined affordance' captures the interplay of materiality, intentionality, and serendipity as designers build objects that then take shape through diverse users\u2014accounting for 'webs of relations' between artifacts, users, designers, and contexts.",
+          "speaker": null
+        },
+        {
+          "text": "Evans and colleagues define affordance as that which mediates between features and outcomes, attending to materiality while recognizing that the same feature can manifest in undetermined ways across socially situated subjects.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-012",
+      "text": "McLuhan's 'the medium is the message' established that technologies are not neutral tools but have organizing effects on social life independent of their content\u2014a counter to extreme constructivism that focused only on what people do with media.",
+      "chapter": "Politics and Power",
+      "concepts": [
+        "media_theory",
+        "technological_determinism",
+        "infrastructure"
+      ],
+      "entities": {
+        "people": [
+          "Marshall McLuhan"
+        ],
+        "places": [],
+        "events": [
+          "World War II"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The railroad organized economic and political life around fixed geographic stops; automobiles enabled suburbs and freed commerce from rail schedules\u2014demonstrating that infrastructure reshapes entire social formations.",
+          "speaker": null
+        },
+        {
+          "text": "McLuhan warned that 'subliminal and docile acceptance of media impact has made them prisons without walls for their human users'\u2014a caution especially apt given algorithmic systems now governing hiring, resource allocation, and information distribution.",
+          "speaker": "Marshall McLuhan"
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-013",
+      "text": "Actor-network theory (ANT), most famously articulated by Bruno Latour, overcomes technological determinism by placing humans and nonhumans as equivalent 'actants' in mutually constitutive networks\u2014but its political neutrality is a fundamental flaw that prevents it from addressing power and inequality.",
+      "chapter": "Politics and Power",
+      "concepts": [
+        "actor_network_theory",
+        "political_neutrality",
+        "co_constitution"
+      ],
+      "entities": {
+        "people": [
+          "Bruno Latour",
+          "David Banks",
+          "Edwin Sayes"
+        ],
+        "places": [
+          "Albany",
+          "New York"
+        ],
+        "events": [
+          "Occupy Wall Street"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "David Banks's ANT-inflected analysis of Occupy Albany describes 4G signals, routers, and activists as equivalent participants whose 'attendance' or absence shapes the protest's viability\u2014illustrating both ANT's strengths and its flattening of political hierarchy.",
+          "speaker": null
+        },
+        {
+          "text": "Edwin Sayes conceded in 2014 that 'morality and politics' are outside ANT's parameters\u2014a concession critics argue makes the framework inherently inadequate for social analysis, since power is endemic to social systems.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-014",
+      "text": "Langdon Winner's analysis of Robert Moses's low-hanging bridges on the Long Island Parkway demonstrates that seemingly apolitical design decisions can materially encode race and class exclusions that persist for generations.",
+      "chapter": "Politics and Power",
+      "concepts": [
+        "design_politics",
+        "hostile_architecture",
+        "structural_racism"
+      ],
+      "entities": {
+        "people": [
+          "Langdon Winner",
+          "Robert Moses",
+          "Selena Savi\u0107",
+          "Gordan Savi\u010di\u0107"
+        ],
+        "places": [
+          "New York City",
+          "Long Island"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Bridges too low for buses to pass made Long Island's beaches inaccessible to public transit riders\u2014who disproportionately are people of lower socioeconomic status and people of color\u2014while remaining open to car owners.",
+          "speaker": null
+        },
+        {
+          "text": "Hostile architectures more broadly\u2014armrests that deter lying on benches, bike racks displacing tent encampments, pink lights discouraging teen loitering\u2014show that architectural features regulate social behavior in the absence of authority figures.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-015",
+      "text": "Schraube's 'technology as materialized action' provides the theoretical foundation for the mechanisms and conditions framework by recognizing technological efficacy (things do things) while reserving agency exclusively for humans\u2014creating space for critical accountability that ANT forecloses.",
+      "chapter": "Politics and Power",
+      "concepts": [
+        "human_agency",
+        "technological_efficacy",
+        "materialized_action"
+      ],
+      "entities": {
+        "people": [
+          "Ernst Schraube",
+          "Frank Pasquale",
+          "Peter-Paul Verbeek"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Schraube: 'it would be misleading to speak of an object really acting. Action is an intentional human activity accessible to consciousness and concerned with issues of freedom, reasons, and responsibility.'",
+          "speaker": "Ernst Schraube"
+        },
+        {
+          "text": "Frank Pasquale on credit-sorting algorithms: 'human decision-makers devised the algorithms, inflected the data, and influenced its analysis. No code layer can create a plug and play level playing field. Algorithms will never offer an escape from society.'",
+          "speaker": "Frank Pasquale"
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-016",
+      "text": "Technologies are ontologically ambivalent\u2014their effects are multiple, surprising, and 'multistable,' often exceeding designers' intentions, as demonstrated by digital tools simultaneously enabling and weakening protest movements and Facebook hosting police brutality documentation it never envisioned.",
+      "chapter": "Politics and Power",
+      "concepts": [
+        "unintended_consequences",
+        "social_movements",
+        "platform_politics"
+      ],
+      "entities": {
+        "people": [
+          "Zeynep Tufekci",
+          "Mark Zuckerberg"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Zeynep Tufekci shows that digital technologies help movements grow quickly but produce fragile infrastructure lacking the cohesion and clear leadership that traditional organizing's tedious groundwork generates.",
+          "speaker": null
+        },
+        {
+          "text": "Facebook was built to connect friends at elite universities; it became a platform for livestreamed videos of police shootings of unarmed citizens\u2014an outcome Mark Zuckerberg almost certainly did not envision when he launched TheFacebook.com in 2004.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-017",
+      "text": "Requests and demands are bids initiated by technological objects: requests indicate preference for some action while leaving alternatives open, whereas demands render one course of action inevitable and others implausible\u2014the difference illustrated by rope versus electric fencing.",
+      "chapter": "Mechanisms of Affordance",
+      "concepts": [
+        "affordance_mechanisms",
+        "institutional_legitimacy",
+        "behavioral_constraint"
+      ],
+      "entities": {
+        "people": [
+          "Galon Higdon"
+        ],
+        "places": [
+          "Missouri",
+          "Ferguson"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Police tape makes a stronger request than unmarked twine not through different physical permeability but through the semiotics of institutional legitimacy\u2014demonstrating that mechanism strength is not purely material.",
+          "speaker": null
+        },
+        {
+          "text": "Missouri House Bill 37 (2017), which would have made crossing a police perimeter a class A misdemeanor, was explicitly framed by its sponsor as moving a police barrier from 'pretty much a request' toward a demand\u2014showing how legal codes modulate mechanism intensity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-018",
+      "text": "Academic paywalls demand institutional affiliation or payment for knowledge access, while Facebook's gender-identification requirement demonstrates a demand that has been loosened (from binary to 50+ options) but never eliminated\u2014showing demands as strong but not deterministic.",
+      "chapter": "Mechanisms of Affordance",
+      "concepts": [
+        "platform_governance",
+        "information_access",
+        "identity_politics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Open-access advocates protest paywall architectures that demand either individual payment or institutional affiliation, arguing that knowledge should instead be allowed to flow openly and equitably.",
+          "speaker": null
+        },
+        {
+          "text": "Facebook maintains the demand for gender identification while refusing a write-in box, requiring users to select from a prefigured list\u2014a design decision that is neither natural nor inevitable and could be otherwise.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-019",
+      "text": "Technologies encourage when they make actions easy and obvious\u2014sometimes by design intent, sometimes latently: Facebook's one-click sharing, memory prompts, and auto-tagging encourage data production that serves advertising revenue, and inadvertently encourages political microtargeting.",
+      "chapter": "Mechanisms of Affordance",
+      "concepts": [
+        "platform_design",
+        "latent_effects",
+        "behavioral_nudge"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Large plates encourage greater food consumption and small plates encourage portion control, even when dish designers have no dietary intentions\u2014demonstrating that encouragement can be a latent feature entirely independent of design goals.",
+          "speaker": null
+        },
+        {
+          "text": "The Portions Master Skinny Plate with presized cut-outs for protein, starch, and vegetables intentionally encodes encouragement for balanced eating into the object's material form, illustrating deliberate alignment of design and affordance.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-020",
+      "text": "Technologies discourage by erecting obstacles to action without making it impossible: Twitter's character limit discourages long-form content, Instagram community norms informally censor over-posting, and vote-curation systems on platforms like Imgur structurally discourage dissenting and marginalized voices.",
+      "chapter": "Mechanisms of Affordance",
+      "concepts": [
+        "platform_norms",
+        "voice_and_silence",
+        "algorithmic_curation"
+      ],
+      "entities": {
+        "people": [
+          "Christopher M. Julien"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Sociologist Christopher M. Julien found that Imgur's predominantly white, male, middle-class user base downvotes both explicit racism and progressive antiracist discourse, enforcing a comfortable colorblind ideology through the vote mechanism.",
+          "speaker": null
+        },
+        {
+          "text": "Dissent is not precluded on vote-curated platforms but requires organized effort and deliberate strategy\u2014dissent is possible but socially and technologically discouraged, showing the difference between discourage and refuse.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-021",
+      "text": "Technologies refuse by rendering actions impossible or implausible by design or omission\u2014but refusals, like demands, are not deterministic: they are subject to circumvention, technological update, and creative user subversion.",
+      "chapter": "Mechanisms of Affordance",
+      "concepts": [
+        "platform_architecture",
+        "technological_change",
+        "affordance_mechanisms"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Facebook refuses profile personalization (wallpapers, music) and friend rank-ordering that MySpace encouraged\u2014a key architectural distinction between the two platforms that shapes entirely different user cultures.",
+          "speaker": null
+        },
+        {
+          "text": "Twitter previously refused more than 140 characters but expanded to 280, transforming a former refusal into an encouragement\u2014illustrating that refusals are historical and contingent rather than permanent.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-022",
+      "text": "Allow is neutral in intensity\u2014placing no pressure in either direction\u2014but is never apolitical: Facebook's advertising interface allowed targeting of anti-Semitic user categories and Google's ad system suggested racist keyword pairings, revealing that algorithmically neutral 'allow' defaults toward harm when left unchecked.",
+      "chapter": "Mechanisms of Affordance",
+      "concepts": [
+        "algorithmic_neutrality",
+        "hate_speech",
+        "platform_politics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "2016 US presidential campaign"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "ProPublica identified 2,300 Facebook users interested in 'Jew hater' and 'how to burn Jews' and was able to target them with a 15-minute approval process\u2014a direct consequence of an advertising interface that allows targeting from any direction.",
+          "speaker": null
+        },
+        {
+          "text": "BuzzFeed found that entering 'why do Jews ruin everything' into Google's ad interface prompted suggestions for ads tied to 'evil Jews' and 'Jewish control of banks'\u2014showing that apparently neutral algorithm design encodes the capacity for harm.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-023",
+      "text": "The opening case of a local resident arrested for crossing police tape while a journalist crossed the same perimeter unwarned demonstrates that the mechanisms of affordance are inseparable from social and structural conditions\u2014the same material barrier functioned as refusal for one subject and mere discouragement for another.",
+      "chapter": "Conditions of Affordance",
+      "concepts": [
+        "structural_inequality",
+        "surveillance",
+        "affordance_conditions"
+      ],
+      "entities": {
+        "people": [
+          "Melinda McLaughlin"
+        ],
+        "places": [
+          "Eugene",
+          "Oregon",
+          "Jefferson Westside"
+        ],
+        "events": [],
+        "works": [
+          "The Register-Guard"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The apartments near the Eugene, Oregon incident are in a neighborhood with median income 47% below the national average and a crime rate 61% above average\u2014the resident's structural position amplified police suspicion and tightened the affordance of the barrier.",
+          "speaker": null
+        },
+        {
+          "text": "The journalist was marked by signifiers of high status that buffered against surveillance; the resident was not\u2014illustrating that the force of a technological boundary is co-produced by the social position of the subject encountering it.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-024",
+      "text": "Perception activates affordances: a measuring cup becomes a drinking glass only when perceived as having glasslike features, and social media algorithms remain invisible constraints for novices but pliable tools for media-savvy users who can adjust default settings.",
+      "chapter": "Conditions of Affordance",
+      "concepts": [
+        "media_literacy",
+        "perception",
+        "digital_inequality"
+      ],
+      "entities": {
+        "people": [
+          "Gina Neff"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Gina Neff observed that 'for hackers and experts, systems look more crackable, more full of potential and possibility, than they look to the rest of us\u2014appearing to us as given and relatively fixed.'",
+          "speaker": "Gina Neff"
+        },
+        {
+          "text": "Media literacy can paradoxically worsen misinformation: users who perceive feeds as adjustable are allowed to filter out challenging content, potentially reinforcing filter bubbles\u2014showing perception can enable both critical engagement and confirmation bias.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-025",
+      "text": "Dexterity\u2014physical and cognitive capacity to enact an object's functions\u2014is the basis for disability studies critiques of built infrastructure: stairs, thin fonts, and non-accessible website designs discourage or refuse users whose bodies diverge from the assumed model human.",
+      "chapter": "Conditions of Affordance",
+      "concepts": [
+        "disability_studies",
+        "accessibility",
+        "bodily_norms"
+      ],
+      "entities": {
+        "people": [
+          "William H. Warren"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Warren's stair study showed that climbability requires adequate leg length, muscular capacity, muscle control, and balance\u2014persons with lower body paralysis, muscular atrophy, or severe arthritis are discouraged or refused by stairs that encourage able-bodied persons.",
+          "speaker": null
+        },
+        {
+          "text": "Websites adhering to World Wide Web Consortium (W3C) accessibility standards equally allow and encourage consumption by users with any level of vision, while stylish thin fonts and similar color contrasts effectively refuse access to the visually impaired.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-026",
+      "text": "Cultural and institutional legitimacy\u2014the formal codes and informal conventions that sanction or prohibit subject-object relations\u2014shapes affordances through both law and norm, as illustrated by thermostat access within family hierarchies and platform content moderation that defaults to cisgender heteronormative standards.",
+      "chapter": "Conditions of Affordance",
+      "concepts": [
+        "institutional_legitimacy",
+        "platform_governance",
+        "social_capital"
+      ],
+      "entities": {
+        "people": [
+          "Stefanie Duguay",
+          "Jean Burgess",
+          "Nicolas Suzor"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Duguay, Burgess, and Suzor's study of Instagram, Tinder, and Vine shows that content moderation features serve a default cis white user: Instagram moderates by heteronormative conventions, Tinder's obscure flagging enables sexual exploitation, and Vine's laissez-faire approach allows antiqueer sentiments\u2014platforms encourage participation by some demographics and discourage it for others.",
+          "speaker": null
+        },
+        {
+          "text": "Ethnographic studies of low-income urban youth of color show social media as sites of surveillance, drama, and danger rather than network-building\u2014these youth face requests for limited engagement and are refused the freedom to connect that university-based studies treat as universal.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-027",
+      "text": "The conditions of affordance are not fixed but change with legal shifts, skill development, and changing relationships\u2014Saudi Arabia's 2017 decree legalizing women driving transformed a refusal into an allowance, though a lifetime of non-driving may still inhibit perception and dexterity.",
+      "chapter": "Conditions of Affordance",
+      "concepts": [
+        "legal_change",
+        "accessibility",
+        "sociotechnical_change"
+      ],
+      "entities": {
+        "people": [
+          "Mohammed bin Salman"
+        ],
+        "places": [
+          "Saudi Arabia"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In 2017, Mohammed bin Salman issued a decree legalizing driving for women in Saudi Arabia\u2014legal change altered cultural and institutional support, but for women embedded in traditional networks, normative cultural milieu may still demand driving abstinence.",
+          "speaker": null
+        },
+        {
+          "text": "Screen readers shift a visually inaccessible website from refuse to allow; a research collaborator with quantitative dexterity transforms software that discourages the author into tools that encourage the team\u2014showing conditions as inherently relational and modifiable.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-028",
+      "text": "The conditions of affordance also function reflexively: by requiring analysts to ask 'for whom and under what circumstances?', the framework foregrounds analysts' own default assumptions and social positions, infusing the analytic process with critical self-reflection.",
+      "chapter": "Conditions of Affordance",
+      "concepts": [
+        "reflexivity",
+        "analytic_positionality",
+        "structural_reproduction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Whether a feature reads as a request versus allow may be a function of the analyst's own cultural and institutional access to that object\u2014analysts are themselves socially situated subjects whose conditions shape what affordances they perceive.",
+          "speaker": null
+        },
+        {
+          "text": "The conditions of affordance are both reflective and productive: they embody existing sociostructural arrangements and reverberate out to shape cultural norms, institutional practices, and practical realities\u2014as seen in driving laws that shape and reflect gendered dependence, employment, and power.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-029",
+      "text": "Methods appropriate for the mechanisms and conditions framework must meet five criteria: centralize political dynamics, give voice to marginal populations, maintain reflexive orientation, assume multiplicity of meaning and outcome, and address materiality with a social lens\u2014methods claiming political neutrality are structurally incompatible.",
+      "chapter": "Affordances in Practice",
+      "concepts": [
+        "research_methodology",
+        "critical_theory",
+        "reflexivity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Political neutrality undermines analytic attention to the conditions of affordance as structural factors; approaches that converge on the center treat dominant perspectives as universal and miss the variability the framework is designed to capture.",
+          "speaker": null
+        },
+        {
+          "text": "Claims to objectivity are antithetical to the framework's flexible and argumentative nature: scientific claims are always imperfect approximations, and the mechanisms themselves are analytic pegs rather than definitive truths.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-030",
+      "text": "Critical technocultural discourse analysis (CTDA), introduced by Andr\u00e9 Brock, shows the tightest fit with the framework by simultaneously analyzing hardware, software, ideology, and user experience through a critical lens that centralizes race and other axes of marginalization.",
+      "chapter": "Affordances in Practice",
+      "concepts": [
+        "critical_race_theory",
+        "discourse_analysis",
+        "digital_culture"
+      ],
+      "entities": {
+        "people": [
+          "Andr\u00e9 Brock"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "CTDA's key assumption is that 'ICTs are not neutral artifacts outside of society; they are shaped by the sociocultural contexts of their design and use'\u2014and that technocultural discourse must be framed from both the user's and the designer's cultural perspective.",
+          "speaker": null
+        },
+        {
+          "text": "Like the mechanisms and conditions framework, CTDA treats ambiguity as a feature: conclusions remain always contentious, situated, and subject to change, and different analysts may arrive at different designations for the same research object.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-031",
+      "text": "The walkthrough method analyzes single apps as dynamic cultural texts through three stages (registration, everyday use, suspension/leaving), mapping an app's 'environment of expected use' via vision, operating model, and governance\u2014but its reliance on ANT leaves a political gap the mechanisms and conditions framework can fill.",
+      "chapter": "Affordances in Practice",
+      "concepts": [
+        "platform_analysis",
+        "app_studies",
+        "governance"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The walkthrough method requires imagining app features from multiple user perspectives (queer*, disabled, elderly, low-income) to discern which forms of identity and use are deemed legitimate and which are marginalized or actively rejected.",
+          "speaker": null
+        },
+        {
+          "text": "Governance\u2014how an app requests, demands, encourages, discourages, refuses, and allows\u2014maps directly onto the mechanisms of affordance, making the two tools naturally complementary for systematic analysis of platform regulation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-032",
+      "text": "App feature analysis, introduced by Bivens and Hasinoff, maps entire app genres rather than individual apps to reveal ideological trends\u2014their study of 215 antirape apps found that existing apps reinforce victim-blaming and stranger-perpetrator myths, contrary to feminist research and social science evidence.",
+      "chapter": "Affordances in Practice",
+      "concepts": [
+        "feminist_design",
+        "app_studies",
+        "design_ideology"
+      ],
+      "entities": {
+        "people": [
+          "Rena Bivens",
+          "Amy Adele Hasinoff"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Bivens and Hasinoff imagined redesigned apps that would aggregate women's assault narratives\u2014moving from deconstructive critique to reconstructive design, a movement from exposing demands for victim self-protection to demanding public acknowledgment of assault's prevalence.",
+          "speaker": null
+        },
+        {
+          "text": "The mechanisms and conditions framework would strengthen app feature analysis by adding systematic analytic categories for the circumstances in which apps are employed (during, before, or after an assault encounter), adding the 'under what circumstances?' dimension.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-033",
+      "text": "Adversarial design, grounded in Carl DiSalvo's agonist politics, makes power dynamics materially visible and actionable\u2014its three tactics (revealing hegemony, reconfiguring the remainder, articulating collectives) converge with the mechanisms and conditions framework's orientation toward ongoing argumentation rather than definitive truth.",
+      "chapter": "Affordances in Practice",
+      "concepts": [
+        "critical_design",
+        "agonism",
+        "material_politics"
+      ],
+      "entities": {
+        "people": [
+          "Carl DiSalvo"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Adversarial Design"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The CCD-me-not Umbrella\u2014a device that obstructs surveillance cameras\u2014materializes the condition of mass surveillance so it can be sensed and contested, while demonstrating a material means of resistance even without commercial distribution.",
+          "speaker": null
+        },
+        {
+          "text": "Both adversarial design and the mechanisms and conditions framework are projects of argumentation rather than fact-finding: adversarial design raises unresolvable political questions, and the framework's porous mechanism boundaries remain always up for debate.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-034",
+      "text": "The mechanisms and conditions framework reorients affordance analysis from what to how, providing a graduated vocabulary that adapts to any sociotechnical system\u2014from mundane infrastructure to AI\u2014while keeping power and politics central.",
+      "chapter": "Conclusion",
+      "concepts": [
+        "affordance_theory",
+        "critical_theory",
+        "sociotechnical_systems"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The framework rests on four assumptions: affordances are continuous rather than binary; they vary across persons and circumstances; subjects and objects are mutually constitutive; and subjects and objects have an asymmetrical relationship with humans bearing responsibility.",
+          "speaker": null
+        },
+        {
+          "text": "Digital connectivity is now 'the water in which we swim'\u2014understanding how platforms nudge, push, pull, and arrange requires critical tools that make seemingly inevitable dynamics visible and open to change.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-035",
+      "text": "AI represents the next paradigmatic sociotechnical shift, and early evidence\u2014policing algorithms targeting poor communities of color, job-sorting programs penalizing women, home assistants eavesdropping, and cars crashing into pedestrians\u2014shows that unimpeded AI development defaults toward harm.",
+      "chapter": "Conclusion",
+      "concepts": [
+        "artificial_intelligence",
+        "algorithmic_governance",
+        "design_ethics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Cambridge",
+          "Oxford",
+          "Stanford",
+          "Tsinghua",
+          "New York University"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Major research institutions have launched AI centers (Cambridge's CFI, Oxford's Future of Humanity Institute, Stanford's HAI, NYU's AI Now Institute, Tsinghua's AI Institute) alongside corporate hubs like Google DeepMind and OpenAI\u2014indicating resources are available but governance frameworks are needed.",
+          "speaker": null
+        },
+        {
+          "text": "AI outcomes are neither natural nor inevitable; the time to intervene is while foundations are still being poured, and the mechanisms and conditions framework provides the critical and politically sharp conceptual apparatus for doing so.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-036",
+      "text": "Digital inequalities deepen as digital divides narrow: when institutions presume universal access, those without it suffer exponentially greater harm, and hardware/software interactions with race, class, gender, and sexuality reproduce rather than ameliorate existing social arrangements.",
+      "chapter": "Conclusion",
+      "concepts": [
+        "digital_inequality",
+        "structural_racism",
+        "gender_and_technology"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Specific research questions include: how school curricula afford gendered relations to technology that translate into underrepresentation of women in tech careers; how image-based platforms afford engagement for queer-identified persons; how livestreaming affords surveillance across social class lines.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-037",
+      "text": "Social media effects on psychological well-being and sociality are not uniform but vary with platform features, user identity, and conditions of use\u2014the mechanisms and conditions framework can tease out these variations where overgeneralized studies have failed.",
+      "chapter": "Conclusion",
+      "concepts": [
+        "social_media",
+        "psychological_wellbeing",
+        "platform_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Research questions include: how dominant platforms afford social connection and isolation for traditional versus nontraditional users; how default privacy settings enable and constrain personal expression for diverse subjects.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-038",
+      "text": "Driverless cars, medical technologies (including gene editing and self-tracking devices), and information economies each pose distinct affordance questions that the mechanisms and conditions framework is positioned to address with precision across demographic lines and contextual circumstances.",
+      "chapter": "Conclusion",
+      "concepts": [
+        "autonomous_vehicles",
+        "medical_technology",
+        "embodiment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "China"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Driverless cars could afford autonomy for elderly adults, people with disabilities, and those without licenses\u2014but implementation models (individual versus shared fleets) will produce radically different access patterns across urban, suburban, and rural demographics.",
+          "speaker": null
+        },
+        {
+          "text": "Medical self-tracking devices and biodata databases materialize distinct definitions of wellness and morality, normalize and objectify bodily processes, and afford patient-practitioner interactions differently across public and private healthcare markets and class lines.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-001",
+      "title": "Introduction",
+      "summary": "Technologies are political objects that push, pull, enable, and constrain human action through affordances, and Davis argues that shifting the analytic question from 'what' technologies afford to 'how' they afford\u2014operationalized through a mechanisms and conditions framework\u2014provides the conceptual precision needed to analyze and redesign sociotechnical systems toward social good.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-001",
+        "how-artifacts-afford-the-power-and-politics-of-eve-002",
+        "how-artifacts-afford-the-power-and-politics-of-eve-003",
+        "how-artifacts-afford-the-power-and-politics-of-eve-004",
+        "how-artifacts-afford-the-power-and-politics-of-eve-005",
+        "how-artifacts-afford-the-power-and-politics-of-eve-006"
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-002",
+      "title": "A Brief History of Affordances",
+      "summary": "Affordance theory originated in Gibson's ecological psychology as a bidirectional, action-based concept of direct perception, migrated through Norman's design studies into numerous disciplines, and has been plagued by definitional confusion, binary application, and failure to account for diverse subjects\u2014problems the mechanisms and conditions framework is designed to resolve through smart rather than more theory.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-007",
+        "how-artifacts-afford-the-power-and-politics-of-eve-008",
+        "how-artifacts-afford-the-power-and-politics-of-eve-009",
+        "how-artifacts-afford-the-power-and-politics-of-eve-010",
+        "how-artifacts-afford-the-power-and-politics-of-eve-011"
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-003",
+      "title": "Politics and Power",
+      "summary": "Technologies are co-constitutive with human subjects and inherently political, and the mechanisms and conditions framework aligns with Ernst Schraube's 'technology as materialized action' approach\u2014which preserves ANT's mutual-shaping insight while adding an asymmetrical distinction between technological efficacy and human agency that enables critical accountability.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-012",
+        "how-artifacts-afford-the-power-and-politics-of-eve-013",
+        "how-artifacts-afford-the-power-and-politics-of-eve-014",
+        "how-artifacts-afford-the-power-and-politics-of-eve-015",
+        "how-artifacts-afford-the-power-and-politics-of-eve-016"
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-004",
+      "title": "Mechanisms of Affordance",
+      "summary": "Replacing the question 'what does an object afford?' with 'how does it afford?' dissolves the binary problem in affordance theory, enabling a graduated vocabulary of six mechanisms\u2014request, demand, encourage, discourage, refuse, and allow\u2014that capture the varying degrees of force with which technologies push, pull, and respond to human subjects.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-017",
+        "how-artifacts-afford-the-power-and-politics-of-eve-018",
+        "how-artifacts-afford-the-power-and-politics-of-eve-019",
+        "how-artifacts-afford-the-power-and-politics-of-eve-020",
+        "how-artifacts-afford-the-power-and-politics-of-eve-021",
+        "how-artifacts-afford-the-power-and-politics-of-eve-022"
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-005",
+      "title": "Conditions of Affordance",
+      "summary": "The mechanisms of affordance only tell half the story; the conditions of affordance\u2014perception, dexterity, and cultural and institutional legitimacy\u2014explain why the same object affords differently for different subjects in different circumstances, making structural position and social inequality central to any complete affordance analysis.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-023",
+        "how-artifacts-afford-the-power-and-politics-of-eve-024",
+        "how-artifacts-afford-the-power-and-politics-of-eve-025",
+        "how-artifacts-afford-the-power-and-politics-of-eve-026",
+        "how-artifacts-afford-the-power-and-politics-of-eve-027",
+        "how-artifacts-afford-the-power-and-politics-of-eve-028"
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-006",
+      "title": "Affordances in Practice",
+      "summary": "The mechanisms and conditions framework gains analytic power through methodological pairing, and Davis identifies five approaches\u2014critical technocultural discourse analysis, the walkthrough method, app feature analysis, values reflection, and adversarial design\u2014that share the framework's commitments to political centrality, marginal voices, reflexivity, multiplicity of meaning, and sociomaterial analysis.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-029",
+        "how-artifacts-afford-the-power-and-politics-of-eve-030",
+        "how-artifacts-afford-the-power-and-politics-of-eve-031",
+        "how-artifacts-afford-the-power-and-politics-of-eve-032",
+        "how-artifacts-afford-the-power-and-politics-of-eve-033"
+      ]
+    },
+    {
+      "id": "how-artifacts-afford-the-power-and-politics-of-eve-ch-007",
+      "title": "Conclusion",
+      "summary": "Davis closes by arguing that the mechanisms and conditions framework is a timely and transferable analytic apparatus for confronting accelerating sociotechnical change\u2014from digital inequality to AI\u2014and proposes five 'big questions' spanning digital inequalities, social media well-being, information economies, driverless cars, and medical technologies as springboards for future research.",
+      "claim_ids": [
+        "how-artifacts-afford-the-power-and-politics-of-eve-034",
+        "how-artifacts-afford-the-power-and-politics-of-eve-035",
+        "how-artifacts-afford-the-power-and-politics-of-eve-036",
+        "how-artifacts-afford-the-power-and-politics-of-eve-037",
+        "how-artifacts-afford-the-power-and-politics-of-eve-038"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 38,
+    "chapter_count": 7,
+    "indexed_at": "2026-04-29T16:50:09.998997Z"
+  }
+}

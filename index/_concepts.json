@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-23T14:43:13.696416Z",
+  "updated_at": "2026-04-29T17:03:51.437753Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -394,6 +394,7 @@
         "a disease in the public mind": 1,
         "alchemy of air": 1,
         "beelzebubs tales": 2,
+        "how artifacts afford": 1,
         "now it can be told": 1,
         "orthodoxy": 1,
         "the age of interconnection": 1,
@@ -403,12 +404,13 @@
         "a disease in the public mind",
         "alchemy of air",
         "beelzebubs tales",
+        "how artifacts afford",
         "now it can be told",
         "orthodoxy",
         "the age of interconnection",
         "unqualified reservations"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "family_preservation": {
       "id": "family_preservation",
@@ -922,6 +924,7 @@
         "beelzebubs tales": 4,
         "bronze age mindset": 4,
         "catafalque": 2,
+        "designing freedom": 1,
         "elon-musk": 1,
         "in search of the miraculous": 1,
         "introduction-to-christianity": 3,
@@ -934,6 +937,7 @@
         "poor charlies almanack": 4,
         "signs and machines": 1,
         "the closing of the american mind": 2,
+        "the cybernetic brain": 1,
         "the elephant in the brain": 2,
         "the hard thing about hard things": 1,
         "the lacanian subject": 1,
@@ -949,6 +953,7 @@
         "beelzebubs tales",
         "bronze age mindset",
         "catafalque",
+        "designing freedom",
         "elon-musk",
         "in search of the miraculous",
         "introduction-to-christianity",
@@ -961,6 +966,7 @@
         "poor charlies almanack",
         "signs and machines",
         "the closing of the american mind",
+        "the cybernetic brain",
         "the elephant in the brain",
         "the hard thing about hard things",
         "the lacanian subject",
@@ -970,7 +976,7 @@
         "unqualified reservations",
         "zero to one"
       ],
-      "claim_count": 40
+      "claim_count": 42
     },
     "mob_violence": {
       "id": "mob_violence",
@@ -2160,15 +2166,17 @@
       "related": [],
       "book_claims": {
         "a disease in the public mind": 1,
+        "designing freedom": 1,
         "muskism": 1,
         "unqualified reservations": 3
       },
       "books": [
         "a disease in the public mind",
+        "designing freedom",
         "muskism",
         "unqualified reservations"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "religious_decline": {
       "id": "religious_decline",
@@ -4678,6 +4686,7 @@
         "boom": 1,
         "braudel-vol1": 1,
         "deschooling society": 1,
+        "how artifacts afford": 2,
         "how the world really works": 1
       },
       "books": [
@@ -4686,9 +4695,10 @@
         "boom",
         "braudel-vol1",
         "deschooling society",
+        "how artifacts afford",
         "how the world really works"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "path_dependence": {
       "id": "path_dependence",
@@ -6163,14 +6173,16 @@
       "book_claims": {
         "american nations": 1,
         "mirror worlds": 1,
+        "the cybernetic brain": 1,
         "unqualified reservations": 3
       },
       "books": [
         "american nations",
         "mirror worlds",
+        "the cybernetic brain",
         "unqualified reservations"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "religious_intolerance": {
       "id": "religious_intolerance",
@@ -6529,6 +6541,7 @@
         "flatline constructs": 1,
         "rhythmanalysis": 1,
         "the culture of narcissism": 4,
+        "the cybernetic brain": 1,
         "the power of ritual in prehistory": 5,
         "through the eye of a needle": 2
       },
@@ -6539,10 +6552,11 @@
         "flatline constructs",
         "rhythmanalysis",
         "the culture of narcissism",
+        "the cybernetic brain",
         "the power of ritual in prehistory",
         "through the eye of a needle"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "dehumanization": {
       "id": "dehumanization",
@@ -8224,6 +8238,7 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
+        "designing freedom": 1,
         "elon-musk": 1,
         "occult philosophy in the elizabethan age": 1,
         "presence in the modern world": 1,
@@ -8234,6 +8249,7 @@
       },
       "books": [
         "american nations",
+        "designing freedom",
         "elon-musk",
         "occult philosophy in the elizabethan age",
         "presence in the modern world",
@@ -8242,7 +8258,7 @@
         "the misbehavior of markets",
         "unqualified reservations"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "collective_salvation": {
       "id": "collective_salvation",
@@ -8366,15 +8382,17 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
+        "how artifacts afford": 1,
         "presence in the modern world": 1,
         "unqualified reservations": 1
       },
       "books": [
         "american nations",
+        "how artifacts afford",
         "presence in the modern world",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "environmental_policy": {
       "id": "environmental_policy",
@@ -9116,6 +9134,7 @@
       "related": [],
       "book_claims": {
         "anthropol": 1,
+        "designing freedom": 2,
         "flatline constructs": 11,
         "michael-levin-major-talks": 1,
         "muskism": 1,
@@ -9123,12 +9142,13 @@
       },
       "books": [
         "anthropol",
+        "designing freedom",
         "flatline constructs",
         "michael-levin-major-talks",
         "muskism",
         "the concept of acceleration"
       ],
-      "claim_count": 15
+      "claim_count": 17
     },
     "diagonal_method": {
       "id": "diagonal_method",
@@ -9529,14 +9549,16 @@
       "book_claims": {
         "anthropol": 1,
         "flatline constructs": 1,
+        "the cybernetic brain": 1,
         "things hidden since the foundation of the world": 1
       },
       "books": [
         "anthropol",
         "flatline constructs",
+        "the cybernetic brain",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "information_warfare": {
       "id": "information_warfare",
@@ -9884,6 +9906,7 @@
       "related": [],
       "book_claims": {
         "beauty": 1,
+        "how artifacts afford": 1,
         "introduction-to-christianity": 2,
         "parables for the virtual": 2,
         "sexual personae": 1,
@@ -9891,12 +9914,13 @@
       },
       "books": [
         "beauty",
+        "how artifacts afford",
         "introduction-to-christianity",
         "parables for the virtual",
         "sexual personae",
         "the world as will and representation"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "natural_beauty": {
       "id": "natural_beauty",
@@ -10783,6 +10807,7 @@
       "book_claims": {
         "boom": 1,
         "deschooling society": 1,
+        "designing freedom": 1,
         "extreme ownership": 1,
         "only the paranoid survive": 1,
         "the light eaters": 1
@@ -10790,11 +10815,12 @@
       "books": [
         "boom",
         "deschooling society",
+        "designing freedom",
         "extreme ownership",
         "only the paranoid survive",
         "the light eaters"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "cold_war_competition": {
       "id": "cold_war_competition",
@@ -10827,11 +10853,13 @@
         "elon-musk": 1,
         "fanged noumena": 4,
         "from bacteria to bach and back": 7,
+        "how artifacts afford": 1,
         "mirror worlds": 1,
         "muskism": 2,
         "philosopher-in-the-valley": 1,
         "the art of doing science and engineering": 1,
         "the concept of acceleration": 1,
+        "the cybernetic brain": 1,
         "the pattern on the stone": 1,
         "zero to one": 1
       },
@@ -10840,15 +10868,17 @@
         "elon-musk",
         "fanged noumena",
         "from bacteria to bach and back",
+        "how artifacts afford",
         "mirror worlds",
         "muskism",
         "philosopher-in-the-valley",
         "the art of doing science and engineering",
         "the concept of acceleration",
+        "the cybernetic brain",
         "the pattern on the stone",
         "zero to one"
       ],
-      "claim_count": 22
+      "claim_count": 24
     },
     "materials_science": {
       "id": "materials_science",
@@ -11831,6 +11861,7 @@
       "book_claims": {
         "braudel-vol1": 2,
         "cult of the saints": 1,
+        "designing freedom": 1,
         "occult philosophy in the elizabethan age": 1,
         "preface to plato": 1,
         "presence in the modern world": 1,
@@ -11840,13 +11871,14 @@
       "books": [
         "braudel-vol1",
         "cult of the saints",
+        "designing freedom",
         "occult philosophy in the elizabethan age",
         "preface to plato",
         "presence in the modern world",
         "revolt-against-the-modern-world",
         "the horse"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "military_influence": {
       "id": "military_influence",
@@ -12178,6 +12210,7 @@
         "braudel-vol1": 1,
         "orality-and-literacy": 1,
         "structures": 1,
+        "the cybernetic brain": 1,
         "the first ghosts": 2,
         "the horse": 15,
         "the power of ritual in prehistory": 2,
@@ -12187,12 +12220,13 @@
         "braudel-vol1",
         "orality-and-literacy",
         "structures",
+        "the cybernetic brain",
         "the first ghosts",
         "the horse",
         "the power of ritual in prehistory",
         "through the eye of a needle"
       ],
-      "claim_count": 24
+      "claim_count": 25
     },
     "wealth_inequality": {
       "id": "wealth_inequality",
@@ -12480,6 +12514,7 @@
         "in search of the miraculous": 1,
         "occult philosophy in the elizabethan age": 1,
         "orality-and-literacy": 2,
+        "the cybernetic brain": 1,
         "unqualified reservations": 1
       },
       "books": [
@@ -12488,9 +12523,10 @@
         "in search of the miraculous",
         "occult philosophy in the elizabethan age",
         "orality-and-literacy",
+        "the cybernetic brain",
         "unqualified reservations"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "printing_technology": {
       "id": "printing_technology",
@@ -14776,6 +14812,7 @@
       "related": [],
       "book_claims": {
         "deschooling society": 1,
+        "designing freedom": 1,
         "poor charlies almanack": 1,
         "the elephant in the brain": 2,
         "the hard thing about hard things": 1,
@@ -14784,13 +14821,14 @@
       },
       "books": [
         "deschooling society",
+        "designing freedom",
         "poor charlies almanack",
         "the elephant in the brain",
         "the hard thing about hard things",
         "the world as will and representation vol 2",
         "unqualified reservations"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "resource_access": {
       "id": "resource_access",
@@ -16690,15 +16728,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
+        "how artifacts afford": 1,
         "meetings with remarkable men": 1,
         "unqualified reservations": 1
       },
       "books": [
         "elon-musk",
+        "how artifacts afford",
         "meetings with remarkable men",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "courtly_culture": {
       "id": "courtly_culture",
@@ -18264,6 +18304,7 @@
         "beelzebubs tales": 2,
         "bronze age mindset": 3,
         "catafalque": 2,
+        "designing freedom": 1,
         "digital cash": 1,
         "fooled by randomness": 3,
         "from bacteria to bach and back": 1,
@@ -18293,6 +18334,7 @@
         "beelzebubs tales",
         "bronze age mindset",
         "catafalque",
+        "designing freedom",
         "digital cash",
         "fooled by randomness",
         "from bacteria to bach and back",
@@ -18318,7 +18360,7 @@
         "why we sleep",
         "zero to one"
       ],
-      "claim_count": 41
+      "claim_count": 42
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -18514,13 +18556,15 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 1,
+        "the cybernetic brain": 1,
         "the light eaters": 1
       },
       "books": [
         "from bacteria to bach and back",
+        "the cybernetic brain",
         "the light eaters"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "materialism": {
       "id": "materialism",
@@ -18678,6 +18722,7 @@
         "from bacteria to bach and back": 1,
         "mystery teachings from the living earth": 1,
         "preface to plato": 1,
+        "the cybernetic brain": 1,
         "the elephant in the brain": 1,
         "the world as will and representation vol 2": 1
       },
@@ -18685,10 +18730,11 @@
         "from bacteria to bach and back",
         "mystery teachings from the living earth",
         "preface to plato",
+        "the cybernetic brain",
         "the elephant in the brain",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "language_evolution": {
       "id": "language_evolution",
@@ -19201,14 +19247,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 1,
         "introduction-to-christianity": 3,
         "kabbalistic visions": 1
       },
       "books": [
+        "how artifacts afford",
         "introduction-to-christianity",
         "kabbalistic visions"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "scientific_rationalism": {
       "id": "scientific_rationalism",
@@ -22685,18 +22733,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 1,
         "kabbalistic visions": 1,
         "parables for the virtual": 1,
         "philosopher-in-the-valley": 1,
         "the closing of the american mind": 1
       },
       "books": [
+        "how artifacts afford",
         "kabbalistic visions",
         "parables for the virtual",
         "philosopher-in-the-valley",
         "the closing of the american mind"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "gender_symbolism": {
       "id": "gender_symbolism",
@@ -24050,15 +24100,17 @@
         "michael-levin-major-talks": 3,
         "muskism": 1,
         "signs and machines": 1,
+        "the cybernetic brain": 1,
         "the light eaters": 1
       },
       "books": [
         "michael-levin-major-talks",
         "muskism",
         "signs and machines",
+        "the cybernetic brain",
         "the light eaters"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "morphological_plasticity": {
       "id": "morphological_plasticity",
@@ -24118,6 +24170,7 @@
         "beelzebubs tales": 1,
         "beyond good and evil": 1,
         "confessions": 3,
+        "designing freedom": 1,
         "in search of the miraculous": 1,
         "michael-levin-major-talks": 1,
         "orthodoxy": 2,
@@ -24136,6 +24189,7 @@
         "beelzebubs tales",
         "beyond good and evil",
         "confessions",
+        "designing freedom",
         "in search of the miraculous",
         "michael-levin-major-talks",
         "orthodoxy",
@@ -24150,7 +24204,7 @@
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 26
+      "claim_count": 27
     },
     "feudal_nobility": {
       "id": "feudal_nobility",
@@ -29753,6 +29807,7 @@
         "mystery teachings from the living earth": 1,
         "preface to plato": 1,
         "the art of doing science and engineering": 1,
+        "the cybernetic brain": 1,
         "the mythical man-month": 1,
         "the problem of the puer aeternus": 1,
         "the structure of scientific revolutions": 1,
@@ -29763,12 +29818,13 @@
         "mystery teachings from the living earth",
         "preface to plato",
         "the art of doing science and engineering",
+        "the cybernetic brain",
         "the mythical man-month",
         "the problem of the puer aeternus",
         "the structure of scientific revolutions",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "individual_autonomy": {
       "id": "individual_autonomy",
@@ -34342,6 +34398,7 @@
         "mirror worlds": 1,
         "on the aesthetic education of man": 1,
         "ride the tiger": 2,
+        "the cybernetic brain": 1,
         "the discarded image": 2,
         "the secret teachings of all ages": 1,
         "the world as will and representation": 11,
@@ -34358,13 +34415,14 @@
         "mirror worlds",
         "on the aesthetic education of man",
         "ride the tiger",
+        "the cybernetic brain",
         "the discarded image",
         "the secret teachings of all ages",
         "the world as will and representation",
         "the world as will and representation vol 2",
         "thus spake zarathustra"
       ],
-      "claim_count": 44
+      "claim_count": 45
     },
     "democratic_participation": {
       "id": "democratic_participation",
@@ -35532,13 +35590,15 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
-        "from bacteria to bach and back": 1
+        "from bacteria to bach and back": 1,
+        "how artifacts afford": 2
       },
       "books": [
         "beelzebubs tales",
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "how artifacts afford"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "psychological_fragmentation": {
       "id": "psychological_fragmentation",
@@ -38493,14 +38553,16 @@
       "book_claims": {
         "a vision": 1,
         "horror of philosophy": 1,
-        "ride the tiger": 1
+        "ride the tiger": 1,
+        "the cybernetic brain": 1
       },
       "books": [
         "a vision",
         "horror of philosophy",
-        "ride the tiger"
+        "ride the tiger",
+        "the cybernetic brain"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "environmental_pressure": {
       "id": "environmental_pressure",
@@ -38685,14 +38747,16 @@
       "book_claims": {
         "art of memory": 2,
         "deschooling society": 2,
-        "poor charlies almanack": 3
+        "poor charlies almanack": 3,
+        "the cybernetic brain": 1
       },
       "books": [
         "art of memory",
         "deschooling society",
-        "poor charlies almanack"
+        "poor charlies almanack",
+        "the cybernetic brain"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "persona": {
       "id": "persona",
@@ -38717,6 +38781,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "from bacteria to bach and back": 2,
         "mystery teachings from the living earth": 1,
         "the elephant in the brain": 1,
@@ -38724,13 +38789,14 @@
         "why we sleep": 2
       },
       "books": [
+        "designing freedom",
         "from bacteria to bach and back",
         "mystery teachings from the living earth",
         "the elephant in the brain",
         "the pattern on the stone",
         "why we sleep"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "skill_acquisition": {
       "id": "skill_acquisition",
@@ -39082,15 +39148,17 @@
         "bronze age mindset": 1,
         "michael-levin-major-talks": 1,
         "mystery teachings from the living earth": 1,
-        "parables for the virtual": 1
+        "parables for the virtual": 1,
+        "the cybernetic brain": 2
       },
       "books": [
         "bronze age mindset",
         "michael-levin-major-talks",
         "mystery teachings from the living earth",
-        "parables for the virtual"
+        "parables for the virtual",
+        "the cybernetic brain"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "dualism": {
       "id": "dualism",
@@ -41862,17 +41930,19 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
+        "designing freedom": 1,
         "lacan seminars i": 2,
         "the closing of the american mind": 1,
         "the lacanian subject": 1
       },
       "books": [
         "all desire is a desire for being",
+        "designing freedom",
         "lacan seminars i",
         "the closing of the american mind",
         "the lacanian subject"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "socialization": {
       "id": "socialization",
@@ -46392,15 +46462,17 @@
       "related": [],
       "book_claims": {
         "horror of philosophy 3": 2,
+        "the cybernetic brain": 3,
         "the world as will and representation vol 2": 1,
         "thus spake zarathustra": 1
       },
       "books": [
         "horror of philosophy 3",
+        "the cybernetic brain",
         "the world as will and representation vol 2",
         "thus spake zarathustra"
       ],
-      "claim_count": 4
+      "claim_count": 7
     },
     "individual_path": {
       "id": "individual_path",
@@ -46543,14 +46615,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "orthodoxy": 1,
         "thus spake zarathustra": 1
       },
       "books": [
+        "designing freedom",
         "orthodoxy",
         "thus spake zarathustra"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "heroic_death": {
       "id": "heroic_death",
@@ -47093,16 +47167,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 3,
         "introduction-to-christianity": 9,
         "parables for the virtual": 1,
         "the sickness unto death": 1
       },
       "books": [
+        "how artifacts afford",
         "introduction-to-christianity",
         "parables for the virtual",
         "the sickness unto death"
       ],
-      "claim_count": 11
+      "claim_count": 14
     },
     "dialectical_synthesis": {
       "id": "dialectical_synthesis",
@@ -48803,30 +48879,34 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "extreme ownership": 1,
         "kelly more than my share of it all": 1,
         "mirror worlds": 1,
         "now it can be told": 2,
         "poor charlies almanack": 1,
         "skunk works": 2,
+        "the cybernetic brain": 1,
         "the hard thing about hard things": 4,
         "the lean startup": 1,
         "the mythical man-month": 2,
         "zero to one": 6
       },
       "books": [
+        "designing freedom",
         "extreme ownership",
         "kelly more than my share of it all",
         "mirror worlds",
         "now it can be told",
         "poor charlies almanack",
         "skunk works",
+        "the cybernetic brain",
         "the hard thing about hard things",
         "the lean startup",
         "the mythical man-month",
         "zero to one"
       ],
-      "claim_count": 21
+      "claim_count": 23
     },
     "opportunity_cost": {
       "id": "opportunity_cost",
@@ -48937,16 +49017,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "only the paranoid survive": 1,
         "philosopher-in-the-valley": 1,
         "the hard thing about hard things": 1
       },
       "books": [
+        "designing freedom",
         "only the paranoid survive",
         "philosopher-in-the-valley",
         "the hard thing about hard things"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "customer_retention": {
       "id": "customer_retention",
@@ -49434,15 +49516,17 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
+        "how artifacts afford": 1,
         "poor charlies almanack": 2,
         "the mythical man-month": 1
       },
       "books": [
         "beelzebubs tales",
+        "how artifacts afford",
         "poor charlies almanack",
         "the mythical man-month"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "childhood_conditioning": {
       "id": "childhood_conditioning",
@@ -49826,13 +49910,15 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 1,
-        "kelly more than my share of it all": 1
+        "kelly more than my share of it all": 1,
+        "the cybernetic brain": 1
       },
       "books": [
         "braudel-vol1",
-        "kelly more than my share of it all"
+        "kelly more than my share of it all",
+        "the cybernetic brain"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "social_learning": {
       "id": "social_learning",
@@ -50095,14 +50181,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 2,
         "digital cash": 1,
         "poor charlies almanack": 2
       },
       "books": [
+        "designing freedom",
         "digital cash",
         "poor charlies almanack"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "intellectual_property": {
       "id": "intellectual_property",
@@ -50428,13 +50516,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 2,
-        "structures": 3
+        "structures": 3,
+        "the cybernetic brain": 2
       },
       "books": [
         "elon-musk",
-        "structures"
+        "structures",
+        "the cybernetic brain"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "engineering_intuition": {
       "id": "engineering_intuition",
@@ -51225,14 +51315,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 1,
         "mirror worlds": 1,
         "the art of doing science and engineering": 1
       },
       "books": [
+        "how artifacts afford",
         "mirror worlds",
         "the art of doing science and engineering"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "adaptation": {
       "id": "adaptation",
@@ -53241,14 +53333,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "the elephant in the brain": 1,
         "through the eye of a needle": 1
       },
       "books": [
+        "designing freedom",
         "the elephant in the brain",
         "through the eye of a needle"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "competitive_display": {
       "id": "competitive_display",
@@ -53603,14 +53697,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 1,
         "ultralearning": 1,
         "zero to one": 1
       },
       "books": [
+        "how artifacts afford",
         "ultralearning",
         "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "long_term_thinking": {
       "id": "long_term_thinking",
@@ -54195,14 +54291,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 1,
         "how the world really works": 1,
         "the art of doing science and engineering": 1
       },
       "books": [
+        "how artifacts afford",
         "how the world really works",
         "the art of doing science and engineering"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "engineering_integrity": {
       "id": "engineering_integrity",
@@ -55896,15 +55994,17 @@
       "related": [],
       "book_claims": {
         "flatline constructs": 9,
+        "how artifacts afford": 1,
         "language machines": 1,
         "parables for the virtual": 1
       },
       "books": [
         "flatline constructs",
+        "how artifacts afford",
         "language machines",
         "parables for the virtual"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "hyperreality": {
       "id": "hyperreality",
@@ -57607,14 +57707,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "michael-levin-major-talks": 1,
         "signs and machines": 1
       },
       "books": [
+        "designing freedom",
         "michael-levin-major-talks",
         "signs and machines"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "self_reference": {
       "id": "self_reference",
@@ -57687,14 +57789,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "how artifacts afford": 2,
         "orality-and-literacy": 2,
         "signs and machines": 1
       },
       "books": [
+        "how artifacts afford",
         "orality-and-literacy",
         "signs and machines"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "logocentrism": {
       "id": "logocentrism",
@@ -58072,13 +58176,15 @@
       "related": [],
       "book_claims": {
         "boom": 1,
+        "how artifacts afford": 1,
         "muskism": 1
       },
       "books": [
         "boom",
+        "how artifacts afford",
         "muskism"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "class_privilege": {
       "id": "class_privilege",
@@ -58439,14 +58545,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "designing freedom": 1,
         "muskism": 3,
         "the closing of the american mind": 1
       },
       "books": [
+        "designing freedom",
         "muskism",
         "the closing of the american mind"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "survivalism": {
       "id": "survivalism",
@@ -58543,6 +58651,598 @@
         "zero to one"
       ],
       "claim_count": 2
+    },
+    "decentralization": {
+      "id": "decentralization",
+      "label": "Decentralization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropol": 1,
+        "designing freedom": 1
+      },
+      "books": [
+        "anthropol",
+        "designing freedom"
+      ],
+      "claim_count": 2
+    },
+    "human_machine_interaction": {
+      "id": "human_machine_interaction",
+      "label": "Human Machine Interaction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropol": 1,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "anthropol",
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "gender_and_technology": {
+      "id": "gender_and_technology",
+      "label": "Gender And Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropol": 1,
+        "how artifacts afford": 1
+      },
+      "books": [
+        "anthropol",
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "reflexivity": {
+      "id": "reflexivity",
+      "label": "Reflexivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropol": 1,
+        "how artifacts afford": 2
+      },
+      "books": [
+        "anthropol",
+        "how artifacts afford"
+      ],
+      "claim_count": 3
+    },
+    "pragmatism": {
+      "id": "pragmatism",
+      "label": "Pragmatism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beyond good and evil": 1,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "beyond good and evil",
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "counterculture": {
+      "id": "counterculture",
+      "label": "Counterculture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "deschooling society": 1,
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "deschooling society",
+        "the cybernetic brain"
+      ],
+      "claim_count": 4
+    },
+    "autonomous_vehicles": {
+      "id": "autonomous_vehicles",
+      "label": "Autonomous Vehicles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 8,
+        "how artifacts afford": 1
+      },
+      "books": [
+        "elon-musk",
+        "how artifacts afford"
+      ],
+      "claim_count": 9
+    },
+    "hate_speech": {
+      "id": "hate_speech",
+      "label": "Hate Speech",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "how artifacts afford": 1
+      },
+      "books": [
+        "elon-musk",
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "democratic_decision_making": {
+      "id": "democratic_decision_making",
+      "label": "Democratic Decision Making",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "elon-musk",
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "platform_governance": {
+      "id": "platform_governance",
+      "label": "Platform Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "how artifacts afford": 2
+      },
+      "books": [
+        "elon-musk",
+        "how artifacts afford"
+      ],
+      "claim_count": 3
+    },
+    "digital_culture": {
+      "id": "digital_culture",
+      "label": "Digital Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "fanged noumena": 1,
+        "how artifacts afford": 1
+      },
+      "books": [
+        "fanged noumena",
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "schizophrenia": {
+      "id": "schizophrenia",
+      "label": "Schizophrenia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "flatline constructs": 2,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "flatline constructs",
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "conditioning": {
+      "id": "conditioning",
+      "label": "Conditioning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "healing back pain": 1,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "healing back pain",
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "altered_states": {
+      "id": "altered_states",
+      "label": "Altered States",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "in search of the miraculous": 3,
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "in search of the miraculous",
+        "the cybernetic brain"
+      ],
+      "claim_count": 5
+    },
+    "citizen_empowerment": {
+      "id": "citizen_empowerment",
+      "label": "Citizen Empowerment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "mirror worlds": 1
+      },
+      "books": [
+        "designing freedom",
+        "mirror worlds"
+      ],
+      "claim_count": 2
+    },
+    "democratic_technology": {
+      "id": "democratic_technology",
+      "label": "Democratic Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "mirror worlds": 1
+      },
+      "books": [
+        "designing freedom",
+        "mirror worlds"
+      ],
+      "claim_count": 2
+    },
+    "tantric_yoga": {
+      "id": "tantric_yoga",
+      "label": "Tantric Yoga",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orthodoxy and the religion of the future": 1,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "orthodoxy and the religion of the future",
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "synesthesia": {
+      "id": "synesthesia",
+      "label": "Synesthesia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "parables for the virtual": 5,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "parables for the virtual",
+        "the cybernetic brain"
+      ],
+      "claim_count": 6
+    },
+    "algorithmic_bias": {
+      "id": "algorithmic_bias",
+      "label": "Algorithmic Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1,
+        "philosopher-in-the-valley": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "philosopher-in-the-valley"
+      ],
+      "claim_count": 2
+    },
+    "material_politics": {
+      "id": "material_politics",
+      "label": "Material Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1,
+        "revolt-against-the-modern-world": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 2
+    },
+    "evolutionary_design": {
+      "id": "evolutionary_design",
+      "label": "Evolutionary Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "structures": 1,
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "structures",
+        "the cybernetic brain"
+      ],
+      "claim_count": 4
+    },
+    "medical_technology": {
+      "id": "medical_technology",
+      "label": "Medical Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1,
+        "the age of interconnection": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "the age of interconnection"
+      ],
+      "claim_count": 2
+    },
+    "systems_thinking": {
+      "id": "systems_thinking",
+      "label": "Systems Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "the art of doing science and engineering": 1
+      },
+      "books": [
+        "designing freedom",
+        "the art of doing science and engineering"
+      ],
+      "claim_count": 2
+    },
+    "real_time_control": {
+      "id": "real_time_control",
+      "label": "Real Time Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "the art of doing science and engineering": 1
+      },
+      "books": [
+        "designing freedom",
+        "the art of doing science and engineering"
+      ],
+      "claim_count": 2
+    },
+    "complexity_theory": {
+      "id": "complexity_theory",
+      "label": "Complexity Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the ascent of money": 1,
+        "the cybernetic brain": 4
+      },
+      "books": [
+        "the ascent of money",
+        "the cybernetic brain"
+      ],
+      "claim_count": 5
+    },
+    "bureaucracy": {
+      "id": "bureaucracy",
+      "label": "Bureaucracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "the culture of narcissism": 4
+      },
+      "books": [
+        "designing freedom",
+        "the culture of narcissism"
+      ],
+      "claim_count": 5
+    },
+    "control_theory": {
+      "id": "control_theory",
+      "label": "Control Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1,
+        "the pattern on the stone": 1
+      },
+      "books": [
+        "the cybernetic brain",
+        "the pattern on the stone"
+      ],
+      "claim_count": 2
+    },
+    "direct_perception": {
+      "id": "direct_perception",
+      "label": "Direct Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1,
+        "the reality of being": 2
+      },
+      "books": [
+        "how artifacts afford",
+        "the reality of being"
+      ],
+      "claim_count": 3
+    },
+    "autonomy": {
+      "id": "autonomy",
+      "label": "Autonomy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "the sickness unto death": 1
+      },
+      "books": [
+        "designing freedom",
+        "the sickness unto death"
+      ],
+      "claim_count": 2
+    },
+    "social_capital": {
+      "id": "social_capital",
+      "label": "Social Capital",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1,
+        "through the eye of a needle": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "through the eye of a needle"
+      ],
+      "claim_count": 2
+    },
+    "political_critique": {
+      "id": "political_critique",
+      "label": "Political Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1,
+        "thus spake zarathustra": 1
+      },
+      "books": [
+        "the cybernetic brain",
+        "thus spake zarathustra"
+      ],
+      "claim_count": 2
+    },
+    "power_structures": {
+      "id": "power_structures",
+      "label": "Power Structures",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "unqualified reservations": 7
+      },
+      "books": [
+        "designing freedom",
+        "unqualified reservations"
+      ],
+      "claim_count": 8
+    },
+    "institutional_legitimacy": {
+      "id": "institutional_legitimacy",
+      "label": "Institutional Legitimacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "unqualified reservations"
+      ],
+      "claim_count": 3
+    },
+    "democratic_politics": {
+      "id": "democratic_politics",
+      "label": "Democratic Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "the cybernetic brain",
+        "unqualified reservations"
+      ],
+      "claim_count": 2
+    },
+    "systemic_failure": {
+      "id": "systemic_failure",
+      "label": "Systemic Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "designing freedom",
+        "unqualified reservations"
+      ],
+      "claim_count": 2
+    },
+    "requisite_variety": {
+      "id": "requisite_variety",
+      "label": "Requisite Variety",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 2,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "designing freedom",
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "cybernetic_design": {
+      "id": "cybernetic_design",
+      "label": "Cybernetic Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 2,
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "designing freedom",
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
     },
     "slave_insurrection": {
       "id": "slave_insurrection",
@@ -74882,20 +75582,6 @@
       ],
       "claim_count": 1
     },
-    "decentralization": {
-      "id": "decentralization",
-      "label": "Decentralization",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "anthropol": 1
-      },
-      "books": [
-        "anthropol"
-      ],
-      "claim_count": 1
-    },
     "labor_substitution": {
       "id": "labor_substitution",
       "label": "Labor Substitution",
@@ -75333,20 +76019,6 @@
     "game_theoretic_rationality": {
       "id": "game_theoretic_rationality",
       "label": "Game Theoretic Rationality",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "anthropol": 1
-      },
-      "books": [
-        "anthropol"
-      ],
-      "claim_count": 1
-    },
-    "human_machine_interaction": {
-      "id": "human_machine_interaction",
-      "label": "Human Machine Interaction",
       "description": "",
       "aliases": [],
       "related": [],
@@ -75837,34 +76509,6 @@
     "cognitive_exploitation": {
       "id": "cognitive_exploitation",
       "label": "Cognitive Exploitation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "anthropol": 1
-      },
-      "books": [
-        "anthropol"
-      ],
-      "claim_count": 1
-    },
-    "gender_and_technology": {
-      "id": "gender_and_technology",
-      "label": "Gender And Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "anthropol": 1
-      },
-      "books": [
-        "anthropol"
-      ],
-      "claim_count": 1
-    },
-    "reflexivity": {
-      "id": "reflexivity",
-      "label": "Reflexivity",
       "description": "",
       "aliases": [],
       "related": [],
@@ -86589,20 +87233,6 @@
     "unconscious_motivation": {
       "id": "unconscious_motivation",
       "label": "Unconscious Motivation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beyond good and evil": 1
-      },
-      "books": [
-        "beyond good and evil"
-      ],
-      "claim_count": 1
-    },
-    "pragmatism": {
-      "id": "pragmatism",
-      "label": "Pragmatism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -108006,20 +108636,6 @@
       ],
       "claim_count": 1
     },
-    "counterculture": {
-      "id": "counterculture",
-      "label": "Counterculture",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "deschooling society": 1
-      },
-      "books": [
-        "deschooling society"
-      ],
-      "claim_count": 1
-    },
     "professional_authority": {
       "id": "professional_authority",
       "label": "Professional Authority",
@@ -108647,6 +109263,650 @@
       },
       "books": [
         "deschooling society"
+      ],
+      "claim_count": 1
+    },
+    "social_inequality": {
+      "id": "social_inequality",
+      "label": "Social Inequality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "catastrophe_theory": {
+      "id": "catastrophe_theory",
+      "label": "Catastrophe Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "dynamic_systems": {
+      "id": "dynamic_systems",
+      "label": "Dynamic Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "variety_complexity": {
+      "id": "variety_complexity",
+      "label": "Variety Complexity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "systems_regulation": {
+      "id": "systems_regulation",
+      "label": "Systems Regulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 2
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 2
+    },
+    "variety_reduction": {
+      "id": "variety_reduction",
+      "label": "Variety Reduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "stability_resilience": {
+      "id": "stability_resilience",
+      "label": "Stability Resilience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "adaptive_failure": {
+      "id": "adaptive_failure",
+      "label": "Adaptive Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "catastrophic_instability": {
+      "id": "catastrophic_instability",
+      "label": "Catastrophic Instability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "scientific_legitimacy": {
+      "id": "scientific_legitimacy",
+      "label": "Scientific Legitimacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "variety_attenuation": {
+      "id": "variety_attenuation",
+      "label": "Variety Attenuation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 3
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 3
+    },
+    "individual_freedom": {
+      "id": "individual_freedom",
+      "label": "Individual Freedom",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "computational_tools": {
+      "id": "computational_tools",
+      "label": "Computational Tools",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "variety_amplification": {
+      "id": "variety_amplification",
+      "label": "Variety Amplification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "institutional_misapplication": {
+      "id": "institutional_misapplication",
+      "label": "Institutional Misapplication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "regulatory_models": {
+      "id": "regulatory_models",
+      "label": "Regulatory Models",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "systems_representation": {
+      "id": "systems_representation",
+      "label": "Systems Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "governmental_regulation": {
+      "id": "governmental_regulation",
+      "label": "Governmental Regulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "information_lag": {
+      "id": "information_lag",
+      "label": "Information Lag",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "recursive_systems": {
+      "id": "recursive_systems",
+      "label": "Recursive Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "participatory_governance": {
+      "id": "participatory_governance",
+      "label": "Participatory Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "economic_management": {
+      "id": "economic_management",
+      "label": "Economic Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "experimental_institutions": {
+      "id": "experimental_institutions",
+      "label": "Experimental Institutions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 2
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 2
+    },
+    "political_instability": {
+      "id": "political_instability",
+      "label": "Political Instability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "proof_of_concept": {
+      "id": "proof_of_concept",
+      "label": "Proof Of Concept",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_limits": {
+      "id": "cognitive_limits",
+      "label": "Cognitive Limits",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "education_systems": {
+      "id": "education_systems",
+      "label": "Education Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "democratic_science": {
+      "id": "democratic_science",
+      "label": "Democratic Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "technological_liberation": {
+      "id": "technological_liberation",
+      "label": "Technological Liberation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "centralization_decentralization": {
+      "id": "centralization_decentralization",
+      "label": "Centralization Decentralization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "viable_systems": {
+      "id": "viable_systems",
+      "label": "Viable Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 2
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 2
+    },
+    "managerial_responsibility": {
+      "id": "managerial_responsibility",
+      "label": "Managerial Responsibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "institutional_self_reproduction": {
+      "id": "institutional_self_reproduction",
+      "label": "Institutional Self Reproduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "resistance_to_change": {
+      "id": "resistance_to_change",
+      "label": "Resistance To Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "public_finance": {
+      "id": "public_finance",
+      "label": "Public Finance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "democratic_accountability": {
+      "id": "democratic_accountability",
+      "label": "Democratic Accountability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "institutional_redesign": {
+      "id": "institutional_redesign",
+      "label": "Institutional Redesign",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "adaptive_planning": {
+      "id": "adaptive_planning",
+      "label": "Adaptive Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "variety_constraint": {
+      "id": "variety_constraint",
+      "label": "Variety Constraint",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "public_infrastructure": {
+      "id": "public_infrastructure",
+      "label": "Public Infrastructure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "information_commons": {
+      "id": "information_commons",
+      "label": "Information Commons",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "political_sovereignty": {
+      "id": "political_sovereignty",
+      "label": "Political Sovereignty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "economic_imperialism": {
+      "id": "economic_imperialism",
+      "label": "Economic Imperialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "democratic_experiment": {
+      "id": "democratic_experiment",
+      "label": "Democratic Experiment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "citizen_participation": {
+      "id": "citizen_participation",
+      "label": "Citizen Participation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
+      ],
+      "claim_count": 1
+    },
+    "democratic_empowerment": {
+      "id": "democratic_empowerment",
+      "label": "Democratic Empowerment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "designing freedom": 1
+      },
+      "books": [
+        "designing freedom"
       ],
       "claim_count": 1
     },
@@ -114656,20 +115916,6 @@
       ],
       "claim_count": 1
     },
-    "autonomous_vehicles": {
-      "id": "autonomous_vehicles",
-      "label": "Autonomous Vehicles",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 8
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 8
-    },
     "real_world_data": {
       "id": "real_world_data",
       "label": "Real World Data",
@@ -119164,20 +120410,6 @@
       ],
       "claim_count": 1
     },
-    "hate_speech": {
-      "id": "hate_speech",
-      "label": "Hate Speech",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "policy_consistency": {
       "id": "policy_consistency",
       "label": "Policy Consistency",
@@ -119500,20 +120732,6 @@
       ],
       "claim_count": 1
     },
-    "democratic_decision_making": {
-      "id": "democratic_decision_making",
-      "label": "Democratic Decision Making",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "platform_democracy": {
       "id": "platform_democracy",
       "label": "Platform Democracy",
@@ -119755,20 +120973,6 @@
     "press_freedom": {
       "id": "press_freedom",
       "label": "Press Freedom",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "platform_governance": {
-      "id": "platform_governance",
-      "label": "Platform Governance",
       "description": "",
       "aliases": [],
       "related": [],
@@ -129636,20 +130840,6 @@
       ],
       "claim_count": 1
     },
-    "digital_culture": {
-      "id": "digital_culture",
-      "label": "Digital Culture",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "fanged noumena": 1
-      },
-      "books": [
-        "fanged noumena"
-      ],
-      "claim_count": 1
-    },
     "mass_coincidence": {
       "id": "mass_coincidence",
       "label": "Mass Coincidence",
@@ -130573,20 +131763,6 @@
         "flatline constructs"
       ],
       "claim_count": 1
-    },
-    "schizophrenia": {
-      "id": "schizophrenia",
-      "label": "Schizophrenia",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "flatline constructs": 2
-      },
-      "books": [
-        "flatline constructs"
-      ],
-      "claim_count": 2
     },
     "intensity": {
       "id": "intensity",
@@ -137784,20 +138960,6 @@
       ],
       "claim_count": 1
     },
-    "conditioning": {
-      "id": "conditioning",
-      "label": "Conditioning",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "healing back pain": 1
-      },
-      "books": [
-        "healing back pain"
-      ],
-      "claim_count": 1
-    },
     "immune_suppression": {
       "id": "immune_suppression",
       "label": "Immune Suppression",
@@ -139520,6 +140682,818 @@
       ],
       "claim_count": 1
     },
+    "materialized_values": {
+      "id": "materialized_values",
+      "label": "Materialized Values",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "consumer_technology": {
+      "id": "consumer_technology",
+      "label": "Consumer Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "gender_norms": {
+      "id": "gender_norms",
+      "label": "Gender Norms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "affordance_theory": {
+      "id": "affordance_theory",
+      "label": "Affordance Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 6
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 6
+    },
+    "human_technology_relations": {
+      "id": "human_technology_relations",
+      "label": "Human Technology Relations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "inequality": {
+      "id": "inequality",
+      "label": "Inequality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "affordance_mechanisms": {
+      "id": "affordance_mechanisms",
+      "label": "Affordance Mechanisms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 3
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 3
+    },
+    "structural_inequality": {
+      "id": "structural_inequality",
+      "label": "Structural Inequality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "surveillance": {
+      "id": "surveillance",
+      "label": "Surveillance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "systemic_racism": {
+      "id": "systemic_racism",
+      "label": "Systemic Racism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "design_politics": {
+      "id": "design_politics",
+      "label": "Design Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "value_sensitive_design": {
+      "id": "value_sensitive_design",
+      "label": "Value Sensitive Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "design_ethics": {
+      "id": "design_ethics",
+      "label": "Design Ethics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "sociotechnical_systems": {
+      "id": "sociotechnical_systems",
+      "label": "Sociotechnical Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 3
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 3
+    },
+    "ecological_psychology": {
+      "id": "ecological_psychology",
+      "label": "Ecological Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "design_theory": {
+      "id": "design_theory",
+      "label": "Design Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "interdisciplinary_theory": {
+      "id": "interdisciplinary_theory",
+      "label": "Interdisciplinary Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "design_engineering": {
+      "id": "design_engineering",
+      "label": "Design Engineering",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "conceptual_critique": {
+      "id": "conceptual_critique",
+      "label": "Conceptual Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "binary_thinking": {
+      "id": "binary_thinking",
+      "label": "Binary Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "infrastructure": {
+      "id": "infrastructure",
+      "label": "Infrastructure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "actor_network_theory": {
+      "id": "actor_network_theory",
+      "label": "Actor Network Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "co_constitution": {
+      "id": "co_constitution",
+      "label": "Co Constitution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "hostile_architecture": {
+      "id": "hostile_architecture",
+      "label": "Hostile Architecture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "structural_racism": {
+      "id": "structural_racism",
+      "label": "Structural Racism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "technological_efficacy": {
+      "id": "technological_efficacy",
+      "label": "Technological Efficacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "materialized_action": {
+      "id": "materialized_action",
+      "label": "Materialized Action",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "platform_politics": {
+      "id": "platform_politics",
+      "label": "Platform Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "behavioral_constraint": {
+      "id": "behavioral_constraint",
+      "label": "Behavioral Constraint",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "information_access": {
+      "id": "information_access",
+      "label": "Information Access",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "platform_design": {
+      "id": "platform_design",
+      "label": "Platform Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "latent_effects": {
+      "id": "latent_effects",
+      "label": "Latent Effects",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "behavioral_nudge": {
+      "id": "behavioral_nudge",
+      "label": "Behavioral Nudge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "platform_norms": {
+      "id": "platform_norms",
+      "label": "Platform Norms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "voice_and_silence": {
+      "id": "voice_and_silence",
+      "label": "Voice And Silence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "algorithmic_curation": {
+      "id": "algorithmic_curation",
+      "label": "Algorithmic Curation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "platform_architecture": {
+      "id": "platform_architecture",
+      "label": "Platform Architecture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "algorithmic_neutrality": {
+      "id": "algorithmic_neutrality",
+      "label": "Algorithmic Neutrality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "affordance_conditions": {
+      "id": "affordance_conditions",
+      "label": "Affordance Conditions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "media_literacy": {
+      "id": "media_literacy",
+      "label": "Media Literacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "digital_inequality": {
+      "id": "digital_inequality",
+      "label": "Digital Inequality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "disability_studies": {
+      "id": "disability_studies",
+      "label": "Disability Studies",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "accessibility": {
+      "id": "accessibility",
+      "label": "Accessibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "bodily_norms": {
+      "id": "bodily_norms",
+      "label": "Bodily Norms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "legal_change": {
+      "id": "legal_change",
+      "label": "Legal Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "sociotechnical_change": {
+      "id": "sociotechnical_change",
+      "label": "Sociotechnical Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "analytic_positionality": {
+      "id": "analytic_positionality",
+      "label": "Analytic Positionality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "structural_reproduction": {
+      "id": "structural_reproduction",
+      "label": "Structural Reproduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "critical_race_theory": {
+      "id": "critical_race_theory",
+      "label": "Critical Race Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "discourse_analysis": {
+      "id": "discourse_analysis",
+      "label": "Discourse Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "platform_analysis": {
+      "id": "platform_analysis",
+      "label": "Platform Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "app_studies": {
+      "id": "app_studies",
+      "label": "App Studies",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 2
+    },
+    "feminist_design": {
+      "id": "feminist_design",
+      "label": "Feminist Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "design_ideology": {
+      "id": "design_ideology",
+      "label": "Design Ideology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "critical_design": {
+      "id": "critical_design",
+      "label": "Critical Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "agonism": {
+      "id": "agonism",
+      "label": "Agonism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "social_media": {
+      "id": "social_media",
+      "label": "Social Media",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
+    "psychological_wellbeing": {
+      "id": "psychological_wellbeing",
+      "label": "Psychological Wellbeing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1
+      },
+      "books": [
+        "how artifacts afford"
+      ],
+      "claim_count": 1
+    },
     "energy_inequality": {
       "id": "energy_inequality",
       "label": "Energy Inequality",
@@ -140905,20 +142879,6 @@
         "how the world really works"
       ],
       "claim_count": 1
-    },
-    "altered_states": {
-      "id": "altered_states",
-      "label": "Altered States",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "in search of the miraculous": 3
-      },
-      "books": [
-        "in search of the miraculous"
-      ],
-      "claim_count": 3
     },
     "esoteric_schools": {
       "id": "esoteric_schools",
@@ -166302,20 +168262,6 @@
       ],
       "claim_count": 1
     },
-    "citizen_empowerment": {
-      "id": "citizen_empowerment",
-      "label": "Citizen Empowerment",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "mirror worlds": 1
-      },
-      "books": [
-        "mirror worlds"
-      ],
-      "claim_count": 1
-    },
     "historical_analogy": {
       "id": "historical_analogy",
       "label": "Historical Analogy",
@@ -167243,20 +169189,6 @@
     "citizen_engagement": {
       "id": "citizen_engagement",
       "label": "Citizen Engagement",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "mirror worlds": 1
-      },
-      "books": [
-        "mirror worlds"
-      ],
-      "claim_count": 1
-    },
-    "democratic_technology": {
-      "id": "democratic_technology",
-      "label": "Democratic Technology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -198390,20 +200322,6 @@
       ],
       "claim_count": 1
     },
-    "tantric_yoga": {
-      "id": "tantric_yoga",
-      "label": "Tantric Yoga",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orthodoxy and the religion of the future": 1
-      },
-      "books": [
-        "orthodoxy and the religion of the future"
-      ],
-      "claim_count": 1
-    },
     "eastern_practice": {
       "id": "eastern_practice",
       "label": "Eastern Practice",
@@ -199397,20 +201315,6 @@
         "parables for the virtual"
       ],
       "claim_count": 1
-    },
-    "synesthesia": {
-      "id": "synesthesia",
-      "label": "Synesthesia",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "parables for the virtual": 5
-      },
-      "books": [
-        "parables for the virtual"
-      ],
-      "claim_count": 5
     },
     "potentialization": {
       "id": "potentialization",
@@ -201361,20 +203265,6 @@
     "network_analysis": {
       "id": "network_analysis",
       "label": "Network Analysis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "philosopher-in-the-valley": 1
-      },
-      "books": [
-        "philosopher-in-the-valley"
-      ],
-      "claim_count": 1
-    },
-    "algorithmic_bias": {
-      "id": "algorithmic_bias",
-      "label": "Algorithmic Bias",
       "description": "",
       "aliases": [],
       "related": [],
@@ -215711,20 +217601,6 @@
     "mechanized_warfare": {
       "id": "mechanized_warfare",
       "label": "Mechanized Warfare",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 1
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 1
-    },
-    "material_politics": {
-      "id": "material_politics",
-      "label": "Material Politics",
       "description": "",
       "aliases": [],
       "related": [],
@@ -235896,20 +237772,6 @@
       ],
       "claim_count": 3
     },
-    "evolutionary_design": {
-      "id": "evolutionary_design",
-      "label": "Evolutionary Design",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "structures": 1
-      },
-      "books": [
-        "structures"
-      ],
-      "claim_count": 1
-    },
     "adaptive_structures": {
       "id": "adaptive_structures",
       "label": "Adaptive Structures",
@@ -240222,20 +242084,6 @@
       ],
       "claim_count": 1
     },
-    "medical_technology": {
-      "id": "medical_technology",
-      "label": "Medical Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the age of interconnection": 1
-      },
-      "books": [
-        "the age of interconnection"
-      ],
-      "claim_count": 1
-    },
     "global_health": {
       "id": "global_health",
       "label": "Global Health",
@@ -243862,20 +245710,6 @@
       ],
       "claim_count": 1
     },
-    "systems_thinking": {
-      "id": "systems_thinking",
-      "label": "Systems Thinking",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the art of doing science and engineering": 1
-      },
-      "books": [
-        "the art of doing science and engineering"
-      ],
-      "claim_count": 1
-    },
     "simulation_vs_experiment": {
       "id": "simulation_vs_experiment",
       "label": "Simulation Vs Experiment",
@@ -244411,20 +246245,6 @@
     "human_limitations": {
       "id": "human_limitations",
       "label": "Human Limitations",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the art of doing science and engineering": 1
-      },
-      "books": [
-        "the art of doing science and engineering"
-      ],
-      "claim_count": 1
-    },
-    "real_time_control": {
-      "id": "real_time_control",
-      "label": "Real Time Control",
       "description": "",
       "aliases": [],
       "related": [],
@@ -247067,20 +248887,6 @@
         "the ascent of money"
       ],
       "claim_count": 2
-    },
-    "complexity_theory": {
-      "id": "complexity_theory",
-      "label": "Complexity Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the ascent of money": 1
-      },
-      "books": [
-        "the ascent of money"
-      ],
-      "claim_count": 1
     },
     "crisis_prediction": {
       "id": "crisis_prediction",
@@ -254026,20 +255832,6 @@
       ],
       "claim_count": 2
     },
-    "bureaucracy": {
-      "id": "bureaucracy",
-      "label": "Bureaucracy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the culture of narcissism": 4
-      },
-      "books": [
-        "the culture of narcissism"
-      ],
-      "claim_count": 4
-    },
     "confessional_literature": {
       "id": "confessional_literature",
       "label": "Confessional Literature",
@@ -254863,6 +256655,1028 @@
       },
       "books": [
         "the culture of narcissism"
+      ],
+      "claim_count": 1
+    },
+    "cybernetics_history": {
+      "id": "cybernetics_history",
+      "label": "Cybernetics History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "brain_science": {
+      "id": "brain_science",
+      "label": "Brain Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "amateur_science": {
+      "id": "amateur_science",
+      "label": "Amateur Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "performative_ontology": {
+      "id": "performative_ontology",
+      "label": "Performative Ontology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "adaptive_systems": {
+      "id": "adaptive_systems",
+      "label": "Adaptive Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "interdisciplinarity": {
+      "id": "interdisciplinarity",
+      "label": "Interdisciplinarity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "institutional_marginality": {
+      "id": "institutional_marginality",
+      "label": "Institutional Marginality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "nomad_science": {
+      "id": "nomad_science",
+      "label": "Nomad Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "enframing_versus_revealing": {
+      "id": "enframing_versus_revealing",
+      "label": "Enframing Versus Revealing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "nonmodern_ontology": {
+      "id": "nonmodern_ontology",
+      "label": "Nonmodern Ontology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "mind_matter_dualism": {
+      "id": "mind_matter_dualism",
+      "label": "Mind Matter Dualism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "black_box_theory": {
+      "id": "black_box_theory",
+      "label": "Black Box Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "performative_epistemology": {
+      "id": "performative_epistemology",
+      "label": "Performative Epistemology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "unknowability": {
+      "id": "unknowability",
+      "label": "Unknowability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "representationalism_critique": {
+      "id": "representationalism_critique",
+      "label": "Representationalism Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "ontological_theater": {
+      "id": "ontological_theater",
+      "label": "Ontological Theater",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "ontology_in_action": {
+      "id": "ontology_in_action",
+      "label": "Ontology In Action",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "management_cybernetics": {
+      "id": "management_cybernetics",
+      "label": "Management Cybernetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "adaptive_robotics": {
+      "id": "adaptive_robotics",
+      "label": "Adaptive Robotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "brain_modeling": {
+      "id": "brain_modeling",
+      "label": "Brain Modeling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "learning_machines": {
+      "id": "learning_machines",
+      "label": "Learning Machines",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "psychiatry_history": {
+      "id": "psychiatry_history",
+      "label": "Psychiatry History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "electroconvulsive_therapy": {
+      "id": "electroconvulsive_therapy",
+      "label": "Electroconvulsive Therapy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "institutional_medicine": {
+      "id": "institutional_medicine",
+      "label": "Institutional Medicine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "technology_of_the_self": {
+      "id": "technology_of_the_self",
+      "label": "Technology Of The Self",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "situated_robotics": {
+      "id": "situated_robotics",
+      "label": "Situated Robotics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "artificial_intelligence_critique": {
+      "id": "artificial_intelligence_critique",
+      "label": "Artificial Intelligence Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "biofeedback": {
+      "id": "biofeedback",
+      "label": "Biofeedback",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "new_music": {
+      "id": "new_music",
+      "label": "New Music",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "hylozoism": {
+      "id": "hylozoism",
+      "label": "Hylozoism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 3
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 3
+    },
+    "systems_structure": {
+      "id": "systems_structure",
+      "label": "Systems Structure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "experimental_ontology": {
+      "id": "experimental_ontology",
+      "label": "Experimental Ontology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "complexity_discovery": {
+      "id": "complexity_discovery",
+      "label": "Complexity Discovery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "ontological_hybridity": {
+      "id": "ontological_hybridity",
+      "label": "Ontological Hybridity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "psychiatry_theory": {
+      "id": "psychiatry_theory",
+      "label": "Psychiatry Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "adaptive_architecture": {
+      "id": "adaptive_architecture",
+      "label": "Adaptive Architecture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "theoretical_biology": {
+      "id": "theoretical_biology",
+      "label": "Theoretical Biology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "double_bind_theory": {
+      "id": "double_bind_theory",
+      "label": "Double Bind Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "family_systems_therapy": {
+      "id": "family_systems_therapy",
+      "label": "Family Systems Therapy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "selfhood_dissolution": {
+      "id": "selfhood_dissolution",
+      "label": "Selfhood Dissolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "psychosis_theory": {
+      "id": "psychosis_theory",
+      "label": "Psychosis Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "therapeutic_philosophy": {
+      "id": "therapeutic_philosophy",
+      "label": "Therapeutic Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "ontology_of_becoming": {
+      "id": "ontology_of_becoming",
+      "label": "Ontology Of Becoming",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "therapeutic_community": {
+      "id": "therapeutic_community",
+      "label": "Therapeutic Community",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "symmetric_adaptation": {
+      "id": "symmetric_adaptation",
+      "label": "Symmetric Adaptation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "nonmodern_selfhood": {
+      "id": "nonmodern_selfhood",
+      "label": "Nonmodern Selfhood",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "social_symmetry": {
+      "id": "social_symmetry",
+      "label": "Social Symmetry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "biological_computing": {
+      "id": "biological_computing",
+      "label": "Biological Computing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "viable_system_model": {
+      "id": "viable_system_model",
+      "label": "Viable System Model",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "cybernetic_management": {
+      "id": "cybernetic_management",
+      "label": "Cybernetic Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "political_cybernetics": {
+      "id": "political_cybernetics",
+      "label": "Political Cybernetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "cold_war_politics": {
+      "id": "cold_war_politics",
+      "label": "Cold War Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "team_syntegrity": {
+      "id": "team_syntegrity",
+      "label": "Team Syntegrity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "science_religion_dialogue": {
+      "id": "science_religion_dialogue",
+      "label": "Science Religion Dialogue",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "generative_music": {
+      "id": "generative_music",
+      "label": "Generative Music",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "aesthetic_machines": {
+      "id": "aesthetic_machines",
+      "label": "Aesthetic Machines",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "evolutionary_computing": {
+      "id": "evolutionary_computing",
+      "label": "Evolutionary Computing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "sensory_evolution": {
+      "id": "sensory_evolution",
+      "label": "Sensory Evolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "participant_observation": {
+      "id": "participant_observation",
+      "label": "Participant Observation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "cybernetic_method": {
+      "id": "cybernetic_method",
+      "label": "Cybernetic Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "robotic_art": {
+      "id": "robotic_art",
+      "label": "Robotic Art",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "cybernetic_art": {
+      "id": "cybernetic_art",
+      "label": "Cybernetic Art",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "human_machine_aesthetics": {
+      "id": "human_machine_aesthetics",
+      "label": "Human Machine Aesthetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "situationist_urbanism": {
+      "id": "situationist_urbanism",
+      "label": "Situationist Urbanism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "morphogenetic_architecture": {
+      "id": "morphogenetic_architecture",
+      "label": "Morphogenetic Architecture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "ontological_imagination": {
+      "id": "ontological_imagination",
+      "label": "Ontological Imagination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "cultural_hegemony": {
+      "id": "cultural_hegemony",
+      "label": "Cultural Hegemony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "pedagogical_reform": {
+      "id": "pedagogical_reform",
+      "label": "Pedagogical Reform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 2
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 2
+    },
+    "nonmodern_assemblage": {
+      "id": "nonmodern_assemblage",
+      "label": "Nonmodern Assemblage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "cultural_ecology": {
+      "id": "cultural_ecology",
+      "label": "Cultural Ecology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "interdisciplinary_synthesis": {
+      "id": "interdisciplinary_synthesis",
+      "label": "Interdisciplinary Synthesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "ontological_education": {
+      "id": "ontological_education",
+      "label": "Ontological Education",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
+      ],
+      "claim_count": 1
+    },
+    "futures_studies": {
+      "id": "futures_studies",
+      "label": "Futures Studies",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the cybernetic brain": 1
+      },
+      "books": [
+        "the cybernetic brain"
       ],
       "claim_count": 1
     },
@@ -281242,20 +284056,6 @@
       ],
       "claim_count": 1
     },
-    "control_theory": {
-      "id": "control_theory",
-      "label": "Control Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the pattern on the stone": 1
-      },
-      "books": [
-        "the pattern on the stone"
-      ],
-      "claim_count": 1
-    },
     "adaptive_learning": {
       "id": "adaptive_learning",
       "label": "Adaptive Learning",
@@ -284657,20 +287457,6 @@
         "the reality of being"
       ],
       "claim_count": 1
-    },
-    "direct_perception": {
-      "id": "direct_perception",
-      "label": "Direct Perception",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the reality of being": 2
-      },
-      "books": [
-        "the reality of being"
-      ],
-      "claim_count": 2
     },
     "impression_reception": {
       "id": "impression_reception",
@@ -289463,20 +292249,6 @@
     "individual_identity": {
       "id": "individual_identity",
       "label": "Individual Identity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the sickness unto death": 1
-      },
-      "books": [
-        "the sickness unto death"
-      ],
-      "claim_count": 1
-    },
-    "autonomy": {
-      "id": "autonomy",
-      "label": "Autonomy",
       "description": "",
       "aliases": [],
       "related": [],
@@ -310516,20 +313288,6 @@
       ],
       "claim_count": 1
     },
-    "social_capital": {
-      "id": "social_capital",
-      "label": "Social Capital",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 1
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 1
-    },
     "clerical_hierarchy": {
       "id": "clerical_hierarchy",
       "label": "Clerical Hierarchy",
@@ -312507,20 +315265,6 @@
     "anti_statism": {
       "id": "anti_statism",
       "label": "Anti Statism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "thus spake zarathustra": 1
-      },
-      "books": [
-        "thus spake zarathustra"
-      ],
-      "claim_count": 1
-    },
-    "political_critique": {
-      "id": "political_critique",
-      "label": "Political Critique",
       "description": "",
       "aliases": [],
       "related": [],
@@ -318720,20 +321464,6 @@
       ],
       "claim_count": 1
     },
-    "power_structures": {
-      "id": "power_structures",
-      "label": "Power Structures",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 7
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 7
-    },
     "public_opinion_manipulation": {
       "id": "public_opinion_manipulation",
       "label": "Public Opinion Manipulation",
@@ -321817,20 +324547,6 @@
     "journalism": {
       "id": "journalism",
       "label": "Journalism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
-    "institutional_legitimacy": {
-      "id": "institutional_legitimacy",
-      "label": "Institutional Legitimacy",
       "description": "",
       "aliases": [],
       "related": [],
@@ -327904,20 +330620,6 @@
       ],
       "claim_count": 1
     },
-    "democratic_politics": {
-      "id": "democratic_politics",
-      "label": "Democratic Politics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
     "libertarian_strategy": {
       "id": "libertarian_strategy",
       "label": "Libertarian Strategy",
@@ -328173,20 +330875,6 @@
     "institutional_self_interest": {
       "id": "institutional_self_interest",
       "label": "Institutional Self Interest",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
-    "systemic_failure": {
-      "id": "systemic_failure",
-      "label": "Systemic Failure",
       "description": "",
       "aliases": [],
       "related": [],
@@ -332512,8 +335200,8 @@
     }
   },
   "stats": {
-    "total_concepts": 22857,
-    "total_claims": 38497,
-    "books_indexed": 126
+    "total_concepts": 23036,
+    "total_claims": 38833,
+    "books_indexed": 129
   }
 }

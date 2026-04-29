@@ -1,0 +1,1681 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Mangle of Practice: Science, Society, and Becoming",
+    "author": "Andrew Pickering",
+    "year": null,
+    "categories": [
+      "history",
+      "science",
+      "philosophy"
+    ],
+    "thesis": "British cybernetics, from the 1940s through the 1990s, enacted a distinctive nonmodern ontology of performative, adaptive engagement with an unknowable world, staging alternatives to the modern scientific stance of representational domination and enframing across fields ranging from psychiatry and management to art and architecture."
+  },
+  "claims": [
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-001",
+      "text": "British cybernetics emerged primarily from psychiatry and brain science rather than military research, distinguishing it from American cybernetics rooted in Norbert Wiener's wartime antiaircraft work.",
+      "chapter": "The Adaptive Brain",
+      "concepts": [
+        "cybernetics_history",
+        "brain_science",
+        "amateur_science"
+      ],
+      "entities": {
+        "people": [
+          "Norbert Wiener",
+          "Ross Ashby",
+          "Grey Walter",
+          "Warren McCulloch"
+        ],
+        "places": [
+          "Britain",
+          "Burden Neurological Institute"
+        ],
+        "events": [
+          "Macy Conferences 1946-1953"
+        ],
+        "works": [
+          "Cybernetics (Wiener, 1948)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Three of the 'four founders of cybernetics'\u2014Ashby, Walter, and McCulloch\u2014spent most of their careers in research on the human brain, often in psychiatric milieus.",
+          "speaker": null
+        },
+        {
+          "text": "Walter built his first tortoises at home in his spare time; Ashby built the homeostat 'of old RAF parts on Mrs. Ashby's kitchen table'\u2014British cybernetics had an amateur, hobbyist character.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-002",
+      "text": "The cybernetic brain is performative rather than representational: it acts and adapts to its environment without constructing cognitive maps or processing symbols, in direct contrast to Good Old-Fashioned AI.",
+      "chapter": "The Adaptive Brain",
+      "concepts": [
+        "performative_ontology",
+        "adaptive_systems",
+        "artificial_intelligence"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby",
+          "Grey Walter"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Design for a Brain (Ashby, 1952)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "To some, the critical test of whether a machine is a 'brain' would be whether it can 'think.' But to the biologist the brain is not a thinking machine, it is an acting machine; it gets information and then it does something about it.",
+          "speaker": "Ross Ashby"
+        },
+        {
+          "text": "Walter's robot tortoises and Ashby's homeostat modeled the adaptive brain by engaging performatively with their environments without any representational detour\u2014exploring rather than computing.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-003",
+      "text": "Cybernetics is characterized by ontological hybridity and protean instability: it spilled out from brain science into robotics, management, politics, art, education, and spirituality because its core ontology was not tied to any single domain.",
+      "chapter": "The Adaptive Brain",
+      "concepts": [
+        "interdisciplinarity",
+        "institutional_marginality",
+        "knowledge_transmission"
+      ],
+      "entities": {
+        "people": [
+          "Grey Walter",
+          "Stafford Beer",
+          "Gordon Pask",
+          "Gregory Bateson"
+        ],
+        "places": [
+          "Ratio Club",
+          "Namur",
+          "Biological Computer Laboratory"
+        ],
+        "events": [],
+        "works": [
+          "The Living Brain (Walter, 1953)",
+          "Brain of the Firm (Beer, 1972)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Walter's tortoises spanned brain science, psychiatry, robotics, TV science fiction, and the Beat counterculture; Stafford Beer's management cybernetics evolved into Chilean economic planning and tantric yoga.",
+          "speaker": null
+        },
+        {
+          "text": "Cybernetics had no reliable institutional home\u2014it flourished in dining clubs, conference series, and spare bedrooms, propagated through popular books rather than PhD programs.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-004",
+      "text": "Cybernetics constitutes a 'nomad science' in Deleuze and Guattari's sense\u2014it wanders across disciplinary boundaries, undermines established orders, and resists institutionalization within the royal sciences of modernity.",
+      "chapter": "The Adaptive Brain",
+      "concepts": [
+        "nomad_science",
+        "knowledge_diffusion",
+        "counterculture"
+      ],
+      "entities": {
+        "people": [
+          "Gilles Deleuze",
+          "F\u00e9lix Guattari",
+          "William Burroughs",
+          "Rodney Brooks",
+          "Christopher Alexander"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "A Thousand Plateaus (Deleuze and Guattari, 1987)",
+          "Naked Lunch (Burroughs, 1959)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Ratio Club, a self-selected dining club meeting between 1949 and 1958, was the social center of gravity for British cybernetics, cutting across academic disciplines and institutional classifications alike.",
+          "speaker": null
+        },
+        {
+          "text": "William Burroughs, Rodney Brooks, and Christopher Alexander all took cybernetics in directions that would have occurred to no one else, reading Walter's or Ashby's popular books and mutating their ideas freely.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-005",
+      "text": "The cybernetic discovery of complexity\u2014that even simple systems produce aggregate behavior that cannot be predicted from knowledge of their components\u2014points toward an 'ontology of unknowability' more fundamental than any specific application.",
+      "chapter": "The Adaptive Brain",
+      "concepts": [
+        "complexity_theory",
+        "emergence",
+        "epistemological_limits"
+      ],
+      "entities": {
+        "people": [
+          "Grey Walter",
+          "Ross Ashby",
+          "Stephen Wolfram",
+          "Stuart Kauffman"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "A New Kind of Science (Wolfram, 2002)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Walter was surprised by the mirror and mating dances of his tortoises; Ashby was baffled and defeated by DAMS; both discovered that atomic understanding of parts fails to translate into predictive knowledge of aggregate performance.",
+          "speaker": null
+        },
+        {
+          "text": "Stephen Wolfram's 'New Kind of Science' rediscovered this: rule 30 cellular automata are 'computationally irreducible'\u2014the only way to know what they will do is run them and watch.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-006",
+      "text": "The critique of cybernetics as a science of domination and control misidentifies its actual ontological stance, which is one of 'revealing' rather than 'enframing'\u2014of openness to an unpredictable world rather than subjugation of it.",
+      "chapter": "The Adaptive Brain",
+      "concepts": [
+        "political_critique",
+        "enframing_versus_revealing",
+        "social_control"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer",
+          "Martin Heidegger"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Question Concerning Technology (Heidegger, 1954)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The fact is that our whole concept of control is naive, primitive and ridden with an almost retributive idea of causality. Control to most people is a crude process of coercion.",
+          "speaker": "Stafford Beer"
+        },
+        {
+          "text": "If cybernetics staged an ontology in which fundamental entities were dynamic systems evolving in unpredictable ways, it could hardly have been in the business of Big Brother-style domination; enframing necessarily fails in a world of exceedingly complex systems.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-007",
+      "text": "Modernity is defined by a constitutive dualism between people and things, instantiated in the separate disciplines of natural and social science, which cybernetics systematically transgresses by building machines that are also brains.",
+      "chapter": "Ontological Theater",
+      "concepts": [
+        "nonmodern_ontology",
+        "mind_matter_dualism",
+        "institutional_critique"
+      ],
+      "entities": {
+        "people": [
+          "Bruno Latour"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "We Have Never Been Modern (Latour, 1993)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Bruno Latour argues that modernity is coextensive with a dualism of people and things; key features of the modern West can be traced to dichotomous patterns of thought now institutionalized in schools and universities.",
+          "speaker": null
+        },
+        {
+          "text": "Synthetic brains\u2014machines like the tortoise and the homeostat\u2014threaten the modern boundary between mind and matter, creating a breach in which engineering spills over into psychology and vice versa.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-008",
+      "text": "Ashby's Black Box ontology posits that performative engagement with an inscrutable world\u2014rather than representational mastery of it\u2014is the fundamental condition of all entities, from children opening doors to scientists studying the brain.",
+      "chapter": "Ontological Theater",
+      "concepts": [
+        "black_box_theory",
+        "performative_epistemology",
+        "unknowability"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "An Introduction to Cybernetics (Ashby, 1956)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The child who tries to open a door has to manipulate the handle so as to produce the desired movement at the latch, and he has to learn how to control the one by the other without being able to see the internal mechanism that links them.",
+          "speaker": "Ross Ashby"
+        },
+        {
+          "text": "A Black Box ontology is performative: knowledge of a box's workings is not intrinsic to the conception but may grow out of performative experience; the world just is populated by lively systems that act and react to our doings.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-009",
+      "text": "The modern scientific stance toward Black Boxes\u2014stripping away casings to achieve representational understanding\u2014constitutes a 'detour' that veils the world of performance, while cybernetics works to draw back that veil.",
+      "chapter": "Ontological Theater",
+      "concepts": [
+        "representationalism_critique",
+        "performative_ontology",
+        "epistemology"
+      ],
+      "entities": {
+        "people": [
+          "Grey Walter",
+          "Ross Ashby"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The modern sciences invite us to imagine that our relation to the world is basically cognitive\u2014we act through our knowledge of it\u2014and that the world is a place that can be known through scientific methods; this 'veiling' makes the performative aspects of our being unrepresentable.",
+          "speaker": null
+        },
+        {
+          "text": "The tortoise engaged performatively and nonrepresentationally with its environment\u2014cybernetics modeled the performative rather than the cognitive brain, and in doing so staged a contrasting ontology.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-010",
+      "text": "Cybernetic devices function as 'ontological theater' in a double sense: contemplation of them helps us grasp a nonmodern ontological vision, while building them exemplifies how one might go on in practice if one takes that vision seriously.",
+      "chapter": "Ontological Theater",
+      "concepts": [
+        "ontological_theater",
+        "ontology_in_action",
+        "complexity_theory"
+      ],
+      "entities": {
+        "people": [
+          "Stephen Wolfram",
+          "Stuart Kauffman"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The tortoise exploring its world stands as a little model of what the world is like in general\u2014an ontological icon; conversely, once one grasps the vision, building tortoises and homeostats stages examples of how it might be brought down to earth in brain science, psychiatry, robotics, and so on.",
+          "speaker": null
+        },
+        {
+          "text": "Wolfram's rule 30 cellular automata add an 'ontology of becoming' to this picture\u2014systems so computationally irreducible that the only way to know what they will do next is to run them and watch.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-011",
+      "text": "Beer's notion of 'exceedingly complex systems'\u2014systems too complex ever to be fully grasped representationally and that change so that present knowledge cannot guarantee future behavior\u2014defines the proper referent of cybernetics and distinguishes it from the modern sciences.",
+      "chapter": "Ontological Theater",
+      "concepts": [
+        "systems_theory",
+        "epistemological_limits",
+        "management_cybernetics"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Cybernetics and Management (Beer, 1959)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Beer distinguished 'simple,' 'complex,' and 'exceedingly complex' systems: the brain, the firm, and the economy belong to the last class\u2014they are the province of cybernetics, not of OR or physics.",
+          "speaker": null
+        },
+        {
+          "text": "Modern science implicitly assumes that everything will eventually be assimilated to its representational schema; cybernetics assumes that a large and important portion of the world will not, and tries to address that performatively.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-012",
+      "text": "The cybernetic stance toward the world is one of 'revealing' rather than 'enframing'\u2014of openness to possibility and adaptive exploration\u2014which aligns it with democratic politics while distinguishing it from the authoritarian implications of command-and-control modernity.",
+      "chapter": "Ontological Theater",
+      "concepts": [
+        "enframing_versus_revealing",
+        "democratic_politics",
+        "design_philosophy"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger",
+          "Stafford Beer"
+        ],
+        "places": [
+          "New Orleans",
+          "Iraq"
+        ],
+        "events": [
+          "Hurricane Katrina 2005"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cybernetics could not have been in the business of Big Brother-style domination and enframing because its ontology makes enframing impossible in principle; the entire task of cybernetics was to figure out how to get along in a world that could not be subjugated to human designs.",
+          "speaker": null
+        },
+        {
+          "text": "A distinctively cybernetic notion of design emerges: rather than formulating a plan to impose on matter, cybernetic design entails a continuing interaction with materials, human and nonhuman, to explore what might be achieved\u2014an evolutionary approach entailing respect for the other.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-013",
+      "text": "Walter's robot tortoises modeled the performative, adaptive brain by engaging with their environment via scanning and phototropism rather than by building representations\u2014and their emergent behaviors, including mirror and mating dances, revealed a cybernetic 'discovery of complexity.'",
+      "chapter": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "concepts": [
+        "adaptive_robotics",
+        "emergence",
+        "brain_modeling"
+      ],
+      "entities": {
+        "people": [
+          "Grey Walter",
+          "Owen Holland",
+          "Rodney Brooks"
+        ],
+        "places": [
+          "Burden Neurological Institute",
+          "Bristol"
+        ],
+        "events": [
+          "Festival of Britain 1951"
+        ],
+        "works": [
+          "The Living Brain (Walter, 1953)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The tortoises had two-neuron brains of simple relay and triode circuits, yet displayed emergent behaviors Walter had not designed into them\u2014he was 'taken by surprise' by the mirror dance, and Owen Holland's reconstructions challenge even Walter's after-the-fact explanation.",
+          "speaker": null
+        },
+        {
+          "text": "Even in the simple models of behaviour we have described, it is often quite impossible to decide whether what the model is doing is the result of its design or its experience.",
+          "speaker": "Grey Walter"
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-014",
+      "text": "Walter's conditioned reflex analogue CORA extended the tortoises into learning machines and directly embodied a performative epistemology\u2014knowledge that waxes and wanes with performance rather than standing as an external controller.",
+      "chapter": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "concepts": [
+        "learning_machines",
+        "performative_epistemology",
+        "conditioning"
+      ],
+      "entities": {
+        "people": [
+          "Grey Walter",
+          "Ivan Pavlov"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "CORA converted Machina speculatrix to Machina docilis by detecting repeated coincident inputs across sensory channels and opening associative links\u2014and Walter quickly showed that cross-conditioning could drive the machine into 'experimental neurosis,' validating both the model and ECT as therapy.",
+          "speaker": null
+        },
+        {
+          "text": "The knowledge of Machina docilis waxed and waned with its performance, integrating over experience as a heuristic guide\u2014staging a vision of knowledge as part of performance rather than its external determinant.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-015",
+      "text": "Walter's cybernetics emerged from and stayed entangled with the brutal psychiatric milieu of electroconvulsive therapy, which it simultaneously modeled mechanistically and legitimized\u2014making cybernetics, at its origins, a science of both psychiatric theory and practice.",
+      "chapter": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "concepts": [
+        "psychiatry_history",
+        "electroconvulsive_therapy",
+        "institutional_medicine"
+      ],
+      "entities": {
+        "people": [
+          "Grey Walter",
+          "Frederick Golla"
+        ],
+        "places": [
+          "Burden Neurological Institute"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Britain's first commercial ECT machine was developed by Ediswan 'to the specification of Mr. Grey Walter,' and Walter authored the first three papers from the Burden on ECT; he performed ECT on American soldiers during World War II.",
+          "speaker": null
+        },
+        {
+          "text": "Walter analogized the electromechanical procedures for restoring a tortoise to sanity\u2014leaving it alone, switching it off and on, disconnecting circuits\u2014to sleep therapy, shock therapy, and lobotomy, offering a cybernetic legitimation of all three.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-016",
+      "text": "Walter's research on flicker\u2014exposure to strobe lights inducing epileptic symptoms and vivid hallucinations\u2014crossed over into the psychedelic sixties via William Burroughs and the Beats, making cybernetics a constitutive element of countercultural explorations of consciousness.",
+      "chapter": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "concepts": [
+        "counterculture",
+        "altered_states",
+        "technology_of_the_self"
+      ],
+      "entities": {
+        "people": [
+          "William Burroughs",
+          "Brion Gysin",
+          "Allen Ginsberg",
+          "Timothy Leary",
+          "Aldous Huxley"
+        ],
+        "places": [
+          "Tangiers",
+          "Paris"
+        ],
+        "events": [],
+        "works": [
+          "The Living Brain (Walter, 1953)",
+          "Heaven and Hell (Huxley, 1956)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Burroughs read The Living Brain and was fascinated that 'consciousness expanding experience has been produced by flicker'; Brion Gysin built the first Dream Machine from a cardboard cylinder and a 78 rpm turntable after learning of Walter's flicker research via Burroughs.",
+          "speaker": null
+        },
+        {
+          "text": "By 1968 stroboscopic lights were flashing everywhere in the drug culture; Tom Wolfe wrote that 'heads discovered that strobes could project them into many of the sensations of an LSD experience without taking LSD.'",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-017",
+      "text": "Rodney Brooks's situated robotics constitutes the most consequential contemporary descendant of Walter's tortoises, demonstrating that the performative, nonrepresentational approach to robotics\u2014abandoned during the AI revolution of the 1950s\u2014is both technically superior and ontologically more honest.",
+      "chapter": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "concepts": [
+        "situated_robotics",
+        "artificial_intelligence_critique",
+        "embodied_cognition"
+      ],
+      "entities": {
+        "people": [
+          "Rodney Brooks",
+          "Hans Moravec"
+        ],
+        "places": [
+          "MIT",
+          "MIT Computer Science and Artificial Intelligence Laboratory"
+        ],
+        "events": [
+          "Biologically-Inspired Robotics conference 2002"
+        ],
+        "works": [
+          "Cambrian Intelligence (Brooks, 1999)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "After reading a Pelican edition of Walter's book as a schoolboy in Australia, Brooks built his own version of Machina Speculatrix; decades later his robot Allen dispensed with the 'cognitive box' of symbolic AI in favor of performative environmental engagement.",
+          "speaker": null
+        },
+        {
+          "text": "Despite having millions of dollars of equipment, Hans Moravec's AI robot moved so slowly that shadows confused it; Grey Walter had gotten his tortoises to operate autonomously for hours, interacting with a dynamically changing world, using parts costing tens of dollars.",
+          "speaker": "Rodney Brooks"
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-018",
+      "text": "EEG biofeedback and brainwave music\u2014exemplified by Alvin Lucier's Music for Solo Performer and Richard Teitelbaum's Spacecraft\u2014extended the cybernetic exploration of the performative brain into the arts, staging a hylozoist ontology in which nature's own dynamics generate the aesthetic output.",
+      "chapter": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "concepts": [
+        "biofeedback",
+        "new_music",
+        "hylozoism"
+      ],
+      "entities": {
+        "people": [
+          "Alvin Lucier",
+          "Richard Teitelbaum",
+          "John Cage"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Music for Solo Performer (Lucier, 1965)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In Lucier's work the performer does not exercise absolute control; the sounds enable the performer to tune into alpha wave generation while simultaneously interfering with it\u2014a reciprocal and open-ended interplay between performer and performance.",
+          "speaker": null
+        },
+        {
+          "text": "The sounds that are 'allowed to be themselves' in Lucier's work have always had a mysteriously 'expressive' quality. Sometimes I think it is inarticulate nature speaking to us here.",
+          "speaker": "James Tenney"
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-019",
+      "text": "The homeostat was a major conceptual advance over the tortoise because its world was itself lively and dynamic\u2014simulated by more homeostats\u2014staging a symmetric vision of fluid entities performatively exploring each other in a decentered dance of agency.",
+      "chapter": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "concepts": [
+        "adaptive_systems",
+        "ontological_theater",
+        "cybernetics_history"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby",
+          "Norbert Wiener"
+        ],
+        "places": [
+          "Barnwood House"
+        ],
+        "events": [],
+        "works": [
+          "Design for a Brain (Ashby, 1952)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Norbert Wiener described Ashby's idea of 'the unpurposeful random mechanism which seeks for its own purpose through a process of learning' as 'one of the great philosophical contributions of the present day.'",
+          "speaker": "Norbert Wiener"
+        },
+        {
+          "text": "Unlike the tortoise's largely static world of lights and obstacles, the homeostat's world was as lively as the machine itself\u2014more homeostats\u2014and their mutual interactions staged the ontological vision of fluid, ever-changing entities evolving together in a performative back-and-forth.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-020",
+      "text": "Ashby's analysis of time-to-equilibrium in multihomeostat assemblages demonstrated that exceedingly complex systems could only adapt in realistic time if their internal units were sparsely connected\u2014yielding a cybernetic discovery about the structure of both brains and worlds.",
+      "chapter": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "concepts": [
+        "complexity_theory",
+        "systems_structure",
+        "experimental_ontology"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Design for a Brain (Ashby, 1952)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "For a fully interconnected network of 1,000 units, the time to equilibrium was estimated at 3 \u00d7 10\u00b2\u2079\u00b9 centuries\u2014longer than the age of the universe; only sparse connection made adaptation possible in biologically plausible time.",
+          "speaker": null
+        },
+        {
+          "text": "Ashby concluded that brain and world must mirror each other structurally: both had to consist of sparsely connected dynamic entities, a piece of experimental ontology unavailable within the framework of modern sciences.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-021",
+      "text": "The DAMS project\u2014Ashby's attempt to build a dispersive, multistable brain that could accumulate adaptations\u2014failed but generated the insight that genuinely complex systems require evolutionary rather than blueprint design, a discovery with consequences for cybernetic philosophy across many fields.",
+      "chapter": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "concepts": [
+        "evolutionary_design",
+        "complexity_discovery",
+        "epistemological_limits"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby"
+        ],
+        "places": [
+          "Barnwood House"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Why not make the development of DAMS follow in the footsteps marked out by evolution, by making its variations struggle for existence?... This totally abandons any pretence to 'understand' the assembly in the 'blue-print' sense.",
+          "speaker": "Ross Ashby"
+        },
+        {
+          "text": "The inability to make DAMS accumulate adaptations revealed that the structure of the brain matters\u2014that a gating mechanism had to be built in genetically\u2014and that even modest machine complexity could produce behavior opaque to their designers.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-022",
+      "text": "Ashby's mature law of requisite variety\u2014'only variety can destroy variety'\u2014formalized the cybernetic insight that adaptive control requires at least as much flexibility as the environment being controlled, and became a cornerstone of management cybernetics and social theory.",
+      "chapter": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "concepts": [
+        "requisite_variety",
+        "control_theory",
+        "management_cybernetics"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby",
+          "Stafford Beer",
+          "Gordon Pask"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "An Introduction to Cybernetics (Ashby, 1956)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "If the environment can take on twenty-five states, the regulator had better be able to take on at least twenty-five as well\u2014otherwise one of the environment's dodges will get straight past the regulator and upset the essential variable.",
+          "speaker": null
+        },
+        {
+          "text": "Beer and Pask drew heavily on Ashby's law of requisite variety in developing their management cybernetics, making it a foundational concept for thinking about adaptive organizations and social systems.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-023",
+      "text": "Ashby's cybernetics, like Walter's, maintained a hybrid modern/nonmodern character\u2014aiming to open the Black Box of the brain via classical scientific modelling, while simultaneously discovering that even simple machines remain mini\u2013Black Boxes whose aggregate behavior cannot be predicted.",
+      "chapter": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "concepts": [
+        "ontological_hybridity",
+        "psychiatry_theory",
+        "electroconvulsive_therapy"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby"
+        ],
+        "places": [
+          "Barnwood House",
+          "University of Illinois",
+          "Biological Computer Laboratory"
+        ],
+        "events": [],
+        "works": [
+          "Design for a Brain (Ashby, 1952)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "DAMS never worked as Ashby hoped; his struggles with it\u2014documented in 7,189 pages of private journals\u2014led him ultimately to recommend 'building small specialist machines, each devised to show one fact with perfect clarity' after concluding that the European cybernetics community regarded him as a teacher rather than a researcher.",
+          "speaker": null
+        },
+        {
+          "text": "Ashby's clinical research on ECT and his cybernetics were intimately linked: his 1953 paper suggested ECT might work by delivering 'a large and random disturbance' that could restore a habituated brain's responsiveness\u2014an insight from his work on DAMS.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-024",
+      "text": "Christopher Alexander, Stuart Kauffman, and Stephen Wolfram independently extended the Ashbyite problematic of complex interconnected systems\u2014into architecture, theoretical biology, and mathematics respectively\u2014demonstrating that cybernetics lived on under many other names.",
+      "chapter": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "concepts": [
+        "complexity_theory",
+        "adaptive_architecture",
+        "theoretical_biology"
+      ],
+      "entities": {
+        "people": [
+          "Christopher Alexander",
+          "Stuart Kauffman",
+          "Stephen Wolfram"
+        ],
+        "places": [
+          "Santa Fe Institute",
+          "University of California Berkeley"
+        ],
+        "events": [],
+        "works": [
+          "Notes on the Synthesis of Form (Alexander, 1964)",
+          "At Home in the Universe (Kauffman, 1995)",
+          "A New Kind of Science (Wolfram, 2002)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Alexander drew directly on Design for a Brain in Notes on the Synthesis of Form, arguing that traditional buildings are well-adapted because their design problems are loosely coupled, and that contemporary architecture should seek similarly to 'diagonalize' design variables.",
+          "speaker": null
+        },
+        {
+          "text": "Kauffman's computer simulations of randomly connected gene networks showed that they spontaneously cycle among a surprisingly small number of states\u2014a discovery of simplicity within complexity that supported his argument that life was inevitable rather than improbable.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-025",
+      "text": "Bateson's double bind\u2014a repeated situation to which no satisfactory response exists, modeled on cross-conditioning in Pavlov's dogs and Walter's tortoises\u2014provided a cybernetic explanation of schizophrenia as the achievement of a pathological equilibrium by an entire family system.",
+      "chapter": "Gregory Bateson and R. D. Laing: Symmetry, Psychiatry, and the Sixties",
+      "concepts": [
+        "double_bind_theory",
+        "schizophrenia",
+        "family_systems_therapy"
+      ],
+      "entities": {
+        "people": [
+          "Gregory Bateson",
+          "Jay Haley",
+          "John Weakland",
+          "Don Jackson"
+        ],
+        "places": [
+          "Palo Alto",
+          "Veterans Administration Hospital"
+        ],
+        "events": [],
+        "works": [
+          "Towards a Theory of Schizophrenia (Bateson et al., 1956)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Bateson group's classic example was a mother who encouraged her son's affection but froze when he displayed it; like Pavlov's dogs and Walter's CORA-equipped tortoises, the son found no normal way to go on and was forced into abnormal responses.",
+          "speaker": null
+        },
+        {
+          "text": "Bateson did not think the mother caused her son's schizophrenia in a linear fashion\u2014on the model of the homeostat he thought of all parties as adapting to one another in trial-and-error search, with schizophrenia as the whole system reaching a bizarre equilibrium.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-026",
+      "text": "Bateson forged a tight connection between schizophrenia and Zen Buddhist enlightenment: both involve dissolution of the modern bounded self via contradictory communication patterns, making madness one pathway to a higher order of adaptation rather than simply a failure.",
+      "chapter": "Gregory Bateson and R. D. Laing: Symmetry, Psychiatry, and the Sixties",
+      "concepts": [
+        "zen_buddhism",
+        "selfhood_dissolution",
+        "altered_states"
+      ],
+      "entities": {
+        "people": [
+          "Gregory Bateson",
+          "Alan Watts",
+          "Aldous Huxley"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Way of Zen (Watts, 1957)",
+          "The Doors of Perception (Huxley, 1954)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Zen master holds a stick and says 'if you say this stick is real, I will strike you; if you say it is not real, I will strike you; if you don't say anything, I will strike you'\u2014and the schizophrenic finds himself in the same situation, but achieves disorientation rather than enlightenment.",
+          "speaker": "Gregory Bateson et al."
+        },
+        {
+          "text": "Alan Watts, a consultant on Bateson's schizophrenia project, drew on cybernetics to explain karma and nirvana, describing how oversensitive feedback mechanisms continually elicit further corrections\u2014creating a two-way flow between cybernetics and Buddhist philosophy.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-027",
+      "text": "Bateson's later vision of psychosis as an inner voyage with its own endogenous dynamics\u2014a 'death and rebirth' process that only fails when interrupted by conventional psychiatry\u2014provided the theoretical foundation for Laing's radical therapeutic communities.",
+      "chapter": "Gregory Bateson and R. D. Laing: Symmetry, Psychiatry, and the Sixties",
+      "concepts": [
+        "psychosis_theory",
+        "therapeutic_philosophy",
+        "ontology_of_becoming"
+      ],
+      "entities": {
+        "people": [
+          "Gregory Bateson"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Perceval's Narrative (Bateson ed., 1961)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Once precipitated into psychosis the patient has a course to run\u2014he is embarked upon a voyage of discovery which is only completed by his return to the normal world, to which he comes back with insights different from those of inhabitants who never embarked on such a voyage.",
+          "speaker": "Gregory Bateson"
+        },
+        {
+          "text": "This understanding implied that conventional psychiatric interventions\u2014ECT, drugs, hospitalization\u2014were worse than useless, simply leaving sufferers stuck in their double binds without any possibility of working through the adaptive process.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-028",
+      "text": "Laing's Kingsley Hall and the Archway communities constituted cybernetic ontology in action: by placing therapists and patients on a symmetric footing with no fixed power hierarchy, they staged what performative adaptation between self-organizing systems actually looks like in practice.",
+      "chapter": "Gregory Bateson and R. D. Laing: Symmetry, Psychiatry, and the Sixties",
+      "concepts": [
+        "therapeutic_community",
+        "symmetric_adaptation",
+        "nonmodern_selfhood"
+      ],
+      "entities": {
+        "people": [
+          "R. D. Laing",
+          "Joe Berke",
+          "Mary Barnes",
+          "David Cooper"
+        ],
+        "places": [
+          "Kingsley Hall",
+          "Archway",
+          "Philadelphia Association"
+        ],
+        "events": [],
+        "works": [
+          "Two Accounts of a Journey through Madness (Barnes and Berke, 1971)",
+          "The Politics of Experience (Laing, 1967)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Joe Berke's engagement with Mary Barnes combined performative experimentation\u2014growling, playing bears and sharks, feeding milk from a baby bottle\u2014with psychotherapeutic interpretations that grew out of practice rather than being imposed upon it.",
+          "speaker": null
+        },
+        {
+          "text": "Twenty-four-hour attention at Archway became an evolving institution in its own right: residents found that the technique allowed them to inhabit inner-voyage states without fear, and it eventually extended to 'sane' residents like John, who embarked on his own transformative experience.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-029",
+      "text": "Laingian psychiatry and the 1960s counterculture were in much the same ontological space\u2014sharing an interest in the performative self, technologies of consciousness, and symmetric rather than hierarchical social arrangements\u2014and Laing had a constitutive role in shaping the counterculture itself.",
+      "chapter": "Gregory Bateson and R. D. Laing: Symmetry, Psychiatry, and the Sixties",
+      "concepts": [
+        "counterculture",
+        "educational_reform",
+        "social_symmetry"
+      ],
+      "entities": {
+        "people": [
+          "R. D. Laing",
+          "David Cooper",
+          "Alexander Trocchi",
+          "Gregory Bateson",
+          "Allen Ginsberg"
+        ],
+        "places": [
+          "Kingsley Hall",
+          "Anti-University of London",
+          "Roundhouse"
+        ],
+        "events": [
+          "Dialectics of Liberation conference 1967"
+        ],
+        "works": [
+          "The Politics of Experience (Laing, 1967)",
+          "Bomb Culture (Nuttall, 1968)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The Politics of Experience became a countercultural classic precisely because its final chapters\u2014describing Jesse Watkins's ten-day inner voyage with its encounters with gods, animal-humans, and cosmic consciousness\u2014filled in the phenomenological content that Bateson's abstract theory lacked.",
+          "speaker": null
+        },
+        {
+          "text": "Laing cofounded the Institute of Phenomenological Studies which sponsored the Anti-University of London in 1968\u2014a direct attempt to apply the Kingsley Hall model to higher education, with no fees, no exams, and no separation between staff and students.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-030",
+      "text": "Beer's vision of the cybernetic factory required not just automation of production but an adaptive brain\u2014the U-machine\u2014capable of reconfiguring itself to maintain viability in an unknowable and changing economic environment, which he sought first to build from biological materials.",
+      "chapter": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "concepts": [
+        "biological_computing",
+        "management_cybernetics",
+        "hylozoism"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer",
+          "Gordon Pask"
+        ],
+        "places": [
+          "United Steel",
+          "Templeborough Rolling Mills"
+        ],
+        "events": [],
+        "works": [
+          "Cybernetics and Management (Beer, 1959)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Beer imagined the U-machine as some form of 'Ashbean ultrastable machine'\u2014a homeostat functioning as the brain of the firm\u2014and in collaboration with Pask experimented with Daphnia colonies, Euglena protozoa, an entire pond ecosystem, and electrochemical thread structures as candidate biological computers.",
+          "speaker": null
+        },
+        {
+          "text": "The great virtue of biological computers was that 'solutions to problems simply grow'\u2014they involved no detour through representation, no blueprint, no design in the modern sense; one simply enrolled the adaptive performativity of already-lively matter.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-031",
+      "text": "The Viable System Model\u2014mapping the human nervous system onto the structure of the firm across five recursive levels\u2014was Beer's mature synthesis, providing a normative topology of information flows and adaptive couplings designed to maximize organizational viability while minimizing hierarchical constraint.",
+      "chapter": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "concepts": [
+        "viable_system_model",
+        "organizational_design",
+        "cybernetic_management"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Brain of the Firm (Beer, 1972)",
+          "The Heart of the Enterprise (Beer, 1979)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The VSM's distinctive cybernetic elements were the adaptive couplings between levels, modeled on Ashby's reciprocal vetoing in multihomeostat setups: plans and proposals would iterate between levels 3 and 4 until both found mutually acceptable states, rather than orders flowing downward unchanged.",
+          "speaker": null
+        },
+        {
+          "text": "Most organizations were entirely lacking a System 2, Beer argued, making them prone to pathological competition between subsidiaries; and 'in most firms System 4 is a fiasco'\u2014without the operations-room integration Beer envisaged, monitoring and planning were dispersed chaotically across the organization.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-032",
+      "text": "Project Cybersyn\u2014Beer's attempt to redesign Chile's economic nervous system for the Allende government\u2014was the most ambitious cybernetic political project in history, demonstrating both the democratic potential and the political fragility of the VSM under conditions of Cold War intervention.",
+      "chapter": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "concepts": [
+        "political_cybernetics",
+        "democratic_governance",
+        "cold_war_politics"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer",
+          "Salvador Allende",
+          "Fernando Flores",
+          "Augusto Pinochet"
+        ],
+        "places": [
+          "Chile",
+          "Santiago"
+        ],
+        "events": [
+          "Pinochet coup 1973",
+          "Chilean truckers' strike 1972"
+        ],
+        "works": [
+          "Brain of the Firm (Beer, 1981, 2nd ed.)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "When Beer drew the system 5 box of the VSM diagram for Allende, thinking of it as representing the president, Allende threw himself back in his chair: 'at last,' he said, 'el pueblo'\u2014the people.",
+          "speaker": null
+        },
+        {
+          "text": "The Cybernet national information system linked approximately 400 enterprises to Santiago in real time by March 1972; it was used during the CIA-instigated truckers' strike of October 1972 to maintain economic flows\u2014demonstrating cybernetic viability while also showing how readily the organic VSM could be switched into command-and-control mode.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-033",
+      "text": "Team syntegrity\u2014Beer's icosahedral protocol for democratic collective decision-making\u2014extended the VSM's logic into a genuinely symmetric process in which no participant holds a privileged position and the agenda itself emerges from the group rather than being imposed in advance.",
+      "chapter": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "concepts": [
+        "team_syntegrity",
+        "democratic_decision_making",
+        "collective_intelligence"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer"
+        ],
+        "places": [
+          "Toronto"
+        ],
+        "events": [],
+        "works": [
+          "Beyond Dispute (Beer, 1994)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The icosahedral structure ensures that discussions reverberate around the figure, becoming progressively less the property of any individual and more that of the infoset as a whole\u2014a group mind emerges from the reverberations.",
+          "speaker": null
+        },
+        {
+          "text": "Unlike the VSM, syntegrity is hard to denature into a system of surveillance or command-and-control: by construction there are no privileged positions in the icosahedron, and there is no evident way any individual could control the process.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-034",
+      "text": "Beer's hylozoist spirituality\u2014expressed through Catholic mysticism and later tantric yoga\u2014was continuous with his secular cybernetics rather than compartmentalized from it, eroding the modern dichotomy between science and religion through a shared ontology of the unknowable performativity of matter.",
+      "chapter": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "concepts": [
+        "hylozoism",
+        "tantric_yoga",
+        "science_religion_dialogue"
+      ],
+      "entities": {
+        "people": [
+          "Stafford Beer"
+        ],
+        "places": [
+          "Wales"
+        ],
+        "events": [],
+        "works": [
+          "Pebbles to Computers (Blohm, Beer, and Suzuki, 1986)",
+          "Beyond Dispute (Beer, 1994)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Beer's poem 'Computers, the Irish Sea' expresses the core hylozoist insight: the sea 'is its own analogue,' doing a bigger sum than any navigator, performing computations that are both incomprehensible to us and self-validating\u2014'what happens writes out its explanation as it goes.'",
+          "speaker": null
+        },
+        {
+          "text": "In Beyond Dispute Beer explicitly reintegrated his secular VSM with the Great Chain of Being, extending the recursive structure of the viable system from neurons through individual consciousness and social groups up to Gaia and the cosmos, identifying each level with a yogic chakra accessible to the meditating adept.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-035",
+      "text": "Brian Eno's ambient and generative music was directly shaped by Beer's Brain of the Firm\u2014the idea of 'specifying a system only somewhat and then riding its dynamics'\u2014demonstrating that cybernetic management theory could generate a distinctive and influential approach to musical composition.",
+      "chapter": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "concepts": [
+        "generative_music",
+        "creative_process",
+        "ontology_in_action"
+      ],
+      "entities": {
+        "people": [
+          "Brian Eno",
+          "Terry Riley",
+          "Steve Reich",
+          "Alvin Lucier"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Brain of the Firm (Beer, 1972)",
+          "Music for Airports (Eno, 1978)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Stafford for me was the doorway into a whole way of thinking... so fundamentally changed the way that I thought about music that it's very difficult to translate into individual things, it just changed the whole way I work.",
+          "speaker": "Brian Eno"
+        },
+        {
+          "text": "Music for Airports consists of just three notes each repeating at a different interval; the composer specifies initial conditions and then rides the dynamics\u2014endless unpredictable combinations arising from simple rules, as in Wolfram's cellular automata.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-036",
+      "text": "Musicolour\u2014an electromechanical device that collaborated with musicians to generate synesthetic light shows by getting 'bored' with repetitive inputs\u2014was the founding act of Pask's cybernetics and the prototype for all his subsequent work on aesthetically potent environments.",
+      "chapter": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "concepts": [
+        "aesthetic_machines",
+        "human_machine_interaction",
+        "synesthesia"
+      ],
+      "entities": {
+        "people": [
+          "Gordon Pask",
+          "Robin McKinnon-Wood"
+        ],
+        "places": [
+          "Cambridge",
+          "Churchill's Club London"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Performers working with Musicolour reported loss of time sense, an inability to describe their emergent strategy in words, and eventually conceived the machine as an extension of themselves rather than a detached entity\u2014signs of genuine human-machine coupling.",
+          "speaker": null
+        },
+        {
+          "text": "Unlike Disney's Fantasia which assumed a predetermined synaesthetic relation between sound and light, Musicolour made no such assumption; the relation was entirely personal and was learned throughout a performance as the machine trained itself to each performer's style.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-037",
+      "text": "Pask's chemical computers\u2014electrochemical thread structures that grew adaptively from platinum electrodes in ferrous sulphate solution\u2014went beyond all previous cybernetic machines by acquiring genuinely new sensory modalities not designed into them, representing a singular achievement in the history of computing.",
+      "chapter": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "concepts": [
+        "biological_computing",
+        "evolutionary_computing",
+        "sensory_evolution"
+      ],
+      "entities": {
+        "people": [
+          "Gordon Pask",
+          "Stafford Beer"
+        ],
+        "places": [
+          "Baker Street London",
+          "System Research"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Two very tired young men trailed a microphone down into Baker Street from the upstairs window, and picked up the random noise of dawn traffic in the street. Beer was leaning out of the window, while Gordon studied the cell. 'It's growing an ear,' he said solemnly.",
+          "speaker": "Stafford Beer"
+        },
+        {
+          "text": "The ear looked like an ear\u2014a gap in the thread structure with fibrils resonating at the excitation frequency\u2014and could discriminate two frequencies; a magnetic receptor was also evolved; both acquired new sensory modalities not designed into them, probably the first devices ever to do this.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-038",
+      "text": "Pask's account of the 'cybernetic method' articulated a distinctive performative epistemology in which the researcher maximizes interaction with an object to find out what it will do, develops new languages in that interaction, and accepts that the result may be a working model whose inner workings remain opaque.",
+      "chapter": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "concepts": [
+        "participant_observation",
+        "performative_epistemology",
+        "cybernetic_method"
+      ],
+      "entities": {
+        "people": [
+          "Gordon Pask"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Organic Control and the Cybernetic Method (Pask, 1958)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The cybernetician is a participant observer who decides upon a move which will modify the assemblage and favour his interaction with it; common language is a dynamic idea, and once built up must be used\u2014unlike the scientific observer who seeks to confirm hypotheses from a minimal-interference position.",
+          "speaker": null
+        },
+        {
+          "text": "Pask argued that the chemical computer's 'model' of the factory grew not in the form of representations but as a thread structure whose geometry embodied the relationships it had discovered\u2014knowledge as part of performance rather than its external determinant.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-039",
+      "text": "The Colloquy of Mobiles\u2014five interacting robots displayed at the 1968 ICA Cybernetic Serendipity exhibition\u2014staged the cybernetic ontology as robotic art, engaging visitors in conversation with its mating robots and raising the question of whether robots, humans, and their joint creations could together constitute a new aesthetic form.",
+      "chapter": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "concepts": [
+        "robotic_art",
+        "cybernetic_art",
+        "human_machine_aesthetics"
+      ],
+      "entities": {
+        "people": [
+          "Gordon Pask",
+          "Stafford Beer"
+        ],
+        "places": [
+          "Institute of Contemporary Arts London"
+        ],
+        "events": [
+          "Cybernetic Serendipity 1968"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Visitors used women's makeup mirrors to redirect the robots' light beams and engage with them; some stayed for several hours conversing with the mobiles; humans could thus participate at 'a higher level of discourse,' finding their own goals for the system's behavior.",
+          "speaker": null
+        },
+        {
+          "text": "At the same exhibition Beer showed his Stochastic Analogue Machine SAM; Pask and Beer's adjacent exhibits suggested a convergent program\u2014different domains, shared ontology.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-040",
+      "text": "The Fun Palace\u2014Pask's collaboration with Cedric Price and Joan Littlewood\u2014was the most ambitious attempt in 1960s architecture to create an adaptive, reconfigurable environment as a technology of the nonmodern self, and its failure to get built illustrates how cybernetic projects resisted modern institutional classification.",
+      "chapter": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "concepts": [
+        "adaptive_architecture",
+        "situationist_urbanism",
+        "cybernetic_design"
+      ],
+      "entities": {
+        "people": [
+          "Gordon Pask",
+          "Cedric Price",
+          "Joan Littlewood"
+        ],
+        "places": [
+          "London"
+        ],
+        "events": [],
+        "works": [
+          "Proposals for a Cybernetic Theatre (Pask, 1964)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Pask's logic diagram of the Fun Palace's cybernetic control system featured 'unmodified people' as input and 'modified people' as output\u2014not as Orwellian behavior modification but as the Situationist and Paskian vision of adaptive architecture as a site for the emergence of new kinds of people.",
+          "speaker": null
+        },
+        {
+          "text": "The Fun Palace failed partly because it could not be classified: it was not quite a theater, not quite an arts center, not quite a school; councillors imagined actors copulating in the bushes; and Littlewood's 'support dissipated in a fruitless search for a site.'",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-041",
+      "text": "Pask's lineage in architecture extended from the Fun Palace through John Frazer's evolutionary and morphogenetic design tools at the AA, producing a style of coevolutionary design in which architect and computer sail the dynamics of cellular automata together rather than imposing predetermined blueprints.",
+      "chapter": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "concepts": [
+        "evolutionary_design",
+        "morphogenetic_architecture",
+        "coevolution"
+      ],
+      "entities": {
+        "people": [
+          "John Frazer",
+          "Gordon Pask",
+          "Nicholas Negroponte"
+        ],
+        "places": [
+          "Architectural Association",
+          "MIT"
+        ],
+        "events": [],
+        "works": [
+          "An Evolutionary Architecture (Frazer, 1995)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Frazer's Generator project for the Gilman Paper Corporation proposed a building that would 'register its own boredom and make suggestions for its own reorganization'\u2014an explicit evocation of Musicolour's boredom mechanism applied to architecture.",
+          "speaker": null
+        },
+        {
+          "text": "The morphogenesis project at the AA used genetic algorithms and cellular automata to simulate quasi-biological growth and coevolution, with the architect supplying a seed structure and then interacting with the machine's evolutionary unfolding\u2014the last student project Pask himself supervised.",
+          "speaker": null
+        }
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-042",
+      "text": "Cybernetics stages a performative ontology in which performance is the sun around which knowledge revolves as a planet\u2014rather than the modern inversion\u2014and the history of cybernetic projects shows that one can go on constructively and even joyfully in a world of unknowability.",
+      "chapter": "Sketches of Another Future",
+      "concepts": [
+        "performative_ontology",
+        "pragmatism",
+        "ontological_imagination"
+      ],
+      "entities": {
+        "people": [
+          "William James"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Mangle of Practice (Pickering, 1995)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "The cybernetic ontology of exceedingly complex systems implies that we are always in medias res, that surprise is fundamental rather than accidental, and that performative dances of agency with lively matter rather than representational mastery of passive stuff is the fundamental condition of existence.",
+          "speaker": null
+        },
+        {
+          "text": "Cybernetics helps us think further about the nature of practice: the tortoise, the homeostat, DAMS, cellular automata, Musicolour, and the Fun Palace all function as ontological icons\u2014inscrutable in their performance even though their parts can be understood\u2014instructive examples of what the world in general is like.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-043",
+      "text": "The cybernetic notion of design\u2014in the thick of things, evolutionarily exploring what lively materials and systems can offer\u2014constitutes a distinctive and attractive alternative to blueprint design, with consequences from engineering to architecture, management, and art.",
+      "chapter": "Sketches of Another Future",
+      "concepts": [
+        "design_philosophy",
+        "enframing_versus_revealing",
+        "evolutionary_design"
+      ],
+      "entities": {
+        "people": [
+          "Ross Ashby",
+          "Stafford Beer",
+          "Gordon Pask",
+          "Brian Eno"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Ashby's DAMS, Beer's biological computers, Eno's generative music, and Frazer's morphogenetic architecture all exemplify the same stance: specifying a system 'only somewhat' and then riding its dynamics, finding out what the world has to offer rather than imposing a preconceived plan.",
+          "speaker": null
+        },
+        {
+          "text": "Modern engineering acts in a mode of enframing\u2014bending matter to preconceived will at the molecular level; Beer's and Pask's biological computing acted instead in the mode of revealing\u2014finding chunks of already-lively nature and enrolling their performativity directly.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-044",
+      "text": "The hegemony of modernity\u2014reinforced not only in educational institutions but by the made world of grids, factories, and freeways that echoes back a modern ontology\u2014can be challenged by multiplying cybernetic artifacts and practices that echo back a nonmodern ontology instead.",
+      "chapter": "Sketches of Another Future",
+      "concepts": [
+        "cultural_hegemony",
+        "material_culture",
+        "pedagogical_reform"
+      ],
+      "entities": {
+        "people": [
+          "Bruno Latour",
+          "Martin Heidegger",
+          "James Scott"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Seeing Like a State (Scott, 1998)",
+          "Politics of Nature (Latour, 2004)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "An industrialized society makes human agency acting on passive matter visible everywhere and renders unintended consequences invisible; the made world of modernity constitutively reinforces the modern ontology of a passive and defenseless nature awaiting reconfiguration by humanity.",
+          "speaker": null
+        },
+        {
+          "text": "Interactive robot artworks, cellular automata in school curricula, Dream Machines, Musicolour performances\u2014if taken seriously as ontological theater rather than vaguely amusing curiosities, such objects could challenge the grip of the modern imaginary.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-045",
+      "text": "British cybernetics belongs to a much larger nonmodern assemblage\u2014including pragmatism, Continental philosophy, Eastern spirituality, New Age, the counterculture, de Kooning's painting, and adaptive environmental management of rivers\u2014and following cybernetics in action helps us see the interconnections between these otherwise isolated traditions.",
+      "chapter": "Sketches of Another Future",
+      "concepts": [
+        "nonmodern_assemblage",
+        "cultural_ecology",
+        "interdisciplinary_synthesis"
+      ],
+      "entities": {
+        "people": [
+          "William James",
+          "Martin Heidegger",
+          "Gilles Deleuze",
+          "F\u00e9lix Guattari"
+        ],
+        "places": [
+          "Colorado River",
+          "Mississippi River"
+        ],
+        "events": [],
+        "works": [
+          "Pragmatism (James, 1907)"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "It would take forever to write a history of this entire assemblage; cybernetics seemed and still seems a perspicuous entry point because following it reveals connections from little robots to Eastern spirituality, brainwave music, complexity theory, and the Fun Palace that are otherwise invisible.",
+          "speaker": null
+        },
+        {
+          "text": "Adaptive environmental management of rivers\u2014staging experimental floods on the Colorado to explore what the ecosystem might offer\u2014represents a nonmodern stance of revealing emerging within the heartland of modern engineering itself, indicating the robustness of the overall nonmodern assemblage.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-046",
+      "text": "The proper institutional home for cybernetics' challenges to modernity might ultimately be mainstream schools and universities, where courses centered on a nonmodern ontology\u2014using cellular automata, tortoises, Dream Machines, and Musicolour as ontological icons\u2014could produce a generation equipped to recognize and resist high-modernist enframing.",
+      "chapter": "Sketches of Another Future",
+      "concepts": [
+        "pedagogical_reform",
+        "ontological_education",
+        "futures_studies"
+      ],
+      "entities": {
+        "people": [
+          "Bruno Latour"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Cellular automata could be incorporated into curricula not as a subfield of mathematics but as ontological icons\u2014little models of a world graspable in nonmodern terms\u2014with the discovery of complexity as their central lesson rather than their formal properties.",
+          "speaker": null
+        },
+        {
+          "text": "Such a generation would automatically say 'wait a minute' when presented with the next high-modernist project of enframing, would immediately see the point of Latour's politics of nature, and would be in the right position to come up with novel projects centering on revealing rather than enframing.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-001",
+      "title": "The Adaptive Brain",
+      "summary": "British cybernetics constitutes a largely forgotten but coherent scientific tradition centered on a performative rather than representational understanding of the brain, staging a nonmodern ontology in which adaptation, unknowability, and embodied action take precedence over knowledge and control.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-001",
+        "the-mangle-of-practice-science-society-and-becomin-002",
+        "the-mangle-of-practice-science-society-and-becomin-003",
+        "the-mangle-of-practice-science-society-and-becomin-004",
+        "the-mangle-of-practice-science-society-and-becomin-005",
+        "the-mangle-of-practice-science-society-and-becomin-006"
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-002",
+      "title": "Ontological Theater",
+      "summary": "Cybernetics stages a nonmodern ontology\u2014a 'Black Box' world of performative, unknowable, becoming entities\u2014that contrasts sharply with the modern dualism of people and things and the modern ambition of representational mastery, and this ontological difference has direct consequences for practice across all fields.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-007",
+        "the-mangle-of-practice-science-society-and-becomin-008",
+        "the-mangle-of-practice-science-society-and-becomin-009",
+        "the-mangle-of-practice-science-society-and-becomin-010",
+        "the-mangle-of-practice-science-society-and-becomin-011",
+        "the-mangle-of-practice-science-society-and-becomin-012"
+      ]
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-003",
+      "title": "Grey Walter: From Electroshock to the Psychedelic Sixties",
+      "summary": "Grey Walter's robot tortoises and EEG research staged a performative, nonrepresentational conception of the adaptive brain that originated in the brutal psychiatric milieu of electroshock therapy and radiated outward to the Beats, the psychedelic sixties, and contemporary situated robotics.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-013",
+        "the-mangle-of-practice-science-society-and-becomin-014",
+        "the-mangle-of-practice-science-society-and-becomin-015",
+        "the-mangle-of-practice-science-society-and-becomin-016",
+        "the-mangle-of-practice-science-society-and-becomin-017",
+        "the-mangle-of-practice-science-society-and-becomin-018"
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-004",
+      "title": "Ross Ashby: Psychiatry, Synthetic Brains, and Cybernetics",
+      "summary": "Ross Ashby's homeostat and its failed successor DAMS, developed as a hobby within a career in mental hospitals, staged a richer ontological vision than Walter's tortoises by modeling a symmetric, lively world of interacting adaptive systems, generating discoveries about complexity, evolutionary design, and the limits of representational knowledge that radiated from brain science into architecture, theoretical biology, and beyond.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-019",
+        "the-mangle-of-practice-science-society-and-becomin-020",
+        "the-mangle-of-practice-science-society-and-becomin-021",
+        "the-mangle-of-practice-science-society-and-becomin-022",
+        "the-mangle-of-practice-science-society-and-becomin-023",
+        "the-mangle-of-practice-science-society-and-becomin-024"
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-005",
+      "title": "Gregory Bateson and R. D. Laing: Symmetry, Psychiatry, and the Sixties",
+      "summary": "Bateson and Laing took the symmetric fork in the cybernetic road, understanding schizophrenia as the product of double-bind communication patterns in which all parties mutually adapt, and developing a form of psychiatry that staged open-ended, nonhierarchical encounters between therapists and patients\u2014ontological theater for the nonmodern self.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-025",
+        "the-mangle-of-practice-science-society-and-becomin-026",
+        "the-mangle-of-practice-science-society-and-becomin-027",
+        "the-mangle-of-practice-science-society-and-becomin-028",
+        "the-mangle-of-practice-science-society-and-becomin-029"
+      ],
+      "part": "Part 1: Psychiatry to Cybernetics"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-006",
+      "title": "Stafford Beer: From the Cybernetic Factory to Tantric Yoga",
+      "summary": "Stafford Beer extended Ashby's cybernetics from brain science into management, politics, and spirituality by modeling organizations on the adaptive nervous system, staging through the Viable System Model and Project Cybersyn a symmetric, democratic subpolitics grounded in the ontology of unknowability, while his hylozoist tantrism demonstrated that the same ontology could bridge science and Eastern spirituality without modern dualism.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-030",
+        "the-mangle-of-practice-science-society-and-becomin-031",
+        "the-mangle-of-practice-science-society-and-becomin-032",
+        "the-mangle-of-practice-science-society-and-becomin-033",
+        "the-mangle-of-practice-science-society-and-becomin-034",
+        "the-mangle-of-practice-science-society-and-becomin-035"
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-007",
+      "title": "Gordon Pask: From Chemical Computers to Adaptive Architecture",
+      "summary": "Gordon Pask's work ran a coherent thread from Musicolour's synesthetic light shows through chemical computers that grew new senses, to training machines, cybernetic theater, robot artworks, and adaptive architecture\u2014each project staging the same aesthetic and ontological vision of open-ended, nonhierarchical conversation between human and nonhuman agents.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-036",
+        "the-mangle-of-practice-science-society-and-becomin-037",
+        "the-mangle-of-practice-science-society-and-becomin-038",
+        "the-mangle-of-practice-science-society-and-becomin-039",
+        "the-mangle-of-practice-science-society-and-becomin-040",
+        "the-mangle-of-practice-science-society-and-becomin-041"
+      ],
+      "part": "Part 2: Beyond the Brain"
+    },
+    {
+      "id": "the-mangle-of-practice-science-society-and-becomin-ch-008",
+      "title": "Sketches of Another Future",
+      "summary": "The history of British cybernetics constitutes a coherent nonmodern assemblage\u2014encompassing ontology, design, power, aesthetics, selfhood, spirituality, and the sixties\u2014that provides models for future practice in which unknowability and becoming are embraced rather than denied, offering a constructive rather than merely critical alternative to modernity's hegemony.",
+      "claim_ids": [
+        "the-mangle-of-practice-science-society-and-becomin-042",
+        "the-mangle-of-practice-science-society-and-becomin-043",
+        "the-mangle-of-practice-science-society-and-becomin-044",
+        "the-mangle-of-practice-science-society-and-becomin-045",
+        "the-mangle-of-practice-science-society-and-becomin-046"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 46,
+    "chapter_count": 8,
+    "indexed_at": "2026-04-29T17:02:21.009220Z"
+  }
+}
