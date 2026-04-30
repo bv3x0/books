@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-29T17:03:51.437753Z",
+  "updated_at": "2026-04-30T14:17:06.243956Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -528,6 +528,7 @@
         "occult philosophy in the elizabethan age": 1,
         "revolt-against-the-modern-world": 2,
         "rhythmanalysis": 1,
+        "schizoposting": 1,
         "the first ghosts": 1,
         "unqualified reservations": 1
       },
@@ -539,10 +540,11 @@
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
         "rhythmanalysis",
+        "schizoposting",
         "the first ghosts",
         "unqualified reservations"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "threatened_secession": {
       "id": "threatened_secession",
@@ -1702,15 +1704,17 @@
         "a disease in the public mind": 2,
         "alchemy of air": 1,
         "eros and magic in the renaissance": 1,
-        "fanged noumena": 1
+        "fanged noumena": 1,
+        "schizoposting": 1
       },
       "books": [
         "a disease in the public mind",
         "alchemy of air",
         "eros and magic in the renaissance",
-        "fanged noumena"
+        "fanged noumena",
+        "schizoposting"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "moral_justification": {
       "id": "moral_justification",
@@ -4687,7 +4691,8 @@
         "braudel-vol1": 1,
         "deschooling society": 1,
         "how artifacts afford": 2,
-        "how the world really works": 1
+        "how the world really works": 1,
+        "schizoposting": 1
       },
       "books": [
         "after progress",
@@ -4696,9 +4701,10 @@
         "braudel-vol1",
         "deschooling society",
         "how artifacts afford",
-        "how the world really works"
+        "how the world really works",
+        "schizoposting"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "path_dependence": {
       "id": "path_dependence",
@@ -5069,6 +5075,7 @@
         "memories-dreams-reflections": 2,
         "on heroes": 1,
         "revelations of divine love": 1,
+        "schizoposting": 1,
         "the adventure of consciousness": 1,
         "the interpretation of fairy tales": 1,
         "the mystical theology of the eastern church": 1,
@@ -5084,13 +5091,14 @@
         "memories-dreams-reflections",
         "on heroes",
         "revelations of divine love",
+        "schizoposting",
         "the adventure of consciousness",
         "the interpretation of fairy tales",
         "the mystical theology of the eastern church",
         "the problem of the puer aeternus",
         "the soul of the world"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "historical_phases": {
       "id": "historical_phases",
@@ -5870,6 +5878,7 @@
         "jesus and his times vol 1": 1,
         "on heroes": 1,
         "revolt-against-the-modern-world": 5,
+        "schizoposting": 1,
         "sexual personae": 1,
         "signs and machines": 1,
         "the first ghosts": 1,
@@ -5888,6 +5897,7 @@
         "jesus and his times vol 1",
         "on heroes",
         "revolt-against-the-modern-world",
+        "schizoposting",
         "sexual personae",
         "signs and machines",
         "the first ghosts",
@@ -5896,7 +5906,7 @@
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 38
+      "claim_count": 39
     },
     "religious_tolerance": {
       "id": "religious_tolerance",
@@ -6540,6 +6550,7 @@
         "fanged noumena": 1,
         "flatline constructs": 1,
         "rhythmanalysis": 1,
+        "schizoposting": 2,
         "the culture of narcissism": 4,
         "the cybernetic brain": 1,
         "the power of ritual in prehistory": 5,
@@ -6551,12 +6562,13 @@
         "fanged noumena",
         "flatline constructs",
         "rhythmanalysis",
+        "schizoposting",
         "the culture of narcissism",
         "the cybernetic brain",
         "the power of ritual in prehistory",
         "through the eye of a needle"
       ],
-      "claim_count": 18
+      "claim_count": 20
     },
     "dehumanization": {
       "id": "dehumanization",
@@ -7305,14 +7317,16 @@
       "book_claims": {
         "american nations": 1,
         "godfather of the kremlin": 1,
+        "schizoposting": 1,
         "the ascent of money": 1
       },
       "books": [
         "american nations",
         "godfather of the kremlin",
+        "schizoposting",
         "the ascent of money"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "political_independence": {
       "id": "political_independence",
@@ -7435,16 +7449,18 @@
       "book_claims": {
         "american nations": 1,
         "deschooling society": 1,
+        "schizoposting": 3,
         "through the eye of a needle": 1,
         "unqualified reservations": 7
       },
       "books": [
         "american nations",
         "deschooling society",
+        "schizoposting",
         "through the eye of a needle",
         "unqualified reservations"
       ],
-      "claim_count": 10
+      "claim_count": 13
     },
     "cultural_repetition": {
       "id": "cultural_repetition",
@@ -8344,6 +8360,7 @@
         "american nations": 1,
         "days of rage": 1,
         "preface to plato": 3,
+        "schizoposting": 1,
         "the age of interconnection": 1,
         "the closing of the american mind": 1
       },
@@ -8351,10 +8368,11 @@
         "american nations",
         "days of rage",
         "preface to plato",
+        "schizoposting",
         "the age of interconnection",
         "the closing of the american mind"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "regional_variation": {
       "id": "regional_variation",
@@ -8484,13 +8502,15 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
+        "schizoposting": 1,
         "unqualified reservations": 6
       },
       "books": [
         "american nations",
+        "schizoposting",
         "unqualified reservations"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "cross_partisan_cooperation": {
       "id": "cross_partisan_cooperation",
@@ -8663,6 +8683,7 @@
         "kabbalistic visions": 5,
         "man and his symbols": 2,
         "memories-dreams-reflections": 2,
+        "schizoposting": 1,
         "the interpretation of fairy tales": 4,
         "the problem of the puer aeternus": 11
       },
@@ -8673,10 +8694,11 @@
         "kabbalistic visions",
         "man and his symbols",
         "memories-dreams-reflections",
+        "schizoposting",
         "the interpretation of fairy tales",
         "the problem of the puer aeternus"
       ],
-      "claim_count": 29
+      "claim_count": 30
     },
     "feminine_psychology": {
       "id": "feminine_psychology",
@@ -9569,14 +9591,16 @@
       "book_claims": {
         "anthropol": 1,
         "bronze age mindset": 1,
+        "schizoposting": 2,
         "unqualified reservations": 4
       },
       "books": [
         "anthropol",
         "bronze age mindset",
+        "schizoposting",
         "unqualified reservations"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "resource_competition": {
       "id": "resource_competition",
@@ -9610,6 +9634,7 @@
         "from bacteria to bach and back": 1,
         "introduction-to-christianity": 3,
         "orthodoxy": 1,
+        "schizoposting": 1,
         "the world as will and representation": 2,
         "the world as will and representation vol 2": 3,
         "through the eye of a needle": 1
@@ -9622,11 +9647,12 @@
         "from bacteria to bach and back",
         "introduction-to-christianity",
         "orthodoxy",
+        "schizoposting",
         "the world as will and representation",
         "the world as will and representation vol 2",
         "through the eye of a needle"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "evolutionary_theory": {
       "id": "evolutionary_theory",
@@ -10857,6 +10883,7 @@
         "mirror worlds": 1,
         "muskism": 2,
         "philosopher-in-the-valley": 1,
+        "schizoposting": 2,
         "the art of doing science and engineering": 1,
         "the concept of acceleration": 1,
         "the cybernetic brain": 1,
@@ -10872,13 +10899,14 @@
         "mirror worlds",
         "muskism",
         "philosopher-in-the-valley",
+        "schizoposting",
         "the art of doing science and engineering",
         "the concept of acceleration",
         "the cybernetic brain",
         "the pattern on the stone",
         "zero to one"
       ],
-      "claim_count": 24
+      "claim_count": 26
     },
     "materials_science": {
       "id": "materials_science",
@@ -11398,13 +11426,15 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 1,
+        "schizoposting": 1,
         "unqualified reservations": 1
       },
       "books": [
         "braudel-vol1",
+        "schizoposting",
         "unqualified reservations"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "population_pressure": {
       "id": "population_pressure",
@@ -13493,16 +13523,18 @@
       "book_claims": {
         "cult of the saints": 2,
         "orality-and-literacy": 1,
+        "schizoposting": 1,
         "the secret teachings of all ages": 1,
         "the structure of scientific revolutions": 1
       },
       "books": [
         "cult of the saints",
         "orality-and-literacy",
+        "schizoposting",
         "the secret teachings of all ages",
         "the structure of scientific revolutions"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "institutional_religion": {
       "id": "institutional_religion",
@@ -13755,6 +13787,7 @@
         "introduction-to-christianity": 1,
         "mystery teachings from the living earth": 2,
         "revolt-against-the-modern-world": 7,
+        "schizoposting": 2,
         "the celtic golden dawn": 1,
         "the horse": 3,
         "the mask and face of contemporary spiritualism": 1,
@@ -13769,6 +13802,7 @@
         "introduction-to-christianity",
         "mystery teachings from the living earth",
         "revolt-against-the-modern-world",
+        "schizoposting",
         "the celtic golden dawn",
         "the horse",
         "the mask and face of contemporary spiritualism",
@@ -13776,7 +13810,7 @@
         "the soul of the world",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 23
+      "claim_count": 25
     },
     "collective_memory": {
       "id": "collective_memory",
@@ -13790,6 +13824,7 @@
         "on heroes": 1,
         "orality-and-literacy": 1,
         "revolt-against-the-modern-world": 2,
+        "schizoposting": 1,
         "the world as will and representation vol 2": 2
       },
       "books": [
@@ -13798,9 +13833,10 @@
         "on heroes",
         "orality-and-literacy",
         "revolt-against-the-modern-world",
+        "schizoposting",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "devotional_practice": {
       "id": "devotional_practice",
@@ -14013,6 +14049,7 @@
         "days of rage": 1,
         "land greer 2026": 1,
         "on the aesthetic education of man": 1,
+        "schizoposting": 1,
         "the age of interconnection": 1,
         "the closing of the american mind": 2,
         "through the eye of a needle": 1
@@ -14022,11 +14059,12 @@
         "days of rage",
         "land greer 2026",
         "on the aesthetic education of man",
+        "schizoposting",
         "the age of interconnection",
         "the closing of the american mind",
         "through the eye of a needle"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "civilian_casualties": {
       "id": "civilian_casualties",
@@ -15884,13 +15922,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
+        "schizoposting": 1,
         "the ascent of money": 1
       },
       "books": [
         "elon-musk",
+        "schizoposting",
         "the ascent of money"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "executive_compensation": {
       "id": "executive_compensation",
@@ -16619,14 +16659,16 @@
       "book_claims": {
         "elon-musk": 1,
         "mirror worlds": 1,
+        "schizoposting": 1,
         "the horse": 2
       },
       "books": [
         "elon-musk",
         "mirror worlds",
+        "schizoposting",
         "the horse"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "social_transformation": {
       "id": "social_transformation",
@@ -17928,6 +17970,7 @@
         "occult philosophy in the elizabethan age": 1,
         "origins of the kabbalah": 1,
         "revelations of divine love": 11,
+        "schizoposting": 2,
         "the mystical theology of the eastern church": 3,
         "the secret teachings of all ages": 1,
         "through the eye of a needle": 2
@@ -17942,11 +17985,12 @@
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
         "revelations of divine love",
+        "schizoposting",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages",
         "through the eye of a needle"
       ],
-      "claim_count": 46
+      "claim_count": 48
     },
     "christian_optimism": {
       "id": "christian_optimism",
@@ -18315,6 +18359,7 @@
         "nick land explains the numogram": 1,
         "only the paranoid survive": 1,
         "poor charlies almanack": 1,
+        "schizoposting": 3,
         "signs and machines": 2,
         "the closing of the american mind": 2,
         "the culture of narcissism": 1,
@@ -18345,6 +18390,7 @@
         "nick land explains the numogram",
         "only the paranoid survive",
         "poor charlies almanack",
+        "schizoposting",
         "signs and machines",
         "the closing of the american mind",
         "the culture of narcissism",
@@ -18360,7 +18406,7 @@
         "why we sleep",
         "zero to one"
       ],
-      "claim_count": 42
+      "claim_count": 45
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -18982,6 +19028,7 @@
         "all desire is a desire for being": 1,
         "beelzebubs tales": 1,
         "introduction-to-christianity": 9,
+        "schizoposting": 1,
         "the closing of the american mind": 3,
         "the mask and face of contemporary spiritualism": 2,
         "the mystical theology of the eastern church": 1,
@@ -18993,6 +19040,7 @@
         "all desire is a desire for being",
         "beelzebubs tales",
         "introduction-to-christianity",
+        "schizoposting",
         "the closing of the american mind",
         "the mask and face of contemporary spiritualism",
         "the mystical theology of the eastern church",
@@ -19000,7 +19048,7 @@
         "the world as will and representation vol 2",
         "unqualified reservations"
       ],
-      "claim_count": 22
+      "claim_count": 23
     },
     "existential_commitment": {
       "id": "existential_commitment",
@@ -22622,6 +22670,7 @@
         "orality-and-literacy": 1,
         "origins of the kabbalah": 1,
         "preface to plato": 3,
+        "schizoposting": 1,
         "the closing of the american mind": 1,
         "the discarded image": 2
       },
@@ -22633,10 +22682,11 @@
         "orality-and-literacy",
         "origins of the kabbalah",
         "preface to plato",
+        "schizoposting",
         "the closing of the american mind",
         "the discarded image"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "gematria": {
       "id": "gematria",
@@ -24308,6 +24358,7 @@
         "orthodoxy": 1,
         "revolt-against-the-modern-world": 3,
         "ride the tiger": 1,
+        "schizoposting": 3,
         "the closing of the american mind": 6,
         "through the eye of a needle": 1,
         "unqualified reservations": 1
@@ -24318,11 +24369,12 @@
         "orthodoxy",
         "revolt-against-the-modern-world",
         "ride the tiger",
+        "schizoposting",
         "the closing of the american mind",
         "through the eye of a needle",
         "unqualified reservations"
       ],
-      "claim_count": 18
+      "claim_count": 21
     },
     "legal_legitimacy": {
       "id": "legal_legitimacy",
@@ -25244,6 +25296,7 @@
         "horror of philosophy 3": 1,
         "occult philosophy in the elizabethan age": 1,
         "orthodoxy": 1,
+        "schizoposting": 1,
         "sexual personae": 1,
         "the world as will and representation": 2,
         "the world as will and representation vol 2": 2
@@ -25252,11 +25305,12 @@
         "horror of philosophy 3",
         "occult philosophy in the elizabethan age",
         "orthodoxy",
+        "schizoposting",
         "sexual personae",
         "the world as will and representation",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "hierarchical_order": {
       "id": "hierarchical_order",
@@ -25396,13 +25450,15 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 2,
+        "schizoposting": 1,
         "the-body-keeps-the-score": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
+        "schizoposting",
         "the-body-keeps-the-score"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "secret_societies": {
       "id": "secret_societies",
@@ -27244,17 +27300,19 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 2,
+        "schizoposting": 1,
         "the horse": 1,
         "the problem of the puer aeternus": 1,
         "the world as will and representation vol 2": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
+        "schizoposting",
         "the horse",
         "the problem of the puer aeternus",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "disillusionment": {
       "id": "disillusionment",
@@ -29907,6 +29965,7 @@
         "bronze age mindset": 1,
         "meetings with remarkable men": 1,
         "preface to plato": 1,
+        "schizoposting": 1,
         "the closing of the american mind": 2,
         "the horse": 3,
         "thus spake zarathustra": 1
@@ -29916,11 +29975,12 @@
         "bronze age mindset",
         "meetings with remarkable men",
         "preface to plato",
+        "schizoposting",
         "the closing of the american mind",
         "the horse",
         "thus spake zarathustra"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "unconscious_psychology": {
       "id": "unconscious_psychology",
@@ -32813,6 +32873,7 @@
       "book_claims": {
         "catafalque": 1,
         "lacan seminars i": 1,
+        "schizoposting": 1,
         "the closing of the american mind": 1,
         "the lean startup": 1,
         "the-body-keeps-the-score": 1,
@@ -32821,12 +32882,13 @@
       "books": [
         "catafalque",
         "lacan seminars i",
+        "schizoposting",
         "the closing of the american mind",
         "the lean startup",
         "the-body-keeps-the-score",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "cultural_homogenization": {
       "id": "cultural_homogenization",
@@ -32969,6 +33031,7 @@
       "book_claims": {
         "beyond good and evil": 10,
         "ride the tiger": 1,
+        "schizoposting": 1,
         "sexual personae": 1,
         "the concept of acceleration": 1,
         "the mask and face of contemporary spiritualism": 1,
@@ -32977,12 +33040,13 @@
       "books": [
         "beyond good and evil",
         "ride the tiger",
+        "schizoposting",
         "sexual personae",
         "the concept of acceleration",
         "the mask and face of contemporary spiritualism",
         "thus spake zarathustra"
       ],
-      "claim_count": 25
+      "claim_count": 26
     },
     "zero_sum_politics": {
       "id": "zero_sum_politics",
@@ -33810,15 +33874,17 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
+        "schizoposting": 1,
         "the problem of the puer aeternus": 2,
         "transcendental magic": 1
       },
       "books": [
         "beelzebubs tales",
+        "schizoposting",
         "the problem of the puer aeternus",
         "transcendental magic"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "psychosis": {
       "id": "psychosis",
@@ -35466,6 +35532,7 @@
         "beelzebubs tales": 1,
         "beyond good and evil": 6,
         "confessions": 2,
+        "schizoposting": 1,
         "the world as will and representation vol 2": 1,
         "thus spake zarathustra": 3
       },
@@ -35473,10 +35540,11 @@
         "beelzebubs tales",
         "beyond good and evil",
         "confessions",
+        "schizoposting",
         "the world as will and representation vol 2",
         "thus spake zarathustra"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "cultural_critique": {
       "id": "cultural_critique",
@@ -37254,13 +37322,15 @@
       "related": [],
       "book_claims": {
         "beyond good and evil": 1,
+        "schizoposting": 2,
         "sexual personae": 1
       },
       "books": [
         "beyond good and evil",
+        "schizoposting",
         "sexual personae"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "political_philosophy": {
       "id": "political_philosophy",
@@ -37272,6 +37342,7 @@
         "beyond good and evil": 3,
         "on heroes": 1,
         "on the aesthetic education of man": 3,
+        "schizoposting": 2,
         "sexual personae": 2,
         "the secret teachings of all ages": 1,
         "the world as will and representation": 1,
@@ -37283,6 +37354,7 @@
         "beyond good and evil",
         "on heroes",
         "on the aesthetic education of man",
+        "schizoposting",
         "sexual personae",
         "the secret teachings of all ages",
         "the world as will and representation",
@@ -37290,7 +37362,7 @@
         "thus spake zarathustra",
         "zero to one"
       ],
-      "claim_count": 14
+      "claim_count": 16
     },
     "cultural_change": {
       "id": "cultural_change",
@@ -37530,13 +37602,15 @@
       "related": [],
       "book_claims": {
         "fanged noumena": 1,
-        "land greer 2026": 1
+        "land greer 2026": 1,
+        "schizoposting": 2
       },
       "books": [
         "fanged noumena",
-        "land greer 2026"
+        "land greer 2026",
+        "schizoposting"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "sexual_exploitation": {
       "id": "sexual_exploitation",
@@ -37939,14 +38013,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "schizoposting": 1,
         "the closing of the american mind": 2,
         "the culture of narcissism": 4
       },
       "books": [
+        "schizoposting",
         "the closing of the american mind",
         "the culture of narcissism"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "enlightenment_rationalism": {
       "id": "enlightenment_rationalism",
@@ -38085,14 +38161,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "schizoposting": 1,
         "sexual personae": 2,
         "through the eye of a needle": 1
       },
       "books": [
+        "schizoposting",
         "sexual personae",
         "through the eye of a needle"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "sacred_numerology": {
       "id": "sacred_numerology",
@@ -38942,13 +39020,15 @@
       "related": [],
       "book_claims": {
         "in search of the miraculous": 3,
-        "mystery teachings from the living earth": 1
+        "mystery teachings from the living earth": 1,
+        "schizoposting": 1
       },
       "books": [
         "in search of the miraculous",
-        "mystery teachings from the living earth"
+        "mystery teachings from the living earth",
+        "schizoposting"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "soul_doctrine": {
       "id": "soul_doctrine",
@@ -39602,13 +39682,15 @@
       "related": [],
       "book_claims": {
         "ride the tiger": 2,
+        "schizoposting": 1,
         "the closing of the american mind": 2
       },
       "books": [
         "ride the tiger",
+        "schizoposting",
         "the closing of the american mind"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "kantian_ethics": {
       "id": "kantian_ethics",
@@ -39732,13 +39814,15 @@
       "related": [],
       "book_claims": {
         "ride the tiger": 1,
+        "schizoposting": 1,
         "the-body-keeps-the-score": 1
       },
       "books": [
         "ride the tiger",
+        "schizoposting",
         "the-body-keeps-the-score"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "desacralization": {
       "id": "desacralization",
@@ -39821,14 +39905,16 @@
       "book_claims": {
         "rhythmanalysis": 1,
         "ride the tiger": 1,
+        "schizoposting": 1,
         "transcendental magic": 1
       },
       "books": [
         "rhythmanalysis",
         "ride the tiger",
+        "schizoposting",
         "transcendental magic"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "hermetic_cosmology": {
       "id": "hermetic_cosmology",
@@ -41694,13 +41780,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
+        "schizoposting": 1,
         "the lacanian subject": 1
       },
       "books": [
         "introduction-to-christianity",
+        "schizoposting",
         "the lacanian subject"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "eschatological_hope": {
       "id": "eschatological_hope",
@@ -41932,6 +42020,7 @@
         "all desire is a desire for being": 1,
         "designing freedom": 1,
         "lacan seminars i": 2,
+        "schizoposting": 3,
         "the closing of the american mind": 1,
         "the lacanian subject": 1
       },
@@ -41939,10 +42028,11 @@
         "all desire is a desire for being",
         "designing freedom",
         "lacan seminars i",
+        "schizoposting",
         "the closing of the american mind",
         "the lacanian subject"
       ],
-      "claim_count": 6
+      "claim_count": 9
     },
     "socialization": {
       "id": "socialization",
@@ -44035,14 +44125,16 @@
       "book_claims": {
         "digital cash": 1,
         "lacan seminars i": 2,
-        "man and his symbols": 1
+        "man and his symbols": 1,
+        "schizoposting": 1
       },
       "books": [
         "digital cash",
         "lacan seminars i",
-        "man and his symbols"
+        "man and his symbols",
+        "schizoposting"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "libido_theory": {
       "id": "libido_theory",
@@ -44234,13 +44326,15 @@
       "related": [],
       "book_claims": {
         "lacan seminars i": 1,
+        "schizoposting": 1,
         "sexual personae": 1
       },
       "books": [
         "lacan seminars i",
+        "schizoposting",
         "sexual personae"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "animism": {
       "id": "animism",
@@ -44251,14 +44345,16 @@
       "book_claims": {
         "flatline constructs": 5,
         "on heroes": 1,
+        "schizoposting": 1,
         "sexual personae": 1
       },
       "books": [
         "flatline constructs",
         "on heroes",
+        "schizoposting",
         "sexual personae"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "nation_building": {
       "id": "nation_building",
@@ -45302,13 +45398,15 @@
       "related": [],
       "book_claims": {
         "horror of philosophy": 1,
+        "schizoposting": 1,
         "the culture of narcissism": 1
       },
       "books": [
         "horror of philosophy",
+        "schizoposting",
         "the culture of narcissism"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "human_limits": {
       "id": "human_limits",
@@ -48847,14 +48945,16 @@
       "book_claims": {
         "flatline constructs": 2,
         "michael-levin-major-talks": 1,
+        "schizoposting": 1,
         "zero to one": 3
       },
       "books": [
         "flatline constructs",
         "michael-levin-major-talks",
+        "schizoposting",
         "zero to one"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "hybrid_systems": {
       "id": "hybrid_systems",
@@ -51122,13 +51222,15 @@
       "related": [],
       "book_claims": {
         "bronze age mindset": 1,
-        "land greer 2026": 1
+        "land greer 2026": 1,
+        "schizoposting": 1
       },
       "books": [
         "bronze age mindset",
-        "land greer 2026"
+        "land greer 2026",
+        "schizoposting"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "incompleteness_theorem": {
       "id": "incompleteness_theorem",
@@ -52054,13 +52156,15 @@
       "related": [],
       "book_claims": {
         "bronze age mindset": 1,
+        "schizoposting": 1,
         "sexual personae": 1
       },
       "books": [
         "bronze age mindset",
+        "schizoposting",
         "sexual personae"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "matriarchy": {
       "id": "matriarchy",
@@ -54442,13 +54546,15 @@
       "related": [],
       "book_claims": {
         "kelly more than my share of it all": 1,
+        "schizoposting": 3,
         "skunk works": 1
       },
       "books": [
         "kelly more than my share of it all",
+        "schizoposting",
         "skunk works"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "strategic_reconnaissance": {
       "id": "strategic_reconnaissance",
@@ -56014,13 +56120,15 @@
       "related": [],
       "book_claims": {
         "flatline constructs": 5,
-        "language machines": 1
+        "language machines": 1,
+        "schizoposting": 1
       },
       "books": [
         "flatline constructs",
-        "language machines"
+        "language machines",
+        "schizoposting"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "philosophical_development": {
       "id": "philosophical_development",
@@ -58210,13 +58318,15 @@
       "related": [],
       "book_claims": {
         "digital cash": 1,
-        "muskism": 1
+        "muskism": 1,
+        "schizoposting": 1
       },
       "books": [
         "digital cash",
-        "muskism"
+        "muskism",
+        "schizoposting"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "digital_governance": {
       "id": "digital_governance",
@@ -58242,13 +58352,15 @@
       "related": [],
       "book_claims": {
         "digital cash": 1,
-        "muskism": 1
+        "muskism": 1,
+        "schizoposting": 1
       },
       "books": [
         "digital cash",
-        "muskism"
+        "muskism",
+        "schizoposting"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "battery_technology": {
       "id": "battery_technology",
@@ -58322,13 +58434,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "muskism": 1
+        "muskism": 1,
+        "schizoposting": 2
       },
       "books": [
         "elon-musk",
-        "muskism"
+        "muskism",
+        "schizoposting"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "content_moderation": {
       "id": "content_moderation",
@@ -58418,13 +58532,15 @@
       "related": [],
       "book_claims": {
         "muskism": 2,
-        "only the paranoid survive": 2
+        "only the paranoid survive": 2,
+        "schizoposting": 1
       },
       "books": [
         "muskism",
-        "only the paranoid survive"
+        "only the paranoid survive",
+        "schizoposting"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "political_performance": {
       "id": "political_performance",
@@ -58547,14 +58663,16 @@
       "book_claims": {
         "designing freedom": 1,
         "muskism": 3,
+        "schizoposting": 1,
         "the closing of the american mind": 1
       },
       "books": [
         "designing freedom",
         "muskism",
+        "schizoposting",
         "the closing of the american mind"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "survivalism": {
       "id": "survivalism",
@@ -59243,6 +59361,438 @@
         "the cybernetic brain"
       ],
       "claim_count": 3
+    },
+    "catharsis": {
+      "id": "catharsis",
+      "label": "Catharsis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "all desire is a desire for being": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "all desire is a desire for being",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "cultural_collapse": {
+      "id": "cultural_collapse",
+      "label": "Cultural Collapse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beelzebubs tales": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "beelzebubs tales",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "eugenics": {
+      "id": "eugenics",
+      "label": "Eugenics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "bronze age mindset": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "bronze age mindset",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "consciousness_studies": {
+      "id": "consciousness_studies",
+      "label": "Consciousness Studies",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "circles of power": 2,
+        "schizoposting": 1
+      },
+      "books": [
+        "circles of power",
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "ritual_design": {
+      "id": "ritual_design",
+      "label": "Ritual Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "circles of power": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "circles of power",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "religious_power": {
+      "id": "religious_power",
+      "label": "Religious Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "cult of the saints": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "cult of the saints",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "culture_war": {
+      "id": "culture_war",
+      "label": "Culture War",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "schizoposting": 2
+      },
+      "books": [
+        "elon-musk",
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "gamification": {
+      "id": "gamification",
+      "label": "Gamification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "schizoposting": 2
+      },
+      "books": [
+        "elon-musk",
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "simulacra": {
+      "id": "simulacra",
+      "label": "Simulacra",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "flatline constructs": 6,
+        "schizoposting": 2
+      },
+      "books": [
+        "flatline constructs",
+        "schizoposting"
+      ],
+      "claim_count": 8
+    },
+    "simulation": {
+      "id": "simulation",
+      "label": "Simulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "flatline constructs": 3,
+        "schizoposting": 2
+      },
+      "books": [
+        "flatline constructs",
+        "schizoposting"
+      ],
+      "claim_count": 5
+    },
+    "gender_norms": {
+      "id": "gender_norms",
+      "label": "Gender Norms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "class_dynamics": {
+      "id": "class_dynamics",
+      "label": "Class Dynamics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "land greer 2026": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "land greer 2026",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "rite_of_passage": {
+      "id": "rite_of_passage",
+      "label": "Rite Of Passage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "man and his symbols": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "man and his symbols",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "surveillance_state": {
+      "id": "surveillance_state",
+      "label": "Surveillance State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "muskism": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "muskism",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "political_propaganda": {
+      "id": "political_propaganda",
+      "label": "Political Propaganda",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "now it can be told": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "now it can be told",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "advertising_industry": {
+      "id": "advertising_industry",
+      "label": "Advertising Industry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "only the paranoid survive": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "only the paranoid survive",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "media_consumption": {
+      "id": "media_consumption",
+      "label": "Media Consumption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "orality-and-literacy": 1,
+        "schizoposting": 1
+      },
+      "books": [
+        "orality-and-literacy",
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "historical_materialism": {
+      "id": "historical_materialism",
+      "label": "Historical Materialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "signs and machines": 1
+      },
+      "books": [
+        "schizoposting",
+        "signs and machines"
+      ],
+      "claim_count": 2
+    },
+    "cultural_politics": {
+      "id": "cultural_politics",
+      "label": "Cultural Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the closing of the american mind": 2
+      },
+      "books": [
+        "schizoposting",
+        "the closing of the american mind"
+      ],
+      "claim_count": 3
+    },
+    "academic_decline": {
+      "id": "academic_decline",
+      "label": "Academic Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the closing of the american mind": 1
+      },
+      "books": [
+        "schizoposting",
+        "the closing of the american mind"
+      ],
+      "claim_count": 2
+    },
+    "emergent_behavior": {
+      "id": "emergent_behavior",
+      "label": "Emergent Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the pattern on the stone": 2
+      },
+      "books": [
+        "schizoposting",
+        "the pattern on the stone"
+      ],
+      "claim_count": 3
+    },
+    "cultural_pathology": {
+      "id": "cultural_pathology",
+      "label": "Cultural Pathology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the problem of the puer aeternus": 1
+      },
+      "books": [
+        "schizoposting",
+        "the problem of the puer aeternus"
+      ],
+      "claim_count": 2
+    },
+    "religious_institution": {
+      "id": "religious_institution",
+      "label": "Religious Institution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the secret teachings of all ages": 1
+      },
+      "books": [
+        "schizoposting",
+        "the secret teachings of all ages"
+      ],
+      "claim_count": 2
+    },
+    "learned_helplessness": {
+      "id": "learned_helplessness",
+      "label": "Learned Helplessness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the-body-keeps-the-score": 1
+      },
+      "books": [
+        "schizoposting",
+        "the-body-keeps-the-score"
+      ],
+      "claim_count": 2
+    },
+    "neuroplasticity": {
+      "id": "neuroplasticity",
+      "label": "Neuroplasticity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "the-body-keeps-the-score": 2
+      },
+      "books": [
+        "schizoposting",
+        "the-body-keeps-the-score"
+      ],
+      "claim_count": 3
+    },
+    "cognitive_load": {
+      "id": "cognitive_load",
+      "label": "Cognitive Load",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "ultralearning": 2
+      },
+      "books": [
+        "schizoposting",
+        "ultralearning"
+      ],
+      "claim_count": 3
+    },
+    "alignment": {
+      "id": "alignment",
+      "label": "Alignment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "schizoposting",
+        "zero to one"
+      ],
+      "claim_count": 2
     },
     "slave_insurrection": {
       "id": "slave_insurrection",
@@ -70209,20 +70759,6 @@
     "human_violence": {
       "id": "human_violence",
       "label": "Human Violence",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "all desire is a desire for being": 1
-      },
-      "books": [
-        "all desire is a desire for being"
-      ],
-      "claim_count": 1
-    },
-    "catharsis": {
-      "id": "catharsis",
-      "label": "Catharsis",
       "description": "",
       "aliases": [],
       "related": [],
@@ -82935,20 +83471,6 @@
     "planetary_catastrophe": {
       "id": "planetary_catastrophe",
       "label": "Planetary Catastrophe",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beelzebubs tales": 1
-      },
-      "books": [
-        "beelzebubs tales"
-      ],
-      "claim_count": 1
-    },
-    "cultural_collapse": {
-      "id": "cultural_collapse",
-      "label": "Cultural Collapse",
       "description": "",
       "aliases": [],
       "related": [],
@@ -96442,20 +96964,6 @@
       ],
       "claim_count": 1
     },
-    "eugenics": {
-      "id": "eugenics",
-      "label": "Eugenics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "bronze age mindset": 1
-      },
-      "books": [
-        "bronze age mindset"
-      ],
-      "claim_count": 1
-    },
     "physical_culture": {
       "id": "physical_culture",
       "label": "Physical Culture",
@@ -96805,20 +97313,6 @@
         "catafalque"
       ],
       "claim_count": 1
-    },
-    "consciousness_studies": {
-      "id": "consciousness_studies",
-      "label": "Consciousness Studies",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "circles of power": 2
-      },
-      "books": [
-        "circles of power"
-      ],
-      "claim_count": 2
     },
     "models_of_reality": {
       "id": "models_of_reality",
@@ -97267,20 +97761,6 @@
         "circles of power"
       ],
       "claim_count": 2
-    },
-    "ritual_design": {
-      "id": "ritual_design",
-      "label": "Ritual Design",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "circles of power": 1
-      },
-      "books": [
-        "circles of power"
-      ],
-      "claim_count": 1
     },
     "golden_dawn_system": {
       "id": "golden_dawn_system",
@@ -101163,20 +101643,6 @@
     "festival_religion": {
       "id": "festival_religion",
       "label": "Festival Religion",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "cult of the saints": 1
-      },
-      "books": [
-        "cult of the saints"
-      ],
-      "claim_count": 1
-    },
-    "religious_power": {
-      "id": "religious_power",
-      "label": "Religious Power",
       "description": "",
       "aliases": [],
       "related": [],
@@ -119136,20 +119602,6 @@
       ],
       "claim_count": 1
     },
-    "culture_war": {
-      "id": "culture_war",
-      "label": "Culture War",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "recognition_denial": {
       "id": "recognition_denial",
       "label": "Recognition Denial",
@@ -121463,20 +121915,6 @@
     "human_annotation": {
       "id": "human_annotation",
       "label": "Human Annotation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "gamification": {
-      "id": "gamification",
-      "label": "Gamification",
       "description": "",
       "aliases": [],
       "related": [],
@@ -131666,20 +132104,6 @@
       ],
       "claim_count": 1
     },
-    "simulacra": {
-      "id": "simulacra",
-      "label": "Simulacra",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "flatline constructs": 6
-      },
-      "books": [
-        "flatline constructs"
-      ],
-      "claim_count": 6
-    },
     "theory_fiction": {
       "id": "theory_fiction",
       "label": "Theory Fiction",
@@ -132267,20 +132691,6 @@
         "flatline constructs"
       ],
       "claim_count": 1
-    },
-    "simulation": {
-      "id": "simulation",
-      "label": "Simulation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "flatline constructs": 3
-      },
-      "books": [
-        "flatline constructs"
-      ],
-      "claim_count": 3
     },
     "sorcery": {
       "id": "sorcery",
@@ -140699,20 +141109,6 @@
     "consumer_technology": {
       "id": "consumer_technology",
       "label": "Consumer Technology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "how artifacts afford": 1
-      },
-      "books": [
-        "how artifacts afford"
-      ],
-      "claim_count": 1
-    },
-    "gender_norms": {
-      "id": "gender_norms",
-      "label": "Gender Norms",
       "description": "",
       "aliases": [],
       "related": [],
@@ -159204,20 +159600,6 @@
       ],
       "claim_count": 1
     },
-    "class_dynamics": {
-      "id": "class_dynamics",
-      "label": "Class Dynamics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "land greer 2026": 1
-      },
-      "books": [
-        "land greer 2026"
-      ],
-      "claim_count": 1
-    },
     "neo_paganism": {
       "id": "neo_paganism",
       "label": "Neo Paganism",
@@ -162203,20 +162585,6 @@
     "unconscious_conflict": {
       "id": "unconscious_conflict",
       "label": "Unconscious Conflict",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "man and his symbols": 1
-      },
-      "books": [
-        "man and his symbols"
-      ],
-      "claim_count": 1
-    },
-    "rite_of_passage": {
-      "id": "rite_of_passage",
-      "label": "Rite Of Passage",
       "description": "",
       "aliases": [],
       "related": [],
@@ -170278,20 +170646,6 @@
       ],
       "claim_count": 1
     },
-    "surveillance_state": {
-      "id": "surveillance_state",
-      "label": "Surveillance State",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "muskism": 1
-      },
-      "books": [
-        "muskism"
-      ],
-      "claim_count": 1
-    },
     "popular_spirituality": {
       "id": "popular_spirituality",
       "label": "Popular Spirituality",
@@ -176651,20 +177005,6 @@
     "atomic_energy_legislation": {
       "id": "atomic_energy_legislation",
       "label": "Atomic Energy Legislation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "now it can be told": 1
-      },
-      "books": [
-        "now it can be told"
-      ],
-      "claim_count": 1
-    },
-    "political_propaganda": {
-      "id": "political_propaganda",
-      "label": "Political Propaganda",
       "description": "",
       "aliases": [],
       "related": [],
@@ -190662,20 +191002,6 @@
       ],
       "claim_count": 1
     },
-    "advertising_industry": {
-      "id": "advertising_industry",
-      "label": "Advertising Industry",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "only the paranoid survive": 1
-      },
-      "books": [
-        "only the paranoid survive"
-      ],
-      "claim_count": 1
-    },
     "disruptive_threat": {
       "id": "disruptive_threat",
       "label": "Disruptive Threat",
@@ -196475,20 +196801,6 @@
     "technological_paradox": {
       "id": "technological_paradox",
       "label": "Technological Paradox",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "orality-and-literacy": 1
-      },
-      "books": [
-        "orality-and-literacy"
-      ],
-      "claim_count": 1
-    },
-    "media_consumption": {
-      "id": "media_consumption",
-      "label": "Media Consumption",
       "description": "",
       "aliases": [],
       "related": [],
@@ -228602,6 +228914,1588 @@
       ],
       "claim_count": 1
     },
+    "essentialism": {
+      "id": "essentialism",
+      "label": "Essentialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "tribal_epistemology": {
+      "id": "tribal_epistemology",
+      "label": "Tribal Epistemology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "ancestral_identity": {
+      "id": "ancestral_identity",
+      "label": "Ancestral Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "cultural_tension": {
+      "id": "cultural_tension",
+      "label": "Cultural Tension",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "kayfabe": {
+      "id": "kayfabe",
+      "label": "Kayfabe",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "reactionary_thought": {
+      "id": "reactionary_thought",
+      "label": "Reactionary Thought",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "national_myth": {
+      "id": "national_myth",
+      "label": "National Myth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "male_cooperation": {
+      "id": "male_cooperation",
+      "label": "Male Cooperation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "martial_culture": {
+      "id": "martial_culture",
+      "label": "Martial Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 3
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "anthropological_method": {
+      "id": "anthropological_method",
+      "label": "Anthropological Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "propaganda_operations": {
+      "id": "propaganda_operations",
+      "label": "Propaganda Operations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 6
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 6
+    },
+    "feminist_movement": {
+      "id": "feminist_movement",
+      "label": "Feminist Movement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "soft_power": {
+      "id": "soft_power",
+      "label": "Soft Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "color_revolution": {
+      "id": "color_revolution",
+      "label": "Color Revolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "masculinity_crisis": {
+      "id": "masculinity_crisis",
+      "label": "Masculinity Crisis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "media_representation": {
+      "id": "media_representation",
+      "label": "Media Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "panopticon": {
+      "id": "panopticon",
+      "label": "Panopticon",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "female_sexuality": {
+      "id": "female_sexuality",
+      "label": "Female Sexuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "anti_natalism": {
+      "id": "anti_natalism",
+      "label": "Anti Natalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "sexual_aposematism": {
+      "id": "sexual_aposematism",
+      "label": "Sexual Aposematism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "sexual_essentialism": {
+      "id": "sexual_essentialism",
+      "label": "Sexual Essentialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "gender_psychology": {
+      "id": "gender_psychology",
+      "label": "Gender Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_sex_differences": {
+      "id": "cognitive_sex_differences",
+      "label": "Cognitive Sex Differences",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "tradition_as_technology": {
+      "id": "tradition_as_technology",
+      "label": "Tradition As Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "cultural_design": {
+      "id": "cultural_design",
+      "label": "Cultural Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "sexual_dysfunction": {
+      "id": "sexual_dysfunction",
+      "label": "Sexual Dysfunction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "demographic_decline": {
+      "id": "demographic_decline",
+      "label": "Demographic Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "sexual_neomorality": {
+      "id": "sexual_neomorality",
+      "label": "Sexual Neomorality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "moral_crusade": {
+      "id": "moral_crusade",
+      "label": "Moral Crusade",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "political_sexuality": {
+      "id": "political_sexuality",
+      "label": "Political Sexuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "semiotic_sexuality": {
+      "id": "semiotic_sexuality",
+      "label": "Semiotic Sexuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "role_play": {
+      "id": "role_play",
+      "label": "Role Play",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "sexual_mediation": {
+      "id": "sexual_mediation",
+      "label": "Sexual Mediation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "transgenderism": {
+      "id": "transgenderism",
+      "label": "Transgenderism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "techno_eroticism": {
+      "id": "techno_eroticism",
+      "label": "Techno Eroticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "sexual_reformation": {
+      "id": "sexual_reformation",
+      "label": "Sexual Reformation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "violence_suppression": {
+      "id": "violence_suppression",
+      "label": "Violence Suppression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "civilizing_process": {
+      "id": "civilizing_process",
+      "label": "Civilizing Process",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "military_language": {
+      "id": "military_language",
+      "label": "Military Language",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "safetyism": {
+      "id": "safetyism",
+      "label": "Safetyism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "elite_formation": {
+      "id": "elite_formation",
+      "label": "Elite Formation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 3
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "anarcho_tyranny": {
+      "id": "anarcho_tyranny",
+      "label": "Anarcho Tyranny",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "masculine_identity": {
+      "id": "masculine_identity",
+      "label": "Masculine Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "semiotic_violence": {
+      "id": "semiotic_violence",
+      "label": "Semiotic Violence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "media_catharsis": {
+      "id": "media_catharsis",
+      "label": "Media Catharsis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "anxiety_induction": {
+      "id": "anxiety_induction",
+      "label": "Anxiety Induction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "martial_arts": {
+      "id": "martial_arts",
+      "label": "Martial Arts",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "reality_grounding": {
+      "id": "reality_grounding",
+      "label": "Reality Grounding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "male_initiation": {
+      "id": "male_initiation",
+      "label": "Male Initiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "alternate_reality_game": {
+      "id": "alternate_reality_game",
+      "label": "Alternate Reality Game",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "noetic_warfare": {
+      "id": "noetic_warfare",
+      "label": "Noetic Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 4
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 4
+    },
+    "online_culture": {
+      "id": "online_culture",
+      "label": "Online Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "reality_reinforcement": {
+      "id": "reality_reinforcement",
+      "label": "Reality Reinforcement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "political_fandom": {
+      "id": "political_fandom",
+      "label": "Political Fandom",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "meme_warfare": {
+      "id": "meme_warfare",
+      "label": "Meme Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "information_operations": {
+      "id": "information_operations",
+      "label": "Information Operations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "thought_reform": {
+      "id": "thought_reform",
+      "label": "Thought Reform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "cult_dynamics": {
+      "id": "cult_dynamics",
+      "label": "Cult Dynamics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "consensus_reality": {
+      "id": "consensus_reality",
+      "label": "Consensus Reality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "perception_management": {
+      "id": "perception_management",
+      "label": "Perception Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "hyper_literacy": {
+      "id": "hyper_literacy",
+      "label": "Hyper Literacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "big_data": {
+      "id": "big_data",
+      "label": "Big Data",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "ai_hype": {
+      "id": "ai_hype",
+      "label": "Ai Hype",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "internet_centralization": {
+      "id": "internet_centralization",
+      "label": "Internet Centralization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "spontaneous_organization": {
+      "id": "spontaneous_organization",
+      "label": "Spontaneous Organization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "algorithmic_control": {
+      "id": "algorithmic_control",
+      "label": "Algorithmic Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "militarized_memetics": {
+      "id": "militarized_memetics",
+      "label": "Militarized Memetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "institutional_entropy": {
+      "id": "institutional_entropy",
+      "label": "Institutional Entropy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "blowback": {
+      "id": "blowback",
+      "label": "Blowback",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "conspiracy": {
+      "id": "conspiracy",
+      "label": "Conspiracy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 3
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "iterated_alienation": {
+      "id": "iterated_alienation",
+      "label": "Iterated Alienation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "cultural_consolidation": {
+      "id": "cultural_consolidation",
+      "label": "Cultural Consolidation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "reverse_engineered_art": {
+      "id": "reverse_engineered_art",
+      "label": "Reverse Engineered Art",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "market_optimization": {
+      "id": "market_optimization",
+      "label": "Market Optimization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "media_production": {
+      "id": "media_production",
+      "label": "Media Production",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "cultural_entropy": {
+      "id": "cultural_entropy",
+      "label": "Cultural Entropy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "biological_essentialism": {
+      "id": "biological_essentialism",
+      "label": "Biological Essentialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "techno_paganism": {
+      "id": "techno_paganism",
+      "label": "Techno Paganism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "historical_psychology": {
+      "id": "historical_psychology",
+      "label": "Historical Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "bicameral_mind": {
+      "id": "bicameral_mind",
+      "label": "Bicameral Mind",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "observation_cascade": {
+      "id": "observation_cascade",
+      "label": "Observation Cascade",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "social_shame": {
+      "id": "social_shame",
+      "label": "Social Shame",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "gendered_psychology": {
+      "id": "gendered_psychology",
+      "label": "Gendered Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "post_emotional_society": {
+      "id": "post_emotional_society",
+      "label": "Post Emotional Society",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "consciousness_change": {
+      "id": "consciousness_change",
+      "label": "Consciousness Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "semiotic_consciousness": {
+      "id": "semiotic_consciousness",
+      "label": "Semiotic Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "liminality": {
+      "id": "liminality",
+      "label": "Liminality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 6
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 6
+    },
+    "binarization": {
+      "id": "binarization",
+      "label": "Binarization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "computerization": {
+      "id": "computerization",
+      "label": "Computerization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "folk_knowledge": {
+      "id": "folk_knowledge",
+      "label": "Folk Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "total_field_awareness": {
+      "id": "total_field_awareness",
+      "label": "Total Field Awareness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "techno_religion": {
+      "id": "techno_religion",
+      "label": "Techno Religion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "religious_revival": {
+      "id": "religious_revival",
+      "label": "Religious Revival",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "mythopoetic_existence": {
+      "id": "mythopoetic_existence",
+      "label": "Mythopoetic Existence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 3
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "radicalism": {
+      "id": "radicalism",
+      "label": "Radicalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "randomness": {
+      "id": "randomness",
+      "label": "Randomness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "quantum_mysticism": {
+      "id": "quantum_mysticism",
+      "label": "Quantum Mysticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "technology_history": {
+      "id": "technology_history",
+      "label": "Technology History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "human_extension": {
+      "id": "human_extension",
+      "label": "Human Extension",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "alt_transhumanism": {
+      "id": "alt_transhumanism",
+      "label": "Alt Transhumanism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 3
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 3
+    },
+    "warrior_monk": {
+      "id": "warrior_monk",
+      "label": "Warrior Monk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "cavalierization": {
+      "id": "cavalierization",
+      "label": "Cavalierization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 2
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 2
+    },
+    "ubermench": {
+      "id": "ubermench",
+      "label": "Ubermench",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "political_possibility": {
+      "id": "political_possibility",
+      "label": "Political Possibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "possibility": {
+      "id": "possibility",
+      "label": "Possibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "alternative_historiography": {
+      "id": "alternative_historiography",
+      "label": "Alternative Historiography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "retrocausality": {
+      "id": "retrocausality",
+      "label": "Retrocausality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "alternative_history": {
+      "id": "alternative_history",
+      "label": "Alternative History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "timewar": {
+      "id": "timewar",
+      "label": "Timewar",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "art_as_weapon": {
+      "id": "art_as_weapon",
+      "label": "Art As Weapon",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "memetics": {
+      "id": "memetics",
+      "label": "Memetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "artistic_authenticity": {
+      "id": "artistic_authenticity",
+      "label": "Artistic Authenticity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
+    "psychic_hygiene": {
+      "id": "psychic_hygiene",
+      "label": "Psychic Hygiene",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "schizoposting": 1
+      },
+      "books": [
+        "schizoposting"
+      ],
+      "claim_count": 1
+    },
     "original_mind": {
       "id": "original_mind",
       "label": "Original Mind",
@@ -234849,20 +236743,6 @@
     "social_machine": {
       "id": "social_machine",
       "label": "Social Machine",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "signs and machines": 1
-      },
-      "books": [
-        "signs and machines"
-      ],
-      "claim_count": 1
-    },
-    "historical_materialism": {
-      "id": "historical_materialism",
-      "label": "Historical Materialism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -252332,20 +254212,6 @@
       ],
       "claim_count": 1
     },
-    "cultural_politics": {
-      "id": "cultural_politics",
-      "label": "Cultural Politics",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the closing of the american mind": 2
-      },
-      "books": [
-        "the closing of the american mind"
-      ],
-      "claim_count": 2
-    },
     "affirmative_action": {
       "id": "affirmative_action",
       "label": "Affirmative Action",
@@ -253479,20 +255345,6 @@
         "the closing of the american mind"
       ],
       "claim_count": 2
-    },
-    "academic_decline": {
-      "id": "academic_decline",
-      "label": "Academic Decline",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the closing of the american mind": 1
-      },
-      "books": [
-        "the closing of the american mind"
-      ],
-      "claim_count": 1
     },
     "american_intellectual_culture": {
       "id": "american_intellectual_culture",
@@ -283356,20 +285208,6 @@
       ],
       "claim_count": 1
     },
-    "emergent_behavior": {
-      "id": "emergent_behavior",
-      "label": "Emergent Behavior",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the pattern on the stone": 2
-      },
-      "books": [
-        "the pattern on the stone"
-      ],
-      "claim_count": 2
-    },
     "abstraction_levels": {
       "id": "abstraction_levels",
       "label": "Abstraction Levels",
@@ -285893,20 +287731,6 @@
     "will_and_discipline": {
       "id": "will_and_discipline",
       "label": "Will And Discipline",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the problem of the puer aeternus": 1
-      },
-      "books": [
-        "the problem of the puer aeternus"
-      ],
-      "claim_count": 1
-    },
-    "cultural_pathology": {
-      "id": "cultural_pathology",
-      "label": "Cultural Pathology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -289925,20 +291749,6 @@
     "oracular_prophecy": {
       "id": "oracular_prophecy",
       "label": "Oracular Prophecy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the secret teachings of all ages": 1
-      },
-      "books": [
-        "the secret teachings of all ages"
-      ],
-      "claim_count": 1
-    },
-    "religious_institution": {
-      "id": "religious_institution",
-      "label": "Religious Institution",
       "description": "",
       "aliases": [],
       "related": [],
@@ -304790,20 +306600,6 @@
       ],
       "claim_count": 1
     },
-    "learned_helplessness": {
-      "id": "learned_helplessness",
-      "label": "Learned Helplessness",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the-body-keeps-the-score": 1
-      },
-      "books": [
-        "the-body-keeps-the-score"
-      ],
-      "claim_count": 1
-    },
     "trauma_conditioning": {
       "id": "trauma_conditioning",
       "label": "Trauma Conditioning",
@@ -307897,20 +309693,6 @@
         "the-body-keeps-the-score"
       ],
       "claim_count": 1
-    },
-    "neuroplasticity": {
-      "id": "neuroplasticity",
-      "label": "Neuroplasticity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the-body-keeps-the-score": 2
-      },
-      "books": [
-        "the-body-keeps-the-score"
-      ],
-      "claim_count": 2
     },
     "self_regulation_circuits": {
       "id": "self_regulation_circuits",
@@ -320581,20 +322363,6 @@
         "ultralearning"
       ],
       "claim_count": 1
-    },
-    "cognitive_load": {
-      "id": "cognitive_load",
-      "label": "Cognitive Load",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "ultralearning": 2
-      },
-      "books": [
-        "ultralearning"
-      ],
-      "claim_count": 2
     },
     "flow_state": {
       "id": "flow_state",
@@ -334694,20 +336462,6 @@
       ],
       "claim_count": 4
     },
-    "alignment": {
-      "id": "alignment",
-      "label": "Alignment",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
-    },
     "organizational_loyalty": {
       "id": "organizational_loyalty",
       "label": "Organizational Loyalty",
@@ -335200,8 +336954,8 @@
     }
   },
   "stats": {
-    "total_concepts": 23036,
-    "total_claims": 38833,
-    "books_indexed": 129
+    "total_concepts": 23149,
+    "total_claims": 39089,
+    "books_indexed": 130
   }
 }
