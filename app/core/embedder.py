@@ -12,6 +12,24 @@ from openai import OpenAI
 logger = logging.getLogger(__name__)
 
 
+def is_insufficient_quota_error(error: BaseException) -> bool:
+    """Return True when an OpenAI error is a billing/quota exhaustion response."""
+    code = getattr(error, "code", None)
+    if code == "insufficient_quota":
+        return True
+
+    body = getattr(error, "body", None)
+    if isinstance(body, dict):
+        error_body = body.get("error", body)
+        if isinstance(error_body, dict) and (
+            error_body.get("code") == "insufficient_quota"
+            or error_body.get("type") == "insufficient_quota"
+        ):
+            return True
+
+    return "insufficient_quota" in str(error)
+
+
 class Embedder:
     """Handles text embedding generation using OpenAI's embedding models."""
 
@@ -70,6 +88,9 @@ class Embedder:
                 logger.debug(f"Generated embedding for text (length={len(text)})")
                 return embedding
             except Exception as e:
+                if is_insufficient_quota_error(e):
+                    logger.error(f"Embedding quota exhausted: {e}")
+                    raise
                 if attempt >= self.retry_attempts:
                     logger.error(f"Failed to generate embedding: {e}")
                     raise
@@ -119,6 +140,11 @@ class Embedder:
                     break
 
                 except Exception as e:
+                    if is_insufficient_quota_error(e):
+                        logger.error(
+                            f"Embedding quota exhausted for batch {i // batch_size + 1}: {e}"
+                        )
+                        raise
                     if attempt >= self.retry_attempts:
                         logger.error(
                             f"Failed to generate embeddings for batch {i // batch_size + 1}: {e}"

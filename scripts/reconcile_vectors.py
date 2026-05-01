@@ -43,8 +43,11 @@ from app.config import (
     VECTORS_DB_PATH,
 )
 from app.core.concept_registry import Concept, ConceptRegistry
-from app.core.embedder import Embedder
+from app.core.embedder import Embedder, is_insufficient_quota_error
 from app.core.vector_store import VectorStore
+
+
+PARTIAL_RECONCILE_EXIT_CODE = 3
 
 
 def normalize_text(text: str) -> str:
@@ -481,6 +484,16 @@ def print_audit(audit_rows: list[dict]):
             print(f"- {r['book']}: {r['short_db']}/{r['db_count']} ({ratio:.1f}%)")
 
 
+def quota_message(error: BaseException) -> str:
+    """Return a compact, operator-facing quota error message."""
+    body = getattr(error, "body", None)
+    if isinstance(body, dict):
+        error_body = body.get("error", body)
+        if isinstance(error_body, dict) and error_body.get("message"):
+            return str(error_body["message"])
+    return str(error)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Reconcile vectors.db with index JSON")
     parser.add_argument("--apply", action="store_true", help="Apply repairs (default is audit only)")
@@ -548,6 +561,9 @@ def main():
         total_claims_written = 0
         total_quotes_written = 0
         total_missing_embedded = 0
+        total_quote_embeddings_skipped = 0
+        embedding_quota_exhausted = False
+        quota_error = ""
 
         for book, payload in sorted(index_books.items()):
             index_claims = build_index_claim_records(payload)
@@ -567,8 +583,33 @@ def main():
             book_title = (payload.get("book", {}) or {}).get("title", book)
 
             if unmatched_index and embed_missing:
+                if embedding_quota_exhausted:
+                    skipped_books.append(
+                        (
+                            book,
+                            f"embedding quota exhausted; left existing vectors unchanged "
+                            f"({len(unmatched_index)} index claims still need embeddings)",
+                        )
+                    )
+                    continue
+
                 claim_texts = [build_claim_embedding_text(book_title, claim) for claim in unmatched_index]
-                claim_embeddings = embedder.embed_batch(claim_texts, batch_size=100)
+                try:
+                    claim_embeddings = embedder.embed_batch(claim_texts, batch_size=100)
+                except Exception as exc:
+                    if not is_insufficient_quota_error(exc):
+                        raise
+                    embedding_quota_exhausted = True
+                    quota_error = quota_message(exc)
+                    skipped_books.append(
+                        (
+                            book,
+                            f"embedding quota exhausted; left existing vectors unchanged "
+                            f"({len(unmatched_index)} index claims still need embeddings)",
+                        )
+                    )
+                    continue
+
                 for claim, embedding_text, embedding in zip(unmatched_index, claim_texts, claim_embeddings):
                     repaired_claims.append(
                         {
@@ -620,10 +661,21 @@ def main():
                         )
 
                 if new_quote_payloads:
-                    new_quote_embeddings = embedder.embed_batch(new_quote_texts, batch_size=100)
-                    for payload_quote, embedding in zip(new_quote_payloads, new_quote_embeddings):
-                        payload_quote["embedding"] = embedding
-                    repaired_quotes.extend(new_quote_payloads)
+                    if embedding_quota_exhausted:
+                        total_quote_embeddings_skipped += len(new_quote_payloads)
+                    else:
+                        try:
+                            new_quote_embeddings = embedder.embed_batch(new_quote_texts, batch_size=100)
+                        except Exception as exc:
+                            if not is_insufficient_quota_error(exc):
+                                raise
+                            embedding_quota_exhausted = True
+                            quota_error = quota_message(exc)
+                            total_quote_embeddings_skipped += len(new_quote_payloads)
+                        else:
+                            for payload_quote, embedding in zip(new_quote_payloads, new_quote_embeddings):
+                                payload_quote["embedding"] = embedding
+                            repaired_quotes.extend(new_quote_payloads)
 
             # Replace book slice in vectors DB.
             vector_store.delete_book_quotes(book)
@@ -659,6 +711,8 @@ def main():
             )
         if embed_missing:
             print(f"Claims newly embedded: {total_missing_embedded}")
+        if total_quote_embeddings_skipped:
+            print(f"Quote embeddings skipped due to quota: {total_quote_embeddings_skipped}")
         if skipped_books:
             print(f"Books skipped: {len(skipped_books)}")
             for book, reason in skipped_books[:30]:
@@ -670,6 +724,15 @@ def main():
         print("1) Spot-check query results.")
         print("2) Re-run main.py only for skipped/problematic books.")
         print("3) Run scripts/migrate-vectors.py to sync Postgres.")
+        if embedding_quota_exhausted:
+            print("\nWARNING: OpenAI embedding quota was exhausted during full repair.")
+            if quota_error:
+                print(f"Quota error: {quota_error}")
+            print(
+                "Completed repairs were saved. Books needing fresh embeddings were skipped; "
+                "rerun --apply-all after quota/billing is restored."
+            )
+            sys.exit(PARTIAL_RECONCILE_EXIT_CODE)
     finally:
         conn.close()
 

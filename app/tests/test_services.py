@@ -674,6 +674,24 @@ class MonitorTests(unittest.TestCase):
 
 
 class MaintenanceServiceTests(unittest.TestCase):
+    def test_stream_command_maps_configured_return_code_to_warning(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            script_path = root / "warning_exit.py"
+            script_path.write_text(
+                "import sys\nprint('partial reconcile')\nsys.exit(3)\n",
+                encoding="utf-8",
+            )
+
+            result = maintenance_service._stream_command(
+                [sys.executable, str(script_path)],
+                cwd=root,
+                warning_returncodes={3},
+            )
+
+        self.assertTrue(result.ok)
+        self.assertTrue(result.is_warning)
+
     def test_run_reconcile_builds_apply_all_command(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
@@ -693,7 +711,9 @@ class MaintenanceServiceTests(unittest.TestCase):
 
         self.assertTrue(ok.ok)
         stream.assert_called_once_with(
-            [maintenance_service.PYTHON, str(script_path), "--apply-all"], cwd=root
+            [maintenance_service.PYTHON, str(script_path), "--apply-all"],
+            cwd=root,
+            warning_returncodes={maintenance_service.RECONCILE_PARTIAL_EXIT_CODE},
         )
 
     def test_run_integrity_check_builds_allow_drift_flag(self):

@@ -15,9 +15,12 @@ from app.services.step_result import StepResult
 
 
 PYTHON = project_python_executable()
+RECONCILE_PARTIAL_EXIT_CODE = 3
 
 
-def _stream_command(cmd: list[str], cwd: Path) -> StepResult:
+def _stream_command(
+    cmd: list[str], cwd: Path, warning_returncodes: set[int] | None = None
+) -> StepResult:
     try:
         process = subprocess.Popen(
             cmd,
@@ -32,12 +35,22 @@ def _stream_command(cmd: list[str], cwd: Path) -> StepResult:
         return StepResult.failed(f"Command not found: {cmd[0]}")
 
     assert process.stdout is not None
-    for line in process.stdout:
-        line = line.rstrip()
-        if line:
-            log.info(f"  {line}")
+    try:
+        for line in process.stdout:
+            line = line.rstrip()
+            if line:
+                log.info(f"  {line}")
+    finally:
+        process.stdout.close()
 
     process.wait()
+    if warning_returncodes and process.returncode in warning_returncodes:
+        log.warning(
+            f"Command completed with warning exit code {process.returncode}: {' '.join(cmd)}"
+        )
+        return StepResult.warning(
+            f"Command completed with warning exit code {process.returncode}: {' '.join(cmd)}"
+        )
     if process.returncode != 0:
         log.error(f"Command failed with exit code {process.returncode}: {' '.join(cmd)}")
         return StepResult.failed(
@@ -79,7 +92,11 @@ def run_reconcile(mode: str) -> StepResult:
         log.error(f"Unknown reconcile mode: {mode}")
         return StepResult.failed(f"Unknown reconcile mode: {mode}")
 
-    return _stream_command(cmd, cwd=PROJECT_ROOT)
+    return _stream_command(
+        cmd,
+        cwd=PROJECT_ROOT,
+        warning_returncodes={RECONCILE_PARTIAL_EXIT_CODE},
+    )
 
 
 def report_vector_backlog() -> StepResult:
