@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-05-01T00:22:21.530474Z",
+  "updated_at": "2026-05-08T23:34:32.347610Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -2303,6 +2303,7 @@
         "in search of the miraculous": 3,
         "memories-dreams-reflections": 1,
         "orality-and-literacy": 4,
+        "out-of-body exploring": 1,
         "psychomagic": 2,
         "secret of the golden flower": 1,
         "the adventure of consciousness": 2,
@@ -2318,13 +2319,14 @@
         "in search of the miraculous",
         "memories-dreams-reflections",
         "orality-and-literacy",
+        "out-of-body exploring",
         "psychomagic",
         "secret of the golden flower",
         "the adventure of consciousness",
         "the celtic golden dawn",
         "the light eaters"
       ],
-      "claim_count": 21
+      "claim_count": 22
     },
     "scientific_materialism": {
       "id": "scientific_materialism",
@@ -3727,6 +3729,7 @@
         "land greer 2026": 1,
         "man and his symbols": 5,
         "memories-dreams-reflections": 2,
+        "out-of-body exploring": 1,
         "the interpretation of fairy tales": 1,
         "the problem of the puer aeternus": 2
       },
@@ -3737,10 +3740,11 @@
         "land greer 2026",
         "man and his symbols",
         "memories-dreams-reflections",
+        "out-of-body exploring",
         "the interpretation of fairy tales",
         "the problem of the puer aeternus"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "political_theory": {
       "id": "political_theory",
@@ -3847,6 +3851,7 @@
         "introduction-to-christianity": 1,
         "meetings with remarkable men": 1,
         "occult philosophy in the elizabethan age": 2,
+        "out-of-body exploring": 1,
         "psychomagic": 1,
         "revolt-against-the-modern-world": 1,
         "the mask and face of contemporary spiritualism": 4,
@@ -3861,6 +3866,7 @@
         "introduction-to-christianity",
         "meetings with remarkable men",
         "occult philosophy in the elizabethan age",
+        "out-of-body exploring",
         "psychomagic",
         "revolt-against-the-modern-world",
         "the mask and face of contemporary spiritualism",
@@ -3868,7 +3874,7 @@
         "the sickness unto death",
         "thus spake zarathustra"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "neoplatonism": {
       "id": "neoplatonism",
@@ -5572,15 +5578,17 @@
         "alchemical active imagination": 1,
         "kabbalistic visions": 1,
         "memories-dreams-reflections": 1,
+        "out-of-body exploring": 1,
         "psychomagic": 2
       },
       "books": [
         "alchemical active imagination",
         "kabbalistic visions",
         "memories-dreams-reflections",
+        "out-of-body exploring",
         "psychomagic"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "mandala_patterns": {
       "id": "mandala_patterns",
@@ -9946,6 +9954,7 @@
         "beauty": 1,
         "how artifacts afford": 1,
         "introduction-to-christianity": 2,
+        "out-of-body exploring": 1,
         "parables for the virtual": 2,
         "sexual personae": 1,
         "the world as will and representation": 3
@@ -9954,11 +9963,12 @@
         "beauty",
         "how artifacts afford",
         "introduction-to-christianity",
+        "out-of-body exploring",
         "parables for the virtual",
         "sexual personae",
         "the world as will and representation"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "natural_beauty": {
       "id": "natural_beauty",
@@ -11617,7 +11627,8 @@
         "muskism": 1,
         "normans in the south": 1,
         "philosopher-in-the-valley": 3,
-        "the horse": 6
+        "the horse": 6,
+        "undersea ufo base": 1
       },
       "books": [
         "alchemy of air",
@@ -11626,9 +11637,10 @@
         "muskism",
         "normans in the south",
         "philosopher-in-the-valley",
-        "the horse"
+        "the horse",
+        "undersea ufo base"
       ],
-      "claim_count": 19
+      "claim_count": 20
     },
     "agricultural_systems": {
       "id": "agricultural_systems",
@@ -14993,6 +15005,7 @@
         "elon-musk": 1,
         "extreme ownership": 1,
         "mystery teachings from the living earth": 1,
+        "out-of-body exploring": 2,
         "the-body-keeps-the-score": 4,
         "ultralearning": 1,
         "why we sleep": 1
@@ -15002,11 +15015,12 @@
         "elon-musk",
         "extreme ownership",
         "mystery teachings from the living earth",
+        "out-of-body exploring",
         "the-body-keeps-the-score",
         "ultralearning",
         "why we sleep"
       ],
-      "claim_count": 10
+      "claim_count": 12
     },
     "cognitive_processing": {
       "id": "cognitive_processing",
@@ -15115,16 +15129,18 @@
       "book_claims": {
         "elon-musk": 1,
         "in search of the miraculous": 1,
+        "out-of-body exploring": 2,
         "psychomagic": 1,
         "the adventure of consciousness": 1
       },
       "books": [
         "elon-musk",
         "in search of the miraculous",
+        "out-of-body exploring",
         "psychomagic",
         "the adventure of consciousness"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "entrepreneurship": {
       "id": "entrepreneurship",
@@ -17596,15 +17612,17 @@
         "catafalque": 2,
         "evil the shadow side of reality": 1,
         "kabbalistic visions": 4,
-        "memories-dreams-reflections": 1
+        "memories-dreams-reflections": 1,
+        "out-of-body exploring": 1
       },
       "books": [
         "catafalque",
         "evil the shadow side of reality",
         "kabbalistic visions",
-        "memories-dreams-reflections"
+        "memories-dreams-reflections",
+        "out-of-body exploring"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "authenticity": {
       "id": "authenticity",
@@ -18897,14 +18915,16 @@
       "book_claims": {
         "beyond good and evil": 1,
         "from bacteria to bach and back": 1,
+        "out-of-body exploring": 1,
         "the soul of the world": 4
       },
       "books": [
         "beyond good and evil",
         "from bacteria to bach and back",
+        "out-of-body exploring",
         "the soul of the world"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "cultural_inheritance": {
       "id": "cultural_inheritance",
@@ -20763,6 +20783,7 @@
       "book_claims": {
         "circles of power": 1,
         "introduction-to-christianity": 1,
+        "out-of-body exploring": 2,
         "rhythmanalysis": 1,
         "ride the tiger": 1,
         "the soul of the world": 2,
@@ -20771,12 +20792,13 @@
       "books": [
         "circles of power",
         "introduction-to-christianity",
+        "out-of-body exploring",
         "rhythmanalysis",
         "ride the tiger",
         "the soul of the world",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 11
+      "claim_count": 13
     },
     "modern_theology": {
       "id": "modern_theology",
@@ -23053,14 +23075,16 @@
       "book_claims": {
         "kabbalistic visions": 1,
         "meetings with remarkable men": 1,
-        "memories-dreams-reflections": 1
+        "memories-dreams-reflections": 1,
+        "out-of-body exploring": 1
       },
       "books": [
         "kabbalistic visions",
         "meetings with remarkable men",
-        "memories-dreams-reflections"
+        "memories-dreams-reflections",
+        "out-of-body exploring"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "psychological_transformation": {
       "id": "psychological_transformation",
@@ -30792,15 +30816,17 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
+        "out-of-body exploring": 1,
         "the adventure of consciousness": 1,
         "transcendental magic": 1
       },
       "books": [
         "beelzebubs tales",
+        "out-of-body exploring",
         "the adventure of consciousness",
         "transcendental magic"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "spiritual_forces": {
       "id": "spiritual_forces",
@@ -33721,14 +33747,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "out-of-body exploring": 1,
         "the mask and face of contemporary spiritualism": 1,
         "the-body-keeps-the-score": 1
       },
       "books": [
+        "out-of-body exploring",
         "the mask and face of contemporary spiritualism",
         "the-body-keeps-the-score"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "spiritism_critique": {
       "id": "spiritism_critique",
@@ -34187,6 +34215,7 @@
       "book_claims": {
         "healing back pain": 1,
         "mystery teachings from the living earth": 2,
+        "out-of-body exploring": 1,
         "the secret teachings of all ages": 1,
         "things hidden since the foundation of the world": 1,
         "transcendental magic": 1
@@ -34194,11 +34223,12 @@
       "books": [
         "healing back pain",
         "mystery teachings from the living earth",
+        "out-of-body exploring",
         "the secret teachings of all ages",
         "things hidden since the foundation of the world",
         "transcendental magic"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "local_governance": {
       "id": "local_governance",
@@ -36815,14 +36845,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "out-of-body exploring": 1,
         "the reality of being": 1,
         "the-body-keeps-the-score": 2
       },
       "books": [
+        "out-of-body exploring",
         "the reality of being",
         "the-body-keeps-the-score"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "social_critique": {
       "id": "social_critique",
@@ -37727,14 +37759,16 @@
       "book_claims": {
         "confessions": 1,
         "introduction-to-christianity": 2,
+        "out-of-body exploring": 1,
         "the culture of narcissism": 1
       },
       "books": [
         "confessions",
         "introduction-to-christianity",
+        "out-of-body exploring",
         "the culture of narcissism"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "cultural_decline": {
       "id": "cultural_decline",
@@ -38927,14 +38961,16 @@
       "book_claims": {
         "from bacteria to bach and back": 1,
         "mystery teachings from the living earth": 1,
+        "out-of-body exploring": 1,
         "ultralearning": 2
       },
       "books": [
         "from bacteria to bach and back",
         "mystery teachings from the living earth",
+        "out-of-body exploring",
         "ultralearning"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "anthropomorphism": {
       "id": "anthropomorphism",
@@ -39236,13 +39272,15 @@
       "related": [],
       "book_claims": {
         "kabbalistic visions": 1,
-        "mystery teachings from the living earth": 1
+        "mystery teachings from the living earth": 1,
+        "out-of-body exploring": 1
       },
       "books": [
         "kabbalistic visions",
-        "mystery teachings from the living earth"
+        "mystery teachings from the living earth",
+        "out-of-body exploring"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "mystical_nothingness": {
       "id": "mystical_nothingness",
@@ -39791,14 +39829,16 @@
       "book_claims": {
         "generative energy": 1,
         "mystery teachings from the living earth": 1,
+        "out-of-body exploring": 1,
         "the mask and face of contemporary spiritualism": 1
       },
       "books": [
         "generative energy",
         "mystery teachings from the living earth",
+        "out-of-body exploring",
         "the mask and face of contemporary spiritualism"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "ecstatic_experience": {
       "id": "ecstatic_experience",
@@ -39807,14 +39847,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "out-of-body exploring": 1,
         "ride the tiger": 1,
         "the power of ritual in prehistory": 4
       },
       "books": [
+        "out-of-body exploring",
         "ride the tiger",
         "the power of ritual in prehistory"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "intentional_practice": {
       "id": "intentional_practice",
@@ -40738,13 +40780,15 @@
       "related": [],
       "book_claims": {
         "mystery teachings from the living earth": 1,
+        "out-of-body exploring": 2,
         "the secret teachings of all ages": 2
       },
       "books": [
         "mystery teachings from the living earth",
+        "out-of-body exploring",
         "the secret teachings of all ages"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "reincarnation": {
       "id": "reincarnation",
@@ -40755,14 +40799,16 @@
       "book_claims": {
         "bronze age mindset": 1,
         "mystery teachings from the living earth": 1,
+        "out-of-body exploring": 1,
         "the secret teachings of all ages": 2
       },
       "books": [
         "bronze age mindset",
         "mystery teachings from the living earth",
+        "out-of-body exploring",
         "the secret teachings of all ages"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "spiritual_vocation": {
       "id": "spiritual_vocation",
@@ -41778,13 +41824,15 @@
       "related": [],
       "book_claims": {
         "catafalque": 1,
-        "evil the shadow side of reality": 1
+        "evil the shadow side of reality": 1,
+        "out-of-body exploring": 1
       },
       "books": [
         "catafalque",
-        "evil the shadow side of reality"
+        "evil the shadow side of reality",
+        "out-of-body exploring"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "libidinal_economy": {
       "id": "libidinal_economy",
@@ -42376,13 +42424,15 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 2,
-        "circles of power": 1
+        "circles of power": 1,
+        "out-of-body exploring": 1
       },
       "books": [
         "apprenticed to magic",
-        "circles of power"
+        "circles of power",
+        "out-of-body exploring"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "tree_of_life": {
       "id": "tree_of_life",
@@ -43124,13 +43174,15 @@
       "related": [],
       "book_claims": {
         "circles of power": 1,
+        "out-of-body exploring": 1,
         "the celtic golden dawn": 1
       },
       "books": [
         "circles of power",
+        "out-of-body exploring",
         "the celtic golden dawn"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "ritual_structure": {
       "id": "ritual_structure",
@@ -48082,13 +48134,15 @@
       "related": [],
       "book_claims": {
         "in search of the miraculous": 2,
+        "out-of-body exploring": 1,
         "revelations of divine love": 1
       },
       "books": [
         "in search of the miraculous",
+        "out-of-body exploring",
         "revelations of divine love"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "faith_and_love": {
       "id": "faith_and_love",
@@ -49816,13 +49870,15 @@
       "related": [],
       "book_claims": {
         "boom": 1,
+        "out-of-body exploring": 1,
         "ultralearning": 1
       },
       "books": [
         "boom",
+        "out-of-body exploring",
         "ultralearning"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "organizational_innovation": {
       "id": "organizational_innovation",
@@ -51122,15 +51178,17 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 1,
+        "out-of-body exploring": 1,
         "the art of doing science and engineering": 1,
         "ultralearning": 2
       },
       "books": [
         "from bacteria to bach and back",
+        "out-of-body exploring",
         "the art of doing science and engineering",
         "ultralearning"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "applied_mathematics": {
       "id": "applied_mathematics",
@@ -52089,14 +52147,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "out-of-body exploring": 1,
         "psychomagic": 2,
         "why we sleep": 1
       },
       "books": [
+        "out-of-body exploring",
         "psychomagic",
         "why we sleep"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "applied_psychology": {
       "id": "applied_psychology",
@@ -55115,14 +55175,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "out-of-body exploring": 1,
         "ultralearning": 1,
         "why we sleep": 3
       },
       "books": [
+        "out-of-body exploring",
         "ultralearning",
         "why we sleep"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "memory_formation": {
       "id": "memory_formation",
@@ -56869,14 +56931,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "out-of-body exploring": 1,
         "the light eaters": 1,
         "the world as will and representation vol 2": 1
       },
       "books": [
+        "out-of-body exploring",
         "the light eaters",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "plant_consciousness": {
       "id": "plant_consciousness",
@@ -59986,6 +60050,358 @@
       },
       "books": [
         "generative energy",
+        "why we sleep"
+      ],
+      "claim_count": 2
+    },
+    "relaxation_technique": {
+      "id": "relaxation_technique",
+      "label": "Relaxation Technique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "apprenticed to magic": 1,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "apprenticed to magic",
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "psychic_development": {
+      "id": "psychic_development",
+      "label": "Psychic Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "apprenticed to magic": 1,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "apprenticed to magic",
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "dual_consciousness": {
+      "id": "dual_consciousness",
+      "label": "Dual Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "beelzebubs tales": 1,
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "beelzebubs tales",
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "afterlife_belief": {
+      "id": "afterlife_belief",
+      "label": "Afterlife Belief",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "cult of the saints": 2,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "cult of the saints",
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "photographic_evidence": {
+      "id": "photographic_evidence",
+      "label": "Photographic Evidence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "days of rage": 1,
+        "undersea ufo base": 2
+      },
+      "books": [
+        "days of rage",
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "investigative_journalism": {
+      "id": "investigative_journalism",
+      "label": "Investigative Journalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "undersea ufo base": 1
+      },
+      "books": [
+        "elon-musk",
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "mind_body_medicine": {
+      "id": "mind_body_medicine",
+      "label": "Mind Body Medicine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "healing back pain": 3,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "healing back pain",
+        "out-of-body exploring"
+      ],
+      "claim_count": 4
+    },
+    "accessibility": {
+      "id": "accessibility",
+      "label": "Accessibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "how artifacts afford": 2,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "how artifacts afford",
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "sexual_energy": {
+      "id": "sexual_energy",
+      "label": "Sexual Energy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "in search of the miraculous": 2,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "in search of the miraculous",
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "divine_encounter": {
+      "id": "divine_encounter",
+      "label": "Divine Encounter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "introduction-to-christianity": 2,
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "introduction-to-christianity",
+        "out-of-body exploring"
+      ],
+      "claim_count": 4
+    },
+    "precognition": {
+      "id": "precognition",
+      "label": "Precognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "memories-dreams-reflections": 1,
+        "out-of-body exploring": 3
+      },
+      "books": [
+        "memories-dreams-reflections",
+        "out-of-body exploring"
+      ],
+      "claim_count": 4
+    },
+    "skill_development": {
+      "id": "skill_development",
+      "label": "Skill Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "only the paranoid survive": 1,
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "only the paranoid survive",
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "heavenly_realms": {
+      "id": "heavenly_realms",
+      "label": "Heavenly Realms",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "revolt-against-the-modern-world": 1
+      },
+      "books": [
+        "out-of-body exploring",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 2
+    },
+    "consciousness_continuity": {
+      "id": "consciousness_continuity",
+      "label": "Consciousness Continuity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "the adventure of consciousness": 2
+      },
+      "books": [
+        "out-of-body exploring",
+        "the adventure of consciousness"
+      ],
+      "claim_count": 3
+    },
+    "historical_documentation": {
+      "id": "historical_documentation",
+      "label": "Historical Documentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the first ghosts": 1,
+        "undersea ufo base": 1
+      },
+      "books": [
+        "the first ghosts",
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "material_evidence": {
+      "id": "material_evidence",
+      "label": "Material Evidence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the horse": 1,
+        "undersea ufo base": 2
+      },
+      "books": [
+        "the horse",
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "kundalini": {
+      "id": "kundalini",
+      "label": "Kundalini",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "the secret teachings of all ages": 2
+      },
+      "books": [
+        "out-of-body exploring",
+        "the secret teachings of all ages"
+      ],
+      "claim_count": 3
+    },
+    "traumatic_memory": {
+      "id": "traumatic_memory",
+      "label": "Traumatic Memory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "the-body-keeps-the-score": 1
+      },
+      "books": [
+        "out-of-body exploring",
+        "the-body-keeps-the-score"
+      ],
+      "claim_count": 2
+    },
+    "health_benefits": {
+      "id": "health_benefits",
+      "label": "Health Benefits",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "the-body-keeps-the-score": 1
+      },
+      "books": [
+        "out-of-body exploring",
+        "the-body-keeps-the-score"
+      ],
+      "claim_count": 2
+    },
+    "bilocation": {
+      "id": "bilocation",
+      "label": "Bilocation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "transcendental magic": 1
+      },
+      "books": [
+        "out-of-body exploring",
+        "transcendental magic"
+      ],
+      "claim_count": 2
+    },
+    "ecstatic_states": {
+      "id": "ecstatic_states",
+      "label": "Ecstatic States",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "transcendental magic": 1
+      },
+      "books": [
+        "out-of-body exploring",
+        "transcendental magic"
+      ],
+      "claim_count": 2
+    },
+    "memory_transfer": {
+      "id": "memory_transfer",
+      "label": "Memory Transfer",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1,
+        "why we sleep": 1
+      },
+      "books": [
+        "out-of-body exploring",
         "why we sleep"
       ],
       "claim_count": 2
@@ -77966,20 +78382,6 @@
       ],
       "claim_count": 1
     },
-    "relaxation_technique": {
-      "id": "relaxation_technique",
-      "label": "Relaxation Technique",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "apprenticed to magic": 1
-      },
-      "books": [
-        "apprenticed to magic"
-      ],
-      "claim_count": 1
-    },
     "somatic_discipline": {
       "id": "somatic_discipline",
       "label": "Somatic Discipline",
@@ -78599,20 +79001,6 @@
     "magical_training_purpose": {
       "id": "magical_training_purpose",
       "label": "Magical Training Purpose",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "apprenticed to magic": 1
-      },
-      "books": [
-        "apprenticed to magic"
-      ],
-      "claim_count": 1
-    },
-    "psychic_development": {
-      "id": "psychic_development",
-      "label": "Psychic Development",
       "description": "",
       "aliases": [],
       "related": [],
@@ -82267,20 +82655,6 @@
     "mentation_by_form": {
       "id": "mentation_by_form",
       "label": "Mentation By Form",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beelzebubs tales": 1
-      },
-      "books": [
-        "beelzebubs tales"
-      ],
-      "claim_count": 1
-    },
-    "dual_consciousness": {
-      "id": "dual_consciousness",
-      "label": "Dual Consciousness",
       "description": "",
       "aliases": [],
       "related": [],
@@ -101038,20 +101412,6 @@
       ],
       "claim_count": 1
     },
-    "afterlife_belief": {
-      "id": "afterlife_belief",
-      "label": "Afterlife Belief",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "cult of the saints": 2
-      },
-      "books": [
-        "cult of the saints"
-      ],
-      "claim_count": 2
-    },
     "body_soul_distinction": {
       "id": "body_soul_distinction",
       "label": "Body Soul Distinction",
@@ -106095,20 +106455,6 @@
     "identity_transformation": {
       "id": "identity_transformation",
       "label": "Identity Transformation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "days of rage": 1
-      },
-      "books": [
-        "days of rage"
-      ],
-      "claim_count": 1
-    },
-    "photographic_evidence": {
-      "id": "photographic_evidence",
-      "label": "Photographic Evidence",
       "description": "",
       "aliases": [],
       "related": [],
@@ -121467,20 +121813,6 @@
     "sensory_augmentation": {
       "id": "sensory_augmentation",
       "label": "Sensory Augmentation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "investigative_journalism": {
-      "id": "investigative_journalism",
-      "label": "Investigative Journalism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -141036,20 +141368,6 @@
       ],
       "claim_count": 2
     },
-    "mind_body_medicine": {
-      "id": "mind_body_medicine",
-      "label": "Mind Body Medicine",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "healing back pain": 3
-      },
-      "books": [
-        "healing back pain"
-      ],
-      "claim_count": 3
-    },
     "clinical_diagnosis": {
       "id": "clinical_diagnosis",
       "label": "Clinical Diagnosis",
@@ -144186,20 +144504,6 @@
       ],
       "claim_count": 1
     },
-    "accessibility": {
-      "id": "accessibility",
-      "label": "Accessibility",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "how artifacts afford": 2
-      },
-      "books": [
-        "how artifacts afford"
-      ],
-      "claim_count": 2
-    },
     "bodily_norms": {
       "id": "bodily_norms",
       "label": "Bodily Norms",
@@ -146972,20 +147276,6 @@
       ],
       "claim_count": 1
     },
-    "sexual_energy": {
-      "id": "sexual_energy",
-      "label": "Sexual Energy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "in search of the miraculous": 2
-      },
-      "books": [
-        "in search of the miraculous"
-      ],
-      "claim_count": 2
-    },
     "time_and_possibility": {
       "id": "time_and_possibility",
       "label": "Time And Possibility",
@@ -149295,20 +149585,6 @@
         "introduction-to-christianity"
       ],
       "claim_count": 1
-    },
-    "divine_encounter": {
-      "id": "divine_encounter",
-      "label": "Divine Encounter",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 2
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 2
     },
     "monotheistic_confession": {
       "id": "monotheistic_confession",
@@ -168871,20 +169147,6 @@
     "archetypal_heritage": {
       "id": "archetypal_heritage",
       "label": "Archetypal Heritage",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "memories-dreams-reflections": 1
-      },
-      "books": [
-        "memories-dreams-reflections"
-      ],
-      "claim_count": 1
-    },
-    "precognition": {
-      "id": "precognition",
-      "label": "Precognition",
       "description": "",
       "aliases": [],
       "related": [],
@@ -193662,20 +193924,6 @@
       ],
       "claim_count": 1
     },
-    "skill_development": {
-      "id": "skill_development",
-      "label": "Skill Development",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "only the paranoid survive": 1
-      },
-      "books": [
-        "only the paranoid survive"
-      ],
-      "claim_count": 1
-    },
     "professional_resilience": {
       "id": "professional_resilience",
       "label": "Professional Resilience",
@@ -203697,6 +203945,1630 @@
       },
       "books": [
         "orthodoxy and the religion of the future"
+      ],
+      "claim_count": 1
+    },
+    "grief_and_mortality": {
+      "id": "grief_and_mortality",
+      "label": "Grief And Mortality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "apparition_experience": {
+      "id": "apparition_experience",
+      "label": "Apparition Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "paranormal_skepticism": {
+      "id": "paranormal_skepticism",
+      "label": "Paranormal Skepticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "afterlife_communication": {
+      "id": "afterlife_communication",
+      "label": "Afterlife Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "false_awakening": {
+      "id": "false_awakening",
+      "label": "False Awakening",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "paranormal_research": {
+      "id": "paranormal_research",
+      "label": "Paranormal Research",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "experiential_epistemology": {
+      "id": "experiential_epistemology",
+      "label": "Experiential Epistemology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_cartography": {
+      "id": "astral_cartography",
+      "label": "Astral Cartography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "phenomenological_distinction": {
+      "id": "phenomenological_distinction",
+      "label": "Phenomenological Distinction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "exit_sensations": {
+      "id": "exit_sensations",
+      "label": "Exit Sensations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "vibrational_states": {
+      "id": "vibrational_states",
+      "label": "Vibrational States",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "dream_cues": {
+      "id": "dream_cues",
+      "label": "Dream Cues",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "dream_recall": {
+      "id": "dream_recall",
+      "label": "Dream Recall",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "habitual_projection_sites": {
+      "id": "habitual_projection_sites",
+      "label": "Habitual Projection Sites",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "spatial_memory": {
+      "id": "spatial_memory",
+      "label": "Spatial Memory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_geography": {
+      "id": "astral_geography",
+      "label": "Astral Geography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "awareness_maintenance": {
+      "id": "awareness_maintenance",
+      "label": "Awareness Maintenance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 4
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 4
+    },
+    "thought_manifestation": {
+      "id": "thought_manifestation",
+      "label": "Thought Manifestation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 3
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "emotional_amplification": {
+      "id": "emotional_amplification",
+      "label": "Emotional Amplification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_matter": {
+      "id": "astral_matter",
+      "label": "Astral Matter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "impulse_control": {
+      "id": "impulse_control",
+      "label": "Impulse Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "desire_sublimation": {
+      "id": "desire_sublimation",
+      "label": "Desire Sublimation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 3
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 3
+    },
+    "somatic_triggers": {
+      "id": "somatic_triggers",
+      "label": "Somatic Triggers",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "awareness_training": {
+      "id": "awareness_training",
+      "label": "Awareness Training",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "belief_and_reality": {
+      "id": "belief_and_reality",
+      "label": "Belief And Reality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_physics": {
+      "id": "astral_physics",
+      "label": "Astral Physics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "consciousness_level": {
+      "id": "consciousness_level",
+      "label": "Consciousness Level",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "metacognitive_anchoring": {
+      "id": "metacognitive_anchoring",
+      "label": "Metacognitive Anchoring",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "idealist_ontology": {
+      "id": "idealist_ontology",
+      "label": "Idealist Ontology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "sensory_limitations": {
+      "id": "sensory_limitations",
+      "label": "Sensory Limitations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_cognition": {
+      "id": "astral_cognition",
+      "label": "Astral Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_sensory_experience": {
+      "id": "astral_sensory_experience",
+      "label": "Astral Sensory Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "physical_body_inertia": {
+      "id": "physical_body_inertia",
+      "label": "Physical Body Inertia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "experimental_verification": {
+      "id": "experimental_verification",
+      "label": "Experimental Verification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "volitional_commands": {
+      "id": "volitional_commands",
+      "label": "Volitional Commands",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_body_theory": {
+      "id": "astral_body_theory",
+      "label": "Astral Body Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "exit_phenomena": {
+      "id": "exit_phenomena",
+      "label": "Exit Phenomena",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "hypnagogic_hallucination": {
+      "id": "hypnagogic_hallucination",
+      "label": "Hypnagogic Hallucination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "attentional_management": {
+      "id": "attentional_management",
+      "label": "Attentional Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_communication": {
+      "id": "astral_communication",
+      "label": "Astral Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "symbolic_messaging": {
+      "id": "symbolic_messaging",
+      "label": "Symbolic Messaging",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "veridical_perception": {
+      "id": "veridical_perception",
+      "label": "Veridical Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "astral_travel_validation": {
+      "id": "astral_travel_validation",
+      "label": "Astral Travel Validation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_body_nature": {
+      "id": "astral_body_nature",
+      "label": "Astral Body Nature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "self_representation": {
+      "id": "self_representation",
+      "label": "Self Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "consciousness_as_point": {
+      "id": "consciousness_as_point",
+      "label": "Consciousness As Point",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "afterlife_contact": {
+      "id": "afterlife_contact",
+      "label": "Afterlife Contact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "memory_retrieval": {
+      "id": "memory_retrieval",
+      "label": "Memory Retrieval",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "inter_dimensional_amnesia": {
+      "id": "inter_dimensional_amnesia",
+      "label": "Inter Dimensional Amnesia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "afterlife_continuity": {
+      "id": "afterlife_continuity",
+      "label": "Afterlife Continuity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "inter_species_contact": {
+      "id": "inter_species_contact",
+      "label": "Inter Species Contact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_identity": {
+      "id": "astral_identity",
+      "label": "Astral Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "consciousness_recognition": {
+      "id": "consciousness_recognition",
+      "label": "Consciousness Recognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "subconscious_astral_travel": {
+      "id": "subconscious_astral_travel",
+      "label": "Subconscious Astral Travel",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "veridical_obe": {
+      "id": "veridical_obe",
+      "label": "Veridical Obe",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_body_health": {
+      "id": "astral_body_health",
+      "label": "Astral Body Health",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "coincidence_vs_causation": {
+      "id": "coincidence_vs_causation",
+      "label": "Coincidence Vs Causation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "mutual_dreaming": {
+      "id": "mutual_dreaming",
+      "label": "Mutual Dreaming",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "flying_dreams": {
+      "id": "flying_dreams",
+      "label": "Flying Dreams",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "nightly_obe_hypothesis": {
+      "id": "nightly_obe_hypothesis",
+      "label": "Nightly Obe Hypothesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "kundalini_energy": {
+      "id": "kundalini_energy",
+      "label": "Kundalini Energy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "sexuality_and_consciousness": {
+      "id": "sexuality_and_consciousness",
+      "label": "Sexuality And Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_projection_mechanism": {
+      "id": "astral_projection_mechanism",
+      "label": "Astral Projection Mechanism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "kundalini_awakening": {
+      "id": "kundalini_awakening",
+      "label": "Kundalini Awakening",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "sexual_energy_as_vehicle": {
+      "id": "sexual_energy_as_vehicle",
+      "label": "Sexual Energy As Vehicle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "vibrational_hierarchy": {
+      "id": "vibrational_hierarchy",
+      "label": "Vibrational Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "mantra_practice": {
+      "id": "mantra_practice",
+      "label": "Mantra Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_launch_techniques": {
+      "id": "astral_launch_techniques",
+      "label": "Astral Launch Techniques",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "dream_verification": {
+      "id": "dream_verification",
+      "label": "Dream Verification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "self_reference_in_dreams": {
+      "id": "self_reference_in_dreams",
+      "label": "Self Reference In Dreams",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "name_as_mantra": {
+      "id": "name_as_mantra",
+      "label": "Name As Mantra",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "expectation_effects": {
+      "id": "expectation_effects",
+      "label": "Expectation Effects",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 2
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "obe_healing": {
+      "id": "obe_healing",
+      "label": "Obe Healing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_healing": {
+      "id": "spiritual_healing",
+      "label": "Spiritual Healing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "chakra_activation": {
+      "id": "chakra_activation",
+      "label": "Chakra Activation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "healing_intention": {
+      "id": "healing_intention",
+      "label": "Healing Intention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_body_superiority": {
+      "id": "astral_body_superiority",
+      "label": "Astral Body Superiority",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "visualization_healing": {
+      "id": "visualization_healing",
+      "label": "Visualization Healing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "theological_projection": {
+      "id": "theological_projection",
+      "label": "Theological Projection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "energy_overwhelm": {
+      "id": "energy_overwhelm",
+      "label": "Energy Overwhelm",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_awe": {
+      "id": "spiritual_awe",
+      "label": "Spiritual Awe",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "universal_interconnection": {
+      "id": "universal_interconnection",
+      "label": "Universal Interconnection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "mystical_encounter": {
+      "id": "mystical_encounter",
+      "label": "Mystical Encounter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "afterlife_topology": {
+      "id": "afterlife_topology",
+      "label": "Afterlife Topology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "inter_dimensional_travel": {
+      "id": "inter_dimensional_travel",
+      "label": "Inter Dimensional Travel",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "light_encounter": {
+      "id": "light_encounter",
+      "label": "Light Encounter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "soul_retrieval": {
+      "id": "soul_retrieval",
+      "label": "Soul Retrieval",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "afterlife_rescue": {
+      "id": "afterlife_rescue",
+      "label": "Afterlife Rescue",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_service": {
+      "id": "astral_service",
+      "label": "Astral Service",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "akashic_records": {
+      "id": "akashic_records",
+      "label": "Akashic Records",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "past_lives": {
+      "id": "past_lives",
+      "label": "Past Lives",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "inter_dimensional_library": {
+      "id": "inter_dimensional_library",
+      "label": "Inter Dimensional Library",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "past_life_regression": {
+      "id": "past_life_regression",
+      "label": "Past Life Regression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "spirit_guides": {
+      "id": "spirit_guides",
+      "label": "Spirit Guides",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "shamanic_tradition": {
+      "id": "shamanic_tradition",
+      "label": "Shamanic Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "earthquake_prediction": {
+      "id": "earthquake_prediction",
+      "label": "Earthquake Prediction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "hypnopompic_experience": {
+      "id": "hypnopompic_experience",
+      "label": "Hypnopompic Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "state_boundary_permeability": {
+      "id": "state_boundary_permeability",
+      "label": "State Boundary Permeability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "hallucination_vs_reality": {
+      "id": "hallucination_vs_reality",
+      "label": "Hallucination Vs Reality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "intention_setting": {
+      "id": "intention_setting",
+      "label": "Intention Setting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "hypnagogic_state": {
+      "id": "hypnagogic_state",
+      "label": "Hypnagogic State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "obe_induction_methods": {
+      "id": "obe_induction_methods",
+      "label": "Obe Induction Methods",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "mind_body_techniques": {
+      "id": "mind_body_techniques",
+      "label": "Mind Body Techniques",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "obe_control": {
+      "id": "obe_control",
+      "label": "Obe Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_navigation": {
+      "id": "astral_navigation",
+      "label": "Astral Navigation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "expertise_taxonomy": {
+      "id": "expertise_taxonomy",
+      "label": "Expertise Taxonomy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "astral_projection_demographics": {
+      "id": "astral_projection_demographics",
+      "label": "Astral Projection Demographics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "obe_safety": {
+      "id": "obe_safety",
+      "label": "Obe Safety",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "paranormal_misconceptions": {
+      "id": "paranormal_misconceptions",
+      "label": "Paranormal Misconceptions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "universal_human_capacity": {
+      "id": "universal_human_capacity",
+      "label": "Universal Human Capacity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_styles": {
+      "id": "cognitive_styles",
+      "label": "Cognitive Styles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "experiential_evidence": {
+      "id": "experiential_evidence",
+      "label": "Experiential Evidence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "obe_vs_dreaming": {
+      "id": "obe_vs_dreaming",
+      "label": "Obe Vs Dreaming",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "transformative_experience": {
+      "id": "transformative_experience",
+      "label": "Transformative Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "epistemic_change": {
+      "id": "epistemic_change",
+      "label": "Epistemic Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
+      ],
+      "claim_count": 1
+    },
+    "collective_awakening": {
+      "id": "collective_awakening",
+      "label": "Collective Awakening",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "out-of-body exploring"
       ],
       "claim_count": 1
     },
@@ -217633,20 +219505,6 @@
     "aristocratic_afterlife": {
       "id": "aristocratic_afterlife",
       "label": "Aristocratic Afterlife",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 1
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 1
-    },
-    "heavenly_realms": {
-      "id": "heavenly_realms",
-      "label": "Heavenly Realms",
       "description": "",
       "aliases": [],
       "related": [],
@@ -244846,20 +246704,6 @@
       ],
       "claim_count": 1
     },
-    "consciousness_continuity": {
-      "id": "consciousness_continuity",
-      "label": "Consciousness Continuity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the adventure of consciousness": 2
-      },
-      "books": [
-        "the adventure of consciousness"
-      ],
-      "claim_count": 2
-    },
     "reincarnation_reality": {
       "id": "reincarnation_reality",
       "label": "Reincarnation Reality",
@@ -265062,20 +266906,6 @@
       ],
       "claim_count": 1
     },
-    "historical_documentation": {
-      "id": "historical_documentation",
-      "label": "Historical Documentation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the first ghosts": 1
-      },
-      "books": [
-        "the first ghosts"
-      ],
-      "claim_count": 1
-    },
     "spirit_origins": {
       "id": "spirit_origins",
       "label": "Spirit Origins",
@@ -271043,20 +272873,6 @@
     "burial_archaeology": {
       "id": "burial_archaeology",
       "label": "Burial Archaeology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the horse": 1
-      },
-      "books": [
-        "the horse"
-      ],
-      "claim_count": 1
-    },
-    "material_evidence": {
-      "id": "material_evidence",
-      "label": "Material Evidence",
       "description": "",
       "aliases": [],
       "related": [],
@@ -293930,20 +295746,6 @@
       ],
       "claim_count": 1
     },
-    "kundalini": {
-      "id": "kundalini",
-      "label": "Kundalini",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the secret teachings of all ages": 2
-      },
-      "books": [
-        "the secret teachings of all ages"
-      ],
-      "claim_count": 2
-    },
     "spinal_fire": {
       "id": "spinal_fire",
       "label": "Spinal Fire",
@@ -310926,20 +312728,6 @@
       ],
       "claim_count": 1
     },
-    "traumatic_memory": {
-      "id": "traumatic_memory",
-      "label": "Traumatic Memory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the-body-keeps-the-score": 1
-      },
-      "books": [
-        "the-body-keeps-the-score"
-      ],
-      "claim_count": 1
-    },
     "memory_modification": {
       "id": "memory_modification",
       "label": "Memory Modification",
@@ -311741,20 +313529,6 @@
     "therapeutic_writing": {
       "id": "therapeutic_writing",
       "label": "Therapeutic Writing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the-body-keeps-the-score": 1
-      },
-      "books": [
-        "the-body-keeps-the-score"
-      ],
-      "claim_count": 1
-    },
-    "health_benefits": {
-      "id": "health_benefits",
-      "label": "Health Benefits",
       "description": "",
       "aliases": [],
       "related": [],
@@ -321916,20 +323690,6 @@
       ],
       "claim_count": 1
     },
-    "bilocation": {
-      "id": "bilocation",
-      "label": "Bilocation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "transcendental magic": 1
-      },
-      "books": [
-        "transcendental magic"
-      ],
-      "claim_count": 1
-    },
     "religious_miracles": {
       "id": "religious_miracles",
       "label": "Religious Miracles",
@@ -324002,20 +325762,6 @@
       ],
       "claim_count": 1
     },
-    "ecstatic_states": {
-      "id": "ecstatic_states",
-      "label": "Ecstatic States",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "transcendental magic": 1
-      },
-      "books": [
-        "transcendental magic"
-      ],
-      "claim_count": 1
-    },
     "possession_and_exorcism": {
       "id": "possession_and_exorcism",
       "label": "Possession And Exorcism",
@@ -325637,6 +327383,1322 @@
       },
       "books": [
         "ultralearning"
+      ],
+      "claim_count": 1
+    },
+    "ufo_hotspot": {
+      "id": "ufo_hotspot",
+      "label": "Ufo Hotspot",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "anomalous_phenomena": {
+      "id": "anomalous_phenomena",
+      "label": "Anomalous Phenomena",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "media_amplification": {
+      "id": "media_amplification",
+      "label": "Media Amplification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "public_disclosure": {
+      "id": "public_disclosure",
+      "label": "Public Disclosure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "remote_sensing": {
+      "id": "remote_sensing",
+      "label": "Remote Sensing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "anomalous_structures": {
+      "id": "anomalous_structures",
+      "label": "Anomalous Structures",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "extraterrestrial_base_hypothesis": {
+      "id": "extraterrestrial_base_hypothesis",
+      "label": "Extraterrestrial Base Hypothesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 4
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 4
+    },
+    "military_encounter": {
+      "id": "military_encounter",
+      "label": "Military Encounter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "government_cover_up": {
+      "id": "government_cover_up",
+      "label": "Government Cover Up",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "ufo_durability": {
+      "id": "ufo_durability",
+      "label": "Ufo Durability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_witness": {
+      "id": "military_witness",
+      "label": "Military Witness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "aerial_performance": {
+      "id": "aerial_performance",
+      "label": "Aerial Performance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "credibility_of_testimony": {
+      "id": "credibility_of_testimony",
+      "label": "Credibility Of Testimony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "mass_sighting": {
+      "id": "mass_sighting",
+      "label": "Mass Sighting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 5
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 5
+    },
+    "ufo_energy_effects": {
+      "id": "ufo_energy_effects",
+      "label": "Ufo Energy Effects",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "witness_corroboration": {
+      "id": "witness_corroboration",
+      "label": "Witness Corroboration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "radar_confirmation": {
+      "id": "radar_confirmation",
+      "label": "Radar Confirmation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "extraordinary_performance": {
+      "id": "extraordinary_performance",
+      "label": "Extraordinary Performance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "information_suppression": {
+      "id": "information_suppression",
+      "label": "Information Suppression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "ufo_disguise": {
+      "id": "ufo_disguise",
+      "label": "Ufo Disguise",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "anomalous_meteorology": {
+      "id": "anomalous_meteorology",
+      "label": "Anomalous Meteorology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "recurring_phenomena": {
+      "id": "recurring_phenomena",
+      "label": "Recurring Phenomena",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "targeted_behavior": {
+      "id": "targeted_behavior",
+      "label": "Targeted Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "intelligent_control": {
+      "id": "intelligent_control",
+      "label": "Intelligent Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "maritime_encounter": {
+      "id": "maritime_encounter",
+      "label": "Maritime Encounter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "craft_typology": {
+      "id": "craft_typology",
+      "label": "Craft Typology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "technological_diversity": {
+      "id": "technological_diversity",
+      "label": "Technological Diversity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "witness_perplexity": {
+      "id": "witness_perplexity",
+      "label": "Witness Perplexity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "pilot_testimony": {
+      "id": "pilot_testimony",
+      "label": "Pilot Testimony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "observer_credibility": {
+      "id": "observer_credibility",
+      "label": "Observer Credibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "maritime_targeting": {
+      "id": "maritime_targeting",
+      "label": "Maritime Targeting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_pursuit": {
+      "id": "military_pursuit",
+      "label": "Military Pursuit",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "government_awareness": {
+      "id": "government_awareness",
+      "label": "Government Awareness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "performance_gap": {
+      "id": "performance_gap",
+      "label": "Performance Gap",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "photographic_anomaly": {
+      "id": "photographic_anomaly",
+      "label": "Photographic Anomaly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "perception_limits": {
+      "id": "perception_limits",
+      "label": "Perception Limits",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "evidence_collection": {
+      "id": "evidence_collection",
+      "label": "Evidence Collection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_anomaly": {
+      "id": "military_anomaly",
+      "label": "Military Anomaly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_typology": {
+      "id": "ufo_typology",
+      "label": "Ufo Typology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "ufo_submersion": {
+      "id": "ufo_submersion",
+      "label": "Ufo Submersion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 5
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 5
+    },
+    "witness_suppression": {
+      "id": "witness_suppression",
+      "label": "Witness Suppression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "sonar_anomaly": {
+      "id": "sonar_anomaly",
+      "label": "Sonar Anomaly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_tracking": {
+      "id": "military_tracking",
+      "label": "Military Tracking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "submerged_object": {
+      "id": "submerged_object",
+      "label": "Submerged Object",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "performance_anomaly": {
+      "id": "performance_anomaly",
+      "label": "Performance Anomaly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "multi_mode_craft": {
+      "id": "multi_mode_craft",
+      "label": "Multi Mode Craft",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "electromagnetic_effects": {
+      "id": "electromagnetic_effects",
+      "label": "Electromagnetic Effects",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "ufo_interaction": {
+      "id": "ufo_interaction",
+      "label": "Ufo Interaction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "radar_invisibility": {
+      "id": "radar_invisibility",
+      "label": "Radar Invisibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_fleet": {
+      "id": "ufo_fleet",
+      "label": "Ufo Fleet",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 3
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 3
+    },
+    "operational_hierarchy": {
+      "id": "operational_hierarchy",
+      "label": "Operational Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "base_hypothesis": {
+      "id": "base_hypothesis",
+      "label": "Base Hypothesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "uso_intelligence": {
+      "id": "uso_intelligence",
+      "label": "Uso Intelligence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "vessel_targeting": {
+      "id": "vessel_targeting",
+      "label": "Vessel Targeting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "witness_credibility": {
+      "id": "witness_credibility",
+      "label": "Witness Credibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "material_ejection": {
+      "id": "material_ejection",
+      "label": "Material Ejection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "anomalous_behavior": {
+      "id": "anomalous_behavior",
+      "label": "Anomalous Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_encounter": {
+      "id": "ufo_encounter",
+      "label": "Ufo Encounter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "witness_transformation": {
+      "id": "witness_transformation",
+      "label": "Witness Transformation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "low_altitude_ufo": {
+      "id": "low_altitude_ufo",
+      "label": "Low Altitude Ufo",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "animal_behavior_response": {
+      "id": "animal_behavior_response",
+      "label": "Animal Behavior Response",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "government_investigation": {
+      "id": "government_investigation",
+      "label": "Government Investigation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "covert_monitoring": {
+      "id": "covert_monitoring",
+      "label": "Covert Monitoring",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "official_awareness": {
+      "id": "official_awareness",
+      "label": "Official Awareness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "anomalous_perception": {
+      "id": "anomalous_perception",
+      "label": "Anomalous Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_emergence": {
+      "id": "ufo_emergence",
+      "label": "Ufo Emergence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "corroborating_witness": {
+      "id": "corroborating_witness",
+      "label": "Corroborating Witness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "humanoid_contact": {
+      "id": "humanoid_contact",
+      "label": "Humanoid Contact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 2
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 2
+    },
+    "vehicle_interference": {
+      "id": "vehicle_interference",
+      "label": "Vehicle Interference",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_abduction": {
+      "id": "ufo_abduction",
+      "label": "Ufo Abduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 4
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 4
+    },
+    "missing_time": {
+      "id": "missing_time",
+      "label": "Missing Time",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 4
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 4
+    },
+    "genetic_material_extraction": {
+      "id": "genetic_material_extraction",
+      "label": "Genetic Material Extraction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_beam": {
+      "id": "ufo_beam",
+      "label": "Ufo Beam",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "fatality": {
+      "id": "fatality",
+      "label": "Fatality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "physiological_effects": {
+      "id": "physiological_effects",
+      "label": "Physiological Effects",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "disguised_contact": {
+      "id": "disguised_contact",
+      "label": "Disguised Contact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "underground_facility": {
+      "id": "underground_facility",
+      "label": "Underground Facility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "geological_formation": {
+      "id": "geological_formation",
+      "label": "Geological Formation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "scientific_investigation": {
+      "id": "scientific_investigation",
+      "label": "Scientific Investigation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "anomalous_signals": {
+      "id": "anomalous_signals",
+      "label": "Anomalous Signals",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "electronic_anomaly": {
+      "id": "electronic_anomaly",
+      "label": "Electronic Anomaly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "insider_testimony": {
+      "id": "insider_testimony",
+      "label": "Insider Testimony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "government_extraterrestrial_cooperation": {
+      "id": "government_extraterrestrial_cooperation",
+      "label": "Government Extraterrestrial Cooperation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_suppression": {
+      "id": "military_suppression",
+      "label": "Military Suppression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "sonar_invisibility": {
+      "id": "sonar_invisibility",
+      "label": "Sonar Invisibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "ufo_pacing_behavior": {
+      "id": "ufo_pacing_behavior",
+      "label": "Ufo Pacing Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "freshwater_uso": {
+      "id": "freshwater_uso",
+      "label": "Freshwater Uso",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "corroborating_testimony": {
+      "id": "corroborating_testimony",
+      "label": "Corroborating Testimony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "observer_diversity": {
+      "id": "observer_diversity",
+      "label": "Observer Diversity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_hypothesis_rejection": {
+      "id": "military_hypothesis_rejection",
+      "label": "Military Hypothesis Rejection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "extraterrestrial_hypothesis": {
+      "id": "extraterrestrial_hypothesis",
+      "label": "Extraterrestrial Hypothesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "flying_submarine": {
+      "id": "flying_submarine",
+      "label": "Flying Submarine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "military_presence": {
+      "id": "military_presence",
+      "label": "Military Presence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
+      ],
+      "claim_count": 1
+    },
+    "anomalous_magnetic_fields": {
+      "id": "anomalous_magnetic_fields",
+      "label": "Anomalous Magnetic Fields",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "undersea ufo base": 1
+      },
+      "books": [
+        "undersea ufo base"
       ],
       "claim_count": 1
     },
@@ -336378,20 +339440,6 @@
       ],
       "claim_count": 1
     },
-    "memory_transfer": {
-      "id": "memory_transfer",
-      "label": "Memory Transfer",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "why we sleep": 1
-      },
-      "books": [
-        "why we sleep"
-      ],
-      "claim_count": 1
-    },
     "rem_sleep": {
       "id": "rem_sleep",
       "label": "Rem Sleep",
@@ -339390,8 +342438,8 @@
     }
   },
   "stats": {
-    "total_concepts": 23318,
-    "total_claims": 39333,
-    "books_indexed": 131
+    "total_concepts": 23528,
+    "total_claims": 39668,
+    "books_indexed": 133
   }
 }
