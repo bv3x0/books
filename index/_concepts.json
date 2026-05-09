@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-05-08T23:34:32.347610Z",
+  "updated_at": "2026-05-09T20:23:38.099844Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -230,6 +230,7 @@
         "a disease in the public mind": 1,
         "alchemy of air": 1,
         "days of rage": 1,
+        "henry kaiser": 1,
         "introduction-to-christianity": 1,
         "revolt-against-the-modern-world": 1,
         "skunk works": 1
@@ -238,11 +239,12 @@
         "a disease in the public mind",
         "alchemy of air",
         "days of rage",
+        "henry kaiser",
         "introduction-to-christianity",
         "revolt-against-the-modern-world",
         "skunk works"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "gradualism": {
       "id": "gradualism",
@@ -346,6 +348,7 @@
         "a disease in the public mind": 1,
         "braudel-vol1": 1,
         "elon-musk": 2,
+        "henry kaiser": 1,
         "orality-and-literacy": 1,
         "preface to plato": 1,
         "the art of doing science and engineering": 1,
@@ -355,12 +358,13 @@
         "a disease in the public mind",
         "braudel-vol1",
         "elon-musk",
+        "henry kaiser",
         "orality-and-literacy",
         "preface to plato",
         "the art of doing science and engineering",
         "the horse"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "economic_transformation": {
       "id": "economic_transformation",
@@ -10994,13 +10998,15 @@
       "related": [],
       "book_claims": {
         "boom": 1,
-        "elon-musk": 1
+        "elon-musk": 1,
+        "henry kaiser": 1
       },
       "books": [
         "boom",
-        "elon-musk"
+        "elon-musk",
+        "henry kaiser"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "technology_transfer": {
       "id": "technology_transfer",
@@ -11011,6 +11017,7 @@
       "book_claims": {
         "alchemy of air": 1,
         "boom": 1,
+        "henry kaiser": 2,
         "kelly more than my share of it all": 2,
         "now it can be told": 2,
         "philosopher-in-the-valley": 1,
@@ -11019,12 +11026,13 @@
       "books": [
         "alchemy of air",
         "boom",
+        "henry kaiser",
         "kelly more than my share of it all",
         "now it can be told",
         "philosopher-in-the-valley",
         "the horse"
       ],
-      "claim_count": 10
+      "claim_count": 12
     },
     "cost_reduction": {
       "id": "cost_reduction",
@@ -11191,14 +11199,16 @@
       "book_claims": {
         "alchemy of air": 1,
         "boom": 1,
-        "elon-musk": 6
+        "elon-musk": 6,
+        "henry kaiser": 1
       },
       "books": [
         "alchemy of air",
         "boom",
-        "elon-musk"
+        "elon-musk",
+        "henry kaiser"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "monetary_corruption": {
       "id": "monetary_corruption",
@@ -15224,6 +15234,7 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
+        "henry kaiser": 1,
         "muskism": 1,
         "philosopher-in-the-valley": 2,
         "the hard thing about hard things": 3,
@@ -15231,12 +15242,13 @@
       },
       "books": [
         "elon-musk",
+        "henry kaiser",
         "muskism",
         "philosopher-in-the-valley",
         "the hard thing about hard things",
         "zero to one"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "corporate_governance": {
       "id": "corporate_governance",
@@ -15354,15 +15366,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 5,
+        "henry kaiser": 1,
         "now it can be told": 1,
         "philosopher-in-the-valley": 1
       },
       "books": [
         "elon-musk",
+        "henry kaiser",
         "now it can be told",
         "philosopher-in-the-valley"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "fraud_prevention": {
       "id": "fraud_prevention",
@@ -15582,15 +15596,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
+        "henry kaiser": 2,
         "now it can be told": 1,
         "philosopher-in-the-valley": 1
       },
       "books": [
         "elon-musk",
+        "henry kaiser",
         "now it can be told",
         "philosopher-in-the-valley"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "risk_management": {
       "id": "risk_management",
@@ -16740,6 +16756,7 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
+        "henry kaiser": 1,
         "mirror worlds": 1,
         "only the paranoid survive": 1,
         "poor charlies almanack": 2,
@@ -16748,13 +16765,14 @@
       },
       "books": [
         "elon-musk",
+        "henry kaiser",
         "mirror worlds",
         "only the paranoid survive",
         "poor charlies almanack",
         "the horse",
         "zero to one"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "technological_singularity": {
       "id": "technological_singularity",
@@ -22792,6 +22810,7 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 4,
+        "henry kaiser": 1,
         "kabbalistic visions": 3,
         "muskism": 1,
         "occult philosophy in the elizabethan age": 4,
@@ -22799,12 +22818,13 @@
       },
       "books": [
         "alchemy of air",
+        "henry kaiser",
         "kabbalistic visions",
         "muskism",
         "occult philosophy in the elizabethan age",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "intellectual_suppression": {
       "id": "intellectual_suppression",
@@ -24329,16 +24349,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "henry kaiser": 1,
         "normans in the south": 1,
         "the power of ritual in prehistory": 1,
         "through the eye of a needle": 4
       },
       "books": [
+        "henry kaiser",
         "normans in the south",
         "the power of ritual in prehistory",
         "through the eye of a needle"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "political_strategy": {
       "id": "political_strategy",
@@ -29849,14 +29871,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "henry kaiser": 1,
         "philosopher-in-the-valley": 1,
         "unqualified reservations": 1
       },
       "books": [
+        "henry kaiser",
         "philosopher-in-the-valley",
         "unqualified reservations"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "educational_theory": {
       "id": "educational_theory",
@@ -30758,15 +30782,17 @@
       "related": [],
       "book_claims": {
         "extreme ownership": 1,
+        "henry kaiser": 1,
         "revolt-against-the-modern-world": 1,
         "unqualified reservations": 1
       },
       "books": [
         "extreme ownership",
+        "henry kaiser",
         "revolt-against-the-modern-world",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "energy_transformation": {
       "id": "energy_transformation",
@@ -32521,14 +32547,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "henry kaiser": 1,
         "the age of interconnection": 1,
         "the ascent of money": 2
       },
       "books": [
+        "henry kaiser",
         "the age of interconnection",
         "the ascent of money"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "financial_speculation": {
       "id": "financial_speculation",
@@ -34321,14 +34349,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "henry kaiser": 1,
         "through the eye of a needle": 2,
         "unqualified reservations": 1
       },
       "books": [
+        "henry kaiser",
         "through the eye of a needle",
         "unqualified reservations"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "psychological_manipulation": {
       "id": "psychological_manipulation",
@@ -37758,17 +37788,19 @@
       "related": [],
       "book_claims": {
         "confessions": 1,
+        "henry kaiser": 1,
         "introduction-to-christianity": 2,
         "out-of-body exploring": 1,
         "the culture of narcissism": 1
       },
       "books": [
         "confessions",
+        "henry kaiser",
         "introduction-to-christianity",
         "out-of-body exploring",
         "the culture of narcissism"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "cultural_decline": {
       "id": "cultural_decline",
@@ -46231,14 +46263,16 @@
       "book_claims": {
         "alchemy of air": 1,
         "confessions": 1,
+        "henry kaiser": 1,
         "kabbalistic visions": 1
       },
       "books": [
         "alchemy of air",
         "confessions",
+        "henry kaiser",
         "kabbalistic visions"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "forgetting": {
       "id": "forgetting",
@@ -49540,13 +49574,15 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 2,
-        "american nations": 1
+        "american nations": 1,
+        "henry kaiser": 1
       },
       "books": [
         "alchemy of air",
-        "american nations"
+        "american nations",
+        "henry kaiser"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "political_extremism": {
       "id": "political_extremism",
@@ -50568,15 +50604,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
+        "henry kaiser": 1,
         "muskism": 2,
         "only the paranoid survive": 1
       },
       "books": [
         "elon-musk",
+        "henry kaiser",
         "muskism",
         "only the paranoid survive"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "rapid_prototyping": {
       "id": "rapid_prototyping",
@@ -50686,15 +50724,17 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
+        "henry kaiser": 2,
         "poor charlies almanack": 1,
         "why we sleep": 1
       },
       "books": [
         "elon-musk",
+        "henry kaiser",
         "poor charlies almanack",
         "why we sleep"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "mission_commitment": {
       "id": "mission_commitment",
@@ -54196,15 +54236,17 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 1,
+        "henry kaiser": 1,
         "kelly more than my share of it all": 1,
         "skunk works": 1
       },
       "books": [
         "alchemy of air",
+        "henry kaiser",
         "kelly more than my share of it all",
         "skunk works"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "weapons_development": {
       "id": "weapons_development",
@@ -54230,13 +54272,15 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 1,
+        "henry kaiser": 1,
         "kelly more than my share of it all": 1
       },
       "books": [
         "alchemy of air",
+        "henry kaiser",
         "kelly more than my share of it all"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "family_tragedy": {
       "id": "family_tragedy",
@@ -54609,14 +54653,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "henry kaiser": 1,
         "kelly more than my share of it all": 2,
         "skunk works": 5
       },
       "books": [
+        "henry kaiser",
         "kelly more than my share of it all",
         "skunk works"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "reconnaissance_aircraft": {
       "id": "reconnaissance_aircraft",
@@ -55209,14 +55255,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "henry kaiser": 1,
         "poor charlies almanack": 1,
         "ultralearning": 1
       },
       "books": [
+        "henry kaiser",
         "poor charlies almanack",
         "ultralearning"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "moral_reversal": {
       "id": "moral_reversal",
@@ -60403,6 +60451,326 @@
       "books": [
         "out-of-body exploring",
         "why we sleep"
+      ],
+      "claim_count": 2
+    },
+    "domestic_life": {
+      "id": "domestic_life",
+      "label": "Domestic Life",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "alchemy of air": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "alchemy of air",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "research_and_development": {
+      "id": "research_and_development",
+      "label": "Research And Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "alchemy of air": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "alchemy of air",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "professional_integrity": {
+      "id": "professional_integrity",
+      "label": "Professional Integrity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "confessions": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "confessions",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "international_business": {
+      "id": "international_business",
+      "label": "International Business",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "elon-musk",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "public_image": {
+      "id": "public_image",
+      "label": "Public Image",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 3,
+        "henry kaiser": 1
+      },
+      "books": [
+        "elon-musk",
+        "henry kaiser"
+      ],
+      "claim_count": 4
+    },
+    "government_relations": {
+      "id": "government_relations",
+      "label": "Government Relations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "elon-musk",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "supply_chain_disruption": {
+      "id": "supply_chain_disruption",
+      "label": "Supply Chain Disruption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "elon-musk",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "family_influence": {
+      "id": "family_influence",
+      "label": "Family Influence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "henry kaiser": 1
+      },
+      "books": [
+        "elon-musk",
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "personnel_management": {
+      "id": "personnel_management",
+      "label": "Personnel Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "now it can be told": 1
+      },
+      "books": [
+        "henry kaiser",
+        "now it can be told"
+      ],
+      "claim_count": 2
+    },
+    "wartime_procurement": {
+      "id": "wartime_procurement",
+      "label": "Wartime Procurement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "now it can be told": 1
+      },
+      "books": [
+        "henry kaiser",
+        "now it can be told"
+      ],
+      "claim_count": 2
+    },
+    "postwar_planning": {
+      "id": "postwar_planning",
+      "label": "Postwar Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "now it can be told": 1
+      },
+      "books": [
+        "henry kaiser",
+        "now it can be told"
+      ],
+      "claim_count": 2
+    },
+    "legacy": {
+      "id": "legacy",
+      "label": "Legacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "skunk works": 1
+      },
+      "books": [
+        "henry kaiser",
+        "skunk works"
+      ],
+      "claim_count": 2
+    },
+    "real_estate_speculation": {
+      "id": "real_estate_speculation",
+      "label": "Real Estate Speculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "the ascent of money": 1
+      },
+      "books": [
+        "henry kaiser",
+        "the ascent of money"
+      ],
+      "claim_count": 2
+    },
+    "relationship_banking": {
+      "id": "relationship_banking",
+      "label": "Relationship Banking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "the ascent of money": 1
+      },
+      "books": [
+        "henry kaiser",
+        "the ascent of money"
+      ],
+      "claim_count": 2
+    },
+    "psychological_resilience": {
+      "id": "psychological_resilience",
+      "label": "Psychological Resilience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "the light eaters": 1
+      },
+      "books": [
+        "henry kaiser",
+        "the light eaters"
+      ],
+      "claim_count": 2
+    },
+    "maternal_influence": {
+      "id": "maternal_influence",
+      "label": "Maternal Influence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "the world as will and representation vol 2": 1
+      },
+      "books": [
+        "henry kaiser",
+        "the world as will and representation vol 2"
+      ],
+      "claim_count": 2
+    },
+    "political_vulnerability": {
+      "id": "political_vulnerability",
+      "label": "Political Vulnerability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "through the eye of a needle": 1
+      },
+      "books": [
+        "henry kaiser",
+        "through the eye of a needle"
+      ],
+      "claim_count": 2
+    },
+    "financial_incentives": {
+      "id": "financial_incentives",
+      "label": "Financial Incentives",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "unqualified reservations": 1
+      },
+      "books": [
+        "henry kaiser",
+        "unqualified reservations"
+      ],
+      "claim_count": 2
+    },
+    "market_power": {
+      "id": "market_power",
+      "label": "Market Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "henry kaiser",
+        "zero to one"
+      ],
+      "claim_count": 2
+    },
+    "organizational_loyalty": {
+      "id": "organizational_loyalty",
+      "label": "Organizational Loyalty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "henry kaiser",
+        "zero to one"
       ],
       "claim_count": 2
     },
@@ -69212,37 +69580,9 @@
       ],
       "claim_count": 3
     },
-    "domestic_life": {
-      "id": "domestic_life",
-      "label": "Domestic Life",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "alchemy of air": 1
-      },
-      "books": [
-        "alchemy of air"
-      ],
-      "claim_count": 1
-    },
     "scientific_error": {
       "id": "scientific_error",
       "label": "Scientific Error",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "alchemy of air": 1
-      },
-      "books": [
-        "alchemy of air"
-      ],
-      "claim_count": 1
-    },
-    "research_and_development": {
-      "id": "research_and_development",
-      "label": "Research And Development",
       "description": "",
       "aliases": [],
       "related": [],
@@ -99662,20 +100002,6 @@
       ],
       "claim_count": 1
     },
-    "professional_integrity": {
-      "id": "professional_integrity",
-      "label": "Professional Integrity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "confessions": 1
-      },
-      "books": [
-        "confessions"
-      ],
-      "claim_count": 1
-    },
     "concubinage": {
       "id": "concubinage",
       "label": "Concubinage",
@@ -113942,20 +114268,6 @@
       ],
       "claim_count": 2
     },
-    "international_business": {
-      "id": "international_business",
-      "label": "International Business",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "first_principles_thinking": {
       "id": "first_principles_thinking",
       "label": "First Principles Thinking",
@@ -117806,20 +118118,6 @@
       ],
       "claim_count": 1
     },
-    "public_image": {
-      "id": "public_image",
-      "label": "Public Image",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 3
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 3
-    },
     "regulatory_scrutiny": {
       "id": "regulatory_scrutiny",
       "label": "Regulatory Scrutiny",
@@ -118075,20 +118373,6 @@
     "relationship_recruitment": {
       "id": "relationship_recruitment",
       "label": "Relationship Recruitment",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "government_relations": {
-      "id": "government_relations",
-      "label": "Government Relations",
       "description": "",
       "aliases": [],
       "related": [],
@@ -119783,20 +120067,6 @@
     "wireless_brain_interface": {
       "id": "wireless_brain_interface",
       "label": "Wireless Brain Interface",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "supply_chain_disruption": {
-      "id": "supply_chain_disruption",
-      "label": "Supply Chain Disruption",
       "description": "",
       "aliases": [],
       "related": [],
@@ -121925,20 +122195,6 @@
     "press_freedom": {
       "id": "press_freedom",
       "label": "Press Freedom",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
-    "family_influence": {
-      "id": "family_influence",
-      "label": "Family Influence",
       "description": "",
       "aliases": [],
       "related": [],
@@ -142331,6 +142587,1868 @@
       },
       "books": [
         "healing back pain"
+      ],
+      "claim_count": 1
+    },
+    "immigrant_entrepreneurship": {
+      "id": "immigrant_entrepreneurship",
+      "label": "Immigrant Entrepreneurship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "production_methods": {
+      "id": "production_methods",
+      "label": "Production Methods",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "origin_mythology": {
+      "id": "origin_mythology",
+      "label": "Origin Mythology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "health_care_motivation": {
+      "id": "health_care_motivation",
+      "label": "Health Care Motivation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "retail_entrepreneurship": {
+      "id": "retail_entrepreneurship",
+      "label": "Retail Entrepreneurship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "seasonal_markets": {
+      "id": "seasonal_markets",
+      "label": "Seasonal Markets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "supplier_conflict": {
+      "id": "supplier_conflict",
+      "label": "Supplier Conflict",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "marriage_as_motivation": {
+      "id": "marriage_as_motivation",
+      "label": "Marriage As Motivation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "westward_migration": {
+      "id": "westward_migration",
+      "label": "Westward Migration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "sales_skills": {
+      "id": "sales_skills",
+      "label": "Sales Skills",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "marriage_partnership": {
+      "id": "marriage_partnership",
+      "label": "Marriage Partnership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "commercial_photography": {
+      "id": "commercial_photography",
+      "label": "Commercial Photography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "aggressive_sales": {
+      "id": "aggressive_sales",
+      "label": "Aggressive Sales",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "general_contracting": {
+      "id": "general_contracting",
+      "label": "General Contracting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "career_opportunism": {
+      "id": "career_opportunism",
+      "label": "Career Opportunism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "entrepreneurial_risk": {
+      "id": "entrepreneurial_risk",
+      "label": "Entrepreneurial Risk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "strategic_partnership": {
+      "id": "strategic_partnership",
+      "label": "Strategic Partnership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "mutual_benefit_alliances": {
+      "id": "mutual_benefit_alliances",
+      "label": "Mutual Benefit Alliances",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "construction_mechanization": {
+      "id": "construction_mechanization",
+      "label": "Construction Mechanization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "cross_cultural_management": {
+      "id": "cross_cultural_management",
+      "label": "Cross Cultural Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "international_contracting": {
+      "id": "international_contracting",
+      "label": "International Contracting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "project_completion": {
+      "id": "project_completion",
+      "label": "Project Completion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "industry_associations": {
+      "id": "industry_associations",
+      "label": "Industry Associations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "political_lobbying": {
+      "id": "political_lobbying",
+      "label": "Political Lobbying",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 3
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 3
+    },
+    "regional_contracting_networks": {
+      "id": "regional_contracting_networks",
+      "label": "Regional Contracting Networks",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "consortium_bidding": {
+      "id": "consortium_bidding",
+      "label": "Consortium Bidding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "risk_distribution": {
+      "id": "risk_distribution",
+      "label": "Risk Distribution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "federal_contracting": {
+      "id": "federal_contracting",
+      "label": "Federal Contracting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "occupational_safety": {
+      "id": "occupational_safety",
+      "label": "Occupational Safety",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "corporate_legal_strategy": {
+      "id": "corporate_legal_strategy",
+      "label": "Corporate Legal Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_challenge": {
+      "id": "monopoly_challenge",
+      "label": "Monopoly Challenge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "industrial_transition": {
+      "id": "industrial_transition",
+      "label": "Industrial Transition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "rapid_industrialization": {
+      "id": "rapid_industrialization",
+      "label": "Rapid Industrialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "management_delegation": {
+      "id": "management_delegation",
+      "label": "Management Delegation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "wartime_urbanization": {
+      "id": "wartime_urbanization",
+      "label": "Wartime Urbanization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "housing_crisis": {
+      "id": "housing_crisis",
+      "label": "Housing Crisis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "social_disruption": {
+      "id": "social_disruption",
+      "label": "Social Disruption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "production_innovation": {
+      "id": "production_innovation",
+      "label": "Production Innovation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "competitive_incentives": {
+      "id": "competitive_incentives",
+      "label": "Competitive Incentives",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "subassembly_manufacturing": {
+      "id": "subassembly_manufacturing",
+      "label": "Subassembly Manufacturing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "labor_organizing": {
+      "id": "labor_organizing",
+      "label": "Labor Organizing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "racial_discrimination": {
+      "id": "racial_discrimination",
+      "label": "Racial Discrimination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "wartime_labor_relations": {
+      "id": "wartime_labor_relations",
+      "label": "Wartime Labor Relations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "wartime_profiteering": {
+      "id": "wartime_profiteering",
+      "label": "Wartime Profiteering",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "corporate_accounting": {
+      "id": "corporate_accounting",
+      "label": "Corporate Accounting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "industrial_monopoly": {
+      "id": "industrial_monopoly",
+      "label": "Industrial Monopoly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "capacity_planning": {
+      "id": "capacity_planning",
+      "label": "Capacity Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "government_industrial_policy": {
+      "id": "government_industrial_policy",
+      "label": "Government Industrial Policy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "bureaucratic_navigation": {
+      "id": "bureaucratic_navigation",
+      "label": "Bureaucratic Navigation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "government_loans": {
+      "id": "government_loans",
+      "label": "Government Loans",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "improvised_problem_solving": {
+      "id": "improvised_problem_solving",
+      "label": "Improvised Problem Solving",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "government_debt": {
+      "id": "government_debt",
+      "label": "Government Debt",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "postwar_conservatism": {
+      "id": "postwar_conservatism",
+      "label": "Postwar Conservatism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "collective_bargaining": {
+      "id": "collective_bargaining",
+      "label": "Collective Bargaining",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "productivity_sharing": {
+      "id": "productivity_sharing",
+      "label": "Productivity Sharing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "market_proximity": {
+      "id": "market_proximity",
+      "label": "Market Proximity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "industrial_location_theory": {
+      "id": "industrial_location_theory",
+      "label": "Industrial Location Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "western_development": {
+      "id": "western_development",
+      "label": "Western Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "celebrity_construction": {
+      "id": "celebrity_construction",
+      "label": "Celebrity Construction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "political_aspirations": {
+      "id": "political_aspirations",
+      "label": "Political Aspirations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "vice_presidential_selection": {
+      "id": "vice_presidential_selection",
+      "label": "Vice Presidential Selection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "public_relations_strategy": {
+      "id": "public_relations_strategy",
+      "label": "Public Relations Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "crisis_communications": {
+      "id": "crisis_communications",
+      "label": "Crisis Communications",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "corporate_image_management": {
+      "id": "corporate_image_management",
+      "label": "Corporate Image Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "consumer_demand": {
+      "id": "consumer_demand",
+      "label": "Consumer Demand",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "economic_forecasting": {
+      "id": "economic_forecasting",
+      "label": "Economic Forecasting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "prefabricated_housing": {
+      "id": "prefabricated_housing",
+      "label": "Prefabricated Housing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "suburban_development": {
+      "id": "suburban_development",
+      "label": "Suburban Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "mass_production_methods": {
+      "id": "mass_production_methods",
+      "label": "Mass Production Methods",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "diversification_strategy": {
+      "id": "diversification_strategy",
+      "label": "Diversification Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "postwar_consumer_markets": {
+      "id": "postwar_consumer_markets",
+      "label": "Postwar Consumer Markets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 2
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 2
+    },
+    "partnership_formation": {
+      "id": "partnership_formation",
+      "label": "Partnership Formation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "complementary_skills": {
+      "id": "complementary_skills",
+      "label": "Complementary Skills",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "postwar_auto_industry": {
+      "id": "postwar_auto_industry",
+      "label": "Postwar Auto Industry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "monopoly_behavior": {
+      "id": "monopoly_behavior",
+      "label": "Monopoly Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "financial_sabotage": {
+      "id": "financial_sabotage",
+      "label": "Financial Sabotage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "stock_fraud": {
+      "id": "stock_fraud",
+      "label": "Stock Fraud",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "corporate_legal_warfare": {
+      "id": "corporate_legal_warfare",
+      "label": "Corporate Legal Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "compact_car_market": {
+      "id": "compact_car_market",
+      "label": "Compact Car Market",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "product_positioning": {
+      "id": "product_positioning",
+      "label": "Product Positioning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "consumer_preferences": {
+      "id": "consumer_preferences",
+      "label": "Consumer Preferences",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "foreign_market_expansion": {
+      "id": "foreign_market_expansion",
+      "label": "Foreign Market Expansion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "cold_war_commerce": {
+      "id": "cold_war_commerce",
+      "label": "Cold War Commerce",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "minority_ownership_model": {
+      "id": "minority_ownership_model",
+      "label": "Minority Ownership Model",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "local_partnership": {
+      "id": "local_partnership",
+      "label": "Local Partnership",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "joint_ventures": {
+      "id": "joint_ventures",
+      "label": "Joint Ventures",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "developing_world_industrialization": {
+      "id": "developing_world_industrialization",
+      "label": "Developing World Industrialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "industry_protectionism": {
+      "id": "industry_protectionism",
+      "label": "Industry Protectionism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "media_pressure": {
+      "id": "media_pressure",
+      "label": "Media Pressure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "management_incompatibility": {
+      "id": "management_incompatibility",
+      "label": "Management Incompatibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "experimental_aircraft": {
+      "id": "experimental_aircraft",
+      "label": "Experimental Aircraft",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "congressional_investigation": {
+      "id": "congressional_investigation",
+      "label": "Congressional Investigation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "defense_contract_politics": {
+      "id": "defense_contract_politics",
+      "label": "Defense Contract Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "mccarthyism": {
+      "id": "mccarthyism",
+      "label": "Mccarthyism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "surplus_asset_acquisition": {
+      "id": "surplus_asset_acquisition",
+      "label": "Surplus Asset Acquisition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "antitrust_opportunity": {
+      "id": "antitrust_opportunity",
+      "label": "Antitrust Opportunity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "defense_production_expansion": {
+      "id": "defense_production_expansion",
+      "label": "Defense Production Expansion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "private_financing": {
+      "id": "private_financing",
+      "label": "Private Financing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "regional_economic_development": {
+      "id": "regional_economic_development",
+      "label": "Regional Economic Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "eastern_market_penetration": {
+      "id": "eastern_market_penetration",
+      "label": "Eastern Market Penetration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "industrial_location": {
+      "id": "industrial_location",
+      "label": "Industrial Location",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "prepaid_health_care": {
+      "id": "prepaid_health_care",
+      "label": "Prepaid Health Care",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "preventive_medicine": {
+      "id": "preventive_medicine",
+      "label": "Preventive Medicine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "professional_monopoly": {
+      "id": "professional_monopoly",
+      "label": "Professional Monopoly",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "market_protection": {
+      "id": "market_protection",
+      "label": "Market Protection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "organized_medicine": {
+      "id": "organized_medicine",
+      "label": "Organized Medicine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "organizational_governance": {
+      "id": "organizational_governance",
+      "label": "Organizational Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "lay_versus_professional_control": {
+      "id": "lay_versus_professional_control",
+      "label": "Lay Versus Professional Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "private_healthcare_advocacy": {
+      "id": "private_healthcare_advocacy",
+      "label": "Private Healthcare Advocacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "health_policy": {
+      "id": "health_policy",
+      "label": "Health Policy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "medicare_opposition": {
+      "id": "medicare_opposition",
+      "label": "Medicare Opposition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "talent_development": {
+      "id": "talent_development",
+      "label": "Talent Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "informal_management": {
+      "id": "informal_management",
+      "label": "Informal Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "communication_strategy": {
+      "id": "communication_strategy",
+      "label": "Communication Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "integrity": {
+      "id": "integrity",
+      "label": "Integrity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "managerial_accountability": {
+      "id": "managerial_accountability",
+      "label": "Managerial Accountability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "corporate_reorganization": {
+      "id": "corporate_reorganization",
+      "label": "Corporate Reorganization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "holding_company": {
+      "id": "holding_company",
+      "label": "Holding Company",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "capital_markets": {
+      "id": "capital_markets",
+      "label": "Capital Markets",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "cold_war_development": {
+      "id": "cold_war_development",
+      "label": "Cold War Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "third_world_industrialization": {
+      "id": "third_world_industrialization",
+      "label": "Third World Industrialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "cold_war_geopolitics": {
+      "id": "cold_war_geopolitics",
+      "label": "Cold War Geopolitics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "development_finance": {
+      "id": "development_finance",
+      "label": "Development Finance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "african_industrialization": {
+      "id": "african_industrialization",
+      "label": "African Industrialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "resort_development": {
+      "id": "resort_development",
+      "label": "Resort Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "tourism_promotion": {
+      "id": "tourism_promotion",
+      "label": "Tourism Promotion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "real_estate_development": {
+      "id": "real_estate_development",
+      "label": "Real Estate Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "television_sponsorship": {
+      "id": "television_sponsorship",
+      "label": "Television Sponsorship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "entertainment_industry": {
+      "id": "entertainment_industry",
+      "label": "Entertainment Industry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "late_life_marriage": {
+      "id": "late_life_marriage",
+      "label": "Late Life Marriage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "planned_community_development": {
+      "id": "planned_community_development",
+      "label": "Planned Community Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "legacy_planning": {
+      "id": "legacy_planning",
+      "label": "Legacy Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
+      ],
+      "claim_count": 1
+    },
+    "lifelong_work_ethic": {
+      "id": "lifelong_work_ethic",
+      "label": "Lifelong Work Ethic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1
+      },
+      "books": [
+        "henry kaiser"
       ],
       "claim_count": 1
     },
@@ -177754,20 +179872,6 @@
       ],
       "claim_count": 1
     },
-    "personnel_management": {
-      "id": "personnel_management",
-      "label": "Personnel Management",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "now it can be told": 1
-      },
-      "books": [
-        "now it can be told"
-      ],
-      "claim_count": 1
-    },
     "military_staffing": {
       "id": "military_staffing",
       "label": "Military Staffing",
@@ -177823,20 +179927,6 @@
         "now it can be told"
       ],
       "claim_count": 3
-    },
-    "wartime_procurement": {
-      "id": "wartime_procurement",
-      "label": "Wartime Procurement",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "now it can be told": 1
-      },
-      "books": [
-        "now it can be told"
-      ],
-      "claim_count": 1
     },
     "scientific_uncertainty": {
       "id": "scientific_uncertainty",
@@ -179731,20 +181821,6 @@
     "laboratory_management": {
       "id": "laboratory_management",
       "label": "Laboratory Management",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "now it can be told": 1
-      },
-      "books": [
-        "now it can be told"
-      ],
-      "claim_count": 1
-    },
-    "postwar_planning": {
-      "id": "postwar_planning",
-      "label": "Postwar Planning",
       "description": "",
       "aliases": [],
       "related": [],
@@ -243302,20 +245378,6 @@
       ],
       "claim_count": 1
     },
-    "legacy": {
-      "id": "legacy",
-      "label": "Legacy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "skunk works": 1
-      },
-      "books": [
-        "skunk works"
-      ],
-      "claim_count": 1
-    },
     "aerospace_design_convergence": {
       "id": "aerospace_design_convergence",
       "label": "Aerospace Design Convergence",
@@ -256350,20 +258412,6 @@
       ],
       "claim_count": 1
     },
-    "real_estate_speculation": {
-      "id": "real_estate_speculation",
-      "label": "Real Estate Speculation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the ascent of money": 1
-      },
-      "books": [
-        "the ascent of money"
-      ],
-      "claim_count": 1
-    },
     "mortgage_backed_securities": {
       "id": "mortgage_backed_securities",
       "label": "Mortgage Backed Securities",
@@ -256381,20 +258429,6 @@
     "wall_street_innovation": {
       "id": "wall_street_innovation",
       "label": "Wall Street Innovation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the ascent of money": 1
-      },
-      "books": [
-        "the ascent of money"
-      ],
-      "claim_count": 1
-    },
-    "relationship_banking": {
-      "id": "relationship_banking",
-      "label": "Relationship Banking",
       "description": "",
       "aliases": [],
       "related": [],
@@ -280321,20 +282355,6 @@
     "environmental_journalism": {
       "id": "environmental_journalism",
       "label": "Environmental Journalism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the light eaters": 1
-      },
-      "books": [
-        "the light eaters"
-      ],
-      "claim_count": 1
-    },
-    "psychological_resilience": {
-      "id": "psychological_resilience",
-      "label": "Psychological Resilience",
       "description": "",
       "aliases": [],
       "related": [],
@@ -310222,20 +312242,6 @@
       ],
       "claim_count": 1
     },
-    "maternal_influence": {
-      "id": "maternal_influence",
-      "label": "Maternal Influence",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the world as will and representation vol 2": 1
-      },
-      "books": [
-        "the world as will and representation vol 2"
-      ],
-      "claim_count": 1
-    },
     "metaphysics_of_sexuality": {
       "id": "metaphysics_of_sexuality",
       "label": "Metaphysics Of Sexuality",
@@ -317197,20 +319203,6 @@
     "classical_mythology": {
       "id": "classical_mythology",
       "label": "Classical Mythology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 1
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 1
-    },
-    "political_vulnerability": {
-      "id": "political_vulnerability",
-      "label": "Political Vulnerability",
       "description": "",
       "aliases": [],
       "related": [],
@@ -338334,20 +340326,6 @@
       ],
       "claim_count": 1
     },
-    "financial_incentives": {
-      "id": "financial_incentives",
-      "label": "Financial Incentives",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "unqualified reservations": 1
-      },
-      "books": [
-        "unqualified reservations"
-      ],
-      "claim_count": 1
-    },
     "governmental_duty": {
       "id": "governmental_duty",
       "label": "Governmental Duty",
@@ -341176,20 +343154,6 @@
       ],
       "claim_count": 1
     },
-    "market_power": {
-      "id": "market_power",
-      "label": "Market Power",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
-    },
     "monopoly_succession": {
       "id": "monopoly_succession",
       "label": "Monopoly Succession",
@@ -341946,20 +343910,6 @@
       ],
       "claim_count": 4
     },
-    "organizational_loyalty": {
-      "id": "organizational_loyalty",
-      "label": "Organizational Loyalty",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
-    },
     "recruiting_strategy": {
       "id": "recruiting_strategy",
       "label": "Recruiting Strategy",
@@ -342438,8 +344388,8 @@
     }
   },
   "stats": {
-    "total_concepts": 23528,
-    "total_claims": 39668,
-    "books_indexed": 133
+    "total_concepts": 23661,
+    "total_claims": 39851,
+    "books_indexed": 134
   }
 }
