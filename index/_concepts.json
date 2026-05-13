@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-05-09T20:23:38.099844Z",
+  "updated_at": "2026-05-13T15:26:40.366723Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -2437,7 +2437,8 @@
         "revolt-against-the-modern-world": 6,
         "the first ghosts": 1,
         "the secret teachings of all ages": 2,
-        "the soul of the world": 1
+        "the soul of the world": 1,
+        "the magical revival": 1
       },
       "books": [
         "a secret history of christianity",
@@ -2446,9 +2447,10 @@
         "revolt-against-the-modern-world",
         "the first ghosts",
         "the secret teachings of all ages",
-        "the soul of the world"
+        "the soul of the world",
+        "the magical revival"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "divine_kingship": {
       "id": "divine_kingship",
@@ -3437,14 +3439,16 @@
       "book_claims": {
         "a secret history of christianity": 1,
         "introduction-to-christianity": 1,
-        "revolt-against-the-modern-world": 4
+        "revolt-against-the-modern-world": 4,
+        "the magical revival": 1
       },
       "books": [
         "a secret history of christianity",
         "introduction-to-christianity",
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "the magical revival"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "medieval_cosmology": {
       "id": "medieval_cosmology",
@@ -3735,7 +3739,8 @@
         "memories-dreams-reflections": 2,
         "out-of-body exploring": 1,
         "the interpretation of fairy tales": 1,
-        "the problem of the puer aeternus": 2
+        "the problem of the puer aeternus": 2,
+        "the dark lord": 2
       },
       "books": [
         "a vision",
@@ -3746,9 +3751,10 @@
         "memories-dreams-reflections",
         "out-of-body exploring",
         "the interpretation of fairy tales",
-        "the problem of the puer aeternus"
+        "the problem of the puer aeternus",
+        "the dark lord"
       ],
-      "claim_count": 17
+      "claim_count": 19
     },
     "political_theory": {
       "id": "political_theory",
@@ -3810,7 +3816,8 @@
         "the mask and face of contemporary spiritualism": 3,
         "the power of ritual in prehistory": 4,
         "the reality of being": 1,
-        "transcendental magic": 7
+        "transcendental magic": 7,
+        "the magical revival": 1
       },
       "books": [
         "a vision",
@@ -3820,9 +3827,10 @@
         "the mask and face of contemporary spiritualism",
         "the power of ritual in prehistory",
         "the reality of being",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 25
+      "claim_count": 26
     },
     "personality_typology": {
       "id": "personality_typology",
@@ -3970,7 +3978,9 @@
         "the world as will and representation": 1,
         "the world as will and representation vol 2": 7,
         "things hidden since the foundation of the world": 2,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the dark lord": 1,
+        "the magical revival": 1
       },
       "books": [
         "a vision",
@@ -3988,9 +3998,11 @@
         "the world as will and representation",
         "the world as will and representation vol 2",
         "things hidden since the foundation of the world",
-        "transcendental magic"
+        "transcendental magic",
+        "the dark lord",
+        "the magical revival"
       ],
-      "claim_count": 35
+      "claim_count": 37
     },
     "spiritual_purification": {
       "id": "spiritual_purification",
@@ -4026,7 +4038,8 @@
         "revolt-against-the-modern-world": 6,
         "rhythmanalysis": 1,
         "the concept of acceleration": 1,
-        "the mask and face of contemporary spiritualism": 1
+        "the mask and face of contemporary spiritualism": 1,
+        "the magical revival": 2
       },
       "books": [
         "a vision",
@@ -4036,9 +4049,10 @@
         "revolt-against-the-modern-world",
         "rhythmanalysis",
         "the concept of acceleration",
-        "the mask and face of contemporary spiritualism"
+        "the mask and face of contemporary spiritualism",
+        "the magical revival"
       ],
-      "claim_count": 13
+      "claim_count": 15
     },
     "astronomical_symbolism": {
       "id": "astronomical_symbolism",
@@ -4049,14 +4063,16 @@
       "book_claims": {
         "a vision": 1,
         "revolt-against-the-modern-world": 1,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "the magical revival": 1
       },
       "books": [
         "a vision",
         "revolt-against-the-modern-world",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "zodiacal_symbolism": {
       "id": "zodiacal_symbolism",
@@ -8703,7 +8719,8 @@
         "memories-dreams-reflections": 2,
         "schizoposting": 1,
         "the interpretation of fairy tales": 4,
-        "the problem of the puer aeternus": 11
+        "the problem of the puer aeternus": 11,
+        "the dark lord": 1
       },
       "books": [
         "animus and anima",
@@ -8714,9 +8731,10 @@
         "memories-dreams-reflections",
         "schizoposting",
         "the interpretation of fairy tales",
-        "the problem of the puer aeternus"
+        "the problem of the puer aeternus",
+        "the dark lord"
       ],
-      "claim_count": 30
+      "claim_count": 31
     },
     "feminine_psychology": {
       "id": "feminine_psychology",
@@ -8989,16 +9007,18 @@
         "kabbalistic visions": 4,
         "mystery teachings from the living earth": 1,
         "orality-and-literacy": 1,
-        "the mask and face of contemporary spiritualism": 2
+        "the mask and face of contemporary spiritualism": 2,
+        "the dark lord": 1
       },
       "books": [
         "animus and anima",
         "kabbalistic visions",
         "mystery teachings from the living earth",
         "orality-and-literacy",
-        "the mask and face of contemporary spiritualism"
+        "the mask and face of contemporary spiritualism",
+        "the dark lord"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "game_theory": {
       "id": "game_theory",
@@ -9371,14 +9391,16 @@
       "book_claims": {
         "anthropol": 1,
         "braudel-vol1": 2,
-        "the age of interconnection": 4
+        "the age of interconnection": 4,
+        "mind in motion": 1
       },
       "books": [
         "anthropol",
         "braudel-vol1",
-        "the age of interconnection"
+        "the age of interconnection",
+        "mind in motion"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "division_of_labor": {
       "id": "division_of_labor",
@@ -12416,7 +12438,8 @@
         "the horse": 1,
         "the power of ritual in prehistory": 1,
         "thus spake zarathustra": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "mind in motion": 1
       },
       "books": [
         "braudel-vol1",
@@ -12426,9 +12449,10 @@
         "the horse",
         "the power of ritual in prehistory",
         "thus spake zarathustra",
-        "unqualified reservations"
+        "unqualified reservations",
+        "mind in motion"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "power_distribution": {
       "id": "power_distribution",
@@ -14977,16 +15001,18 @@
         "from bacteria to bach and back": 3,
         "parables for the virtual": 1,
         "the interpretation of fairy tales": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "mind in motion": 1
       },
       "books": [
         "deschooling society",
         "from bacteria to bach and back",
         "parables for the virtual",
         "the interpretation of fairy tales",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "mind in motion"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "family_dysfunction": {
       "id": "family_dysfunction",
@@ -18025,7 +18051,8 @@
         "schizoposting": 2,
         "the mystical theology of the eastern church": 3,
         "the secret teachings of all ages": 1,
-        "through the eye of a needle": 2
+        "through the eye of a needle": 2,
+        "the dark lord": 1
       },
       "books": [
         "confessions",
@@ -18040,9 +18067,10 @@
         "schizoposting",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the dark lord"
       ],
-      "claim_count": 48
+      "claim_count": 49
     },
     "christian_optimism": {
       "id": "christian_optimism",
@@ -18374,7 +18402,8 @@
         "the discarded image": 1,
         "the reality of being": 1,
         "ultralearning": 1,
-        "zero to one": 2
+        "zero to one": 2,
+        "mind in motion": 1
       },
       "books": [
         "catafalque",
@@ -18386,9 +18415,10 @@
         "the discarded image",
         "the reality of being",
         "ultralearning",
-        "zero to one"
+        "zero to one",
+        "mind in motion"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "epistemic_authority": {
       "id": "epistemic_authority",
@@ -18828,7 +18858,8 @@
         "preface to plato": 1,
         "the cybernetic brain": 1,
         "the elephant in the brain": 1,
-        "the world as will and representation vol 2": 1
+        "the world as will and representation vol 2": 1,
+        "mind in motion": 6
       },
       "books": [
         "from bacteria to bach and back",
@@ -18836,9 +18867,10 @@
         "preface to plato",
         "the cybernetic brain",
         "the elephant in the brain",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "mind in motion"
       ],
-      "claim_count": 6
+      "claim_count": 12
     },
     "language_evolution": {
       "id": "language_evolution",
@@ -18848,13 +18880,15 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 2,
-        "the horse": 2
+        "the horse": 2,
+        "mind in motion": 1
       },
       "books": [
         "from bacteria to bach and back",
-        "the horse"
+        "the horse",
+        "mind in motion"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "language_acquisition": {
       "id": "language_acquisition",
@@ -20054,15 +20088,17 @@
         "introduction-to-christianity": 1,
         "occult philosophy in the elizabethan age": 3,
         "presence in the modern world": 1,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "the dark lord": 1
       },
       "books": [
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
         "presence in the modern world",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the dark lord"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "divine_immanence": {
       "id": "divine_immanence",
@@ -21855,7 +21891,8 @@
         "the mask and face of contemporary spiritualism": 1,
         "the mystical theology of the eastern church": 1,
         "the secret teachings of all ages": 1,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "the magical revival": 1
       },
       "books": [
         "all desire is a desire for being",
@@ -21870,9 +21907,10 @@
         "the mask and face of contemporary spiritualism",
         "the mystical theology of the eastern church",
         "the secret teachings of all ages",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "the magical revival"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "spiritual_contradiction": {
       "id": "spiritual_contradiction",
@@ -22684,7 +22722,8 @@
         "the problem of the puer aeternus": 1,
         "the secret teachings of all ages": 2,
         "the tarot sadhu": 2,
-        "transcendental magic": 4
+        "transcendental magic": 4,
+        "the magical revival": 1
       },
       "books": [
         "alchemy of air",
@@ -22696,9 +22735,10 @@
         "the problem of the puer aeternus",
         "the secret teachings of all ages",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 24
+      "claim_count": 25
     },
     "textual_transmission": {
       "id": "textual_transmission",
@@ -22788,7 +22828,8 @@
         "the interpretation of fairy tales": 2,
         "the problem of the puer aeternus": 1,
         "the secret teachings of all ages": 4,
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the magical revival": 1
       },
       "books": [
         "kabbalistic visions",
@@ -22798,9 +22839,10 @@
         "the interpretation of fairy tales",
         "the problem of the puer aeternus",
         "the secret teachings of all ages",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "antisemitism": {
       "id": "antisemitism",
@@ -23153,16 +23195,18 @@
         "giordano bruno": 2,
         "kabbalistic visions": 1,
         "occult philosophy in the elizabethan age": 1,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the magical revival": 1
       },
       "books": [
         "catafalque",
         "giordano bruno",
         "kabbalistic visions",
         "occult philosophy in the elizabethan age",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "theurgy": {
       "id": "theurgy",
@@ -25543,16 +25587,18 @@
         "land greer 2026": 2,
         "occult philosophy in the elizabethan age": 1,
         "the secret teachings of all ages": 10,
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the dark lord": 1
       },
       "books": [
         "art of memory",
         "land greer 2026",
         "occult philosophy in the elizabethan age",
         "the secret teachings of all ages",
-        "transcendental magic"
+        "transcendental magic",
+        "the dark lord"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "magical_texts": {
       "id": "magical_texts",
@@ -26965,14 +27011,16 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 3,
         "the tarot sadhu": 1,
-        "transcendental magic": 9
+        "transcendental magic": 9,
+        "the magical revival": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "iconographic_tradition": {
       "id": "iconographic_tradition",
@@ -27024,15 +27072,17 @@
         "occult philosophy in the elizabethan age": 2,
         "the celtic golden dawn": 1,
         "the tarot sadhu": 2,
-        "transcendental magic": 4
+        "transcendental magic": 4,
+        "the magical revival": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "the celtic golden dawn",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "artistic_symbolism": {
       "id": "artistic_symbolism",
@@ -33578,7 +33628,8 @@
         "the interpretation of fairy tales": 2,
         "the tarot sadhu": 1,
         "things hidden since the foundation of the world": 3,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "the magical revival": 2
       },
       "books": [
         "land greer 2026",
@@ -33586,9 +33637,10 @@
         "the interpretation of fairy tales",
         "the tarot sadhu",
         "things hidden since the foundation of the world",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "the magical revival"
       ],
-      "claim_count": 9
+      "claim_count": 11
     },
     "enantiodromia": {
       "id": "enantiodromia",
@@ -34434,13 +34486,15 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 1,
-        "mirror worlds": 1
+        "mirror worlds": 1,
+        "mind in motion": 1
       },
       "books": [
         "from bacteria to bach and back",
-        "mirror worlds"
+        "mirror worlds",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "recursion": {
       "id": "recursion",
@@ -35377,14 +35431,16 @@
       "book_claims": {
         "in search of the miraculous": 1,
         "the tarot sadhu": 1,
-        "transcendental magic": 6
+        "transcendental magic": 6,
+        "the magical revival": 1
       },
       "books": [
         "in search of the miraculous",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "esoteric_discipline": {
       "id": "esoteric_discipline",
@@ -36859,14 +36915,16 @@
       "book_claims": {
         "beelzebubs tales": 1,
         "the-body-keeps-the-score": 3,
-        "ultralearning": 1
+        "ultralearning": 1,
+        "mind in motion": 1
       },
       "books": [
         "beelzebubs tales",
         "the-body-keeps-the-score",
-        "ultralearning"
+        "ultralearning",
+        "mind in motion"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "somatic_awareness": {
       "id": "somatic_awareness",
@@ -38303,14 +38361,16 @@
       "book_claims": {
         "sexual personae": 4,
         "the tarot sadhu": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the magical revival": 1
       },
       "books": [
         "sexual personae",
         "the tarot sadhu",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "folk_magic": {
       "id": "folk_magic",
@@ -38336,13 +38396,15 @@
       "related": [],
       "book_claims": {
         "land greer 2026": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the magical revival": 1
       },
       "books": [
         "land greer 2026",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "progressivism": {
       "id": "progressivism",
@@ -38564,13 +38626,15 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 1,
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "the magical revival": 1
       },
       "books": [
         "giordano bruno",
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "hermetic_cabalism": {
       "id": "hermetic_cabalism",
@@ -38631,16 +38695,18 @@
         "jesus and his times vol 1": 1,
         "origins of the kabbalah": 1,
         "the interior castle": 1,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "the dark lord": 1
       },
       "books": [
         "giordano bruno",
         "jesus and his times vol 1",
         "origins of the kabbalah",
         "the interior castle",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the dark lord"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "sect_formation": {
       "id": "sect_formation",
@@ -38736,15 +38802,17 @@
         "a vision": 1,
         "horror of philosophy": 1,
         "ride the tiger": 1,
-        "the cybernetic brain": 1
+        "the cybernetic brain": 1,
+        "the magical revival": 1
       },
       "books": [
         "a vision",
         "horror of philosophy",
         "ride the tiger",
-        "the cybernetic brain"
+        "the cybernetic brain",
+        "the magical revival"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "environmental_pressure": {
       "id": "environmental_pressure",
@@ -39428,13 +39496,15 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 7,
-        "origins of the kabbalah": 1
+        "origins of the kabbalah": 1,
+        "the magical revival": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
-        "origins of the kabbalah"
+        "origins of the kabbalah",
+        "the magical revival"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "prophetic_mysticism": {
       "id": "prophetic_mysticism",
@@ -39656,13 +39726,15 @@
       "related": [],
       "book_claims": {
         "revolt-against-the-modern-world": 1,
-        "ride the tiger": 1
+        "ride the tiger": 1,
+        "the magical revival": 2
       },
       "books": [
         "revolt-against-the-modern-world",
-        "ride the tiger"
+        "ride the tiger",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "cyclical_history": {
       "id": "cyclical_history",
@@ -39915,14 +39987,16 @@
       "book_claims": {
         "mystery teachings from the living earth": 1,
         "the elephant in the brain": 1,
-        "the soul of the world": 1
+        "the soul of the world": 1,
+        "mind in motion": 1
       },
       "books": [
         "mystery teachings from the living earth",
         "the elephant in the brain",
-        "the soul of the world"
+        "the soul of the world",
+        "mind in motion"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "depersonalization": {
       "id": "depersonalization",
@@ -40438,13 +40512,15 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 1,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the dark lord": 1
       },
       "books": [
         "giordano bruno",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the dark lord"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "cosmological_framework": {
       "id": "cosmological_framework",
@@ -40470,13 +40546,17 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 3,
-        "the secret teachings of all ages": 3
+        "the secret teachings of all ages": 3,
+        "the dark lord": 1,
+        "the magical revival": 1
       },
       "books": [
         "giordano bruno",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the dark lord",
+        "the magical revival"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "solar_worship": {
       "id": "solar_worship",
@@ -40832,15 +40912,17 @@
         "bronze age mindset": 1,
         "mystery teachings from the living earth": 1,
         "out-of-body exploring": 1,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "the magical revival": 1
       },
       "books": [
         "bronze age mindset",
         "mystery teachings from the living earth",
         "out-of-body exploring",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "spiritual_vocation": {
       "id": "spiritual_vocation",
@@ -40866,13 +40948,15 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 2,
-        "nick land explains the numogram": 3
+        "nick land explains the numogram": 3,
+        "the dark lord": 1
       },
       "books": [
         "apprenticed to magic",
-        "nick land explains the numogram"
+        "nick land explains the numogram",
+        "the dark lord"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "emanationism": {
       "id": "emanationism",
@@ -41254,13 +41338,15 @@
       "related": [],
       "book_claims": {
         "the adventure of consciousness": 1,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "the magical revival": 2
       },
       "books": [
         "the adventure of consciousness",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "philosophical_education": {
       "id": "philosophical_education",
@@ -41742,13 +41828,15 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the magical revival": 1
       },
       "books": [
         "apprenticed to magic",
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "apocalyptic_symbolism": {
       "id": "apocalyptic_symbolism",
@@ -41791,14 +41879,16 @@
       "book_claims": {
         "apprenticed to magic": 2,
         "circles of power": 2,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the magical revival": 1
       },
       "books": [
         "apprenticed to magic",
         "circles of power",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "unus_mundus": {
       "id": "unus_mundus",
@@ -42081,14 +42171,16 @@
       "book_claims": {
         "flatline constructs": 1,
         "man and his symbols": 1,
-        "sexual personae": 1
+        "sexual personae": 1,
+        "the dark lord": 1
       },
       "books": [
         "flatline constructs",
         "man and his symbols",
-        "sexual personae"
+        "sexual personae",
+        "the dark lord"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "castration": {
       "id": "castration",
@@ -42492,13 +42584,15 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 1,
-        "circles of power": 1
+        "circles of power": 1,
+        "the dark lord": 1
       },
       "books": [
         "apprenticed to magic",
-        "circles of power"
+        "circles of power",
+        "the dark lord"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "middle_pillar": {
       "id": "middle_pillar",
@@ -42577,14 +42671,16 @@
       "book_claims": {
         "circles of power": 1,
         "eros and magic in the renaissance": 1,
-        "the tarot sadhu": 1
+        "the tarot sadhu": 1,
+        "the magical revival": 2
       },
       "books": [
         "circles of power",
         "eros and magic in the renaissance",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "astrological_timing": {
       "id": "astrological_timing",
@@ -42992,13 +43088,15 @@
       "related": [],
       "book_claims": {
         "alchemical active imagination": 1,
-        "the celtic golden dawn": 5
+        "the celtic golden dawn": 5,
+        "the magical revival": 1
       },
       "books": [
         "alchemical active imagination",
-        "the celtic golden dawn"
+        "the celtic golden dawn",
+        "the magical revival"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "meditation_practice": {
       "id": "meditation_practice",
@@ -43040,13 +43138,15 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 1,
-        "the tarot sadhu": 2
+        "the tarot sadhu": 2,
+        "the magical revival": 1
       },
       "books": [
         "apprenticed to magic",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "ceremonial_practice": {
       "id": "ceremonial_practice",
@@ -43092,13 +43192,15 @@
       "related": [],
       "book_claims": {
         "circles of power": 3,
-        "the celtic golden dawn": 1
+        "the celtic golden dawn": 1,
+        "the magical revival": 2
       },
       "books": [
         "circles of power",
-        "the celtic golden dawn"
+        "the celtic golden dawn",
+        "the magical revival"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "self_initiation": {
       "id": "self_initiation",
@@ -43306,13 +43408,15 @@
       "related": [],
       "book_claims": {
         "kabbalistic visions": 2,
-        "the tarot sadhu": 1
+        "the tarot sadhu": 1,
+        "the dark lord": 1
       },
       "books": [
         "kabbalistic visions",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the dark lord"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "solve_et_coagula": {
       "id": "solve_et_coagula",
@@ -43370,13 +43474,15 @@
       "related": [],
       "book_claims": {
         "nick land explains the numogram": 1,
-        "the tarot sadhu": 1
+        "the tarot sadhu": 1,
+        "the dark lord": 2
       },
       "books": [
         "nick land explains the numogram",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the dark lord"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "geometric_symbolism": {
       "id": "geometric_symbolism",
@@ -43714,13 +43820,15 @@
       "related": [],
       "book_claims": {
         "the secret teachings of all ages": 2,
-        "the tarot sadhu": 2
+        "the tarot sadhu": 2,
+        "the magical revival": 2
       },
       "books": [
         "the secret teachings of all ages",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the magical revival"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "egyptian_mysteries": {
       "id": "egyptian_mysteries",
@@ -44002,13 +44110,15 @@
       "related": [],
       "book_claims": {
         "the celtic golden dawn": 2,
-        "the tarot sadhu": 1
+        "the tarot sadhu": 1,
+        "the magical revival": 1
       },
       "books": [
         "the celtic golden dawn",
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "christian_influence": {
       "id": "christian_influence",
@@ -45868,13 +45978,15 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
-        "confessions": 2
+        "confessions": 2,
+        "the magical revival": 2
       },
       "books": [
         "beelzebubs tales",
-        "confessions"
+        "confessions",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "procrastination": {
       "id": "procrastination",
@@ -46034,13 +46146,15 @@
       "related": [],
       "book_claims": {
         "confessions": 1,
-        "from bacteria to bach and back": 1
+        "from bacteria to bach and back": 1,
+        "mind in motion": 2
       },
       "books": [
         "confessions",
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "philosophical_religion": {
       "id": "philosophical_religion",
@@ -51073,14 +51187,16 @@
       "book_claims": {
         "fooled by randomness": 1,
         "the elephant in the brain": 2,
-        "the world as will and representation vol 2": 1
+        "the world as will and representation vol 2": 1,
+        "mind in motion": 1
       },
       "books": [
         "fooled by randomness",
         "the elephant in the brain",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "mind in motion"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "availability_heuristic": {
       "id": "availability_heuristic",
@@ -51170,13 +51286,15 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 1,
-        "poor charlies almanack": 1
+        "poor charlies almanack": 1,
+        "mind in motion": 1
       },
       "books": [
         "from bacteria to bach and back",
-        "poor charlies almanack"
+        "poor charlies almanack",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "philosophy_of_biology": {
       "id": "philosophy_of_biology",
@@ -51202,13 +51320,15 @@
       "related": [],
       "book_claims": {
         "from bacteria to bach and back": 1,
-        "why we sleep": 1
+        "why we sleep": 1,
+        "mind in motion": 3
       },
       "books": [
         "from bacteria to bach and back",
-        "why we sleep"
+        "why we sleep",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "metacognition": {
       "id": "metacognition",
@@ -51255,14 +51375,16 @@
       "book_claims": {
         "horror of philosophy 3": 1,
         "parables for the virtual": 1,
-        "the pattern on the stone": 1
+        "the pattern on the stone": 1,
+        "mind in motion": 3
       },
       "books": [
         "horror of philosophy 3",
         "parables for the virtual",
-        "the pattern on the stone"
+        "the pattern on the stone",
+        "mind in motion"
       ],
-      "claim_count": 3
+      "claim_count": 6
     },
     "self_presentation": {
       "id": "self_presentation",
@@ -52650,13 +52772,15 @@
       "related": [],
       "book_claims": {
         "the closing of the american mind": 1,
-        "why we sleep": 1
+        "why we sleep": 1,
+        "mind in motion": 1
       },
       "books": [
         "the closing of the american mind",
-        "why we sleep"
+        "why we sleep",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "anti_intellectualism": {
       "id": "anti_intellectualism",
@@ -54836,13 +54960,15 @@
       "related": [],
       "book_claims": {
         "only the paranoid survive": 1,
-        "poor charlies almanack": 4
+        "poor charlies almanack": 4,
+        "mind in motion": 1
       },
       "books": [
         "only the paranoid survive",
-        "poor charlies almanack"
+        "poor charlies almanack",
+        "mind in motion"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "leadership_signaling": {
       "id": "leadership_signaling",
@@ -55014,13 +55140,15 @@
       "related": [],
       "book_claims": {
         "poor charlies almanack": 1,
-        "the art of doing science and engineering": 1
+        "the art of doing science and engineering": 1,
+        "mind in motion": 1
       },
       "books": [
         "poor charlies almanack",
-        "the art of doing science and engineering"
+        "the art of doing science and engineering",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "transfer_of_learning": {
       "id": "transfer_of_learning",
@@ -58224,13 +58352,15 @@
       "related": [],
       "book_claims": {
         "signs and machines": 1,
-        "the discarded image": 1
+        "the discarded image": 1,
+        "mind in motion": 1
       },
       "books": [
         "signs and machines",
-        "the discarded image"
+        "the discarded image",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "political_ecology": {
       "id": "political_ecology",
@@ -59918,13 +60048,15 @@
       "related": [],
       "book_claims": {
         "schizoposting": 1,
-        "the-body-keeps-the-score": 2
+        "the-body-keeps-the-score": 2,
+        "mind in motion": 2
       },
       "books": [
         "schizoposting",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "mind in motion"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "cognitive_load": {
       "id": "cognitive_load",
@@ -60014,13 +60146,15 @@
       "related": [],
       "book_claims": {
         "generative energy": 1,
-        "the-body-keeps-the-score": 2
+        "the-body-keeps-the-score": 2,
+        "mind in motion": 1
       },
       "books": [
         "generative energy",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "mind in motion"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "self_healing": {
       "id": "self_healing",
@@ -60158,13 +60292,15 @@
       "related": [],
       "book_claims": {
         "cult of the saints": 2,
-        "out-of-body exploring": 1
+        "out-of-body exploring": 1,
+        "the magical revival": 1
       },
       "books": [
         "cult of the saints",
-        "out-of-body exploring"
+        "out-of-body exploring",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "photographic_evidence": {
       "id": "photographic_evidence",
@@ -60366,13 +60502,15 @@
       "related": [],
       "book_claims": {
         "out-of-body exploring": 1,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "the dark lord": 1
       },
       "books": [
         "out-of-body exploring",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the dark lord"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "traumatic_memory": {
       "id": "traumatic_memory",
@@ -68229,12 +68367,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "after progress": 1
+        "after progress": 1,
+        "the magical revival": 1
       },
       "books": [
-        "after progress"
+        "after progress",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "egyptian_mummification": {
       "id": "egyptian_mummification",
@@ -79079,12 +79219,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "apprenticed to magic": 1
+        "apprenticed to magic": 1,
+        "the magical revival": 1
       },
       "books": [
-        "apprenticed to magic"
+        "apprenticed to magic",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "sacrifice_and_service": {
       "id": "sacrifice_and_service",
@@ -79905,12 +80047,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "apprenticed to magic": 1
+        "apprenticed to magic": 1,
+        "the magical revival": 1
       },
       "books": [
-        "apprenticed to magic"
+        "apprenticed to magic",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "humility_in_training": {
       "id": "humility_in_training",
@@ -83013,12 +83157,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "beelzebubs tales": 2
+        "beelzebubs tales": 2,
+        "the magical revival": 1
       },
       "books": [
-        "beelzebubs tales"
+        "beelzebubs tales",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "intentional_development": {
       "id": "intentional_development",
@@ -86919,12 +87065,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "beelzebubs tales": 1
+        "beelzebubs tales": 1,
+        "mind in motion": 1
       },
       "books": [
-        "beelzebubs tales"
+        "beelzebubs tales",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "esoteric_physics": {
       "id": "esoteric_physics",
@@ -99239,12 +99387,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "circles of power": 1
+        "circles of power": 1,
+        "the dark lord": 1,
+        "the magical revival": 1
       },
       "books": [
-        "circles of power"
+        "circles of power",
+        "the dark lord",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "equinox": {
       "id": "equinox",
@@ -134813,12 +134965,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "fooled by randomness": 1
+        "fooled by randomness": 1,
+        "mind in motion": 2
       },
       "books": [
-        "fooled by randomness"
+        "fooled by randomness",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "skeptical_philosophy": {
       "id": "skeptical_philosophy",
@@ -135289,12 +135443,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "from bacteria to bach and back": 1
+        "from bacteria to bach and back": 1,
+        "mind in motion": 1
       },
       "books": [
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "umwelt": {
       "id": "umwelt",
@@ -148827,12 +148983,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "in search of the miraculous": 4
+        "in search of the miraculous": 4,
+        "the magical revival": 1
       },
       "books": [
-        "in search of the miraculous"
+        "in search of the miraculous",
+        "the magical revival"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "higher_consciousness": {
       "id": "higher_consciousness",
@@ -154189,12 +154347,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "introduction-to-christianity": 1
+        "introduction-to-christianity": 1,
+        "the dark lord": 1
       },
       "books": [
-        "introduction-to-christianity"
+        "introduction-to-christianity",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "action_and_being": {
       "id": "action_and_being",
@@ -157899,12 +158059,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "jesus and his times vol 1": 1
+        "jesus and his times vol 1": 1,
+        "the dark lord": 1
       },
       "books": [
-        "jesus and his times vol 1"
+        "jesus and his times vol 1",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "renunciation": {
       "id": "renunciation",
@@ -157983,12 +158145,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "jesus and his times vol 1": 1
+        "jesus and his times vol 1": 1,
+        "the dark lord": 1
       },
       "books": [
-        "jesus and his times vol 1"
+        "jesus and his times vol 1",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "religious_boundaries": {
       "id": "religious_boundaries",
@@ -158977,12 +159141,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "kabbalistic visions": 1
+        "kabbalistic visions": 1,
+        "the dark lord": 1
       },
       "books": [
-        "kabbalistic visions"
+        "kabbalistic visions",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "self_psychology": {
       "id": "self_psychology",
@@ -163737,12 +163903,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "lacan seminars i": 2
+        "lacan seminars i": 2,
+        "the magical revival": 1
       },
       "books": [
-        "lacan seminars i"
+        "lacan seminars i",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "analytic_termination": {
       "id": "analytic_termination",
@@ -169659,12 +169827,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "memories-dreams-reflections": 1
+        "memories-dreams-reflections": 1,
+        "the magical revival": 1
       },
       "books": [
-        "memories-dreams-reflections"
+        "memories-dreams-reflections",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "religious_artifacts": {
       "id": "religious_artifacts",
@@ -170793,12 +170963,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "memories-dreams-reflections": 1
+        "memories-dreams-reflections": 1,
+        "the dark lord": 1
       },
       "books": [
-        "memories-dreams-reflections"
+        "memories-dreams-reflections",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "historical_residue": {
       "id": "historical_residue",
@@ -173845,12 +174017,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "mirror worlds": 1
+        "mirror worlds": 1,
+        "mind in motion": 1
       },
       "books": [
-        "mirror worlds"
+        "mirror worlds",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "recursive_simplicity": {
       "id": "recursive_simplicity",
@@ -174433,12 +174607,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "mirror worlds": 1
+        "mirror worlds": 1,
+        "mind in motion": 1
       },
       "books": [
-        "mirror worlds"
+        "mirror worlds",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "technological_literacy": {
       "id": "technological_literacy",
@@ -183603,12 +183779,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 5
+        "occult philosophy in the elizabethan age": 5,
+        "the magical revival": 2
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the magical revival"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "witch_hunts": {
       "id": "witch_hunts",
@@ -191359,12 +191537,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "the dark lord": 1,
+        "the magical revival": 2
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the dark lord",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "intellectual_transmission": {
       "id": "intellectual_transmission",
@@ -198947,12 +199129,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "mind in motion": 4
       },
       "books": [
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 5
     },
     "cognitive_internalization": {
       "id": "cognitive_internalization",
@@ -206227,12 +206411,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "out-of-body exploring": 1
+        "out-of-body exploring": 1,
+        "mind in motion": 1
       },
       "books": [
-        "out-of-body exploring"
+        "out-of-body exploring",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "astral_geography": {
       "id": "astral_geography",
@@ -216965,12 +217151,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "psychomagic": 1
+        "psychomagic": 1,
+        "the dark lord": 2
       },
       "books": [
-        "psychomagic"
+        "psychomagic",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "witness_consciousness": {
       "id": "witness_consciousness",
@@ -218295,12 +218483,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "psychomagic": 1
+        "psychomagic": 1,
+        "mind in motion": 1
       },
       "books": [
-        "psychomagic"
+        "psychomagic",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "religious_disintermediation": {
       "id": "religious_disintermediation",
@@ -225393,12 +225583,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "revolt-against-the-modern-world": 1
+        "revolt-against-the-modern-world": 1,
+        "the dark lord": 1
       },
       "books": [
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "creative_force": {
       "id": "creative_force",
@@ -225785,12 +225977,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "revolt-against-the-modern-world": 1
+        "revolt-against-the-modern-world": 1,
+        "the magical revival": 1
       },
       "books": [
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "racial_mixing": {
       "id": "racial_mixing",
@@ -234899,12 +235093,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "ride the tiger": 1
+        "ride the tiger": 1,
+        "the magical revival": 3
       },
       "books": [
-        "ride the tiger"
+        "ride the tiger",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "existential_escape": {
       "id": "existential_escape",
@@ -240709,12 +240905,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "sexual personae": 2
+        "sexual personae": 2,
+        "the dark lord": 1
       },
       "books": [
-        "sexual personae"
+        "sexual personae",
+        "the dark lord"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "male_autonomy": {
       "id": "male_autonomy",
@@ -241451,12 +241649,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "sexual personae": 1
+        "sexual personae": 1,
+        "the dark lord": 1
       },
       "books": [
-        "sexual personae"
+        "sexual personae",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "family_romance": {
       "id": "family_romance",
@@ -259567,12 +259767,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the celtic golden dawn": 2
+        "the celtic golden dawn": 2,
+        "the magical revival": 1
       },
       "books": [
-        "the celtic golden dawn"
+        "the celtic golden dawn",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "spagyric_alchemy": {
       "id": "spagyric_alchemy",
@@ -259847,12 +260049,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the celtic golden dawn": 1
+        "the celtic golden dawn": 1,
+        "the magical revival": 1
       },
       "books": [
-        "the celtic golden dawn"
+        "the celtic golden dawn",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "cross_cultural_mysticism": {
       "id": "cross_cultural_mysticism",
@@ -260183,12 +260387,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the celtic golden dawn": 1
+        "the celtic golden dawn": 1,
+        "the magical revival": 1
       },
       "books": [
-        "the celtic golden dawn"
+        "the celtic golden dawn",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "conjuration": {
       "id": "conjuration",
@@ -266161,12 +266367,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the discarded image": 2
+        "the discarded image": 2,
+        "the magical revival": 1
       },
       "books": [
-        "the discarded image"
+        "the discarded image",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "celestial_ascent": {
       "id": "celestial_ascent",
@@ -267141,12 +267349,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the elephant in the brain": 2
+        "the elephant in the brain": 2,
+        "the dark lord": 1
       },
       "books": [
-        "the elephant in the brain"
+        "the elephant in the brain",
+        "the dark lord"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "signaling_theory": {
       "id": "signaling_theory",
@@ -280861,12 +281071,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the lean startup": 1
+        "the lean startup": 1,
+        "mind in motion": 1
       },
       "books": [
-        "the lean startup"
+        "the lean startup",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "customer_behavior": {
       "id": "customer_behavior",
@@ -285089,12 +285301,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the mask and face of contemporary spiritualism": 1
+        "the mask and face of contemporary spiritualism": 1,
+        "the magical revival": 1
       },
       "books": [
-        "the mask and face of contemporary spiritualism"
+        "the mask and face of contemporary spiritualism",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "psychic_residues": {
       "id": "psychic_residues",
@@ -286601,12 +286815,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the mask and face of contemporary spiritualism": 1
+        "the mask and face of contemporary spiritualism": 1,
+        "the dark lord": 1
       },
       "books": [
-        "the mask and face of contemporary spiritualism"
+        "the mask and face of contemporary spiritualism",
+        "the dark lord"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "sectarian_practice": {
       "id": "sectarian_practice",
@@ -291837,12 +292053,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the pattern on the stone": 1
+        "the pattern on the stone": 1,
+        "mind in motion": 2
       },
       "books": [
-        "the pattern on the stone"
+        "the pattern on the stone",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "adversarial_search": {
       "id": "adversarial_search",
@@ -295323,12 +295541,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the problem of the puer aeternus": 1
+        "the problem of the puer aeternus": 1,
+        "the magical revival": 1
       },
       "books": [
-        "the problem of the puer aeternus"
+        "the problem of the puer aeternus",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "pseudo_spirituality": {
       "id": "pseudo_spirituality",
@@ -297633,12 +297853,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the magical revival": 1
       },
       "books": [
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "spiritual_centers": {
       "id": "spiritual_centers",
@@ -298935,12 +299157,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the magical revival": 1
       },
       "books": [
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "occult_powers": {
       "id": "occult_powers",
@@ -300601,12 +300825,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the sickness unto death": 2
+        "the sickness unto death": 2,
+        "the magical revival": 1
       },
       "books": [
-        "the sickness unto death"
+        "the sickness unto death",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "worldliness": {
       "id": "worldliness",
@@ -304633,12 +304859,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the structure of scientific revolutions": 1
+        "the structure of scientific revolutions": 1,
+        "mind in motion": 1
       },
       "books": [
-        "the structure of scientific revolutions"
+        "the structure of scientific revolutions",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "theoretical_incompatibility": {
       "id": "theoretical_incompatibility",
@@ -305655,12 +305883,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the tarot sadhu": 2
+        "the tarot sadhu": 2,
+        "the magical revival": 1
       },
       "books": [
-        "the tarot sadhu"
+        "the tarot sadhu",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "karmic_responsibility": {
       "id": "karmic_responsibility",
@@ -308525,12 +308755,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the world as will and representation vol 2": 1
+        "the world as will and representation vol 2": 1,
+        "mind in motion": 1
       },
       "books": [
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "neuroscience_of_perception": {
       "id": "neuroscience_of_perception",
@@ -313257,12 +313489,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the-body-keeps-the-score": 2
+        "the-body-keeps-the-score": 2,
+        "mind in motion": 1
       },
       "books": [
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "mind in motion"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "emotional_contagion": {
       "id": "emotional_contagion",
@@ -318507,12 +318741,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "the magical revival": 1
       },
       "books": [
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "violence_and_culture": {
       "id": "violence_and_culture",
@@ -322161,12 +322397,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "the magical revival": 1
       },
       "books": [
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "managerial_culture": {
       "id": "managerial_culture",
@@ -323505,12 +323743,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "thus spake zarathustra": 2
+        "thus spake zarathustra": 2,
+        "the magical revival": 1
       },
       "books": [
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "the magical revival"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "creative_freedom": {
       "id": "creative_freedom",
@@ -325381,12 +325621,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the dark lord": 1
       },
       "books": [
-        "transcendental magic"
+        "transcendental magic",
+        "the dark lord"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "magical_power": {
       "id": "magical_power",
@@ -325465,12 +325707,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the magical revival": 1
       },
       "books": [
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "tarot": {
       "id": "tarot",
@@ -325661,12 +325905,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "transcendental magic": 3
+        "transcendental magic": 3,
+        "the magical revival": 5
       },
       "books": [
-        "transcendental magic"
+        "transcendental magic",
+        "the magical revival"
       ],
-      "claim_count": 3
+      "claim_count": 8
     },
     "werewolf_legend": {
       "id": "werewolf_legend",
@@ -328461,12 +328707,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "ultralearning": 1
+        "ultralearning": 1,
+        "mind in motion": 1
       },
       "books": [
-        "ultralearning"
+        "ultralearning",
+        "mind in motion"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "learning_principles": {
       "id": "learning_principles",
@@ -344385,11 +344633,3521 @@
         "zero to one"
       ],
       "claim_count": 1
+    },
+    "kundalini_yoga": {
+      "id": "kundalini_yoga",
+      "label": "Kundalini Yoga",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1,
+        "the magical revival": 1
+      },
+      "books": [
+        "the dark lord",
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "stellar_religion": {
+      "id": "stellar_religion",
+      "label": "Stellar Religion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 3,
+        "the magical revival": 1
+      },
+      "books": [
+        "the dark lord",
+        "the magical revival"
+      ],
+      "claim_count": 4
+    },
+    "magical_catastrophe": {
+      "id": "magical_catastrophe",
+      "label": "Magical Catastrophe",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2,
+        "the magical revival": 1
+      },
+      "books": [
+        "the dark lord",
+        "the magical revival"
+      ],
+      "claim_count": 3
+    },
+    "ritual_sexuality": {
+      "id": "ritual_sexuality",
+      "label": "Ritual Sexuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1,
+        "the magical revival": 1
+      },
+      "books": [
+        "the dark lord",
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "extraterrestrial_contact": {
+      "id": "extraterrestrial_contact",
+      "label": "Extraterrestrial Contact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1,
+        "the magical revival": 1
+      },
+      "books": [
+        "the dark lord",
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "spatial_cognition": {
+      "id": "spatial_cognition",
+      "label": "Spatial Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 4
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 4
+    },
+    "embodied_metaphor": {
+      "id": "embodied_metaphor",
+      "label": "Embodied Metaphor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_foundations": {
+      "id": "cognitive_foundations",
+      "label": "Cognitive Foundations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "reification": {
+      "id": "reification",
+      "label": "Reification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_representation": {
+      "id": "cognitive_representation",
+      "label": "Cognitive Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "abstract_reasoning": {
+      "id": "abstract_reasoning",
+      "label": "Abstract Reasoning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "body_schema": {
+      "id": "body_schema",
+      "label": "Body Schema",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cortical_representation": {
+      "id": "cortical_representation",
+      "label": "Cortical Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "functional_significance": {
+      "id": "functional_significance",
+      "label": "Functional Significance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_salience": {
+      "id": "cognitive_salience",
+      "label": "Cognitive Salience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "action_perception_coupling": {
+      "id": "action_perception_coupling",
+      "label": "Action Perception Coupling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "tool_use": {
+      "id": "tool_use",
+      "label": "Tool Use",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "motor_resonance": {
+      "id": "motor_resonance",
+      "label": "Motor Resonance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "action_understanding": {
+      "id": "action_understanding",
+      "label": "Action Understanding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "motor_expertise": {
+      "id": "motor_expertise",
+      "label": "Motor Expertise",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "embodied_simulation": {
+      "id": "embodied_simulation",
+      "label": "Embodied Simulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "perceptual_expertise": {
+      "id": "perceptual_expertise",
+      "label": "Perceptual Expertise",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "joint_action": {
+      "id": "joint_action",
+      "label": "Joint Action",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "shared_intentionality": {
+      "id": "shared_intentionality",
+      "label": "Shared Intentionality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "event_cognition": {
+      "id": "event_cognition",
+      "label": "Event Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "biological_identity": {
+      "id": "biological_identity",
+      "label": "Biological Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "social_embodiment": {
+      "id": "social_embodiment",
+      "label": "Social Embodiment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "face_recognition": {
+      "id": "face_recognition",
+      "label": "Face Recognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "neural_specialization": {
+      "id": "neural_specialization",
+      "label": "Neural Specialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "perceptual_learning": {
+      "id": "perceptual_learning",
+      "label": "Perceptual Learning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "basic_level_categories": {
+      "id": "basic_level_categories",
+      "label": "Basic Level Categories",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "categorical_cognition": {
+      "id": "categorical_cognition",
+      "label": "Categorical Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "social_judgment": {
+      "id": "social_judgment",
+      "label": "Social Judgment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "electoral_behavior": {
+      "id": "electoral_behavior",
+      "label": "Electoral Behavior",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "emotion_recognition": {
+      "id": "emotion_recognition",
+      "label": "Emotion Recognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "multimodal_communication": {
+      "id": "multimodal_communication",
+      "label": "Multimodal Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "change_blindness": {
+      "id": "change_blindness",
+      "label": "Change Blindness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "categorical_perception": {
+      "id": "categorical_perception",
+      "label": "Categorical Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "top_down_processing": {
+      "id": "top_down_processing",
+      "label": "Top Down Processing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "categorical_thinking": {
+      "id": "categorical_thinking",
+      "label": "Categorical Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "dimensional_reasoning": {
+      "id": "dimensional_reasoning",
+      "label": "Dimensional Reasoning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_framework": {
+      "id": "spatial_framework",
+      "label": "Spatial Framework",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "egocentric_perspective": {
+      "id": "egocentric_perspective",
+      "label": "Egocentric Perspective",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "body_centered_representation": {
+      "id": "body_centered_representation",
+      "label": "Body Centered Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "perspective_taking": {
+      "id": "perspective_taking",
+      "label": "Perspective Taking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 6
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 6
+    },
+    "allocentric_representation": {
+      "id": "allocentric_representation",
+      "label": "Allocentric Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "place_cells": {
+      "id": "place_cells",
+      "label": "Place Cells",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "grid_cells": {
+      "id": "grid_cells",
+      "label": "Grid Cells",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "neural_reuse": {
+      "id": "neural_reuse",
+      "label": "Neural Reuse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "abstract_cognition": {
+      "id": "abstract_cognition",
+      "label": "Abstract Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "cognitive_maps": {
+      "id": "cognitive_maps",
+      "label": "Cognitive Maps",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_heuristics": {
+      "id": "spatial_heuristics",
+      "label": "Spatial Heuristics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "perceptual_bias": {
+      "id": "perceptual_bias",
+      "label": "Perceptual Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "hierarchical_cognition": {
+      "id": "hierarchical_cognition",
+      "label": "Hierarchical Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "in_group_out_group_bias": {
+      "id": "in_group_out_group_bias",
+      "label": "In Group Out Group Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "mental_rotation": {
+      "id": "mental_rotation",
+      "label": "Mental Rotation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_ability": {
+      "id": "spatial_ability",
+      "label": "Spatial Ability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 3
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 3
+    },
+    "motor_imagery": {
+      "id": "motor_imagery",
+      "label": "Motor Imagery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_perspective_taking": {
+      "id": "spatial_perspective_taking",
+      "label": "Spatial Perspective Taking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "mental_construction": {
+      "id": "mental_construction",
+      "label": "Mental Construction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_reasoning": {
+      "id": "spatial_reasoning",
+      "label": "Spatial Reasoning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "analogy": {
+      "id": "analogy",
+      "label": "Analogy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "mental_animation": {
+      "id": "mental_animation",
+      "label": "Mental Animation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "mechanical_reasoning": {
+      "id": "mechanical_reasoning",
+      "label": "Mechanical Reasoning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "stem_education": {
+      "id": "stem_education",
+      "label": "Stem Education",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "gesture_development": {
+      "id": "gesture_development",
+      "label": "Gesture Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "embodied_communication": {
+      "id": "embodied_communication",
+      "label": "Embodied Communication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "gesture_cognition": {
+      "id": "gesture_cognition",
+      "label": "Gesture Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 3
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 3
+    },
+    "cognitive_offloading": {
+      "id": "cognitive_offloading",
+      "label": "Cognitive Offloading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "gesture_social_function": {
+      "id": "gesture_social_function",
+      "label": "Gesture Social Function",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "collaboration": {
+      "id": "collaboration",
+      "label": "Collaboration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "entrainment": {
+      "id": "entrainment",
+      "label": "Entrainment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_language": {
+      "id": "spatial_language",
+      "label": "Spatial Language",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 3
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 3
+    },
+    "temporal_cognition": {
+      "id": "temporal_cognition",
+      "label": "Temporal Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "causal_reasoning": {
+      "id": "causal_reasoning",
+      "label": "Causal Reasoning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "reference_frames": {
+      "id": "reference_frames",
+      "label": "Reference Frames",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_discourse": {
+      "id": "spatial_discourse",
+      "label": "Spatial Discourse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "perspective_mixing": {
+      "id": "perspective_mixing",
+      "label": "Perspective Mixing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "network_cognition": {
+      "id": "network_cognition",
+      "label": "Network Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "spatial_metaphor": {
+      "id": "spatial_metaphor",
+      "label": "Spatial Metaphor",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "temporal_representation": {
+      "id": "temporal_representation",
+      "label": "Temporal Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "linear_bias": {
+      "id": "linear_bias",
+      "label": "Linear Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "numerical_cognition": {
+      "id": "numerical_cognition",
+      "label": "Numerical Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cultural_invention": {
+      "id": "cultural_invention",
+      "label": "Cultural Invention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "approximate_number_system": {
+      "id": "approximate_number_system",
+      "label": "Approximate Number System",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "weber_fechner_function": {
+      "id": "weber_fechner_function",
+      "label": "Weber Fechner Function",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "ordinal_cognition": {
+      "id": "ordinal_cognition",
+      "label": "Ordinal Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "external_representation": {
+      "id": "external_representation",
+      "label": "External Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "notation_systems": {
+      "id": "notation_systems",
+      "label": "Notation Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "information_design": {
+      "id": "information_design",
+      "label": "Information Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "cognitive_design": {
+      "id": "cognitive_design",
+      "label": "Cognitive Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "empirical_methods": {
+      "id": "empirical_methods",
+      "label": "Empirical Methods",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "diagram_semantics": {
+      "id": "diagram_semantics",
+      "label": "Diagram Semantics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "visual_narrative": {
+      "id": "visual_narrative",
+      "label": "Visual Narrative",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cultural_cognition": {
+      "id": "cultural_cognition",
+      "label": "Cultural Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "creative_cognition": {
+      "id": "creative_cognition",
+      "label": "Creative Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 2
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 2
+    },
+    "visual_thinking": {
+      "id": "visual_thinking",
+      "label": "Visual Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "visual_learning": {
+      "id": "visual_learning",
+      "label": "Visual Learning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "design_cognition": {
+      "id": "design_cognition",
+      "label": "Design Cognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "divergent_thinking": {
+      "id": "divergent_thinking",
+      "label": "Divergent Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "forecasting": {
+      "id": "forecasting",
+      "label": "Forecasting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_organization": {
+      "id": "cognitive_organization",
+      "label": "Cognitive Organization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "technological_affordance": {
+      "id": "technological_affordance",
+      "label": "Technological Affordance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "mind in motion": 1
+      },
+      "books": [
+        "mind in motion"
+      ],
+      "claim_count": 1
+    },
+    "nightside_consciousness": {
+      "id": "nightside_consciousness",
+      "label": "Nightside Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "typhonian_tradition": {
+      "id": "typhonian_tradition",
+      "label": "Typhonian Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "magical_current": {
+      "id": "magical_current",
+      "label": "Magical Current",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "antinomian_religion": {
+      "id": "antinomian_religion",
+      "label": "Antinomian Religion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "ancient_aliens": {
+      "id": "ancient_aliens",
+      "label": "Ancient Aliens",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "esoteric_heresy": {
+      "id": "esoteric_heresy",
+      "label": "Esoteric Heresy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "channeled_scripture": {
+      "id": "channeled_scripture",
+      "label": "Channeled Scripture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "thelemic_aeon": {
+      "id": "thelemic_aeon",
+      "label": "Thelemic Aeon",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "initiatory_system": {
+      "id": "initiatory_system",
+      "label": "Initiatory System",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "ritual_context": {
+      "id": "ritual_context",
+      "label": "Ritual Context",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "gnostic_aeons": {
+      "id": "gnostic_aeons",
+      "label": "Gnostic Aeons",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "overlapping_cycles": {
+      "id": "overlapping_cycles",
+      "label": "Overlapping Cycles",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "occult_colonialism": {
+      "id": "occult_colonialism",
+      "label": "Occult Colonialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "thelemic_theology": {
+      "id": "thelemic_theology",
+      "label": "Thelemic Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "dark_lord": {
+      "id": "dark_lord",
+      "label": "Dark Lord",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "parallel_revelation": {
+      "id": "parallel_revelation",
+      "label": "Parallel Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "tantric_deity": {
+      "id": "tantric_deity",
+      "label": "Tantric Deity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "sexual_magic": {
+      "id": "sexual_magic",
+      "label": "Sexual Magic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "kabbalistic_nightside": {
+      "id": "kabbalistic_nightside",
+      "label": "Kabbalistic Nightside",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "sumerian_religion": {
+      "id": "sumerian_religion",
+      "label": "Sumerian Religion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "religious_survival": {
+      "id": "religious_survival",
+      "label": "Religious Survival",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "afro_caribbean_religion": {
+      "id": "afro_caribbean_religion",
+      "label": "Afro Caribbean Religion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "power_zones": {
+      "id": "power_zones",
+      "label": "Power Zones",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "syncretic_magic": {
+      "id": "syncretic_magic",
+      "label": "Syncretic Magic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "vodun": {
+      "id": "vodun",
+      "label": "Vodun",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "magical_technology": {
+      "id": "magical_technology",
+      "label": "Magical Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "tantra": {
+      "id": "tantra",
+      "label": "Tantra",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "sri_vidya": {
+      "id": "sri_vidya",
+      "label": "Sri Vidya",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "kalas": {
+      "id": "kalas",
+      "label": "Kalas",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "lunar_cycle": {
+      "id": "lunar_cycle",
+      "label": "Lunar Cycle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "sexual_alchemy": {
+      "id": "sexual_alchemy",
+      "label": "Sexual Alchemy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "artistic_transmission": {
+      "id": "artistic_transmission",
+      "label": "Artistic Transmission",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "magical_manifestation": {
+      "id": "magical_manifestation",
+      "label": "Magical Manifestation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "death_rebirth": {
+      "id": "death_rebirth",
+      "label": "Death Rebirth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "stellar_magic": {
+      "id": "stellar_magic",
+      "label": "Stellar Magic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "circumpolar_stars": {
+      "id": "circumpolar_stars",
+      "label": "Circumpolar Stars",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "liminal_timing": {
+      "id": "liminal_timing",
+      "label": "Liminal Timing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "reptilian_brain": {
+      "id": "reptilian_brain",
+      "label": "Reptilian Brain",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 2
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 2
+    },
+    "jungian_shadow": {
+      "id": "jungian_shadow",
+      "label": "Jungian Shadow",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "occult_book": {
+      "id": "occult_book",
+      "label": "Occult Book",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "gnostic_marriage": {
+      "id": "gnostic_marriage",
+      "label": "Gnostic Marriage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "magical_offspring": {
+      "id": "magical_offspring",
+      "label": "Magical Offspring",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "magical_conception": {
+      "id": "magical_conception",
+      "label": "Magical Conception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "hybrid_beings": {
+      "id": "hybrid_beings",
+      "label": "Hybrid Beings",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "kaula_tantra": {
+      "id": "kaula_tantra",
+      "label": "Kaula Tantra",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "deity_assumption": {
+      "id": "deity_assumption",
+      "label": "Deity Assumption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "sexual_retention": {
+      "id": "sexual_retention",
+      "label": "Sexual Retention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "sexual_ambivalence": {
+      "id": "sexual_ambivalence",
+      "label": "Sexual Ambivalence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "occult_sensitivity": {
+      "id": "occult_sensitivity",
+      "label": "Occult Sensitivity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "mandala_cosmology": {
+      "id": "mandala_cosmology",
+      "label": "Mandala Cosmology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "tunnels_of_set": {
+      "id": "tunnels_of_set",
+      "label": "Tunnels Of Set",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "babalon_working": {
+      "id": "babalon_working",
+      "label": "Babalon Working",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "ufos": {
+      "id": "ufos",
+      "label": "Ufos",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "necromancy": {
+      "id": "necromancy",
+      "label": "Necromancy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "occult_obsession": {
+      "id": "occult_obsession",
+      "label": "Occult Obsession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "typhonian_order": {
+      "id": "typhonian_order",
+      "label": "Typhonian Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "retroversion": {
+      "id": "retroversion",
+      "label": "Retroversion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "lovecraftian_mythology": {
+      "id": "lovecraftian_mythology",
+      "label": "Lovecraftian Mythology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "magical_narrative": {
+      "id": "magical_narrative",
+      "label": "Magical Narrative",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "new_grimoire": {
+      "id": "new_grimoire",
+      "label": "New Grimoire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "antichrist": {
+      "id": "antichrist",
+      "label": "Antichrist",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "occult_mortality": {
+      "id": "occult_mortality",
+      "label": "Occult Mortality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "cyclical_cosmology": {
+      "id": "cyclical_cosmology",
+      "label": "Cyclical Cosmology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "gate_opening": {
+      "id": "gate_opening",
+      "label": "Gate Opening",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "ongoing_magic": {
+      "id": "ongoing_magic",
+      "label": "Ongoing Magic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the dark lord": 1
+      },
+      "books": [
+        "the dark lord"
+      ],
+      "claim_count": 1
+    },
+    "religious_misrepresentation": {
+      "id": "religious_misrepresentation",
+      "label": "Religious Misrepresentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "western_occult_tradition": {
+      "id": "western_occult_tradition",
+      "label": "Western Occult Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "sovereignty_of_self": {
+      "id": "sovereignty_of_self",
+      "label": "Sovereignty Of Self",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "sexual_magick": {
+      "id": "sexual_magick",
+      "label": "Sexual Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 4
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 4
+    },
+    "magical_systems": {
+      "id": "magical_systems",
+      "label": "Magical Systems",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "consciousness_typology": {
+      "id": "consciousness_typology",
+      "label": "Consciousness Typology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "aeon_theory": {
+      "id": "aeon_theory",
+      "label": "Aeon Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 3
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 3
+    },
+    "polarity_of_consciousness": {
+      "id": "polarity_of_consciousness",
+      "label": "Polarity Of Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "will_and_imagination": {
+      "id": "will_and_imagination",
+      "label": "Will And Imagination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "astral_parasitism": {
+      "id": "astral_parasitism",
+      "label": "Astral Parasitism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "tantric_practice": {
+      "id": "tantric_practice",
+      "label": "Tantric Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 3
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 3
+    },
+    "power_and_virtue": {
+      "id": "power_and_virtue",
+      "label": "Power And Virtue",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "occult_orders": {
+      "id": "occult_orders",
+      "label": "Occult Orders",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "mythological_parallels": {
+      "id": "mythological_parallels",
+      "label": "Mythological Parallels",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_generation": {
+      "id": "magical_generation",
+      "label": "Magical Generation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "occult_astronomy": {
+      "id": "occult_astronomy",
+      "label": "Occult Astronomy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "esoteric_lineage": {
+      "id": "esoteric_lineage",
+      "label": "Esoteric Lineage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "devil_mythology": {
+      "id": "devil_mythology",
+      "label": "Devil Mythology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "duality_symbolism": {
+      "id": "duality_symbolism",
+      "label": "Duality Symbolism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "mythological_continuity": {
+      "id": "mythological_continuity",
+      "label": "Mythological Continuity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "egyptian_history": {
+      "id": "egyptian_history",
+      "label": "Egyptian History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "astronomical_religion": {
+      "id": "astronomical_religion",
+      "label": "Astronomical Religion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "ritual_orientation": {
+      "id": "ritual_orientation",
+      "label": "Ritual Orientation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "myth_and_society": {
+      "id": "myth_and_society",
+      "label": "Myth And Society",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "patriarchy_and_matriarchy": {
+      "id": "patriarchy_and_matriarchy",
+      "label": "Patriarchy And Matriarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "religious_change": {
+      "id": "religious_change",
+      "label": "Religious Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_revival": {
+      "id": "magical_revival",
+      "label": "Magical Revival",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "experimental_mysticism": {
+      "id": "experimental_mysticism",
+      "label": "Experimental Mysticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "guru_disciple_relationship": {
+      "id": "guru_disciple_relationship",
+      "label": "Guru Disciple Relationship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "shamanic_practice": {
+      "id": "shamanic_practice",
+      "label": "Shamanic Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "sacred_intoxicants": {
+      "id": "sacred_intoxicants",
+      "label": "Sacred Intoxicants",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "will_and_consciousness": {
+      "id": "will_and_consciousness",
+      "label": "Will And Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "addiction_and_will": {
+      "id": "addiction_and_will",
+      "label": "Addiction And Will",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "occult_consciousness": {
+      "id": "occult_consciousness",
+      "label": "Occult Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "fear_of_the_abyss": {
+      "id": "fear_of_the_abyss",
+      "label": "Fear Of The Abyss",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "ritual_restoration": {
+      "id": "ritual_restoration",
+      "label": "Ritual Restoration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "goetic_tradition": {
+      "id": "goetic_tradition",
+      "label": "Goetic Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "enochian_magick": {
+      "id": "enochian_magick",
+      "label": "Enochian Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_synthesis": {
+      "id": "magical_synthesis",
+      "label": "Magical Synthesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "qabalah": {
+      "id": "qabalah",
+      "label": "Qabalah",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "literary_parallels": {
+      "id": "literary_parallels",
+      "label": "Literary Parallels",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "new_aeon_consciousness": {
+      "id": "new_aeon_consciousness",
+      "label": "New Aeon Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "tantric_physiology": {
+      "id": "tantric_physiology",
+      "label": "Tantric Physiology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "sacred_secretions": {
+      "id": "sacred_secretions",
+      "label": "Sacred Secretions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "occult_degrees": {
+      "id": "occult_degrees",
+      "label": "Occult Degrees",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "feminine_sacred": {
+      "id": "feminine_sacred",
+      "label": "Feminine Sacred",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "thelemic_doctrine": {
+      "id": "thelemic_doctrine",
+      "label": "Thelemic Doctrine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "lunar_magick": {
+      "id": "lunar_magick",
+      "label": "Lunar Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "menstrual_mysticism": {
+      "id": "menstrual_mysticism",
+      "label": "Menstrual Mysticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "tantric_philosophy": {
+      "id": "tantric_philosophy",
+      "label": "Tantric Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "non_dualism": {
+      "id": "non_dualism",
+      "label": "Non Dualism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 3
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 3
+    },
+    "blood_ritual": {
+      "id": "blood_ritual",
+      "label": "Blood Ritual",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "spirit_materialization": {
+      "id": "spirit_materialization",
+      "label": "Spirit Materialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "sacramental_magick": {
+      "id": "sacramental_magick",
+      "label": "Sacramental Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "black_magick": {
+      "id": "black_magick",
+      "label": "Black Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "soul_enslavement": {
+      "id": "soul_enslavement",
+      "label": "Soul Enslavement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "death_and_consciousness": {
+      "id": "death_and_consciousness",
+      "label": "Death And Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "initiatory_failure": {
+      "id": "initiatory_failure",
+      "label": "Initiatory Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "magical_succession": {
+      "id": "magical_succession",
+      "label": "Magical Succession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "ego_and_mysticism": {
+      "id": "ego_and_mysticism",
+      "label": "Ego And Mysticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "magical_revelation": {
+      "id": "magical_revelation",
+      "label": "Magical Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_failure": {
+      "id": "magical_failure",
+      "label": "Magical Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "astrological_analysis": {
+      "id": "astrological_analysis",
+      "label": "Astrological Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_working": {
+      "id": "magical_working",
+      "label": "Magical Working",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "elemental_evocation": {
+      "id": "elemental_evocation",
+      "label": "Elemental Evocation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "occult_failure": {
+      "id": "occult_failure",
+      "label": "Occult Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_self_assessment": {
+      "id": "magical_self_assessment",
+      "label": "Magical Self Assessment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "psychic_attack": {
+      "id": "psychic_attack",
+      "label": "Psychic Attack",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "occult_biography": {
+      "id": "occult_biography",
+      "label": "Occult Biography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 2
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 2
+    },
+    "occult_fiction": {
+      "id": "occult_fiction",
+      "label": "Occult Fiction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "thought_form_materialization": {
+      "id": "thought_form_materialization",
+      "label": "Thought Form Materialization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "sigil_magick": {
+      "id": "sigil_magick",
+      "label": "Sigil Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "atavistic_resurgence": {
+      "id": "atavistic_resurgence",
+      "label": "Atavistic Resurgence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "auto_erotic_ritual": {
+      "id": "auto_erotic_ritual",
+      "label": "Auto Erotic Ritual",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "death_posture": {
+      "id": "death_posture",
+      "label": "Death Posture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "kia_philosophy": {
+      "id": "kia_philosophy",
+      "label": "Kia Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "new_sexuality": {
+      "id": "new_sexuality",
+      "label": "New Sexuality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "taoism": {
+      "id": "taoism",
+      "label": "Taoism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "ritual_magick": {
+      "id": "ritual_magick",
+      "label": "Ritual Magick",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "thelemic_cosmology": {
+      "id": "thelemic_cosmology",
+      "label": "Thelemic Cosmology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "evolutionary_consciousness": {
+      "id": "evolutionary_consciousness",
+      "label": "Evolutionary Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
+    },
+    "magical_urgency": {
+      "id": "magical_urgency",
+      "label": "Magical Urgency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the magical revival": 1
+      },
+      "books": [
+        "the magical revival"
+      ],
+      "claim_count": 1
     }
   },
   "stats": {
-    "total_concepts": 23661,
-    "total_claims": 39851,
-    "books_indexed": 134
+    "total_concepts": 23911,
+    "total_claims": 40328,
+    "books_indexed": 137
   }
 }

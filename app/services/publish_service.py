@@ -30,6 +30,7 @@ class PublishOptions:
     reconcile_mode: str = "none"
     sync_vectors: bool = False
     run_integrity: bool = True
+    book_filters: tuple[str, ...] | None = None
 
 
 @dataclass(frozen=True)
@@ -52,15 +53,22 @@ class PublishRunResult:
 
 def publish_run(options: PublishOptions) -> PublishRunResult:
     """Run the end-to-end publish workflow and return structured step results."""
+    book_filters = (
+        tuple(dict.fromkeys(options.book_filters))
+        if options.book_filters is not None
+        else None
+    )
+    scope = "all books" if book_filters is None else ", ".join(book_filters) or "no books"
     log.info("=" * 50)
     log.info("Publishing notes to blog...")
     log.info("=" * 50)
     log.info(
-        "Publish options: integrity=%s, reconcile=%s, sync_vectors=%s"
+        "Publish options: integrity=%s, reconcile=%s, sync_vectors=%s, scope=%s"
         % (
             "on" if options.run_integrity else "off",
             options.reconcile_mode,
             "on" if options.sync_vectors else "off",
+            scope,
         )
     )
 
@@ -73,7 +81,7 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
         steps.append(
             PublishStep(
                 f"Reconciling vectors ({options.reconcile_mode})",
-                lambda: run_reconcile(options.reconcile_mode),
+                lambda: run_reconcile(options.reconcile_mode, books=book_filters),
                 True,
             )
         )
@@ -97,7 +105,13 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
     )
 
     if options.sync_vectors:
-        steps.append(PublishStep("Syncing vectors to Postgres", sync_vectors_to_postgres, False))
+        steps.append(
+            PublishStep(
+                "Syncing vectors to Postgres",
+                lambda: sync_vectors_to_postgres(books=book_filters),
+                False,
+            )
+        )
 
     total_steps = len(steps)
     results: list[tuple[str, StepResult]] = []

@@ -40,8 +40,15 @@ def main():
     )
     parser.add_argument(
         "--sync-vectors",
+        "--sync",
         action="store_true",
+        dest="sync_vectors",
         help="Sync local vectors to Postgres after build"
+    )
+    parser.add_argument(
+        "--book",
+        action="append",
+        help="Scope reconcile/vector sync to a book slug/filter (repeatable)"
     )
     parser.add_argument(
         "--skip-integrity",
@@ -57,6 +64,7 @@ def main():
                 reconcile_mode=args.reconcile,
                 sync_vectors=args.sync_vectors,
                 run_integrity=not args.skip_integrity,
+                book_filters=tuple(args.book) if args.book is not None else None,
             )
         )
         sys.exit(0 if success else 1)

@@ -224,6 +224,84 @@ class PublishServiceTests(unittest.TestCase):
 
 
 class WorkflowScriptTests(unittest.TestCase):
+    def test_changed_book_filters_detect_canonical_books(self):
+        status = (
+            " M README.md\0"
+            " M index/_concepts.json\0"
+            "?? index/mind in motion.json\0"
+            "?? notes/mind in motion.md\0"
+            "?? notes/mind in motion.test.md\0"
+            "?? blog/content/books/mind-in-motion.md\0"
+            "?? index/the dark lord.json\0"
+        )
+
+        with mock.patch.object(
+            workflow,
+            "run_captured_cmd",
+            return_value=subprocess.CompletedProcess([], 0, status, ""),
+        ):
+            books = workflow.get_changed_book_filters()
+
+        self.assertEqual(books, ["mind in motion", "the dark lord"])
+
+    def test_publish_command_changed_only_scopes_expensive_steps(self):
+        args = SimpleNamespace(
+            reconcile="full",
+            sync_vectors=True,
+            skip_integrity=False,
+            changed_only=True,
+            book=None,
+        )
+
+        with (
+            mock.patch.object(
+                workflow,
+                "get_changed_book_filters",
+                return_value=["mind in motion", "the dark lord"],
+            ),
+            mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
+        ):
+            rc = workflow.publish_command(args)
+
+        self.assertEqual(rc, 0)
+        run_cmd.assert_called_once_with(
+            [
+                workflow.PYTHON,
+                "app/cli/publish.py",
+                "publish",
+                "--reconcile",
+                "full",
+                "--sync-vectors",
+                "--book",
+                "mind in motion",
+                "--book",
+                "the dark lord",
+            ]
+        )
+
+    def test_publish_command_changed_only_skips_sync_when_no_books_changed(self):
+        args = SimpleNamespace(
+            reconcile="full",
+            sync_vectors=True,
+            skip_integrity=False,
+            changed_only=True,
+            book=None,
+        )
+        error = StringIO()
+
+        with (
+            mock.patch.object(workflow, "get_changed_book_filters", return_value=[]),
+            mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
+            redirect_stderr(error),
+        ):
+            rc = workflow.publish_command(args)
+
+        self.assertEqual(rc, 0)
+        run_cmd.assert_called_once_with(
+            [workflow.PYTHON, "app/cli/publish.py", "publish"]
+        )
+        self.assertIn("skipping reconcile/vector sync", error.getvalue())
+
     def test_add_forwards_selected_flags_to_main_cli(self):
         args = SimpleNamespace(
             book="book name",
@@ -716,6 +794,40 @@ class MaintenanceServiceTests(unittest.TestCase):
             warning_returncodes={maintenance_service.RECONCILE_PARTIAL_EXIT_CODE},
         )
 
+    def test_run_reconcile_forwards_book_filters(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            script_path = root / "scripts" / "reconcile_vectors.py"
+            script_path.parent.mkdir(parents=True)
+            script_path.write_text("#!/usr/bin/env python3\n")
+
+            with (
+                mock.patch.object(maintenance_service, "PROJECT_ROOT", root),
+                mock.patch.object(
+                    maintenance_service,
+                    "_stream_command",
+                    return_value=StepResult.success(),
+                ) as stream,
+            ):
+                ok = maintenance_service.run_reconcile(
+                    "full", books=("mind in motion", "the dark lord")
+                )
+
+        self.assertTrue(ok.ok)
+        stream.assert_called_once_with(
+            [
+                maintenance_service.PYTHON,
+                str(script_path),
+                "--apply-all",
+                "--book",
+                "mind in motion",
+                "--book",
+                "the dark lord",
+            ],
+            cwd=root,
+            warning_returncodes={maintenance_service.RECONCILE_PARTIAL_EXIT_CODE},
+        )
+
     def test_run_integrity_check_builds_allow_drift_flag(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
@@ -759,6 +871,37 @@ class MaintenanceServiceTests(unittest.TestCase):
         self.assertTrue(ok.ok)
         self.assertTrue(ok.is_skipped)
         stream.assert_not_called()
+
+    def test_sync_vectors_to_postgres_forwards_book_filters(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            script_path = root / "scripts" / "migrate-vectors.py"
+            script_path.parent.mkdir(parents=True)
+            script_path.write_text("#!/usr/bin/env python3\n")
+
+            with (
+                mock.patch.object(maintenance_service, "PROJECT_ROOT", root),
+                mock.patch.object(
+                    maintenance_service,
+                    "_stream_command",
+                    return_value=StepResult.success(),
+                ) as stream,
+                mock.patch.dict(os.environ, {"DATABASE_URL_UNPOOLED": "postgres://db"}),
+            ):
+                ok = maintenance_service.sync_vectors_to_postgres(
+                    books=("mind in motion",)
+                )
+
+        self.assertTrue(ok.ok)
+        stream.assert_called_once_with(
+            [
+                maintenance_service.PYTHON,
+                str(script_path),
+                "--book",
+                "mind in motion",
+            ],
+            cwd=root,
+        )
 
 
 class IngestServiceInteractionTests(unittest.TestCase):

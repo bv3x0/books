@@ -72,11 +72,20 @@ def run_integrity_check(allow_vector_drift: bool = True) -> StepResult:
     return _stream_command(cmd, cwd=PROJECT_ROOT)
 
 
-def run_reconcile(mode: str) -> StepResult:
+def _append_book_filters(cmd: list[str], books: tuple[str, ...] | list[str] | None) -> None:
+    if not books:
+        return
+    for book in books:
+        cmd.extend(["--book", book])
+
+
+def run_reconcile(mode: str, books: tuple[str, ...] | list[str] | None = None) -> StepResult:
     """Reconcile vectors/index consistency before publish."""
     normalized_mode = (mode or "none").lower()
     if normalized_mode == "none":
         return StepResult.skipped("Reconcile disabled")
+    if books is not None and not books:
+        return StepResult.skipped("Reconcile skipped: no scoped books")
 
     script_path = PROJECT_ROOT / "scripts" / "reconcile_vectors.py"
     if not script_path.exists():
@@ -91,6 +100,7 @@ def run_reconcile(mode: str) -> StepResult:
     else:
         log.error(f"Unknown reconcile mode: {mode}")
         return StepResult.failed(f"Unknown reconcile mode: {mode}")
+    _append_book_filters(cmd, books)
 
     return _stream_command(
         cmd,
@@ -105,8 +115,11 @@ def report_vector_backlog() -> StepResult:
     return StepResult.success() if ok else StepResult.warning("Backlog report had warnings")
 
 
-def sync_vectors_to_postgres() -> StepResult:
+def sync_vectors_to_postgres(books: tuple[str, ...] | list[str] | None = None) -> StepResult:
     """Sync local SQLite vectors to Postgres for semantic search."""
+    if books is not None and not books:
+        return StepResult.skipped("Vector sync skipped: no scoped books")
+
     script_path = PROJECT_ROOT / "scripts" / "migrate-vectors.py"
     if not script_path.exists():
         log.warning("Vector migration script not found, skipping")
@@ -119,4 +132,6 @@ def sync_vectors_to_postgres() -> StepResult:
         log.warning("  (Semantic search will use stale data until vectors are synced)")
         return StepResult.skipped("Vector sync skipped: Postgres env not set")
 
-    return _stream_command([PYTHON, str(script_path)], cwd=PROJECT_ROOT)
+    cmd = [PYTHON, str(script_path)]
+    _append_book_filters(cmd, books)
+    return _stream_command(cmd, cwd=PROJECT_ROOT)

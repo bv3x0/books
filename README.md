@@ -8,6 +8,9 @@ A PDF/EPUB book summarizer that generates detailed chapter outlines with structu
 # Best results: add one book, run smoke checks, repair vectors, publish, push, and sync Postgres
 python3 scripts/workflow.py add "book-name"
 python3 scripts/workflow.py smoke
+python3 scripts/workflow.py ship --changed-only --reconcile full --sync
+
+# Periodically, run the full reconcile/sync workflow:
 python3 scripts/workflow.py ship --reconcile full --sync-vectors
 
 # Batch ingest: process multiple books in one run from a manifest
@@ -343,15 +346,19 @@ python3 scripts/workflow.py publish                    # Fast publish (includes 
 python3 scripts/workflow.py publish --reconcile reuse  # Publish + reuse-only repair
 python3 scripts/workflow.py publish --reconcile full   # Publish + full repair (--apply-all)
 python3 scripts/workflow.py publish --sync-vectors     # Publish + sync vectors to Postgres
+python3 scripts/workflow.py publish --changed-only --reconcile full --sync  # Scope repair/sync to changed books
+python3 scripts/workflow.py publish --book "book-name" --reconcile full --sync  # Scope repair/sync manually
 python3 scripts/workflow.py publish --skip-integrity   # Skip integrity gate before build
 python3 scripts/workflow.py ship                       # Publish, then commit/push from main
 python3 scripts/workflow.py ship --allow-preview       # Publish, then commit/push a non-main branch for preview only
 python3 scripts/workflow.py ship --deploy-production   # Publish, then commit/push and deploy current worktree to Vercel production
 python3 scripts/workflow.py ship --no-gpg-sign         # Publish, commit without GPG signing, then ship
 python3 scripts/workflow.py ship --reconcile full      # Repair, publish, then ship
+python3 scripts/workflow.py ship --changed-only --reconcile full --sync  # Fast daily scoped repair/sync
 python3 app/cli/publish.py publish                     # Direct publish CLI
 python3 app/cli/publish.py publish --reconcile reuse   # Direct CLI with vector repair
 python3 app/cli/publish.py publish --sync-vectors      # Direct CLI with Postgres sync
+python3 app/cli/publish.py publish --book "book-name" --reconcile full --sync  # Direct scoped repair/sync
 python3 app/cli/publish.py publish --skip-integrity    # Direct CLI without integrity gate
 python3 app/cli/publish.py serve                       # Local dev at http://localhost:1313/
 python3 app/cli/publish.py serve --port 1314           # Local dev on a custom port
@@ -362,7 +369,9 @@ Default `publish` tolerates expected vector lag from core ingest and still block
 Wrapper flags:
 
 - `python3 scripts/workflow.py publish --reconcile {none,reuse,full}` runs vector/index repair before the build
-- `python3 scripts/workflow.py publish --sync-vectors` migrates local vectors to Postgres after the build
+- `python3 scripts/workflow.py publish --sync-vectors` / `--sync` migrates local vectors to Postgres after the build
+- `python3 scripts/workflow.py publish --changed-only` scopes reconcile/vector sync to changed canonical `notes/*.md` and `index/*.json` books
+- `python3 scripts/workflow.py publish --book "book-name"` scopes reconcile/vector sync to an explicit book filter
 - `python3 scripts/workflow.py publish --skip-integrity` bypasses `scripts/check_integrity.py`
 - `python3 scripts/workflow.py ship ...` accepts the same publish flags, then stages, commits, and pushes
 - `python3 scripts/workflow.py ship` refuses to run silently from non-`main` branches unless you choose `--allow-preview` or `--deploy-production`
@@ -373,7 +382,8 @@ Wrapper flags:
 Direct CLI flags:
 
 - `python3 app/cli/publish.py publish --reconcile {none,reuse,full}` matches the wrapper repair modes
-- `python3 app/cli/publish.py publish --sync-vectors` syncs vectors after a successful build
+- `python3 app/cli/publish.py publish --sync-vectors` / `--sync` syncs vectors after a successful build
+- `python3 app/cli/publish.py publish --book "book-name"` scopes reconcile/vector sync to an explicit book filter
 - `python3 app/cli/publish.py publish --skip-integrity` skips the pre-build integrity gate
 - `python3 app/cli/publish.py serve --port 1314` changes the local Hugo dev port
 

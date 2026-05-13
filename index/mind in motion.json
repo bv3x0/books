@@ -1,0 +1,1860 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Mind in Motion: How Action Shapes Thought",
+    "author": "Barbara Tversky",
+    "year": 2019,
+    "categories": [
+      "psychology",
+      "science",
+      "social science"
+    ],
+    "thesis": "Spatial thinking\u2014rooted in perception of and action in space\u2014is the foundation for all abstract thought, with the same neural and cognitive structures that represent physical space also organizing conceptual, social, and temporal reasoning."
+  },
+  "claims": [
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-001",
+      "text": "Space places two fundamental constraints on movement\u2014proximity (near is easier than far) and gravity (up is more effortful than down)\u2014that are reflected directly in the structure of thought.",
+      "chapter": "Prologue: Moving in Space: The Foundation of Thought",
+      "concepts": [
+        "spatial_cognition",
+        "embodied_metaphor",
+        "cognitive_foundations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Even sedentary plants must move; movement is the background condition for all life and all thought.",
+          "speaker": null
+        },
+        {
+          "text": "Because going up requires more resources (strength, energy), upward spatial metaphors consistently map onto value and power in abstract thought.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-002",
+      "text": "To think about the world, the mind must freeze the constant flux of reality into static entities\u2014words and concepts\u2014even though the world itself never stops moving.",
+      "chapter": "Prologue: Moving in Space: The Foundation of Thought",
+      "concepts": [
+        "abstraction",
+        "reification",
+        "cognitive_representation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "We carve entities out of space and time\u2014people, places, things, events\u2014then freeze them into words and concepts in order to act on them mentally.",
+          "speaker": null
+        },
+        {
+          "text": "This necessary reification is the origin of abstract thought: stopping motion to create thinkable objects.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-003",
+      "text": "The book's central premise is that spatial thinking is the foundation\u2014not the entire edifice\u2014of all thought, including the most abstract reasoning about time, causality, social relations, and science.",
+      "chapter": "Prologue: Moving in Space: The Foundation of Thought",
+      "concepts": [
+        "spatial_cognition",
+        "abstract_reasoning",
+        "cognitive_foundations"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The two-part structure of the book mirrors this: Part I shows how we think about space; Part II shows how we use space to think.",
+          "speaker": null
+        },
+        {
+          "text": "Trying to describe a friend's face or recall how to fold a sweater reveals that words alone are insufficient\u2014spatial cognition does work language cannot.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-004",
+      "text": "Unlike all other objects we recognize by external contour, we have an insider perspective on our own bodies\u2014we know what they feel like and what their actions mean\u2014allowing us to map others' bodies onto our own.",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "embodied_cognition",
+        "body_schema",
+        "cortical_representation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "We recognize chairs and dogs by their shapes, but we know what it feels like to slump or stretch, to laugh or cry, giving body knowledge a unique depth unavailable for any other category of object.",
+          "speaker": null
+        },
+        {
+          "text": "The cortical homunculus maps the body onto the brain with sizes proportional to functional importance, not physical size\u2014hands and face are massively overrepresented relative to the torso.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-005",
+      "text": "Functional significance trumps physical size both in the brain's cortical map and in human cognition: body parts rated most significant (head, hands) correspond to large cortical territories and are mentally accessed faster than larger but less significant parts (back, legs).",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "functional_significance",
+        "cortical_representation",
+        "cognitive_salience"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Experiments using same/different judgments of highlighted body parts showed that significant parts (head, hands) were recognized faster than large but less functionally central parts.",
+          "speaker": null
+        },
+        {
+          "text": "Associations to names of body parts are more abstract than associations to pictures of those parts, reflecting the First General Fact: associations to names are more abstract than associations to pictures.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-006",
+      "text": "Action molds perception: experience using tools enlarges the brain's body schema to include the tools, and prismatic lens experiments show that seeing without acting produces no perceptual adaptation, while acting does.",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "action_perception_coupling",
+        "neuroplasticity",
+        "tool_use"
+      ],
+      "entities": {
+        "people": [
+          "George Stratton"
+        ],
+        "places": [
+          "Berkeley"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Monkeys trained to use hand rakes showed expansion of the brain regions tracking the hand's surrounding space to include the rake after extensive practice.",
+          "speaker": null
+        },
+        {
+          "text": "George Stratton's late-nineteenth-century experiments with distorting lenses showed that passive observers who did not act in a prismatic world did not adapt, while active agents did\u2014establishing the Second Law of Cognition: Action molds perception.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-007",
+      "text": "Mirror neurons, discovered in macaque monkeys by Rizzolatti's Parma group, fire both when an animal performs an action and when it observes another performing the same action, providing a neural basis for understanding others' actions through one's own motor system.",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "mirror_neurons",
+        "motor_resonance",
+        "action_understanding"
+      ],
+      "entities": {
+        "people": [
+          "Giacomo Rizzolatti"
+        ],
+        "places": [
+          "Parma"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Different neurons encode different actions (grasping, throwing, tearing); the same neuron fires for both doing and seeing, uniting action and perception at the single-cell level.",
+          "speaker": null
+        },
+        {
+          "text": "Motor resonance is real: viewing action activates associated motor regions and muscles in the observer, even though actual imitation does not automatically follow.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-008",
+      "text": "Motor expertise enhances action perception: professional basketball players predict shot outcomes better than coaches or sports reporters\u2014even before the ball leaves the shooter's hand\u2014because insider motor knowledge enables superior predictive simulation.",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "motor_expertise",
+        "embodied_simulation",
+        "perceptual_expertise"
+      ],
+      "entities": {
+        "people": [
+          "Gunnar Johansson"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In a study comparing coaches, sports reporters, and players, players were far better at predicting free throws, with advantages visible even from the earliest frames of the shot.",
+          "speaker": null
+        },
+        {
+          "text": "Experts in capoeira and ballet showed greater activation of the mirror system when viewing movements in their own domain of expertise than when viewing the other dance form.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-009",
+      "text": "Complex joint action\u2014like assembling furniture in pairs\u2014proceeds efficiently and largely without words because partners share event schemas (representations of goal-directed action sequences) and use joint attention and rhythm to coordinate complementary roles spontaneously.",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "joint_action",
+        "shared_intentionality",
+        "event_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In TV-cart assembly experiments, pairs of strangers spontaneously divided into 'heavy lifter' and 'attacher' roles, anticipating each other's needs without explicit negotiation.",
+          "speaker": null
+        },
+        {
+          "text": "Coordination requires not just mirror understanding of others' actions but shared knowledge of overall goals and subgoals\u2014joint understanding that resides in each partner's mind but is enacted through objects and partners in the world.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-010",
+      "text": "Recent genetics research supports the metaphor that others are literally parts of us: microchimerism\u2014colonies of genetically foreign DNA colonizing our bodies from fetuses we carried, transplanted organs, or vanished twins\u2014means the boundaries of self defined by skin are less absolute than biology once assumed.",
+      "chapter": "Chapter One: The Space of the Body: Space Is for Action",
+      "concepts": [
+        "biological_identity",
+        "social_embodiment",
+        "epigenetics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Mothers can carry the DNA of children they bore; transplant recipients may carry donor DNA in tissues outside the transplanted organ.",
+          "speaker": null
+        },
+        {
+          "text": "The spiritual metaphor that we are parts of each other's minds has become a genetic reality, extending the chapter's theme that bodies are internalized in other bodies through the mirror system.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-011",
+      "text": "The brain has specialized regions for recognizing faces, bodies, objects, and scenes, allowing identification in a brief glance; but these systems are organized to extract meaning rapidly rather than to represent all details, making rich-seeming perception actually inferential.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "face_recognition",
+        "neural_specialization",
+        "perceptual_learning"
+      ],
+      "entities": {
+        "people": [
+          "Brad Pitt",
+          "Oliver Sacks",
+          "Chuck Close"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The fusiform face area is sensitive to the specific configuration of facial features, not just individual features, which is why prosopagnosia (face blindness) selectively impairs identity recognition while leaving emotion recognition intact.",
+          "speaker": null
+        },
+        {
+          "text": "People who were born blind and gain sight as adults cannot make sense of what they see\u2014demonstrating that face and object recognition requires developmental learning, not just functional vision.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-012",
+      "text": "Basic-level categories (apple, chair, dog) are the default level of reference because they are the most informative level at which category members share a common shape, enabling both rapid recognition and rich behavioral inference\u2014subordinate labels add specificity, superordinate labels sacrifice shape information for function.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "basic_level_categories",
+        "categorical_cognition",
+        "affordances"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Objects at the basic level share characteristic shapes derived from their parts (seat, back, legs for chairs), which serve as bridges between perception and action\u2014chairs afford sitting.",
+          "speaker": null
+        },
+        {
+          "text": "Superordinate categories like 'furniture' or 'vehicle' have no shared shape\u2014a composite of fruit creates a blob\u2014so these are organized by function and learned later, typically in early school years.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-013",
+      "text": "Rapid social judgments of competence from faces predict electoral outcomes better than chance\u2014candidates judged more competent-looking win gubernatorial races 55\u201372% of the time\u2014but these judgments have no validity and can be countered by additional information.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "social_judgment",
+        "heuristics",
+        "electoral_behavior"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Stanford"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In experiments where Stanford students viewed pairs of candidates' faces for fractions of a second, competence judgments predicted gubernatorial and senatorial races in 2006 at 68% and 72% accuracy respectively.",
+          "speaker": null
+        },
+        {
+          "text": "Asking participants to deliberate carefully actually reduced predictability, suggesting the judgments are automatic and not improved by reflection\u2014a cost of the speed-accuracy tradeoff central to the First Law of Cognition.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-014",
+      "text": "When facial expression and body posture convey conflicting emotional information, the body overrides the face: in competitive tennis, a winning body paired with a losing face is judged positive, demonstrating that emotion is distributed across the whole person.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "emotion_recognition",
+        "multimodal_communication",
+        "social_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": [
+          "Inside Out"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Emotional expression is redundant across face, voice, and body, presumably to reduce error; people who are blind grasp emotion from voice, and people who are deaf from face and body.",
+          "speaker": null
+        },
+        {
+          "text": "The Third Law of Cognition\u2014Feeling comes first\u2014is supported by studies showing gut reactions to meaningless forms precede recognition, and liking is higher even for familiar but unrecognized stimuli.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-015",
+      "text": "Change blindness\u2014the failure to notice large changes in scenes during brief interruptions\u2014reveals that we are not recording a veridical image of the world but constructing a plausible interpretation of it, filling in details with categorical inference rather than direct perception.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "change_blindness",
+        "categorical_perception",
+        "top_down_processing"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In a famous demonstration, a person asking for directions was swapped with a different person while a crew carrying a door passed between them; fewer than half of the passersby noticed the substitution.",
+          "speaker": null
+        },
+        {
+          "text": "This illustrates the Fourth Law of Cognition: The mind can override perception\u2014what is in the mind (categorical expectation) overrides what is perceived.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-016",
+      "text": "Categorical thinking is cognitively easier than dimensional thinking and produces systematic errors; Hans Rosling showed that even expert economists vastly overestimate global poverty because they use a two-bin rich/poor model instead of recognizing the four-level continuum of economic development.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "categorical_thinking",
+        "dimensional_reasoning",
+        "economic_development"
+      ],
+      "entities": {
+        "people": [
+          "Hans Rosling"
+        ],
+        "places": [
+          "Karolinska Institute"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Rosling found that using four labeled 'levels' rather than two categories, combined with vivid photographic depictions of life at each level, successfully corrected categorical misconceptions about world poverty.",
+          "speaker": null
+        },
+        {
+          "text": "The key to advancing economic levels is literally means of motion: from foot to bicycle to motor scooter to automobile\u2014spatial mobility drives economic mobility.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-017",
+      "text": "Confirmation bias\u2014the tendency to seek evidence supporting existing hypotheses while discounting counterevidence\u2014is a pervasive property of perception and cognition alike, establishing the Fifth Law of Cognition: Cognition mirrors perception.",
+      "chapter": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "concepts": [
+        "confirmation_bias",
+        "hypothesis_testing",
+        "motivated_reasoning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Princeton",
+          "Dartmouth"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Princeton and Dartmouth students watching the same football film 'saw' different games: Princeton students detected more than twice as many Dartmouth violations as Dartmouth students did.",
+          "speaker": null
+        },
+        {
+          "text": "Blurry-photograph experiments showed that participants who previewed out-of-focus images were actually slower to recognize objects at full clarity because false early hypotheses blocked correct recognition.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-018",
+      "text": "The mind maintains a body-centered spatial framework extending from the three axes of the body (front-back, head-feet, left-right) to track objects in the surrounding world; retrieval from this framework is fastest along the axis most asymmetric in both perception and action.",
+      "chapter": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "concepts": [
+        "spatial_framework",
+        "egocentric_perspective",
+        "body_centered_representation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Experiments using narratives that placed participants in opera houses and construction sites, then asked what was in each direction after imaginary reorientation, showed that when upright, head-feet (aligned with gravity) was fastest, followed by front-back, then left-right.",
+          "speaker": null
+        },
+        {
+          "text": "The spatial framework is transportable: people easily took the perspectives of refrigerators, Homer Simpson dolls, and fictitious characters in imaginary environments, showing that egocentric perspective is not primary\u2014taking other perspectives is often natural and easy.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-019",
+      "text": "When spatial environments are well-learned, memory overrides perception: people respond faster to questions about spatial layout from memory than by looking at the actual environment, illustrating the Fourth Law of Cognition.",
+      "chapter": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "concepts": [
+        "spatial_memory",
+        "perspective_taking",
+        "allocentric_representation"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In novel environments participants looked to find objects (fastest for what was directly in front), but after learning, retrieval switched to the memory-based head-feet > front-back > left-right pattern.",
+          "speaker": null
+        },
+        {
+          "text": "Viewing someone else act spontaneously induces adoption of their perspective rather than one's own\u2014in Patrick experiments, more people answered from his left-right perspective than their own, especially when action was implied.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-020",
+      "text": "Place cells in the hippocampus (firing for specific locations) and grid cells in the entorhinal cortex (organized in a 2D spatial array as a reusable map template) provide the neural substrate for navigation; London taxi drivers' hippocampi grow larger with years of driving, showing experience-dependent plasticity.",
+      "chapter": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "concepts": [
+        "place_cells",
+        "grid_cells",
+        "neuroplasticity"
+      ],
+      "entities": {
+        "people": [
+          "John O'Keefe",
+          "May-Brit Moser",
+          "Edvard Moser"
+        ],
+        "places": [
+          "London"
+        ],
+        "events": [
+          "Nobel Prize 2014"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Grid cells are laid out on a 2D surface and are recalibrated to the boundaries of each new environment; they are not fixed to global coordinates but to local frames of reference.",
+          "speaker": null
+        },
+        {
+          "text": "The Nobel Prize-winning discovery of place and grid cells by John O'Keefe and May-Brit and Edvard Moser showed that spatial navigation has a dedicated, reusable neural architecture.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-021",
+      "text": "The hippocampus and entorhinal cortex, originally evolved for spatial navigation, are reused in humans to represent episodes, abstract concepts, and their relations\u2014the Sixth Law of Cognition: Spatial thinking is the foundation of abstract thought.",
+      "chapter": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "concepts": [
+        "neural_reuse",
+        "abstract_cognition",
+        "spatial_cognition"
+      ],
+      "entities": {
+        "people": [
+          "H.M."
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The tragic case of H.M., whose hippocampus was resected in 1953, showed that this region is essential for forming new memories of any kind, not just spatial ones.",
+          "speaker": null
+        },
+        {
+          "text": "Grid cells provide a two-dimensional template that can be recalibrated for any domain\u2014spatial, temporal, or conceptual\u2014explaining why spatial metaphors pervade all abstract thought.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-022",
+      "text": "People's cognitive maps are not stored representations but cognitive collages\u2014constructions assembled on the fly from multiple sources (experience, language, schemas, cultural knowledge) using heuristics that introduce systematic but predictable distortions.",
+      "chapter": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "concepts": [
+        "cognitive_maps",
+        "spatial_heuristics",
+        "perceptual_bias"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Stanford",
+          "Berkeley",
+          "San Francisco",
+          "Rome",
+          "Philadelphia",
+          "Reno",
+          "San Diego"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Rotation errors: people mentally upright South America and the San Francisco Bay Area to conform to the N-S canonical axis, causing Stanford students to wrongly place Stanford west of Berkeley and east of Santa Cruz.",
+          "speaker": null
+        },
+        {
+          "text": "Alignment errors: people group Europe and the United States as east-west aligned, causing them to judge Rome as south of Philadelphia\u2014when in fact Rome is north of Philadelphia.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-023",
+      "text": "Hierarchical spatial reasoning causes people to infer city locations from state locations (reasoning Reno is east of San Diego because Nevada is east of California) and produces within-group distance underestimates; crucially, the same bias occurs for functional groups with no spatial integrity, such as university vs. commercial buildings in Ann Arbor.",
+      "chapter": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "concepts": [
+        "hierarchical_cognition",
+        "in_group_out_group_bias",
+        "spatial_heuristics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Ann Arbor",
+          "University of Michigan"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Israeli Jewish and Palestinian residents estimated distances between two settlements of the same group as smaller than distances between one Jewish and one Palestinian settlement, even when the cross-group distances were physically smaller.",
+          "speaker": null
+        },
+        {
+          "text": "The Seventh Law of Cognition\u2014The mind fills in missing information\u2014underlies all these heuristics: spatial categories serve as proxies when direct measurement is unavailable.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-024",
+      "text": "Mental rotation\u2014imagining an object turning to a new orientation\u2014was first demonstrated in 1971 using linked-cube pairs; response times increase linearly with angular disparity, as if the brain has a turntable, though people actually use multiple strategies including piecemeal comparison.",
+      "chapter": "Chapter Four: Transforming Thought",
+      "concepts": [
+        "mental_rotation",
+        "spatial_ability",
+        "embodied_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Participants who reported holistic rotation (smooth imagined turning) performed better on spatial ability batteries than those who reported part-by-part comparison, though both are genuine forms of visual-spatial reasoning.",
+          "speaker": null
+        },
+        {
+          "text": "People spontaneously rotate their hands when solving mental rotation problems; doing so improves performance, and rotating the hand in the same direction as the optimal mental rotation confers further advantage over incongruent hand rotation.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-025",
+      "text": "Taking an insider (motor) perspective on body rotation differs from taking an outsider (visual) perspective on object rotation: deciding which arm is outstretched in a depicted body activates motor rather than visual-spatial imagination, and people with amputated arms are slower, showing physical motion capability scaffolds imaginal motion.",
+      "chapter": "Chapter Four: Transforming Thought",
+      "concepts": [
+        "motor_imagery",
+        "spatial_perspective_taking",
+        "embodied_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Actually turning the body (even blindfolded) greatly reduces errors in pointing back to a starting location compared to only imagining the turns, demonstrating that actual rotations help imagined ones.",
+          "speaker": null
+        },
+        {
+          "text": "The two tasks\u2014object rotation and body rotation\u2014activate partly overlapping but distinct brain areas, confirming they are related but separable cognitive processes.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-026",
+      "text": "Mental construction of images from verbal descriptions is step-by-step and analogous to physical drawing: the preferred order of mental transformations in solving geometric analogies (move \u2192 rotate \u2192 size \u2192 shade \u2192 add part) mirrors the constraints of drawing order.",
+      "chapter": "Chapter Four: Transforming Thought",
+      "concepts": [
+        "mental_construction",
+        "spatial_reasoning",
+        "analogy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When participants solved geometric analogies requiring two or three transformations, they independently chose the same preferred order; others performed better in that order than in alternative orders.",
+          "speaker": null
+        },
+        {
+          "text": "The preferred transformation order was explained not by difficulty but by drawing analogy: you first place the object (move), then orient it (rotate/reflect), then size it, then add detail\u2014mental construction is internalized physical drawing.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-027",
+      "text": "Mental animation of processes\u2014imagining continuous motion in mechanical systems\u2014is not smooth or analog but step-by-step and discretized, and people bias toward starting at the conceptual beginning (the person pulling the rope) even when starting at the end would be more efficient.",
+      "chapter": "Chapter Four: Transforming Thought",
+      "concepts": [
+        "mental_animation",
+        "mechanical_reasoning",
+        "heuristics"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Baseball outfielders do not mentally compute ball trajectories; they use heuristics updated as they run, modifying direction on the fly.",
+          "speaker": null
+        },
+        {
+          "text": "People animating pulley systems from static diagrams go gear by gear rather than seeing the system move continuously, revealing that the brain lacks a smooth-animation algorithm for mechanical inference.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-028",
+      "text": "Spatial ability is not unitary but multi-flavored; Project Talent, tracking 400,000 US high school students for 11 years, showed that spatial skills provide an independent boost to STEM success beyond math skills alone, and spatial skills can be meaningfully trained.",
+      "chapter": "Chapter Four: Transforming Thought",
+      "concepts": [
+        "spatial_ability",
+        "stem_education",
+        "skill_transfer"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "Project Talent"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A meta-analysis of over 200 training studies showed that spatial skill improvements are long-lasting and transfer to untrained spatial skills, making investment in spatial education broadly beneficial.",
+          "speaker": null
+        },
+        {
+          "text": "Spatial abilities span a continuum from perceiving (detecting embedded figures, comparing sizes) to imagining (mental rotation, trajectory estimation) to doing (wrestling, surgery, dance), with perception, imagination, and action bootstrapping each other in a spiral.",
+          "speaker": null
+        }
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-029",
+      "text": "Gestures evolved before language and precede it in development: babies gesture to communicate before they speak, mirror neurons in monkeys link doing and seeing for actions like throwing and grasping, and chimpanzees in the wild use communicative gestures for requests.",
+      "chapter": "Chapter Five: The Body Speaks a Different Language",
+      "concepts": [
+        "gesture_development",
+        "language_evolution",
+        "embodied_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A baby at 18 months who rubbed her arm to represent 'lotion' and another who pointed from an airplane decal to the sky to express 'airplanes go in the sky' demonstrate two-'word' gesture-speech combinations that predict early language.",
+          "speaker": null
+        },
+        {
+          "text": "B., an adult blind from birth, gestured as she gave directions\u2014sketching the route segment by segment in the air\u2014even though she could not see her own gestures and could not know if her listener was looking.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-030",
+      "text": "Gestures reveal thought more directly than words: children's mismatches\u2014saying 'more' in a conservation task while gesturing one-to-one correspondence\u2014predict impending conceptual advances and are detected by teachers as teachable moments warranting extra instruction.",
+      "chapter": "Chapter Five: The Body Speaks a Different Language",
+      "concepts": [
+        "gesture_cognition",
+        "knowledge_representation",
+        "pedagogy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Children who point to both sides of an equation with a V-gesture while giving an incorrect verbal answer will soon understand equation equality\u2014the gesture reveals knowledge not yet expressible in words.",
+          "speaker": null
+        },
+        {
+          "text": "Teachers spontaneously give more instruction to children who produce speech-gesture mismatches, suggesting that adults implicitly track gesture as a diagnostic of understanding.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-031",
+      "text": "Gesturing helps people think: participants who gestured while reading problems to solve\u2014or spatial descriptions to remember\u2014outperformed those who sat on their hands, and some could not comply with the instruction to sit on their hands because doing so made thinking too difficult.",
+      "chapter": "Chapter Five: The Body Speaks a Different Language",
+      "concepts": [
+        "gesture_cognition",
+        "cognitive_offloading",
+        "spatial_reasoning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In the six-glasses problem (move one glass to alternate empty-full), those who spontaneously gestured\u2014forming virtual diagrams of the problem\u2014were more likely to solve it than non-gesturers.",
+          "speaker": null
+        },
+        {
+          "text": "People who gestured while reading descriptions of environments answered more questions correctly, made more accurate inferences from untaught perspectives, and read at the same speed despite doing two things simultaneously.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-032",
+      "text": "Gestures change the thoughts of others: viewing action gestures in a car-engine explanation led students to answer more action questions correctly, produce more arrows and dynamic depictions in their own diagrams, and invent more action gestures\u2014most of which were novel rather than copied.",
+      "chapter": "Chapter Five: The Body Speaks a Different Language",
+      "concepts": [
+        "gesture_cognition",
+        "conceptual_change",
+        "pedagogy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Two identical-script videos of the same car-engine explanation differed only in whether gestures showed structure or action; viewers of action gestures showed dramatically deeper understanding of dynamics.",
+          "speaker": null
+        },
+        {
+          "text": "Circular gestures for cyclical processes cause people to draw circular diagrams and to answer 'What comes next?' by returning to the cycle's beginning, while linear gestures cause them to continue to a new process\u2014demonstrating that gesture changes conceptual representation.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-033",
+      "text": "Gesture serves as social glue in collaboration, conversation, and conducting: pairs who could gesture on a shared map produced better routes and enjoyed the task more than pairs separated by a curtain, and conductors' visual gestures systematically shape audience perception of the same musical passage.",
+      "chapter": "Chapter Five: The Body Speaks a Different Language",
+      "concepts": [
+        "gesture_social_function",
+        "collaboration",
+        "entrainment"
+      ],
+      "entities": {
+        "people": [
+          "Leonard Bernstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Last Supper"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Pairs working side-by-side over a shared earthquake-rescue map used point-like gestures for places, line-like gestures for paths, and area-sweeps for regions\u2014their gestures got abbreviated as collaboration proceeded, showing entrainment.",
+          "speaker": null
+        },
+        {
+          "text": "In piano competition judging, both experts and novices were most accurate at predicting actual rankings when shown video alone\u2014more accurate than audio alone or audio-plus-video\u2014despite believing sound is more important.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-034",
+      "text": "Gestures put the Big Three abstract concepts\u2014space, time, and causality\u2014on a cognitive stage: people spontaneously create coordinated gesture sequences forming virtual diagrams of routes, timelines, and causal chains, and the direction of temporal gestures varies with reading/writing order and conceptual framing.",
+      "chapter": "Chapter Five: The Body Speaks a Different Language",
+      "concepts": [
+        "spatial_language",
+        "temporal_cognition",
+        "causal_reasoning"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When explaining rock cycles or heart function, speakers first use gestures to lay out the parts spatially (like a map), then use action gestures to show the causal sequence of events in the system.",
+          "speaker": null
+        },
+        {
+          "text": "In languages that don't use egocentric reference frames (Guugu Yimithirr, Tzeltal, Tamil), speakers use absolute cardinal-direction terms even for tabletop object locations, and blindfolded speakers can point home\u2014showing language shapes spatial cognition.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-035",
+      "text": "Descriptions of space require a perspective and a reference frame; egocentric (route) descriptions use the traveler's changing body axes as the frame of reference, while allocentric (survey) descriptions use stable external coordinates like cardinal directions.",
+      "chapter": "Chapter Six: Points, Lines, and Perspective: Space in Talk and Thought",
+      "concepts": [
+        "spatial_language",
+        "reference_frames",
+        "perspective_taking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Manhattan",
+          "National Mall"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A route description of midtown Manhattan ('Start with Lincoln Center at your back, make a right onto Broadway...') takes the reader through a sequence of placed-linked-by-paths, updating the egocentric deictic center at each step.",
+          "speaker": null
+        },
+        {
+          "text": "A survey description of the National Mall uses cardinal directions and locates landmarks relative to each other rather than to any individual's position, enabling multiple possible routes rather than a single prescribed path.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-036",
+      "text": "People spontaneously mix egocentric and allocentric perspectives in spatial descriptions without signaling transitions, and listeners understand the mixed descriptions well enough to sketch accurate maps\u2014suggesting that coherent unified perspective is not required for successful communication.",
+      "chapter": "Chapter Six: Points, Lines, and Perspective: Space in Talk and Thought",
+      "concepts": [
+        "spatial_discourse",
+        "perspective_mixing",
+        "mental_models"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Laboratory studies of participants describing environments learned from maps showed that nearly all mixed route and survey perspectives in the same description, often mid-sentence.",
+          "speaker": null
+        },
+        {
+          "text": "Mixed-perspective descriptions take slightly longer to process but ultimately yield more flexible mental representations: people become equally fast answering questions from either perspective, irrespective of which they studied.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-037",
+      "text": "Taking others' perspectives is often more natural than staying in one's own: in face-to-face situations, people default to the listener's perspective (answering from Patrick's left-right rather than their own) more often than to their own, especially when action is implied.",
+      "chapter": "Chapter Six: Points, Lines, and Perspective: Space in Talk and Thought",
+      "concepts": [
+        "perspective_taking",
+        "social_cognition",
+        "action_understanding"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "In a study using photos of Patrick placing a book near a bottle, more participants answered 'left' (Patrick's perspective) than 'right' (their own), spontaneously reversing left and right despite the difficulty of that switch.",
+          "speaker": null
+        },
+        {
+          "text": "The key driver is action: watching someone act induces taking their perspective, both to understand actions (in order to learn them) and to prepare complementary responses (catching what they throw).",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-038",
+      "text": "The mind abstracts space to a simple skeletal structure of nodes and links\u2014places and paths\u2014the same structure that underlies sketch maps, verbal directions, cognitive maps in the brain, and, by extension, representations of events in time and relations among ideas.",
+      "chapter": "Chapter Six: Points, Lines, and Perspective: Space in Talk and Thought",
+      "concepts": [
+        "spatial_representation",
+        "network_cognition",
+        "abstraction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New Guinea"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Unschooled river traders in New Guinea, never having seen a map, drew their routes as a straight line (the river) with circles (settlement dots) along it\u2014'beads on a string'\u2014demonstrating the universality of the nodes-and-links representation.",
+          "speaker": null
+        },
+        {
+          "text": "Sketch maps and verbal route descriptions have the same underlying structure: both segment by turns at landmarks and both straighten paths and right-angle turns regardless of actual geometry.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-039",
+      "text": "Abstract thought is organized by the same simple geometric forms\u2014points, lines, boxes, networks, trees\u2014that organize space, because the neural structures underlying spatial cognition are reused for conceptual organization.",
+      "chapter": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "concepts": [
+        "abstract_cognition",
+        "spatial_metaphor",
+        "neural_reuse"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The architecture of the brain mirrors this: neurons linked to neurons at the micro scale; hippocampus for ideas and entorhinal cortex for arrays of ideas at the macro scale.",
+          "speaker": null
+        },
+        {
+          "text": "Boxes/lines/networks appear inside and outside: arteries and nerves inside the body; rivers, roads, and internet networks outside it; and on the page, maps and diagrams that extend and enhance the mind.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-040",
+      "text": "People think about events in time as landmarks on a spatial line, using both moving-ego and moving-time metaphors interchangeably; which metaphor is active is primed by whether the person is physically moving or stationary, showing that thought about time is grounded in thought about space.",
+      "chapter": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "concepts": [
+        "temporal_cognition",
+        "spatial_metaphor",
+        "embodied_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Famous Ambiguous Question ('next Wednesday's meeting has been moved forward two days\u2014when is it?') splits responses 50/50 between Friday (moving ego) and Monday (moving time), depending on recent movement experience.",
+          "speaker": null
+        },
+        {
+          "text": "Space biases thought about time, but not vice versa\u2014thought about time does not bias thought about space\u2014confirming that space is foundational and time is built on it.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-041",
+      "text": "Despite the cyclical nature of many phenomena (seasons, rock cycle, cell division), people overwhelmingly represent time linearly; getting people to use circular representations requires circular gestures, and even then participants treat circles as having a 12-o'clock start point rather than as truly endless.",
+      "chapter": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "concepts": [
+        "temporal_representation",
+        "linear_bias",
+        "self_regulation"
+      ],
+      "entities": {
+        "people": [
+          "Claude Bernard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "When given events that begin and end with the same item (seed-to-flower-to-seed), Chinese and American participants alike drew linear rather than circular diagrams.",
+          "speaker": null
+        },
+        {
+          "text": "The linear bias has historically impeded scientific progress: homeostasis\u2014continuous self-regulatory cycling\u2014was not recognized until the late 19th century because the dominant input-throughput-output model treated biological processes as linear.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-042",
+      "text": "Number systems divide into an evolutionarily ancient approximate number system (ANS) shared with animals, which is fast, logarithmic, and non-symbolic, and a culturally invented exact number system (ENS), which requires training, external notation, and enables precise calculation.",
+      "chapter": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "concepts": [
+        "numerical_cognition",
+        "cultural_invention",
+        "approximate_number_system"
+      ],
+      "entities": {
+        "people": [
+          "Fibonacci"
+        ],
+        "places": [
+          "Mesopotamia",
+          "Amazon"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The Pirah\u00e3 of the Amazon lack number words entirely yet can do one-to-one matching; the Munduruku have words to five and excel at approximation but not exact arithmetic\u2014demonstrating that counting and estimation are separable systems.",
+          "speaker": null
+        },
+        {
+          "text": "It was accounting for taxation that drove Sumerian development of number notation in the fourth millennium BCE, showing that the invention of the exact number system was socially motivated and enabled subsequent mathematics, science, and engineering.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-043",
+      "text": "The Weber-Fechner function\u2014greater sensitivity to differences at the low end of any continuum than the high end\u2014applies to number, brightness, weight, and many other dimensions; this perceptual bias in the approximate system is not corrected by evolution but can be partially corrected by formal measurement and notation.",
+      "chapter": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "concepts": [
+        "weber_fechner_function",
+        "perceptual_bias",
+        "ordinal_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The same asymmetry applies to cognitive reference points: magenta is judged more similar to red than red to magenta; a son is judged more similar to his father than a father to his son\u2014prototypes act as landmarks, pulling less typical items toward themselves.",
+          "speaker": null
+        },
+        {
+          "text": "Symbolic distance effects, semantic congruity, and SNARC effects (low numbers associated with left, high with right, in left-to-right reading cultures) all show that ordinal thinking has deep spatial roots.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-044",
+      "text": "Route (inside) and survey (above) perspectives on space have direct analogs in organizational and social cognition: managers need survey perspectives on their workforce while employees navigate route perspectives to their bosses, and people in power may structurally lack empathy because survey perspectives are allocentric rather than egocentric.",
+      "chapter": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "concepts": [
+        "power_dynamics",
+        "social_cognition",
+        "perspective_taking"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Near things appear larger and more differentiated; far things appear smaller and more uniform\u2014this telescoping of perspective explains why we see more diversity within our own social groups than in outgroups.",
+          "speaker": null
+        },
+        {
+          "text": "Distant spatial perspective induces more abstract, consistent, and certain thinking; close perspective induces more specific, variable, and uncertain thinking\u2014confirming that perspective distance is a general cognitive variable.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-045",
+      "text": "Putting thought into the world\u2014through maps, diagrams, notation, and other external representations\u2014allows thought to transcend the here and now, enabling teaching, record-keeping, collaboration, and the accumulation of culture; the Eighth Law of Cognition: When thought overflows the mind, the mind puts it into the world.",
+      "chapter": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "concepts": [
+        "cognitive_offloading",
+        "external_representation",
+        "cultural_evolution"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Spain",
+          "Lascaux"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "The oldest known map, a stone tablet from northern Spain dated to over 15,000 years ago, shows terrain, rivers, paths, and animals from two perspectives simultaneously\u2014an overview of the terrain and frontal views of animals\u2014suggesting it served navigational and narrative purposes.",
+          "speaker": null
+        },
+        {
+          "text": "Evidence of symbolic thought predates Homo sapiens: impressions of hands and ladder-like forms found in Spanish caves have been dated to 64,800 years ago, attributed to Neanderthals.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-046",
+      "text": "Effective cognitive tools obey two principles that can conflict: the Principle of Correspondence (form matches content) and the Principle of Use (form promotes efficient task completion); where they conflict, Use typically overrides Correspondence.",
+      "chapter": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "concepts": [
+        "design_principles",
+        "notation_systems",
+        "cognitive_tools"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Writing began as pictograms (high correspondence) but shifted to phonetic alphabets (high use) because there are too many concepts to depict and pictograms cannot represent negations, hypotheticals, or abstractions.",
+          "speaker": null
+        },
+        {
+          "text": "Math notation's positional system (value determined by column position) is indirect and non-corresponding to quantity, but enormously more useful for calculation than the highly corresponding one-mark-per-unit tally system.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-047",
+      "text": "The London Tube map, designed by Harry Beck in 1931, became a global template by distorting geography to show only what commuters need\u2014paths and transfer points\u2014demonstrating that useful maps omit irrelevant information and exaggerate functionally critical features.",
+      "chapter": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "concepts": [
+        "information_design",
+        "cognitive_tools",
+        "cartography"
+      ],
+      "entities": {
+        "people": [
+          "Harry Beck"
+        ],
+        "places": [
+          "London"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Beck's insight was borrowed from electronic circuit diagrams: geography doesn't matter for electricity, only connections do; similarly, commuters need paths and connections, not precise distances or directions.",
+          "speaker": null
+        },
+        {
+          "text": "Four rules of thumb for effective maps: map real spatial elements to representational space; include only task-relevant information; exaggerate useful information; add words and symbols to clarify.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-048",
+      "text": "Cognitive design guidelines for specific tools (route maps, assembly instructions) can be empirically derived using the Three Ps\u2014Production (experts create), Preference (others rate), Performance (a third group uses)\u2014and when applied algorithmically produce designs that outperform those that come in the box.",
+      "chapter": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "concepts": [
+        "cognitive_design",
+        "empirical_methods",
+        "spatial_ability"
+      ],
+      "entities": {
+        "people": [
+          "Maneesh Agrawala"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "High-spatial students who designed TV-cart assembly instructions produced step-by-step diagrams with perspective and action (arrows, guidelines); those qualities were preferred by raters and improved performance of low-spatial assemblers.",
+          "speaker": null
+        },
+        {
+          "text": "An algorithm by Agrawala and Stolte that applied cognitive route-map guidelines to generate personalized A-to-B maps was loved in beta testing and became a template for subsequent smartphone navigation development.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-049",
+      "text": "Arrows in diagrams specifically cue causal-sequential interpretation: diagrams with arrows elicit functional, step-by-step, cause-and-effect descriptions using motion verbs, while identical diagrams without arrows elicit structural descriptions using state verbs\u2014and people produce arrows when creating diagrams from functional descriptions.",
+      "chapter": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "concepts": [
+        "diagram_semantics",
+        "causal_reasoning",
+        "information_design"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "A survey of STEM textbook diagrams found arrows used with three to four different meanings in the same figure (connect, next step, motion, force, change direction), creating unresolved ambiguity for students.",
+          "speaker": null
+        },
+        {
+          "text": "Static diagrams with well-designed arrows outperformed animations for learning mechanical systems because animations unfold too quickly and fail to segment causally meaningful episodes.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-050",
+      "text": "Comics are the most inventive form of visual storytelling because they combine depiction and description in ways each medium cannot achieve alone, use boxes to explicitly segment events, exploit gutters (gaps) to invite reader co-construction, and can break their own frames to manipulate narrative perspective.",
+      "chapter": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "concepts": [
+        "visual_narrative",
+        "multimodal_communication",
+        "cultural_cognition"
+      ],
+      "entities": {
+        "people": [
+          "Scott McCloud",
+          "Art Spiegelman",
+          "Winsor McCay",
+          "Chris Ware"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Persepolis",
+          "Maus",
+          "Harold and the Purple Crayon",
+          "American Born Chinese"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "Eastern comics show more action (depicting relations between people) and comics in languages with many motion-manner verbs show more action than those in path-verb languages, confirming that language and culture shape visual storytelling choices.",
+          "speaker": null
+        },
+        {
+          "text": "In Wiesner's The Three Pigs, the first pig exits the story by stepping into the gutter between frames, then recruits the others from that safe space outside the boxes\u2014showing even young children understand that the story lives inside the panels.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-051",
+      "text": "Drawing is a tool of discovery, not just depiction: Leonardo da Vinci used drawing to reveal the structure and action of muscles, water, and mechanical systems, and his drawings refuted prevailing anatomical theories\u2014making drawing an empirical research method.",
+      "chapter": "Chapter Nine: Conversations with a Page: Design, Science, and Art",
+      "concepts": [
+        "creative_cognition",
+        "visual_thinking",
+        "scientific_discovery"
+      ],
+      "entities": {
+        "people": [
+          "Leonardo da Vinci",
+          "Goethe",
+          "Paul Klee",
+          "Gemma Anderson",
+          "Vebj\u00f8rn Sand"
+        ],
+        "places": [
+          "Golden Horn"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Leonardo realized that the motions of his drawing hand mimicked the motions he was studying (vortices of water, curls of hair) and deliberately exploited this congruence to understand motion.",
+          "speaker": null
+        },
+        {
+          "text": "His proposed wooden bridge for the Ottoman Sultan's Golden Horn was rejected as impossible; when plans resurfaced 400 years later, Norwegian artist Vebj\u00f8rn Sand built it successfully in 2001.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-052",
+      "text": "Creating visual explanations of science content produces deeper learning than creating verbal explanations: junior high students who drew chemical bonding diagrams after instruction improved far more on a second test than those who wrote verbal explanations, without any additional teaching.",
+      "chapter": "Chapter Nine: Conversations with a Page: Design, Science, and Art",
+      "concepts": [
+        "science_education",
+        "visual_learning",
+        "cognitive_tools"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Students' visual explanations were not copies of textbook diagrams but inventions\u2014featuring sharks grabbing electrons and stick figures gladly giving them\u2014woven into causal narratives.",
+          "speaker": null
+        },
+        {
+          "text": "Three advantages of visual over verbal explanation: more direct mapping of process to space; a completeness check (are all parts present?); a coherence check (does the diagram make sense?); and a platform for new inferences.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-053",
+      "text": "Expert architects differ from novices not in perceptual skill but in functional imagination: experts make far more observations about functional relations (traffic flow, changing light) that must be inferred from sketches, and they produce more insights that are linked across the session\u2014and unintended discoveries arise when they reinterpret their own ambiguous marks.",
+      "chapter": "Chapter Nine: Conversations with a Page: Design, Science, and Art",
+      "concepts": [
+        "design_cognition",
+        "creative_cognition",
+        "expertise"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Detailed protocol analysis of design sessions showed that ambiguous, blobby sketches\u2014precisely because they are ambiguous\u2014invite perceptual regrouping, which triggers virtuous cycles of new insight and further regrouping.",
+          "speaker": null
+        },
+        {
+          "text": "Constructive perception\u2014the key to creative reinterpretation\u2014integrates two independent abilities: detecting embedded figures (bottom-up perceptual skill) and finding remote word associations (top-down divergent thinking); possessing both doubles the benefit.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-054",
+      "text": "Empathetic perspective taking\u2014imagining how people in different occupations would use a familiar object\u2014produces more creative and numerous new uses than mind wandering, which performs no better than a control group, because empathetic perspectives provide a productive search strategy rather than just releasing fixation.",
+      "chapter": "Chapter Nine: Conversations with a Page: Design, Science, and Art",
+      "concepts": [
+        "creativity",
+        "perspective_taking",
+        "divergent_thinking"
+      ],
+      "entities": {
+        "people": [
+          "Phil Tetlock"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The New Yorker"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In experiments asking participants to find new uses for umbrellas, shoes, flashlights, and smartphones, the empathetic group (told to consider artists, firefighters, gardeners, etc.) generated more creative uses than mind-wandering or control groups.",
+          "speaker": null
+        },
+        {
+          "text": "The most productive perspective was artist\u2014artists can make art out of anything\u2014and examples included using an umbrella for shish kabob skewers and a flashlight as a martini shaker.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-055",
+      "text": "Superforecasters\u2014people who predict political and economic outcomes better than chance across multiple years\u2014succeed primarily through disciplined perspective taking: they first build a confirming case, then actively challenge it from adversarial viewpoints, and update predictions by modeling what other experts or theories would predict.",
+      "chapter": "Chapter Nine: Conversations with a Page: Design, Science, and Art",
+      "concepts": [
+        "forecasting",
+        "perspective_taking",
+        "epistemic_humility"
+      ],
+      "entities": {
+        "people": [
+          "Phil Tetlock"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Harvard Business Review"
+        ]
+      },
+      "sub_points": [
+        {
+          "text": "In Tetlock's prediction tournaments, professional forecasters paid to predict were no better than monkeys throwing darts; the superforecasters who emerged were distinguished by humility about uncertainty and systematic perspective switching.",
+          "speaker": null
+        },
+        {
+          "text": "Schwartz's parallel recommendations for business strategy\u2014'deepening' (challenge your convictions), 'widening' (take multiple perspectives), and 'lengthening' (consider long-term implications)\u2014map exactly onto perspective-taking strategies.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-056",
+      "text": "Human beings have designed virtually the entire world\u2014homes, cities, streets\u2014into abstract spatial patterns (rows, columns, categories, hierarchies, correspondences, symmetries) that mirror the organizational structures of the mind, enacting the Ninth Law of Cognition: We organize the stuff in the world the way we organize the stuff in the mind.",
+      "chapter": "Chapter Ten: The World Is a Diagram",
+      "concepts": [
+        "environmental_design",
+        "cognitive_organization",
+        "spatial_cognition"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Inside homes: socks in one drawer, sweaters in another\u2014categories and subcategories; books ordered by topic or size; each room organized thematically by activity (cooking, sleeping, washing).",
+          "speaker": null
+        },
+        {
+          "text": "Outside, cities are patterns of streets and buildings grouped into residential, commercial, and educational zones\u2014the same categorical and hierarchical organization, but at urban scale.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-057",
+      "text": "Technologies that enhance movement in the world\u2014from shoes to bicycles to automobiles to virtual reality\u2014expand cognitive opportunity: Hans Rosling's four economic levels are defined by means of motion, and moving farther opens new perspectives, people, and knowledge.",
+      "chapter": "Chapter Ten: The World Is a Diagram",
+      "concepts": [
+        "cognitive_enhancement",
+        "technological_affordance",
+        "embodied_cognition"
+      ],
+      "entities": {
+        "people": [
+          "Hans Rosling"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Technologies that bring the world to us (internet, AR, VR) have reduced the need for physical movement at the same time that other technologies (cars, planes, rockets) have expanded reach\u2014but experiences in augmented reality are enhanced by actual bodily action.",
+          "speaker": null
+        },
+        {
+          "text": "Enhancements of perception (glasses, telescopes, microscopes) and action (prosthetics, robots) extend the body schema into the world in the same way that tool use extends it in laboratory experiments.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-058",
+      "text": "The designed world functions as a diagram: lines painted on streets have legal status encoding laws without words; colored zones, arrows, icons, and shapes direct behavior\u2014making the built environment a spatial language that communicates without text and is readable by infants, foreigners, and nonliterate people.",
+      "chapter": "Chapter Ten: The World Is a Diagram",
+      "concepts": [
+        "environmental_design",
+        "spatial_language",
+        "nonverbal_communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Bike lanes in green, zebra-striped crossing lanes, diagonal parking slots, hexagonal stop signs, and red-on-top traffic lights all use spatial form and color to encode permissions, prohibitions, and actions.",
+          "speaker": null
+        },
+        {
+          "text": "The patterns on building facades\u2014rows of windows, repetitions, symmetries\u2014express abstract ideas (categories, one-to-one correspondences, hierarchies) that attract the eye and inform the mind without requiring interpretation.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-059",
+      "text": "The book's central spiral\u2014'spraction'\u2014captures how actions in space create abstractions: feet moving through the world create paths and place-networks; hands acting on objects create rows, stacks, and hierarchies; gestures abstract those actions into thought; diagrams abstract those patterns into cognitive tools; and all feed back to enrich the next cycle.",
+      "chapter": "Chapter Ten: The World Is a Diagram",
+      "concepts": [
+        "abstraction",
+        "embodied_cognition",
+        "cognitive_tools"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "text": "Thinking is mental actions on mental objects\u2014ideas\u2014modeled on physical actions on physical objects; the verbs we use for thinking (scan, focus, turn over, pull apart, toss aside) are the same verbs we use for physical manipulation.",
+          "speaker": null
+        },
+        {
+          "text": "Both gesture and graphics externalize thought, promote thought, and enable collaboration\u2014and both abstract: gestures abbreviate actions into thumbnails; sketch maps schematize and distort routes into navigable networks.",
+          "speaker": null
+        }
+      ],
+      "part": "Part II: The Mind in the World"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-001",
+      "title": "Prologue: Moving in Space: The Foundation of Thought",
+      "summary": "All thought is grounded in spatial action: the constant movement of bodies through space provides the foundational structures\u2014proximity, gravity, form, and pattern\u2014that underlie all mental activity, including abstract reasoning.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-001",
+        "mind-in-motion-how-action-shapes-thought-002",
+        "mind-in-motion-how-action-shapes-thought-003"
+      ]
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-002",
+      "title": "Chapter One: The Space of the Body: Space Is for Action",
+      "summary": "Our knowledge of our own bodies is uniquely insider knowledge shaped by action and sensation, unlike our outsider recognition of other objects; mirror neurons map others' bodies onto our own, enabling action understanding and the deep social coordination that underlies cooperation.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-004",
+        "mind-in-motion-how-action-shapes-thought-005",
+        "mind-in-motion-how-action-shapes-thought-006",
+        "mind-in-motion-how-action-shapes-thought-007",
+        "mind-in-motion-how-action-shapes-thought-008",
+        "mind-in-motion-how-action-shapes-thought-009",
+        "mind-in-motion-how-action-shapes-thought-010"
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-003",
+      "title": "Chapter Two: The Bubble Around the Body: People, Places, and Things",
+      "summary": "The brain rapidly categorizes the people, places, and things surrounding the body using specialized neural regions and heuristic category structures, but categorical thinking\u2014while efficient\u2014systematically trades speed for accuracy, producing predictable biases in perception, social judgment, and reasoning.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-011",
+        "mind-in-motion-how-action-shapes-thought-012",
+        "mind-in-motion-how-action-shapes-thought-013",
+        "mind-in-motion-how-action-shapes-thought-014",
+        "mind-in-motion-how-action-shapes-thought-015",
+        "mind-in-motion-how-action-shapes-thought-016",
+        "mind-in-motion-how-action-shapes-thought-017"
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-004",
+      "title": "Chapter Three: Here and Now and There and Then: The Spaces Around Us",
+      "summary": "The mind constructs and maintains multiple spatial frameworks\u2014body-centered and allocentric\u2014to track what is where, and these same neural structures (place cells, grid cells) that underlie navigation in rodents and humans are reused to represent abstract conceptual spaces, establishing that spatial thinking is the foundation of abstract thought.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-018",
+        "mind-in-motion-how-action-shapes-thought-019",
+        "mind-in-motion-how-action-shapes-thought-020",
+        "mind-in-motion-how-action-shapes-thought-021",
+        "mind-in-motion-how-action-shapes-thought-022",
+        "mind-in-motion-how-action-shapes-thought-023"
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-005",
+      "title": "Chapter Four: Transforming Thought",
+      "summary": "Mental transformations\u2014especially mental rotation, spatial construction, and spatial animation\u2014are the cognitive engines of abstract reasoning, are deeply linked to physical action, can be trained, and underlie success in STEM and many other fields.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-024",
+        "mind-in-motion-how-action-shapes-thought-025",
+        "mind-in-motion-how-action-shapes-thought-026",
+        "mind-in-motion-how-action-shapes-thought-027",
+        "mind-in-motion-how-action-shapes-thought-028"
+      ],
+      "part": "Part I: The World in the Mind"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-006",
+      "title": "Chapter Five: The Body Speaks a Different Language",
+      "summary": "Gestures are not mere accompaniments to speech but independent cognitive tools that reveal thought, facilitate thinking for oneself, and actively change the thoughts of others\u2014because they represent ideas as actions in space rather than as arbitrary symbols, they can express meanings that language cannot.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-029",
+        "mind-in-motion-how-action-shapes-thought-030",
+        "mind-in-motion-how-action-shapes-thought-031",
+        "mind-in-motion-how-action-shapes-thought-032",
+        "mind-in-motion-how-action-shapes-thought-033",
+        "mind-in-motion-how-action-shapes-thought-034"
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-007",
+      "title": "Chapter Six: Points, Lines, and Perspective: Space in Talk and Thought",
+      "summary": "Spatial language requires adopting a perspective\u2014egocentric (route) or allocentric (survey)\u2014and people routinely mix these perspectives without confusion, using a simple underlying structure of nodes (places) and links (paths) that scaffolds thinking about space and, by extension, all abstract domains.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-035",
+        "mind-in-motion-how-action-shapes-thought-036",
+        "mind-in-motion-how-action-shapes-thought-037",
+        "mind-in-motion-how-action-shapes-thought-038"
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-008",
+      "title": "Chapter Seven: Boxes, Lines, and Trees: Talk and Thought About Almost Everything Else",
+      "summary": "Simple geometric forms\u2014boxes, lines, trees, networks, arrows, and circles\u2014are the building blocks of thought across all domains, including time, number, causality, and social hierarchy, because the mind maps abstract concepts onto spatial structures using the same processes that represent physical space.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-039",
+        "mind-in-motion-how-action-shapes-thought-040",
+        "mind-in-motion-how-action-shapes-thought-041",
+        "mind-in-motion-how-action-shapes-thought-042",
+        "mind-in-motion-how-action-shapes-thought-043",
+        "mind-in-motion-how-action-shapes-thought-044"
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-009",
+      "title": "Chapter Eight: Spaces We Create: Maps, Diagrams, Sketches, Explanations, Comics",
+      "summary": "Putting thought into the world\u2014as maps, diagrams, notations, and comics\u2014extends cognition beyond the limits of the mind, and effective cognitive tools are designed by matching spatial form to conceptual content (Principle of Correspondence) and to the targeted task (Principle of Use), principles empirically derivable through production, preference, and performance studies.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-045",
+        "mind-in-motion-how-action-shapes-thought-046",
+        "mind-in-motion-how-action-shapes-thought-047",
+        "mind-in-motion-how-action-shapes-thought-048",
+        "mind-in-motion-how-action-shapes-thought-049",
+        "mind-in-motion-how-action-shapes-thought-050"
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-010",
+      "title": "Chapter Nine: Conversations with a Page: Design, Science, and Art",
+      "summary": "Drawing is an empirical method of discovery\u2014used by Leonardo da Vinci, architects, and students alike\u2014because it externalizes thought onto a page that 'talks back,' enabling constructive perception through cycles of making marks, seeing unexpected patterns, and reinterpreting ambiguous forms; the key to creativity across domains is perspective taking and perspective switching.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-051",
+        "mind-in-motion-how-action-shapes-thought-052",
+        "mind-in-motion-how-action-shapes-thought-053",
+        "mind-in-motion-how-action-shapes-thought-054",
+        "mind-in-motion-how-action-shapes-thought-055"
+      ],
+      "part": "Part II: The Mind in the World"
+    },
+    {
+      "id": "mind-in-motion-how-action-shapes-thought-ch-011",
+      "title": "Chapter Ten: The World Is a Diagram",
+      "summary": "Human actions in space design the world into diagrams\u2014rows, columns, hierarchies, one-to-one correspondences\u2014that express the same abstract structures the mind uses to organize thought; this spiral from action to abstraction Tversky calls 'spraction,' and the designed world itself functions as a spatial language readable without words.",
+      "claim_ids": [
+        "mind-in-motion-how-action-shapes-thought-056",
+        "mind-in-motion-how-action-shapes-thought-057",
+        "mind-in-motion-how-action-shapes-thought-058",
+        "mind-in-motion-how-action-shapes-thought-059"
+      ],
+      "part": "Part II: The Mind in the World"
+    }
+  ],
+  "stats": {
+    "claim_count": 59,
+    "chapter_count": 11,
+    "indexed_at": "2026-05-13T15:09:28.047719Z"
+  }
+}

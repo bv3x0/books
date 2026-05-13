@@ -25,6 +25,7 @@ from app.bootstrap import project_python_executable
 
 PYTHON = project_python_executable()
 PRODUCTION_BRANCH = os.environ.get("SUMMARIZER_PRODUCTION_BRANCH", "main")
+COMPARISON_NOTE_SUFFIXES = (".test", ".gem", ".gpt")
 
 
 def run_cmd(cmd: list[str]) -> int:
@@ -57,6 +58,53 @@ def get_current_branch_name() -> str | None:
         return None
     branch = result.stdout.strip()
     return branch or None
+
+
+def _book_slug_from_canonical_path(raw_path: str) -> str | None:
+    """Return a book slug for changed canonical note/index paths."""
+    path = Path(raw_path)
+    if len(path.parts) != 2:
+        return None
+
+    parent, filename = path.parts
+    stem = Path(filename).stem
+    if parent == "notes" and filename.endswith(".md"):
+        if stem.endswith(COMPARISON_NOTE_SUFFIXES):
+            return None
+        return stem
+    if parent == "index" and filename.endswith(".json") and not filename.startswith("_"):
+        return stem
+    return None
+
+
+def get_changed_book_filters() -> list[str]:
+    """Detect canonical book slugs changed in the current git worktree."""
+    result = run_captured_cmd(
+        ["git", "status", "--porcelain=v1", "-z", "--untracked-files=all"]
+    )
+    if result.returncode != 0:
+        print_completed_process_output(result)
+        return []
+
+    books = set()
+    for entry in result.stdout.split("\0"):
+        if len(entry) < 4:
+            continue
+        path = entry[3:] if entry[2] == " " else entry
+        slug = _book_slug_from_canonical_path(path)
+        if slug:
+            books.add(slug)
+    return sorted(books)
+
+
+def resolve_book_filters(args: argparse.Namespace) -> list[str] | None:
+    """Resolve explicit or changed-only book filters for publish-like commands."""
+    explicit_books = [book for book in (getattr(args, "book", None) or []) if book]
+    if explicit_books:
+        return sorted(dict.fromkeys(explicit_books))
+    if getattr(args, "changed_only", False):
+        return get_changed_book_filters()
+    return None
 
 
 def print_ship_result(summary: str) -> None:
@@ -97,12 +145,35 @@ def add_command(args: argparse.Namespace) -> int:
 
 def publish_command(args: argparse.Namespace) -> int:
     cmd = [PYTHON, "app/cli/publish.py", "publish"]
-    if args.reconcile != "none":
-        cmd.extend(["--reconcile", args.reconcile])
-    if args.sync_vectors:
+    reconcile = args.reconcile
+    sync_vectors = args.sync_vectors
+    book_filters = resolve_book_filters(args)
+
+    if book_filters is not None:
+        if book_filters:
+            print(
+                "Book scope: " + ", ".join(book_filters),
+                file=sys.stderr,
+            )
+        else:
+            if reconcile != "none" or sync_vectors:
+                print(
+                    "Changed-only scope found no canonical book changes; "
+                    "skipping reconcile/vector sync.",
+                    file=sys.stderr,
+                )
+            reconcile = "none"
+            sync_vectors = False
+
+    if reconcile != "none":
+        cmd.extend(["--reconcile", reconcile])
+    if sync_vectors:
         cmd.append("--sync-vectors")
     if args.skip_integrity:
         cmd.append("--skip-integrity")
+    if book_filters:
+        for book in book_filters:
+            cmd.extend(["--book", book])
     return run_cmd(cmd)
 
 
@@ -121,6 +192,8 @@ def ship_command(args: argparse.Namespace) -> int:
         reconcile=args.reconcile,
         sync_vectors=args.sync_vectors,
         skip_integrity=args.skip_integrity,
+        changed_only=getattr(args, "changed_only", False),
+        book=getattr(args, "book", None),
     )
     rc = publish_command(publish_args)
     if rc != 0:
@@ -283,8 +356,20 @@ def build_parser() -> argparse.ArgumentParser:
     )
     publish.add_argument(
         "--sync-vectors",
+        "--sync",
         action="store_true",
+        dest="sync_vectors",
         help="Sync vectors to Postgres after build",
+    )
+    publish.add_argument(
+        "--book",
+        action="append",
+        help="Scope reconcile/vector sync to a book slug/filter (repeatable)",
+    )
+    publish.add_argument(
+        "--changed-only",
+        action="store_true",
+        help="Scope reconcile/vector sync to changed canonical notes/index books",
     )
     publish.add_argument(
         "--skip-integrity",
@@ -305,8 +390,20 @@ def build_parser() -> argparse.ArgumentParser:
     )
     ship.add_argument(
         "--sync-vectors",
+        "--sync",
         action="store_true",
+        dest="sync_vectors",
         help="Sync vectors to Postgres after build",
+    )
+    ship.add_argument(
+        "--book",
+        action="append",
+        help="Scope reconcile/vector sync to a book slug/filter (repeatable)",
+    )
+    ship.add_argument(
+        "--changed-only",
+        action="store_true",
+        help="Scope reconcile/vector sync to changed canonical notes/index books",
     )
     ship.add_argument(
         "--skip-integrity",

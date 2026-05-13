@@ -53,7 +53,7 @@ from pathlib import Path
 
 try:
     import psycopg2
-    from psycopg2.extras import Json
+    from psycopg2.extras import Json, execute_values
 except ImportError:
     print("Error: psycopg2 not installed. Run: pip install psycopg2-binary")
     sys.exit(1)
@@ -91,18 +91,20 @@ def parse_csv(raw: str) -> list[str]:
     return [item.strip() for item in raw.split(",") if item.strip()]
 
 
-def load_book_metadata() -> dict:
+def load_book_metadata(book_names: set[str] | None = None) -> dict:
     """Load claim metadata (chapter names) from JSON index files."""
     book_claims = {}
 
     for json_file in INDEX_DIR.glob("*.json"):
         if json_file.name.startswith("_"):
             continue
+        book_name = json_file.stem
+        if book_names is not None and book_name not in book_names:
+            continue
 
         try:
             with open(json_file) as f:
                 data = json.load(f)
-                book_name = json_file.stem
                 claims_by_id = {c["id"]: c for c in data.get("claims", [])}
                 book_claims[book_name] = claims_by_id
         except Exception as e:
@@ -211,7 +213,27 @@ def build_payload(row: sqlite3.Row, sqlite_columns: set[str], book_claims: dict)
     return payload
 
 
-def migrate(prune_missing: bool = False):
+def resolve_selected_books(
+    sqlite_conn: sqlite3.Connection, book_filters: list[str] | None
+) -> set[str] | None:
+    """Resolve CLI book filters to local SQLite book names."""
+    if not book_filters:
+        return None
+
+    filters = [book.lower() for book in book_filters if book.strip()]
+    if not filters:
+        return set()
+
+    rows = sqlite_conn.execute("SELECT DISTINCT book_name FROM claims").fetchall()
+    selected = {
+        row["book_name"]
+        for row in rows
+        if any(filter_text in row["book_name"].lower() for filter_text in filters)
+    }
+    return selected
+
+
+def migrate(prune_missing: bool = False, book_filters: list[str] | None = None):
     """Migrate vectors from SQLite to Postgres."""
     database_url = os.environ.get("DATABASE_URL_UNPOOLED") or os.environ.get(
         "POSTGRES_URL_NON_POOLING"
@@ -233,6 +255,19 @@ def migrate(prune_missing: bool = False):
     print(f"Connecting to SQLite: {VECTORS_DB}", flush=True)
     sqlite_conn = sqlite3.connect(VECTORS_DB)
     sqlite_conn.row_factory = sqlite3.Row
+    selected_books = resolve_selected_books(sqlite_conn, book_filters)
+    if selected_books is not None:
+        if not selected_books:
+            print(
+                "No local SQLite books matched the given --book filter(s); nothing to sync.",
+                flush=True,
+            )
+            sqlite_conn.close()
+            return
+        print(
+            f"Scoped vector sync: {', '.join(sorted(selected_books))}",
+            flush=True,
+        )
 
     print("Connecting to Postgres...", flush=True)
     pg_conn = psycopg2.connect(database_url)
@@ -251,7 +286,7 @@ def migrate(prune_missing: bool = False):
         sys.exit(1)
 
     print("Loading index metadata...", flush=True)
-    book_claims = load_book_metadata()
+    book_claims = load_book_metadata(selected_books)
     print(f"  Found metadata for {len(book_claims)} books", flush=True)
 
     sqlite_columns = get_sqlite_columns(sqlite_conn)
@@ -266,11 +301,21 @@ def migrate(prune_missing: bool = False):
         print(f"Error: Postgres claims table missing required columns: {sorted(missing_required)}")
         sys.exit(1)
 
-    cursor = sqlite_conn.execute("SELECT * FROM claims")
+    if selected_books is None:
+        cursor = sqlite_conn.execute("SELECT * FROM claims")
+    else:
+        placeholders = ", ".join(["?"] * len(selected_books))
+        cursor = sqlite_conn.execute(
+            f"SELECT * FROM claims WHERE book_name IN ({placeholders})",
+            tuple(sorted(selected_books)),
+        )
     rows = cursor.fetchall()
     total_claims = len(rows)
     if total_claims == 0:
         print("No claims in SQLite to migrate.")
+        sqlite_conn.close()
+        pg_cursor.close()
+        pg_conn.close()
         return
 
     rows_by_book = {}
@@ -305,15 +350,20 @@ def migrate(prune_missing: bool = False):
     print(f"Syncing columns: {', '.join(insert_columns)}", flush=True)
 
     column_sql = ", ".join(insert_columns)
-    placeholders = ", ".join(["%s"] * len(insert_columns))
     update_columns = [c for c in insert_columns if c != "id"]
     update_sql = ", ".join(f"{col} = EXCLUDED.{col}" for col in update_columns)
     insert_sql = (
-        f"INSERT INTO claims ({column_sql}) VALUES ({placeholders}) "
+        f"INSERT INTO claims ({column_sql}) VALUES %s "
         f"ON CONFLICT (id) DO UPDATE SET {update_sql}"
     )
 
-    if prune_missing:
+    if prune_missing and selected_books is not None:
+        print(
+            "\nPrune check skipped for scoped sync. Run an unscoped --prune-missing "
+            "sync to remove Postgres-only books.",
+            flush=True,
+        )
+    elif prune_missing:
         pg_cursor.execute("SELECT DISTINCT book_name FROM claims")
         pg_books = {row[0] for row in pg_cursor.fetchall() if row and row[0]}
         stale_books = sorted(pg_books - local_books)
@@ -342,8 +392,7 @@ def migrate(prune_missing: bool = False):
                 values.append(coerce_for_pg(payload.get(col), pg_columns[col]))
             payload_rows.append(tuple(values))
 
-        for values in payload_rows:
-            pg_cursor.execute(insert_sql, values)
+        execute_values(pg_cursor, insert_sql, payload_rows, page_size=100)
 
         pg_conn.commit()
         synced_total += len(book_rows)
@@ -372,5 +421,10 @@ if __name__ == "__main__":
         action="store_true",
         help="Delete Postgres books that are no longer present in local SQLite",
     )
+    parser.add_argument(
+        "--book",
+        action="append",
+        help="Sync only matching SQLite book names (substring match; repeatable)",
+    )
     args = parser.parse_args()
-    migrate(prune_missing=args.prune_missing)
+    migrate(prune_missing=args.prune_missing, book_filters=args.book)
