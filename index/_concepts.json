@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-05-13T15:26:40.366723Z",
+  "updated_at": "2026-05-25T16:58:12.805998Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -1546,7 +1546,8 @@
         "elon-musk": 1,
         "occult philosophy in the elizabethan age": 1,
         "the horse": 1,
-        "the misbehavior of markets": 1
+        "the misbehavior of markets": 1,
+        "the zurich axioms": 2
       },
       "books": [
         "a disease in the public mind",
@@ -1554,9 +1555,10 @@
         "elon-musk",
         "occult philosophy in the elizabethan age",
         "the horse",
-        "the misbehavior of markets"
+        "the misbehavior of markets",
+        "the zurich axioms"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "economic_advancement": {
       "id": "economic_advancement",
@@ -9096,7 +9098,8 @@
         "the elephant in the brain": 1,
         "the hard thing about hard things": 1,
         "the misbehavior of markets": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the zurich axioms": 2
       },
       "books": [
         "anthropol",
@@ -9110,9 +9113,10 @@
         "the elephant in the brain",
         "the hard thing about hard things",
         "the misbehavior of markets",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the zurich axioms"
       ],
-      "claim_count": 31
+      "claim_count": 33
     },
     "convergence": {
       "id": "convergence",
@@ -10360,15 +10364,17 @@
         "best loser wins": 1,
         "boom": 3,
         "the ascent of money": 2,
-        "zero to one": 1
+        "zero to one": 1,
+        "the zurich axioms": 2
       },
       "books": [
         "best loser wins",
         "boom",
         "the ascent of money",
-        "zero to one"
+        "zero to one",
+        "the zurich axioms"
       ],
-      "claim_count": 7
+      "claim_count": 9
     },
     "trend_following": {
       "id": "trend_following",
@@ -15647,7 +15653,8 @@
         "philosopher-in-the-valley": 1,
         "the ascent of money": 2,
         "the misbehavior of markets": 2,
-        "the mythical man-month": 1
+        "the mythical man-month": 1,
+        "the zurich axioms": 4
       },
       "books": [
         "elon-musk",
@@ -15656,9 +15663,10 @@
         "philosopher-in-the-valley",
         "the ascent of money",
         "the misbehavior of markets",
-        "the mythical man-month"
+        "the mythical man-month",
+        "the zurich axioms"
       ],
-      "claim_count": 13
+      "claim_count": 17
     },
     "global_manufacturing": {
       "id": "global_manufacturing",
@@ -15852,15 +15860,17 @@
         "elon-musk": 2,
         "extreme ownership": 1,
         "poor charlies almanack": 1,
-        "the light eaters": 1
+        "the light eaters": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "elon-musk",
         "extreme ownership",
         "poor charlies almanack",
-        "the light eaters"
+        "the light eaters",
+        "the zurich axioms"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "intellectual_ownership": {
       "id": "intellectual_ownership",
@@ -16537,7 +16547,8 @@
         "the light eaters": 2,
         "the mythical man-month": 2,
         "the soul of the world": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "the zurich axioms": 4
       },
       "books": [
         "elon-musk",
@@ -16548,9 +16559,10 @@
         "the light eaters",
         "the mythical man-month",
         "the soul of the world",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the zurich axioms"
       ],
-      "claim_count": 16
+      "claim_count": 20
     },
     "corporate_culture": {
       "id": "corporate_culture",
@@ -18360,13 +18372,15 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 3,
-        "the misbehavior of markets": 1
+        "the misbehavior of markets": 1,
+        "the zurich axioms": 2
       },
       "books": [
         "fooled by randomness",
-        "the misbehavior of markets"
+        "the misbehavior of markets",
+        "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "regime_change": {
       "id": "regime_change",
@@ -18403,7 +18417,8 @@
         "the reality of being": 1,
         "ultralearning": 1,
         "zero to one": 2,
-        "mind in motion": 1
+        "mind in motion": 1,
+        "the zurich axioms": 3
       },
       "books": [
         "catafalque",
@@ -18416,9 +18431,10 @@
         "the reality of being",
         "ultralearning",
         "zero to one",
-        "mind in motion"
+        "mind in motion",
+        "the zurich axioms"
       ],
-      "claim_count": 19
+      "claim_count": 22
     },
     "epistemic_authority": {
       "id": "epistemic_authority",
@@ -18540,13 +18556,15 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 1,
-        "the ascent of money": 2
+        "the ascent of money": 2,
+        "the zurich axioms": 9
       },
       "books": [
         "fooled by randomness",
-        "the ascent of money"
+        "the ascent of money",
+        "the zurich axioms"
       ],
-      "claim_count": 3
+      "claim_count": 12
     },
     "epistemological_framework": {
       "id": "epistemological_framework",
@@ -18612,13 +18630,15 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 2,
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the zurich axioms": 1
       },
       "books": [
         "fooled by randomness",
-        "transcendental magic"
+        "transcendental magic",
+        "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "rhetoric": {
       "id": "rhetoric",
@@ -20554,15 +20574,17 @@
         "introduction-to-christianity": 3,
         "kabbalistic visions": 1,
         "the ascent of money": 1,
-        "the world as will and representation vol 2": 1
+        "the world as will and representation vol 2": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "introduction-to-christianity",
         "kabbalistic visions",
         "the ascent of money",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "the zurich axioms"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "creative_autonomy": {
       "id": "creative_autonomy",
@@ -29264,15 +29286,17 @@
         "on heroes": 1,
         "orthodoxy": 1,
         "the power of ritual in prehistory": 1,
-        "the sickness unto death": 1
+        "the sickness unto death": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "on heroes",
         "orthodoxy",
         "the power of ritual in prehistory",
-        "the sickness unto death"
+        "the sickness unto death",
+        "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "self_refutation": {
       "id": "self_refutation",
@@ -30532,15 +30556,17 @@
         "beyond good and evil": 1,
         "psychomagic": 1,
         "revolt-against-the-modern-world": 1,
-        "the problem of the puer aeternus": 1
+        "the problem of the puer aeternus": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "beyond good and evil",
         "psychomagic",
         "revolt-against-the-modern-world",
-        "the problem of the puer aeternus"
+        "the problem of the puer aeternus",
+        "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "reality_perception": {
       "id": "reality_perception",
@@ -48808,13 +48834,15 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 2,
-        "zero to one": 2
+        "zero to one": 2,
+        "the zurich axioms": 1
       },
       "books": [
         "beelzebubs tales",
-        "zero to one"
+        "zero to one",
+        "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "definite_optimism": {
       "id": "definite_optimism",
@@ -49144,13 +49172,15 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 12,
-        "zero to one": 1
+        "zero to one": 1,
+        "the zurich axioms": 2
       },
       "books": [
         "fooled by randomness",
-        "zero to one"
+        "zero to one",
+        "the zurich axioms"
       ],
-      "claim_count": 13
+      "claim_count": 15
     },
     "persuasion": {
       "id": "persuasion",
@@ -49267,14 +49297,16 @@
       "book_claims": {
         "mystery teachings from the living earth": 1,
         "poor charlies almanack": 1,
-        "zero to one": 3
+        "zero to one": 3,
+        "the zurich axioms": 5
       },
       "books": [
         "mystery teachings from the living earth",
         "poor charlies almanack",
-        "zero to one"
+        "zero to one",
+        "the zurich axioms"
       ],
-      "claim_count": 5
+      "claim_count": 10
     },
     "cultural_mythology": {
       "id": "cultural_mythology",
@@ -49470,15 +49502,17 @@
         "poor charlies almanack": 1,
         "the ascent of money": 1,
         "the hard thing about hard things": 1,
-        "zero to one": 1
+        "zero to one": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "poor charlies almanack",
         "the ascent of money",
         "the hard thing about hard things",
-        "zero to one"
+        "zero to one",
+        "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "economic_impact": {
       "id": "economic_impact",
@@ -50021,14 +50055,16 @@
       "book_claims": {
         "boom": 1,
         "out-of-body exploring": 1,
-        "ultralearning": 1
+        "ultralearning": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "boom",
         "out-of-body exploring",
-        "ultralearning"
+        "ultralearning",
+        "the zurich axioms"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "organizational_innovation": {
       "id": "organizational_innovation",
@@ -50606,13 +50642,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 4,
-        "extreme ownership": 1
+        "extreme ownership": 1,
+        "the zurich axioms": 2
       },
       "books": [
         "elon-musk",
-        "extreme ownership"
+        "extreme ownership",
+        "the zurich axioms"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "academic_performance": {
       "id": "academic_performance",
@@ -55141,14 +55179,16 @@
       "book_claims": {
         "poor charlies almanack": 1,
         "the art of doing science and engineering": 1,
-        "mind in motion": 1
+        "mind in motion": 1,
+        "the zurich axioms": 3
       },
       "books": [
         "poor charlies almanack",
         "the art of doing science and engineering",
-        "mind in motion"
+        "mind in motion",
+        "the zurich axioms"
       ],
-      "claim_count": 3
+      "claim_count": 6
     },
     "transfer_of_learning": {
       "id": "transfer_of_learning",
@@ -59456,13 +59496,15 @@
       "related": [],
       "book_claims": {
         "the ascent of money": 1,
-        "the cybernetic brain": 4
+        "the cybernetic brain": 4,
+        "the zurich axioms": 1
       },
       "books": [
         "the ascent of money",
-        "the cybernetic brain"
+        "the cybernetic brain",
+        "the zurich axioms"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "bureaucracy": {
       "id": "bureaucracy",
@@ -60792,13 +60834,15 @@
       "related": [],
       "book_claims": {
         "henry kaiser": 1,
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "the zurich axioms": 1
       },
       "books": [
         "henry kaiser",
-        "the ascent of money"
+        "the ascent of money",
+        "the zurich axioms"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "relationship_banking": {
       "id": "relationship_banking",
@@ -76251,12 +76295,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "animus and anima": 1
+        "animus and anima": 1,
+        "the zurich axioms": 1
       },
       "books": [
-        "animus and anima"
+        "animus and anima",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "prerational_consciousness": {
       "id": "prerational_consciousness",
@@ -145763,12 +145809,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "horror of philosophy 3": 1
+        "horror of philosophy 3": 1,
+        "the zurich axioms": 1
       },
       "books": [
-        "horror of philosophy 3"
+        "horror of philosophy 3",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "numinous": {
       "id": "numinous",
@@ -148241,12 +148289,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "how the world really works": 1
+        "how the world really works": 1,
+        "the zurich axioms": 2
       },
       "books": [
-        "how the world really works"
+        "how the world really works",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "system_inertia": {
       "id": "system_inertia",
@@ -167419,12 +167469,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "le mystere des cathedrales": 1
+        "le mystere des cathedrales": 1,
+        "the zurich axioms": 1
       },
       "books": [
-        "le mystere des cathedrales"
+        "le mystere des cathedrales",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "natural_verification": {
       "id": "natural_verification",
@@ -208919,12 +208971,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "parables for the virtual": 1
+        "parables for the virtual": 1,
+        "the zurich axioms": 3
       },
       "books": [
-        "parables for the virtual"
+        "parables for the virtual",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "analog_process": {
       "id": "analog_process",
@@ -211831,12 +211885,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "poor charlies almanack": 3
+        "poor charlies almanack": 3,
+        "the zurich axioms": 3
       },
       "books": [
-        "poor charlies almanack"
+        "poor charlies almanack",
+        "the zurich axioms"
       ],
-      "claim_count": 3
+      "claim_count": 6
     },
     "value_investing": {
       "id": "value_investing",
@@ -212391,12 +212447,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "poor charlies almanack": 1
+        "poor charlies almanack": 1,
+        "the zurich axioms": 5
       },
       "books": [
-        "poor charlies almanack"
+        "poor charlies almanack",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 6
     },
     "herd_behavior": {
       "id": "herd_behavior",
@@ -259123,12 +259181,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "the zurich axioms": 1
       },
       "books": [
-        "the ascent of money"
+        "the ascent of money",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "psychological_economics": {
       "id": "psychological_economics",
@@ -289701,12 +289761,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the mythical man-month": 1
+        "the mythical man-month": 1,
+        "the zurich axioms": 3
       },
       "books": [
-        "the mythical man-month"
+        "the mythical man-month",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "probability": {
       "id": "probability",
@@ -289715,12 +289777,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the mythical man-month": 1
+        "the mythical man-month": 1,
+        "the zurich axioms": 2
       },
       "books": [
-        "the mythical man-month"
+        "the mythical man-month",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "project_scheduling": {
       "id": "project_scheduling",
@@ -301177,12 +301241,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the sickness unto death": 1
+        "the sickness unto death": 1,
+        "the zurich axioms": 2
       },
       "books": [
-        "the sickness unto death"
+        "the sickness unto death",
+        "the zurich axioms"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "christendom_critique": {
       "id": "christendom_critique",
@@ -304117,12 +304183,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the structure of scientific revolutions": 2
+        "the structure of scientific revolutions": 2,
+        "the zurich axioms": 2
       },
       "books": [
-        "the structure of scientific revolutions"
+        "the structure of scientific revolutions",
+        "the zurich axioms"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "learning_by_example": {
       "id": "learning_by_example",
@@ -343199,12 +343267,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "zero to one": 6
+        "zero to one": 6,
+        "the zurich axioms": 1
       },
       "books": [
-        "zero to one"
+        "zero to one",
+        "the zurich axioms"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "globalization": {
       "id": "globalization",
@@ -348143,11 +348213,613 @@
         "the magical revival"
       ],
       "claim_count": 1
+    },
+    "speculative_culture": {
+      "id": "speculative_culture",
+      "label": "Speculative Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 3
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 3
+    },
+    "risk_psychology": {
+      "id": "risk_psychology",
+      "label": "Risk Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "epistemic_honesty": {
+      "id": "epistemic_honesty",
+      "label": "Epistemic Honesty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "position_sizing": {
+      "id": "position_sizing",
+      "label": "Position Sizing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "portfolio_management": {
+      "id": "portfolio_management",
+      "label": "Portfolio Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "diversification_critique": {
+      "id": "diversification_critique",
+      "label": "Diversification Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "regret_aversion": {
+      "id": "regret_aversion",
+      "label": "Regret Aversion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "exit_strategy": {
+      "id": "exit_strategy",
+      "label": "Exit Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "loss_cutting": {
+      "id": "loss_cutting",
+      "label": "Loss Cutting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "speculative_skill": {
+      "id": "speculative_skill",
+      "label": "Speculative Skill",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "ego_defense": {
+      "id": "ego_defense",
+      "label": "Ego Defense",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "margin_trading": {
+      "id": "margin_trading",
+      "label": "Margin Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "loss_management": {
+      "id": "loss_management",
+      "label": "Loss Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "speculative_discipline": {
+      "id": "speculative_discipline",
+      "label": "Speculative Discipline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "expert_overconfidence": {
+      "id": "expert_overconfidence",
+      "label": "Expert Overconfidence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "self_fulfilling_prophecy": {
+      "id": "self_fulfilling_prophecy",
+      "label": "Self Fulfilling Prophecy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "media_bias": {
+      "id": "media_bias",
+      "label": "Media Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "reactive_investing": {
+      "id": "reactive_investing",
+      "label": "Reactive Investing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "interest_rate_risk": {
+      "id": "interest_rate_risk",
+      "label": "Interest Rate Risk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "pattern_fallacy": {
+      "id": "pattern_fallacy",
+      "label": "Pattern Fallacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 4
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 4
+    },
+    "overconfidence": {
+      "id": "overconfidence",
+      "label": "Overconfidence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "active_management_critique": {
+      "id": "active_management_critique",
+      "label": "Active Management Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "historical_fallacy": {
+      "id": "historical_fallacy",
+      "label": "Historical Fallacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "correlation_causation": {
+      "id": "correlation_causation",
+      "label": "Correlation Causation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "data_visualization": {
+      "id": "data_visualization",
+      "label": "Data Visualization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "gambler_fallacy": {
+      "id": "gambler_fallacy",
+      "label": "Gambler Fallacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "hot_hand_fallacy": {
+      "id": "hot_hand_fallacy",
+      "label": "Hot Hand Fallacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "loyalty_bias": {
+      "id": "loyalty_bias",
+      "label": "Loyalty Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "occult_speculation": {
+      "id": "occult_speculation",
+      "label": "Occult Speculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 3
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 3
+    },
+    "lucky_streaks": {
+      "id": "lucky_streaks",
+      "label": "Lucky Streaks",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "risk_compartmentalization": {
+      "id": "risk_compartmentalization",
+      "label": "Risk Compartmentalization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "epistemic_independence": {
+      "id": "epistemic_independence",
+      "label": "Epistemic Independence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "contrarian_investing": {
+      "id": "contrarian_investing",
+      "label": "Contrarian Investing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "majority_pressure": {
+      "id": "majority_pressure",
+      "label": "Majority Pressure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "loss_chasing": {
+      "id": "loss_chasing",
+      "label": "Loss Chasing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "averaging_down": {
+      "id": "averaging_down",
+      "label": "Averaging Down",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "long_range_planning": {
+      "id": "long_range_planning",
+      "label": "Long Range Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "inflation_risk": {
+      "id": "inflation_risk",
+      "label": "Inflation Risk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "long_term_investing_critique": {
+      "id": "long_term_investing_critique",
+      "label": "Long Term Investing Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 2
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 2
+    },
+    "income_investing": {
+      "id": "income_investing",
+      "label": "Income Investing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "portfolio_review": {
+      "id": "portfolio_review",
+      "label": "Portfolio Review",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "insurance_products": {
+      "id": "insurance_products",
+      "label": "Insurance Products",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
+    },
+    "financial_flexibility": {
+      "id": "financial_flexibility",
+      "label": "Financial Flexibility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the zurich axioms": 1
+      },
+      "books": [
+        "the zurich axioms"
+      ],
+      "claim_count": 1
     }
   },
   "stats": {
-    "total_concepts": 23911,
-    "total_claims": 40328,
-    "books_indexed": 137
+    "total_concepts": 23954,
+    "total_claims": 40466,
+    "books_indexed": 138
   }
 }
