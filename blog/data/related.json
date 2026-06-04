@@ -168,13 +168,18 @@
   ],
   "fooled-by-randomness": [
     {
-      "slug": "the-zurich-axioms",
-      "title": "The Zurich Axioms",
-      "shared_count": 7
+      "slug": "the-black-swan",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "shared_count": 20
     },
     {
-      "slug": "poor-charlies-almanack",
-      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "slug": "antifragile",
+      "title": "Antifragile: Things That Gain from Disorder",
+      "shared_count": 10
+    },
+    {
+      "slug": "the-zurich-axioms",
+      "title": "The Zurich Axioms",
       "shared_count": 7
     }
   ],
@@ -386,6 +391,23 @@
       "shared_count": 18
     }
   ],
+  "skin-in-the-game": [
+    {
+      "slug": "antifragile",
+      "title": "Antifragile: Things That Gain from Disorder",
+      "shared_count": 24
+    },
+    {
+      "slug": "poor-charlies-almanack",
+      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+      "shared_count": 9
+    },
+    {
+      "slug": "the-black-swan",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "shared_count": 8
+    }
+  ],
   "man-and-his-symbols": [
     {
       "slug": "the-problem-of-the-puer-aeternus",
@@ -422,14 +444,14 @@
       "shared_count": 10
     },
     {
+      "slug": "the-black-swan",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "shared_count": 10
+    },
+    {
       "slug": "the-age-of-interconnection",
       "title": "The Age of Interconnection: A Global History of the Second Half of the Twentieth Century",
       "shared_count": 8
-    },
-    {
-      "slug": "poor-charlies-almanack",
-      "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
-      "shared_count": 6
     }
   ],
   "introduction-to-christianity": [
@@ -1073,6 +1095,11 @@
   ],
   "the-zurich-axioms": [
     {
+      "slug": "the-black-swan",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "shared_count": 12
+    },
+    {
       "slug": "the-ascent-of-money",
       "title": "The Ascent of Money: A Financial History of the World",
       "shared_count": 10
@@ -1081,11 +1108,6 @@
       "slug": "poor-charlies-almanack",
       "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
       "shared_count": 9
-    },
-    {
-      "slug": "fooled-by-randomness",
-      "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
-      "shared_count": 7
     }
   ],
   "sexual-personae": [
@@ -1332,6 +1354,11 @@
   ],
   "the-misbehavior-of-markets": [
     {
+      "slug": "the-black-swan",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "shared_count": 8
+    },
+    {
       "slug": "best-loser-wins",
       "title": "Best Loser Wins: Why Normal Thinking Never Wins the Trading Game - and How to Develop the Mind of a Winning Trader",
       "shared_count": 6
@@ -1561,6 +1588,23 @@
       "slug": "zero-to-one",
       "title": "Zero to One: Notes on Startups, or How to Build the Future",
       "shared_count": 13
+    }
+  ],
+  "antifragile": [
+    {
+      "slug": "skin-in-the-game",
+      "title": "Skin in the Game: Hidden Asymmetries in Daily Life",
+      "shared_count": 24
+    },
+    {
+      "slug": "the-black-swan",
+      "title": "The Black Swan: The Impact of the Highly Improbable",
+      "shared_count": 17
+    },
+    {
+      "slug": "fooled-by-randomness",
+      "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+      "shared_count": 10
     }
   ],
   "the-sickness-unto-death": [
@@ -1913,6 +1957,23 @@
       "slug": "ultralearning",
       "title": "Ultralearning",
       "shared_count": 5
+    }
+  ],
+  "the-black-swan": [
+    {
+      "slug": "fooled-by-randomness",
+      "title": "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets",
+      "shared_count": 20
+    },
+    {
+      "slug": "antifragile",
+      "title": "Antifragile: Things That Gain from Disorder",
+      "shared_count": 17
+    },
+    {
+      "slug": "the-zurich-axioms",
+      "title": "The Zurich Axioms",
+      "shared_count": 12
     }
   ],
   "occult-philosophy-in-the-elizabethan-age": [

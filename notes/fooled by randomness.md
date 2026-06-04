@@ -8,6 +8,7 @@
 - Author: Nassim Nicholas Taleb
 - Year: 2001
 - Mode: quick
+- Collections: Nassim Nicholas Taleb
 
 ## Part I: Solon's Warning
 
