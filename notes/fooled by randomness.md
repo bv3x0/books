@@ -4,11 +4,10 @@
 - Thesis: We systematically underestimate the role of randomness and luck in life and markets, mistaking noise for signal, survivorship bias for skill, and rare catastrophic events for impossibilities. The antidote is probabilistic thinking grounded in skepticism, asymmetric risk-taking, and the wisdom of ancient thinkers like Solon who understood that fortune can reverse at any moment.
 - Topics: survivorship bias and randomness in financial markets, the problem of induction and rare events (black swans), cognitive biases and probabilistic reasoning, asymmetric risk and skewness in decision-making, stoic philosophy and dignified conduct under uncertainty
 - Categories: business & economics, philosophy, psychology
-- Collections: Money
+- Collections: Money, Nassim Nicholas Taleb
 - Author: Nassim Nicholas Taleb
 - Year: 2001
 - Mode: quick
-- Collections: Nassim Nicholas Taleb
 
 ## Part I: Solon's Warning
 

@@ -11,7 +11,7 @@ author: "Nassim Nicholas Taleb"
 shortAuthor: "Taleb"
 year: "2001"
 tags: ["business & economics", "philosophy", "psychology"]
-collections: ["Money"]
+collections: ["Money", "Nassim Nicholas Taleb"]
 ---
 
 
@@ -40,7 +40,7 @@ Through the contrasting characters of cautious trader Nero Tulip and high-yield 
     - Mild success can be explained by skills and labor; wild success is attributable to variance—the visible rich are not a representative sample of the full distribution of attempts.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
 
 ### A Bizarre Accounting Method
 
@@ -66,7 +66,7 @@ Taleb introduces the concept of 'alternative histories'—the full set of possib
     - MBAs are trained to simplify to the maximum potential, a method suited to a fertilizer plant business plan but dangerous when applied to highly probabilistic arguments.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_money-100-bill.png" alt="" role="presentation" loading="lazy"></div>
 
 ### A Mathematical Meditation On History
 
@@ -93,7 +93,7 @@ Taleb introduces Monte Carlo simulation as both a computational tool and a way o
     - Renaissance Italian life insurers charged the same premium for men in their twenties as for men in their fifties, recognizing that past the forty-year mark a man had demonstrated resilience to most available ailments.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_money-100-bill.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_person-directing.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Randomness, Nonsense, And The Scientific Intellectual
 
@@ -112,7 +112,7 @@ Taleb uses the reverse Turing test—showing that literary and business discours
     - If forced to be fooled by randomness, Taleb prefers it be of the beautiful and harmless kind—the Yiddish adage: if you're going to eat pork, make it the best kind.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Survival Of The Least Fit—Can Evolution Be Fooled By Randomness?
 
@@ -136,7 +136,7 @@ Through the cases of emerging-markets trader Carlos and high-yield trader John, 
     - By ergodicity, if one extends time to infinity the rare event will happen with certainty, eventually wiping out the species that has never encountered it—the longer an organism goes without encountering its rare event, the more vulnerable it becomes.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_dark-planet.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Skewness And Asymmetry
 
@@ -162,7 +162,7 @@ Taleb introduces skewness as the critical concept that separates frequency from 
     - The peso problem, first identified in Mexico, describes any investment that shows long periods of stability followed by brief brutal reversals—pegged currencies, mortgage securities, high-yield bonds—where past stability is structurally misleading about future risk.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_numbers-puzzle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ### The Problem Of Induction
 
@@ -188,7 +188,7 @@ Taleb grounds his entire intellectual framework in Hume's problem of induction a
     - All the surviving traders Taleb knows follow the same implicit rule: they trade on ideas based on some observation but, like Popperian scientists, make sure the costs of being wrong are limited—they know before entering a trade which events would prove them wrong and exit at that point.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part II: Monkeys On Typewriters
 
@@ -233,7 +233,7 @@ Taleb extends survivorship bias into a general theory of performance evaluation,
     - The 'spontaneous remission' phenomenon means that a small fraction of cancer patients recover regardless of treatment; these survivors sincerely attribute their recovery to whatever they happened to be doing, whether vitamins or holy water.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-connected.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Loser Takes All—on The Nonlinearities Of Life
 
@@ -253,7 +253,7 @@ Taleb examines path-dependent, nonlinear dynamics—from the QWERTY keyboard to 
     - In trading, one may own a security that benefits from lower market prices but shows no reaction until some critical threshold; most traders give up before the rewards arrive because our emotional system requires more immediate reinforcement.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-dynamic.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Randomness And Our Mind: We Are Probability Blind
 
@@ -283,7 +283,7 @@ Drawing on Kahneman and Tversky's heuristics-and-biases research, evolutionary p
     - Bloomberg financial commentary—'Dow up 1.03 on lower interest rates'—provides causal explanations for movements below the noise threshold; a 0.01% daily move carries less than one billionth the significance of a 7% move, yet receives similar explanatory treatment.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-dynamic.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part III: Wax In My Ears
 
@@ -303,7 +303,7 @@ Taleb confesses that despite his professional expertise in probability, he is as
     - The Greek philosopher Pyrrho, who advocated equanimity and indifference, was criticized for losing composure when chased by an ox; his answer was that he found it sometimes difficult to rid himself of his humanity.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Business & Economics/Life_group-people.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Carneades Comes To Rome: On Probability And Skepticism
 
@@ -326,7 +326,7 @@ Tracing probability's origins in ancient Greek skeptical philosophy through Carn
     - In a few decades we may look upon the Nobel Economics Committee the way we look at respected scientific establishments of the Middle Ages that promoted (against observational evidence) that the heart was a center of heat.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Bacchus Abandons Antony
 
