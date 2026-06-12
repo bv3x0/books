@@ -562,6 +562,11 @@
   ],
   "ultralearning": [
     {
+      "slug": "atomic-habits",
+      "title": "Atomic Habits",
+      "shared_count": 12
+    },
+    {
       "slug": "poor-charlies-almanack",
       "title": "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
       "shared_count": 9
@@ -570,11 +575,6 @@
       "slug": "the-art-of-doing-science-and-engineering",
       "title": "The Art of Doing Science and Engineering: Learning to Learn",
       "shared_count": 6
-    },
-    {
-      "slug": "out-of-body-exploring",
-      "title": "Out-of-Body Exploring: A Beginner's Approach",
-      "shared_count": 5
     }
   ],
   "now-it-can-be-told": [
@@ -1826,6 +1826,18 @@
       "slug": "revelations-of-divine-love",
       "title": "Revelations of Divine Love",
       "shared_count": 16
+    }
+  ],
+  "atomic-habits": [
+    {
+      "slug": "ultralearning",
+      "title": "Ultralearning",
+      "shared_count": 12
+    },
+    {
+      "slug": "the-art-of-doing-science-and-engineering",
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "shared_count": 5
     }
   ],
   "the-culture-of-narcissism": [
