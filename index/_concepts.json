@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-06-12T13:37:09.621220Z",
+  "updated_at": "2026-06-19T15:09:28.195286Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -29,14 +29,16 @@
       "book_claims": {
         "a disease in the public mind": 1,
         "the first ghosts": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "europes tragedy": 1
       },
       "books": [
         "a disease in the public mind",
         "the first ghosts",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "business_failure": {
       "id": "business_failure",
@@ -958,7 +960,8 @@
         "ultralearning": 1,
         "unqualified reservations": 1,
         "zero to one": 2,
-        "antifragile": 1
+        "antifragile": 1,
+        "europes tragedy": 1
       },
       "books": [
         "a disease in the public mind",
@@ -988,9 +991,10 @@
         "ultralearning",
         "unqualified reservations",
         "zero to one",
-        "antifragile"
+        "antifragile",
+        "europes tragedy"
       ],
-      "claim_count": 43
+      "claim_count": 44
     },
     "mob_violence": {
       "id": "mob_violence",
@@ -1774,7 +1778,8 @@
         "american nations": 5,
         "braudel-vol1": 1,
         "normans in the south": 7,
-        "the horse": 3
+        "the horse": 3,
+        "europes tragedy": 1
       },
       "books": [
         "a disease in the public mind",
@@ -1782,9 +1787,10 @@
         "american nations",
         "braudel-vol1",
         "normans in the south",
-        "the horse"
+        "the horse",
+        "europes tragedy"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "population_density": {
       "id": "population_density",
@@ -2244,7 +2250,8 @@
         "structures": 1,
         "the ascent of money": 1,
         "the structure of scientific revolutions": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "europes tragedy": 1
       },
       "books": [
         "a secret history of christianity",
@@ -2252,9 +2259,10 @@
         "structures",
         "the ascent of money",
         "the structure of scientific revolutions",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "mystical_theology": {
       "id": "mystical_theology",
@@ -2423,16 +2431,18 @@
         "american nations": 2,
         "introduction-to-christianity": 1,
         "the problem of the puer aeternus": 1,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "europes tragedy": 1
       },
       "books": [
         "a secret history of christianity",
         "american nations",
         "introduction-to-christianity",
         "the problem of the puer aeternus",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "europes tragedy"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "sacred_geography": {
       "id": "sacred_geography",
@@ -3522,15 +3532,17 @@
         "a secret history of christianity": 1,
         "occult philosophy in the elizabethan age": 1,
         "on heroes": 1,
-        "orthodoxy": 1
+        "orthodoxy": 1,
+        "europes tragedy": 2
       },
       "books": [
         "a secret history of christianity",
         "occult philosophy in the elizabethan age",
         "on heroes",
-        "orthodoxy"
+        "orthodoxy",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "historical_consciousness": {
       "id": "historical_consciousness",
@@ -3547,7 +3559,8 @@
         "the culture of narcissism": 1,
         "the discarded image": 1,
         "thus spake zarathustra": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 1
       },
       "books": [
         "a secret history of christianity",
@@ -3558,9 +3571,10 @@
         "the culture of narcissism",
         "the discarded image",
         "thus spake zarathustra",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "scientific_methodology": {
       "id": "scientific_methodology",
@@ -4932,13 +4946,15 @@
       "related": [],
       "book_claims": {
         "after progress": 1,
-        "the age of interconnection": 1
+        "the age of interconnection": 1,
+        "europes tragedy": 2
       },
       "books": [
         "after progress",
-        "the age of interconnection"
+        "the age of interconnection",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "salvation_theology": {
       "id": "salvation_theology",
@@ -5890,7 +5906,8 @@
         "occult philosophy in the elizabethan age": 2,
         "revolt-against-the-modern-world": 1,
         "the horse": 2,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 2
       },
       "books": [
         "american nations",
@@ -5898,9 +5915,10 @@
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
         "the horse",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 10
+      "claim_count": 12
     },
     "authoritarian_dictatorship": {
       "id": "authoritarian_dictatorship",
@@ -5941,7 +5959,8 @@
         "the horse": 3,
         "the power of ritual in prehistory": 1,
         "through the eye of a needle": 6,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
@@ -5960,9 +5979,10 @@
         "the horse",
         "the power of ritual in prehistory",
         "through the eye of a needle",
-        "transcendental magic"
+        "transcendental magic",
+        "europes tragedy"
       ],
-      "claim_count": 39
+      "claim_count": 40
     },
     "religious_tolerance": {
       "id": "religious_tolerance",
@@ -6278,7 +6298,8 @@
         "confessions": 1,
         "jesus and his times vol 1": 1,
         "the closing of the american mind": 1,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
@@ -6286,9 +6307,10 @@
         "confessions",
         "jesus and his times vol 1",
         "the closing of the american mind",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "europes tragedy"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "community_participation": {
       "id": "community_participation",
@@ -6435,16 +6457,18 @@
         "braudel-vol1": 1,
         "occult philosophy in the elizabethan age": 5,
         "revolt-against-the-modern-world": 5,
-        "through the eye of a needle": 3
+        "through the eye of a needle": 3,
+        "europes tragedy": 2
       },
       "books": [
         "american nations",
         "braudel-vol1",
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "europes tragedy"
       ],
-      "claim_count": 15
+      "claim_count": 17
     },
     "colonial_rebellion": {
       "id": "colonial_rebellion",
@@ -6513,16 +6537,18 @@
         "normans in the south": 4,
         "revolt-against-the-modern-world": 1,
         "the first ghosts": 1,
-        "the horse": 1
+        "the horse": 1,
+        "europes tragedy": 2
       },
       "books": [
         "american nations",
         "normans in the south",
         "revolt-against-the-modern-world",
         "the first ghosts",
-        "the horse"
+        "the horse",
+        "europes tragedy"
       ],
-      "claim_count": 8
+      "claim_count": 10
     },
     "royal_authority": {
       "id": "royal_authority",
@@ -7068,13 +7094,15 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
-        "normans in the south": 1
+        "normans in the south": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "military_organization": {
       "id": "military_organization",
@@ -7085,14 +7113,16 @@
       "book_claims": {
         "american nations": 1,
         "normans in the south": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 2
       },
       "books": [
         "american nations",
         "normans in the south",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "territorial_control": {
       "id": "territorial_control",
@@ -7104,15 +7134,17 @@
         "american nations": 2,
         "braudel-vol1": 2,
         "normans in the south": 3,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
         "braudel-vol1",
         "normans in the south",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "internal_conflict": {
       "id": "internal_conflict",
@@ -7338,13 +7370,15 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
-        "normans in the south": 1
+        "normans in the south": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "imperial_governance": {
       "id": "imperial_governance",
@@ -7356,15 +7390,17 @@
         "american nations": 1,
         "revolt-against-the-modern-world": 1,
         "through the eye of a needle": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
         "revolt-against-the-modern-world",
         "through the eye of a needle",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "financial_fraud": {
       "id": "financial_fraud",
@@ -7584,13 +7620,15 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
-        "elon-musk": 1
+        "elon-musk": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
-        "elon-musk"
+        "elon-musk",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "geographic_barriers": {
       "id": "geographic_barriers",
@@ -7767,14 +7805,16 @@
       "book_claims": {
         "american nations": 3,
         "extreme ownership": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
         "extreme ownership",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "political_exclusion": {
       "id": "political_exclusion",
@@ -8139,7 +8179,8 @@
         "occult philosophy in the elizabethan age": 1,
         "on heroes": 1,
         "the age of interconnection": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 2
       },
       "books": [
         "american nations",
@@ -8148,9 +8189,10 @@
         "occult philosophy in the elizabethan age",
         "on heroes",
         "the age of interconnection",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 8
+      "claim_count": 10
     },
     "cultural_pluralism": {
       "id": "cultural_pluralism",
@@ -8323,7 +8365,8 @@
         "the age of interconnection": 1,
         "the lean startup": 1,
         "the misbehavior of markets": 1,
-        "unqualified reservations": 5
+        "unqualified reservations": 5,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
@@ -8334,9 +8377,10 @@
         "the age of interconnection",
         "the lean startup",
         "the misbehavior of markets",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 13
+      "claim_count": 14
     },
     "collective_salvation": {
       "id": "collective_salvation",
@@ -8445,14 +8489,16 @@
       "book_claims": {
         "american nations": 2,
         "braudel-vol1": 4,
-        "the horse": 5
+        "the horse": 5,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
         "braudel-vol1",
-        "the horse"
+        "the horse",
+        "europes tragedy"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "social_movements": {
       "id": "social_movements",
@@ -8516,13 +8562,15 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "civil_liberties": {
       "id": "civil_liberties",
@@ -8689,7 +8737,8 @@
         "normans in the south": 4,
         "revolt-against-the-modern-world": 1,
         "the adventure of consciousness": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "europes tragedy": 1
       },
       "books": [
         "american nations",
@@ -8698,9 +8747,10 @@
         "normans in the south",
         "revolt-against-the-modern-world",
         "the adventure of consciousness",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "political_dissolution": {
       "id": "political_dissolution",
@@ -8884,7 +8934,8 @@
         "rhythmanalysis": 1,
         "the discarded image": 1,
         "the interpretation of fairy tales": 5,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "europes tragedy": 1
       },
       "books": [
         "animus and anima",
@@ -8900,9 +8951,10 @@
         "rhythmanalysis",
         "the discarded image",
         "the interpretation of fairy tales",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "europes tragedy"
       ],
-      "claim_count": 44
+      "claim_count": 45
     },
     "gender_hierarchy": {
       "id": "gender_hierarchy",
@@ -11316,7 +11368,8 @@
         "the secret teachings of all ages": 2,
         "things hidden since the foundation of the world": 1,
         "transcendental magic": 1,
-        "skin in the game": 1
+        "skin in the game": 1,
+        "europes tragedy": 1
       },
       "books": [
         "boom",
@@ -11334,9 +11387,10 @@
         "the secret teachings of all ages",
         "things hidden since the foundation of the world",
         "transcendental magic",
-        "skin in the game"
+        "skin in the game",
+        "europes tragedy"
       ],
-      "claim_count": 29
+      "claim_count": 30
     },
     "heavenly_ascension": {
       "id": "heavenly_ascension",
@@ -11636,13 +11690,15 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 2,
-        "normans in the south": 1
+        "normans in the south": 1,
+        "europes tragedy": 1
       },
       "books": [
         "braudel-vol1",
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "public_health": {
       "id": "public_health",
@@ -11652,13 +11708,15 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 1,
-        "the-body-keeps-the-score": 2
+        "the-body-keeps-the-score": 2,
+        "europes tragedy": 1
       },
       "books": [
         "braudel-vol1",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "technological_advantage": {
       "id": "technological_advantage",
@@ -11708,7 +11766,8 @@
         "normans in the south": 1,
         "philosopher-in-the-valley": 3,
         "the horse": 6,
-        "undersea ufo base": 1
+        "undersea ufo base": 1,
+        "europes tragedy": 1
       },
       "books": [
         "alchemy of air",
@@ -11718,9 +11777,10 @@
         "normans in the south",
         "philosopher-in-the-valley",
         "the horse",
-        "undersea ufo base"
+        "undersea ufo base",
+        "europes tragedy"
       ],
-      "claim_count": 20
+      "claim_count": 21
     },
     "agricultural_systems": {
       "id": "agricultural_systems",
@@ -13006,13 +13066,15 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 4,
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "europes tragedy": 1
       },
       "books": [
         "braudel-vol1",
-        "the ascent of money"
+        "the ascent of money",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "banking_evolution": {
       "id": "banking_evolution",
@@ -13331,14 +13393,16 @@
       "book_claims": {
         "braudel-vol1": 2,
         "normans in the south": 1,
-        "the power of ritual in prehistory": 2
+        "the power of ritual in prehistory": 2,
+        "europes tragedy": 1
       },
       "books": [
         "braudel-vol1",
         "normans in the south",
-        "the power of ritual in prehistory"
+        "the power of ritual in prehistory",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "political_centralization": {
       "id": "political_centralization",
@@ -13350,15 +13414,17 @@
         "braudel-vol1": 1,
         "normans in the south": 1,
         "revolt-against-the-modern-world": 1,
-        "the power of ritual in prehistory": 1
+        "the power of ritual in prehistory": 1,
+        "europes tragedy": 1
       },
       "books": [
         "braudel-vol1",
         "normans in the south",
         "revolt-against-the-modern-world",
-        "the power of ritual in prehistory"
+        "the power of ritual in prehistory",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "infrastructure_development": {
       "id": "infrastructure_development",
@@ -13631,16 +13697,18 @@
         "orality-and-literacy": 1,
         "schizoposting": 1,
         "the secret teachings of all ages": 1,
-        "the structure of scientific revolutions": 1
+        "the structure of scientific revolutions": 1,
+        "europes tragedy": 1
       },
       "books": [
         "cult of the saints",
         "orality-and-literacy",
         "schizoposting",
         "the secret teachings of all ages",
-        "the structure of scientific revolutions"
+        "the structure of scientific revolutions",
+        "europes tragedy"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "institutional_religion": {
       "id": "institutional_religion",
@@ -13775,7 +13843,8 @@
         "on heroes": 3,
         "sexual personae": 1,
         "the world as will and representation vol 2": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "europes tragedy": 2
       },
       "books": [
         "bronze age mindset",
@@ -13786,9 +13855,10 @@
         "on heroes",
         "sexual personae",
         "the world as will and representation vol 2",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "europes tragedy"
       ],
-      "claim_count": 14
+      "claim_count": 16
     },
     "social_history": {
       "id": "social_history",
@@ -13931,7 +14001,8 @@
         "orality-and-literacy": 1,
         "revolt-against-the-modern-world": 2,
         "schizoposting": 1,
-        "the world as will and representation vol 2": 2
+        "the world as will and representation vol 2": 2,
+        "europes tragedy": 3
       },
       "books": [
         "beelzebubs tales",
@@ -13940,9 +14011,10 @@
         "orality-and-literacy",
         "revolt-against-the-modern-world",
         "schizoposting",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "europes tragedy"
       ],
-      "claim_count": 9
+      "claim_count": 12
     },
     "devotional_practice": {
       "id": "devotional_practice",
@@ -14159,7 +14231,8 @@
         "the age of interconnection": 1,
         "the closing of the american mind": 2,
         "through the eye of a needle": 1,
-        "skin in the game": 1
+        "skin in the game": 1,
+        "europes tragedy": 2
       },
       "books": [
         "beelzebubs tales",
@@ -14170,9 +14243,10 @@
         "the age of interconnection",
         "the closing of the american mind",
         "through the eye of a needle",
-        "skin in the game"
+        "skin in the game",
+        "europes tragedy"
       ],
-      "claim_count": 11
+      "claim_count": 13
     },
     "civilian_casualties": {
       "id": "civilian_casualties",
@@ -14182,13 +14256,15 @@
       "related": [],
       "book_claims": {
         "days of rage": 3,
-        "normans in the south": 2
+        "normans in the south": 2,
+        "europes tragedy": 1
       },
       "books": [
         "days of rage",
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "revolutionary_consciousness": {
       "id": "revolutionary_consciousness",
@@ -17654,7 +17730,8 @@
         "the age of interconnection": 1,
         "the closing of the american mind": 1,
         "the horse": 1,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "europes tragedy": 2
       },
       "books": [
         "alchemy of air",
@@ -17664,9 +17741,10 @@
         "the age of interconnection",
         "the closing of the american mind",
         "the horse",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "europes tragedy"
       ],
-      "claim_count": 9
+      "claim_count": 11
     },
     "religious_persecution": {
       "id": "religious_persecution",
@@ -17680,7 +17758,8 @@
         "land greer 2026": 1,
         "occult philosophy in the elizabethan age": 9,
         "presence in the modern world": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "europes tragedy": 1
       },
       "books": [
         "beelzebubs tales",
@@ -17688,9 +17767,10 @@
         "land greer 2026",
         "occult philosophy in the elizabethan age",
         "presence in the modern world",
-        "transcendental magic"
+        "transcendental magic",
+        "europes tragedy"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "moral_responsibility": {
       "id": "moral_responsibility",
@@ -20197,16 +20277,18 @@
         "occult philosophy in the elizabethan age": 3,
         "presence in the modern world": 1,
         "through the eye of a needle": 1,
-        "the dark lord": 1
+        "the dark lord": 1,
+        "europes tragedy": 1
       },
       "books": [
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
         "presence in the modern world",
         "through the eye of a needle",
-        "the dark lord"
+        "the dark lord",
+        "europes tragedy"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "divine_immanence": {
       "id": "divine_immanence",
@@ -24538,7 +24620,8 @@
         "revolt-against-the-modern-world": 1,
         "ride the tiger": 1,
         "the horse": 1,
-        "unqualified reservations": 6
+        "unqualified reservations": 6,
+        "europes tragedy": 1
       },
       "books": [
         "bronze age mindset",
@@ -24546,9 +24629,10 @@
         "revolt-against-the-modern-world",
         "ride the tiger",
         "the horse",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "political_opportunities": {
       "id": "political_opportunities",
@@ -24597,7 +24681,8 @@
         "schizoposting": 3,
         "the closing of the american mind": 6,
         "through the eye of a needle": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 7
       },
       "books": [
         "normans in the south",
@@ -24608,9 +24693,10 @@
         "schizoposting",
         "the closing of the american mind",
         "through the eye of a needle",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 21
+      "claim_count": 28
     },
     "legal_legitimacy": {
       "id": "legal_legitimacy",
@@ -24792,15 +24878,17 @@
         "confessions": 1,
         "normans in the south": 4,
         "revolt-against-the-modern-world": 1,
-        "through the eye of a needle": 2
+        "through the eye of a needle": 2,
+        "europes tragedy": 1
       },
       "books": [
         "confessions",
         "normans in the south",
         "revolt-against-the-modern-world",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "europes tragedy"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "dynastic_rivalry": {
       "id": "dynastic_rivalry",
@@ -24942,13 +25030,15 @@
       "related": [],
       "book_claims": {
         "normans in the south": 2,
-        "the horse": 1
+        "the horse": 1,
+        "europes tragedy": 2
       },
       "books": [
         "normans in the south",
-        "the horse"
+        "the horse",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "governance_systems": {
       "id": "governance_systems",
@@ -25076,13 +25166,15 @@
       "related": [],
       "book_claims": {
         "normans in the south": 1,
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "europes tragedy": 2
       },
       "books": [
         "normans in the south",
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "reputation_damage": {
       "id": "reputation_damage",
@@ -25635,14 +25727,16 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 2,
         "philosopher-in-the-valley": 1,
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "europes tragedy": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "philosopher-in-the-valley",
-        "the ascent of money"
+        "the ascent of money",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "literary_philosophy": {
       "id": "literary_philosophy",
@@ -28180,15 +28274,17 @@
         "occult philosophy in the elizabethan age": 1,
         "the discarded image": 1,
         "the world as will and representation vol 2": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "europes tragedy": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "the discarded image",
         "the world as will and representation vol 2",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "religious_tradition": {
       "id": "religious_tradition",
@@ -28626,15 +28722,17 @@
         "digital cash": 1,
         "on heroes": 1,
         "orality-and-literacy": 17,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "europes tragedy": 1
       },
       "books": [
         "digital cash",
         "on heroes",
         "orality-and-literacy",
-        "transcendental magic"
+        "transcendental magic",
+        "europes tragedy"
       ],
-      "claim_count": 20
+      "claim_count": 21
     },
     "character_development": {
       "id": "character_development",
@@ -33060,15 +33158,17 @@
         "muskism": 1,
         "the ascent of money": 1,
         "through the eye of a needle": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 1
       },
       "books": [
         "muskism",
         "the ascent of money",
         "through the eye of a needle",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "fat_tails": {
       "id": "fat_tails",
@@ -33154,7 +33254,8 @@
         "the lean startup": 1,
         "the-body-keeps-the-score": 1,
         "things hidden since the foundation of the world": 1,
-        "the black swan": 1
+        "the black swan": 1,
+        "europes tragedy": 1
       },
       "books": [
         "catafalque",
@@ -33164,9 +33265,10 @@
         "the lean startup",
         "the-body-keeps-the-score",
         "things hidden since the foundation of the world",
-        "the black swan"
+        "the black swan",
+        "europes tragedy"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "cultural_homogenization": {
       "id": "cultural_homogenization",
@@ -34512,13 +34614,15 @@
       "related": [],
       "book_claims": {
         "through the eye of a needle": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 4
       },
       "books": [
         "through the eye of a needle",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 6
     },
     "death_and_afterlife": {
       "id": "death_and_afterlife",
@@ -37637,14 +37741,16 @@
       "book_claims": {
         "beyond good and evil": 1,
         "schizoposting": 2,
-        "sexual personae": 1
+        "sexual personae": 1,
+        "europes tragedy": 1
       },
       "books": [
         "beyond good and evil",
         "schizoposting",
-        "sexual personae"
+        "sexual personae",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "political_philosophy": {
       "id": "political_philosophy",
@@ -38150,15 +38256,17 @@
         "bronze age mindset": 1,
         "occult philosophy in the elizabethan age": 1,
         "the culture of narcissism": 1,
-        "the elephant in the brain": 1
+        "the elephant in the brain": 1,
+        "europes tragedy": 4
       },
       "books": [
         "bronze age mindset",
         "occult philosophy in the elizabethan age",
         "the culture of narcissism",
-        "the elephant in the brain"
+        "the elephant in the brain",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 8
     },
     "visual_culture": {
       "id": "visual_culture",
@@ -38370,13 +38478,15 @@
       "related": [],
       "book_claims": {
         "sexual personae": 2,
-        "the closing of the american mind": 2
+        "the closing of the american mind": 2,
+        "europes tragedy": 1
       },
       "books": [
         "sexual personae",
-        "the closing of the american mind"
+        "the closing of the american mind",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "political_founding": {
       "id": "political_founding",
@@ -38738,13 +38848,15 @@
       "related": [],
       "book_claims": {
         "giordano bruno": 3,
-        "occult philosophy in the elizabethan age": 5
+        "occult philosophy in the elizabethan age": 5,
+        "europes tragedy": 2
       },
       "books": [
         "giordano bruno",
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "europes tragedy"
       ],
-      "claim_count": 8
+      "claim_count": 10
     },
     "hermetic_reform": {
       "id": "hermetic_reform",
@@ -40321,16 +40433,18 @@
         "horror of philosophy 3": 2,
         "muskism": 1,
         "ride the tiger": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 3
       },
       "books": [
         "horror of philosophy",
         "horror of philosophy 3",
         "muskism",
         "ride the tiger",
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 6
+      "claim_count": 9
     },
     "esoteric_doctrine": {
       "id": "esoteric_doctrine",
@@ -43026,13 +43140,15 @@
       "related": [],
       "book_claims": {
         "language machines": 1,
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "europes tragedy": 1
       },
       "books": [
         "language machines",
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "poetic_function": {
       "id": "poetic_function",
@@ -44650,13 +44766,15 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 1,
-        "on heroes": 1
+        "on heroes": 1,
+        "europes tragedy": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
-        "on heroes"
+        "on heroes",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "literary_power": {
       "id": "literary_power",
@@ -50806,15 +50924,17 @@
         "alchemy of air": 3,
         "bronze age mindset": 1,
         "digital cash": 1,
-        "signs and machines": 1
+        "signs and machines": 1,
+        "europes tragedy": 1
       },
       "books": [
         "alchemy of air",
         "bronze age mindset",
         "digital cash",
-        "signs and machines"
+        "signs and machines",
+        "europes tragedy"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "risk_tolerance": {
       "id": "risk_tolerance",
@@ -52032,13 +52152,15 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 2,
-        "normans in the south": 4
+        "normans in the south": 4,
+        "europes tragedy": 2
       },
       "books": [
         "alchemy of air",
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "strategic_focus": {
       "id": "strategic_focus",
@@ -52276,13 +52398,15 @@
       "related": [],
       "book_claims": {
         "now it can be told": 1,
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "europes tragedy": 2
       },
       "books": [
         "now it can be told",
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "identity_formation": {
       "id": "identity_formation",
@@ -57136,15 +57260,17 @@
         "signs and machines": 1,
         "the ascent of money": 1,
         "the world as will and representation": 1,
-        "the world as will and representation vol 2": 2
+        "the world as will and representation vol 2": 2,
+        "europes tragedy": 1
       },
       "books": [
         "signs and machines",
         "the ascent of money",
         "the world as will and representation",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "aesthetic_education": {
       "id": "aesthetic_education",
@@ -60170,13 +60296,15 @@
       "related": [],
       "book_claims": {
         "now it can be told": 1,
-        "schizoposting": 1
+        "schizoposting": 1,
+        "europes tragedy": 2
       },
       "books": [
         "now it can be told",
-        "schizoposting"
+        "schizoposting",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "advertising_industry": {
       "id": "advertising_industry",
@@ -62273,12 +62401,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a disease in the public mind": 1
+        "a disease in the public mind": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "a disease in the public mind"
+        "a disease in the public mind",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "international_ostracism": {
       "id": "international_ostracism",
@@ -62371,12 +62501,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a disease in the public mind": 1
+        "a disease in the public mind": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "a disease in the public mind"
+        "a disease in the public mind",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "state_nullification": {
       "id": "state_nullification",
@@ -64639,12 +64771,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a disease in the public mind": 1
+        "a disease in the public mind": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "a disease in the public mind"
+        "a disease in the public mind",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "atrocity_propaganda": {
       "id": "atrocity_propaganda",
@@ -64709,12 +64843,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a disease in the public mind": 1
+        "a disease in the public mind": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "a disease in the public mind"
+        "a disease in the public mind",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "presidential_faith": {
       "id": "presidential_faith",
@@ -69683,12 +69819,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "alchemy of air": 3
+        "alchemy of air": 3,
+        "europes tragedy": 2
       },
       "books": [
-        "alchemy of air"
+        "alchemy of air",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "exploration": {
       "id": "exploration",
@@ -70201,12 +70339,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "alchemy of air": 1
+        "alchemy of air": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "alchemy of air"
+        "alchemy of air",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "academic_industry_relations": {
       "id": "academic_industry_relations",
@@ -70845,12 +70985,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "alchemy of air": 1
+        "alchemy of air": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "alchemy of air"
+        "alchemy of air",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "prophesy": {
       "id": "prophesy",
@@ -75017,12 +75159,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "american nations": 1
+        "american nations": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "american nations"
+        "american nations",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "empire_building": {
       "id": "empire_building",
@@ -75745,12 +75889,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "american nations": 1
+        "american nations": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "american nations"
+        "american nations",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "religious_alliance": {
       "id": "religious_alliance",
@@ -92145,12 +92291,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "braudel-vol1": 1
+        "braudel-vol1": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "braudel-vol1"
+        "braudel-vol1",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "popular_protest": {
       "id": "popular_protest",
@@ -92341,12 +92489,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "braudel-vol1": 1
+        "braudel-vol1": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "braudel-vol1"
+        "braudel-vol1",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "public_works": {
       "id": "public_works",
@@ -95085,12 +95235,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "braudel-vol1": 1
+        "braudel-vol1": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "braudel-vol1"
+        "braudel-vol1",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "state_capacity": {
       "id": "state_capacity",
@@ -104541,12 +104693,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "days of rage": 1
+        "days of rage": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "days of rage"
+        "days of rage",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "domestic_terrorism": {
       "id": "domestic_terrorism",
@@ -111529,12 +111683,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "designing freedom": 1
+        "designing freedom": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "designing freedom"
+        "designing freedom",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "democratic_accountability": {
       "id": "democratic_accountability",
@@ -111963,12 +112119,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "digital cash": 1
+        "digital cash": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "digital cash"
+        "digital cash",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "monetary_iconography": {
       "id": "monetary_iconography",
@@ -117339,12 +117497,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "elon-musk": 1
+        "elon-musk": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "elon-musk"
+        "elon-musk",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "patent_disputes": {
       "id": "patent_disputes",
@@ -139941,12 +140101,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "giordano bruno": 2
+        "giordano bruno": 2,
+        "europes tragedy": 4
       },
       "books": [
-        "giordano bruno"
+        "giordano bruno",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 6
     },
     "political_eirenism": {
       "id": "political_eirenism",
@@ -157993,12 +158155,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "jesus and his times vol 1": 1
+        "jesus and his times vol 1": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "jesus and his times vol 1"
+        "jesus and his times vol 1",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "christian_doctrine": {
       "id": "christian_doctrine",
@@ -176855,12 +177019,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 2
+        "normans in the south": 2,
+        "europes tragedy": 1
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "military_campaigns": {
       "id": "military_campaigns",
@@ -177149,12 +177315,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 5
+        "normans in the south": 5,
+        "europes tragedy": 5
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 10
     },
     "coalition_forces": {
       "id": "coalition_forces",
@@ -177667,12 +177835,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 2
+        "normans in the south": 2,
+        "europes tragedy": 1
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "dynastic_succession": {
       "id": "dynastic_succession",
@@ -177681,12 +177851,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 2
+        "normans in the south": 2,
+        "europes tragedy": 3
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "family_alliance": {
       "id": "family_alliance",
@@ -177737,12 +177909,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 1
+        "normans in the south": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "political_agreement": {
       "id": "political_agreement",
@@ -178185,12 +178359,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 1
+        "normans in the south": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "political_tensions": {
       "id": "political_tensions",
@@ -178297,12 +178473,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 2
+        "normans in the south": 2,
+        "europes tragedy": 1
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "legendary_reputation": {
       "id": "legendary_reputation",
@@ -179025,12 +179203,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "normans in the south": 1
+        "normans in the south": 1,
+        "europes tragedy": 3
       },
       "books": [
-        "normans in the south"
+        "normans in the south",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "strategic_adaptation": {
       "id": "strategic_adaptation",
@@ -180201,12 +180381,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "now it can be told": 1
+        "now it can be told": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "now it can be told"
+        "now it can be told",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "counterintelligence": {
       "id": "counterintelligence",
@@ -180649,12 +180831,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "now it can be told": 1
+        "now it can be told": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "now it can be told"
+        "now it can be told",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "information_security_breaches": {
       "id": "information_security_breaches",
@@ -181391,12 +181575,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "now it can be told": 1
+        "now it can be told": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "now it can be told"
+        "now it can be told",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "nuclear_escalation_control": {
       "id": "nuclear_escalation_control",
@@ -181657,12 +181843,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "now it can be told": 1
+        "now it can be told": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "now it can be told"
+        "now it can be told",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "atomic_energy_governance": {
       "id": "atomic_energy_governance",
@@ -185733,12 +185921,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "immigration_policy": {
       "id": "immigration_policy",
@@ -187553,12 +187743,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "europes tragedy": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "spiritual_skill": {
       "id": "spiritual_skill",
@@ -189681,12 +189873,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "literary_expression": {
       "id": "literary_expression",
@@ -191757,12 +191951,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "policy_reversal": {
       "id": "policy_reversal",
@@ -197125,12 +197321,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "memory_continuity": {
       "id": "memory_continuity",
@@ -205457,12 +205655,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "orthodoxy and the religion of the future": 1
+        "orthodoxy and the religion of the future": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "orthodoxy and the religion of the future"
+        "orthodoxy and the religion of the future",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "traditional_categories": {
       "id": "traditional_categories",
@@ -211385,12 +211585,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "poor charlies almanack": 1
+        "poor charlies almanack": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "poor charlies almanack"
+        "poor charlies almanack",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "intergenerational_influence": {
       "id": "intergenerational_influence",
@@ -215891,12 +216093,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "presence in the modern world": 1
+        "presence in the modern world": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "presence in the modern world"
+        "presence in the modern world",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "cultural_periphery": {
       "id": "cultural_periphery",
@@ -226121,12 +226325,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "revolt-against-the-modern-world": 1
+        "revolt-against-the-modern-world": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "historical_transitions": {
       "id": "historical_transitions",
@@ -227815,12 +228021,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "revolt-against-the-modern-world": 1
+        "revolt-against-the-modern-world": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "heroic_ideals": {
       "id": "heroic_ideals",
@@ -229161,12 +229369,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "revolt-against-the-modern-world": 1
+        "revolt-against-the-modern-world": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "medieval_civilization": {
       "id": "medieval_civilization",
@@ -229595,12 +229805,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "revolt-against-the-modern-world": 1
+        "revolt-against-the-modern-world": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "imperial_revolt": {
       "id": "imperial_revolt",
@@ -235759,12 +235971,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "schizoposting": 3
+        "schizoposting": 3,
+        "europes tragedy": 1
       },
       "books": [
-        "schizoposting"
+        "schizoposting",
+        "europes tragedy"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "anarcho_tyranny": {
       "id": "anarcho_tyranny",
@@ -248919,12 +249133,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the adventure of consciousness": 1
+        "the adventure of consciousness": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "the adventure of consciousness"
+        "the adventure of consciousness",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "spiritual_violence": {
       "id": "spiritual_violence",
@@ -253023,12 +253239,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the age of interconnection": 1
+        "the age of interconnection": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "the age of interconnection"
+        "the age of interconnection",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "communist_expansion": {
       "id": "communist_expansion",
@@ -257113,12 +257331,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "the ascent of money"
+        "the ascent of money",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "colonial_exploitation": {
       "id": "colonial_exploitation",
@@ -257323,12 +257543,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "europes tragedy": 6
       },
       "books": [
-        "the ascent of money"
+        "the ascent of money",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 7
     },
     "public_debt": {
       "id": "public_debt",
@@ -257337,12 +257559,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "the ascent of money"
+        "the ascent of money",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "italian_city_states": {
       "id": "italian_city_states",
@@ -258409,12 +258633,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "europes tragedy": 2
       },
       "books": [
-        "the ascent of money"
+        "the ascent of money",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "opium_wars": {
       "id": "opium_wars",
@@ -264477,12 +264703,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the culture of narcissism": 2
+        "the culture of narcissism": 2,
+        "europes tragedy": 1
       },
       "books": [
-        "the culture of narcissism"
+        "the culture of narcissism",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "parental_authority": {
       "id": "parental_authority",
@@ -267197,12 +267425,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the elephant in the brain": 1
+        "the elephant in the brain": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "the elephant in the brain"
+        "the elephant in the brain",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "honest_signaling": {
       "id": "honest_signaling",
@@ -269877,12 +270107,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the first ghosts": 1
+        "the first ghosts": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "the first ghosts"
+        "the first ghosts",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "narrative_progression": {
       "id": "narrative_progression",
@@ -276937,12 +277169,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the interior castle": 1
+        "the interior castle": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "the interior castle"
+        "the interior castle",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "allegorical_structure": {
       "id": "allegorical_structure",
@@ -292531,12 +292765,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the power of ritual in prehistory": 2
+        "the power of ritual in prehistory": 2,
+        "europes tragedy": 1
       },
       "books": [
-        "the power of ritual in prehistory"
+        "the power of ritual in prehistory",
+        "europes tragedy"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "ritual_structures": {
       "id": "ritual_structures",
@@ -318647,12 +318883,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "villa_culture": {
       "id": "villa_culture",
@@ -336067,12 +336305,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "universal_democracy": {
       "id": "universal_democracy",
@@ -336557,12 +336797,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "unqualified reservations": 4
+        "unqualified reservations": 4,
+        "europes tragedy": 2
       },
       "books": [
-        "unqualified reservations"
+        "unqualified reservations",
+        "europes tragedy"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "racial_voting_patterns": {
       "id": "racial_voting_patterns",
@@ -352743,12 +352985,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "skin in the game": 1
+        "skin in the game": 1,
+        "europes tragedy": 1
       },
       "books": [
-        "skin in the game"
+        "skin in the game",
+        "europes tragedy"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "religious_categorization": {
       "id": "religious_categorization",
@@ -356739,11 +356983,3189 @@
         "atomic habits"
       ],
       "claim_count": 1
+    },
+    "dynastic_conflict": {
+      "id": "dynastic_conflict",
+      "label": "Dynastic Conflict",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "religious_fundamentalism": {
+      "id": "religious_fundamentalism",
+      "label": "Religious Fundamentalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessionalization": {
+      "id": "confessionalization",
+      "label": "Confessionalization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "just_war": {
+      "id": "just_war",
+      "label": "Just War",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peace_settlements": {
+      "id": "peace_settlements",
+      "label": "Peace Settlements",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "constitutional_stability": {
+      "id": "constitutional_stability",
+      "label": "Constitutional Stability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "structural_causation": {
+      "id": "structural_causation",
+      "label": "Structural Causation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_constitution": {
+      "id": "imperial_constitution",
+      "label": "Imperial Constitution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "feudal_hierarchy": {
+      "id": "feudal_hierarchy",
+      "label": "Feudal Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "composite_state": {
+      "id": "composite_state",
+      "label": "Composite State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "social_disciplining": {
+      "id": "social_disciplining",
+      "label": "Social Disciplining",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "pluralism": {
+      "id": "pluralism",
+      "label": "Pluralism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "institutional_expansion": {
+      "id": "institutional_expansion",
+      "label": "Institutional Expansion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "constitutional_ambiguity": {
+      "id": "constitutional_ambiguity",
+      "label": "Constitutional Ambiguity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "resistance_theory": {
+      "id": "resistance_theory",
+      "label": "Resistance Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "lutheranism": {
+      "id": "lutheranism",
+      "label": "Lutheranism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "constitutional_monarchy": {
+      "id": "constitutional_monarchy",
+      "label": "Constitutional Monarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "estate_representation": {
+      "id": "estate_representation",
+      "label": "Estate Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "dynastic_crisis": {
+      "id": "dynastic_crisis",
+      "label": "Dynastic Crisis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "personal_rule": {
+      "id": "personal_rule",
+      "label": "Personal Rule",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peasant_revolt": {
+      "id": "peasant_revolt",
+      "label": "Peasant Revolt",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "serfdom": {
+      "id": "serfdom",
+      "label": "Serfdom",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "constitutional_concession": {
+      "id": "constitutional_concession",
+      "label": "Constitutional Concession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "parallel_government": {
+      "id": "parallel_government",
+      "label": "Parallel Government",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dynastic_weakness": {
+      "id": "dynastic_weakness",
+      "label": "Dynastic Weakness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "ottoman_empire": {
+      "id": "ottoman_empire",
+      "label": "Ottoman Empire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "strategic_logistics": {
+      "id": "strategic_logistics",
+      "label": "Strategic Logistics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_defense": {
+      "id": "imperial_defense",
+      "label": "Imperial Defense",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "infantry_tactics": {
+      "id": "infantry_tactics",
+      "label": "Infantry Tactics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "cavalry_tactics": {
+      "id": "cavalry_tactics",
+      "label": "Cavalry Tactics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "military_revolution": {
+      "id": "military_revolution",
+      "label": "Military Revolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_careers": {
+      "id": "military_careers",
+      "label": "Military Careers",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "frontier_warfare": {
+      "id": "frontier_warfare",
+      "label": "Frontier Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_army": {
+      "id": "imperial_army",
+      "label": "Imperial Army",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "treaty_making": {
+      "id": "treaty_making",
+      "label": "Treaty Making",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "hungarian_autonomy": {
+      "id": "hungarian_autonomy",
+      "label": "Hungarian Autonomy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "ottoman_decline": {
+      "id": "ottoman_decline",
+      "label": "Ottoman Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "geopolitical_restraint": {
+      "id": "geopolitical_restraint",
+      "label": "Geopolitical Restraint",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_frontier": {
+      "id": "military_frontier",
+      "label": "Military Frontier",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "frontier_defense": {
+      "id": "frontier_defense",
+      "label": "Frontier Defense",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dutch_republic": {
+      "id": "dutch_republic",
+      "label": "Dutch Republic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "arms_trade": {
+      "id": "arms_trade",
+      "label": "Arms Trade",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "commercial_capitalism": {
+      "id": "commercial_capitalism",
+      "label": "Commercial Capitalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_reform": {
+      "id": "military_reform",
+      "label": "Military Reform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "neo_stoicism": {
+      "id": "neo_stoicism",
+      "label": "Neo Stoicism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_discipline": {
+      "id": "military_discipline",
+      "label": "Military Discipline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "strategic_communications": {
+      "id": "strategic_communications",
+      "label": "Strategic Communications",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "spanish_hegemony": {
+      "id": "spanish_hegemony",
+      "label": "Spanish Hegemony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_strategy": {
+      "id": "diplomatic_strategy",
+      "label": "Diplomatic Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "reputacion": {
+      "id": "reputacion",
+      "label": "Reputacion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "maritime_power": {
+      "id": "maritime_power",
+      "label": "Maritime Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "domain_state": {
+      "id": "domain_state",
+      "label": "Domain State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "fiscal_military_state": {
+      "id": "fiscal_military_state",
+      "label": "Fiscal Military State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "baltic_trade": {
+      "id": "baltic_trade",
+      "label": "Baltic Trade",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_church": {
+      "id": "imperial_church",
+      "label": "Imperial Church",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "swedish_imperialism": {
+      "id": "swedish_imperialism",
+      "label": "Swedish Imperialism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "partnership_government": {
+      "id": "partnership_government",
+      "label": "Partnership Government",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "conscription": {
+      "id": "conscription",
+      "label": "Conscription",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "fiscal_burden": {
+      "id": "fiscal_burden",
+      "label": "Fiscal Burden",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "noble_commonwealth": {
+      "id": "noble_commonwealth",
+      "label": "Noble Commonwealth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dynastic_alliance": {
+      "id": "dynastic_alliance",
+      "label": "Dynastic Alliance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "protestant_politics": {
+      "id": "protestant_politics",
+      "label": "Protestant Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "constitutional_conservatism": {
+      "id": "constitutional_conservatism",
+      "label": "Constitutional Conservatism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "lutheran_orthodoxy": {
+      "id": "lutheran_orthodoxy",
+      "label": "Lutheran Orthodoxy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "legal_politicization": {
+      "id": "legal_politicization",
+      "label": "Legal Politicization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_alliance": {
+      "id": "confessional_alliance",
+      "label": "Confessional Alliance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "judicial_paralysis": {
+      "id": "judicial_paralysis",
+      "label": "Judicial Paralysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "calvinist_politics": {
+      "id": "calvinist_politics",
+      "label": "Calvinist Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "bavarian_politics": {
+      "id": "bavarian_politics",
+      "label": "Bavarian Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "catholic_league": {
+      "id": "catholic_league",
+      "label": "Catholic League",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_justice": {
+      "id": "imperial_justice",
+      "label": "Imperial Justice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dynastic_ambition": {
+      "id": "dynastic_ambition",
+      "label": "Dynastic Ambition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "confessional_alliances": {
+      "id": "confessional_alliances",
+      "label": "Confessional Alliances",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "protestant_union": {
+      "id": "protestant_union",
+      "label": "Protestant Union",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "catholic_liga": {
+      "id": "catholic_liga",
+      "label": "Catholic Liga",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "collective_security": {
+      "id": "collective_security",
+      "label": "Collective Security",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "inheritance_dispute": {
+      "id": "inheritance_dispute",
+      "label": "Inheritance Dispute",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "great_power_intervention": {
+      "id": "great_power_intervention",
+      "label": "Great Power Intervention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peace_through_deterrence": {
+      "id": "peace_through_deterrence",
+      "label": "Peace Through Deterrence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "fiscal_limits_of_war": {
+      "id": "fiscal_limits_of_war",
+      "label": "Fiscal Limits Of War",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_coercion": {
+      "id": "military_coercion",
+      "label": "Military Coercion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "habsburg_politics": {
+      "id": "habsburg_politics",
+      "label": "Habsburg Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_mediation": {
+      "id": "confessional_mediation",
+      "label": "Confessional Mediation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_institutions": {
+      "id": "imperial_institutions",
+      "label": "Imperial Institutions",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "territorial_succession": {
+      "id": "territorial_succession",
+      "label": "Territorial Succession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_polarization": {
+      "id": "confessional_polarization",
+      "label": "Confessional Polarization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "strategic_geography": {
+      "id": "strategic_geography",
+      "label": "Strategic Geography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dynastic_diplomacy": {
+      "id": "dynastic_diplomacy",
+      "label": "Dynastic Diplomacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "secret_treaties": {
+      "id": "secret_treaties",
+      "label": "Secret Treaties",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_entrepreneurship": {
+      "id": "military_entrepreneurship",
+      "label": "Military Entrepreneurship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "millenarianism": {
+      "id": "millenarianism",
+      "label": "Millenarianism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "religious_radicalism": {
+      "id": "religious_radicalism",
+      "label": "Religious Radicalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_identity": {
+      "id": "confessional_identity",
+      "label": "Confessional Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_conflict": {
+      "id": "confessional_conflict",
+      "label": "Confessional Conflict",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "constitutional_politics": {
+      "id": "constitutional_politics",
+      "label": "Constitutional Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "aristocratic_corporatism": {
+      "id": "aristocratic_corporatism",
+      "label": "Aristocratic Corporatism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "diplomatic_miscalculation": {
+      "id": "diplomatic_miscalculation",
+      "label": "Diplomatic Miscalculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_politics": {
+      "id": "confessional_politics",
+      "label": "Confessional Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 4
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 4
+    },
+    "morale": {
+      "id": "morale",
+      "label": "Morale",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "battlefield_decision": {
+      "id": "battlefield_decision",
+      "label": "Battlefield Decision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "social_base": {
+      "id": "social_base",
+      "label": "Social Base",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_loyalty": {
+      "id": "confessional_loyalty",
+      "label": "Confessional Loyalty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "land_redistribution": {
+      "id": "land_redistribution",
+      "label": "Land Redistribution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "dynastic_reward": {
+      "id": "dynastic_reward",
+      "label": "Dynastic Reward",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_warfare": {
+      "id": "confessional_warfare",
+      "label": "Confessional Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "mercenary_armies": {
+      "id": "mercenary_armies",
+      "label": "Mercenary Armies",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "eastern_european_politics": {
+      "id": "eastern_european_politics",
+      "label": "Eastern European Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "ottoman_relations": {
+      "id": "ottoman_relations",
+      "label": "Ottoman Relations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dynastic_negotiation": {
+      "id": "dynastic_negotiation",
+      "label": "Dynastic Negotiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_limitations": {
+      "id": "military_limitations",
+      "label": "Military Limitations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "naval_strategy": {
+      "id": "naval_strategy",
+      "label": "Naval Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "trade_warfare": {
+      "id": "trade_warfare",
+      "label": "Trade Warfare",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "administrative_reform": {
+      "id": "administrative_reform",
+      "label": "Administrative Reform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "great_power_rivalry": {
+      "id": "great_power_rivalry",
+      "label": "Great Power Rivalry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "proxy_conflict": {
+      "id": "proxy_conflict",
+      "label": "Proxy Conflict",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "alpine_strategy": {
+      "id": "alpine_strategy",
+      "label": "Alpine Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_failure": {
+      "id": "diplomatic_failure",
+      "label": "Diplomatic Failure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_violence": {
+      "id": "confessional_violence",
+      "label": "Confessional Violence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "fiscal_extraction": {
+      "id": "fiscal_extraction",
+      "label": "Fiscal Extraction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "campaign_strategy": {
+      "id": "campaign_strategy",
+      "label": "Campaign Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "alliance_coordination": {
+      "id": "alliance_coordination",
+      "label": "Alliance Coordination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_overreach": {
+      "id": "imperial_overreach",
+      "label": "Imperial Overreach",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "military_patronage": {
+      "id": "military_patronage",
+      "label": "Military Patronage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "political_backlash": {
+      "id": "political_backlash",
+      "label": "Political Backlash",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_settlement": {
+      "id": "diplomatic_settlement",
+      "label": "Diplomatic Settlement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "protestant_alliance": {
+      "id": "protestant_alliance",
+      "label": "Protestant Alliance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "religious_restitution": {
+      "id": "religious_restitution",
+      "label": "Religious Restitution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "political_miscalculation": {
+      "id": "political_miscalculation",
+      "label": "Political Miscalculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "italian_politics": {
+      "id": "italian_politics",
+      "label": "Italian Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_overreach": {
+      "id": "diplomatic_overreach",
+      "label": "Diplomatic Overreach",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "strategic_retreat": {
+      "id": "strategic_retreat",
+      "label": "Strategic Retreat",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_command": {
+      "id": "military_command",
+      "label": "Military Command",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 3
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 3
+    },
+    "patronage_networks": {
+      "id": "patronage_networks",
+      "label": "Patronage Networks",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "institutional_reform": {
+      "id": "institutional_reform",
+      "label": "Institutional Reform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_manipulation": {
+      "id": "diplomatic_manipulation",
+      "label": "Diplomatic Manipulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "battlefield_tactics": {
+      "id": "battlefield_tactics",
+      "label": "Battlefield Tactics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "military_exploitation": {
+      "id": "military_exploitation",
+      "label": "Military Exploitation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "strategic_expansion": {
+      "id": "strategic_expansion",
+      "label": "Strategic Expansion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "occupation_politics": {
+      "id": "occupation_politics",
+      "label": "Occupation Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "coalition_weakness": {
+      "id": "coalition_weakness",
+      "label": "Coalition Weakness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "strategic_attrition": {
+      "id": "strategic_attrition",
+      "label": "Strategic Attrition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_recovery": {
+      "id": "imperial_recovery",
+      "label": "Imperial Recovery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "regency_government": {
+      "id": "regency_government",
+      "label": "Regency Government",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_competition": {
+      "id": "diplomatic_competition",
+      "label": "Diplomatic Competition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "military_mutiny": {
+      "id": "military_mutiny",
+      "label": "Military Mutiny",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "property_confiscation": {
+      "id": "property_confiscation",
+      "label": "Property Confiscation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "army_finances": {
+      "id": "army_finances",
+      "label": "Army Finances",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "secret_diplomacy": {
+      "id": "secret_diplomacy",
+      "label": "Secret Diplomacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "political_assassination": {
+      "id": "political_assassination",
+      "label": "Political Assassination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_loyalty": {
+      "id": "military_loyalty",
+      "label": "Military Loyalty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "decisive_battle": {
+      "id": "decisive_battle",
+      "label": "Decisive Battle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 5
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 5
+    },
+    "peasant_resistance": {
+      "id": "peasant_resistance",
+      "label": "Peasant Resistance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peace_settlement": {
+      "id": "peace_settlement",
+      "label": "Peace Settlement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 2
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 2
+    },
+    "religious_normative_year": {
+      "id": "religious_normative_year",
+      "label": "Religious Normative Year",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "amnesty_politics": {
+      "id": "amnesty_politics",
+      "label": "Amnesty Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "war_declaration": {
+      "id": "war_declaration",
+      "label": "War Declaration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomacy": {
+      "id": "diplomacy",
+      "label": "Diplomacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "baltic_politics": {
+      "id": "baltic_politics",
+      "label": "Baltic Politics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "mercenary_loyalty": {
+      "id": "mercenary_loyalty",
+      "label": "Mercenary Loyalty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "tactical_maneuver": {
+      "id": "tactical_maneuver",
+      "label": "Tactical Maneuver",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "strategic_consequences": {
+      "id": "strategic_consequences",
+      "label": "Strategic Consequences",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "dynastic_governance": {
+      "id": "dynastic_governance",
+      "label": "Dynastic Governance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_retreat": {
+      "id": "military_retreat",
+      "label": "Military Retreat",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "subsidy_diplomacy": {
+      "id": "subsidy_diplomacy",
+      "label": "Subsidy Diplomacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "mercenary_recruitment": {
+      "id": "mercenary_recruitment",
+      "label": "Mercenary Recruitment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "army_transfer": {
+      "id": "army_transfer",
+      "label": "Army Transfer",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "administrative_fragmentation": {
+      "id": "administrative_fragmentation",
+      "label": "Administrative Fragmentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "imperial_diet": {
+      "id": "imperial_diet",
+      "label": "Imperial Diet",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_negotiations": {
+      "id": "confessional_negotiations",
+      "label": "Confessional Negotiations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "alliance_renewal": {
+      "id": "alliance_renewal",
+      "label": "Alliance Renewal",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_commitment": {
+      "id": "diplomatic_commitment",
+      "label": "Diplomatic Commitment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "baltic_security": {
+      "id": "baltic_security",
+      "label": "Baltic Security",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "tactical_victory": {
+      "id": "tactical_victory",
+      "label": "Tactical Victory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "lower_rhine_campaign": {
+      "id": "lower_rhine_campaign",
+      "label": "Lower Rhine Campaign",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "army_composition": {
+      "id": "army_composition",
+      "label": "Army Composition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "post_war_memory": {
+      "id": "post_war_memory",
+      "label": "Post War Memory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "international_congress": {
+      "id": "international_congress",
+      "label": "International Congress",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_protocol": {
+      "id": "diplomatic_protocol",
+      "label": "Diplomatic Protocol",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "preventive_war": {
+      "id": "preventive_war",
+      "label": "Preventive War",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "baltic_hegemony": {
+      "id": "baltic_hegemony",
+      "label": "Baltic Hegemony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "habsburg_resilience": {
+      "id": "habsburg_resilience",
+      "label": "Habsburg Resilience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peace_negotiation": {
+      "id": "peace_negotiation",
+      "label": "Peace Negotiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "territorial_concession": {
+      "id": "territorial_concession",
+      "label": "Territorial Concession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "colonial_revolt": {
+      "id": "colonial_revolt",
+      "label": "Colonial Revolt",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "territorial_negotiation": {
+      "id": "territorial_negotiation",
+      "label": "Territorial Negotiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_ambiguity": {
+      "id": "diplomatic_ambiguity",
+      "label": "Diplomatic Ambiguity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "religious_settlement": {
+      "id": "religious_settlement",
+      "label": "Religious Settlement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "normative_year": {
+      "id": "normative_year",
+      "label": "Normative Year",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_compromise": {
+      "id": "confessional_compromise",
+      "label": "Confessional Compromise",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_truce": {
+      "id": "military_truce",
+      "label": "Military Truce",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "army_mutiny": {
+      "id": "army_mutiny",
+      "label": "Army Mutiny",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "alliance_breakdown": {
+      "id": "alliance_breakdown",
+      "label": "Alliance Breakdown",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peace_treaty": {
+      "id": "peace_treaty",
+      "label": "Peace Treaty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_recognition": {
+      "id": "diplomatic_recognition",
+      "label": "Diplomatic Recognition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_plunder": {
+      "id": "military_plunder",
+      "label": "Military Plunder",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "international_order": {
+      "id": "international_order",
+      "label": "International Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "diplomatic_history": {
+      "id": "diplomatic_history",
+      "label": "Diplomatic History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "confessional_settlement": {
+      "id": "confessional_settlement",
+      "label": "Confessional Settlement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "corporate_rights": {
+      "id": "corporate_rights",
+      "label": "Corporate Rights",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "demobilization": {
+      "id": "demobilization",
+      "label": "Demobilization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_disbandment": {
+      "id": "military_disbandment",
+      "label": "Military Disbandment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "post_war_stability": {
+      "id": "post_war_stability",
+      "label": "Post War Stability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "international_guarantees": {
+      "id": "international_guarantees",
+      "label": "International Guarantees",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "romantic_historiography": {
+      "id": "romantic_historiography",
+      "label": "Romantic Historiography",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "demographic_collapse": {
+      "id": "demographic_collapse",
+      "label": "Demographic Collapse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "wartime_economics": {
+      "id": "wartime_economics",
+      "label": "Wartime Economics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "demographic_impact": {
+      "id": "demographic_impact",
+      "label": "Demographic Impact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "population_decline": {
+      "id": "population_decline",
+      "label": "Population Decline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "urban_history": {
+      "id": "urban_history",
+      "label": "Urban History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "mortality_causes": {
+      "id": "mortality_causes",
+      "label": "Mortality Causes",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "institutional_resilience": {
+      "id": "institutional_resilience",
+      "label": "Institutional Resilience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "baroque_culture": {
+      "id": "baroque_culture",
+      "label": "Baroque Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "artistic_patronage": {
+      "id": "artistic_patronage",
+      "label": "Artistic Patronage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "literary_analysis": {
+      "id": "literary_analysis",
+      "label": "Literary Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "picaresque_novel": {
+      "id": "picaresque_novel",
+      "label": "Picaresque Novel",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "information_networks": {
+      "id": "information_networks",
+      "label": "Information Networks",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_civilian_relations": {
+      "id": "military_civilian_relations",
+      "label": "Military Civilian Relations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "everyday_violence": {
+      "id": "everyday_violence",
+      "label": "Everyday Violence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "community_defense": {
+      "id": "community_defense",
+      "label": "Community Defense",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "gender_and_war": {
+      "id": "gender_and_war",
+      "label": "Gender And War",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "local_agency": {
+      "id": "local_agency",
+      "label": "Local Agency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "military_sociology": {
+      "id": "military_sociology",
+      "label": "Military Sociology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "soldier_experience": {
+      "id": "soldier_experience",
+      "label": "Soldier Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "occupational_disruption": {
+      "id": "occupational_disruption",
+      "label": "Occupational Disruption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "judicial_breakdown": {
+      "id": "judicial_breakdown",
+      "label": "Judicial Breakdown",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "providentialist_thinking": {
+      "id": "providentialist_thinking",
+      "label": "Providentialist Thinking",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
+    },
+    "peace_celebrations": {
+      "id": "peace_celebrations",
+      "label": "Peace Celebrations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "europes tragedy": 1
+      },
+      "books": [
+        "europes tragedy"
+      ],
+      "claim_count": 1
     }
   },
   "stats": {
-    "total_concepts": 24484,
-    "total_claims": 41397,
-    "books_indexed": 142
+    "total_concepts": 24711,
+    "total_claims": 41853,
+    "books_indexed": 143
   }
 }
