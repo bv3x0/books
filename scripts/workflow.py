@@ -13,6 +13,8 @@ import argparse
 import os
 import subprocess
 import sys
+import time
+from dataclasses import dataclass
 from pathlib import Path
 
 
@@ -21,6 +23,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from app.bootstrap import project_python_executable
+from app.services.publish_service import PublishOptions, publish_run
 
 
 PYTHON = project_python_executable()
@@ -28,9 +31,21 @@ PRODUCTION_BRANCH = os.environ.get("SUMMARIZER_PRODUCTION_BRANCH", "main")
 COMPARISON_NOTE_SUFFIXES = (".test", ".gem", ".gpt")
 
 
-def run_cmd(cmd: list[str]) -> int:
+@dataclass(frozen=True)
+class PublishSettings:
+    reconcile: str
+    sync_vectors: bool
+    skip_integrity: bool
+    book_filters: list[str] | None
+    force_search_index: bool
+
+
+def run_cmd(cmd: list[str], env: dict[str, str] | None = None) -> int:
     """Run a command in project root, streaming output."""
-    process = subprocess.run(cmd, cwd=PROJECT_ROOT)
+    started_at = time.perf_counter()
+    process = subprocess.run(cmd, cwd=PROJECT_ROOT, env=env)
+    elapsed = time.perf_counter() - started_at
+    print(f"[workflow] completed in {elapsed:.2f}s: {' '.join(cmd)}", file=sys.stderr)
     return process.returncode
 
 
@@ -107,6 +122,94 @@ def resolve_book_filters(args: argparse.Namespace) -> list[str] | None:
     return None
 
 
+def resolve_publish_settings(args: argparse.Namespace) -> PublishSettings:
+    """Resolve publish preset flags and scoped book filters."""
+    reconcile = args.reconcile
+    sync_vectors = args.sync_vectors
+    changed_only = getattr(args, "changed_only", False)
+
+    if getattr(args, "daily", False):
+        reconcile = "full"
+        sync_vectors = True
+        changed_only = True
+
+    settings_args = argparse.Namespace(
+        book=getattr(args, "book", None),
+        changed_only=changed_only,
+    )
+    book_filters = resolve_book_filters(settings_args)
+
+    if book_filters is not None:
+        if book_filters:
+            print(
+                "Book scope: " + ", ".join(book_filters),
+                file=sys.stderr,
+            )
+        else:
+            if reconcile != "none" or sync_vectors:
+                print(
+                    "Changed-only scope found no canonical book changes; "
+                    "skipping reconcile/vector sync.",
+                    file=sys.stderr,
+                )
+            reconcile = "none"
+            sync_vectors = False
+
+    return PublishSettings(
+        reconcile=reconcile,
+        sync_vectors=sync_vectors,
+        skip_integrity=args.skip_integrity,
+        book_filters=book_filters,
+        force_search_index=getattr(args, "force_search_index", False),
+    )
+
+
+def default_commit_message(args: argparse.Namespace) -> str:
+    """Return a useful default commit message for wrapper-created commits."""
+    explicit_books = [book for book in (getattr(args, "book", None) or []) if book]
+    if explicit_books:
+        unique_books = list(dict.fromkeys(explicit_books))
+        if len(unique_books) == 1:
+            return f"publish {unique_books[0]}"
+        return f"publish {len(unique_books)} book updates"
+    if getattr(args, "daily", False):
+        return "publish daily book updates"
+    if getattr(args, "changed_only", False):
+        return "publish changed book updates"
+    return "publish book updates"
+
+
+def commit_message(args: argparse.Namespace) -> str:
+    return getattr(args, "message", None) or default_commit_message(args)
+
+
+def build_ingest_env(args: argparse.Namespace) -> dict[str, str] | None:
+    """Build an optional environment override for ingest tuning flags."""
+    env_updates = {}
+    if getattr(args, "concurrency", None) is not None:
+        env_updates["INGEST_CONCURRENCY"] = str(args.concurrency)
+    if getattr(args, "chunk_min_tokens", None) is not None:
+        env_updates["SMART_CHUNK_MIN_TOKENS"] = str(args.chunk_min_tokens)
+    if getattr(args, "chunk_max_tokens", None) is not None:
+        env_updates["SMART_CHUNK_MAX_TOKENS"] = str(args.chunk_max_tokens)
+    if getattr(args, "chunk_target_output_tokens", None) is not None:
+        env_updates["SMART_CHUNK_TARGET_OUTPUT_TOKENS"] = str(
+            args.chunk_target_output_tokens
+        )
+
+    if not env_updates:
+        return None
+
+    print(
+        "Ingest tuning: "
+        + ", ".join(f"{key}={value}" for key, value in sorted(env_updates.items())),
+        file=sys.stderr,
+    )
+    env = os.environ.copy()
+    env.update(env_updates)
+    return env
+
+
 def print_ship_result(summary: str) -> None:
     """Print a blunt end-of-run ship summary."""
     print(f"SHIP RESULT: {summary}", file=sys.stderr)
@@ -140,41 +243,46 @@ def add_command(args: argparse.Namespace) -> int:
         cmd.append("--yes")
     if args.non_interactive:
         cmd.append("--non-interactive")
+    env = build_ingest_env(args)
+    if env is not None:
+        return run_cmd(cmd, env=env)
     return run_cmd(cmd)
 
 
 def publish_command(args: argparse.Namespace) -> int:
-    cmd = [PYTHON, "app/cli/publish.py", "publish"]
-    reconcile = args.reconcile
-    sync_vectors = args.sync_vectors
-    book_filters = resolve_book_filters(args)
+    settings = resolve_publish_settings(args)
+    started_at = time.perf_counter()
+    result = publish_run(
+        PublishOptions(
+            reconcile_mode=settings.reconcile,
+            sync_vectors=settings.sync_vectors,
+            run_integrity=not settings.skip_integrity,
+            book_filters=(
+                tuple(settings.book_filters)
+                if settings.book_filters is not None
+                else None
+            ),
+            force_search_index=settings.force_search_index,
+        )
+    )
+    elapsed = time.perf_counter() - started_at
+    print(f"[workflow] publish completed in {elapsed:.2f}s", file=sys.stderr)
+    return 0 if result.ok else 1
 
-    if book_filters is not None:
-        if book_filters:
-            print(
-                "Book scope: " + ", ".join(book_filters),
-                file=sys.stderr,
-            )
-        else:
-            if reconcile != "none" or sync_vectors:
-                print(
-                    "Changed-only scope found no canonical book changes; "
-                    "skipping reconcile/vector sync.",
-                    file=sys.stderr,
-                )
-            reconcile = "none"
-            sync_vectors = False
 
-    if reconcile != "none":
-        cmd.extend(["--reconcile", reconcile])
-    if sync_vectors:
-        cmd.append("--sync-vectors")
-    if args.skip_integrity:
-        cmd.append("--skip-integrity")
-    if book_filters:
-        for book in book_filters:
-            cmd.extend(["--book", book])
-    return run_cmd(cmd)
+def print_ship_plan(args: argparse.Namespace, branch: str | None, branch_display: str) -> None:
+    """Print what ship would do without mutating the worktree."""
+    commit = commit_message(args)
+    if branch == PRODUCTION_BRANCH:
+        deploy_summary = f"push '{PRODUCTION_BRANCH}' for production deployment"
+    elif getattr(args, "deploy_production", False):
+        deploy_summary = (
+            f"push '{branch_display}', then deploy current worktree to Vercel production"
+        )
+    else:
+        deploy_summary = f"push '{branch_display}' for preview deployment only"
+
+    print(f"Plan: publish, stage all changes, commit '{commit}', then {deploy_summary}.", file=sys.stderr)
 
 
 def ship_command(args: argparse.Namespace) -> int:
@@ -182,28 +290,42 @@ def ship_command(args: argparse.Namespace) -> int:
     branch_display = branch or "<detached-head>"
     preview_only_push = branch != PRODUCTION_BRANCH
 
+    if getattr(args, "plan_only", False):
+        print_ship_plan(args, branch, branch_display)
+        print_ship_result("Plan only. No publish, git, push, or deploy actions ran.")
+        return 0
+
     if preview_only_push and not args.deploy_production:
         print(
             f"Preview ship: branch '{branch_display}' will push a preview deployment only.",
             file=sys.stderr,
         )
 
-    publish_args = argparse.Namespace(
-        reconcile=args.reconcile,
-        sync_vectors=args.sync_vectors,
-        skip_integrity=args.skip_integrity,
-        changed_only=getattr(args, "changed_only", False),
-        book=getattr(args, "book", None),
-    )
-    rc = publish_command(publish_args)
-    if rc != 0:
-        return rc
+    if getattr(args, "skip_publish", False):
+        if not args.dry_run:
+            print("--skip-publish is only allowed with --dry-run.", file=sys.stderr)
+            return 2
+        print("Dry run: skipping publish preflight by request.", file=sys.stderr)
+    else:
+        publish_args = argparse.Namespace(
+            reconcile=args.reconcile,
+            sync_vectors=args.sync_vectors,
+            skip_integrity=args.skip_integrity,
+            changed_only=getattr(args, "changed_only", False),
+            book=getattr(args, "book", None),
+            daily=getattr(args, "daily", False),
+            force_search_index=getattr(args, "force_search_index", False),
+        )
+        rc = publish_command(publish_args)
+        if rc != 0:
+            return rc
 
     if args.dry_run:
         print(
             f"Dry run: would stage the current worktree and push '{branch_display}'.",
             file=sys.stderr,
         )
+        print(f"Dry run: would commit with message: {commit_message(args)}", file=sys.stderr)
         if args.deploy_production:
             if branch == PRODUCTION_BRANCH:
                 print(
@@ -232,7 +354,7 @@ def ship_command(args: argparse.Namespace) -> int:
         commit_cmd = ["git"]
         if args.no_gpg_sign:
             commit_cmd.extend(["-c", "commit.gpgsign=false"])
-        commit_cmd.extend(["commit", "-m", "new books"])
+        commit_cmd.extend(["commit", "-m", commit_message(args)])
 
         commit_result = run_captured_cmd(commit_cmd)
         print_completed_process_output(commit_result)
@@ -294,7 +416,18 @@ def ship_command(args: argparse.Namespace) -> int:
 
 
 def smoke_command(_args: argparse.Namespace) -> int:
-    return run_cmd([PYTHON, "scripts/smoke_test.py"])
+    cmd = [PYTHON, "scripts/smoke_test.py"]
+    for flag in ("quick", "publish", "deploy_contract", "full"):
+        if getattr(_args, flag, False):
+            cmd.append("--" + flag.replace("_", "-"))
+    return run_cmd(cmd)
+
+
+def positive_int(raw: str) -> int:
+    value = int(raw)
+    if value <= 0:
+        raise argparse.ArgumentTypeError("must be a positive integer")
+    return value
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -345,6 +478,26 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Never prompt; proceed on safe confirmations and abort when judgment is required",
     )
+    add.add_argument(
+        "--concurrency",
+        type=positive_int,
+        help="Set INGEST_CONCURRENCY for this ingest run",
+    )
+    add.add_argument(
+        "--chunk-min-tokens",
+        type=positive_int,
+        help="Set SMART_CHUNK_MIN_TOKENS for this ingest run",
+    )
+    add.add_argument(
+        "--chunk-max-tokens",
+        type=positive_int,
+        help="Set SMART_CHUNK_MAX_TOKENS for this ingest run",
+    )
+    add.add_argument(
+        "--chunk-target-output-tokens",
+        type=positive_int,
+        help="Set SMART_CHUNK_TARGET_OUTPUT_TOKENS for this ingest run",
+    )
     add.set_defaults(handler=add_command)
 
     publish = subparsers.add_parser("publish", help="Run app/cli/publish.py publish")
@@ -375,6 +528,16 @@ def build_parser() -> argparse.ArgumentParser:
         "--skip-integrity",
         action="store_true",
         help="Skip integrity check before build",
+    )
+    publish.add_argument(
+        "--force-search-index",
+        action="store_true",
+        help="Regenerate Pagefind even when local search inputs look unchanged",
+    )
+    publish.add_argument(
+        "--daily",
+        action="store_true",
+        help="Preset: --changed-only --reconcile full --sync-vectors",
     )
     publish.set_defaults(handler=publish_command)
 
@@ -411,6 +574,21 @@ def build_parser() -> argparse.ArgumentParser:
         help="Skip integrity check before build",
     )
     ship.add_argument(
+        "--force-search-index",
+        action="store_true",
+        help="Regenerate Pagefind even when local search inputs look unchanged",
+    )
+    ship.add_argument(
+        "--daily",
+        action="store_true",
+        help="Preset: --changed-only --reconcile full --sync-vectors",
+    )
+    ship.add_argument(
+        "-m",
+        "--message",
+        help="Commit message for wrapper-created ship commits",
+    )
+    ship.add_argument(
         "--no-gpg-sign",
         action="store_true",
         help="Create the ship commit without GPG signing",
@@ -419,6 +597,16 @@ def build_parser() -> argparse.ArgumentParser:
         "--dry-run",
         action="store_true",
         help="Run publish and report what ship would do without staging, committing, pushing, or deploying",
+    )
+    ship.add_argument(
+        "--skip-publish",
+        action="store_true",
+        help="With --dry-run only, skip the publish preflight",
+    )
+    ship.add_argument(
+        "--plan-only",
+        action="store_true",
+        help="Print the ship plan without publishing, staging, committing, pushing, or deploying",
     )
     ship.add_argument(
         "--allow-preview",
@@ -435,6 +623,27 @@ def build_parser() -> argparse.ArgumentParser:
     smoke = subparsers.add_parser(
         "smoke",
         help="Run local smoke checks for publish/build/search surfaces",
+    )
+    smoke_mode = smoke.add_mutually_exclusive_group()
+    smoke_mode.add_argument(
+        "--quick",
+        action="store_true",
+        help="Only run fast CLI/API parse checks",
+    )
+    smoke_mode.add_argument(
+        "--publish",
+        action="store_true",
+        help="Run quick checks plus one local publish and output verification",
+    )
+    smoke_mode.add_argument(
+        "--deploy-contract",
+        action="store_true",
+        help="Run quick checks plus the Vercel root build contract",
+    )
+    smoke_mode.add_argument(
+        "--full",
+        action="store_true",
+        help="Run all smoke checks (default)",
     )
     smoke.set_defaults(handler=smoke_command)
 

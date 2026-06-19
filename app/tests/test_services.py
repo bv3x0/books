@@ -33,6 +33,7 @@ from app.services import (
     maintenance_service,
     publish_service,
     query_service,
+    site_service,
 )
 from app.services.ingest_reporting import print_cost_estimate
 from app.services.ingest_interaction import IngestPrompter, LowMatchAction, LowMatchDecision
@@ -223,6 +224,44 @@ class PublishServiceTests(unittest.TestCase):
         )
 
 
+class SiteServiceTests(unittest.TestCase):
+    def test_build_search_index_reuses_valid_cache(self):
+        with (
+            mock.patch.object(
+                site_service, "compute_search_index_fingerprint", return_value="abc123"
+            ),
+            mock.patch.object(site_service, "is_search_index_cache_valid", return_value=True),
+            mock.patch.object(site_service.subprocess, "run") as subprocess_run,
+        ):
+            result = site_service.build_search_index()
+
+        self.assertTrue(result.ok)
+        self.assertEqual(result.message, "Search index unchanged")
+        subprocess_run.assert_not_called()
+
+    def test_build_search_index_force_ignores_valid_cache(self):
+        completed = subprocess.CompletedProcess(
+            ["node"],
+            0,
+            stdout="Total claims indexed: 2\nIndex size: 1.0 KB\n",
+            stderr="",
+        )
+
+        with (
+            mock.patch.object(
+                site_service, "compute_search_index_fingerprint", return_value="abc123"
+            ),
+            mock.patch.object(site_service, "is_search_index_cache_valid", return_value=True),
+            mock.patch.object(site_service.subprocess, "run", return_value=completed) as subprocess_run,
+            mock.patch.object(site_service, "_write_cached_search_fingerprint") as write_cache,
+        ):
+            result = site_service.build_search_index(force=True)
+
+        self.assertTrue(result.ok)
+        subprocess_run.assert_called_once()
+        write_cache.assert_called_once_with("abc123")
+
+
 class WorkflowScriptTests(unittest.TestCase):
     def test_changed_book_filters_detect_canonical_books(self):
         status = (
@@ -259,25 +298,17 @@ class WorkflowScriptTests(unittest.TestCase):
                 "get_changed_book_filters",
                 return_value=["mind in motion", "the dark lord"],
             ),
-            mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
+            mock.patch.object(
+                workflow, "publish_run", return_value=SimpleNamespace(ok=True)
+            ) as publish_run,
         ):
             rc = workflow.publish_command(args)
 
         self.assertEqual(rc, 0)
-        run_cmd.assert_called_once_with(
-            [
-                workflow.PYTHON,
-                "app/cli/publish.py",
-                "publish",
-                "--reconcile",
-                "full",
-                "--sync-vectors",
-                "--book",
-                "mind in motion",
-                "--book",
-                "the dark lord",
-            ]
-        )
+        options = publish_run.call_args.args[0]
+        self.assertEqual(options.reconcile_mode, "full")
+        self.assertTrue(options.sync_vectors)
+        self.assertEqual(options.book_filters, ("mind in motion", "the dark lord"))
 
     def test_publish_command_changed_only_skips_sync_when_no_books_changed(self):
         args = SimpleNamespace(
@@ -291,16 +322,46 @@ class WorkflowScriptTests(unittest.TestCase):
 
         with (
             mock.patch.object(workflow, "get_changed_book_filters", return_value=[]),
-            mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
+            mock.patch.object(
+                workflow, "publish_run", return_value=SimpleNamespace(ok=True)
+            ) as publish_run,
             redirect_stderr(error),
         ):
             rc = workflow.publish_command(args)
 
         self.assertEqual(rc, 0)
-        run_cmd.assert_called_once_with(
-            [workflow.PYTHON, "app/cli/publish.py", "publish"]
-        )
+        options = publish_run.call_args.args[0]
+        self.assertEqual(options.reconcile_mode, "none")
+        self.assertFalse(options.sync_vectors)
+        self.assertEqual(options.book_filters, ())
         self.assertIn("skipping reconcile/vector sync", error.getvalue())
+
+    def test_publish_daily_preset_scopes_changed_books(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            changed_only=False,
+            book=None,
+            daily=True,
+            force_search_index=False,
+        )
+
+        with (
+            mock.patch.object(
+                workflow, "get_changed_book_filters", return_value=["mind in motion"]
+            ),
+            mock.patch.object(
+                workflow, "publish_run", return_value=SimpleNamespace(ok=True)
+            ) as publish_run,
+        ):
+            rc = workflow.publish_command(args)
+
+        self.assertEqual(rc, 0)
+        options = publish_run.call_args.args[0]
+        self.assertEqual(options.reconcile_mode, "full")
+        self.assertTrue(options.sync_vectors)
+        self.assertEqual(options.book_filters, ("mind in motion",))
 
     def test_add_forwards_selected_flags_to_main_cli(self):
         args = SimpleNamespace(
@@ -391,7 +452,14 @@ class WorkflowScriptTests(unittest.TestCase):
         def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
             if cmd == ["git", "diff", "--cached", "--quiet"]:
                 return subprocess.CompletedProcess(cmd, 1)
-            if cmd == ["git", "-c", "commit.gpgsign=false", "commit", "-m", "new books"]:
+            if cmd == [
+                "git",
+                "-c",
+                "commit.gpgsign=false",
+                "commit",
+                "-m",
+                "publish book updates",
+            ]:
                 return subprocess.CompletedProcess(cmd, 0, "", "")
             raise AssertionError(f"unexpected command: {cmd}")
 
@@ -428,7 +496,7 @@ class WorkflowScriptTests(unittest.TestCase):
         def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
             if cmd == ["git", "diff", "--cached", "--quiet"]:
                 return subprocess.CompletedProcess(cmd, 1)
-            if cmd == ["git", "commit", "-m", "new books"]:
+            if cmd == ["git", "commit", "-m", "publish book updates"]:
                 return subprocess.CompletedProcess(
                     cmd,
                     128,
@@ -478,7 +546,7 @@ class WorkflowScriptTests(unittest.TestCase):
         def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
             if cmd == ["git", "diff", "--cached", "--quiet"]:
                 return subprocess.CompletedProcess(cmd, 1)
-            if cmd == ["git", "commit", "-m", "new books"]:
+            if cmd == ["git", "commit", "-m", "publish book updates"]:
                 return subprocess.CompletedProcess(cmd, 0, "", "")
             raise AssertionError(f"unexpected command: {cmd}")
 
@@ -525,7 +593,7 @@ class WorkflowScriptTests(unittest.TestCase):
         def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
             if cmd == ["git", "diff", "--cached", "--quiet"]:
                 return subprocess.CompletedProcess(cmd, 1)
-            if cmd == ["git", "commit", "-m", "new books"]:
+            if cmd == ["git", "commit", "-m", "publish book updates"]:
                 return subprocess.CompletedProcess(cmd, 0, "", "")
             raise AssertionError(f"unexpected command: {cmd}")
 
@@ -565,7 +633,7 @@ class WorkflowScriptTests(unittest.TestCase):
         def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
             if cmd == ["git", "diff", "--cached", "--quiet"]:
                 return subprocess.CompletedProcess(cmd, 1)
-            if cmd == ["git", "commit", "-m", "new books"]:
+            if cmd == ["git", "commit", "-m", "publish book updates"]:
                 return subprocess.CompletedProcess(cmd, 0, "", "")
             raise AssertionError(f"unexpected command: {cmd}")
 
@@ -666,6 +734,34 @@ class WorkflowScriptTests(unittest.TestCase):
         self.assertIn("would stage the current worktree", error.getvalue())
         self.assertIn("would deploy current worktree", error.getvalue())
 
+    def test_ship_plan_only_skips_publish_and_git_mutations(self):
+        args = SimpleNamespace(
+            reconcile="none",
+            sync_vectors=False,
+            skip_integrity=False,
+            no_gpg_sign=False,
+            dry_run=False,
+            allow_preview=False,
+            deploy_production=False,
+            plan_only=True,
+        )
+        error = StringIO()
+
+        with (
+            mock.patch.object(workflow, "get_current_branch_name", return_value="feature/books"),
+            mock.patch.object(workflow, "publish_command", return_value=0) as publish_command,
+            mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd,
+            mock.patch.object(workflow.subprocess, "run") as subprocess_run,
+            redirect_stderr(error),
+        ):
+            rc = workflow.ship_command(args)
+
+        self.assertEqual(rc, 0)
+        publish_command.assert_not_called()
+        run_cmd.assert_not_called()
+        subprocess_run.assert_not_called()
+        self.assertIn("Plan only", error.getvalue())
+
     def test_ship_reports_main_branch_production_result(self):
         args = SimpleNamespace(
             reconcile="none",
@@ -686,7 +782,7 @@ class WorkflowScriptTests(unittest.TestCase):
         def fake_subprocess_run(cmd, cwd=None, capture_output=False, text=False):
             if cmd == ["git", "diff", "--cached", "--quiet"]:
                 return subprocess.CompletedProcess(cmd, 1)
-            if cmd == ["git", "commit", "-m", "new books"]:
+            if cmd == ["git", "commit", "-m", "publish book updates"]:
                 return subprocess.CompletedProcess(cmd, 0, "", "")
             raise AssertionError(f"unexpected command: {cmd}")
 

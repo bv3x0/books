@@ -4,6 +4,7 @@ Publish service: orchestrates blog build and deployment-adjacent maintenance.
 
 from __future__ import annotations
 
+import time
 from dataclasses import dataclass
 from typing import Callable
 
@@ -31,6 +32,7 @@ class PublishOptions:
     sync_vectors: bool = False
     run_integrity: bool = True
     book_filters: tuple[str, ...] | None = None
+    force_search_index: bool = False
 
 
 @dataclass(frozen=True)
@@ -45,6 +47,7 @@ class PublishRunResult:
     ok: bool
     fatal_step: str | None
     steps: list[tuple[str, StepResult]]
+    elapsed_seconds: float = 0.0
 
     @property
     def had_warnings(self) -> bool:
@@ -100,7 +103,11 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
             PublishStep("Updating stats", refresh_stats, True),
             PublishStep("Reporting semantic backlog", report_vector_backlog, False),
             PublishStep("Building Hugo site", build_site, True),
-            PublishStep("Generating Pagefind search index", build_search_index, False),
+            PublishStep(
+                "Generating Pagefind search index",
+                lambda: build_search_index(force=options.force_search_index),
+                False,
+            ),
         ]
     )
 
@@ -116,16 +123,25 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
     total_steps = len(steps)
     results: list[tuple[str, StepResult]] = []
     had_non_fatal_issues = False
+    run_started_at = time.perf_counter()
 
     for idx, step in enumerate(steps, start=1):
         log.info(f"\n[{idx}/{total_steps}] {step.label}...")
+        step_started_at = time.perf_counter()
         result = step.run()
+        elapsed = time.perf_counter() - step_started_at
         results.append((step.label, result))
+        log.info(f"  {result.status.value} in {elapsed:.2f}s")
         if result.message and result.status is not StepStatus.SUCCESS:
             log.info(f"  {result.status.value}: {result.message}")
         if not result.ok:
             if step.fatal:
-                return PublishRunResult(ok=False, fatal_step=step.label, steps=results)
+                return PublishRunResult(
+                    ok=False,
+                    fatal_step=step.label,
+                    steps=results,
+                    elapsed_seconds=time.perf_counter() - run_started_at,
+                )
             had_non_fatal_issues = True
             continue
         if result.status in {StepStatus.WARNING, StepStatus.SKIPPED}:
@@ -137,8 +153,14 @@ def publish_run(options: PublishOptions) -> PublishRunResult:
     else:
         log.info("Blog built successfully!")
     log.info(f"Output: {PUBLIC_DIR}")
+    log.info(f"Elapsed: {time.perf_counter() - run_started_at:.2f}s")
     log.info("=" * 50)
-    return PublishRunResult(ok=True, fatal_step=None, steps=results)
+    return PublishRunResult(
+        ok=True,
+        fatal_step=None,
+        steps=results,
+        elapsed_seconds=time.perf_counter() - run_started_at,
+    )
 
 
 def publish(options: PublishOptions) -> bool:

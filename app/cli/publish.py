@@ -55,6 +55,11 @@ def main():
         action="store_true",
         help="Skip scripts/check_integrity.py before build (not recommended)"
     )
+    parser.add_argument(
+        "--force-search-index",
+        action="store_true",
+        help="Regenerate Pagefind even when local search inputs look unchanged"
+    )
     
     args = parser.parse_args()
     
@@ -65,6 +70,7 @@ def main():
                 sync_vectors=args.sync_vectors,
                 run_integrity=not args.skip_integrity,
                 book_filters=tuple(args.book) if args.book is not None else None,
+                force_search_index=args.force_search_index,
             )
         )
         sys.exit(0 if success else 1)

@@ -7,8 +7,8 @@ A PDF/EPUB book summarizer that generates detailed chapter outlines with structu
 ```bash
 # Best results: add one book, run smoke checks, repair vectors, publish, push, and sync Postgres
 python3 scripts/workflow.py add "book-name"
-python3 scripts/workflow.py smoke
-python3 scripts/workflow.py ship --changed-only --reconcile full --sync
+python3 scripts/workflow.py smoke --publish
+python3 scripts/workflow.py ship --daily
 
 # Periodically, run the full reconcile/sync workflow:
 python3 scripts/workflow.py ship --reconcile full --sync-vectors
@@ -30,6 +30,7 @@ python3 scripts/workflow.py ship --deploy-production
 
 # Optional: run local smoke checks before ship
 python3 scripts/workflow.py smoke
+python3 scripts/workflow.py smoke --quick
 
 # Optional: local publish only (build/update locally, do not push)
 python3 scripts/workflow.py publish
@@ -148,6 +149,7 @@ python3 scripts/workflow.py add "book-name" --no-toc  # Skip manual TOC and rely
 python3 scripts/workflow.py add "book-name" --yes     # Wrapper + auto-accept reviewed prompts
 python3 scripts/workflow.py add "book-name" --non-interactive  # Wrapper for unattended runs
 python3 scripts/workflow.py add "book-name" --gpt --test  # Wrapper for throwaway QA/model comparison
+python3 scripts/workflow.py add "book-name" --concurrency 2  # Parallel chunk processing for large books
 python3 app/main.py "book-name"                       # Core ingest (fast default: notes + index, no embeddings)
 python3 app/main.py "book-name" --toc                 # Use manual TOC from books/toc.txt
 python3 app/main.py "book-name" --retry               # Retry failed chunks from previous run
@@ -247,6 +249,14 @@ ANTHROPIC_LONG_CONTEXT_PLANNING_MAX_OUTPUT_TOKENS=4096  # Planner output budget
 ```
 
 Recommendation: start with `INGEST_CONCURRENCY=2` on large books. This preserves ordering and content fidelity while reducing total elapsed time on multi-chunk runs.
+
+The workflow wrapper can set common tuning variables for a single ingest run:
+
+```bash
+python3 scripts/workflow.py add "book-name" --concurrency 2
+python3 scripts/workflow.py add "book-name" --chunk-min-tokens 25000 --chunk-max-tokens 60000
+python3 scripts/workflow.py add "book-name" --chunk-target-output-tokens 12000
+```
 
 For extra-long Sonnet 4.6 books with a usable TOC, ingest now runs a whole-book planning pass before chunked summarization. The planner asks Sonnet to group consecutive chapters and emit exact boundary anchors, then the real chunk requests are built from that plan. If the plan cannot be parsed or the anchors cannot be applied locally, ingest falls back to the normal chapter-aware chunker.
 
@@ -349,9 +359,13 @@ python3 scripts/workflow.py publish --sync-vectors     # Publish + sync vectors 
 python3 scripts/workflow.py publish --changed-only --reconcile full --sync  # Scope repair/sync to changed books
 python3 scripts/workflow.py publish --book "book-name" --reconcile full --sync  # Scope repair/sync manually
 python3 scripts/workflow.py publish --skip-integrity   # Skip integrity gate before build
+python3 scripts/workflow.py publish --force-search-index  # Ignore local Pagefind cache
 python3 scripts/workflow.py ship                       # Publish, then commit/push from main
+python3 scripts/workflow.py ship --daily               # Preset: --changed-only --reconcile full --sync
 python3 scripts/workflow.py ship --allow-preview       # Publish, then commit/push a non-main branch for preview only
 python3 scripts/workflow.py ship --deploy-production   # Publish, then commit/push and deploy current worktree to Vercel production
+python3 scripts/workflow.py ship --plan-only           # Print the ship plan without publish/git/deploy
+python3 scripts/workflow.py ship -m "publish new notes"  # Custom commit message
 python3 scripts/workflow.py ship --no-gpg-sign         # Publish, commit without GPG signing, then ship
 python3 scripts/workflow.py ship --reconcile full      # Repair, publish, then ship
 python3 scripts/workflow.py ship --changed-only --reconcile full --sync  # Fast daily scoped repair/sync
@@ -360,11 +374,12 @@ python3 app/cli/publish.py publish --reconcile reuse   # Direct CLI with vector 
 python3 app/cli/publish.py publish --sync-vectors      # Direct CLI with Postgres sync
 python3 app/cli/publish.py publish --book "book-name" --reconcile full --sync  # Direct scoped repair/sync
 python3 app/cli/publish.py publish --skip-integrity    # Direct CLI without integrity gate
+python3 app/cli/publish.py publish --force-search-index  # Direct CLI without local Pagefind cache
 python3 app/cli/publish.py serve                       # Local dev at http://localhost:1313/
 python3 app/cli/publish.py serve --port 1314           # Local dev on a custom port
 ```
 
-Default `publish` tolerates expected vector lag from core ingest and still blocks on structural data issues.
+Default `publish` tolerates expected vector lag from core ingest and still blocks on structural data issues. Local publish caches Pagefind when `index/*.json`, `_concepts.json`, generated book posts, `package.json`, and `scripts/build-search-index.mjs` are unchanged. Use `--force-search-index` or set `SUMMARIZER_DISABLE_PAGEFIND_CACHE=1` to force regeneration.
 
 Wrapper flags:
 
@@ -373,7 +388,13 @@ Wrapper flags:
 - `python3 scripts/workflow.py publish --changed-only` scopes reconcile/vector sync to changed canonical `notes/*.md` and `index/*.json` books
 - `python3 scripts/workflow.py publish --book "book-name"` scopes reconcile/vector sync to an explicit book filter
 - `python3 scripts/workflow.py publish --skip-integrity` bypasses `scripts/check_integrity.py`
+- `python3 scripts/workflow.py publish --force-search-index` regenerates Pagefind even if local inputs look unchanged
+- `python3 scripts/workflow.py publish --daily` is shorthand for changed-only full reconcile plus vector sync
 - `python3 scripts/workflow.py ship ...` accepts the same publish flags, then stages, commits, and pushes
+- `python3 scripts/workflow.py ship --daily` is shorthand for changed-only full reconcile plus vector sync
+- `python3 scripts/workflow.py ship --plan-only` prints the ship plan without publish, git, push, or deploy actions
+- `python3 scripts/workflow.py ship --dry-run --skip-publish` skips publish only for dry-run planning
+- `python3 scripts/workflow.py ship -m "message"` sets the commit message
 - `python3 scripts/workflow.py ship` refuses to run silently from non-`main` branches unless you choose `--allow-preview` or `--deploy-production`
 - `python3 scripts/workflow.py ship --allow-preview` explicitly ships a preview deployment from a non-production branch
 - `python3 scripts/workflow.py ship --deploy-production` pushes the branch, then runs `npx vercel deploy --prod --yes` from the linked repo
@@ -385,6 +406,7 @@ Direct CLI flags:
 - `python3 app/cli/publish.py publish --sync-vectors` / `--sync` syncs vectors after a successful build
 - `python3 app/cli/publish.py publish --book "book-name"` scopes reconcile/vector sync to an explicit book filter
 - `python3 app/cli/publish.py publish --skip-integrity` skips the pre-build integrity gate
+- `python3 app/cli/publish.py publish --force-search-index` bypasses the local Pagefind cache
 - `python3 app/cli/publish.py serve --port 1314` changes the local Hugo dev port
 
 Push to `main` for automatic Vercel production deployment. Preview deployments now keep their own deployment URL for internal navigation instead of pointing back at production.
@@ -395,13 +417,23 @@ Run this before pushing structural changes:
 
 ```bash
 python3 scripts/workflow.py smoke
+python3 scripts/workflow.py smoke --quick
+python3 scripts/workflow.py smoke --publish
+python3 scripts/workflow.py smoke --deploy-contract
 ```
 
-It verifies:
+Default `smoke` runs the full local integration path. The narrower modes are:
+
+- `--quick`: CLI/help parsing plus `api/search.js` syntax
+- `--publish`: quick checks, one local publish, `ship --plan-only`, and output verification
+- `--deploy-contract`: quick checks plus `npm run vercel-build` from the repo root
+
+Full smoke verifies:
 
 - ingest/publish/workflow CLIs still load
 - `api/search.js` still parses
 - `publish` succeeds on current data
+- `ship --plan-only` succeeds without publishing twice
 - `npm run vercel-build` succeeds from repo root
 - expected outputs still exist in `blog/public/`
 
