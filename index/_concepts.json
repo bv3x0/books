@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-06-19T15:09:28.195286Z",
+  "updated_at": "2026-06-19T17:30:22.200947Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -127,7 +127,8 @@
         "revolt-against-the-modern-world": 1,
         "things hidden since the foundation of the world": 2,
         "transcendental magic": 1,
-        "unqualified reservations": 2
+        "unqualified reservations": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "a disease in the public mind",
@@ -138,9 +139,10 @@
         "revolt-against-the-modern-world",
         "things hidden since the foundation of the world",
         "transcendental magic",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "revolutionary_hypocrisy": {
       "id": "revolutionary_hypocrisy",
@@ -2278,7 +2280,8 @@
         "revelations of divine love": 6,
         "the interior castle": 2,
         "the mystical theology of the eastern church": 3,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the christian interpretation of the cabala in the renaissance": 2
       },
       "books": [
         "a secret history of christianity",
@@ -2288,9 +2291,10 @@
         "revelations of divine love",
         "the interior castle",
         "the mystical theology of the eastern church",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 19
+      "claim_count": 21
     },
     "direct_experience": {
       "id": "direct_experience",
@@ -2656,7 +2660,8 @@
         "introduction-to-christianity": 2,
         "revolt-against-the-modern-world": 2,
         "the mystical theology of the eastern church": 2,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "a secret history of christianity",
@@ -2664,9 +2669,10 @@
         "introduction-to-christianity",
         "revolt-against-the-modern-world",
         "the mystical theology of the eastern church",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 10
+      "claim_count": 11
     },
     "divine_names": {
       "id": "divine_names",
@@ -3497,14 +3503,16 @@
       "book_claims": {
         "a secret history of christianity": 1,
         "introduction-to-christianity": 1,
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "a secret history of christianity",
         "introduction-to-christianity",
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "printing_revolution": {
       "id": "printing_revolution",
@@ -8935,7 +8943,8 @@
         "the discarded image": 1,
         "the interpretation of fairy tales": 5,
         "the secret teachings of all ages": 2,
-        "europes tragedy": 1
+        "europes tragedy": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "animus and anima",
@@ -8952,9 +8961,10 @@
         "the discarded image",
         "the interpretation of fairy tales",
         "the secret teachings of all ages",
-        "europes tragedy"
+        "europes tragedy",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 45
+      "claim_count": 46
     },
     "gender_hierarchy": {
       "id": "gender_hierarchy",
@@ -12601,7 +12611,8 @@
         "the closing of the american mind": 5,
         "the horse": 6,
         "the pattern on the stone": 1,
-        "the secret teachings of all ages": 2
+        "the secret teachings of all ages": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "beelzebubs tales",
@@ -12620,9 +12631,10 @@
         "the closing of the american mind",
         "the horse",
         "the pattern on the stone",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 40
+      "claim_count": 41
     },
     "innovation_spread": {
       "id": "innovation_spread",
@@ -13618,13 +13630,15 @@
       "related": [],
       "book_claims": {
         "cult of the saints": 1,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "cult of the saints",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "religious_patronage": {
       "id": "religious_patronage",
@@ -13727,7 +13741,8 @@
         "the power of ritual in prehistory": 1,
         "the sickness unto death": 1,
         "the world as will and representation vol 2": 1,
-        "thus spake zarathustra": 1
+        "thus spake zarathustra": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "beyond good and evil",
@@ -13740,9 +13755,10 @@
         "the power of ritual in prehistory",
         "the sickness unto death",
         "the world as will and representation vol 2",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "church_history": {
       "id": "church_history",
@@ -14103,14 +14119,16 @@
       "book_claims": {
         "cult of the saints": 1,
         "jesus and his times vol 1": 1,
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the christian interpretation of the cabala in the renaissance": 2
       },
       "books": [
         "cult of the saints",
         "jesus and his times vol 1",
-        "transcendental magic"
+        "transcendental magic",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "exorcism": {
       "id": "exorcism",
@@ -17111,7 +17129,8 @@
         "lacan seminars i": 1,
         "the interpretation of fairy tales": 3,
         "things hidden since the foundation of the world": 2,
-        "through the eye of a needle": 2
+        "through the eye of a needle": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "catafalque",
@@ -17122,9 +17141,10 @@
         "lacan seminars i",
         "the interpretation of fairy tales",
         "things hidden since the foundation of the world",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 21
+      "claim_count": 22
     },
     "intellectual_rivalry": {
       "id": "intellectual_rivalry",
@@ -17634,7 +17654,8 @@
         "occult philosophy in the elizabethan age": 4,
         "orthodoxy and the religion of the future": 1,
         "the secret teachings of all ages": 2,
-        "transcendental magic": 4
+        "transcendental magic": 4,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "beelzebubs tales",
@@ -17646,9 +17667,10 @@
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future",
         "the secret teachings of all ages",
-        "transcendental magic"
+        "transcendental magic",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 21
+      "claim_count": 22
     },
     "biblical_canon": {
       "id": "biblical_canon",
@@ -18701,14 +18723,16 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 6,
         "transcendental magic": 1,
-        "fooled by randomness": 1
+        "fooled by randomness": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "transcendental magic",
-        "fooled by randomness"
+        "fooled by randomness",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "behavioral_finance": {
       "id": "behavioral_finance",
@@ -19539,7 +19563,8 @@
         "the mystical theology of the eastern church": 1,
         "the structure of scientific revolutions": 1,
         "the world as will and representation vol 2": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "introduction-to-christianity",
@@ -19550,9 +19575,10 @@
         "the mystical theology of the eastern church",
         "the structure of scientific revolutions",
         "the world as will and representation vol 2",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "historicism": {
       "id": "historicism",
@@ -19844,7 +19870,8 @@
         "revolt-against-the-modern-world": 2,
         "ride the tiger": 1,
         "the discarded image": 1,
-        "through the eye of a needle": 4
+        "through the eye of a needle": 4,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "all desire is a desire for being",
@@ -19854,9 +19881,10 @@
         "revolt-against-the-modern-world",
         "ride the tiger",
         "the discarded image",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "authentic_faith": {
       "id": "authentic_faith",
@@ -20377,16 +20405,18 @@
         "nick land explains the numogram": 1,
         "occult philosophy in the elizabethan age": 5,
         "orthodoxy and the religion of the future": 1,
-        "the mask and face of contemporary spiritualism": 2
+        "the mask and face of contemporary spiritualism": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "introduction-to-christianity",
         "nick land explains the numogram",
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future",
-        "the mask and face of contemporary spiritualism"
+        "the mask and face of contemporary spiritualism",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 14
+      "claim_count": 15
     },
     "divine_access": {
       "id": "divine_access",
@@ -21624,15 +21654,17 @@
         "introduction-to-christianity": 1,
         "occult philosophy in the elizabethan age": 2,
         "orthodoxy and the religion of the future": 1,
-        "revolt-against-the-modern-world": 2
+        "revolt-against-the-modern-world": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future",
-        "revolt-against-the-modern-world"
+        "revolt-against-the-modern-world",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "commitment": {
       "id": "commitment",
@@ -22150,13 +22182,15 @@
       "related": [],
       "book_claims": {
         "introduction-to-christianity": 1,
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "introduction-to-christianity",
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "christian_symbolism": {
       "id": "christian_symbolism",
@@ -22205,16 +22239,18 @@
         "horror of philosophy 2": 2,
         "introduction-to-christianity": 3,
         "occult philosophy in the elizabethan age": 5,
-        "orthodoxy": 1
+        "orthodoxy": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "generative energy",
         "horror of philosophy 2",
         "introduction-to-christianity",
         "occult philosophy in the elizabethan age",
-        "orthodoxy"
+        "orthodoxy",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "biblical_language": {
       "id": "biblical_language",
@@ -22876,13 +22912,15 @@
       "related": [],
       "book_claims": {
         "kabbalistic visions": 2,
-        "the mask and face of contemporary spiritualism": 1
+        "the mask and face of contemporary spiritualism": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "kabbalistic visions",
-        "the mask and face of contemporary spiritualism"
+        "the mask and face of contemporary spiritualism",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "kabbalah": {
       "id": "kabbalah",
@@ -22949,16 +22987,18 @@
         "kabbalistic visions": 1,
         "origins of the kabbalah": 2,
         "the discarded image": 4,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the christian interpretation of the cabala in the renaissance": 3
       },
       "books": [
         "jesus and his times vol 1",
         "kabbalistic visions",
         "origins of the kabbalah",
         "the discarded image",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 9
+      "claim_count": 12
     },
     "intellectual_history": {
       "id": "intellectual_history",
@@ -22976,7 +23016,8 @@
         "preface to plato": 3,
         "schizoposting": 1,
         "the closing of the american mind": 1,
-        "the discarded image": 2
+        "the discarded image": 2,
+        "the christian interpretation of the cabala in the renaissance": 10
       },
       "books": [
         "all desire is a desire for being",
@@ -22988,9 +23029,10 @@
         "preface to plato",
         "schizoposting",
         "the closing of the american mind",
-        "the discarded image"
+        "the discarded image",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 18
+      "claim_count": 28
     },
     "gematria": {
       "id": "gematria",
@@ -23465,16 +23507,18 @@
         "occult philosophy in the elizabethan age": 16,
         "origins of the kabbalah": 2,
         "the first ghosts": 1,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the christian interpretation of the cabala in the renaissance": 5
       },
       "books": [
         "kabbalistic visions",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
         "the first ghosts",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 22
+      "claim_count": 27
     },
     "religious_leadership": {
       "id": "religious_leadership",
@@ -23560,7 +23604,8 @@
         "the problem of the puer aeternus": 1,
         "the secret teachings of all ages": 6,
         "through the eye of a needle": 1,
-        "transcendental magic": 3
+        "transcendental magic": 3,
+        "the christian interpretation of the cabala in the renaissance": 3
       },
       "books": [
         "giordano bruno",
@@ -23572,9 +23617,10 @@
         "the problem of the puer aeternus",
         "the secret teachings of all ages",
         "through the eye of a needle",
-        "transcendental magic"
+        "transcendental magic",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 47
+      "claim_count": 50
     },
     "medieval_esotericism": {
       "id": "medieval_esotericism",
@@ -25627,7 +25673,8 @@
         "schizoposting": 1,
         "sexual personae": 1,
         "the world as will and representation": 2,
-        "the world as will and representation vol 2": 2
+        "the world as will and representation vol 2": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "horror of philosophy 3",
@@ -25636,9 +25683,10 @@
         "schizoposting",
         "sexual personae",
         "the world as will and representation",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "hierarchical_order": {
       "id": "hierarchical_order",
@@ -25781,14 +25829,16 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 2,
         "schizoposting": 1,
-        "the-body-keeps-the-score": 1
+        "the-body-keeps-the-score": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "schizoposting",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "secret_societies": {
       "id": "secret_societies",
@@ -29728,15 +29778,17 @@
         "land greer 2026": 1,
         "origins of the kabbalah": 1,
         "orthodoxy": 2,
-        "through the eye of a needle": 1
+        "through the eye of a needle": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "land greer 2026",
         "origins of the kabbalah",
         "orthodoxy",
-        "through the eye of a needle"
+        "through the eye of a needle",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "political_corruption": {
       "id": "political_corruption",
@@ -34372,15 +34424,17 @@
         "confessions": 1,
         "ride the tiger": 1,
         "the problem of the puer aeternus": 2,
-        "transcendental magic": 2
+        "transcendental magic": 2,
+        "the christian interpretation of the cabala in the renaissance": 6
       },
       "books": [
         "confessions",
         "ride the tiger",
         "the problem of the puer aeternus",
-        "transcendental magic"
+        "transcendental magic",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 6
+      "claim_count": 12
     },
     "collective_violence": {
       "id": "collective_violence",
@@ -38899,14 +38953,16 @@
       "book_claims": {
         "giordano bruno": 1,
         "occult philosophy in the elizabethan age": 2,
-        "the magical revival": 1
+        "the magical revival": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "giordano bruno",
         "occult philosophy in the elizabethan age",
-        "the magical revival"
+        "the magical revival",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "hermetic_cabalism": {
       "id": "hermetic_cabalism",
@@ -38968,7 +39024,8 @@
         "origins of the kabbalah": 1,
         "the interior castle": 1,
         "through the eye of a needle": 1,
-        "the dark lord": 1
+        "the dark lord": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "giordano bruno",
@@ -38976,9 +39033,10 @@
         "origins of the kabbalah",
         "the interior castle",
         "through the eye of a needle",
-        "the dark lord"
+        "the dark lord",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "sect_formation": {
       "id": "sect_formation",
@@ -39771,14 +39829,16 @@
       "book_claims": {
         "occult philosophy in the elizabethan age": 7,
         "origins of the kabbalah": 1,
-        "the magical revival": 1
+        "the magical revival": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
-        "the magical revival"
+        "the magical revival",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "prophetic_mysticism": {
       "id": "prophetic_mysticism",
@@ -41668,13 +41728,15 @@
       "related": [],
       "book_claims": {
         "the discarded image": 1,
-        "the secret teachings of all ages": 1
+        "the secret teachings of all ages": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
         "the discarded image",
-        "the secret teachings of all ages"
+        "the secret teachings of all ages",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "history_of_science": {
       "id": "history_of_science",
@@ -71295,12 +71357,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "all desire is a desire for being": 3
+        "all desire is a desire for being": 3,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "all desire is a desire for being"
+        "all desire is a desire for being",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "victim_vindication": {
       "id": "victim_vindication",
@@ -75861,12 +75925,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "american nations": 1
+        "american nations": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "american nations"
+        "american nations",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "political_defeat": {
       "id": "political_defeat",
@@ -139135,12 +139201,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "giordano bruno": 2
+        "giordano bruno": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "giordano bruno"
+        "giordano bruno",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "gnostic_religion": {
       "id": "gnostic_religion",
@@ -182293,12 +182361,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 7
+        "occult philosophy in the elizabethan age": 7,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "mystical_methodology": {
       "id": "mystical_methodology",
@@ -182321,12 +182391,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 5
+        "occult philosophy in the elizabethan age": 5,
+        "the christian interpretation of the cabala in the renaissance": 4
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 5
+      "claim_count": 9
     },
     "angel_magic": {
       "id": "angel_magic",
@@ -182377,12 +182449,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "renaissance_humanism": {
       "id": "renaissance_humanism",
@@ -182391,12 +182465,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 4
+        "occult philosophy in the elizabethan age": 4,
+        "the christian interpretation of the cabala in the renaissance": 4
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 4
+      "claim_count": 8
     },
     "philosophical_reform": {
       "id": "philosophical_reform",
@@ -182447,12 +182523,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 9
+        "occult philosophy in the elizabethan age": 9,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "cross_cultural_knowledge": {
       "id": "cross_cultural_knowledge",
@@ -182475,12 +182553,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "authoritative_texts": {
       "id": "authoritative_texts",
@@ -182601,12 +182681,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "biographical_context": {
       "id": "biographical_context",
@@ -182909,12 +182991,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 2
+        "occult philosophy in the elizabethan age": 2,
+        "the christian interpretation of the cabala in the renaissance": 3
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "theory_practice_integration": {
       "id": "theory_practice_integration",
@@ -187001,12 +187085,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 3
+        "occult philosophy in the elizabethan age": 3,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "cultural_suppression": {
       "id": "cultural_suppression",
@@ -190407,12 +190493,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "occult philosophy in the elizabethan age": 1
+        "occult philosophy in the elizabethan age": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "occult philosophy in the elizabethan age"
+        "occult philosophy in the elizabethan age",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "political_flattery": {
       "id": "political_flattery",
@@ -198863,12 +198951,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "artificial_communication": {
       "id": "artificial_communication",
@@ -199915,12 +200005,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "reading_aloud": {
       "id": "reading_aloud",
@@ -201791,12 +201883,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "origins of the kabbalah": 4
+        "origins of the kabbalah": 4,
+        "the christian interpretation of the cabala in the renaissance": 3
       },
       "books": [
-        "origins of the kabbalah"
+        "origins of the kabbalah",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 4
+      "claim_count": 7
     },
     "rationalism_vs_mysticism": {
       "id": "rationalism_vs_mysticism",
@@ -203499,12 +203593,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "origins of the kabbalah": 1
+        "origins of the kabbalah": 1,
+        "the christian interpretation of the cabala in the renaissance": 2
       },
       "books": [
-        "origins of the kabbalah"
+        "origins of the kabbalah",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "tsimtsum": {
       "id": "tsimtsum",
@@ -204899,12 +204995,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "orthodoxy and the religion of the future": 1
+        "orthodoxy and the religion of the future": 1,
+        "the christian interpretation of the cabala in the renaissance": 3
       },
       "books": [
-        "orthodoxy and the religion of the future"
+        "orthodoxy and the religion of the future",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "doctrinal_alternative": {
       "id": "doctrinal_alternative",
@@ -300643,12 +300741,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the sickness unto death": 1
+        "the sickness unto death": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "the sickness unto death"
+        "the sickness unto death",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "fear_and_courage": {
       "id": "fear_and_courage",
@@ -325839,12 +325939,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "transcendental magic": 1
+        "transcendental magic": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "transcendental magic"
+        "transcendental magic",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "great_work": {
       "id": "great_work",
@@ -337765,12 +337867,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the christian interpretation of the cabala in the renaissance": 1
       },
       "books": [
-        "unqualified reservations"
+        "unqualified reservations",
+        "the christian interpretation of the cabala in the renaissance"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "emotional_associations": {
       "id": "emotional_associations",
@@ -360161,11 +360265,627 @@
         "europes tragedy"
       ],
       "claim_count": 1
+    },
+    "hellenistic_philosophy": {
+      "id": "hellenistic_philosophy",
+      "label": "Hellenistic Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "theological_structure": {
+      "id": "theological_structure",
+      "label": "Theological Structure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "scriptural_exegesis": {
+      "id": "scriptural_exegesis",
+      "label": "Scriptural Exegesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "trinitarian_doctrine": {
+      "id": "trinitarian_doctrine",
+      "label": "Trinitarian Doctrine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 4
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 4
+    },
+    "textual_sources": {
+      "id": "textual_sources",
+      "label": "Textual Sources",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "religious_censorship": {
+      "id": "religious_censorship",
+      "label": "Religious Censorship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "inquisition": {
+      "id": "inquisition",
+      "label": "Inquisition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "jewish_diaspora": {
+      "id": "jewish_diaspora",
+      "label": "Jewish Diaspora",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "manuscript_culture": {
+      "id": "manuscript_culture",
+      "label": "Manuscript Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 4
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 4
+    },
+    "number_symbolism": {
+      "id": "number_symbolism",
+      "label": "Number Symbolism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 3
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 3
+    },
+    "christian_hebraism": {
+      "id": "christian_hebraism",
+      "label": "Christian Hebraism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 4
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 4
+    },
+    "biblical_scholarship": {
+      "id": "biblical_scholarship",
+      "label": "Biblical Scholarship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_diffusion": {
+      "id": "intellectual_diffusion",
+      "label": "Intellectual Diffusion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 6
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 6
+    },
+    "reformation_controversy": {
+      "id": "reformation_controversy",
+      "label": "Reformation Controversy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "cabalistic_hermeneutics": {
+      "id": "cabalistic_hermeneutics",
+      "label": "Cabalistic Hermeneutics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 2
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 2
+    },
+    "renaissance_dialogue": {
+      "id": "renaissance_dialogue",
+      "label": "Renaissance Dialogue",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_syncretism": {
+      "id": "intellectual_syncretism",
+      "label": "Intellectual Syncretism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "reformation_era": {
+      "id": "reformation_era",
+      "label": "Reformation Era",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "collective_vs_individual_salvation": {
+      "id": "collective_vs_individual_salvation",
+      "label": "Collective Vs Individual Salvation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_critique": {
+      "id": "intellectual_critique",
+      "label": "Intellectual Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "missionary_strategy": {
+      "id": "missionary_strategy",
+      "label": "Missionary Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "cabalistic_apologetics": {
+      "id": "cabalistic_apologetics",
+      "label": "Cabalistic Apologetics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_skepticism": {
+      "id": "intellectual_skepticism",
+      "label": "Intellectual Skepticism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "magical_tradition": {
+      "id": "magical_tradition",
+      "label": "Magical Tradition",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "christian_cosmology": {
+      "id": "christian_cosmology",
+      "label": "Christian Cosmology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "christian_supersessionism": {
+      "id": "christian_supersessionism",
+      "label": "Christian Supersessionism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "anti_jewish_rhetoric": {
+      "id": "anti_jewish_rhetoric",
+      "label": "Anti Jewish Rhetoric",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "mystical_appropriation": {
+      "id": "mystical_appropriation",
+      "label": "Mystical Appropriation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "french_renaissance": {
+      "id": "french_renaissance",
+      "label": "French Renaissance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 2
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 2
+    },
+    "encyclopedism": {
+      "id": "encyclopedism",
+      "label": "Encyclopedism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "standardization_of_knowledge": {
+      "id": "standardization_of_knowledge",
+      "label": "Standardization Of Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "religious_boundary_drawing": {
+      "id": "religious_boundary_drawing",
+      "label": "Religious Boundary Drawing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "christian_numerology": {
+      "id": "christian_numerology",
+      "label": "Christian Numerology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "biblical_philology": {
+      "id": "biblical_philology",
+      "label": "Biblical Philology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "confessional_scholarship": {
+      "id": "confessional_scholarship",
+      "label": "Confessional Scholarship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "trinitarian_controversy": {
+      "id": "trinitarian_controversy",
+      "label": "Trinitarian Controversy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "missionary_theology": {
+      "id": "missionary_theology",
+      "label": "Missionary Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "scholarly_culture": {
+      "id": "scholarly_culture",
+      "label": "Scholarly Culture",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_prestige": {
+      "id": "intellectual_prestige",
+      "label": "Intellectual Prestige",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_appropriation": {
+      "id": "intellectual_appropriation",
+      "label": "Intellectual Appropriation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "cabalistic_system": {
+      "id": "cabalistic_system",
+      "label": "Cabalistic System",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "manuscript_attribution": {
+      "id": "manuscript_attribution",
+      "label": "Manuscript Attribution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "medieval_philosophy": {
+      "id": "medieval_philosophy",
+      "label": "Medieval Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 1
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 1
+    },
+    "christian_cabalism": {
+      "id": "christian_cabalism",
+      "label": "Christian Cabalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the christian interpretation of the cabala in the renaissance": 2
+      },
+      "books": [
+        "the christian interpretation of the cabala in the renaissance"
+      ],
+      "claim_count": 2
     }
   },
   "stats": {
-    "total_concepts": 24711,
-    "total_claims": 41853,
-    "books_indexed": 143
+    "total_concepts": 24755,
+    "total_claims": 42005,
+    "books_indexed": 144
   }
 }
