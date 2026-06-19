@@ -18,7 +18,9 @@ env/
 # IDE
 .vscode/
 .idea/
-.claude/
+.claude/*
+!.claude/skills/
+!.claude/skills/**
 *.swp
 *.swo
 *~
