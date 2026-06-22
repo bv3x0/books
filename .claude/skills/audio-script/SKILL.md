@@ -9,4 +9,6 @@ Read and follow `prompts/audio-script.md` before taking action. Treat that promp
 
 The expected user input is a source note path such as `notes/the-book.md` and, optionally, an output slug. If no slug is provided, derive one from the source filename.
 
-Only create or edit files under `audio/scripts/` and `audio/qa/` unless the user explicitly requests a workflow implementation change.
+Use the existing blog slug convention when deriving slugs: lowercase the filename stem, remove punctuation, trim whitespace, and convert spaces or underscores to hyphens.
+
+Only create or edit files under `audio/scripts/`, `audio/qa/`, and, when the user explicitly asks for Gemini-ready TTS input, `audio/tts/gemini/`, unless the user explicitly requests a workflow implementation change.

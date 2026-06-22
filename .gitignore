@@ -38,6 +38,7 @@ vercel-log.txt
 results/
 *.jsonl
 .cache/
+audio/output/
 
 # Vector database (too large for git)
 index/vectors.db
