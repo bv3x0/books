@@ -4,6 +4,7 @@
 - Thesis: The Grail cycle is not a Christian legend or mere literary fantasy but a transmission of a primordial Hyperborean-regal tradition expressing the initiatory ideal of heroic reintegration, whose historical vehicle was the Ghibelline imperial movement and whose destruction by the Church and its allies marked the decisive decline of the West.
 - Topics: Grail mythology and initiatory symbolism, Ghibelline imperialism and sacred regality, Traditional method versus modern scholarship, Hyperborean and Celtic pre-Christian traditions, Inversion of initiatory orders in modernity
 - Categories: philosophy, religion, history
+- Collections: Magic
 - Author: Julius Evola
 - Year: 1937
 - Mode: quick

@@ -4,6 +4,7 @@
 - Thesis: Christian cabalism was an intellectual fad of no lasting significance, in which Renaissance thinkers from Pico della Mirandola onward selectively adapted Jewish mystical doctrine to confirm Christian theology, but the movement rapidly proved a blind alley as scientific thinking superseded occult speculation.
 - Topics: Christian cabalism in the Renaissance, Jewish mysticism and the sephiroth, Pico della Mirandola and Renaissance syncretism, Reuchlin and Christian Hebraism, Occultism and magic in early modern Europe
 - Categories: history, religion, philosophy
+- Collections: Magic
 - Author: Joseph Leon Blau
 - Year: 1944
 - Mode: quick

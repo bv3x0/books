@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-06-23T16:35:25.406941Z",
+  "updated_at": "2026-06-26T21:54:29.614294Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -944,6 +944,7 @@
         "designing freedom": 1,
         "elon-musk": 1,
         "europes tragedy": 1,
+        "hermetic mystery": 1,
         "in search of the miraculous": 1,
         "introduction-to-christianity": 3,
         "lacan seminars i": 1,
@@ -976,6 +977,7 @@
         "designing freedom",
         "elon-musk",
         "europes tragedy",
+        "hermetic mystery",
         "in search of the miraculous",
         "introduction-to-christianity",
         "lacan seminars i",
@@ -998,7 +1000,7 @@
         "unqualified reservations",
         "zero to one"
       ],
-      "claim_count": 45
+      "claim_count": 46
     },
     "mob_violence": {
       "id": "mob_violence",
@@ -2557,6 +2559,7 @@
         "confessions": 1,
         "cult of the saints": 1,
         "giordano bruno": 1,
+        "hermetic mystery": 1,
         "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 2,
         "origins of the kabbalah": 1,
@@ -2572,6 +2575,7 @@
         "confessions",
         "cult of the saints",
         "giordano bruno",
+        "hermetic mystery",
         "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "origins of the kabbalah",
@@ -2582,7 +2586,7 @@
         "the mystical theology of the eastern church",
         "through the eye of a needle"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "textual_authority": {
       "id": "textual_authority",
@@ -2828,13 +2832,15 @@
       "related": [],
       "book_claims": {
         "a secret history of christianity": 1,
+        "hermetic mystery": 1,
         "introduction-to-christianity": 1
       },
       "books": [
         "a secret history of christianity",
+        "hermetic mystery",
         "introduction-to-christianity"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "cosmic_unity": {
       "id": "cosmic_unity",
@@ -2882,6 +2888,7 @@
         "a secret history of christianity": 1,
         "beelzebubs tales": 1,
         "confessions": 1,
+        "hermetic mystery": 1,
         "presence in the modern world": 1,
         "the interior castle": 10,
         "the mask and face of contemporary spiritualism": 2
@@ -2890,11 +2897,12 @@
         "a secret history of christianity",
         "beelzebubs tales",
         "confessions",
+        "hermetic mystery",
         "presence in the modern world",
         "the interior castle",
         "the mask and face of contemporary spiritualism"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "negative_theology": {
       "id": "negative_theology",
@@ -2930,15 +2938,17 @@
       "related": [],
       "book_claims": {
         "a secret history of christianity": 1,
+        "hermetic mystery": 1,
         "revolt-against-the-modern-world": 1,
         "the interior castle": 4
       },
       "books": [
         "a secret history of christianity",
+        "hermetic mystery",
         "revolt-against-the-modern-world",
         "the interior castle"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "analogical_reasoning": {
       "id": "analogical_reasoning",
@@ -3938,6 +3948,7 @@
         "a vision": 1,
         "catafalque": 1,
         "confessions": 2,
+        "hermetic mystery": 1,
         "horror of philosophy": 1,
         "horror of philosophy 2": 1,
         "nick land explains the numogram": 1,
@@ -3949,6 +3960,7 @@
         "a vision",
         "catafalque",
         "confessions",
+        "hermetic mystery",
         "horror of philosophy",
         "horror of philosophy 2",
         "nick land explains the numogram",
@@ -3956,7 +3968,7 @@
         "the mystical theology of the eastern church",
         "the secret teachings of all ages"
       ],
-      "claim_count": 21
+      "claim_count": 22
     },
     "embodied_truth": {
       "id": "embodied_truth",
@@ -5525,6 +5537,7 @@
         "confessions": 1,
         "dark night of the soul": 1,
         "evil the shadow side of reality": 2,
+        "hermetic mystery": 4,
         "in search of the miraculous": 2,
         "memories-dreams-reflections": 1,
         "mystery teachings from the living earth": 2,
@@ -5547,6 +5560,7 @@
         "confessions",
         "dark night of the soul",
         "evil the shadow side of reality",
+        "hermetic mystery",
         "in search of the miraculous",
         "memories-dreams-reflections",
         "mystery teachings from the living earth",
@@ -5562,7 +5576,7 @@
         "things hidden since the foundation of the world",
         "thus spake zarathustra"
       ],
-      "claim_count": 36
+      "claim_count": 40
     },
     "dream_consciousness": {
       "id": "dream_consciousness",
@@ -5693,6 +5707,7 @@
         "apprenticed to magic": 1,
         "circles of power": 1,
         "giordano bruno": 1,
+        "hermetic mystery": 1,
         "in search of the miraculous": 1,
         "kabbalistic visions": 1,
         "occult philosophy in the elizabethan age": 1,
@@ -5703,12 +5718,13 @@
         "apprenticed to magic",
         "circles of power",
         "giordano bruno",
+        "hermetic mystery",
         "in search of the miraculous",
         "kabbalistic visions",
         "occult philosophy in the elizabethan age",
         "the secret teachings of all ages"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "divination": {
       "id": "divination",
@@ -8941,6 +8957,7 @@
         "art of memory": 1,
         "beelzebubs tales": 1,
         "europes tragedy": 1,
+        "hermetic mystery": 1,
         "jesus and his times vol 1": 1,
         "meetings with remarkable men": 1,
         "mystery of the grail": 1,
@@ -8960,6 +8977,7 @@
         "art of memory",
         "beelzebubs tales",
         "europes tragedy",
+        "hermetic mystery",
         "jesus and his times vol 1",
         "meetings with remarkable men",
         "mystery of the grail",
@@ -8974,7 +8992,7 @@
         "the interpretation of fairy tales",
         "the secret teachings of all ages"
       ],
-      "claim_count": 47
+      "claim_count": 48
     },
     "gender_hierarchy": {
       "id": "gender_hierarchy",
@@ -13599,6 +13617,7 @@
       "book_claims": {
         "cult of the saints": 4,
         "deschooling society": 1,
+        "hermetic mystery": 1,
         "introduction-to-christianity": 1,
         "man and his symbols": 1,
         "revolt-against-the-modern-world": 1,
@@ -13608,13 +13627,14 @@
       "books": [
         "cult of the saints",
         "deschooling society",
+        "hermetic mystery",
         "introduction-to-christianity",
         "man and his symbols",
         "revolt-against-the-modern-world",
         "the power of ritual in prehistory",
         "the soul of the world"
       ],
-      "claim_count": 11
+      "claim_count": 12
     },
     "ritual_pollution": {
       "id": "ritual_pollution",
@@ -17662,6 +17682,7 @@
         "beelzebubs tales": 1,
         "circles of power": 2,
         "evil the shadow side of reality": 1,
+        "hermetic mystery": 1,
         "horror of philosophy": 2,
         "land greer 2026": 3,
         "nick land explains the numogram": 1,
@@ -17675,6 +17696,7 @@
         "beelzebubs tales",
         "circles of power",
         "evil the shadow side of reality",
+        "hermetic mystery",
         "horror of philosophy",
         "land greer 2026",
         "nick land explains the numogram",
@@ -17684,7 +17706,7 @@
         "the secret teachings of all ages",
         "transcendental magic"
       ],
-      "claim_count": 22
+      "claim_count": 23
     },
     "biblical_canon": {
       "id": "biblical_canon",
@@ -19548,6 +19570,7 @@
       "related": [],
       "book_claims": {
         "confessions": 1,
+        "hermetic mystery": 1,
         "introduction-to-christianity": 1,
         "jesus and his times vol 1": 1,
         "occult philosophy in the elizabethan age": 3,
@@ -19556,13 +19579,14 @@
       },
       "books": [
         "confessions",
+        "hermetic mystery",
         "introduction-to-christianity",
         "jesus and his times vol 1",
         "occult philosophy in the elizabethan age",
         "orthodoxy and the religion of the future",
         "the interior castle"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "religious_epistemology": {
       "id": "religious_epistemology",
@@ -22024,6 +22048,7 @@
         "catafalque": 1,
         "circles of power": 1,
         "dark night of the soul": 1,
+        "hermetic mystery": 1,
         "introduction-to-christianity": 1,
         "jesus and his times vol 1": 1,
         "revelations of divine love": 11,
@@ -22035,6 +22060,7 @@
         "catafalque",
         "circles of power",
         "dark night of the soul",
+        "hermetic mystery",
         "introduction-to-christianity",
         "jesus and his times vol 1",
         "revelations of divine love",
@@ -22042,7 +22068,7 @@
         "the mystical theology of the eastern church",
         "through the eye of a needle"
       ],
-      "claim_count": 27
+      "claim_count": 28
     },
     "priestly_mediation": {
       "id": "priestly_mediation",
@@ -22128,6 +22154,7 @@
         "all desire is a desire for being": 1,
         "art of memory": 1,
         "confessions": 2,
+        "hermetic mystery": 1,
         "horror of philosophy": 1,
         "in search of the miraculous": 2,
         "introduction-to-christianity": 1,
@@ -22144,6 +22171,7 @@
         "all desire is a desire for being",
         "art of memory",
         "confessions",
+        "hermetic mystery",
         "horror of philosophy",
         "in search of the miraculous",
         "introduction-to-christianity",
@@ -22156,7 +22184,7 @@
         "the secret teachings of all ages",
         "thus spake zarathustra"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "spiritual_contradiction": {
       "id": "spiritual_contradiction",
@@ -22855,6 +22883,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "kabbalistic visions": 2,
         "memories-dreams-reflections": 1,
         "occult philosophy in the elizabethan age": 3,
@@ -22862,13 +22891,14 @@
         "the interior castle": 1
       },
       "books": [
+        "hermetic mystery",
         "kabbalistic visions",
         "memories-dreams-reflections",
         "occult philosophy in the elizabethan age",
         "revelations of divine love",
         "the interior castle"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "sacred_marriage": {
       "id": "sacred_marriage",
@@ -22943,18 +22973,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "kabbalistic visions": 3,
         "land greer 2026": 1,
         "the tarot sadhu": 1,
         "transcendental magic": 11
       },
       "books": [
+        "hermetic mystery",
         "kabbalistic visions",
         "land greer 2026",
         "the tarot sadhu",
         "transcendental magic"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "alchemy": {
       "id": "alchemy",
@@ -23075,6 +23107,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "kabbalistic visions": 3,
         "le mystere des cathedrales": 1,
         "memories-dreams-reflections": 2,
@@ -23086,6 +23119,7 @@
         "transcendental magic": 2
       },
       "books": [
+        "hermetic mystery",
         "kabbalistic visions",
         "le mystere des cathedrales",
         "memories-dreams-reflections",
@@ -23096,7 +23130,7 @@
         "the secret teachings of all ages",
         "transcendental magic"
       ],
-      "claim_count": 17
+      "claim_count": 18
     },
     "antisemitism": {
       "id": "antisemitism",
@@ -23265,18 +23299,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "kabbalistic visions": 1,
         "lacan seminars i": 1,
         "the closing of the american mind": 4,
         "thus spake zarathustra": 1
       },
       "books": [
+        "hermetic mystery",
         "kabbalistic visions",
         "lacan seminars i",
         "the closing of the american mind",
         "thus spake zarathustra"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "spiritual_substance": {
       "id": "spiritual_substance",
@@ -25450,6 +25486,7 @@
       "related": [],
       "book_claims": {
         "circles of power": 1,
+        "hermetic mystery": 1,
         "in search of the miraculous": 1,
         "nick land explains the numogram": 2,
         "occult philosophy in the elizabethan age": 9,
@@ -25459,6 +25496,7 @@
       },
       "books": [
         "circles of power",
+        "hermetic mystery",
         "in search of the miraculous",
         "nick land explains the numogram",
         "occult philosophy in the elizabethan age",
@@ -25466,7 +25504,7 @@
         "the secret teachings of all ages",
         "transcendental magic"
       ],
-      "claim_count": 24
+      "claim_count": 25
     },
     "hermetic_philosophy": {
       "id": "hermetic_philosophy",
@@ -26847,16 +26885,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "occult philosophy in the elizabethan age": 1,
         "revolt-against-the-modern-world": 1,
         "the interior castle": 1
       },
       "books": [
+        "hermetic mystery",
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world",
         "the interior castle"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "lunar_symbolism": {
       "id": "lunar_symbolism",
@@ -27045,14 +27085,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "occult philosophy in the elizabethan age": 1,
         "transcendental magic": 2
       },
       "books": [
+        "hermetic mystery",
         "occult philosophy in the elizabethan age",
         "transcendental magic"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "demystification": {
       "id": "demystification",
@@ -28869,14 +28911,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 2,
         "orality-and-literacy": 1,
         "transcendental magic": 2
       },
       "books": [
+        "hermetic mystery",
         "orality-and-literacy",
         "transcendental magic"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "cultural_comparison": {
       "id": "cultural_comparison",
@@ -29719,6 +29763,7 @@
       "book_claims": {
         "beyond good and evil": 1,
         "generative energy": 4,
+        "hermetic mystery": 1,
         "orthodoxy": 1,
         "the closing of the american mind": 2,
         "the discarded image": 3,
@@ -29729,6 +29774,7 @@
       "books": [
         "beyond good and evil",
         "generative energy",
+        "hermetic mystery",
         "orthodoxy",
         "the closing of the american mind",
         "the discarded image",
@@ -29736,7 +29782,7 @@
         "the world as will and representation vol 2",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "natural_theology": {
       "id": "natural_theology",
@@ -30879,6 +30925,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "in search of the miraculous": 1,
         "psychomagic": 1,
         "revelations of divine love": 1,
@@ -30887,6 +30934,7 @@
         "the mask and face of contemporary spiritualism": 3
       },
       "books": [
+        "hermetic mystery",
         "in search of the miraculous",
         "psychomagic",
         "revelations of divine love",
@@ -30894,7 +30942,7 @@
         "the interior castle",
         "the mask and face of contemporary spiritualism"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "embodied_healing": {
       "id": "embodied_healing",
@@ -31355,14 +31403,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "revolt-against-the-modern-world": 2,
         "secret of the golden flower": 1
       },
       "books": [
+        "hermetic mystery",
         "revolt-against-the-modern-world",
         "secret of the golden flower"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "collective_transformation": {
       "id": "collective_transformation",
@@ -33941,16 +33991,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "lacan seminars i": 2,
         "the interpretation of fairy tales": 1,
         "the problem of the puer aeternus": 1
       },
       "books": [
+        "hermetic mystery",
         "lacan seminars i",
         "the interpretation of fairy tales",
         "the problem of the puer aeternus"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "religious_history": {
       "id": "religious_history",
@@ -34954,6 +35006,7 @@
         "beelzebubs tales": 4,
         "beyond good and evil": 4,
         "circles of power": 2,
+        "hermetic mystery": 2,
         "horror of philosophy": 1,
         "in search of the miraculous": 3,
         "man and his symbols": 1,
@@ -34971,6 +35024,7 @@
         "beelzebubs tales",
         "beyond good and evil",
         "circles of power",
+        "hermetic mystery",
         "horror of philosophy",
         "in search of the miraculous",
         "man and his symbols",
@@ -34984,7 +35038,7 @@
         "the world as will and representation vol 2",
         "thus spake zarathustra"
       ],
-      "claim_count": 45
+      "claim_count": 47
     },
     "democratic_participation": {
       "id": "democratic_participation",
@@ -36063,6 +36117,7 @@
       "book_claims": {
         "beelzebubs tales": 1,
         "beyond good and evil": 2,
+        "hermetic mystery": 1,
         "on the aesthetic education of man": 2,
         "ride the tiger": 2,
         "thus spake zarathustra": 2
@@ -36070,11 +36125,12 @@
       "books": [
         "beelzebubs tales",
         "beyond good and evil",
+        "hermetic mystery",
         "on the aesthetic education of man",
         "ride the tiger",
         "thus spake zarathustra"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "collective_belief": {
       "id": "collective_belief",
@@ -36670,13 +36726,15 @@
       "related": [],
       "book_claims": {
         "beelzebubs tales": 1,
+        "hermetic mystery": 1,
         "mirror worlds": 1
       },
       "books": [
         "beelzebubs tales",
+        "hermetic mystery",
         "mirror worlds"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "satire": {
       "id": "satire",
@@ -40180,17 +40238,19 @@
       "related": [],
       "book_claims": {
         "art of memory": 1,
+        "hermetic mystery": 1,
         "mystery of the grail": 4,
         "sexual personae": 1,
         "the tarot sadhu": 1
       },
       "books": [
         "art of memory",
+        "hermetic mystery",
         "mystery of the grail",
         "sexual personae",
         "the tarot sadhu"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "nature_philosophy": {
       "id": "nature_philosophy",
@@ -42226,15 +42286,17 @@
       "related": [],
       "book_claims": {
         "apprenticed to magic": 1,
+        "hermetic mystery": 1,
         "the magical revival": 1,
         "transcendental magic": 1
       },
       "books": [
         "apprenticed to magic",
+        "hermetic mystery",
         "the magical revival",
         "transcendental magic"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "apocalyptic_symbolism": {
       "id": "apocalyptic_symbolism",
@@ -42466,15 +42528,17 @@
       "related": [],
       "book_claims": {
         "catafalque": 1,
+        "hermetic mystery": 2,
         "horror of philosophy 2": 1,
         "nick land explains the numogram": 1
       },
       "books": [
         "catafalque",
+        "hermetic mystery",
         "horror of philosophy 2",
         "nick land explains the numogram"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "wisdom_tradition": {
       "id": "wisdom_tradition",
@@ -44074,6 +44138,7 @@
       "related": [],
       "book_claims": {
         "confessions": 3,
+        "hermetic mystery": 1,
         "jesus and his times vol 1": 1,
         "the mystical theology of the eastern church": 1,
         "the reality of being": 1,
@@ -44081,12 +44146,13 @@
       },
       "books": [
         "confessions",
+        "hermetic mystery",
         "jesus and his times vol 1",
         "the mystical theology of the eastern church",
         "the reality of being",
         "the tarot sadhu"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "alchemical_process": {
       "id": "alchemical_process",
@@ -44095,14 +44161,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 3,
         "the celtic golden dawn": 1,
         "the reality of being": 1
       },
       "books": [
+        "hermetic mystery",
         "the celtic golden dawn",
         "the reality of being"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "non_dual_realization": {
       "id": "non_dual_realization",
@@ -44191,14 +44259,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "the secret teachings of all ages": 2,
         "the tarot sadhu": 1
       },
       "books": [
+        "hermetic mystery",
         "the secret teachings of all ages",
         "the tarot sadhu"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "elemental_philosophy": {
       "id": "elemental_philosophy",
@@ -45306,17 +45376,19 @@
       "related": [],
       "book_claims": {
         "dark night of the soul": 1,
+        "hermetic mystery": 2,
         "on heroes": 1,
         "the mystical theology of the eastern church": 12,
         "things hidden since the foundation of the world": 2
       },
       "books": [
         "dark night of the soul",
+        "hermetic mystery",
         "on heroes",
         "the mystical theology of the eastern church",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 16
+      "claim_count": 18
     },
     "mimetic_rivalry": {
       "id": "mimetic_rivalry",
@@ -45654,13 +45726,15 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
+        "hermetic mystery": 1,
         "on heroes": 1
       },
       "books": [
         "all desire is a desire for being",
+        "hermetic mystery",
         "on heroes"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "individual_conscience": {
       "id": "individual_conscience",
@@ -45815,16 +45889,18 @@
       "book_claims": {
         "antifragile": 3,
         "giordano bruno": 1,
+        "hermetic mystery": 1,
         "horror of philosophy 2": 2,
         "skin in the game": 3
       },
       "books": [
         "antifragile",
         "giordano bruno",
+        "hermetic mystery",
         "horror of philosophy 2",
         "skin in the game"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "science_and_magic": {
       "id": "science_and_magic",
@@ -48478,13 +48554,15 @@
       "related": [],
       "book_claims": {
         "dark night of the soul": 2,
+        "hermetic mystery": 2,
         "the interior castle": 2
       },
       "books": [
         "dark night of the soul",
+        "hermetic mystery",
         "the interior castle"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "obedience": {
       "id": "obedience",
@@ -56091,14 +56169,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "jesus and his times vol 1": 1,
         "man and his symbols": 1
       },
       "books": [
+        "hermetic mystery",
         "jesus and his times vol 1",
         "man and his symbols"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "moral_integrity": {
       "id": "moral_integrity",
@@ -57049,16 +57129,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 1,
         "occult philosophy in the elizabethan age": 1,
         "the world as will and representation": 2,
         "the world as will and representation vol 2": 2
       },
       "books": [
+        "hermetic mystery",
         "occult philosophy in the elizabethan age",
         "the world as will and representation",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "tragedy": {
       "id": "tragedy",
@@ -57247,14 +57329,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "hermetic mystery": 2,
         "revolt-against-the-modern-world": 1,
         "the world as will and representation vol 2": 1
       },
       "books": [
+        "hermetic mystery",
         "revolt-against-the-modern-world",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "ideological_fanaticism": {
       "id": "ideological_fanaticism",
@@ -65956,6 +66040,342 @@
       ],
       "claim_count": 3
     },
+    "pre_socratic_philosophy": {
+      "id": "pre_socratic_philosophy",
+      "label": "Pre Socratic Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a vision": 1,
+        "hermetic mystery": 1
+      },
+      "books": [
+        "a vision",
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "theurgic_practice": {
+      "id": "theurgic_practice",
+      "label": "Theurgic Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "circles of power": 1,
+        "hermetic mystery": 1
+      },
+      "books": [
+        "circles of power",
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "patience": {
+      "id": "patience",
+      "label": "Patience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "confessions": 1,
+        "hermetic mystery": 1
+      },
+      "books": [
+        "confessions",
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "ontological_unity": {
+      "id": "ontological_unity",
+      "label": "Ontological Unity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2,
+        "introduction-to-christianity": 2
+      },
+      "books": [
+        "hermetic mystery",
+        "introduction-to-christianity"
+      ],
+      "claim_count": 4
+    },
+    "first_matter": {
+      "id": "first_matter",
+      "label": "First Matter",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 5,
+        "le mystere des cathedrales": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "le mystere des cathedrales"
+      ],
+      "claim_count": 6
+    },
+    "hermetic_symbolism": {
+      "id": "hermetic_symbolism",
+      "label": "Hermetic Symbolism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "occult philosophy in the elizabethan age": 3
+      },
+      "books": [
+        "hermetic mystery",
+        "occult philosophy in the elizabethan age"
+      ],
+      "claim_count": 4
+    },
+    "reception_history": {
+      "id": "reception_history",
+      "label": "Reception History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "origins of the kabbalah": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "origins of the kabbalah"
+      ],
+      "claim_count": 2
+    },
+    "medieval_scholarship": {
+      "id": "medieval_scholarship",
+      "label": "Medieval Scholarship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "the discarded image": 2
+      },
+      "books": [
+        "hermetic mystery",
+        "the discarded image"
+      ],
+      "claim_count": 3
+    },
+    "triadic_structure": {
+      "id": "triadic_structure",
+      "label": "Triadic Structure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "the discarded image": 2
+      },
+      "books": [
+        "hermetic mystery",
+        "the discarded image"
+      ],
+      "claim_count": 3
+    },
+    "separation": {
+      "id": "separation",
+      "label": "Separation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "the lacanian subject": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "the lacanian subject"
+      ],
+      "claim_count": 2
+    },
+    "divine_ideas": {
+      "id": "divine_ideas",
+      "label": "Divine Ideas",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "the mystical theology of the eastern church": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "the mystical theology of the eastern church"
+      ],
+      "claim_count": 2
+    },
+    "divine_light": {
+      "id": "divine_light",
+      "label": "Divine Light",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2,
+        "the mystical theology of the eastern church": 2
+      },
+      "books": [
+        "hermetic mystery",
+        "the mystical theology of the eastern church"
+      ],
+      "claim_count": 4
+    },
+    "spiritual_regeneration": {
+      "id": "spiritual_regeneration",
+      "label": "Spiritual Regeneration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2,
+        "the secret teachings of all ages": 2
+      },
+      "books": [
+        "hermetic mystery",
+        "the secret teachings of all ages"
+      ],
+      "claim_count": 4
+    },
+    "alchemical_history": {
+      "id": "alchemical_history",
+      "label": "Alchemical History",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "the secret teachings of all ages": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "the secret teachings of all ages"
+      ],
+      "claim_count": 2
+    },
+    "philosophers_stone": {
+      "id": "philosophers_stone",
+      "label": "Philosophers Stone",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 3,
+        "the tarot sadhu": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "the tarot sadhu"
+      ],
+      "claim_count": 4
+    },
+    "transmutation": {
+      "id": "transmutation",
+      "label": "Transmutation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2,
+        "the tarot sadhu": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "the tarot sadhu"
+      ],
+      "claim_count": 3
+    },
+    "avarice": {
+      "id": "avarice",
+      "label": "Avarice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "through the eye of a needle": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "through the eye of a needle"
+      ],
+      "claim_count": 2
+    },
+    "spiritual_elevation": {
+      "id": "spiritual_elevation",
+      "label": "Spiritual Elevation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "thus spake zarathustra": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "thus spake zarathustra"
+      ],
+      "claim_count": 2
+    },
+    "mesmerism": {
+      "id": "mesmerism",
+      "label": "Mesmerism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 3,
+        "transcendental magic": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "transcendental magic"
+      ],
+      "claim_count": 4
+    },
+    "universal_medicine": {
+      "id": "universal_medicine",
+      "label": "Universal Medicine",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2,
+        "transcendental magic": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "transcendental magic"
+      ],
+      "claim_count": 3
+    },
+    "vital_magnetism": {
+      "id": "vital_magnetism",
+      "label": "Vital Magnetism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1,
+        "transcendental magic": 1
+      },
+      "books": [
+        "hermetic mystery",
+        "transcendental magic"
+      ],
+      "claim_count": 2
+    },
     "slave_insurrection": {
       "id": "slave_insurrection",
       "label": "Slave Insurrection",
@@ -71475,20 +71895,6 @@
     "gyre_theory": {
       "id": "gyre_theory",
       "label": "Gyre Theory",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "a vision": 1
-      },
-      "books": [
-        "a vision"
-      ],
-      "claim_count": 1
-    },
-    "pre_socratic_philosophy": {
-      "id": "pre_socratic_philosophy",
-      "label": "Pre Socratic Philosophy",
       "description": "",
       "aliases": [],
       "related": [],
@@ -106934,20 +107340,6 @@
       ],
       "claim_count": 1
     },
-    "theurgic_practice": {
-      "id": "theurgic_practice",
-      "label": "Theurgic Practice",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "circles of power": 1
-      },
-      "books": [
-        "circles of power"
-      ],
-      "claim_count": 1
-    },
     "limits_of_magic": {
       "id": "limits_of_magic",
       "label": "Limits Of Magic",
@@ -108757,20 +109149,6 @@
     "provisional_faith": {
       "id": "provisional_faith",
       "label": "Provisional Faith",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "confessions": 1
-      },
-      "books": [
-        "confessions"
-      ],
-      "claim_count": 1
-    },
-    "patience": {
-      "id": "patience",
-      "label": "Patience",
       "description": "",
       "aliases": [],
       "related": [],
@@ -155556,6 +155934,1392 @@
       ],
       "claim_count": 1
     },
+    "fraud_and_deception": {
+      "id": "fraud_and_deception",
+      "label": "Fraud And Deception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "empirical_testimony": {
+      "id": "empirical_testimony",
+      "label": "Empirical Testimony",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_projection": {
+      "id": "alchemical_projection",
+      "label": "Alchemical Projection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "esoteric_concealment": {
+      "id": "esoteric_concealment",
+      "label": "Esoteric Concealment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "kabalistic_method": {
+      "id": "kabalistic_method",
+      "label": "Kabalistic Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "moral_prerequisites": {
+      "id": "moral_prerequisites",
+      "label": "Moral Prerequisites",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "transmutation_theory": {
+      "id": "transmutation_theory",
+      "label": "Transmutation Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "philosophical_reduction": {
+      "id": "philosophical_reduction",
+      "label": "Philosophical Reduction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "universal_subject": {
+      "id": "universal_subject",
+      "label": "Universal Subject",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "esoteric_ontology": {
+      "id": "esoteric_ontology",
+      "label": "Esoteric Ontology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "tria_prima": {
+      "id": "tria_prima",
+      "label": "Tria Prima",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "emanation": {
+      "id": "emanation",
+      "label": "Emanation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "ether_theory": {
+      "id": "ether_theory",
+      "label": "Ether Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "causal_science": {
+      "id": "causal_science",
+      "label": "Causal Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "dissolution_and_coagulation": {
+      "id": "dissolution_and_coagulation",
+      "label": "Dissolution And Coagulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "vital_inversion": {
+      "id": "vital_inversion",
+      "label": "Vital Inversion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "putrefaction": {
+      "id": "putrefaction",
+      "label": "Putrefaction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "color_stages": {
+      "id": "color_stages",
+      "label": "Color Stages",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_purification": {
+      "id": "alchemical_purification",
+      "label": "Alchemical Purification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "fermentation": {
+      "id": "fermentation",
+      "label": "Fermentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "vital_spirit": {
+      "id": "vital_spirit",
+      "label": "Vital Spirit",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "divine_image": {
+      "id": "divine_image",
+      "label": "Divine Image",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "circulation": {
+      "id": "circulation",
+      "label": "Circulation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "ancient_mysteries": {
+      "id": "ancient_mysteries",
+      "label": "Ancient Mysteries",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "phantastic_spirit": {
+      "id": "phantastic_spirit",
+      "label": "Phantastic Spirit",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 3
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 3
+    },
+    "theurgic_initiation": {
+      "id": "theurgic_initiation",
+      "label": "Theurgic Initiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_purification": {
+      "id": "intellectual_purification",
+      "label": "Intellectual Purification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "universal_perception": {
+      "id": "universal_perception",
+      "label": "Universal Perception",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "initiatory_descent": {
+      "id": "initiatory_descent",
+      "label": "Initiatory Descent",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_putrefaction": {
+      "id": "alchemical_putrefaction",
+      "label": "Alchemical Putrefaction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "underworld_symbolism": {
+      "id": "underworld_symbolism",
+      "label": "Underworld Symbolism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "epopteia": {
+      "id": "epopteia",
+      "label": "Epopteia",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_illumination": {
+      "id": "intellectual_illumination",
+      "label": "Intellectual Illumination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "elysian_vision": {
+      "id": "elysian_vision",
+      "label": "Elysian Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "paradisiacal_state": {
+      "id": "paradisiacal_state",
+      "label": "Paradisiacal State",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_contact": {
+      "id": "intellectual_contact",
+      "label": "Intellectual Contact",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "divine_initiation": {
+      "id": "divine_initiation",
+      "label": "Divine Initiation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "theurgic_power": {
+      "id": "theurgic_power",
+      "label": "Theurgic Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "divine_cooperation": {
+      "id": "divine_cooperation",
+      "label": "Divine Cooperation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "operative_wisdom": {
+      "id": "operative_wisdom",
+      "label": "Operative Wisdom",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "vital_fermentation": {
+      "id": "vital_fermentation",
+      "label": "Vital Fermentation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "hermetic_experiment": {
+      "id": "hermetic_experiment",
+      "label": "Hermetic Experiment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "rationalist_method": {
+      "id": "rationalist_method",
+      "label": "Rationalist Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "a_priori_method": {
+      "id": "a_priori_method",
+      "label": "A Priori Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "causal_knowledge": {
+      "id": "causal_knowledge",
+      "label": "Causal Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "experimental_philosophy": {
+      "id": "experimental_philosophy",
+      "label": "Experimental Philosophy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "rational_ferment": {
+      "id": "rational_ferment",
+      "label": "Rational Ferment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "hermetic_key": {
+      "id": "hermetic_key",
+      "label": "Hermetic Key",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "philosophical_fire": {
+      "id": "philosophical_fire",
+      "label": "Philosophical Fire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "mythological_allegory": {
+      "id": "mythological_allegory",
+      "label": "Mythological Allegory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "heroic_quest": {
+      "id": "heroic_quest",
+      "label": "Heroic Quest",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "spiritual_death": {
+      "id": "spiritual_death",
+      "label": "Spiritual Death",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "ontological_non_being": {
+      "id": "ontological_non_being",
+      "label": "Ontological Non Being",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "ontological_ground": {
+      "id": "ontological_ground",
+      "label": "Ontological Ground",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "trinitarian_structure": {
+      "id": "trinitarian_structure",
+      "label": "Trinitarian Structure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "divine_vision": {
+      "id": "divine_vision",
+      "label": "Divine Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "matter_and_form": {
+      "id": "matter_and_form",
+      "label": "Matter And Form",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_dissolution": {
+      "id": "intellectual_dissolution",
+      "label": "Intellectual Dissolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "ontological_identity": {
+      "id": "ontological_identity",
+      "label": "Ontological Identity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "causal_principle": {
+      "id": "causal_principle",
+      "label": "Causal Principle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "philosophical_manifestation": {
+      "id": "philosophical_manifestation",
+      "label": "Philosophical Manifestation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "luminous_substance": {
+      "id": "luminous_substance",
+      "label": "Luminous Substance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_dissolution": {
+      "id": "alchemical_dissolution",
+      "label": "Alchemical Dissolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "philosophical_vision": {
+      "id": "philosophical_vision",
+      "label": "Philosophical Vision",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "universal_nature": {
+      "id": "universal_nature",
+      "label": "Universal Nature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "theosophical_revelation": {
+      "id": "theosophical_revelation",
+      "label": "Theosophical Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "creative_light": {
+      "id": "creative_light",
+      "label": "Creative Light",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "christian_regeneration": {
+      "id": "christian_regeneration",
+      "label": "Christian Regeneration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "alchemical_ethics": {
+      "id": "alchemical_ethics",
+      "label": "Alchemical Ethics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "will_and_intention": {
+      "id": "will_and_intention",
+      "label": "Will And Intention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "divine_assistance": {
+      "id": "divine_assistance",
+      "label": "Divine Assistance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_apparatus": {
+      "id": "alchemical_apparatus",
+      "label": "Alchemical Apparatus",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "practical_organization": {
+      "id": "practical_organization",
+      "label": "Practical Organization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "hermetic_secrecy": {
+      "id": "hermetic_secrecy",
+      "label": "Hermetic Secrecy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "manual_operation": {
+      "id": "manual_operation",
+      "label": "Manual Operation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "vital_dissolution": {
+      "id": "vital_dissolution",
+      "label": "Vital Dissolution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "hermetic_practice": {
+      "id": "hermetic_practice",
+      "label": "Hermetic Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 2
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 2
+    },
+    "body_as_laboratory": {
+      "id": "body_as_laboratory",
+      "label": "Body As Laboratory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_timing": {
+      "id": "alchemical_timing",
+      "label": "Alchemical Timing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "vital_caution": {
+      "id": "vital_caution",
+      "label": "Vital Caution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "dissolution_process": {
+      "id": "dissolution_process",
+      "label": "Dissolution Process",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "heroic_allegory": {
+      "id": "heroic_allegory",
+      "label": "Heroic Allegory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_mythology": {
+      "id": "alchemical_mythology",
+      "label": "Alchemical Mythology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "philosophical_work": {
+      "id": "philosophical_work",
+      "label": "Philosophical Work",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "causal_hierarchy": {
+      "id": "causal_hierarchy",
+      "label": "Causal Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "quadrature": {
+      "id": "quadrature",
+      "label": "Quadrature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_mathematics": {
+      "id": "alchemical_mathematics",
+      "label": "Alchemical Mathematics",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "fifth_essence": {
+      "id": "fifth_essence",
+      "label": "Fifth Essence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_separation": {
+      "id": "alchemical_separation",
+      "label": "Alchemical Separation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "philosophical_purification": {
+      "id": "philosophical_purification",
+      "label": "Philosophical Purification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "secret_fire": {
+      "id": "secret_fire",
+      "label": "Secret Fire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "dual_mercury": {
+      "id": "dual_mercury",
+      "label": "Dual Mercury",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "fermentative_law": {
+      "id": "fermentative_law",
+      "label": "Fermentative Law",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "alchemical_conjunction": {
+      "id": "alchemical_conjunction",
+      "label": "Alchemical Conjunction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "stone_multiplication": {
+      "id": "stone_multiplication",
+      "label": "Stone Multiplication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "transmutative_virtue": {
+      "id": "transmutative_virtue",
+      "label": "Transmutative Virtue",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "divine_humanity": {
+      "id": "divine_humanity",
+      "label": "Divine Humanity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "religious_renewal": {
+      "id": "religious_renewal",
+      "label": "Religious Renewal",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
+    "intellectual_monarchy": {
+      "id": "intellectual_monarchy",
+      "label": "Intellectual Monarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "hermetic mystery": 1
+      },
+      "books": [
+        "hermetic mystery"
+      ],
+      "claim_count": 1
+    },
     "cosmic_pessimism": {
       "id": "cosmic_pessimism",
       "label": "Cosmic Pessimism",
@@ -163871,20 +165635,6 @@
         "introduction-to-christianity"
       ],
       "claim_count": 1
-    },
-    "ontological_unity": {
-      "id": "ontological_unity",
-      "label": "Ontological Unity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 2
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 2
     },
     "unity_experience": {
       "id": "unity_experience",
@@ -177707,20 +179457,6 @@
     "reincrudation": {
       "id": "reincrudation",
       "label": "Reincrudation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "le mystere des cathedrales": 1
-      },
-      "books": [
-        "le mystere des cathedrales"
-      ],
-      "claim_count": 1
-    },
-    "first_matter": {
-      "id": "first_matter",
-      "label": "First Matter",
       "description": "",
       "aliases": [],
       "related": [],
@@ -198914,20 +200650,6 @@
       ],
       "claim_count": 1
     },
-    "hermetic_symbolism": {
-      "id": "hermetic_symbolism",
-      "label": "Hermetic Symbolism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "occult philosophy in the elizabethan age": 3
-      },
-      "books": [
-        "occult philosophy in the elizabethan age"
-      ],
-      "claim_count": 3
-    },
     "hermetic_structure": {
       "id": "hermetic_structure",
       "label": "Hermetic Structure",
@@ -215773,20 +217495,6 @@
     "cosmological_sealing": {
       "id": "cosmological_sealing",
       "label": "Cosmological Sealing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "origins of the kabbalah": 1
-      },
-      "books": [
-        "origins of the kabbalah"
-      ],
-      "claim_count": 1
-    },
-    "reception_history": {
-      "id": "reception_history",
-      "label": "Reception History",
       "description": "",
       "aliases": [],
       "related": [],
@@ -283810,20 +285518,6 @@
       ],
       "claim_count": 2
     },
-    "medieval_scholarship": {
-      "id": "medieval_scholarship",
-      "label": "Medieval Scholarship",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the discarded image": 2
-      },
-      "books": [
-        "the discarded image"
-      ],
-      "claim_count": 2
-    },
     "classical_influence": {
       "id": "classical_influence",
       "label": "Classical Influence",
@@ -284131,20 +285825,6 @@
         "the discarded image"
       ],
       "claim_count": 1
-    },
-    "triadic_structure": {
-      "id": "triadic_structure",
-      "label": "Triadic Structure",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the discarded image": 2
-      },
-      "books": [
-        "the discarded image"
-      ],
-      "claim_count": 2
     },
     "dream_classification": {
       "id": "dream_classification",
@@ -297292,20 +298972,6 @@
       ],
       "claim_count": 1
     },
-    "separation": {
-      "id": "separation",
-      "label": "Separation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the lacanian subject": 1
-      },
-      "books": [
-        "the lacanian subject"
-      ],
-      "claim_count": 1
-    },
     "paternal_function": {
       "id": "paternal_function",
       "label": "Paternal Function",
@@ -307946,20 +309612,6 @@
       ],
       "claim_count": 1
     },
-    "divine_ideas": {
-      "id": "divine_ideas",
-      "label": "Divine Ideas",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the mystical theology of the eastern church": 1
-      },
-      "books": [
-        "the mystical theology of the eastern church"
-      ],
-      "claim_count": 1
-    },
     "pure_nature": {
       "id": "pure_nature",
       "label": "Pure Nature",
@@ -308057,20 +309709,6 @@
         "the mystical theology of the eastern church"
       ],
       "claim_count": 1
-    },
-    "divine_light": {
-      "id": "divine_light",
-      "label": "Divine Light",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the mystical theology of the eastern church": 2
-      },
-      "books": [
-        "the mystical theology of the eastern church"
-      ],
-      "claim_count": 2
     },
     "transfiguration": {
       "id": "transfiguration",
@@ -315786,20 +317424,6 @@
       ],
       "claim_count": 2
     },
-    "spiritual_regeneration": {
-      "id": "spiritual_regeneration",
-      "label": "Spiritual Regeneration",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the secret teachings of all ages": 2
-      },
-      "books": [
-        "the secret teachings of all ages"
-      ],
-      "claim_count": 2
-    },
     "goddess_religion": {
       "id": "goddess_religion",
       "label": "Goddess Religion",
@@ -317619,20 +319243,6 @@
         "the secret teachings of all ages"
       ],
       "claim_count": 3
-    },
-    "alchemical_history": {
-      "id": "alchemical_history",
-      "label": "Alchemical History",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the secret teachings of all ages": 1
-      },
-      "books": [
-        "the secret teachings of all ages"
-      ],
-      "claim_count": 1
     },
     "institutional_legitimation": {
       "id": "institutional_legitimation",
@@ -325827,34 +327437,6 @@
     "solar_illumination": {
       "id": "solar_illumination",
       "label": "Solar Illumination",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the tarot sadhu": 1
-      },
-      "books": [
-        "the tarot sadhu"
-      ],
-      "claim_count": 1
-    },
-    "philosophers_stone": {
-      "id": "philosophers_stone",
-      "label": "Philosophers Stone",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the tarot sadhu": 1
-      },
-      "books": [
-        "the tarot sadhu"
-      ],
-      "claim_count": 1
-    },
-    "transmutation": {
-      "id": "transmutation",
-      "label": "Transmutation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -341168,20 +342750,6 @@
       ],
       "claim_count": 1
     },
-    "avarice": {
-      "id": "avarice",
-      "label": "Avarice",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "through the eye of a needle": 1
-      },
-      "books": [
-        "through the eye of a needle"
-      ],
-      "claim_count": 1
-    },
     "decline_narrative": {
       "id": "decline_narrative",
       "label": "Decline Narrative",
@@ -342637,20 +344205,6 @@
         "thus spake zarathustra"
       ],
       "claim_count": 3
-    },
-    "spiritual_elevation": {
-      "id": "spiritual_elevation",
-      "label": "Spiritual Elevation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "thus spake zarathustra": 1
-      },
-      "books": [
-        "thus spake zarathustra"
-      ],
-      "claim_count": 1
     },
     "disgust_as_motivation": {
       "id": "disgust_as_motivation",
@@ -346320,20 +347874,6 @@
       ],
       "claim_count": 1
     },
-    "mesmerism": {
-      "id": "mesmerism",
-      "label": "Mesmerism",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "transcendental magic": 1
-      },
-      "books": [
-        "transcendental magic"
-      ],
-      "claim_count": 1
-    },
     "kabalistic_alphabet": {
       "id": "kabalistic_alphabet",
       "label": "Kabalistic Alphabet",
@@ -346544,20 +348084,6 @@
       ],
       "claim_count": 1
     },
-    "universal_medicine": {
-      "id": "universal_medicine",
-      "label": "Universal Medicine",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "transcendental magic": 1
-      },
-      "books": [
-        "transcendental magic"
-      ],
-      "claim_count": 1
-    },
     "occult_physics": {
       "id": "occult_physics",
       "label": "Occult Physics",
@@ -346589,20 +348115,6 @@
     "therapeutic_confidence": {
       "id": "therapeutic_confidence",
       "label": "Therapeutic Confidence",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "transcendental magic": 1
-      },
-      "books": [
-        "transcendental magic"
-      ],
-      "claim_count": 1
-    },
-    "vital_magnetism": {
-      "id": "vital_magnetism",
-      "label": "Vital Magnetism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -362870,8 +364382,8 @@
     }
   },
   "stats": {
-    "total_concepts": 24890,
-    "total_claims": 42305,
-    "books_indexed": 145
+    "total_concepts": 24989,
+    "total_claims": 42500,
+    "books_indexed": 146
   }
 }
