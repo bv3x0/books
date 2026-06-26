@@ -1,7 +1,7 @@
 ---
 title: "The Christian Interpretation of the Cabala in the Renaissance"
 sortTitle: "Christian Interpretation of the Cabala in the Renaissance"
-date: 2026-06-19
+date: 2026-06-26
 slug: "the-christian-interpretation-of-the-cabala-in-the-renaissance"
 draft: false
 dateAdded: 2026-06-19
@@ -11,6 +11,7 @@ author: "Joseph Leon Blau"
 shortAuthor: "Blau"
 year: "1944"
 tags: ["history", "religion", "philosophy"]
+collections: ["Magic"]
 ---
 
 
@@ -40,7 +41,7 @@ Cabala arose from three core Jewish doctrines—divine transcendence, literal in
     - By identifying the Son as both divine wisdom (second sephirah) and incarnate redeemer (sixth sephirah), Christian cabalists could distinguish two aspects of Christ's nature while arguing that the Trinity emanates from rather than exists within the Limitless God.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_spiral-yin-yang.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_flood-destruction.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Phoenix of His Age
 
@@ -63,7 +64,7 @@ Pico della Mirandola, building on limited but pioneering cabalistic sources, fir
     - "'Certain Hebrew books fell into my hands, with which I have been busy for an entire week, every day and every night, till they have almost blinded me.'" —Pico della Mirandola
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_windmill.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Out of the Ashes of the Phoenix
 
@@ -83,7 +84,7 @@ Pico's limited but catalytic introduction of cabala generated a broad wave of fo
     - D'Evoli defended the cabalistic sephiroth as superior to Platonic ideas because the sephiroth are individually differentiated while all Platonic ideas are of like character, demonstrating how cabala could be recruited for internal Renaissance philosophical debates.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_globe-detailed.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Pythagoras Redivivus
 
@@ -103,7 +104,7 @@ John Reuchlin, though initially an amateur who could not correctly list the seph
     - The Reverend Henry Smith's sermon of c.1590, misattributing to 'Rabbi Hacadosh' a proof that the Messiah's mother would be a virgin named Mary—derived from Reuchlin's De verbo mirifico—exemplifies how Reuchlin's ideas were transmitted, garbled, and reauthorized across generations.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Cabalistic Apostates
 
@@ -120,7 +121,7 @@ A number of converted Jews—most importantly Paul Ricci, but also Rittangel, Ph
     - The possibility of mass conversion on a cabalistic basis is proven by the conversion of 514 followers of Jacob Frank in the eighteenth century, but this may be a historical accident rather than a validation of the intellectual strategy.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-outline.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Fantastic Cabala
 
@@ -137,7 +138,7 @@ Henry Cornelius Agrippa and the broader tradition of Renaissance magic adopted c
     - The Jesuit Martin del Rio identified four types of cabalists, concluding that the fourth group—who invoked seventy-two angelic names to produce miracles—practiced 'an entirely blasphemous and magical cabala,' while even the sephirotists (third group) 'begin to smooth the path for superstition.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_caduceus-medical-snake.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Very Christian Cabala
 
@@ -154,7 +155,7 @@ Jean Thenaud's verse manuscript La Saincte et trescrestienne cabale (c.1519), th
     - The concentration of cabalistic manuscripts in European and American libraries comes heaviest in the mid-seventeenth century, when printed publication fell off, suggesting that the tradition retreated into private scholarly circulation as its public credibility declined.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_figure-with-weapon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Erudites
 
@@ -174,7 +175,7 @@ By the late sixteenth and seventeenth centuries, cabalistic knowledge had diffus
     - The pattern across erudites regardless of their attitude—whether ardent opponents, neutral encyclopedists, or cautious users—confirms the thesis: 'to refer to cabala was a form of ostentation among scholars. It established their reputation for being au courant.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_ark-boat.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_figure-with-weapon.png" alt="" role="presentation" loading="lazy"></div>
 
 ## "And in Conclusion"
 

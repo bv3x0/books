@@ -11,6 +11,7 @@ author: "Mary Anne Atwood"
 shortAuthor: "Atwood"
 year: "1850"
 tags: ["philosophy", "religion", "history"]
+collections: ["Magic"]
 ---
 
 
@@ -43,7 +44,7 @@ Atwood surveys the historical lineage of Hermetic philosophy from Hermes Trismeg
     - "Sendivogius warns in his Preface that 'this Art is for the wise, not for the ignorant; and that the sense of the philosophers is of another nature than to be understood by vaporizing Thrasoes, or the letter-learned scoffers, or vicious against their own consciences.'" —Sendivogius
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cross-christian.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-with-signal.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Of the Theory of Transmutation in General, and of the First Matter
 
@@ -66,7 +67,7 @@ Atwood argues that the Hermetic theory of transmutation rests not on the literal
     - "Arnold: 'Convert the elements and you will find what you seek; for our operation is nothing else than a mutation of natures, and the method of conversion in our Argent vive is the reduction of natures to their first root.'" —Arnold di Villa Nova
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_earth-globe-grid.png" alt="" role="presentation" loading="lazy"></div>
 
 ### The Golden Treatise of Hermes Trismegistus Concerning the Physical Secret of the Philosophers' Stone, in Seven Sections
 
@@ -83,7 +84,7 @@ Atwood presents the full text of the Golden Treatise attributed to Hermes Trisme
     - Section Seven asserts that gold is the ferment Ixir that vivifies all metallic bodies, as dough cannot be fermented without a ferment—and that the key of the philosophers is this fermentation which melioration all bodies and, God assisting, consummates the work.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part II: A More Esoteric Consideration of the Hermetic Art and Its Mysteries
 
@@ -105,7 +106,7 @@ Atwood makes her central esoteric argument explicit: the true laboratory of Alch
     - "Plato declares that 'to know oneself is Wisdom and the highest virtue of the soul; for the soul rightly entering into herself will behold all other things and Deity itself; as verging to her own union and to the center of all life, laying aside multitude and the variety of all manifold powers, she ascends to the highest watchtower of beings.'" —Plato
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_figure-with-weapon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Of the Mysteries
 
@@ -122,7 +123,7 @@ Atwood argues that the Greek and Egyptian Mysteries were not theatrical shows or
     - "Olympiodorus: 'The phantasy is an impediment to our intellectual conception; hence when we are agitated by the inspiring influence of divinity and the phantasy intervenes, the enthusiastic energy ceases. Should it be asked whether the soul is able to energize without the phantasy, we reply that the perception of Universals proves that it is able.'" —Olympiodorus
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-leaping.png" alt="" role="presentation" loading="lazy"></div>
 
 ### The Mysteries Continued
 
@@ -139,7 +140,7 @@ Atwood traces the initiatory descent into Hades as a real psycho-spiritual ordea
     - The Chaldaic Oracle distinguishes two kinds of vision: mere 'Superinspection'—seeing lights and hearing voices of the imagination—and true Introspection, when 'the initiated person sees the Divine Light itself without any form or figure,' of which the Oracle says 'Hear the voice of Fire.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-burst.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_hand-with-signal.png" alt="" role="presentation" loading="lazy"></div>
 
 ### The Mysteries (Concluded)
 
@@ -156,7 +157,7 @@ Atwood completes her account of the Mysteries by showing that the final Paternal
     - The Chaldaic Oracle concludes: 'Having put on the completely armed vigour of resounding Light, with triple strength, fortifying the soul and the mind. O how the world hath Intellectual guides inflexible!'
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_cross-christian.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part III: Concerning the Laws and Vital Conditions of the Hermetic Experiment
 
@@ -178,7 +179,7 @@ Atwood argues that the practical method of Alchemy is grounded in the same ratio
     - The Palingenius verses summarize the process: 'Take this Arcadian slippery lad that's apt to fly / And in the glittering Stygian lake, drowned let him die / Then in a warm womb placed, his taint dissolve / Whose dropping limbs a spirit shall devolve / Dead by degrees, shall bring to life anew / All clad in robes of gold and silver hue.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
 
 ### A Further Analysis of the Initial Principle and Its Education into Light
 
@@ -198,7 +199,7 @@ Atwood examines the First Matter or Initial Principle of Alchemy through the con
     - Aristotle himself, despite his critique of predecessors' methods, praises Anaxagoras for recognizing Intellect as First Cause: 'he appeared like a sober man among those who were drunk, by asserting that Intellect was the principle of beauty and of the right order of things.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_person-carrying.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Of the Manifestations of the Philosophic Matter
 
@@ -215,7 +216,7 @@ Atwood argues that the Philosophic Matter, once generated through the Hermetic d
     - "Hermes in the Poemander: 'I saw an infinite Light; then a darkness made in part, fearful and hideous, changed into a certain moist nature unspeakably troubled; then from that Light a certain holy Word joined itself unto Nature, and out flew the pure and unmixed fire from the moist nature upward on high; and the Spirit was carried upon the waters—I am that Light, the Mind, thy God.'" —Hermes Trismegistus
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Life_people-holding-hands.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Of the Mental Requisites and Impediments Incidental to Individuals, Either as Masters or Students, in the Hermetic Art
 
@@ -232,7 +233,7 @@ Atwood systematically catalogs the moral, intellectual, and dispositional requir
     - Norton specifies that the Gross Work requires eight servants working continuously in shifts, never resorting to ribaldry (lest they destroy parts of the work), and that either all must be men or all women—they must not be intermixed—and even then must have proper disport to relieve their great labors.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_sacred-heart-flame.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Part IV: The Hermetic Practice
 
@@ -251,7 +252,7 @@ Atwood describes the first practical stage of the Hermetic art—the Gross Work�
     - The Green Lion Hunt poem—'And yet within he hath such heat / That when he hath the Sun up eat / He bringeth him to more perfection / Than ever he had by Nature's direction'—describes the initial phase of the Gross Work in which the crude mineral spirit, aroused, devours and transmutes the solar ferment into a higher conjunction.
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_ark-boat.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_dark-planet.png" alt="" role="presentation" loading="lazy"></div>
 
 ### Of the Philosophic or Subtle Work
 
@@ -268,7 +269,7 @@ Atwood describes the Philosophic or Subtle Work as the triadic sequence of opera
     - The concluding Hermetic instruction: 'The Conjunction in which all the mysteries of the Microcosm have their consummation is the true circulated Form of Gold; the tetraptive Conjunction that so highly commended Fountain of Pythagoras, the Divine Tetractys—whence all our Wisdom springs and which contains Perennial nature's fountain, cause, and root.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_sun-radiant.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Life_group-people.png" alt="" role="presentation" loading="lazy"></div>
 
 ### The Six Keys of Eudoxus
 
@@ -285,7 +286,7 @@ Eudoxus's Six Keys provide a sequential practical guide to the Hermetic operatio
     - The Lucerna Salis confirms that 'one drachm of gold is sufficient for the fermentation in the Red; with one single very small part the tincture may afterwards be augmented more and more; if this medicine be multiplied and again dissolved and coagulated by the water of its mercury, the tinging virtue will be augmented each time by ten degrees in perfection, which may be reiterated at will.'
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Life_celebration-group.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
 
 ### The Conclusion
 
