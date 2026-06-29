@@ -4,7 +4,7 @@
 - Thesis: Eric Gans's originary hypothesis—that language and humanity emerged from a gesture of deferred appropriation around a sacred center—provides the foundation for a comprehensive social, political, and cultural theory ('anthropomorphics') in which all human activity is understood as chains of imperatives issuing from and returning to a signifying center, and in which the civilizational task is to restore coherence between the occupied and signifying center without recourse to liberal super-sovereignties.
 - Topics: originary hypothesis and generative anthropology, speech forms and the grammar of the social, sacred and political centrality, critique of liberalism and secular thought, pedagogy, naming, and centered ordinality
 - Categories: philosophy, political science, social science
-- Author: Adam Katz
+- Author: Dennis Bouvard
 - Year: 
 - Mode: quick
 
