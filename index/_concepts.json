@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-06-26T21:54:29.614294Z",
+  "updated_at": "2026-06-29T01:13:51.257555Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -537,6 +537,7 @@
       "book_claims": {
         "a disease in the public mind": 1,
         "american nations": 1,
+        "anthropomorphics": 6,
         "beelzebubs tales": 2,
         "bronze age mindset": 6,
         "occult philosophy in the elizabethan age": 1,
@@ -549,6 +550,7 @@
       "books": [
         "a disease in the public mind",
         "american nations",
+        "anthropomorphics",
         "beelzebubs tales",
         "bronze age mindset",
         "occult philosophy in the elizabethan age",
@@ -558,7 +560,7 @@
         "the first ghosts",
         "unqualified reservations"
       ],
-      "claim_count": 17
+      "claim_count": 23
     },
     "threatened_secession": {
       "id": "threatened_secession",
@@ -5974,6 +5976,7 @@
       "related": [],
       "book_claims": {
         "american nations": 3,
+        "anthropomorphics": 1,
         "beelzebubs tales": 3,
         "beyond good and evil": 3,
         "braudel-vol1": 4,
@@ -5994,6 +5997,7 @@
       },
       "books": [
         "american nations",
+        "anthropomorphics",
         "beelzebubs tales",
         "beyond good and evil",
         "braudel-vol1",
@@ -6012,7 +6016,7 @@
         "through the eye of a needle",
         "transcendental magic"
       ],
-      "claim_count": 40
+      "claim_count": 41
     },
     "religious_tolerance": {
       "id": "religious_tolerance",
@@ -8576,13 +8580,15 @@
       "related": [],
       "book_claims": {
         "american nations": 1,
+        "anthropomorphics": 1,
         "the age of interconnection": 4
       },
       "books": [
         "american nations",
+        "anthropomorphics",
         "the age of interconnection"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "foreign_policy": {
       "id": "foreign_policy",
@@ -8954,6 +8960,7 @@
       "related": [],
       "book_claims": {
         "animus and anima": 1,
+        "anthropomorphics": 2,
         "art of memory": 1,
         "beelzebubs tales": 1,
         "europes tragedy": 1,
@@ -8974,6 +8981,7 @@
       },
       "books": [
         "animus and anima",
+        "anthropomorphics",
         "art of memory",
         "beelzebubs tales",
         "europes tragedy",
@@ -8992,7 +9000,7 @@
         "the interpretation of fairy tales",
         "the secret teachings of all ages"
       ],
-      "claim_count": 48
+      "claim_count": 50
     },
     "gender_hierarchy": {
       "id": "gender_hierarchy",
@@ -9954,6 +9962,7 @@
       "related": [],
       "book_claims": {
         "anthropol": 1,
+        "anthropomorphics": 7,
         "beyond good and evil": 1,
         "preface to plato": 1,
         "revolt-against-the-modern-world": 1,
@@ -9963,6 +9972,7 @@
       },
       "books": [
         "anthropol",
+        "anthropomorphics",
         "beyond good and evil",
         "preface to plato",
         "revolt-against-the-modern-world",
@@ -9970,7 +9980,7 @@
         "things hidden since the foundation of the world",
         "unqualified reservations"
       ],
-      "claim_count": 9
+      "claim_count": 16
     },
     "transcendence": {
       "id": "transcendence",
@@ -10958,17 +10968,19 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 10,
+        "anthropomorphics": 2,
         "boom": 1,
         "the concept of acceleration": 1,
         "things hidden since the foundation of the world": 23
       },
       "books": [
         "all desire is a desire for being",
+        "anthropomorphics",
         "boom",
         "the concept of acceleration",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 35
+      "claim_count": 37
     },
     "refugee_crisis": {
       "id": "refugee_crisis",
@@ -11710,15 +11722,17 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
+        "anthropomorphics": 1,
         "braudel-vol1": 1,
         "occult philosophy in the elizabethan age": 1
       },
       "books": [
         "all desire is a desire for being",
+        "anthropomorphics",
         "braudel-vol1",
         "occult philosophy in the elizabethan age"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "epidemic_disease": {
       "id": "epidemic_disease",
@@ -12623,6 +12637,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "beelzebubs tales": 1,
         "braudel-vol1": 1,
         "eros and magic in the renaissance": 1,
@@ -12643,6 +12658,7 @@
         "the secret teachings of all ages": 2
       },
       "books": [
+        "anthropomorphics",
         "beelzebubs tales",
         "braudel-vol1",
         "eros and magic in the renaissance",
@@ -12662,7 +12678,7 @@
         "the pattern on the stone",
         "the secret teachings of all ages"
       ],
-      "claim_count": 41
+      "claim_count": 43
     },
     "innovation_spread": {
       "id": "innovation_spread",
@@ -13431,18 +13447,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "braudel-vol1": 2,
         "europes tragedy": 1,
         "normans in the south": 1,
         "the power of ritual in prehistory": 2
       },
       "books": [
+        "anthropomorphics",
         "braudel-vol1",
         "europes tragedy",
         "normans in the south",
         "the power of ritual in prehistory"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "political_centralization": {
       "id": "political_centralization",
@@ -15085,6 +15103,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 4,
         "deschooling society": 1,
         "designing freedom": 1,
         "poor charlies almanack": 1,
@@ -15095,6 +15114,7 @@
         "unqualified reservations": 3
       },
       "books": [
+        "anthropomorphics",
         "deschooling society",
         "designing freedom",
         "poor charlies almanack",
@@ -15104,7 +15124,7 @@
         "the world as will and representation vol 2",
         "unqualified reservations"
       ],
-      "claim_count": 12
+      "claim_count": 16
     },
     "resource_access": {
       "id": "resource_access",
@@ -15177,6 +15197,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "deschooling society": 1,
         "from bacteria to bach and back": 3,
         "mind in motion": 1,
@@ -15185,6 +15206,7 @@
         "things hidden since the foundation of the world": 1
       },
       "books": [
+        "anthropomorphics",
         "deschooling society",
         "from bacteria to bach and back",
         "mind in motion",
@@ -15192,7 +15214,7 @@
         "the interpretation of fairy tales",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "family_dysfunction": {
       "id": "family_dysfunction",
@@ -17838,6 +17860,7 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 1,
+        "anthropomorphics": 3,
         "beyond good and evil": 1,
         "confessions": 1,
         "evil the shadow side of reality": 2,
@@ -17852,6 +17875,7 @@
       },
       "books": [
         "alchemy of air",
+        "anthropomorphics",
         "beyond good and evil",
         "confessions",
         "evil the shadow side of reality",
@@ -17864,7 +17888,7 @@
         "the world as will and representation vol 2",
         "unqualified reservations"
       ],
-      "claim_count": 15
+      "claim_count": 18
     },
     "shadow_psychology": {
       "id": "shadow_psychology",
@@ -18437,6 +18461,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 4,
         "antifragile": 1,
         "fanged noumena": 1,
         "horror of philosophy": 1,
@@ -18448,6 +18473,7 @@
         "through the eye of a needle": 1
       },
       "books": [
+        "anthropomorphics",
         "antifragile",
         "fanged noumena",
         "horror of philosophy",
@@ -18458,7 +18484,7 @@
         "the closing of the american mind",
         "through the eye of a needle"
       ],
-      "claim_count": 11
+      "claim_count": 15
     },
     "death_drive": {
       "id": "death_drive",
@@ -18661,6 +18687,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 3,
         "beelzebubs tales": 2,
         "bronze age mindset": 3,
         "catafalque": 2,
@@ -18695,6 +18722,7 @@
         "zero to one": 1
       },
       "books": [
+        "anthropomorphics",
         "beelzebubs tales",
         "bronze age mindset",
         "catafalque",
@@ -18728,7 +18756,7 @@
         "why we sleep",
         "zero to one"
       ],
-      "claim_count": 50
+      "claim_count": 53
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -19101,6 +19129,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "from bacteria to bach and back": 1,
         "mind in motion": 6,
         "mystery teachings from the living earth": 1,
@@ -19110,6 +19139,7 @@
         "the world as will and representation vol 2": 1
       },
       "books": [
+        "anthropomorphics",
         "from bacteria to bach and back",
         "mind in motion",
         "mystery teachings from the living earth",
@@ -19118,7 +19148,7 @@
         "the elephant in the brain",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "language_evolution": {
       "id": "language_evolution",
@@ -19213,18 +19243,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "beyond good and evil": 1,
         "from bacteria to bach and back": 1,
         "out-of-body exploring": 1,
         "the soul of the world": 4
       },
       "books": [
+        "anthropomorphics",
         "beyond good and evil",
         "from bacteria to bach and back",
         "out-of-body exploring",
         "the soul of the world"
       ],
-      "claim_count": 7
+      "claim_count": 9
     },
     "cultural_inheritance": {
       "id": "cultural_inheritance",
@@ -20207,18 +20239,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "antifragile": 1,
         "introduction-to-christianity": 1,
         "orthodoxy": 1,
         "the mystical theology of the eastern church": 1
       },
       "books": [
+        "anthropomorphics",
         "antifragile",
         "introduction-to-christianity",
         "orthodoxy",
         "the mystical theology of the eastern church"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "totalitarian_analysis": {
       "id": "totalitarian_analysis",
@@ -24771,6 +24805,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 9,
         "europes tragedy": 7,
         "mystery of the grail": 2,
         "normans in the south": 2,
@@ -24784,6 +24819,7 @@
         "unqualified reservations": 1
       },
       "books": [
+        "anthropomorphics",
         "europes tragedy",
         "mystery of the grail",
         "normans in the south",
@@ -24796,7 +24832,7 @@
         "through the eye of a needle",
         "unqualified reservations"
       ],
-      "claim_count": 30
+      "claim_count": 39
     },
     "legal_legitimacy": {
       "id": "legal_legitimacy",
@@ -26029,14 +26065,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "occult philosophy in the elizabethan age": 1,
         "revolt-against-the-modern-world": 1
       },
       "books": [
+        "anthropomorphics",
         "occult philosophy in the elizabethan age",
         "revolt-against-the-modern-world"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "religious_legitimation": {
       "id": "religious_legitimation",
@@ -29159,16 +29197,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "orality-and-literacy": 1,
         "preface to plato": 1,
         "the culture of narcissism": 1
       },
       "books": [
+        "anthropomorphics",
         "orality-and-literacy",
         "preface to plato",
         "the culture of narcissism"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "communication_modes": {
       "id": "communication_modes",
@@ -29437,16 +29477,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "language machines": 1,
         "orality-and-literacy": 1,
         "the closing of the american mind": 1
       },
       "books": [
+        "anthropomorphics",
         "language machines",
         "orality-and-literacy",
         "the closing of the american mind"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "speech_act_theory": {
       "id": "speech_act_theory",
@@ -29455,18 +29497,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 3,
         "language machines": 1,
         "orality-and-literacy": 1,
         "signs and machines": 1,
         "the soul of the world": 1
       },
       "books": [
+        "anthropomorphics",
         "language machines",
         "orality-and-literacy",
         "signs and machines",
         "the soul of the world"
       ],
-      "claim_count": 4
+      "claim_count": 7
     },
     "intellectual_development": {
       "id": "intellectual_development",
@@ -29577,14 +29621,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "orality-and-literacy": 1,
         "the closing of the american mind": 1
       },
       "books": [
+        "anthropomorphics",
         "orality-and-literacy",
         "the closing of the american mind"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "self_confidence": {
       "id": "self_confidence",
@@ -29743,16 +29789,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "orthodoxy": 2,
         "the culture of narcissism": 1,
         "unqualified reservations": 1
       },
       "books": [
+        "anthropomorphics",
         "orthodoxy",
         "the culture of narcissism",
         "unqualified reservations"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "philosophy_of_science": {
       "id": "philosophy_of_science",
@@ -32309,16 +32357,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "revolt-against-the-modern-world": 1,
         "the power of ritual in prehistory": 3,
         "the soul of the world": 1
       },
       "books": [
+        "anthropomorphics",
         "revolt-against-the-modern-world",
         "the power of ritual in prehistory",
         "the soul of the world"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "cultural_origins": {
       "id": "cultural_origins",
@@ -35165,6 +35215,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "beyond good and evil": 2,
         "confessions": 1,
         "introduction-to-christianity": 3,
@@ -35174,6 +35225,7 @@
         "the world as will and representation vol 2": 5
       },
       "books": [
+        "anthropomorphics",
         "beyond good and evil",
         "confessions",
         "introduction-to-christianity",
@@ -35182,7 +35234,7 @@
         "the world as will and representation",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 25
+      "claim_count": 27
     },
     "identity": {
       "id": "identity",
@@ -36743,14 +36795,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "beelzebubs tales": 1,
         "occult philosophy in the elizabethan age": 2
       },
       "books": [
+        "anthropomorphics",
         "beelzebubs tales",
         "occult philosophy in the elizabethan age"
       ],
-      "claim_count": 3
+      "claim_count": 5
     },
     "mentorship": {
       "id": "mentorship",
@@ -37917,6 +37971,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "beyond good and evil": 3,
         "on heroes": 1,
         "on the aesthetic education of man": 3,
@@ -37929,6 +37984,7 @@
         "zero to one": 1
       },
       "books": [
+        "anthropomorphics",
         "beyond good and evil",
         "on heroes",
         "on the aesthetic education of man",
@@ -37940,7 +37996,7 @@
         "thus spake zarathustra",
         "zero to one"
       ],
-      "claim_count": 16
+      "claim_count": 17
     },
     "cultural_change": {
       "id": "cultural_change",
@@ -38249,16 +38305,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 3,
         "introduction-to-christianity": 1,
         "sexual personae": 5,
         "the world as will and representation": 13
       },
       "books": [
+        "anthropomorphics",
         "introduction-to-christianity",
         "sexual personae",
         "the world as will and representation"
       ],
-      "claim_count": 19
+      "claim_count": 22
     },
     "mortality": {
       "id": "mortality",
@@ -38751,16 +38809,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "schizoposting": 1,
         "sexual personae": 2,
         "through the eye of a needle": 1
       },
       "books": [
+        "anthropomorphics",
         "schizoposting",
         "sexual personae",
         "through the eye of a needle"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "sacred_numerology": {
       "id": "sacred_numerology",
@@ -39513,14 +39573,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 3,
         "from bacteria to bach and back": 1,
         "origins of the kabbalah": 1
       },
       "books": [
+        "anthropomorphics",
         "from bacteria to bach and back",
         "origins of the kabbalah"
       ],
-      "claim_count": 2
+      "claim_count": 5
     },
     "astral_magic": {
       "id": "astral_magic",
@@ -40469,14 +40531,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 8,
         "ride the tiger": 2,
         "things hidden since the foundation of the world": 4
       },
       "books": [
+        "anthropomorphics",
         "ride the tiger",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 6
+      "claim_count": 14
     },
     "magical_ethics": {
       "id": "magical_ethics",
@@ -42700,6 +42764,7 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
+        "anthropomorphics": 1,
         "designing freedom": 1,
         "lacan seminars i": 2,
         "schizoposting": 3,
@@ -42708,13 +42773,14 @@
       },
       "books": [
         "all desire is a desire for being",
+        "anthropomorphics",
         "designing freedom",
         "lacan seminars i",
         "schizoposting",
         "the closing of the american mind",
         "the lacanian subject"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "socialization": {
       "id": "socialization",
@@ -44841,18 +44907,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 4,
         "digital cash": 1,
         "lacan seminars i": 2,
         "man and his symbols": 1,
         "schizoposting": 1
       },
       "books": [
+        "anthropomorphics",
         "digital cash",
         "lacan seminars i",
         "man and his symbols",
         "schizoposting"
       ],
-      "claim_count": 5
+      "claim_count": 9
     },
     "libido_theory": {
       "id": "libido_theory",
@@ -45023,6 +45091,7 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "lacan seminars i": 1,
         "on the aesthetic education of man": 2,
         "parables for the virtual": 2,
@@ -45030,13 +45099,14 @@
         "the world as will and representation vol 2": 1
       },
       "books": [
+        "anthropomorphics",
         "lacan seminars i",
         "on the aesthetic education of man",
         "parables for the virtual",
         "ride the tiger",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "body_image": {
       "id": "body_image",
@@ -45360,13 +45430,15 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
+        "anthropomorphics": 2,
         "things hidden since the foundation of the world": 6
       },
       "books": [
         "all desire is a desire for being",
+        "anthropomorphics",
         "things hidden since the foundation of the world"
       ],
-      "claim_count": 7
+      "claim_count": 9
     },
     "deification": {
       "id": "deification",
@@ -45398,15 +45470,17 @@
       "related": [],
       "book_claims": {
         "all desire is a desire for being": 1,
+        "anthropomorphics": 3,
         "things hidden since the foundation of the world": 9,
         "zero to one": 3
       },
       "books": [
         "all desire is a desire for being",
+        "anthropomorphics",
         "things hidden since the foundation of the world",
         "zero to one"
       ],
-      "claim_count": 13
+      "claim_count": 16
     },
     "ethology": {
       "id": "ethology",
@@ -46639,16 +46713,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 5,
         "confessions": 1,
         "from bacteria to bach and back": 1,
         "mind in motion": 2
       },
       "books": [
+        "anthropomorphics",
         "confessions",
         "from bacteria to bach and back",
         "mind in motion"
       ],
-      "claim_count": 4
+      "claim_count": 9
     },
     "philosophical_religion": {
       "id": "philosophical_religion",
@@ -50813,14 +50889,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "braudel-vol1": 1,
         "the elephant in the brain": 1
       },
       "books": [
+        "anthropomorphics",
         "braudel-vol1",
         "the elephant in the brain"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "urban_planning": {
       "id": "urban_planning",
@@ -51122,6 +51200,7 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 3,
+        "anthropomorphics": 2,
         "bronze age mindset": 1,
         "digital cash": 1,
         "europes tragedy": 1,
@@ -51129,12 +51208,13 @@
       },
       "books": [
         "alchemy of air",
+        "anthropomorphics",
         "bronze age mindset",
         "digital cash",
         "europes tragedy",
         "signs and machines"
       ],
-      "claim_count": 7
+      "claim_count": 9
     },
     "risk_tolerance": {
       "id": "risk_tolerance",
@@ -51865,16 +51945,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 2,
         "from bacteria to bach and back": 1,
         "mind in motion": 3,
         "why we sleep": 1
       },
       "books": [
+        "anthropomorphics",
         "from bacteria to bach and back",
         "mind in motion",
         "why we sleep"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "metacognition": {
       "id": "metacognition",
@@ -55459,16 +55541,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 6,
         "jesus and his times vol 1": 1,
         "now it can be told": 2,
         "skunk works": 1
       },
       "books": [
+        "anthropomorphics",
         "jesus and his times vol 1",
         "now it can be told",
         "skunk works"
       ],
-      "claim_count": 4
+      "claim_count": 10
     },
     "workforce_management": {
       "id": "workforce_management",
@@ -56973,18 +57057,20 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 4,
         "flatline constructs": 9,
         "how artifacts afford": 1,
         "language machines": 1,
         "parables for the virtual": 1
       },
       "books": [
+        "anthropomorphics",
         "flatline constructs",
         "how artifacts afford",
         "language machines",
         "parables for the virtual"
       ],
-      "claim_count": 12
+      "claim_count": 16
     },
     "hyperreality": {
       "id": "hyperreality",
@@ -57149,14 +57235,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "occult philosophy in the elizabethan age": 1,
         "the world as will and representation vol 2": 1
       },
       "books": [
+        "anthropomorphics",
         "occult philosophy in the elizabethan age",
         "the world as will and representation vol 2"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "metempsychosis": {
       "id": "metempsychosis",
@@ -58803,14 +58891,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "orality-and-literacy": 1,
         "signs and machines": 1
       },
       "books": [
+        "anthropomorphics",
         "orality-and-literacy",
         "signs and machines"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "media_technology": {
       "id": "media_technology",
@@ -59173,16 +59263,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "boom": 1,
         "how artifacts afford": 1,
         "muskism": 1
       },
       "books": [
+        "anthropomorphics",
         "boom",
         "how artifacts afford",
         "muskism"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "class_privilege": {
       "id": "class_privilege",
@@ -60567,14 +60659,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "schizoposting": 1,
         "the closing of the american mind": 2
       },
       "books": [
+        "anthropomorphics",
         "schizoposting",
         "the closing of the american mind"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "academic_decline": {
       "id": "academic_decline",
@@ -61640,13 +61734,15 @@
       "related": [],
       "book_claims": {
         "alchemy of air": 3,
+        "anthropomorphics": 1,
         "europes tragedy": 2
       },
       "books": [
         "alchemy of air",
+        "anthropomorphics",
         "europes tragedy"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "negotiation": {
       "id": "negotiation",
@@ -62121,14 +62217,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "anthropomorphics": 1,
         "flatline constructs": 1,
         "the black swan": 1
       },
       "books": [
+        "anthropomorphics",
         "flatline constructs",
         "the black swan"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "black_swan": {
       "id": "black_swan",
@@ -66373,6 +66471,262 @@
       "books": [
         "hermetic mystery",
         "transcendental magic"
+      ],
+      "claim_count": 2
+    },
+    "christian_revelation": {
+      "id": "christian_revelation",
+      "label": "Christian Revelation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "all desire is a desire for being": 2,
+        "anthropomorphics": 1
+      },
+      "books": [
+        "all desire is a desire for being",
+        "anthropomorphics"
+      ],
+      "claim_count": 3
+    },
+    "ritual_origin": {
+      "id": "ritual_origin",
+      "label": "Ritual Origin",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "all desire is a desire for being": 1,
+        "anthropomorphics": 1
+      },
+      "books": [
+        "all desire is a desire for being",
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "social_interaction": {
+      "id": "social_interaction",
+      "label": "Social Interaction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "beelzebubs tales": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "beelzebubs tales"
+      ],
+      "claim_count": 2
+    },
+    "monetary_theory": {
+      "id": "monetary_theory",
+      "label": "Monetary Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2,
+        "braudel-vol1": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "braudel-vol1"
+      ],
+      "claim_count": 3
+    },
+    "language_origin": {
+      "id": "language_origin",
+      "label": "Language Origin",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4,
+        "from bacteria to bach and back": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "from bacteria to bach and back"
+      ],
+      "claim_count": 5
+    },
+    "semantic_analysis": {
+      "id": "semantic_analysis",
+      "label": "Semantic Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 5,
+        "introduction-to-christianity": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "introduction-to-christianity"
+      ],
+      "claim_count": 6
+    },
+    "covenantal_theology": {
+      "id": "covenantal_theology",
+      "label": "Covenantal Theology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "jesus and his times vol 1": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "jesus and his times vol 1"
+      ],
+      "claim_count": 2
+    },
+    "naming": {
+      "id": "naming",
+      "label": "Naming",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 3,
+        "lacan seminars i": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "lacan seminars i"
+      ],
+      "claim_count": 4
+    },
+    "tyranny": {
+      "id": "tyranny",
+      "label": "Tyranny",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "occult philosophy in the elizabethan age": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "occult philosophy in the elizabethan age"
+      ],
+      "claim_count": 2
+    },
+    "self_representation": {
+      "id": "self_representation",
+      "label": "Self Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "out-of-body exploring": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "out-of-body exploring"
+      ],
+      "claim_count": 2
+    },
+    "liberalism_critique": {
+      "id": "liberalism_critique",
+      "label": "Liberalism Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 5,
+        "parables for the virtual": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "parables for the virtual"
+      ],
+      "claim_count": 6
+    },
+    "mimesis": {
+      "id": "mimesis",
+      "label": "Mimesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2,
+        "preface to plato": 5
+      },
+      "books": [
+        "anthropomorphics",
+        "preface to plato"
+      ],
+      "claim_count": 7
+    },
+    "ritual_order": {
+      "id": "ritual_order",
+      "label": "Ritual Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "revolt-against-the-modern-world": 2
+      },
+      "books": [
+        "anthropomorphics",
+        "revolt-against-the-modern-world"
+      ],
+      "claim_count": 3
+    },
+    "social_science_methodology": {
+      "id": "social_science_methodology",
+      "label": "Social Science Methodology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "the closing of the american mind": 2
+      },
+      "books": [
+        "anthropomorphics",
+        "the closing of the american mind"
+      ],
+      "claim_count": 3
+    },
+    "linguistic_relativity": {
+      "id": "linguistic_relativity",
+      "label": "Linguistic Relativity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2,
+        "the world as will and representation vol 2": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "the world as will and representation vol 2"
+      ],
+      "claim_count": 3
+    },
+    "human_sciences": {
+      "id": "human_sciences",
+      "label": "Human Sciences",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1,
+        "things hidden since the foundation of the world": 1
+      },
+      "books": [
+        "anthropomorphics",
+        "things hidden since the foundation of the world"
       ],
       "claim_count": 2
     },
@@ -77044,20 +77398,6 @@
       ],
       "claim_count": 1
     },
-    "christian_revelation": {
-      "id": "christian_revelation",
-      "label": "Christian Revelation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "all desire is a desire for being": 2
-      },
-      "books": [
-        "all desire is a desire for being"
-      ],
-      "claim_count": 2
-    },
     "victim_culture": {
       "id": "victim_culture",
       "label": "Victim Culture",
@@ -77243,20 +77583,6 @@
     "rites_of_passage": {
       "id": "rites_of_passage",
       "label": "Rites Of Passage",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "all desire is a desire for being": 1
-      },
-      "books": [
-        "all desire is a desire for being"
-      ],
-      "claim_count": 1
-    },
-    "ritual_origin": {
-      "id": "ritual_origin",
-      "label": "Ritual Origin",
       "description": "",
       "aliases": [],
       "related": [],
@@ -83789,6 +84115,958 @@
       },
       "books": [
         "anthropol"
+      ],
+      "claim_count": 1
+    },
+    "disciplinary_space": {
+      "id": "disciplinary_space",
+      "label": "Disciplinary Space",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 11
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 11
+    },
+    "originary_hypothesis": {
+      "id": "originary_hypothesis",
+      "label": "Originary Hypothesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 3
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 3
+    },
+    "epistemological_method": {
+      "id": "epistemological_method",
+      "label": "Epistemological Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 4
+    },
+    "hypothetical_method": {
+      "id": "hypothetical_method",
+      "label": "Hypothetical Method",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "hierarchy": {
+      "id": "hierarchy",
+      "label": "Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "social_center": {
+      "id": "social_center",
+      "label": "Social Center",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "paradox_of_deconstruction": {
+      "id": "paradox_of_deconstruction",
+      "label": "Paradox Of Deconstruction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "structural_paradox": {
+      "id": "structural_paradox",
+      "label": "Structural Paradox",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "joint_attention": {
+      "id": "joint_attention",
+      "label": "Joint Attention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "scapegoat_theory": {
+      "id": "scapegoat_theory",
+      "label": "Scapegoat Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "social_genesis": {
+      "id": "social_genesis",
+      "label": "Social Genesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "sacred_center": {
+      "id": "sacred_center",
+      "label": "Sacred Center",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 7
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 7
+    },
+    "deferral": {
+      "id": "deferral",
+      "label": "Deferral",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 7
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 7
+    },
+    "resentment": {
+      "id": "resentment",
+      "label": "Resentment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 4
+    },
+    "gift_economy": {
+      "id": "gift_economy",
+      "label": "Gift Economy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "linguistic_presence": {
+      "id": "linguistic_presence",
+      "label": "Linguistic Presence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 3
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 3
+    },
+    "institutional_emergence": {
+      "id": "institutional_emergence",
+      "label": "Institutional Emergence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "declarative_order": {
+      "id": "declarative_order",
+      "label": "Declarative Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 4
+    },
+    "myth_origin": {
+      "id": "myth_origin",
+      "label": "Myth Origin",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 3
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 3
+    },
+    "cultural_form": {
+      "id": "cultural_form",
+      "label": "Cultural Form",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "social_agency": {
+      "id": "social_agency",
+      "label": "Social Agency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 4
+    },
+    "methodological_principle": {
+      "id": "methodological_principle",
+      "label": "Methodological Principle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "imperative_exchange": {
+      "id": "imperative_exchange",
+      "label": "Imperative Exchange",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "fractal_hierarchy": {
+      "id": "fractal_hierarchy",
+      "label": "Fractal Hierarchy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "sacral_kingship": {
+      "id": "sacral_kingship",
+      "label": "Sacral Kingship",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "sacred_order": {
+      "id": "sacred_order",
+      "label": "Sacred Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "omnicentrism": {
+      "id": "omnicentrism",
+      "label": "Omnicentrism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "metalanguage_of_literacy": {
+      "id": "metalanguage_of_literacy",
+      "label": "Metalanguage Of Literacy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "scriptural_order": {
+      "id": "scriptural_order",
+      "label": "Scriptural Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 4
+    },
+    "super_sovereignty": {
+      "id": "super_sovereignty",
+      "label": "Super Sovereignty",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 5
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 5
+    },
+    "victim_narrative": {
+      "id": "victim_narrative",
+      "label": "Victim Narrative",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "violent_centralization": {
+      "id": "violent_centralization",
+      "label": "Violent Centralization",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 4
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 4
+    },
+    "signifying_center": {
+      "id": "signifying_center",
+      "label": "Signifying Center",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "centered_ordinality": {
+      "id": "centered_ordinality",
+      "label": "Centered Ordinality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 9
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 9
+    },
+    "post_sacrificial_order": {
+      "id": "post_sacrificial_order",
+      "label": "Post Sacrificial Order",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "demythification": {
+      "id": "demythification",
+      "label": "Demythification",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "infralanguage": {
+      "id": "infralanguage",
+      "label": "Infralanguage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "imperative_gap": {
+      "id": "imperative_gap",
+      "label": "Imperative Gap",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "social_obedience": {
+      "id": "social_obedience",
+      "label": "Social Obedience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "interdictory_authority": {
+      "id": "interdictory_authority",
+      "label": "Interdictory Authority",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "post_metaphysical_inquiry": {
+      "id": "post_metaphysical_inquiry",
+      "label": "Post Metaphysical Inquiry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "linguistic_primes": {
+      "id": "linguistic_primes",
+      "label": "Linguistic Primes",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "language_use": {
+      "id": "language_use",
+      "label": "Language Use",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "ostensive_imperative_world": {
+      "id": "ostensive_imperative_world",
+      "label": "Ostensive Imperative World",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "mistakenness": {
+      "id": "mistakenness",
+      "label": "Mistakenness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "delegation": {
+      "id": "delegation",
+      "label": "Delegation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "linguistic_authority": {
+      "id": "linguistic_authority",
+      "label": "Linguistic Authority",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "usurpation": {
+      "id": "usurpation",
+      "label": "Usurpation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 2
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 2
+    },
+    "knowledge": {
+      "id": "knowledge",
+      "label": "Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "disciplinary_critique": {
+      "id": "disciplinary_critique",
+      "label": "Disciplinary Critique",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "scene_construction": {
+      "id": "scene_construction",
+      "label": "Scene Construction",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "digital_archive": {
+      "id": "digital_archive",
+      "label": "Digital Archive",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "cultural_authority": {
+      "id": "cultural_authority",
+      "label": "Cultural Authority",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "rights_and_obligations": {
+      "id": "rights_and_obligations",
+      "label": "Rights And Obligations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "paradox_of_power": {
+      "id": "paradox_of_power",
+      "label": "Paradox Of Power",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "technology_origin": {
+      "id": "technology_origin",
+      "label": "Technology Origin",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "technology": {
+      "id": "technology",
+      "label": "Technology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "meaninglessness": {
+      "id": "meaninglessness",
+      "label": "Meaninglessness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "linguistic_change": {
+      "id": "linguistic_change",
+      "label": "Linguistic Change",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "disciplinary_transformation": {
+      "id": "disciplinary_transformation",
+      "label": "Disciplinary Transformation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "secular_thought": {
+      "id": "secular_thought",
+      "label": "Secular Thought",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "present_tense": {
+      "id": "present_tense",
+      "label": "Present Tense",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "onomastic_pedagogy": {
+      "id": "onomastic_pedagogy",
+      "label": "Onomastic Pedagogy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "succession": {
+      "id": "succession",
+      "label": "Succession",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 3
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 3
+    },
+    "social_representation": {
+      "id": "social_representation",
+      "label": "Social Representation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "chartering": {
+      "id": "chartering",
+      "label": "Chartering",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "design": {
+      "id": "design",
+      "label": "Design",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
+      ],
+      "claim_count": 1
+    },
+    "language_learning": {
+      "id": "language_learning",
+      "label": "Language Learning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "anthropomorphics": 1
+      },
+      "books": [
+        "anthropomorphics"
       ],
       "claim_count": 1
     },
@@ -95678,20 +96956,6 @@
       ],
       "claim_count": 1
     },
-    "social_interaction": {
-      "id": "social_interaction",
-      "label": "Social Interaction",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "beelzebubs tales": 1
-      },
-      "books": [
-        "beelzebubs tales"
-      ],
-      "claim_count": 1
-    },
     "moral_suffering": {
       "id": "moral_suffering",
       "label": "Moral Suffering",
@@ -105313,20 +106577,6 @@
     "credit_substitutes": {
       "id": "credit_substitutes",
       "label": "Credit Substitutes",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "braudel-vol1": 1
-      },
-      "books": [
-        "braudel-vol1"
-      ],
-      "claim_count": 1
-    },
-    "monetary_theory": {
-      "id": "monetary_theory",
-      "label": "Monetary Theory",
       "description": "",
       "aliases": [],
       "related": [],
@@ -147828,20 +149078,6 @@
       ],
       "claim_count": 1
     },
-    "language_origin": {
-      "id": "language_origin",
-      "label": "Language Origin",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "from bacteria to bach and back": 1
-      },
-      "books": [
-        "from bacteria to bach and back"
-      ],
-      "claim_count": 1
-    },
     "evolutionary_linguistics": {
       "id": "evolutionary_linguistics",
       "label": "Evolutionary Linguistics",
@@ -164096,20 +165332,6 @@
       ],
       "claim_count": 2
     },
-    "semantic_analysis": {
-      "id": "semantic_analysis",
-      "label": "Semantic Analysis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "introduction-to-christianity": 1
-      },
-      "books": [
-        "introduction-to-christianity"
-      ],
-      "claim_count": 1
-    },
     "faith_semantics": {
       "id": "faith_semantics",
       "label": "Faith Semantics",
@@ -171012,20 +172234,6 @@
       ],
       "claim_count": 1
     },
-    "covenantal_theology": {
-      "id": "covenantal_theology",
-      "label": "Covenantal Theology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "jesus and his times vol 1": 1
-      },
-      "books": [
-        "jesus and his times vol 1"
-      ],
-      "claim_count": 1
-    },
     "messianic_entry": {
       "id": "messianic_entry",
       "label": "Messianic Entry",
@@ -176601,20 +177809,6 @@
     "child_language": {
       "id": "child_language",
       "label": "Child Language",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "lacan seminars i": 1
-      },
-      "books": [
-        "lacan seminars i"
-      ],
-      "claim_count": 1
-    },
-    "naming": {
-      "id": "naming",
-      "label": "Naming",
       "description": "",
       "aliases": [],
       "related": [],
@@ -202008,20 +203202,6 @@
       ],
       "claim_count": 1
     },
-    "tyranny": {
-      "id": "tyranny",
-      "label": "Tyranny",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "occult philosophy in the elizabethan age": 1
-      },
-      "books": [
-        "occult philosophy in the elizabethan age"
-      ],
-      "claim_count": 1
-    },
     "power_without_virtue": {
       "id": "power_without_virtue",
       "label": "Power Without Virtue",
@@ -221944,20 +223124,6 @@
       ],
       "claim_count": 1
     },
-    "self_representation": {
-      "id": "self_representation",
-      "label": "Self Representation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "out-of-body exploring": 1
-      },
-      "books": [
-        "out-of-body exploring"
-      ],
-      "claim_count": 1
-    },
     "consciousness_as_point": {
       "id": "consciousness_as_point",
       "label": "Consciousness As Point",
@@ -223585,20 +224751,6 @@
     "media_power": {
       "id": "media_power",
       "label": "Media Power",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "parables for the virtual": 1
-      },
-      "books": [
-        "parables for the virtual"
-      ],
-      "claim_count": 1
-    },
-    "liberalism_critique": {
-      "id": "liberalism_critique",
-      "label": "Liberalism Critique",
       "description": "",
       "aliases": [],
       "related": [],
@@ -227585,20 +228737,6 @@
         "preface to plato"
       ],
       "claim_count": 1
-    },
-    "mimesis": {
-      "id": "mimesis",
-      "label": "Mimesis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "preface to plato": 5
-      },
-      "books": [
-        "preface to plato"
-      ],
-      "claim_count": 5
     },
     "stylistic_analysis": {
       "id": "stylistic_analysis",
@@ -237133,20 +238271,6 @@
         "revolt-against-the-modern-world"
       ],
       "claim_count": 1
-    },
-    "ritual_order": {
-      "id": "ritual_order",
-      "label": "Ritual Order",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "revolt-against-the-modern-world": 2
-      },
-      "books": [
-        "revolt-against-the-modern-world"
-      ],
-      "claim_count": 2
     },
     "initiatory_kingship": {
       "id": "initiatory_kingship",
@@ -280267,20 +281391,6 @@
         "the closing of the american mind"
       ],
       "claim_count": 1
-    },
-    "social_science_methodology": {
-      "id": "social_science_methodology",
-      "label": "Social Science Methodology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the closing of the american mind": 2
-      },
-      "books": [
-        "the closing of the american mind"
-      ],
-      "claim_count": 2
     },
     "epistemological_conflict": {
       "id": "epistemological_conflict",
@@ -328862,20 +329972,6 @@
       ],
       "claim_count": 1
     },
-    "linguistic_relativity": {
-      "id": "linguistic_relativity",
-      "label": "Linguistic Relativity",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the world as will and representation vol 2": 1
-      },
-      "books": [
-        "the world as will and representation vol 2"
-      ],
-      "claim_count": 1
-    },
     "rationality_and_error": {
       "id": "rationality_and_error",
       "label": "Rationality And Error",
@@ -338903,20 +339999,6 @@
     "scientific_hypothesis": {
       "id": "scientific_hypothesis",
       "label": "Scientific Hypothesis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "things hidden since the foundation of the world": 1
-      },
-      "books": [
-        "things hidden since the foundation of the world"
-      ],
-      "claim_count": 1
-    },
-    "human_sciences": {
-      "id": "human_sciences",
-      "label": "Human Sciences",
       "description": "",
       "aliases": [],
       "related": [],
@@ -364382,8 +365464,8 @@
     }
   },
   "stats": {
-    "total_concepts": 24989,
-    "total_claims": 42500,
-    "books_indexed": 146
+    "total_concepts": 25057,
+    "total_claims": 42790,
+    "books_indexed": 147
   }
 }

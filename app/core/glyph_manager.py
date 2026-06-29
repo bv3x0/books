@@ -1,8 +1,9 @@
 """
 Glyph management for chapter dividers.
-Maps BISAC categories to glyph image folders and provides random selection.
+Maps BISAC categories to glyph image folders and provides glyph selection.
 """
 
+import hashlib
 import random
 import shutil
 from pathlib import Path
@@ -41,7 +42,7 @@ def get_glyph_folders() -> dict[str, Path]:
         return _glyph_folders
 
     folders = {}
-    for folder in GLYPH_SOURCE_DIR.iterdir():
+    for folder in sorted(GLYPH_SOURCE_DIR.iterdir(), key=lambda path: path.name.lower()):
         if folder.is_dir() and not folder.name.startswith("."):
             folders[folder.name.lower()] = folder
 
@@ -49,12 +50,13 @@ def get_glyph_folders() -> dict[str, Path]:
     return _glyph_folders
 
 
-def get_random_glyph(categories: list[str]) -> Optional[str]:
+def get_random_glyph(categories: list[str], seed: Optional[str] = None) -> Optional[str]:
     """
-    Select a random glyph image from the pooled categories.
+    Select a glyph image from the pooled categories.
 
     Args:
         categories: List of lowercase BISAC category names
+        seed: Optional stable seed for deterministic selection
 
     Returns:
         URL path to glyph image (e.g., "/glyphs/Philosophy/image.png"),
@@ -81,7 +83,15 @@ def get_random_glyph(categories: list[str]) -> Optional[str]:
     if not available_glyphs:
         return None
 
-    selected = random.choice(available_glyphs)
+    available_glyphs = sorted(
+        available_glyphs, key=lambda path: path.relative_to(GLYPH_SOURCE_DIR).as_posix().lower()
+    )
+    if seed is None:
+        selected = random.choice(available_glyphs)
+    else:
+        digest = hashlib.sha256(seed.encode("utf-8")).digest()
+        selected = available_glyphs[int.from_bytes(digest[:8], "big") % len(available_glyphs)]
+
     relative_path = selected.relative_to(GLYPH_SOURCE_DIR)
     return f"/glyphs/{relative_path.as_posix()}"
 

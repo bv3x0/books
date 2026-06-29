@@ -1,0 +1,418 @@
+---
+title: "Anthropomorphics"
+sortTitle: "Anthropomorphics"
+date: 2026-06-28
+slug: "anthropomorphics"
+draft: false
+dateAdded: 2026-06-28
+description: "Eric Gans's originary hypothesis—that language and humanity emerged from a gesture of deferred appropriation around a sacred center—provides the foundation for a comprehensive social, political, and cultural theory ('anthropomorphics') in which all human activity is understood as chains of imperatives issuing from and returning to a signifying center, and in which the civilizational task is to restore coherence between the occupied and signifying center without recourse to liberal super-sovereignties."
+bookKeywords: "originary hypothesis and generative anthropology, speech forms and the grammar of the social, sacred and political centrality, critique of liberalism and secular thought, pedagogy, naming, and centered ordinality"
+author: "Adam Katz"
+shortAuthor: "Katz"
+tags: ["philosophy", "political science", "social science"]
+---
+
+
+
+## A Brief Introduction
+
+The book introduces 'anthropomorphics' as a sustained hypothesis built upon Eric Gans's originary hypothesis, written not to compare theories neutrally but to convert discursive spaces into originary reflection; it is addressed to a reader already thinking in terms of the center and aims to support the 'praxis of producer's desire'—the world-creating appropriation of language—rather than the pacified 'consumer's satisfaction' that grounds liberal political speech.
+
+* <span id="anthropomorphics-001"></span>**Rather than comparing theoretical pictures of reality from a neutral standpoint, the book enters discursive spaces so as to convert them into originary reflection, projecting a world in which everyone has adopted the originary hypothesis.**
+    - The mode of writing throws the reader in medias res, with regular recallings of beginnings in the middle, attempting to think outside of and re-enter strategically what David Olson calls the metalanguage of literacy.
+    - A 'disciplinary space' is any shared use of language insofar as it aims at ensuring everyone there is seeing the same thing at the same time.
+* <span id="anthropomorphics-002"></span>**The book is written to support the praxis of 'producer's desire' rather than 'consumer's satisfaction': the former is prior and engaged in producing the significant center, while the latter takes the existence of the community for granted and packages social order as already natural and stable.**
+    - Producer's desire aims at possession of the unique significance of the central object and is necessarily prior to consumer's satisfaction; consumer's satisfaction 'takes [the community's] existence for granted.'
+    - All contenders for power presently claim to speak from the standpoint of the consumer—stable, packaged, naturalized—precisely to claim they represent what is stable in the social order.
+* <span id="anthropomorphics-003"></span>**The originary hypothesis is treated as a hypothesis in the fullest sense: the better hypothesis is not the one that can be proven but the one people can stand in for, enrich, and use to render their own practices more hypothetical and attentive to conditions of articulation.**
+    - Proof has nothing to do with the social sciences; restricting variables on the model of physical sciences creates artificial conditions from which extrapolation is useless.
+    - The better hypothesis, like the better faith, is the one that can inhabit and convert the most discourses, activating them as if they were on the verge of enacting the hypothesis already.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_lightbulb-person.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Use of a Center
+
+Beginning with Gertrude Stein's imperative to act so there is no use in a center, this chapter demonstrates that every attempt to dissolve the center only adds new uses to it, and then, drawing on Derrida's analysis of the centered structure and Tomasello's research on joint attention, argues that desire, anxiety, and attention converging on a shared center are constitutive of human sign use—pointing the way toward Gans's originary hypothesis as the necessary next step.
+
+* <span id="anthropomorphics-004"></span>**Acting to dissolve all uses of the center necessarily uses the center to identify and disable each use, making Stein's injunction a discovery procedure that reveals rather than eliminates centrality.**
+    - A center establishes a hierarchy—at the very least between center and margin—and every other hierarchy is modeled on this primary one.
+    - Subtracting uses of the center adds new uses; the imperative to eliminate centrality places that very imperative at the center.
+* <span id="anthropomorphics-005"></span>**Derrida's analysis reveals that the concept of centered structure embodies a paradox—the center is both inside and outside the structure—and that this contradiction 'expresses the force of a desire' for certitude that masters anxiety, pointing toward an irreducibly intentionalistic dimension in any account of structure.**
+    - Each decentering implicates the new center further in the free play it sought to avoid, and 'language invading the universal problematic' is the watershed moment.
+    - Derrida's refusal to hypothesize an origin more originary than any other is described as unsurprising given the paradoxicality he perceives in any such positing.
+* <span id="anthropomorphics-006"></span>**Tomasello's finding that only humans engage in 'joint attention'—attending to something jointly with others while each knows the other is doing so—confirms that the paradoxicality and recursivity of human language are already present in the simplest gesture of pointing something out.**
+    - Joint attention is constitutive of human sign use and intimately linked to the paradoxical 'agreement' on meaning that, as Rousseau noted, would already require language to accomplish.
+    - Nothing but our respective gestures toward some center sustains those gestures themselves, yet neither participant could have invented the gesture or imagines it to have been invented.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+
+## Origin and Hypothesis
+
+The chapter presents Eric Gans's originary hypothesis as a revision of Girard's scapegoat theory: instead of a murder, the originary event is a 'gesture of aborted appropriation' around a desired central object that converts rivalrous mimesis into the first sign, simultaneously creating language, community, the sacred, and the human—and the chapter draws out the enduring structural features of deferral, desire, and resentment that follow from this scene.
+
+* <span id="anthropomorphics-007"></span>**Girard's scapegoat hypothesis fails because it gives no account of why a killing would become meaningful and memorable or generate language and moral order; Gans revises the scene so that the crisis is resolved not by murder but by the 'gesture of aborted appropriation,' the first sign.**
+    - Gans assumes the mimetic crisis is organized around some food source; normally consumed in pecking order, on this occasion mimetic rivalry overrides hierarchy as all move toward the central object.
+    - One member hesitates, is seen by others, and is imitated—the gesture indicates renunciation of the desired object and is the first sign; rivalrous imitation is converted into pacifying imitation that de-escalates crisis.
+* <span id="anthropomorphics-008"></span>**The first sign cannot be attributed to any individual's intentionality because each participant is only repeating the others' reference to the central object; yet intention has been introduced into the community in the form of the central object itself, which appears to be the only agency holding the group back.**
+    - The creation of the human is mediated by the creation of the sacred center as the creator of the human; the sign is ostensive and inextricable from the event in which it is issued.
+    - The sparagmos follows, releasing tension through communal consumption, with the sign functioning as a reminder of collective limits; afterward the sign is reissued pointing to remainders, marking the first ritual.
+* <span id="anthropomorphics-009"></span>**The paradoxes of deferral on the originary scene are enduring features of the human: desire is intensified by mimetic relations, objects are therefore forbidden, yet desire can be granted insofar as satisfaction is mediated through cultural sign systems that allot desirable objects as gifts from the center.**
+    - The alienation of our desires must be represented to us; we must receive desired objects as gifts from the center—transgressors who evade this structure explain our resentment toward them.
+    - Transgressors must tell themselves their exceptional relation to the center authorizes a form of appropriation forbidden to others; our most immediate desires throw us into a net of social obligations.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-dancing-wave.png" alt="" role="presentation" loading="lazy"></div>
+
+## A Grammar of the Social
+
+This chapter traces Gans's derivation of the successive speech forms—ostensive, imperative, interrogative, declarative—out of the originary sign, arguing that each new form emerges not from deliberate intention but from 'mistaken' marginal usage subsequently retrieved by the community to maintain 'linguistic presence,' and that this grammar of speech forms constitutes the most minimal and generative vocabulary for social theory.
+
+* <span id="anthropomorphics-010"></span>**The imperative emerges from an 'inappropriate ostensive'—someone issues a sign in the absence of its referent, and another member retrieves or redeems the sign by supplying the missing object—demonstrating that new linguistic forms arise from marginal mistakes, not from the deliberate will of more powerful members.**
+    - Any motivation we might attribute to early language users presupposes the more advanced form we are trying to explain; the originary hypothesis avoids this by constructing an attentional space in which attention becomes intention without anyone intending it.
+    - 'Linguistic presence' is the key concept: participants in a sign community desire above all the maintenance of mediation by signs, so a rupture opened by a mistaken sign must be recuperated—either by marking the guilty party or by granting new meaning to the mistaken sign.
+* <span id="anthropomorphics-011"></span>**The declarative emerges from a failed imperative—an imperative that cannot be fulfilled—requiring one interlocutor to 'inform' the other of the absence of the demanded object, which can only be accomplished by combining the name of the demanded object (the 'subject') with an operator of negation (the proto-'predicate'), producing the first declarative sentence as a command from the central object or sacred Being.**
+    - The operator of negation is a form of open-ended prohibition (like 'don't smoke' or 'thou shalt not murder') which can never be completely fulfilled—a proto-declarative abstracted from strict temporal presence.
+    - The first 'information' was not a statement of fact but a command by an Other establishing a 'reality' immune to the desires of both interlocutors; every declarative sentence makes sense only in terms of the question it answers.
+* <span id="anthropomorphics-012"></span>**The threshold of significance is continually lowered as new objects and acts come to be named, with each new sign use constituting a 'secularization' of the originary ritual constraint that must be recuperated within the evolving language system.**
+    - The ostensive sign extends beyond its ritual constraints because the need to defer violence occurs in varied settings; the community recognizes belonging to the same salvationist project when a re-issuance of the original sign recuperates unwarranted usage.
+    - Ostensive and imperative form a pair: supplying an object to fulfill an imperative is recognized with a confirming ostensive, as in the operating room example where the surgeon's 'scalpel' command is confirmed by the nurse's 'scalpel' reply.
+* <span id="anthropomorphics-013"></span>**The vocabulary of intentionality—words like 'want,' 'wish,' 'try,' 'choose,' 'decide'—originates as declarative overlay on the imperative structure of ritual, filling gaps between obedience to the imperatives of the center and the center's reciprocal honoring of requests; humans anthropomorphized the center before they could anthropomorphize anything else.**
+    - Activities between members of the community are modeled on and arranged by activities at the center, which are far richer in dramatic content and motivation than anything going on at the margin.
+    - The human is modeled on the non-human center—this is why the human science presented here is called 'anthropomorphics': humans anthropomorphized themselves before they could carry out this operation on anything else.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Center and the Declarative
+
+The chapter uses Andrew Bartlett's originary analysis of science to illustrate the methodological principle that the center—not any individual agent—must be credited with decisions on the originary scene, and argues that speaking in terms of imperatives from the center yields more coherent accounts of social activity than attributing horizontal, internally representing subjects; it then deploys this principle to show how imperative culture gives rise to myth and declarative culture.
+
+* <span id="anthropomorphics-014"></span>**Originary thinking requires that no semiotic resources producible only by a new cultural form be used in hypothesizing its creation; attributing 'wishes' and 'risk assessments' to participants on the hypothetical originary scene imports unavailable intentional language and must be replaced by attributing decisions to the center.**
+    - "Bartlett's account of 'originary science' traces knowledge to substituting a new object for the originary ritual one; the community must judge whether the new object is analogous enough—but who decides? The center decides." —Andrew Bartlett
+    - Each member of the community only sees the other members through the center, as suspended by the center; the collective signifying capacities are only real in their aggregated form and cannot be disaggregated and redistributed to individuals.
+* <span id="anthropomorphics-015"></span>**It is the center that has primary agency; human agency is modeled on the agency of the center, with the center issuing signs to those on the margin who in turn convey those signs back to the center through collaborations that produce signs issued back to it.**
+    - The substitution of successive objects for the originary one transforms the ritual scene from ostensive (deity immediately present) to imperative (ritual aims at making the deity appear).
+    - The declarative is born in the failure of the imperative: the community oscillates between successful and unsuccessful ritual performances, the center between honoring and refusing the requests of the community, and myth arises as declarative overlay on imperative structure.
+* <span id="anthropomorphics-016"></span>**Social thought has an obligation to maintain linguistic presence through a minimal vocabulary that generates new concepts; the originary speech forms—ostensive, imperative, interrogative, declarative—constitute that minimal vocabulary, controlling all other terms within anthropomorphics.**
+    - Gans uses speech forms to designate cultural forms and to mark decisive shifts in high culture—most notably defining metaphysics as assuming the declarative sentence is the primary speech act, and identifying Hebrew monotheism as the 'discovery' of the God whose name is a declarative sentence.
+    - Peirce's triad of icon, index, and symbol maps roughly onto ostensive, imperative, and declarative—all we do is try to follow what the center is telling us to do; we are of the center, which speaks through us.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_grapes-cluster.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Centrality of the Center
+
+This chapter defines the center as both cause and product of the sign and traces the emergence of permanent social hierarchies—from fractal hierarchy through the Big Man to sacral and divine kingship—arguing that power originates not in violence but in the continuation of deferral, and that money, markets, justice systems, secular thought, and technology all emerge as delegations from central authority when the sacral order is breached.
+
+* <span id="anthropomorphics-017"></span>**The center is whatever can invoke and be referenced by an ostensive sign; it is both cause and product of the sign, a locus of imperative exchange from which all expectations of how the world 'should' treat us in exchange for our contributions are generated.**
+    - Under the concept of 'imperative exchange' we can include all of our expectations about how the world and others 'should' treat us in exchange for what we imagine ourselves to have contributed.
+    - We must start within a fully developed declarative culture in order to reconstruct the emergence of that culture out of its prerequisites, assuming a fully developed and anthropomorphized vocabulary.
+* <span id="anthropomorphics-018"></span>**Cultural innovation always starts on the mistaken margin; the first signer on the originary scene must have been someone neither too central (alpha) nor too marginal, and differences in proximity to the center proliferate even in the most egalitarian communities because egalitarianism is 'fractal hierarchy.'**
+    - Someone who has set the field once will be more likely to be given opportunity to do so again; all the more, someone who has done so many times—this is the origin of power, not in force over others but in the continuation of deferral.
+    - The origin of power lies with the willingness to take more risks, accept more suffering, and stand both inside and outside of the scene so as to modulate the desires and resentments of others who need to be brought in.
+* <span id="anthropomorphics-019"></span>**The Big Man occupies the ritual center through accumulation and distribution in a gift economy, sacralizing himself and becoming the source of social distribution; this apotheosizes into sacral kingship, where king and ritual center are unified, and then divine kingship, where conquest and control of vast territories make it possible to treat populations as means.**
+    - A pure form of sacral kingship entails electing an individual whose deferral capacities prove sacral favor, then killing him when those agencies give signs of withholding favor; the unity of paradoxical signifying center and central figure first evident on the originary scene remains intact.
+    - With the breach of sacral kingship comes money (provided by kings to provision soldiers abroad, per Graeber) and markets (Richard Seaford traces Athenian money to purchasing sacrificial animals), along with justice systems, secular thought, and technology.
+* <span id="anthropomorphics-020"></span>**The 'tyrant' as political concept arises from the breach in the inclusive ritual order produced by populations extrinsic to that order, and tyranny is an unsolvable problem without a social order grounded in imperatives from an originary center—the founding problem political thought has yet to solve.**
+    - To be outside the ritual order is to have no social existence: first, to be merely a means (productive or political); second, to be defined solely in opposition to the ritual order and to other groups outside it.
+    - Technology emerges when it becomes possible to see other human beings as implements; divine kings commanding hundreds of thousands in slave war and labor armies first got a view of all those individuals as 'parts' of a whole.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Generativity of the Center
+
+This chapter traces the development from animal ancestor worship through the Big Man to sacral and divine kingship, arguing that once a human has occupied the center the possibility opens for any language user to become a center (omnicentrism), and then examines how each individual operates as a self-representing center managing convergent and shared attention, before turning to the political consequences of the breach in sacral order: the emergence of markets, money, justice, secular thought, and technology as delegations from central authority.
+
+* <span id="anthropomorphics-021"></span>**The earliest communities are ruled by mythical occupants of the center—transfigured animals, ancestor spirits—in asymmetric and arbitrary hierarchies far more dramatic than the actual human margin, because the center has generated the community and is therefore worshipped as progenitor, guardian, and nemesis.**
+    - The apotheosis of this development is sacral kingship, in which the king as mediator between community and cosmos serves as both power center and ritual center; failures of the community are failures to match otherworldly configurations, for which the king bears complete responsibility.
+    - In a pure form of sacral kingship the king is elected by deferral capacities that prove sacral favor and killed when those agencies give signs of withholding it; there is no need to assume cynicism because no alternative vocabulary for rational assessment exists until the center is 'unfigured.'
+* <span id="anthropomorphics-022"></span>**To be a center means that convergent attention can be made to appear caused by representations coming from that center; this can be a source of rivalry and potential hostility, or of deferral through management of rivalries—how one operates as a self depends on how one exercises self-representation as a center.**
+    - One becomes less 'functional' as an individual when the center is not holding—either from failure to attract sufficient convergent attention or from excess of it, which can be addictive and overwhelm efforts to become a site of deferral.
+    - Gans's concept of 'omnicentrism'—each sign user as a center in himself—is accurate descriptively but must be supplemented by the recognition that every center is a satellite of some governing center.
+* <span id="anthropomorphics-023"></span>**Markets are created by states to provision armies abroad; money is supplied to make those markets functional; debt is used to dispossess farmers; all of these are delegations from and extensions of central authority—not spontaneous products of an evolving division of labor.**
+    - Richard Seaford shows that in Ancient Greece money was provided by the king to purchase animals for cultic sacrifices; money is the power to command the labor of others, a form of delegated power.
+    - With money, markets, and plural power centers comes the need for justice systems (adjudicating disputes between relatively equal power centers), secular thought (naming figures outside the ritual order as 'Nature'), and technology (humans levied en masse as slaves or soldiers become thinkable as 'parts').
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Life_person-arms-up.png" alt="" role="presentation" loading="lazy"></div>
+
+## Metalanguage and Metapolitics
+
+The chapter argues that desacralization of the ancient imperial order produced two major trajectories—Greek metaphysics (which hypostatizes the declarative sentence via the metalanguage of literacy) and Hebrew/Christian scripture (which treats the declarative as inquiry into the ostensive-imperative world and the victim of imperial violence)—and traces how both, through writing and literacy, generate the human sciences and their endless cycles of demythification, which inevitably install new tyrannies in place of old ones.
+
+* <span id="anthropomorphics-024"></span>**Metaphysics and scripture both prioritize the declarative sentence but in different ways: metaphysics, made possible by scribal literacy, treats the declarative proposition as primary in direct opposition to the ritual ostensive and its imperatives; Hebraic monotheism discovers a God whose name is a declarative sentence and who therefore cannot be invoked imperatively.**
+    - Olson shows that writing constitutes language as an object of inquiry: the determination of how to use marks to represent spoken words constructs 'phonemes,' 'words,' and 'sentences' as theoretical objects, making possible the Socratic question of what a word 'really means.'
+    - Metaphysics merely treats the metalanguage of literacy as referring to an actual, if ideal, order; the consequence is the 'internal scene of representation' where one constitutes oneself as a center of one's own attention, alone with a world of ideas made up of that metalanguage.
+* <span id="anthropomorphics-025"></span>**The philosopher class achieves a form of 'super-sovereignty'—imperium in imperio—by claiming command of the concepts ('nature,' 'justice') that make rule legitimate and non-tyrannical, and this power relies on the spread of writing, itself a product of divine kingship and markets.**
+    - Writing originates in the recording of transactions and eventually becomes a means of recording and reconstructing language so as to make it visible to central authority.
+    - The metalanguage of literacy supplements what cannot be directly represented in writing from the speech scene—tone, inflection, gesture, posture—creating words like 'stated,' 'suggested,' 'assumed,' 'implied,' from which, through nominalization, vast disciplinary orders emerge.
+* <span id="anthropomorphics-026"></span>**Hebrew and Christian scripture construct a new kind of victim-centered narrative that is intrinsically anti-imperial: by positing God's empire as including and transcending all world empires, scripture makes each Israelite directly subordinate to God in a covenantal structure modeled on vassal-imperial treaties, bypassing all other imperial allegiance.**
+    - Joshua Berman shows that the law in the Pentateuch is egalitarian in that it subordinates each Israelite directly to God, modeled on covenants between vassal and imperial states.
+    - The subsequent narrative of Hebrew scripture represents failure to sustain this covenantal structure, leaving scripture in a position consistent with the working out of metaphysics: God's empire is reduced to the compass of an internal scene of representation in the form of 'conscience,' a super-sovereignty against the central authority.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-magnifying.png" alt="" role="presentation" loading="lazy"></div>
+
+## Post-Sacrificial Centrality
+
+Once the Girardian exposure of scapegoating is embodied in the figure of Jesus, the interdiction of violent centralization creates the possibility for each person to become an inviolate center, but modern liberal democracy fails to replace the sacred aura of kingship with anything coherent—instead recycling sacrifice as 'violent centralizing' laundered through institutions that, in purporting to balance powers, actually unleash them against each other.
+
+* <span id="anthropomorphics-027"></span>**The figure who insistently points out that God can't possibly want all the sacrifices offered to him—prophets of Hebrew scripture and above all Jesus—becomes the center of convergent violent attention, and his scapegoating deifies him by exposing the baselessness of sacrificial practices that serve only to avoid terror of mimetic crisis.**
+    - The injunction to treat each other as one who is not to be sacrificed accuses the community of doing precisely that; the sacrifice of the messenger confirms that denunciation and deifies the persecuted one.
+    - Gans's account of the transition from the Mosaic to the Christian revelation develops the Girardian critique of scapegoating: once God is inaccessible through ritualized imperative exchange, we can only obey God in our treatment of fellow humans.
+* <span id="anthropomorphics-028"></span>**Modern liberal forms of legitimation—freedom, equality, the people, individual rights, the nation—have no substance: they mark a presumably inviolable center to be protected from tyranny, while being nothing more than signs of resentment toward previous forms of sacralized empire now marked as tyranny.**
+    - If you ask someone what 'equality' means you will be told that it means someone can't take something from you—the concept itself has no substance beyond marking a center to be protected.
+    - Demands for more democracy or equality are demands that the state act on your behalf against some of your enemies, thereby empowering the state and whichever agencies are best able to access and leverage it.
+* <span id="anthropomorphics-029"></span>**Modern liberalism and democracy do not continue the repudiation of sacrifice enacted in metaphysics and scripture but revive it: violent centralizing is 'laundered' through institutions that, in purporting to balance powers, actually unleash them against each other, with the means of self-centering distributed to all as apps for leveraging liberalizing raids.**
+    - 'Equality' can only mean 'the same in relation to central power,' and for central power to treat everyone the same it must acquire ever more power over all of them.
+    - There will never be an end to finding new forms of tyranny exercised over one's inexpressible centrality; the very inner self can be the internalization of such tyrannies through 'colonization' of the mind.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-magnifying.png" alt="" role="presentation" loading="lazy"></div>
+
+## Signifying Center, Occupied Center
+
+The central problem of history after the fall of sacral kingship is maintaining consistency between the signifying center (whatever has inscribed itself in the practices of the community) and the occupied center (whoever holds political authority), a problem that the disciplinary orders of late antiquity attempted to address through withdrawal from power, and that modern disciplines continue to address through super-sovereignties, while the actual solution requires making discourse and practice 'directly, explicitly and completely social' as representatives of the center.
+
+* <span id="anthropomorphics-030"></span>**The signifying center is whatever endures beyond the distribution and consumption of the originary object and has inscribed itself in the practices of the community; consistency between signifying and occupied center depends on contributions from the margins converting the gap between command given and command obeyed into continuity.**
+    - Sameness throughout a command can be ensured through detailed implementation leaving no room for deviation, but also leaving no margin for contingency; or through minimization of accompanying instructions, in which case the center signifies through the donation of the subject's signifying capacities borrowed from the center.
+    - The disciplinary orders of the Axial Age—communities around saints, wise men, dialogues, sacred texts—retrieved practices of deferral and neutralized decadent sacrificial practices but could only do so through withdrawal from questions of power.
+* <span id="anthropomorphics-031"></span>**Power comes from the center and the center comes from deferral; exercising power involves exhibiting deferral when others give in to mimetic contagion, which makes the agent a center of attention and creates an implicit promise whose fulfillment will reveal whether his deferral can be sustained.**
+    - Leadership reduces to maintenance of 'centered ordinality': everyone knowing their place in the order at a given point in the process, with no gap between actual and nominal order—this is what power is.
+    - Discrepancies between signifying and occupied center generate struggles over occupancy that then inform and divide the disciplines; modern liberal thought is allergic to discussions of power because power is seen as either legitimate (according to some super-sovereign concept) or tyrannical.
+* <span id="anthropomorphics-032"></span>**Anna Wierzbicka's Natural Semantic Primes—words with exact equivalents in every language that cannot be paraphrased without ultimately returning to themselves—confirm the Sapir-Whorf hypothesis by enabling precise demonstration of how languages construct reality differently, and provide a more radical critique of ethnocentrism than standard positionality analyses.**
+    - Wierzbicka shows that apparently universal English words like 'sense,' 'evidence,' and 'experience' have no equivalents in other languages and trace almost entirely to the philosophical works of John Locke—when speaking English one is effectively speaking the provincial dialect of Lockean.
+    - Wierzbicka's analytics remove the end of the chain: no properly intersectional liberatory position remains at the end of deconstruction; languages are sources of discovery in their own right, not noise interfering with clear communication.
+* <span id="anthropomorphics-033"></span>**The metaphysical declarative usurps the ostensive-imperative world by generating unacknowledged commands to those responsible for commanding, while the scriptural declarative does not invade that world but instead issues imperatives through narratives of the victim of centralizing violence; however, scripture must eventually rely on the metaphysical declarative world to establish rules, which causes the latter to consistently override the former.**
+    - To say 'that order would violate the protocols of this institution, which have been established in accordance with domestic law passed pursuant to a particular international treaty' is to say 'you cannot issue this command' without being able to provide an alternative command that would meet the needs of the situation.
+    - The problem for the scriptural declarative is that its anti-imperial origins provide no means of distinguishing proper from improper imperatives except by reference to whether power centers defend the authorizing narrative, and establishing such rules requires propositional (metaphysical) declarative means.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Earth_satellite-in-space.png" alt="" role="presentation" loading="lazy"></div>
+
+## Talk of the Center
+
+In the post-sacrificial order each individual as non-sacrificable center faces an incommensurable relation to the signifying center (only absolute devotion can suffice), while rulers remain bound to disciplines and super-sovereignties that have descended from metaphysics and scripture; the chapter argues that the only way out of endless cycles of demythification is to constitute utterances on a scene with a center, treating all disciplinary spaces as idioms within a larger language rather than transparent metalanguages, and using Wierzbicka's primes as a model of transdisciplinary infralanguage.
+
+* <span id="anthropomorphics-034"></span>**After sacrifice ends, 'interrogative imperativity' replaces imperative exchange: each individual as non-sacrificable center takes himself to be asked who he is by giving himself over completely to the center, making the relation incommensurable—nothing could equate to what each has been given, so only absolute devotion suffices.**
+    - The ruler must be ruled by God's law, then by Reason, then as servant of the people—all concepts controlled by disciplines, upon whom the king is as dependent as previously upon priestly classes; today, government must be ruled by political science, international law, or economics.
+    - The discrepancy between signifying and occupied center generates struggles over occupancy that inform and divide the disciplines, which have descended from metaphysics and scripture and continue the same project of eliminating that discrepancy.
+* <span id="anthropomorphics-035"></span>**All public discourse in modern democracies can be reduced to each side purporting to demythify the other; the process of demythification always replaces one myth with another because it is grounded in opposition to the existing order rather than in any positive foundation of its own.**
+    - Each victory over myth and tyranny installs a new tyrant supported by a new mythology; the weapons don't change much—what could be said attacking monarch and church in the name of the people can be said attacking the bourgeoisie, the white, the male, or the straight.
+    - Even the soberest data-driven study in a moderate political science department of changes in 'public opinion' is nothing more than an attempt to demythify one belief about 'the people' and replace it with the new myth of 'public opinion.'
+* <span id="anthropomorphics-036"></span>**Wierzbicka's Natural Semantic Primes function as an 'infralanguage' (in Latour's sense) that dismantles assumptions of transparency in any language more radically than positionality analyses, pointing back to the constitutive center rather than some self-sustaining human margin.**
+    - The effect of a Wierzbickean analysis is to give you the word itself as an articulation of practices within a specific tradition with its history of uses, without providing a way to step outside that word into some demystified reality.
+    - Languages as disciplinary spaces organize reality by bringing certain things to attention and occluding others; the disciplines are idioms within a larger language rather than transparent metalanguages delivering secular, demythified reality.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_grapes-cluster.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Center and Imperative Authority
+
+The proper inquiry of the human sciences is the difference between imperatives issued by central authority and those obeyed by lower authorities, because imperatives are performatives that can never fully specify conditions of implementation; filling the 'imperative gap' is the site of moral and intellectual responsibility, and the inquiry into that gap, conducted without invoking super-sovereignties, constitutes a genuinely social and non-alienating form of political and moral thought.
+
+* <span id="anthropomorphics-037"></span>**The central civilizational problem of the Western world is ensuring that imperatives from the highest power center are the same as those issued by the signifying center; no satisfactory way of ensuring this has been proposed or implemented, because any super-sovereign representative (Church, parliament, constitution, judiciary) recreates the same problem over again.**
+    - Liberalism is the political theory justifying the state of affairs in which no one ever knows who decides anything; seeking control of the Church or judiciary or legal theory to counter the king requires in turn controlling universities, seminaries, and law schools.
+    - The civilizational project for the disciplines is what they have really been pursuing all along: inquiring into the meaning of imperatives issued by central authority as they are transmuted along chains of command.
+* <span id="anthropomorphics-038"></span>**The minimal assumption about any central authority is that its imperatives both precede and supersede all others; to disobey in the name of a super-sovereign concept ('human rights,' or whatever) is irresponsible and immoral because it denies the direct sociality of discourse by invoking an internal scene of representation upon which the 'merits' of differing legitimacies can be assessed.**
+    - Homing in on the difference between imperative issued and imperative obeyed brings questions of morality and responsibility into focus far more effectively than invoking external concepts of justice.
+    - Even a very good government is likely to pose dilemmas between equally authoritative imperatives coming from the center; a good government would confer more responsibilities on its people, supervise less closely, and issue less specified commands.
+* <span id="anthropomorphics-039"></span>**When an imperative is mistakenly obeyed, convergent attention upon the imperatee can be converted into shared attention to the range of problems raised by the best implementation of the imperative, through holding oneself a certain way, following orders, and invoking the origin of the declarative form to predicate an object in a way that makes it signify deferral from rather than incitement toward violent convergence.**
+    - One can try to deflect convergent attention elsewhere (evacuating oneself as the one receiving the imperative) or convert it into shared attention to the range of problems raised by the best implementation—selves are essentially articulations, in some proportion, of these two types of response.
+    - The inquiry initiated by potential convergence involves unfolding the practice in question into its constitutive practices; what makes anthropomorphics distinctive is that the inquiry is explicitly set on the scene of inquiry itself.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
+
+## Declarative Order and the Center
+
+The chapter argues that the primary problem of the human is determining whether 'we' are all issuing the same sign, and that the metalanguage of literacy—which establishes rules for sign use and generates a simulated scene for reader and writer—should be replaced by a transdisciplinary infralanguage in which the identity of the sign must be authenticated on each scene of inquiry, ending metaphysics by retrieving the originary vocation of the declarative: determining the precise distance at which to hold the ostensive-imperative world so as to prioritize imperatives from the center.
+
+* <span id="anthropomorphics-040"></span>**The primary and permanent problem of the human is establishing sameness in the midst of difference—determining whether 'we' are all in fact issuing the same sign—and a disciplinary space is where this attempt is made, with metalanguage being one solution that establishes rules for proper sign use.**
+    - The metalanguage of literacy defines words, establishes rules of grammar and logic to keep the declarative order at sufficient distance from the ostensive-imperative world, and establishes broader disciplinary rules of genre and style aimed at guaranteeing transparency for those fluent in prevailing literate idioms.
+    - In a transdisciplinary infralanguage, the identity of a particular sign could only be affirmed on a particular scene of inquiry, in which participants try different possible articulations of definitional, grammatical, logical, generic and stylistic practices in the text and in the critical practice of inquiry itself.
+* <span id="anthropomorphics-041"></span>**Scriptural declarative orders involve narratives moving from violent convergence to conversion into shared attention directed at the mimetic crisis, effected through the hearing of an absolute imperative—the imperative to devote oneself to the signifying center by interposing oneself between convergent attention and potential sacrifice, or naming the potential sacrifice to render it immune to sacrificial intentions.**
+    - Philip Rieff's concept of 'interdictory authority' creates 'renunciatory disciplines of obedience to god-terms beyond the figure of the charismatic figure'; the absolute imperative is to name the potential sacrifice, surrounding it ostensively to render it immune to sacrificial intentions.
+    - History exhausts itself in the antinomic agencies of contemporary liberalism, where the genuinely stripped-bare human that can be the only source of legitimacy is nothing but sheer opposition to whatever norms make social functioning possible.
+* <span id="anthropomorphics-042"></span>**Listening to the center means developing disciplinary spaces for discerning the most pertinent forms taken by the absolute imperative: when a narrative represents imperative mistakenness, imperatives generated on that scene accelerate violent centralization through paradoxical vicious-circle form, while the absolute imperative says 'see if there are further signs suggesting deceleration' and makes that imperative more precise and expansive.**
+    - Any representation of a scene of violent convergence contains signs suggesting that deceleration is possible; the very existence of such signs rebuts incitement, and the imperative to seek further like signs becomes both more precise and more expansive.
+    - If punitive action needs to be taken it is taken in such a way as to reveal, foreground and enhance deceleratory or inhibitory means of institutional and individual detection—this is how one listens to the center.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+
+## Skewing Toward the Center
+
+The chapter defends Wierzbicka's Natural Semantic Primes as a model for post-metaphysical work, argues that the primes themselves can be understood in originary-grammatical terms as practices at the center iterated on the margin, and uses intra-prime analysis (of words like 'think,' 'know,' 'say') to show how the declarative order must always eventually return to the ostensive-imperative world, since the most complex science must give the scientist something to see and point to.
+
+* <span id="anthropomorphics-043"></span>**Wierzbicka's primes—words whose paraphrase always ultimately requires the prime word itself—are the exemplary model for post-metaphysical work within the declarative order; there is no prime word for 'God' or 'sacred' because gods are always named and names cannot be in the primes, suggesting the primes belong to declarative language, leaving portions of the ostensive-imperative world untouched.**
+    - Knowing how to use the prime words is simply part of being able to speak a language; in originary disciplinary spaces these words can be shown to represent interactions at the center that we iterate on the margin.
+    - Appropriation of Wierzbicka's primes by originary thinking allows all the precision of demanding analytical philosophy combined with all the penetrating analysis of cognitive psychology, without the pointless paradoxes that have been with us since Socrates.
+* <span id="anthropomorphics-044"></span>**Intra-prime analysis—examining when 'think' means one thing versus another, or when 'say' or 'know' can or cannot be used imperatively—helps generate a post-metaphysical human science by liberating the declarative vocation from metaphysical reification without devaluing the declarative sentence.**
+    - One thinks when one doesn't know, and one thinks before one says: these relations between prime words across their various uses in imperatives, interrogatives, and declaratives can be made more precise without constructing philosophical 'pictures' of what thinking 'really is.'
+    - E. M. Forster's question—'how do I know what I think until I see what I say'—suggests simultaneity of thinking and saying, yet even here the saying reveals rather than precedes the thinking; no one tells another he speaks before he thinks as a compliment.
+* <span id="anthropomorphics-045"></span>**The declarative order must eventually come home to the ostensive, and it is mistakenness—the paradoxes, aporias, and anomalies rife in the declarative order that the metalanguage of literacy strives to hide—that opens that order to inquiry into its ostensive and imperative roots; the real paradox is that we name as already possessing certain characteristics something that is only that thing because we have named it.**
+    - Even the most complex physics experiment must give the scientist something to see and point to; science begins with a question (an extended imperative that turned out 'inappropriate') and ends with an ostensive result.
+    - A discovery has been made once participants on a disciplinary scene see something that is simultaneously real and a product of the scene of inquiry that made it available—both Heidegger and Wittgenstein realized that mistakenness opens the declarative order to this inquiry.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Center Without Metalanguage
+
+Proposing to replace the metalanguage of literacy and the human sciences' deposit of faculties and capacities in the subject with the anthropomorphic idiom of imperatives from the center and declaratives working out the performative gap, this chapter argues that naming constitutes the most fundamental social act—all naming is enacted in the name of God—and models an onomastic, satirical, and reciprocal form of social interaction in which all participants present themselves as usurpers to be mutually 'redeemed' into their proper places.
+
+* <span id="anthropomorphics-046"></span>**The anthropomorphic theoretical language fills the aporetic space left by the human sciences' inadequate accounts of who 'shows' us what we see by positing imperatives from the center and declaratives working out the performative gap, rendering the self directly and completely social and historical rather than requiring social and historical forces to be 'added' afterward.**
+    - Any named practice proposes a good way of seeing that thing as a source of deferral rather than incitement; even naming instances that seem like direct incitement defer some other even more imminent violence within that group.
+    - Instead of asking why someone chose or decided to do or say something (locating the prompting somewhere within the subject), the anthropomorphic idiom has someone named or deemed by the center to deploy the name of the center.
+* <span id="anthropomorphics-047"></span>**All discourse is something like speaking in the name of an authoritative entity: we are always borrowing words from sources we take to be authoritative and helping further authorize; we are all far more delegates and representatives than individuals, and formalizing this provides more productive ways of contributing to common endeavors.**
+    - If any two people examined their opinions non-confrontationally, asking where all those opinions came from down to the use of particular words and grammatical tics, they would see very quickly that one way of thinking comes from parents, another from an impressive teacher, another from media sources.
+    - Even the best-read scholars rely on intellectual traditions and institutional reproduction they have been unable to fully 'vet,' right down to vocabulary trailing off into barely recorded or unrecorded history.
+* <span id="anthropomorphics-048"></span>**Originary satire is the discovery procedure initiated by representing each other as usurpers of whatever position we all occupy by virtue of our utterances; what follows is a declarative unmasking ('when you say X you're really doing Y') followed by an ostensive 're-deeming' that converts mutual usurpers into, by reciprocal authorization, proper occupants.**
+    - Asserting that someone's utterance is a usurpation hypothesizes a proper allocation of positions that has been disrupted; the language of 'denunciation' itself reads off what would count as proper allocation.
+    - Not all social spaces need to be pulled up to this degree of tension, but the mode of interaction proposed allows for and demands greater levels of disclosure and honesty than anything allowed under liberalism, which must see the usurpationist utterance as the exception and therefore subject to severe censure.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Aesthetics of the Center
+
+Situating aesthetics in the oscillation of attention on the originary scene between sign and object, this chapter argues that art models the desacralized on the sacred, that all secular art is satire of the disciplines, and that originary satire—the most pedagogical artistic form—provides the means by which secular knowledge can be transformed into standing before the center by treating disciplines as semiotic materials rather than imperative frames demanding obedience to a super-sovereign.
+
+* <span id="anthropomorphics-049"></span>**Aesthetics originates in the oscillation of attention on the originary scene between the sign put forth by another and the central object; the object as presented by the sign—with each oscillation more of the body as total sign encompassed to confirm sameness—is the aesthetic relation, which is situated on the boundary of both knowledge and the sacred.**
+    - Sacrality involves representing the gesture as compelled by the object; aesthetics involves discerning the intentions of the center through the attention of others on the scene.
+    - Knowledge is being able to identify, publicly, the same object at different times or for different participants as the same; aesthetics' oscillation is commanded by the sign to ensure all are putting forth the same sign.
+* <span id="anthropomorphics-050"></span>**Art represents the desacralized on the model of the sacred; as the centrality of the central figure ceases to be a given (Greek tragedy being the year zero when the scene is presented directly), the resentment of the central figure himself must propel him to the center—he must be a usurper accusing others of usurpation, and the boundary between artwork and audience must be represented within the work.**
+    - Greek epic and tragedy address resentment toward the usurped center in an attempt to discover ways that resentment might be made socially productive rather than destructive.
+    - Centrality can only be asserted against some other social center; what can be traced through all aesthetic possibilities is the relation to the secular world, all of whose energies are devoted to discovering how central figures at all levels can be deemed 'non-tyrannical.'
+* <span id="anthropomorphics-051"></span>**All secular art is satire of the disciplines because the disciplines present themselves as prior to the aesthetic while being unable to see the discipline as a scene; satire is the most mimetic artistic form and the most pedagogical, preventing escalation of resentments better than tragic heroes, romantic victims, or lyrical soloists, all of which leave residues of resentment calling for renewed sacrifices.**
+    - Alasdair MacIntyre shows that the descriptive and explanatory concepts of the modern human sciences depend on, are bound up with, and provide instruction to, the institutions and practices that shape the behaviors and subjects those discourses purport to account for.
+    - The secular satire applies the concepts of the discipline to the discipline itself, creating an infra-disciplinary space within the discipline wherein anomalies generated by unauthorized imperatives and ostensives can be enacted and examined.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-conflict.png" alt="" role="presentation" loading="lazy"></div>
+
+## Mediated Centrality
+
+Drawing on Marcel Jousse's 'mimism'—the claim that we are mimers all the way down, with all our practices saturated in bodily imitation—and connecting it to the tradition of orality/literacy studies culminating in Olson, this chapter argues that all media are means of holding, shifting, and directing attention across space and time, and that the internet as all-inclusive archive is transforming cultural activity into curatorial archival work whose pedagogical potential lies in having students chart pathways through archives rather than receiving standard narratives.
+
+* <span id="anthropomorphics-052"></span>**Marcel Jousse's 'mimism' holds that every move we make recalls and deploys ('revivifies') all the muscular and physiological responses deposited in the anthropos from previous mimings; the world and all knowledge of it is mimed not in mental images but in bodily movements, stillnesses, and tensions—even reading, with its controlled immobility, is a form of miming.**
+    - On the originary scene a cumulative reciprocal matching of body parts and movements is part of the gesture of aborted appropriation; any stray sudden move within the process of 'lining up' before the object could easily lead to breakdown.
+    - Jousse believes we have 'algebrized' ourselves away from native miming spontaneity through writing and mathematized social interaction, but he provides ways of seeing equally pervasive miming carried over into these media.
+* <span id="anthropomorphics-053"></span>**All subsequent media progressively distance themselves from, retrieve, and supplement the originary media of the mimetic originary scene; media is whatever makes a scene hold together as a scene and provides a space for the sign to signify, so that everything we call media are means of holding, shifting, and directing attention across space and over time.**
+    - Just as classical prose generates a simulation of a scene upon which the author and reader stand with the topic, all subsequent media aim at an equivalent simulation of lines connecting participants bodily to fellow participants.
+    - A transhistorical scene is generated mediatically through histories of performance, transmission, study, translation—all forms of media generating signs that compose a present upon which a text or performance might be 'the same.'
+* <span id="anthropomorphics-054"></span>**The internet, modeled on the all-inclusive archive, is making the primary form of cultural activity archival and curatorial work; this points toward an alternative pedagogy in which students from the beginning chart pathways through archives, juxtaposing multiple narratives around events and building profiles rather than receiving standard narratives.**
+    - Relations between elements in the archive are determined by algorithms abstracted from searches by users and shaping future searches; what doesn't come up in searches will eventually disappear from the culture even if in principle always retrievable.
+    - This approach would break up ideological commonplaces and cultural monopolies while organizing everyone around the process of inquiry itself; coherence of power would be measured by whether those with more power model practices that subordinates can analyze and replicate.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+
+## Center and Distribution
+
+Against secular theory's assumption that labor, property, money, and markets are the real 'structure' over which culture is 'superstructured,' this chapter argues that all such concepts are results of delegations from central authority and efforts to extend it; markets are created by states, money is delegated power, and the only mode of abstraction consistent with secure central authority is 'skunkworks'—teams empowered to work outside established protocols—which provides a fractal form of centered ordinality.
+
+* <span id="anthropomorphics-055"></span>**Starting with the center reverses secular economics: power is ontologically prior to and causative of markets and all the rest; markets are created by states to provision armies, money is supplied to enable soldiers to participate in those markets, and debt is used to dispossess farmers as states or more powerful landowners encroach.**
+    - Modern capital is the power to abstract individuals, groups, and entire disciplines from the traditions and communities within which they are embedded so as to introduce them into new hierarchies.
+    - Markets represent forms of delegation by central authority—areas of social life not under direct sovereign supervision; money is a means of subordinating market activity to central authority, a form taken by the delegation of power.
+* <span id="anthropomorphics-056"></span>**The nexus of rights and obligations—the imperative exchange—is simply what distribution from the center entails; there can be no concept of rights without corresponding obligations, and the traditionalist who opposes abstraction in the name of full embedment must recognize that the possibility of rejecting abstraction disappeared with the rise of divine kingship millennia ago.**
+    - The introduction of money to empower those more directly dependent upon the ruler indicates insecurity of central authority; the more social interaction is mediated monetarily the more likely the state itself becomes monetized.
+    - The only mode of abstraction consistent with secure central authority is the assignation of teams directly accountable to the central authority with the authority to take whatever measures are necessary to improve functioning—'skunkworks,' a fractal form of centered ordinality.
+* <span id="anthropomorphics-057"></span>**Liberalism generates the illusion that what appears below the threshold of direct supervision determines the form of supervision; the presumably free agents are nevertheless aware of their utter dependence on their 'servants,' producing destructive delusions—no businessman believes he could protect himself against violence without the force of the state, yet liberal theory requires him to believe the state was 'hired' only after peaceful exchange had already been established.**
+    - The Hayekian claim that all knowledge required for production and cooperation is too distributed to be centralized is true but a non-sequitur: a general must provide leeway to subordinates for the same reason, yet remains the general—'markets' will always form along the capillaries of any chain of command.
+    - The paradox of power: the more central the authority, the more authority depends upon the widest distribution of the means to recognize authority; the most unequivocal imperative leaves the largest scope for implementation.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_rain-weather.png" alt="" role="presentation" loading="lazy"></div>
+
+## Centered Technology
+
+Technology is the dominant desacralizing social practice and therefore the most socially central, arising when human beings first become thinkable as implements under divine kingship's mass slave and war armies; the chapter argues that the telos of technology is to make technologically produced human interactions into models for further analysis of practices into sub-practices, and that centered technology subordinates innovation to the criterion of whether it helps sustain the pyramid of command from central authority, with international order requiring a formalized hierarchy of powers rather than a world government.
+
+* <span id="anthropomorphics-058"></span>**Technology becomes possible when human beings can be seen as implements; divine kings commanding hundreds of thousands in slave war and labor armies first got a view of all those individuals as 'parts' of a whole, making it possible to combine, move, and subtract them—this is already a kind of technology.**
+    - The European Middle Ages had steady technical development that never exceeded limits set by existing corporate and authority relations; it was the masses confronted in the New World, then abroad, then in cities from enclosed farmers, that ignited the new technological imagination.
+    - Eventually technology came to alleviate and eliminate human labor, but the human sciences, taking over from theology and philosophy, treat humans in technological terms—even attempts to 'humanize' disciplines like psychology reduce people to sets of interchangeable predictable clichés.
+* <span id="anthropomorphics-059"></span>**Technology is completely bound up with the specific forms that centralization of power takes in the wake of desacralization; it is part of the same furious whirlpool of decentralization (breaking up old power forms) and recentralization (new power forms exploit new technologies to remove mediating power centers and zero in on each individual).**
+    - In the algorithmic present, commands from the center are mediated technologically through our self-centerings as objects of technological manipulation; the choice is to either fit the categories comprehending us and become as defective as those categories, or extract and improve upon the imperative embedded in those categories.
+    - Benjamin Bratton poses whether new forms of power will be needed to 'repurpose' technology properly, or whether restructuring of power can best be conducted indirectly through technological innovation; the author favors the former.
+* <span id="anthropomorphics-060"></span>**The ultimate test for reception of any technological novelty is whether it helps sustain the pyramid of command starting from central authority and contributes to continuity of that authority from ruler to ruler; for this reason the world needs not world government but a formalized hierarchy of powers with government-to-government communications and no support for subversive movements within other countries.**
+    - Capital and technology come to represent independent forms of power because they are levied by the occupant of central authority against other potential contenders and thereby become independent sources of power; this must be addressed on a geopolitical scale.
+    - The more unhindered and explicit the exercise of power, the less intrusive it needs to be; only under conditions of a single world hegemon could flows of capital be brought under political control and reduced to the relation between central authority and the world of disciplines.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-distance.png" alt="" role="presentation" loading="lazy"></div>
+
+## Turnings to the Center
+
+Arguing that alienation is properly understood as alienation from a proper relation to the center—and that 'meaninglessness' is a literal lack of access to determinate meaning—the chapter proposes that anthropomorphic inquiry restores meaning by returning to words as they are returned to us through the disciplines, and models the strategy of entering anomalous linguistic fields (like 'racism,' 'sexism,' 'transphobia') from within to supply meaning where it is lacking rather than resisting from without.
+
+* <span id="anthropomorphics-061"></span>**Alienation is better described as alienation from a proper relation to the center; secular vocabulary can only define agents in opposition to each other, and 'meaninglessness' is a literal phenomenon—a lack of access to the center takes the form of words not having any determinate meaning.**
+    - Rather than delving into the empty soul of the TV watcher, one can ask what the word 'watch' means and whether this meaning can be redeemed when applied to viewing TV; the problem is in our language, not our souls, and it is easier to tend to language.
+    - David Olson shows that literacy introduces the distinction between 'speaker's meaning' and 'sentence meaning,' so words are at the mercy of all the ways they can be repeated in different contexts; the solution is to keep returning to words as they are returned to us, supplying more explicit ostensive-imperative articulations.
+* <span id="anthropomorphics-062"></span>**In the human sciences, disciplinary transformation proceeds through 'key words' becoming anomalous and taking on new meanings; rather than resisting new linguistic fields from without or simply turning their terms against original users, it is more powerful to enter them and supply meaning where they are lacking.**
+    - Thomas Kuhn's model of scientific revolution—anomalous facts accumulated until a new theory institutes a revolution—needs replacement in the human sciences by a model of disciplinary transformation through the anomalization of key words; Wierzbicka's work on the changing meaning of 'reasonable doubt' is exemplary.
+    - Key terms of contemporary liberalism like 'racism,' 'sexism,' 'homophobia,' and 'transphobia' will best be reworked from within rather than resisted from without: any decentering can be treated as a search for the center, and lingering over the term to make explicit the full range of phenomena it brings into view will de-toxify it while using it to notice new things.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Earth_castle-fortress.png" alt="" role="presentation" loading="lazy"></div>
+
+## The End of Secular Thinking
+
+Secular thought reduces to a world of universal usurpers motivated by resentment, making originary/mimetic theory the 'end of secular thought' that brings us to this condition; moving beyond it requires exhausting secular thought's paradoxes, above all the paradox of the declarative sentence, and replacing 'tensed' historical narratives with a present-tense orientation that makes all past events fields radiating into the present, in which competing imperatives can be made consistent rather than incompatible.
+
+* <span id="anthropomorphics-063"></span>**Secular thought, reduced to its essence, is a world of universal usurpers motivated by resentment toward false centers that allow others to occupy one's rightful position; originary/mimetic theory is the end of secular thought because it makes this universal condition visible, potentially enabling usurpers to see why others see them as usurpers.**
+    - Secular thinkers have thought in terms of rulers and justifications for rule, social groups in conflict, individuals and their rights, competing interests—if we say that all that can motivate these agents is resentment, this reduces to a world of usurpers.
+    - The next step is to move beyond secular thought by exhausting its paradoxes; secular thought depends upon the liberation of the declarative order from the ostensive-imperative world.
+* <span id="anthropomorphics-064"></span>**The declarative sentence generates rather than removes itself from the ostensive-imperative world by projecting possible ostensive presents to which participants are ready to attest; the present tense is the only real tense, with other tenses as models of other present tenses representable within the linguistic present of the utterance.**
+    - If we spoke only in the present tense, rather than saying 'the Declaration of Independence was signed in 1776,' we would have to refer to a field of presently existing documentation recording the signing; the past event would be nominalized while mentioning it today would be formalized as mediated by presently available references.
+    - Saying something happened yesterday is 'mythical' because it's still happening today; to close an event in its own present is to make it a site of imperative exchange—sacrificial—since whoever paid for that event is whom we owe.
+* <span id="anthropomorphics-065"></span>**Pedagogy is the most fundamental human relation: firstness on the originary scene is a pedagogical relation, and all of what we are doing all the time is pedagogical—making tacit gestures explicit, modeling the inappropriate act from within the present scene so as to convert blind mimetic modeling into explicit reciprocal modeling.**
+    - A pedagogical relation is effective insofar as it is embedded in some centered ordinality; a declarative order alienated from the ostensive-imperative world disallows sustained embedment within centered ordinality because it has you learn from those justifying the practice rather than those performing it.
+    - The other has stolen from you, gone behind your back, taken your place; it may turn out that stealing and dispossession is not exactly or not only what happened—there will be contributions to securing institutions of trust, verification, interdependence and ordering that you will be able to make.
+* <span id="anthropomorphics-066"></span>**An onomastic pedagogy commemorates and honors sites and figures marking the arresting of violent centralization; demanding that competing demands be converted into shared commands studied together while each begins obeying, modeling a form of obedience, is the mechanism by which the declarative order is disalienated.**
+    - The central authority presumed at the highest point of the chain of command might be fully secure or in total disarray; you assume it will be enabled by the forms of centered ordinality constitutive of coherent power, and constructing those forms implies a default to some proximal power center whose imperatives you treat as wholly consistent.
+    - What is needed for restoration of unanimity in practice toward the originating center is not declarative doctrines or articles of faith, but the insistence that all imperatives come from that originating center, and that everyone's contribution to filling the imperative gap can reveal that to be the case.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
+
+## Maintaining the Present of the Center
+
+Addressing the hardest political problem—how to replace the occupant of the center when the time comes—the chapter proposes that the current occupant choose his own successor, outlines an educational and institutional architecture for generating and selecting candidates, and argues that liberal democracy's endless delegitimization of electoral results makes explicit the paradoxes of succession that reveal power to be organized incoherently, while 'inverted messianism'—waiting and preparing for the day when a ruler names his own successor—provides a coherent political practice for the interim.
+
+* <span id="anthropomorphics-067"></span>**The solution to the problem of replacing the occupant of the center is that the current occupant chooses his successor: this is a foregone conclusion insofar as power is coherent, because if any other body chooses the successor they could also choose the time of succession, making that body the real sovereign and power incoherent.**
+    - Secure power places a premium on continuity in leadership; if having the actual leader serve some metaphysically 'realer' entity is the highest priority, power cannot be secured and all the institutional pathologies of liberal democracy follow.
+    - The best rulers would want some way of narrowing down candidates—perhaps to a dozen—by establishing special academies producing high-level government officials, with the ruler taking intense interest in ensuring the academies inculcate the most important political skills and traditions.
+* <span id="anthropomorphics-068"></span>**To prevent rivalries among top-tier candidates, they must be prohibited from occupying positions of real power or making consequential decisions; they would instead intern with the ruler, serve ceremonially, and cultivate a persona of disdain for flattery—modeling attitudes available for emulation across the social order and raising its moral level.**
+    - If any candidate were found to be using his role to drum up support or create a power base, he would immediately be removed from consideration; since this prohibition would be universally known, word of any attempt would get out quickly.
+    - The selection of a successor would be the most important decision the ruler could make and would be woven into the texture of all his other decisions; what the ruler should be, and all the threads connecting the ruler to all institutions, would be the basic substance of the culture.
+* <span id="anthropomorphics-069"></span>**Liberal democracy's endless delegitimization of electoral results—through gerrymandering, voter eligibility disputes, media corruption, and finally outright refusal to accept results—puts into play the very existence of 'the people' in whose name representative government governs, since 'the people' is an arbitrary construct depending upon histories of power relations that cannot themselves be attributed to any decision of the people.**
+    - The most likely crisis point of liberal democracy is an outright refusal on the part of the loser in an election to accept the results, in which case issues of political responsibility (who can secure power) would displace all evocations of the various contending super-sovereigns.
+    - The ongoing process of calling into question more and more of the formalized features of the electoral process can be transformed into a process of modeling a form of formalization that would make questions of succession, selection and delegation everyday topics of political discourse.
+* <span id="anthropomorphics-070"></span>**'Inverted messianism' is the posture appropriate to the interregnum of secular disorder: waiting and preparing for when the highest authority names his own successor, in the meantime acting in accord with the implicit command to respect institutional blockages while constructing the institutional architecture that would support coherent succession when those blockages are removed.**
+    - In an insecure, incoherent system, imperatives from the center are wildly inconsistent; a hierarchy of imperatives must be constructed—those explicitly issued recently, older established ones, those inherited from previous rulers neither confirmed nor superseded—and the most immediate must be refined in terms of more mediated ones.
+    - All secular demands—calls for more freedom, democracy, rights, equality—are intrinsically disordering; it will always be possible to show how more granularly constructed pedagogical relations, aimed at modeling centered ordinality, would repair the situation more effectively.
+
+
+<div class="chapter-glyph"><img src="/glyphs/Political Science/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
+
+## The Center, Speaking
+
+The concluding chapter argues that directly representing our sociality—as always already mediated by and through the center, in contrast to both the sacred (which cannot explicitly represent the human contribution) and the secular (which must take the human individual as its own origin)—requires new modes of being within interlocking media strategies and the exercise of design; language learning is the ongoing work of soliciting the center, the disciplines become forms of language learning, and the proof of any claim lies not in proof but in the creation of orders that generate further orders.
+
+* <span id="anthropomorphics-071"></span>**Only by starting with a center that is both internal and external to the human—a product of human practice but in its effects irreducible to any human practice—can sociality be represented in more legible terms; representations of sociality are re-presentations of existing, less legible forms, making them more differentiated, more reciprocally embedded, more centered.**
+    - The sacred is an indirect, unaware representation of sociality, since the human contribution to sacrality cannot be explicitly represented; secular thought represents sociality directly but must take the human individual as its own origin, making anti-sociality a condition of intelligibility.
+    - If we take care of language we will be taking care of humans—language always directs our attention to a center, and through that center, the center that conditions that centering.
+* <span id="anthropomorphics-072"></span>**Media and technology are our articulation with and through the center; stripping from discourse all references to 'rights' and 'checks and balances' and replacing them with the notion of 'chartering'—already universal in Western culture since the Middle Ages—reduces questions of social order to clarifying the terms of charters issued at all levels, the only agency capable of doing which is the sovereign.**
+    - Political vocabulary comprised of 'values,' 'ideas,' 'opinions,' 'agreements and disagreements,' and 'principles' is completely inadequate for conditions where the tweak of an algorithm will determine whether 0 or 10,000 people will be exposed to something one says.
+    - Thinking of ourselves as beings of the center—representatives, delegates, emissaries of the center—opens new possibilities; we offer the central authority feedback based upon difficulties in fulfilling imperatives coming from it.
+* <span id="anthropomorphics-073"></span>**The most powerful form of agency within the technological order is that of the designer: with the interdiction of violent centralization (the Christian revelation forbidding targeting the individual for sacrifice), culture must be reorganized to study and pre-empt sacrificial inclinations, and design is the exercise of the power to reframe resentments as means of donation to the center.**
+    - Rather than an internal scene of representation, we have narrated practices of centering that vary widely across circumstances; what happens as the interdiction is installed is the construction of modes of 'normalization' studied by Foucault, now autonomized via the algorithmic imperative.
+    - Jousse's concept of 'transfer translation'—translating sacred texts into a spoken language while carrying over metaphors, rhyme, rhythm—and the midrash that accompanies it to ensure the text remains the same, provides a model for all discourse as work on reconciling mistranslations.
+* <span id="anthropomorphics-074"></span>**The disciplines turn into ongoing language learning; the better discourses are those that know they are engaged in language learning (soliciting the center) and can effect conversions of anomalous linguistic fields into proposals for new deferrals; the proof of any claim lies not in meeting criteria of proof but in the creation of orders that generate other orders and replace lesser orders without unnecessary disturbance—this is what 'grace' means in the retrieval of centered ordinality.**
+    - Instead of trying to prove someone wrong, carry over their words and ask what if you say this here, and here, and here: if wrong, their words will come out different and no longer their own; if right and you wrong, the iteration of their words will yield more uses that are inter-referential with the others.
+    - Such a practice of languaging would never allow anyone to challenge the legitimacy of any government or form of authority—it removes the entire background against which legitimacy can be assessed—but still presupposes that entire structure of authority, as none of the linguistic practices described could be conducted without it.

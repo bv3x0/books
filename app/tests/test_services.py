@@ -22,7 +22,7 @@ if project_root not in sys.path:
 
 from app.cli.ingest_prompter import AutoYesIngestPrompter, NonInteractiveIngestPrompter
 from app.config import get_request_max_output_tokens
-from app.core import epub_processor
+from app.core import epub_processor, glyph_manager
 from app.core.epub_processor import chunk_markdown_by_chapters
 from app.core.manifest import Manifest
 from app.core import monitor as monitor_module
@@ -74,6 +74,36 @@ class FakePrompter(IngestPrompter):
     def confirm_chunking_without_toc(self, review) -> bool:
         self.chunking_reviews.append(review)
         return self.chunking
+
+
+class GlyphManagerTests(unittest.TestCase):
+    def test_seeded_glyph_selection_is_stable_across_scans(self):
+        original_source_dir = glyph_manager.GLYPH_SOURCE_DIR
+        original_folders = glyph_manager._glyph_folders
+
+        try:
+            with tempfile.TemporaryDirectory() as temp_dir:
+                source_dir = Path(temp_dir) / "glyphs"
+                philosophy_dir = source_dir / "Philosophy"
+                philosophy_dir.mkdir(parents=True)
+                (philosophy_dir / "b.png").write_bytes(b"")
+                (philosophy_dir / "a.png").write_bytes(b"")
+
+                glyph_manager.GLYPH_SOURCE_DIR = source_dir
+                glyph_manager._glyph_folders = None
+                first = glyph_manager.get_random_glyph(["philosophy"], seed="chapter-one")
+
+                glyph_manager._glyph_folders = None
+                second = glyph_manager.get_random_glyph(["philosophy"], seed="chapter-one")
+
+                self.assertEqual(first, second)
+                self.assertIn(
+                    first,
+                    {"/glyphs/Philosophy/a.png", "/glyphs/Philosophy/b.png"},
+                )
+        finally:
+            glyph_manager.GLYPH_SOURCE_DIR = original_source_dir
+            glyph_manager._glyph_folders = original_folders
 
 
 class PublishServiceTests(unittest.TestCase):

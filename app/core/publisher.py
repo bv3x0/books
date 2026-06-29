@@ -287,6 +287,9 @@ def insert_chapter_glyphs(content: str, categories: list[str]) -> str:
             continue
         heading_indices.append(i)
 
+    heading_ordinals = {idx: ordinal for ordinal, idx in enumerate(heading_indices)}
+    normalized_categories = sorted(categories)
+
     # Skip headings that have no real content before the next heading
     # (e.g. Part headers that are just section titles)
     def has_content_before(idx: int) -> bool:
@@ -303,7 +306,8 @@ def insert_chapter_glyphs(content: str, categories: list[str]) -> str:
     for idx in reversed(heading_indices):
         if not has_content_before(idx):
             continue
-        glyph_url = get_random_glyph(categories)
+        seed = "\n".join([*normalized_categories, str(heading_ordinals[idx]), lines[idx].strip()])
+        glyph_url = get_random_glyph(categories, seed=seed)
         if glyph_url:
             glyph_html = (
                 '<div class="chapter-glyph">'
