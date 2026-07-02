@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-06-29T01:13:51.257555Z",
+  "updated_at": "2026-07-02T15:56:36.041469Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -4550,6 +4550,7 @@
         "after progress": 2,
         "atomic habits": 1,
         "best loser wins": 3,
+        "market wizards new generation": 2,
         "nick land explains the numogram": 4,
         "philosopher-in-the-valley": 1,
         "the black swan": 1,
@@ -4562,6 +4563,7 @@
         "after progress",
         "atomic habits",
         "best loser wins",
+        "market wizards new generation",
         "nick land explains the numogram",
         "philosopher-in-the-valley",
         "the black swan",
@@ -4570,7 +4572,7 @@
         "the structure of scientific revolutions",
         "ultralearning"
       ],
-      "claim_count": 17
+      "claim_count": 19
     },
     "historical_determinism": {
       "id": "historical_determinism",
@@ -5541,6 +5543,7 @@
         "evil the shadow side of reality": 2,
         "hermetic mystery": 4,
         "in search of the miraculous": 2,
+        "market wizards new generation": 1,
         "memories-dreams-reflections": 1,
         "mystery teachings from the living earth": 2,
         "psychomagic": 1,
@@ -5564,6 +5567,7 @@
         "evil the shadow side of reality",
         "hermetic mystery",
         "in search of the miraculous",
+        "market wizards new generation",
         "memories-dreams-reflections",
         "mystery teachings from the living earth",
         "psychomagic",
@@ -5578,7 +5582,7 @@
         "things hidden since the foundation of the world",
         "thus spake zarathustra"
       ],
-      "claim_count": 40
+      "claim_count": 41
     },
     "dream_consciousness": {
       "id": "dream_consciousness",
@@ -10518,13 +10522,15 @@
       "related": [],
       "book_claims": {
         "best loser wins": 1,
+        "market wizards new generation": 1,
         "the misbehavior of markets": 1
       },
       "books": [
         "best loser wins",
+        "market wizards new generation",
         "the misbehavior of markets"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "market_timing": {
       "id": "market_timing",
@@ -10534,17 +10540,19 @@
       "related": [],
       "book_claims": {
         "best loser wins": 1,
+        "market wizards new generation": 1,
         "philosopher-in-the-valley": 2,
         "the misbehavior of markets": 1,
         "zero to one": 3
       },
       "books": [
         "best loser wins",
+        "market wizards new generation",
         "philosopher-in-the-valley",
         "the misbehavior of markets",
         "zero to one"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "selection_bias": {
       "id": "selection_bias",
@@ -10788,17 +10796,19 @@
       "related": [],
       "book_claims": {
         "best loser wins": 1,
+        "market wizards new generation": 1,
         "orality-and-literacy": 1,
         "the-body-keeps-the-score": 1,
         "why we sleep": 1
       },
       "books": [
         "best loser wins",
+        "market wizards new generation",
         "orality-and-literacy",
         "the-body-keeps-the-score",
         "why we sleep"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "technological_stagnation": {
       "id": "technological_stagnation",
@@ -15850,6 +15860,7 @@
         "antifragile": 1,
         "elon-musk": 3,
         "fooled by randomness": 3,
+        "market wizards new generation": 7,
         "only the paranoid survive": 1,
         "philosopher-in-the-valley": 1,
         "skin in the game": 1,
@@ -15863,6 +15874,7 @@
         "antifragile",
         "elon-musk",
         "fooled by randomness",
+        "market wizards new generation",
         "only the paranoid survive",
         "philosopher-in-the-valley",
         "skin in the game",
@@ -15872,7 +15884,7 @@
         "the mythical man-month",
         "the zurich axioms"
       ],
-      "claim_count": 20
+      "claim_count": 27
     },
     "global_manufacturing": {
       "id": "global_manufacturing",
@@ -18613,16 +18625,18 @@
       "book_claims": {
         "antifragile": 1,
         "fooled by randomness": 3,
+        "market wizards new generation": 1,
         "the misbehavior of markets": 1,
         "the zurich axioms": 2
       },
       "books": [
         "antifragile",
         "fooled by randomness",
+        "market wizards new generation",
         "the misbehavior of markets",
         "the zurich axioms"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "regime_change": {
       "id": "regime_change",
@@ -18632,15 +18646,17 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 5,
+        "market wizards new generation": 1,
         "the age of interconnection": 1,
         "unqualified reservations": 3
       },
       "books": [
         "fooled by randomness",
+        "market wizards new generation",
         "the age of interconnection",
         "unqualified reservations"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "epistemic_humility": {
       "id": "epistemic_humility",
@@ -18808,17 +18824,19 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 1,
+        "market wizards new generation": 2,
         "the ascent of money": 2,
         "the black swan": 1,
         "the zurich axioms": 9
       },
       "books": [
         "fooled by randomness",
+        "market wizards new generation",
         "the ascent of money",
         "the black swan",
         "the zurich axioms"
       ],
-      "claim_count": 13
+      "claim_count": 15
     },
     "epistemological_framework": {
       "id": "epistemological_framework",
@@ -36743,16 +36761,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "market wizards new generation": 1,
         "meetings with remarkable men": 1,
         "michael-levin-major-talks": 1,
         "the black swan": 1
       },
       "books": [
+        "market wizards new generation",
         "meetings with remarkable men",
         "michael-levin-major-talks",
         "the black swan"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "knowledge_extraction": {
       "id": "knowledge_extraction",
@@ -36815,6 +36835,7 @@
       "book_claims": {
         "extreme ownership": 2,
         "kelly more than my share of it all": 2,
+        "market wizards new generation": 2,
         "meetings with remarkable men": 1,
         "occult philosophy in the elizabethan age": 1,
         "skunk works": 2,
@@ -36824,13 +36845,14 @@
       "books": [
         "extreme ownership",
         "kelly more than my share of it all",
+        "market wizards new generation",
         "meetings with remarkable men",
         "occult philosophy in the elizabethan age",
         "skunk works",
         "the hard thing about hard things",
         "the interior castle"
       ],
-      "claim_count": 10
+      "claim_count": 12
     },
     "sacred_lineage": {
       "id": "sacred_lineage",
@@ -49575,14 +49597,16 @@
       "book_claims": {
         "alchemy of air": 1,
         "elon-musk": 3,
+        "market wizards new generation": 2,
         "the hard thing about hard things": 1
       },
       "books": [
         "alchemy of air",
         "elon-musk",
+        "market wizards new generation",
         "the hard thing about hard things"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "talent_acquisition": {
       "id": "talent_acquisition",
@@ -49730,6 +49754,7 @@
         "antifragile": 1,
         "atomic habits": 1,
         "fooled by randomness": 12,
+        "market wizards new generation": 1,
         "the black swan": 3,
         "the zurich axioms": 2,
         "zero to one": 1
@@ -49738,11 +49763,12 @@
         "antifragile",
         "atomic habits",
         "fooled by randomness",
+        "market wizards new generation",
         "the black swan",
         "the zurich axioms",
         "zero to one"
       ],
-      "claim_count": 20
+      "claim_count": 21
     },
     "persuasion": {
       "id": "persuasion",
@@ -50406,13 +50432,15 @@
       "related": [],
       "book_claims": {
         "art of memory": 1,
-        "kelly more than my share of it all": 1
+        "kelly more than my share of it all": 1,
+        "market wizards new generation": 1
       },
       "books": [
         "art of memory",
-        "kelly more than my share of it all"
+        "kelly more than my share of it all",
+        "market wizards new generation"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "sexual_selection": {
       "id": "sexual_selection",
@@ -50556,15 +50584,17 @@
         "atomic habits": 1,
         "best loser wins": 1,
         "extreme ownership": 1,
+        "market wizards new generation": 1,
         "ultralearning": 1
       },
       "books": [
         "atomic habits",
         "best loser wins",
         "extreme ownership",
+        "market wizards new generation",
         "ultralearning"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "deliberate_practice": {
       "id": "deliberate_practice",
@@ -50575,16 +50605,18 @@
       "book_claims": {
         "atomic habits": 3,
         "best loser wins": 1,
+        "market wizards new generation": 1,
         "the art of doing science and engineering": 2,
         "ultralearning": 6
       },
       "books": [
         "atomic habits",
         "best loser wins",
+        "market wizards new generation",
         "the art of doing science and engineering",
         "ultralearning"
       ],
-      "claim_count": 12
+      "claim_count": 13
     },
     "human_machine_collaboration": {
       "id": "human_machine_collaboration",
@@ -51790,13 +51822,15 @@
       "related": [],
       "book_claims": {
         "fooled by randomness": 1,
+        "market wizards new generation": 1,
         "poor charlies almanack": 1
       },
       "books": [
         "fooled by randomness",
+        "market wizards new generation",
         "poor charlies almanack"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "motivated_reasoning": {
       "id": "motivated_reasoning",
@@ -54569,14 +54603,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "market wizards new generation": 1,
         "the mythical man-month": 3,
         "unqualified reservations": 2
       },
       "books": [
+        "market wizards new generation",
         "the mythical man-month",
         "unqualified reservations"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "organizational_principles": {
       "id": "organizational_principles",
@@ -55643,14 +55679,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "market wizards new generation": 1,
         "only the paranoid survive": 1,
         "the art of doing science and engineering": 1
       },
       "books": [
+        "market wizards new generation",
         "only the paranoid survive",
         "the art of doing science and engineering"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "systems_integration": {
       "id": "systems_integration",
@@ -62202,13 +62240,15 @@
       "related": [],
       "book_claims": {
         "atomic habits": 2,
-        "extreme ownership": 1
+        "extreme ownership": 1,
+        "market wizards new generation": 1
       },
       "books": [
         "atomic habits",
-        "extreme ownership"
+        "extreme ownership",
+        "market wizards new generation"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "normalization": {
       "id": "normalization",
@@ -64561,16 +64601,18 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "market wizards new generation": 2,
         "skin in the game": 2,
         "the black swan": 1,
         "the pattern on the stone": 1
       },
       "books": [
+        "market wizards new generation",
         "skin in the game",
         "the black swan",
         "the pattern on the stone"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "coercion": {
       "id": "coercion",
@@ -65339,14 +65381,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
+        "market wizards new generation": 1,
         "the black swan": 1,
         "zero to one": 1
       },
       "books": [
+        "market wizards new generation",
         "the black swan",
         "zero to one"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "kundalini_yoga": {
       "id": "kundalini_yoga",
@@ -65484,15 +65528,17 @@
       "related": [],
       "book_claims": {
         "antifragile": 1,
+        "market wizards new generation": 1,
         "the black swan": 1,
         "the zurich axioms": 2
       },
       "books": [
         "antifragile",
+        "market wizards new generation",
         "the black swan",
         "the zurich axioms"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "antifragility": {
       "id": "antifragility",
@@ -65568,15 +65614,17 @@
       "related": [],
       "book_claims": {
         "antifragile": 2,
+        "market wizards new generation": 1,
         "skin in the game": 2,
         "the black swan": 1
       },
       "books": [
         "antifragile",
+        "market wizards new generation",
         "skin in the game",
         "the black swan"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "epistemic_arrogance": {
       "id": "epistemic_arrogance",
@@ -66727,6 +66775,294 @@
       "books": [
         "anthropomorphics",
         "things hidden since the foundation of the world"
+      ],
+      "claim_count": 2
+    },
+    "technical_analysis": {
+      "id": "technical_analysis",
+      "label": "Technical Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "best loser wins": 2,
+        "market wizards new generation": 2
+      },
+      "books": [
+        "best loser wins",
+        "market wizards new generation"
+      ],
+      "claim_count": 4
+    },
+    "trading_psychology": {
+      "id": "trading_psychology",
+      "label": "Trading Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "best loser wins": 2,
+        "market wizards new generation": 5
+      },
+      "books": [
+        "best loser wins",
+        "market wizards new generation"
+      ],
+      "claim_count": 7
+    },
+    "momentum_trading": {
+      "id": "momentum_trading",
+      "label": "Momentum Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "best loser wins": 1,
+        "market wizards new generation": 4
+      },
+      "books": [
+        "best loser wins",
+        "market wizards new generation"
+      ],
+      "claim_count": 5
+    },
+    "trade_journaling": {
+      "id": "trade_journaling",
+      "label": "Trade Journaling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "best loser wins": 1,
+        "market wizards new generation": 1
+      },
+      "books": [
+        "best loser wins",
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "position_management": {
+      "id": "position_management",
+      "label": "Position Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "best loser wins": 1,
+        "market wizards new generation": 2
+      },
+      "books": [
+        "best loser wins",
+        "market wizards new generation"
+      ],
+      "claim_count": 3
+    },
+    "mean_reversion": {
+      "id": "mean_reversion",
+      "label": "Mean Reversion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "boom": 1,
+        "market wizards new generation": 3
+      },
+      "books": [
+        "boom",
+        "market wizards new generation"
+      ],
+      "claim_count": 4
+    },
+    "short_selling": {
+      "id": "short_selling",
+      "label": "Short Selling",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "elon-musk": 1,
+        "market wizards new generation": 4
+      },
+      "books": [
+        "elon-musk",
+        "market wizards new generation"
+      ],
+      "claim_count": 5
+    },
+    "leverage_risk": {
+      "id": "leverage_risk",
+      "label": "Leverage Risk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "fooled by randomness": 2,
+        "market wizards new generation": 1
+      },
+      "books": [
+        "fooled by randomness",
+        "market wizards new generation"
+      ],
+      "claim_count": 3
+    },
+    "expected_value": {
+      "id": "expected_value",
+      "label": "Expected Value",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "fooled by randomness": 3,
+        "market wizards new generation": 1
+      },
+      "books": [
+        "fooled by randomness",
+        "market wizards new generation"
+      ],
+      "claim_count": 4
+    },
+    "legacy_planning": {
+      "id": "legacy_planning",
+      "label": "Legacy Planning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "henry kaiser": 1,
+        "market wizards new generation": 1
+      },
+      "books": [
+        "henry kaiser",
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "value_investing": {
+      "id": "value_investing",
+      "label": "Value Investing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2,
+        "poor charlies almanack": 3
+      },
+      "books": [
+        "market wizards new generation",
+        "poor charlies almanack"
+      ],
+      "claim_count": 5
+    },
+    "information_asymmetry": {
+      "id": "information_asymmetry",
+      "label": "Information Asymmetry",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1,
+        "skin in the game": 2
+      },
+      "books": [
+        "market wizards new generation",
+        "skin in the game"
+      ],
+      "claim_count": 3
+    },
+    "market_inefficiency": {
+      "id": "market_inefficiency",
+      "label": "Market Inefficiency",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2,
+        "the misbehavior of markets": 1
+      },
+      "books": [
+        "market wizards new generation",
+        "the misbehavior of markets"
+      ],
+      "claim_count": 3
+    },
+    "knowledge_transfer": {
+      "id": "knowledge_transfer",
+      "label": "Knowledge Transfer",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1,
+        "the mythical man-month": 1
+      },
+      "books": [
+        "market wizards new generation",
+        "the mythical man-month"
+      ],
+      "claim_count": 2
+    },
+    "position_sizing": {
+      "id": "position_sizing",
+      "label": "Position Sizing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 6,
+        "the zurich axioms": 2
+      },
+      "books": [
+        "market wizards new generation",
+        "the zurich axioms"
+      ],
+      "claim_count": 8
+    },
+    "portfolio_management": {
+      "id": "portfolio_management",
+      "label": "Portfolio Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1,
+        "the zurich axioms": 2
+      },
+      "books": [
+        "market wizards new generation",
+        "the zurich axioms"
+      ],
+      "claim_count": 3
+    },
+    "loss_cutting": {
+      "id": "loss_cutting",
+      "label": "Loss Cutting",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1,
+        "the zurich axioms": 2
+      },
+      "books": [
+        "market wizards new generation",
+        "the zurich axioms"
+      ],
+      "claim_count": 3
+    },
+    "niche_strategy": {
+      "id": "niche_strategy",
+      "label": "Niche Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1,
+        "zero to one": 1
+      },
+      "books": [
+        "market wizards new generation",
+        "zero to one"
       ],
       "claim_count": 2
     },
@@ -97348,20 +97684,6 @@
       ],
       "claim_count": 1
     },
-    "technical_analysis": {
-      "id": "technical_analysis",
-      "label": "Technical Analysis",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "best loser wins": 2
-      },
-      "books": [
-        "best loser wins"
-      ],
-      "claim_count": 2
-    },
     "market_indicators": {
       "id": "market_indicators",
       "label": "Market Indicators",
@@ -97375,20 +97697,6 @@
         "best loser wins"
       ],
       "claim_count": 1
-    },
-    "trading_psychology": {
-      "id": "trading_psychology",
-      "label": "Trading Psychology",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "best loser wins": 2
-      },
-      "books": [
-        "best loser wins"
-      ],
-      "claim_count": 2
     },
     "internal_focus": {
       "id": "internal_focus",
@@ -98048,20 +98356,6 @@
       ],
       "claim_count": 1
     },
-    "momentum_trading": {
-      "id": "momentum_trading",
-      "label": "Momentum Trading",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "best loser wins": 1
-      },
-      "books": [
-        "best loser wins"
-      ],
-      "claim_count": 1
-    },
     "emotional_inversion": {
       "id": "emotional_inversion",
       "label": "Emotional Inversion",
@@ -98149,20 +98443,6 @@
     "public_vulnerability": {
       "id": "public_vulnerability",
       "label": "Public Vulnerability",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "best loser wins": 1
-      },
-      "books": [
-        "best loser wins"
-      ],
-      "claim_count": 1
-    },
-    "trade_journaling": {
-      "id": "trade_journaling",
-      "label": "Trade Journaling",
       "description": "",
       "aliases": [],
       "related": [],
@@ -98639,20 +98919,6 @@
     "discomfort_expectation": {
       "id": "discomfort_expectation",
       "label": "Discomfort Expectation",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "best loser wins": 1
-      },
-      "books": [
-        "best loser wins"
-      ],
-      "claim_count": 1
-    },
-    "position_management": {
-      "id": "position_management",
-      "label": "Position Management",
       "description": "",
       "aliases": [],
       "related": [],
@@ -99717,20 +99983,6 @@
     "filter_bubbles": {
       "id": "filter_bubbles",
       "label": "Filter Bubbles",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "boom": 1
-      },
-      "books": [
-        "boom"
-      ],
-      "claim_count": 1
-    },
-    "mean_reversion": {
-      "id": "mean_reversion",
-      "label": "Mean Reversion",
       "description": "",
       "aliases": [],
       "related": [],
@@ -127714,20 +127966,6 @@
       ],
       "claim_count": 1
     },
-    "short_selling": {
-      "id": "short_selling",
-      "label": "Short Selling",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "elon-musk": 1
-      },
-      "books": [
-        "elon-musk"
-      ],
-      "claim_count": 1
-    },
     "performance_metrics": {
       "id": "performance_metrics",
       "label": "Performance Metrics",
@@ -146950,20 +147188,6 @@
       ],
       "claim_count": 1
     },
-    "leverage_risk": {
-      "id": "leverage_risk",
-      "label": "Leverage Risk",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "fooled by randomness": 2
-      },
-      "books": [
-        "fooled by randomness"
-      ],
-      "claim_count": 2
-    },
     "hormonal_feedback": {
       "id": "hormonal_feedback",
       "label": "Hormonal Feedback",
@@ -146977,20 +147201,6 @@
         "fooled by randomness"
       ],
       "claim_count": 1
-    },
-    "expected_value": {
-      "id": "expected_value",
-      "label": "Expected Value",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "fooled by randomness": 3
-      },
-      "books": [
-        "fooled by randomness"
-      ],
-      "claim_count": 3
     },
     "outcome_variance": {
       "id": "outcome_variance",
@@ -157131,20 +157341,6 @@
     "planned_community_development": {
       "id": "planned_community_development",
       "label": "Planned Community Development",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "henry kaiser": 1
-      },
-      "books": [
-        "henry kaiser"
-      ],
-      "claim_count": 1
-    },
-    "legacy_planning": {
-      "id": "legacy_planning",
-      "label": "Legacy Planning",
       "description": "",
       "aliases": [],
       "related": [],
@@ -181863,6 +182059,930 @@
       },
       "books": [
         "man and his symbols"
+      ],
+      "claim_count": 1
+    },
+    "retail_trading": {
+      "id": "retail_trading",
+      "label": "Retail Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "catalyst_driven_trading": {
+      "id": "catalyst_driven_trading",
+      "label": "Catalyst Driven Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "volume_analysis": {
+      "id": "volume_analysis",
+      "label": "Volume Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "small_cap_trading": {
+      "id": "small_cap_trading",
+      "label": "Small Cap Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "overconfidence_bias": {
+      "id": "overconfidence_bias",
+      "label": "Overconfidence Bias",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "drawdown_psychology": {
+      "id": "drawdown_psychology",
+      "label": "Drawdown Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "career_decision_making": {
+      "id": "career_decision_making",
+      "label": "Career Decision Making",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "trade_review": {
+      "id": "trade_review",
+      "label": "Trade Review",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "sentiment_analysis": {
+      "id": "sentiment_analysis",
+      "label": "Sentiment Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "swing_trading": {
+      "id": "swing_trading",
+      "label": "Swing Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "options_strategy": {
+      "id": "options_strategy",
+      "label": "Options Strategy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 3
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 3
+    },
+    "fundamental_analysis": {
+      "id": "fundamental_analysis",
+      "label": "Fundamental Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 3
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 3
+    },
+    "sec_filings": {
+      "id": "sec_filings",
+      "label": "Sec Filings",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "contrarian_trading": {
+      "id": "contrarian_trading",
+      "label": "Contrarian Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "short_squeeze": {
+      "id": "short_squeeze",
+      "label": "Short Squeeze",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "price_action": {
+      "id": "price_action",
+      "label": "Price Action",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "pyramiding": {
+      "id": "pyramiding",
+      "label": "Pyramiding",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "risk_adjusted_returns": {
+      "id": "risk_adjusted_returns",
+      "label": "Risk Adjusted Returns",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "trading_discipline": {
+      "id": "trading_discipline",
+      "label": "Trading Discipline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "automated_risk_management": {
+      "id": "automated_risk_management",
+      "label": "Automated Risk Management",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "quantitative_research": {
+      "id": "quantitative_research",
+      "label": "Quantitative Research",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "market_environment": {
+      "id": "market_environment",
+      "label": "Market Environment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 3
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 3
+    },
+    "bear_market_psychology": {
+      "id": "bear_market_psychology",
+      "label": "Bear Market Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "drawdown_recovery": {
+      "id": "drawdown_recovery",
+      "label": "Drawdown Recovery",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "market_cycle": {
+      "id": "market_cycle",
+      "label": "Market Cycle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "kelly_criterion": {
+      "id": "kelly_criterion",
+      "label": "Kelly Criterion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "trade_selection": {
+      "id": "trade_selection",
+      "label": "Trade Selection",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "performance_attribution": {
+      "id": "performance_attribution",
+      "label": "Performance Attribution",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "hedging": {
+      "id": "hedging",
+      "label": "Hedging",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "performance_goals": {
+      "id": "performance_goals",
+      "label": "Performance Goals",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "institutional_trading": {
+      "id": "institutional_trading",
+      "label": "Institutional Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "spread_trading": {
+      "id": "spread_trading",
+      "label": "Spread Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "commodity_futures": {
+      "id": "commodity_futures",
+      "label": "Commodity Futures",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "arbitrage": {
+      "id": "arbitrage",
+      "label": "Arbitrage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "asymmetric_risk": {
+      "id": "asymmetric_risk",
+      "label": "Asymmetric Risk",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "options_theory": {
+      "id": "options_theory",
+      "label": "Options Theory",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_behavioral_therapy": {
+      "id": "cognitive_behavioral_therapy",
+      "label": "Cognitive Behavioral Therapy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "limiting_beliefs": {
+      "id": "limiting_beliefs",
+      "label": "Limiting Beliefs",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "market_narrative": {
+      "id": "market_narrative",
+      "label": "Market Narrative",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "activist_investing": {
+      "id": "activist_investing",
+      "label": "Activist Investing",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "intraday_trading": {
+      "id": "intraday_trading",
+      "label": "Intraday Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "time_of_day_effects": {
+      "id": "time_of_day_effects",
+      "label": "Time Of Day Effects",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "market_microstructure": {
+      "id": "market_microstructure",
+      "label": "Market Microstructure",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "news_trading": {
+      "id": "news_trading",
+      "label": "News Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "event_driven_trading": {
+      "id": "event_driven_trading",
+      "label": "Event Driven Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 3
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 3
+    },
+    "trader_development": {
+      "id": "trader_development",
+      "label": "Trader Development",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "prop_trading": {
+      "id": "prop_trading",
+      "label": "Prop Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "edge_erosion": {
+      "id": "edge_erosion",
+      "label": "Edge Erosion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "algorithmic_trading": {
+      "id": "algorithmic_trading",
+      "label": "Algorithmic Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "multi_timeframe_analysis": {
+      "id": "multi_timeframe_analysis",
+      "label": "Multi Timeframe Analysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "process_goals": {
+      "id": "process_goals",
+      "label": "Process Goals",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "dynamic_positioning": {
+      "id": "dynamic_positioning",
+      "label": "Dynamic Positioning",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "volatility_trading": {
+      "id": "volatility_trading",
+      "label": "Volatility Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "overtrading": {
+      "id": "overtrading",
+      "label": "Overtrading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "merger_arbitrage": {
+      "id": "merger_arbitrage",
+      "label": "Merger Arbitrage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "regulatory_knowledge": {
+      "id": "regulatory_knowledge",
+      "label": "Regulatory Knowledge",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "time_stops": {
+      "id": "time_stops",
+      "label": "Time Stops",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "edge_decay": {
+      "id": "edge_decay",
+      "label": "Edge Decay",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "fair_value_estimation": {
+      "id": "fair_value_estimation",
+      "label": "Fair Value Estimation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "efficient_market_hypothesis": {
+      "id": "efficient_market_hypothesis",
+      "label": "Efficient Market Hypothesis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "sustainable_trading": {
+      "id": "sustainable_trading",
+      "label": "Sustainable Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "emotional_discipline": {
+      "id": "emotional_discipline",
+      "label": "Emotional Discipline",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "innate_talent": {
+      "id": "innate_talent",
+      "label": "Innate Talent",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "passion": {
+      "id": "passion",
+      "label": "Passion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 2
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 2
+    },
+    "career_commitment": {
+      "id": "career_commitment",
+      "label": "Career Commitment",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
+      ],
+      "claim_count": 1
+    },
+    "trading_success": {
+      "id": "trading_success",
+      "label": "Trading Success",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "market wizards new generation": 1
+      },
+      "books": [
+        "market wizards new generation"
       ],
       "claim_count": 1
     },
@@ -228052,20 +229172,6 @@
       ],
       "claim_count": 1
     },
-    "value_investing": {
-      "id": "value_investing",
-      "label": "Value Investing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "poor charlies almanack": 3
-      },
-      "books": [
-        "poor charlies almanack"
-      ],
-      "claim_count": 3
-    },
     "business_quality": {
       "id": "business_quality",
       "label": "Business Quality",
@@ -260349,20 +261455,6 @@
         "skin in the game"
       ],
       "claim_count": 1
-    },
-    "information_asymmetry": {
-      "id": "information_asymmetry",
-      "label": "Information Asymmetry",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "skin in the game": 2
-      },
-      "books": [
-        "skin in the game"
-      ],
-      "claim_count": 2
     },
     "institutional_divergence": {
       "id": "institutional_divergence",
@@ -309462,20 +310554,6 @@
       ],
       "claim_count": 1
     },
-    "market_inefficiency": {
-      "id": "market_inefficiency",
-      "label": "Market Inefficiency",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the misbehavior of markets": 1
-      },
-      "books": [
-        "the misbehavior of markets"
-      ],
-      "claim_count": 1
-    },
     "volatility_surface": {
       "id": "volatility_surface",
       "label": "Volatility Surface",
@@ -312377,20 +313455,6 @@
     "vocabulary_learning": {
       "id": "vocabulary_learning",
       "label": "Vocabulary Learning",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the mythical man-month": 1
-      },
-      "books": [
-        "the mythical man-month"
-      ],
-      "claim_count": 1
-    },
-    "knowledge_transfer": {
-      "id": "knowledge_transfer",
-      "label": "Knowledge Transfer",
       "description": "",
       "aliases": [],
       "related": [],
@@ -333738,34 +334802,6 @@
       ],
       "claim_count": 1
     },
-    "position_sizing": {
-      "id": "position_sizing",
-      "label": "Position Sizing",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the zurich axioms": 2
-      },
-      "books": [
-        "the zurich axioms"
-      ],
-      "claim_count": 2
-    },
-    "portfolio_management": {
-      "id": "portfolio_management",
-      "label": "Portfolio Management",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the zurich axioms": 2
-      },
-      "books": [
-        "the zurich axioms"
-      ],
-      "claim_count": 2
-    },
     "diversification_critique": {
       "id": "diversification_critique",
       "label": "Diversification Critique",
@@ -333797,20 +334833,6 @@
     "exit_strategy": {
       "id": "exit_strategy",
       "label": "Exit Strategy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "the zurich axioms": 2
-      },
-      "books": [
-        "the zurich axioms"
-      ],
-      "claim_count": 2
-    },
-    "loss_cutting": {
-      "id": "loss_cutting",
-      "label": "Loss Cutting",
       "description": "",
       "aliases": [],
       "related": [],
@@ -365294,20 +366316,6 @@
       ],
       "claim_count": 1
     },
-    "niche_strategy": {
-      "id": "niche_strategy",
-      "label": "Niche Strategy",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "zero to one": 1
-      },
-      "books": [
-        "zero to one"
-      ],
-      "claim_count": 1
-    },
     "founder_psychology": {
       "id": "founder_psychology",
       "label": "Founder Psychology",
@@ -365464,8 +366472,8 @@
     }
   },
   "stats": {
-    "total_concepts": 25057,
-    "total_claims": 42790,
-    "books_indexed": 147
+    "total_concepts": 25123,
+    "total_claims": 42949,
+    "books_indexed": 148
   }
 }
