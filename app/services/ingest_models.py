@@ -17,6 +17,7 @@ class IngestOptions:
     split_pages: bool = False
     use_gemini: bool = False
     use_gpt: bool = False
+    use_codex: bool = False
     test_mode: bool = False
     enable_enrichment: bool = False
     enable_semantic_merge: bool = True

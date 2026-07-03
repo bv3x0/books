@@ -238,6 +238,7 @@ class Manifest:
                 "size_bytes": file_data.get("size_bytes", 0),
                 "format": "text",
                 "estimated_tokens": file_data.get("estimated_tokens", 0),
+                "source_metadata": file_data.get("source_metadata", {}),
                 "use_unified": self.use_unified
             }
         }
@@ -251,12 +252,15 @@ class Manifest:
         filenames = []
         toc = None
         toc_structured = None
+        source_metadata = {}
 
         for filename, file_data in text_files.items():
             combined_parts.append(file_data.get('text', ''))
             total_bytes += file_data.get('size_bytes', 0)
             total_tokens += file_data.get('estimated_tokens', 0)
             filenames.append(filename)
+            if not source_metadata and file_data.get("source_metadata"):
+                source_metadata = file_data.get("source_metadata")
             # Grab TOC from first file that has it (all PDFs share the same manual TOC)
             if not toc and file_data.get('toc'):
                 toc = file_data.get('toc')
@@ -303,6 +307,7 @@ class Manifest:
                 "size_bytes": total_bytes,
                 "format": "text_combined",
                 "estimated_tokens": total_tokens,
+                "source_metadata": source_metadata,
                 "use_unified": self.use_unified
             }
         }
@@ -335,10 +340,14 @@ class Manifest:
 
         # Apply bounds: avoid too many tiny chunks, but keep request size moderate
         # enough that the model is less likely to stall on very dense books.
-        smart_chunk_tokens = max(
-            self.smart_chunk_settings["min_tokens"],
-            min(self.smart_chunk_settings["max_tokens"], smart_chunk_tokens),
-        )
+        min_tokens = self.smart_chunk_settings["min_tokens"]
+        max_tokens = self.smart_chunk_settings["max_tokens"]
+        if smart_chunk_tokens < min_tokens:
+            floor_chapters = math.ceil(min_tokens / max(1, tokens_per_chapter))
+            floor_output_tokens = floor_chapters * output_per_chapter
+            if floor_output_tokens <= target_max_output * 1.25:
+                smart_chunk_tokens = min_tokens
+        smart_chunk_tokens = min(max_tokens, smart_chunk_tokens)
 
         log.info(f"Manifest: Smart chunking - {chapter_count} chapters, ~{tokens_per_chapter:.0f} tokens/ch, "
                  f"~{output_per_chapter} output/ch → {chapters_per_chunk} ch/chunk → {smart_chunk_tokens:,} tokens/chunk")
@@ -347,14 +356,14 @@ class Manifest:
 
     @staticmethod
     def _estimate_output_tokens_per_chapter(tokens_per_chapter: float) -> int:
-        """Estimate output density from chapter size to avoid overstuffed chunks."""
+        """Estimate richer source-anchored output density by chapter size."""
         if tokens_per_chapter >= 9000:
-            return 1500
+            return 2400
         if tokens_per_chapter >= 6500:
-            return 1350
+            return 2100
         if tokens_per_chapter >= 4000:
-            return 1200
-        return 1000
+            return 1800
+        return 1400
 
     def _build_file_part_guidance(
         self, toc_structured: list[tuple[str, str]], file_part_idx: int
@@ -793,6 +802,7 @@ CRITICAL INSTRUCTIONS FOR CONTINUATION CHUNKS:
                         "original_filename": filename,
                         "planned": bool(planned_titles),
                     },
+                    "source_metadata": file_data.get("source_metadata", {}),
                     "use_unified": self.use_unified
                 }
             }
@@ -843,6 +853,7 @@ CRITICAL INSTRUCTIONS FOR CONTINUATION CHUNKS:
                 "filename": filename,
                 "size_bytes": file_data.get("size_bytes", 0),
                 "format": "base64",
+                "source_metadata": file_data.get("source_metadata", {}),
                 "use_unified": self.use_unified
             }
         }

@@ -6,11 +6,13 @@ from __future__ import annotations
 
 import os
 import re
+import shutil
 
 from dotenv import load_dotenv
 
 from app.config import (
     ANTHROPIC_MODEL_ID,
+    CODEX_MODEL_ID,
     CONCEPTS_PATH,
     GEMINI_MODEL_ID,
     GPT_MODEL_ID,
@@ -42,10 +44,18 @@ def validate_book_name(name: str) -> str:
 
 def resolve_provider_settings(options: IngestOptions) -> ProviderSettings:
     """Resolve provider/model selection and output suffixes from CLI options."""
-    if options.use_gemini and options.use_gpt:
-        raise ValueError("--gem and --gpt are mutually exclusive.")
+    selected_providers = [
+        bool(options.use_gemini),
+        bool(options.use_gpt),
+        bool(options.use_codex),
+    ]
+    if sum(selected_providers) > 1:
+        raise ValueError("--gem, --gpt, and --codex are mutually exclusive.")
 
-    if options.use_gpt:
+    if options.use_codex:
+        provider = "codex"
+        model_id = CODEX_MODEL_ID
+    elif options.use_gpt:
         provider = "openai"
         model_id = GPT_MODEL_ID
     elif options.use_gemini:
@@ -60,6 +70,8 @@ def resolve_provider_settings(options: IngestOptions) -> ProviderSettings:
         notes_suffix = ".gem"
     elif options.test_mode and provider == "openai":
         notes_suffix = ".gpt"
+    elif options.test_mode and provider == "codex":
+        notes_suffix = ".codex"
     elif options.test_mode:
         notes_suffix = ".test"
 
@@ -99,6 +111,10 @@ def initialize_client(provider: str):
     elif provider == "gemini":
         google_api_key = os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY")
         print("  - Gemini mode selected (using direct REST calls)", flush=True)
+    elif provider == "codex":
+        if not shutil.which("codex"):
+            raise RuntimeError("Missing codex executable on PATH")
+        print("  - Codex mode selected (using local codex exec)", flush=True)
     else:
         print("  - Importing OpenAI module...", flush=True)
         from openai import OpenAI

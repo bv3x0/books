@@ -21,9 +21,10 @@ if project_root not in sys.path:
 
 
 from app.cli.ingest_prompter import AutoYesIngestPrompter, NonInteractiveIngestPrompter
-from app.config import get_request_max_output_tokens
+from app.config import CODEX_MODEL_ID, get_request_max_output_tokens
 from app.core import epub_processor, glyph_manager
 from app.core.epub_processor import chunk_markdown_by_chapters
+from app.core.exporter import Exporter
 from app.core.manifest import Manifest
 from app.core import monitor as monitor_module
 from app.services import (
@@ -463,6 +464,38 @@ class WorkflowScriptTests(unittest.TestCase):
             ]
         )
 
+    def test_add_forwards_codex_flag_to_main_cli(self):
+        args = SimpleNamespace(
+            book="book name",
+            batch_manifest=None,
+            toc=True,
+            retry=False,
+            ocr=False,
+            split=False,
+            gem=False,
+            gpt=False,
+            codex=True,
+            test=False,
+            enrich=False,
+            no_semantic_merge=False,
+            yes=False,
+            non_interactive=False,
+        )
+
+        with mock.patch.object(workflow, "run_cmd", return_value=0) as run_cmd:
+            rc = workflow.add_command(args)
+
+        self.assertEqual(rc, 0)
+        run_cmd.assert_called_once_with(
+            [
+                workflow.PYTHON,
+                "app/main.py",
+                "book name",
+                "--toc",
+                "--codex",
+            ]
+        )
+
     def test_ship_uses_unsigned_commit_when_requested(self):
         args = SimpleNamespace(
             reconcile="none",
@@ -876,6 +909,47 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(usage["cached_input_tokens"], 300)
         self.assertEqual(usage["cache_creation_input_tokens"], 400)
 
+    def test_codex_provider_invokes_codex_exec_with_output_schema(self):
+        monitor = monitor_module.Monitor(client=None, provider="codex")
+        expected_json = json.dumps(
+            {
+                "book": {"title": "Test Book"},
+                "chapters": [{"title": "Chapter 1", "key_points": []}],
+            }
+        )
+
+        def fake_run(cmd, **kwargs):
+            self.assertEqual(cmd[:2], ["codex", "exec"])
+            self.assertIn("--output-schema", cmd)
+            self.assertIn("--output-last-message", cmd)
+            self.assertIn("--sandbox", cmd)
+            self.assertEqual(cmd[cmd.index("--sandbox") + 1], "read-only")
+            schema_path = Path(cmd[cmd.index("--output-schema") + 1])
+            output_path = Path(cmd[cmd.index("--output-last-message") + 1])
+            schema = json.loads(schema_path.read_text(encoding="utf-8"))
+            self.assertEqual(schema["required"], ["book", "chapters"])
+            sub_point_schema = schema["properties"]["chapters"]["items"]["properties"][
+                "key_points"
+            ]["items"]["properties"]["sub_points"]["items"]
+            self.assertEqual(sub_point_schema["required"], ["type", "text", "speaker"])
+            self.assertIn("number", sub_point_schema["properties"]["type"]["enum"])
+            self.assertIn("Do not run shell commands", kwargs["input"])
+            self.assertIn("Source text", kwargs["input"])
+            output_path.write_text(expected_json, encoding="utf-8")
+            return subprocess.CompletedProcess(cmd, 0, stdout="", stderr="")
+
+        req_data = {
+            "model": "gpt-5.5",
+            "max_tokens": 4096,
+            "messages": [{"role": "user", "content": "Source text"}],
+        }
+
+        with mock.patch.object(monitor_module.subprocess, "run", side_effect=fake_run):
+            response_text, usage = monitor._call_model(req_data, 1, 1, "")
+
+        self.assertEqual(json.loads(response_text)["book"]["title"], "Test Book")
+        self.assertEqual(usage, {})
+
 
 class MaintenanceServiceTests(unittest.TestCase):
     def test_stream_command_maps_configured_return_code_to_warning(self):
@@ -1031,6 +1105,23 @@ class MaintenanceServiceTests(unittest.TestCase):
 
 
 class IngestServiceInteractionTests(unittest.TestCase):
+    def test_resolve_provider_settings_codex_mode(self):
+        settings = ingest_service.resolve_provider_settings(
+            ingest_service.IngestOptions(use_codex=True, test_mode=True)
+        )
+
+        self.assertEqual(settings.provider, "codex")
+        self.assertEqual(settings.model_id, CODEX_MODEL_ID)
+        self.assertEqual(settings.notes_suffix, ".codex")
+        self.assertEqual(settings.cache_suffix, ".codex.test")
+        self.assertFalse(settings.require_openai)
+
+    def test_resolve_provider_settings_rejects_multiple_model_flags(self):
+        with self.assertRaisesRegex(ValueError, "--gem, --gpt, and --codex"):
+            ingest_service.resolve_provider_settings(
+                ingest_service.IngestOptions(use_gpt=True, use_codex=True)
+            )
+
     def test_load_batch_request_uses_source_dir_and_infers_toc_relative_to_manifest(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
@@ -1739,8 +1830,16 @@ class ManifestTests(unittest.TestCase):
 
         chunk_tokens = manifest._calculate_smart_chunk_size(485_041, 51)
 
-        self.assertGreater(chunk_tokens, 60_000)
-        self.assertLessEqual(chunk_tokens, 100_000)
+        self.assertGreater(chunk_tokens, 50_000)
+        self.assertLessEqual(chunk_tokens, 75_000)
+
+    def test_chapter_dense_book_chunk_size_can_go_below_token_floor(self):
+        manifest = Manifest(client=None, model_id="claude-sonnet-4-6")
+
+        chunk_tokens = manifest._calculate_smart_chunk_size(50_000, 100)
+
+        self.assertLess(chunk_tokens, manifest.smart_chunk_settings["min_tokens"])
+        self.assertGreater(chunk_tokens, 0)
 
     def test_should_create_chunk_plan_for_extra_long_book_with_toc(self):
         manifest = Manifest(client=None, model_id="claude-sonnet-4-6")
@@ -1822,6 +1921,132 @@ class IngestReportingTests(unittest.TestCase):
         self.assertIn("input 125,000", rendered)
         self.assertIn("cache write: 5,000", rendered)
         self.assertIn("cache read: 20,000", rendered)
+
+
+class ExporterMetadataTests(unittest.TestCase):
+    def _result(self, source_metadata=None):
+        return [
+            {
+                "status": "SUCCESS",
+                "use_unified": True,
+                "file_metadata": {"source_metadata": source_metadata or {}},
+                "data": {
+                    "book": {
+                        "title": "Model Title",
+                        "author": "Model Author",
+                        "year": None,
+                        "thesis": "A thesis.",
+                        "topics": ["mind"],
+                        "categories": ["science"],
+                    },
+                    "chapters": [
+                        {
+                            "part": None,
+                            "title": "Chapter One",
+                            "summary": "Summary.",
+                            "pull_quote": None,
+                            "key_points": [
+                                {
+                                    "point": "A useful claim with a concrete mechanism.",
+                                    "sub_points": [],
+                                    "concepts": ["consciousness"],
+                                    "entities": {
+                                        "people": [],
+                                        "places": [],
+                                        "events": [],
+                                        "works": [],
+                                    },
+                                }
+                            ],
+                        }
+                    ],
+                },
+            }
+        ]
+
+    def test_export_unified_prefers_source_metadata_over_model_metadata(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            notes_dir = Path(temp_dir) / "notes"
+            index_dir = Path(temp_dir) / "index"
+            notes_dir.mkdir()
+            index_dir.mkdir()
+
+            with (
+                mock.patch("app.core.exporter.NOTES_DIR", str(notes_dir)),
+                mock.patch("app.core.exporter.INDEX_DIR", str(index_dir)),
+                mock.patch(
+                    "app.core.exporter.get_notes_path",
+                    lambda name: str(notes_dir / f"{name}.md"),
+                ),
+                mock.patch(
+                    "app.core.exporter.get_index_path",
+                    lambda name: str(index_dir / f"{name}.json"),
+                ),
+            ):
+                exporter = Exporter(
+                    client=None,
+                    output_dir=temp_dir,
+                    book_name="sample",
+                    enable_embeddings=False,
+                    concept_registry=None,
+                )
+                exporter.export_unified(
+                    self._result(
+                        {
+                            "title": "A World Appears: A Journey into Consciousness",
+                            "author": "Michael Pollan",
+                            "year": 2026,
+                        }
+                    )
+                )
+
+            note = (notes_dir / "sample.md").read_text(encoding="utf-8")
+            index = json.loads((index_dir / "sample.json").read_text(encoding="utf-8"))
+
+        self.assertIn("# A World Appears: A Journey into Consciousness", note)
+        self.assertIn("- Author: Michael Pollan", note)
+        self.assertIn("- Year: 2026", note)
+        self.assertEqual(index["book"]["title"], "A World Appears: A Journey into Consciousness")
+        self.assertEqual(index["book"]["author"], "Michael Pollan")
+        self.assertEqual(index["book"]["year"], 2026)
+
+    def test_export_unified_preserves_existing_collections_for_same_slug(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            notes_dir = Path(temp_dir) / "notes"
+            index_dir = Path(temp_dir) / "index"
+            notes_dir.mkdir()
+            index_dir.mkdir()
+            (notes_dir / "sample.md").write_text(
+                "# Sample\n\n## Metadata\n- Collections: Magic, Jung\n",
+                encoding="utf-8",
+            )
+
+            with (
+                mock.patch("app.core.exporter.NOTES_DIR", str(notes_dir)),
+                mock.patch("app.core.exporter.INDEX_DIR", str(index_dir)),
+                mock.patch(
+                    "app.core.exporter.get_notes_path",
+                    lambda name: str(notes_dir / f"{name}.md"),
+                ),
+                mock.patch(
+                    "app.core.exporter.get_index_path",
+                    lambda name: str(index_dir / f"{name}.json"),
+                ),
+            ):
+                exporter = Exporter(
+                    client=None,
+                    output_dir=temp_dir,
+                    book_name="sample",
+                    enable_embeddings=False,
+                    concept_registry=None,
+                )
+                exporter.export_unified(self._result())
+
+            note = (notes_dir / "sample.md").read_text(encoding="utf-8")
+            index = json.loads((index_dir / "sample.json").read_text(encoding="utf-8"))
+
+        self.assertIn("- Collections: Magic, Jung", note)
+        self.assertEqual(index["book"]["collections"], ["Magic", "Jung"])
 
 
 class IngestPlanningFlowTests(unittest.TestCase):

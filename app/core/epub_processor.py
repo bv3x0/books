@@ -6,6 +6,7 @@ Converts EPUB HTML content to Markdown, preserving heading hierarchy
 """
 
 import os
+import re
 import zipfile
 import xml.etree.ElementTree as ET
 from typing import Optional
@@ -28,11 +29,68 @@ SKIP_SECTIONS = {
     'copyright',
     'about the author', 'note to the reader', 'translator\'s note',
     'editor\'s note', 'introduction to the', 'a note on',
+    'contents', 'landmarks', 'print page list', 'what\'s next on your reading list',
     # Back matter
-    'appendix', 'appendices', 'bibliography', 'works cited', 'references',
+    'appendix', 'appendices', 'bibliography', 'selected bibliography', 'works cited', 'references',
     'notes', 'endnotes', 'footnotes', 'index', 'glossary', 'about the publisher',
     'also by', 'other books', 'further reading', 'suggested reading',
 }
+
+
+def extract_epub_metadata(file_path: str) -> dict:
+    """Extract source-visible EPUB metadata for deterministic note metadata."""
+    if not os.path.exists(file_path):
+        return {}
+
+    try:
+        book = epub.read_epub(file_path)
+    except Exception as e:
+        log.warning(f"Failed to extract EPUB metadata from {file_path}: {e}")
+        return {}
+
+    def clean(value) -> str:
+        return str(value or "").strip().strip(";").strip()
+
+    titles = book.get_metadata("DC", "title") or []
+    main_title = ""
+    subtitle = ""
+    for value, attrs in titles:
+        text = clean(value)
+        if not text:
+            continue
+        meta_id = str((attrs or {}).get("id", "")).lower()
+        if meta_id == "maintitle":
+            main_title = text
+        elif meta_id == "subtitle":
+            subtitle = text
+        elif not main_title:
+            main_title = text
+        elif not subtitle:
+            subtitle = text
+
+    full_title = main_title
+    if subtitle and subtitle.lower() not in main_title.lower():
+        full_title = f"{main_title}: {subtitle}" if main_title else subtitle
+
+    creators = [clean(value) for value, _attrs in book.get_metadata("DC", "creator")]
+    creators = [creator for creator in creators if creator]
+    author = ", ".join(creators) if creators else None
+
+    year = None
+    for value, _attrs in book.get_metadata("DC", "date"):
+        match = re.search(r"\b(\d{4})\b", clean(value))
+        if match:
+            year = int(match.group(1))
+            break
+
+    metadata = {}
+    if full_title:
+        metadata["title"] = full_title
+    if author:
+        metadata["author"] = author
+    if year:
+        metadata["year"] = year
+    return metadata
 
 
 def extract_toc_from_epub(file_path: str) -> list[tuple[str, str]]:

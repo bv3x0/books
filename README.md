@@ -134,6 +134,9 @@ pip install -r app/requirements.txt
 ANTHROPIC_API_KEY=sk-ant-...
 GOOGLE_API_KEY=...
 OPENAI_API_KEY=sk-...
+
+# Optional: local Codex comparison lane uses your signed-in Codex CLI session
+codex --version
 ```
 
 ## Usage
@@ -149,6 +152,7 @@ python3 scripts/workflow.py add "book-name" --no-toc  # Skip manual TOC and rely
 python3 scripts/workflow.py add "book-name" --yes     # Wrapper + auto-accept reviewed prompts
 python3 scripts/workflow.py add "book-name" --non-interactive  # Wrapper for unattended runs
 python3 scripts/workflow.py add "book-name" --gpt --test  # Wrapper for throwaway QA/model comparison
+python3 scripts/workflow.py add "book-name" --codex --test  # Wrapper for local Codex/GPT-5.5 comparison
 python3 scripts/workflow.py add "book-name" --concurrency 2  # Parallel chunk processing for large books
 python3 app/main.py "book-name"                       # Core ingest (fast default: notes + index, no embeddings)
 python3 app/main.py "book-name" --toc                 # Use manual TOC from books/toc.txt
@@ -159,10 +163,12 @@ python3 app/main.py "book-name" --split               # Split two-page spreads i
 python3 app/main.py "book-name" --split --ocr --toc   # Combine for scanned two-page-spread books
 python3 app/main.py "book-name" --gem                 # Use Gemini 3 Flash Preview
 python3 app/main.py "book-name" --gpt                 # Use GPT-5.2
+python3 app/main.py "book-name" --codex               # Use local Codex exec with GPT-5.5
 python3 app/main.py "book-name" --toc --yes           # Auto-accept prompts after reviewing TOC/input
 python3 app/main.py "book-name" --toc --non-interactive  # Never prompt; abort if judgment is required
 python3 app/main.py "book-name" --gem --test          # Benchmark/throwaway QA only (notes-only, no concepts/index updates)
 python3 app/main.py "book-name" --gpt --test          # Benchmark/throwaway QA only (notes-only, no concepts/index updates)
+python3 app/main.py "book-name" --codex --test        # Benchmark/throwaway QA through local Codex CLI
 ```
 
 `python3 scripts/workflow.py add` forwards to `app/main.py`, but it defaults to `--toc`. Use `--no-toc` if you want the wrapper without manual TOC guidance.
@@ -260,11 +266,13 @@ python3 scripts/workflow.py add "book-name" --chunk-target-output-tokens 12000
 
 For extra-long Sonnet 4.6 books with a usable TOC, ingest now runs a whole-book planning pass before chunked summarization. The planner asks Sonnet to group consecutive chapters and emit exact boundary anchors, then the real chunk requests are built from that plan. If the plan cannot be parsed or the anchors cannot be applied locally, ingest falls back to the normal chapter-aware chunker.
 
-In `--test` mode, output is notes-only and written to `notes/book-name.gem.md` (for `--gem`), `notes/book-name.gpt.md` (for `--gpt`), or `notes/book-name.test.md` (default provider).
+In `--test` mode, output is notes-only and written to `notes/book-name.gem.md` (for `--gem`), `notes/book-name.gpt.md` (for `--gpt`), `notes/book-name.codex.md` (for `--codex`), or `notes/book-name.test.md` (default provider).
 
 Important: `--test` is not a cheap preflight for a book you intend to keep. It still pays almost the full extraction + model cost, but skips canonical outputs like `index/book-name.json`, concept updates, and vector/embedding work. Use it for model comparison, throwaway QA, or debugging questionable inputs, not as the default step before a normal ingest.
 
 Each run prints a `Cost Estimate` section at the end using API-reported token usage and configured per-model pricing in `app/config.py`. Anthropic chunked runs now report prompt-cache writes/reads separately when the API returns them.
+
+`--codex` mode runs `codex exec` locally with a structured JSON schema. It uses your signed-in Codex/ChatGPT session and local Codex usage limits rather than an API key, so it does not return provider token usage or cost metadata. Override the default model with `SUMMARIZER_CODEX_MODEL=gpt-5.5` if needed.
 
 ### Model Comparison Tests
 
@@ -279,23 +287,27 @@ python3 app/main.py "book-name" --gem --test
 
 # GPT test
 python3 app/main.py "book-name" --gpt --test
+
+# Codex/GPT-5.5 test
+python3 app/main.py "book-name" --codex --test
 ```
 
 Test outputs:
 - `notes/book-name.test.md` (default/Sonnet)
 - `notes/book-name.gem.md`
 - `notes/book-name.gpt.md`
+- `notes/book-name.codex.md`
 
 Quick text comparison examples:
 
 ```bash
-wc -l notes/book-name.test.md notes/book-name.gem.md notes/book-name.gpt.md
+wc -l notes/book-name.test.md notes/book-name.gem.md notes/book-name.gpt.md notes/book-name.codex.md
 diff -u notes/book-name.test.md notes/book-name.gpt.md | less
 ```
 
 Do not use `--test` as the normal preflight for a book you intend to publish unless you are willing to rerun the expensive model pass afterward. Successful `--test` runs are not currently promotable into canonical `notes/` + `index/` outputs.
 
-To refresh test models or pricing later, update `ANTHROPIC_MODEL_ID`, `GEMINI_MODEL_ID`, `GPT_MODEL_ID`, and `MODEL_PRICING_USD_PER_MILLION` in `app/config.py`.
+To refresh test models or pricing later, update `ANTHROPIC_MODEL_ID`, `GEMINI_MODEL_ID`, `GPT_MODEL_ID`, `CODEX_MODEL_ID`, and `MODEL_PRICING_USD_PER_MILLION` in `app/config.py`.
 
 ### Integrity Checks and Low-Cost Repairs
 

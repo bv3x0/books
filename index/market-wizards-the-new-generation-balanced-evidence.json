@@ -1,0 +1,4056 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Market Wizards: The Next Generation",
+    "author": "Jack D. Schwager and George F. Coyle",
+    "year": 2025,
+    "categories": [
+      "business & economics",
+      "biography & autobiography",
+      "psychology"
+    ],
+    "thesis": "Extraordinary trading performance comes from a fit between edge, temperament, risk control, sizing, and market environment rather than from one universal method. The traders profiled succeed by studying relentlessly, cutting losses, adapting as edges erode, sizing rare high-conviction opportunities aggressively, and accepting that market wizardry also requires unusual talent and sacrifice."
+  },
+  "claims": [
+    {
+      "id": "market-wizards-the-next-generation-001",
+      "text": "Kullam\u00e4gi turned a security-guard job at the Nasdaq Stockholm building into an all-consuming trading apprenticeship because the job gave him both motivation and hours to study charts while earning new stakes after repeated blow-ups.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "apprenticeship",
+        "self_directed_learning",
+        "career_commitment",
+        "resilience"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [
+          "Nasdaq Stockholm",
+          "Sweden"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He dropped out of biomedical laboratory science only months before graduation after becoming convinced that trading was the only career he wanted.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "His first live account was about $5,000; after losing it, he repeated the cycle of working security shifts, saving money, and trying again three times.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The night-and-weekend security job paid extra and left long stretches for reading trading books and studying chart patterns.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-002",
+      "text": "The transition from blowing up to profitability came when Kullam\u00e4gi stopped going all-in and began treating risk limits, fast loss cutting, and commissions as core parts of the trading edge.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "risk_control",
+        "transaction_costs",
+        "learning_curve",
+        "loss_cutting"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [
+          "Sweden",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He moved from all-in day trades to smaller risk-based positions, quicker losses, high-probability trades, and taking profits when trades worked.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "Switching to a US-based broker reduced commissions by roughly 90%, which materially improved his short-term trading economics from Sweden.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Kullam\u00e4gi judged early progress by how long it took to blow up: two months, then five months, then nearly a year.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-003",
+      "text": "Kullam\u00e4gi\u2019s three enduring setups - episodic pivots, momentum-burst breakouts, and parabolic shorts - are simple but specific enough to define when he should trade and when he should wait.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "trade_setup",
+        "technical_analysis",
+        "market_catalysts",
+        "methodology"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi",
+          "Pradeep Bonde"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Episodic pivots require major news, a large gap up, and explosive volume that force the market to reassess a neglected stock.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Momentum-burst trades buy leading stocks breaking out of short consolidations after prior strength, then look for most of the move within three to five days.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Parabolic shorts target small-cap stocks up several hundred percent over multiple days, but only after weakness appears.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-004",
+      "text": "The episodic-pivot strategy works because news plus massive volume can reprice a neglected stock, but Kullam\u00e4gi insists the stock must be capable of a large move rather than merely being up on the day.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "event_driven_trading",
+        "volume_confirmation",
+        "stock_selection",
+        "neglected_assets"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi",
+          "Pradeep Bonde"
+        ],
+        "places": [],
+        "events": [
+          "Covid-19 pandemic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Tempus AI became an episodic-pivot example in January 2025 after announcing an AI-powered healthcare app and trading around 10 times average volume.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "PTON formed a classic episodic pivot in August 2024 after a bullish earnings report revived a beaten-down pandemic stock.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Utility-like or already-extended stocks are less attractive; the best candidates have often gone sideways for months or years before the news shock.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-005",
+      "text": "Parabolic shorts require patience because shorting on day one of a small-cap frenzy exposes the trader to the same 1,000% squeezes that originally destroyed Kullam\u00e4gi\u2019s accounts.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "short_selling",
+        "timing_risk",
+        "volatility",
+        "patience"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [],
+        "events": [
+          "December 2024 quantum computing rally"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "His A-plus version waits until day three or four of a move totaling at least 300%, then shorts only after a break of an opening range, 5-minute bar, or other weakness signal.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "LAES in December 2024 produced both an episodic-pivot long opportunity and later a parabolic short after rising from about $2 to $11 over five straight up days.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Being early can create multiple mid-sized losses that merely offset the eventual winning short.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-006",
+      "text": "Kullam\u00e4gi\u2019s market filter is as important as his setups because episodic pivots and breakouts are long-biased strategies that can be destroyed in broad downtrends.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "market_regime",
+        "process_discipline",
+        "trend_filter",
+        "overtrading"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [],
+        "events": [
+          "2022 bear market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He uses the 10-day and 20-day moving averages as a simple regime filter: both rising favors long trades, while a 10-day cross below the 20-day signals caution.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In 2022 he kept buying breakouts and episodic pivots despite his indicator showing a downtrending market, turning a known rule violation into his worst trading year.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He estimated that obeying the 10/20-day moving-average rule would have avoided about 90% of his 2022 losses.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-007",
+      "text": "The move from day trading to swing trading made Kullam\u00e4gi\u2019s gains larger and his work less stressful because bigger stock moves require time, but it also increased exposure to portfolio-level drawdowns.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "holding_period",
+        "trend_following",
+        "profit_capture",
+        "drawdown_management"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He began taking partial profits after the first three to five days, then using 10-day or 20-day moving-average closes as trailing stops on the remainder.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Day trading kept him close to stops and required constant new trades; swing trading allowed winning stocks to keep working without staring at every tick.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "At major market tops, moving-average exits can give back substantial open profits because many positions roll over at once.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-008",
+      "text": "Kullam\u00e4gi\u2019s 2021-2022 collapse illustrates how a trader\u2019s best run can produce the overconfidence that makes rule-breaking feel harmless until it becomes catastrophic.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "overconfidence",
+        "wealth_effects",
+        "rule_violation",
+        "drawdowns"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [
+          "Sweden"
+        ],
+        "events": [
+          "2020 bull market",
+          "2022 bear market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He began 2020 with about $3.5 million, ended that year near $36 million, and briefly exceeded $100 million in November 2021.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "From the $105 million peak to the mid-2022 low, he lost roughly $60 million, about half from retraced open profits and half from subsequent losses.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The extreme success made him feel detached from reality, ignore trend indicators, and stay aggressive in a bear market.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-009",
+      "text": "Kullam\u00e4gi\u2019s later underperformance came from losing focus rather than losing edge, showing that even a simple profitable methodology depends on constant review and full attention.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "deliberate_practice",
+        "attention",
+        "lifestyle_design",
+        "performance_decay"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi"
+        ],
+        "places": [],
+        "events": [
+          "January 2024 SMCI preliminary earnings report"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "After buying a yacht and traveling, he stopped reviewing his Evernote database of exemplary setups and missed obvious 2024 opportunities such as SMCI.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Monthly review of saved chart screenshots had reinforced what the best episodic pivots, breakouts, and parabolic shorts looked like.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "I used to live to trade, and now I trade to live.",
+          "speaker": "Kristjan Kullam\u00e4gi"
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-010",
+      "text": "Kullam\u00e4gi insists traders do not need original ideas, but they do need to verify borrowed setups, fit them to their personality, and execute them with position sizing and stops.",
+      "chapter": "Kristjan Kullam\u00e4gi",
+      "concepts": [
+        "method_validation",
+        "personality_fit",
+        "position_sizing",
+        "simplicity"
+      ],
+      "entities": {
+        "people": [
+          "Kristjan Kullam\u00e4gi",
+          "Pradeep Bonde",
+          "William O\u2019Neill"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "How to Make Money in Stocks"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "He credits Pradeep Bonde and Stockbee for episodic pivots and momentum bursts, and points to William O\u2019Neill\u2019s chart histories as a resource for studying repeated winners.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He usually risks 0.5% or less per trade and rarely more than 1%, despite having produced enormous compounded gains.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "A method can have an edge and still fail for a trader who cannot adhere to stops, size properly, or trade only in favorable regimes.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-011",
+      "text": "Breitstein chose a $26,000 Trillium day-trading job over a $100,000-plus Bank of Montreal offer because he judged the long-term expected value of learning from proven prop traders to be higher.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "expected_value",
+        "delayed_gratification",
+        "mentorship",
+        "career_choice"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [
+          "Indiana University",
+          "Trillium",
+          "Bank of Montreal",
+          "Princeton",
+          "New York City"
+        ],
+        "events": [
+          "Great Recession"
+        ],
+        "works": [
+          "Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He researched Trillium through Wall Street Oasis contacts to verify that real traders there were making money consistently rather than joining a first-loss bucket shop.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He estimated the sacrifice as roughly $75,000 a year for two years in exchange for the possibility of eventually earning seven figures.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He moved to the Princeton satellite office to sit near the firm\u2019s top trader, accepting isolation over the social life of New York City.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-012",
+      "text": "Breitstein treated day trading as a competitive video game in which speed mattered, but his edge came from pairing speed with context rather than merely reacting faster than algorithms.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "speed_advantage",
+        "human_judgment",
+        "market_microstructure",
+        "gaming_mindset"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [
+          "Trillium"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He built hotkeys, optimized screen layout, and even shortened Canadian ticker entry to shave tenths of seconds from headline trades.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Algorithms can beat humans on simple headlines, but Breitstein argues that nuanced context - whether news is new, expected, material, or sentiment-changing - still creates human opportunity.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He placed streaming headlines next to Level 2 boxes to reduce eye movement during rapid decisions.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-013",
+      "text": "His apprenticeship under Trillium\u2019s top trader taught him that technical patterns gain edge only when multiple confirming nuances align across time frames, volume, volatility, news, and positioning.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "technical_analysis",
+        "pattern_context",
+        "multi_timeframe_analysis",
+        "probabilistic_edge"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [
+          "Trillium"
+        ],
+        "events": [
+          "November 5, 2024 US presidential election"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Simple breakouts are often noise; breakouts with news, high short interest, volume confirmation, and alignment across intraday and daily charts have higher expected value.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "The November 2024 Bitcoin breakout combined all-time highs, a pro-crypto US presidential election result, higher highs and higher lows, and a reflexive feedback loop.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "His mentor kept stacks of annotated notebooks defining multi-day technical patterns with factors such as closing location, volume, Bollinger bands, and moving-average angles.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-014",
+      "text": "Breitstein\u2019s early losing period became productive because he turned every trading day into deliberate practice, using recorded screen clips to slow down, replay, and rehearse critical moments.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "deliberate_practice",
+        "process_orientation",
+        "feedback_loops",
+        "skill_acquisition"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [
+          "Trillium",
+          "Princeton"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He lost money for 11 consecutive months and was only slightly above breakeven after roughly 18 months.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He recorded trading sessions, tagged important moments, reviewed clips on Sundays, and practiced at 1.5x or 2x speed so real time felt slower.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "P&L was treated as a lagging indicator; more experienced traders\u2019 feedback on improving thought process mattered more than short-term results.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-015",
+      "text": "His core trade library included exhaustion gaps, capitulation buys, bouncy-ball shorts, inverse bouncy-ball breakouts, and breaking-news trades, all unified by precise entry timing and fast invalidation.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "trade_taxonomy",
+        "capitulation",
+        "news_trading",
+        "entry_timing"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein",
+          "President Trump"
+        ],
+        "places": [
+          "Japan",
+          "Trillium"
+        ],
+        "events": [
+          "August 5, 2024 Nikkei panic",
+          "January 21, 2025 Stargate AI announcement"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "A 2013 Tesla exhaustion-gap short was a breakthrough because he made $10,000 while his mentor made far more on the same idea, proving the missing element was size and maturity.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "The August 5, 2024 Nikkei futures panic buy used daily capitulation and intraday V-bottom analysis after yen short covering triggered extreme selling.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Breaking news trades included shorting SMCI after its auditor resigned and buying Oracle after President Trump announced the Stargate AI project.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-016",
+      "text": "Risk control is built into Breitstein\u2019s method through tight stops, smaller size when a stop is unclear, and post-tax dollar-risk thinking, but his largest loss shows how performance goals can corrupt sizing.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "risk_management",
+        "position_sizing",
+        "performance_targets",
+        "loss_cutting"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [
+          "Trillium"
+        ],
+        "events": [
+          "November 2021 Avis rally"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Intraday trades often use stops beyond the prior two-minute bar; multi-day trades may use the prior day\u2019s low or high.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In November 2021, he oversized an Avis short because he was trying to reach a $20 million annual Trillium record; the stock continued to $550 after he stopped out.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "The Avis loss exceeded $2 million in under an hour, the largest loss of his career to that point.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-017",
+      "text": "Leaving Trillium forced Breitstein to abandon the least scalable intraday inefficiencies, but applying the same pattern concepts to multi-day trades produced more money with far fewer trades.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "scalability",
+        "holding_period",
+        "strategy_adaptation",
+        "opportunity_cost"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [
+          "Trillium"
+        ],
+        "events": [
+          "August 2024 Nikkei panic"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "At Trillium, 99% of his trades were day trades; after leaving, he traded about 1% as often while making several times more.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The same intraday techniques still timed entries, but the thesis and stops moved to daily and multi-day structures that could absorb much larger size.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He described the August 2024 Nikkei trade as a roughly $10 million winner with about $2 million pre-tax risk.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-018",
+      "text": "Breitstein\u2019s option-selling method turns desired entry prices into paid limit orders, but he treats calls more cautiously than puts because upside risk is unbounded.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "options_strategy",
+        "volatility_selling",
+        "risk_reward",
+        "entry_design"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "After a waterfall selloff, he may sell puts at the strike where he would want to own the stock; if not exercised, he keeps the premium.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Short puts benefit from a zero-price bound; short calls can create open-ended risk, so he sizes them far smaller.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He sells volatility only after extreme moves, not during calm periods when the portfolio would be exposed before volatility arrives.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-019",
+      "text": "Breitstein\u2019s later life conflict is that trading remains profitable and fascinating but damages sleep, presence, and health, so he is trying to shift toward teaching, philanthropy, and longevity work.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "life_balance",
+        "health_tradeoff",
+        "philanthropy",
+        "identity_transition"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein",
+          "Bill Gates",
+          "Jeff Bezos",
+          "John Arnold",
+          "Bryan Johnson"
+        ],
+        "places": [
+          "SMB Capital"
+        ],
+        "events": [],
+        "works": [
+          "Atomic Habits"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "A sleep study found his results among the worst the professionals had seen outside active military cases.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He spent about 15 months and $700,000 building a trading course, with net profits intended for charity.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "His nonprofit funds college student groups whose projects benefit local communities.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-020",
+      "text": "His advice to developing traders centers on identity and coachability: improve process daily, reject limiting beliefs, seek expert feedback, and use setbacks as data rather than verdicts.",
+      "chapter": "Lance Breitstein",
+      "concepts": [
+        "growth_mindset",
+        "coachability",
+        "self_belief",
+        "process_goals"
+      ],
+      "entities": {
+        "people": [
+          "Lance Breitstein",
+          "James Clear"
+        ],
+        "places": [
+          "Trillium"
+        ],
+        "events": [],
+        "works": [
+          "Atomic Habits"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He used the identity of being the hardest worker to make staying late, reviewing mistakes, and practicing on bad days automatic.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "A second-year trader should evaluate whether experienced mentors see improvement in thought process, not only whether cumulative P&L is positive.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "James Clear\u2019s Atomic Habits gave language to Breitstein\u2019s belief that inputs, identity, and small daily improvements compound.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-021",
+      "text": "Russo\u2019s trading drive grew out of the same mastery impulse that shaped his music life, leading him to leave USC Thornton because trading became the craft that best matched his passion, independence, and financial goals.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "craft_mastery",
+        "identity",
+        "career_commitment",
+        "self_awareness"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo",
+          "Frank Zappa",
+          "Philip Glass",
+          "Steve Reich",
+          "Mark Guiliana"
+        ],
+        "places": [
+          "USC Thornton School of Music"
+        ],
+        "events": [],
+        "works": [
+          "Mehliana: Taming the Dragon"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He studied music intensely from age 12, idolized a humble teacher devoted to craft, and was accepted into the USC Thornton School of Music.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "His letter to his parents framed music and trading as endless learning curves requiring self-awareness, hard work, and personal pathfinding.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Composition coursework felt less compelling than trading, while trading offered both mastery and financial reward.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-022",
+      "text": "Russo\u2019s early account blow-ups were not evidence that he lacked edge; they were evidence that an edge without stops, sizing discipline, and trade-selection discipline can still end in ruin.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "risk_failure",
+        "leverage",
+        "behavioral_bias",
+        "early_failure"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [
+          "Fidelity"
+        ],
+        "events": [
+          "2012 marijuana legalization wave"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He lost his $3,000 life savings trading pump-and-dump alerts after greed led him to hold beyond the quick order-flow window.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "In 2015 he ran $50,000 to $550,000 in four months, then lost it on a short scalp intended to make only about $2,000.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The fatal pattern was oversized short positions, adding to losers, no exit plan, and waiting for a broker margin call to force liquidation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-023",
+      "text": "His small-cap short edge came from combining superficial price euphoria with deep evidence that a company\u2019s fundamentals, capital structure, or financing mechanics would create selling pressure.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "fundamental_research",
+        "short_selling",
+        "dilution",
+        "information_edge"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He sought stocks rallying on bullish-sounding but insignificant news, then checked cash, burn rate, debt, warrants, convertibles, and identifiable holders likely to sell.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "A company with convertible debt at $3 whose stock gaps from $2 to $5 can invite debt holders to convert and unload shares into retail demand.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He avoided stocks up on genuinely material news, such as real profitability or meaningful clinical trial success.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-024",
+      "text": "The 2016 MGT trade marked Russo\u2019s transition from talented but unstable trader to process-driven trader because he accepted an initial stop-out, reentered only when price action confirmed, and pyramided with risk moving down.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "process_validation",
+        "pyramiding",
+        "loss_acceptance",
+        "trade_execution"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [
+          "2016 MGT parabolic move"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He lost on the first attempt the day before the top, then shorted again as momentum faded and added as the stock broke down.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He moved the stop to the day\u2019s high as the trade worked, then added when the stock went negative, increasing profit potential without losing control.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "The trade made about $30,000, roughly equal to his entire year-to-date profit at that point.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-025",
+      "text": "Russo\u2019s expansion from shorting small caps to buying broken shorts removed an identity constraint: the profitable decision was to follow the market\u2019s behavior, not defend being a short seller.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "cognitive_flexibility",
+        "long_short_trading",
+        "short_squeeze",
+        "price_confirmation"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [
+          "August 2021 VRPX rally"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "A broken short occurs when news or filings suggest a short, but the stock trends higher, consolidates tightly, and breaks out instead of collapsing.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "VRPX in August 2021 became a long after positive FDA-related comments, a small float, a clean capital structure, and price action that trapped shorts.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "True short candidates often go straight up and then down; broken shorts trend, shake out longs, trap shorts, and then accelerate.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-026",
+      "text": "The shift from small caps to mid- and large-cap momentum names was necessary because Russo\u2019s original edge worked but no longer scaled to the size of his account.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "scalability",
+        "market_cap_transition",
+        "momentum",
+        "account_growth"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [
+          "2021 meme-stock rally"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Large-cap trades rely less on SEC dilution mechanics and more on news interpretation, chart capitulation, and technical nature of the rally or panic.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In 2021, Russo\u2019s biggest winners included GameStop, AMC, and DWAC, where meme-stock euphoria produced parabolic short opportunities.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He estimated small caps might support $10-$20 million a year, but not the larger dollar profits his grown account required.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-027",
+      "text": "Russo\u2019s pyramiding system increased average win size by adding only after the market allowed him to lower the stop, keeping original risk roughly unchanged while expanding exposure to confirmed moves.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "pyramiding",
+        "risk_budgeting",
+        "confirmation",
+        "asymmetric_returns"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "For shorts, he waits for price action to justify lowering the stop; the freed risk budget is used to add shares rather than reduce total dollar risk.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "This is reactive rather than predictive: the market must provide a signal before additional size is added.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "The method depends on the tendency of his selected broken small- or mid-cap shorts to continue once they start breaking.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-028",
+      "text": "Russo\u2019s SPY and Carvana losses show that even a spectacularly successful trader can revert to early-career failure modes when overconfidence, attachment, or life stress overrides the setup checklist.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "overconfidence",
+        "strategy_drift",
+        "emotional_trading",
+        "catastrophic_risk"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [
+          "2023 SPY rebound",
+          "Carvana earnings gap"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "A short SPY mean-reversion trade cost about $50 million after he put on heavy leverage outside his normal strategy.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He reentered Carvana after previously escaping at breakeven, even though the new short no longer met his conditions; earnings then gapped the stock against him.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Liquidating Carvana around a $50 million loss felt liberating because the stock later rose enough that holding could have wiped out the account.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-029",
+      "text": "The postscript drawdown forced Russo to replace willpower with automated fail-safes because manual discipline had allowed a sub-A-plus trade to become a career-threatening 5x short position.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "systems_over_willpower",
+        "fail_safe_design",
+        "tail_risk",
+        "discipline"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "The drawdown reached roughly $120 million at its peak before recovering to a final loss near $15 million.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He added to a loser repeatedly, abandoned the original 0.5% risk tier, and let the position balloon without recalculating risk.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "New rules automatically liquidate 50% of a position at 1.2x tier risk, liquidate the rest at 1.5x, and trigger panic liquidation if a gap blows past 3x tier risk.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-030",
+      "text": "Russo\u2019s broader philosophy combines patience, non-attachment, and philanthropy: the best trades should look obvious after years of preparation, and trading wealth should serve purposes beyond self-indulgence.",
+      "chapter": "Simon Russo",
+      "concepts": [
+        "non_attachment",
+        "philanthropy",
+        "probabilistic_thinking",
+        "patient_waiting"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo",
+          "Jim Rogers",
+          "Nassim Taleb"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Black Swan",
+          "Fooled by Randomness",
+          "The Billionaire Who Wasn\u2019t"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He compares trading to surfing: wait for the right wave instead of forcing a prediction onto the market.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "His foundation donates anonymously to climate, environment, and education causes, reflecting his belief that wealth should have a larger calling.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He recommends The Black Swan and Fooled by Randomness to reinforce probabilistic thinking and humility about tail risk.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-031",
+      "text": "Fr\u00f6hlich\u2019s trading began as an escape from linguistic and social difficulty after moving from France to Germany, turning a desire for freedom into a market obsession by age 13.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "early_motivation",
+        "financial_freedom",
+        "adversity",
+        "self_employment"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [
+          "France",
+          "Germany"
+        ],
+        "events": [
+          "Great Financial Crisis"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He struggled after switching from a French-speaking school to a German-speaking school without being able to speak, read, or write German.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Searching online for the fastest way to make money led him to trading, which he imagined might free him from school and bosses.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He began trading at 13 with about $500 saved from gifts, using an account opened in his father\u2019s name.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-032",
+      "text": "His early failures were caused by combining volatile instruments with extreme leverage before he had a method, but those losses forced him to create explicit daily and position loss limits.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "leverage",
+        "risk_limits",
+        "failure_learning",
+        "loss_aversion"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [
+          "Germany"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He traded currencies and CFDs, sometimes with 50-to-1 or 100-to-1 leverage, and once lost 200% of his account overnight shorting the DAX.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "A negative account balance forced him to sell his bicycle and borrow from a friend, a loss he described as emotionally searing.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The cycle stopped only after he set maximum potential loss per stock and maximum portfolio loss per day.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-033",
+      "text": "Fr\u00f6hlich\u2019s small-cap short edge came from merging SEC-style fundamental research with intraday pattern statistics, allowing him to distinguish garbage financing pumps from genuine business improvements.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "short_selling",
+        "fundamental_research",
+        "market_inefficiency",
+        "pattern_analysis"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich",
+          "Tim Grittani",
+          "Miah Lee"
+        ],
+        "places": [
+          "Texas",
+          "Bahamas"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He looked for companies running out of working capital, likely to raise capital through unfavorable secondaries, then rallying on recycled or fabricated news.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He studied underwriters, warrants, convertibles, cash burn, and whether news was bogus or indicated a real change in prospects.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Tim Grittani influenced him toward small-cap shorting, quantifying patterns, and deep research.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-034",
+      "text": "His small-cap execution process was built to survive halts and squeezes: start small, stop quickly, retry selectively, and pyramid only after weakness confirms the thesis.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "execution_risk",
+        "short_squeeze",
+        "pyramiding",
+        "survival"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He typically entered with about half the intended position and added only if the trade worked.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Stops could be new daily highs, percentage levels, standard-deviation moves above the open, or time stops tied to expected intraday pattern.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He had a rule that after three unsuccessful short attempts in one stock in a day, he would stop trying.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-035",
+      "text": "The SONN trade on April 14, 2020 illustrates the small-cap short playbook because financial distress, capital-structure dilution, volume, and historical pattern alignment all pointed in the same direction.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "case_study",
+        "capital_structure",
+        "intraday_trading",
+        "process_speed"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [],
+        "events": [
+          "April 14, 2020 SONN trade"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "SONN appeared on his scanner after a huge gap higher on massive volume, then his analysis found cash pressure and warrants or convertibles likely to create share supply.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He said the full analysis took about 20 minutes because the process had become routinized.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He stopped out on the first attempt, shorted again near the highs, covered near the opening range, then shorted another bounce for a second leg down.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-036",
+      "text": "Fr\u00f6hlich switched to mid-cap breakout longs in 2020 because the bull-market euphoria, stimulus liquidity, and retail long-only flows created a strategy that could scale beyond small-cap shorts.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "regime_adaptation",
+        "bubble_dynamics",
+        "scalability",
+        "momentum"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich",
+          "George Soros"
+        ],
+        "places": [],
+        "events": [
+          "2020 stimulus market",
+          "Covid boom"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He focused on $1-$5 billion market-cap stocks with small floats, social-media themes, catalysts, 40%-100% initial moves, and major volume expansion.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He framed the strategy with George Soros\u2019s bubble logic: rush in when a bubble is forming.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "The strategy is appropriate only in strong bull markets and became dangerous after the bull market stalled in mid-2021.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-037",
+      "text": "The mid-cap breakout method used catalyst validation, consolidation, and independent pyramid setups to create small losses or scratches most of the time and occasional exponential winners.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "momentum_trading",
+        "pyramiding",
+        "setup_quality",
+        "asymmetric_payoff"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [],
+        "events": [
+          "GRWG 2020-2021 rally"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He preferred consolidations in the upper half of the range, breakouts, pullbacks to the 20-day EMA, or bullish patterns such as cup-and-handle handles.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Each pyramid add had to qualify as an attractive standalone setup; if an add failed quickly, the whole trade was dead to him.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "GRWG in late 2020 and early 2021 combined a strong earnings catalyst, cannabis-sector social attention, EMA convergence, and later hysteria-based exit signals.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-038",
+      "text": "His current investment style blends contrarian valuation with trend-following confirmation by buying hated but strong companies when a likely catalyst and technical improvement align.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "contrarian_investing",
+        "valuation",
+        "catalyst_investing",
+        "trend_confirmation"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich",
+          "Stan Druckenmiller",
+          "George Soros"
+        ],
+        "places": [
+          "China",
+          "United States"
+        ],
+        "events": [
+          "2024 Chinese stock pessimism",
+          "2025 healthcare selloff"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He searches out-of-favor sectors for strong companies with low valuation, high short interest, growth exposure, and a catalyst that the market is not pricing.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "BABA in 2024 fit the template: low P/E, earnings growth, cloud optionality, buybacks, severe China pessimism, and an expected government stimulus response.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Centene in 2025 reflected his view that markets overestimated political risk to ACA subsidies and Medicare-related healthcare funding.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-039",
+      "text": "The 200-day moving average became Fr\u00f6hlich\u2019s practical bridge between value and risk control because it helps avoid buying too early in bear markets while allowing aggressive scaling after confirmation.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "technical_confirmation",
+        "risk_timing",
+        "trend_following",
+        "position_building"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [
+          "China"
+        ],
+        "events": [
+          "BABA 2024-2025 trades"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He may probe below the 200-day moving average, but he will not put on substantial size until the stock reclaims that level.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He made six failed BABA attempts beginning in 2022, losing over 2% of equity, then later made more than 20 times that loss once the thesis began working.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He may also buy multi-month or multi-year breakouts above the 200-day moving average when valuation and return prospects are still attractive.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-040",
+      "text": "Fr\u00f6hlich\u2019s 2022 drawdown taught him that cheap valuations are not enough: broad market cycle, worst-case planning, net-worth exposure, and not adding to losers matter as much as the thesis.",
+      "chapter": "Lukas Fr\u00f6hlich",
+      "concepts": [
+        "bear_market",
+        "risk_planning",
+        "position_sizing",
+        "cycle_awareness"
+      ],
+      "entities": {
+        "people": [
+          "Lukas Fr\u00f6hlich"
+        ],
+        "places": [],
+        "events": [
+          "2022 bear market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He experienced a drawdown around 40% after buying stocks too early, sizing too large, and adding to losing positions in 2022.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He concluded it is better to wait for a bottom to form and to use the 200-day moving average as one guardrail against major trouble.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He distinguishes optimism, which he views as essential, from assuming the worst case will happen; the point is to have a plan if it does.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-041",
+      "text": "Goedeker\u2019s market ambition began as a teenager wanting the Lake of the Ozarks lifestyle, but his first two trading attempts failed because buying uptrends without edge turned commissions and impatience into a negative-expectancy game.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "early_failure",
+        "motivation",
+        "impatience",
+        "transaction_costs"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [
+          "St. Louis",
+          "Lake of the Ozarks"
+        ],
+        "events": [
+          "late 1990s bull market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He lost two separate $3,000 accounts during college after summer jobs at his father\u2019s St. Louis appliance, furniture, and electronics business.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He bought stocks after several up days and sold almost immediately if they did not continue, creating random entries with transaction-cost drag.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "He viewed the lost money as tuition rather than evidence that he should quit.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-042",
+      "text": "Discovering short selling transformed Goedeker\u2019s impatience from a liability into a fit because overextended small-cap collapses could pay quickly when he waited for the rally to stall.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "short_selling",
+        "personality_fit",
+        "mean_reversion",
+        "catalyst_trading"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [],
+        "events": [
+          "Host America Walmart press release"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "His first major short was Host America after a misleading Walmart-related press release; the stock was halted, reopened far lower, and nearly tripled his account.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He screened nightly for the biggest one-day, three-day, and five-day winners, then waited for multiple-day runners to peak before shorting.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He grew $5,000 to more than $1 million in roughly nine months during his senior year.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-043",
+      "text": "Goedeker\u2019s early spectacular returns relied on maximum short exposure, but the subsequent 50% drawdown taught him to bank profits and keep trading size at a psychologically manageable level.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "leverage",
+        "capital_preservation",
+        "drawdown_management",
+        "psychological_capital"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He was routinely 200% short: $50,000 equity meant $100,000 short, $500,000 equity meant $1 million short.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "After reaching about $1,007,000, the account fell to roughly $500,000; he wired $400,000 to the bank and restarted with $100,000.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Banking profits reduced both financial and psychological pressure while allowing him to continue trading the same core setup.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-044",
+      "text": "Analyzing his own trades revealed that the A-plus parabolic short setup generated the money while large non-setup trades generated the damage, so position sizing became the performance lever.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "trade_review",
+        "position_sizing",
+        "edge_concentration",
+        "self_analysis"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "In 2011 he reviewed about 500 tickers and found only about 15 produced large gains while many meaningful losses came from trades with no real setup.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He increased size moderately on A-plus shorts and cut size on other trades by about 90%, making non-core trades nearly irrelevant to P&L.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "The insight was not to stop all lower-quality trades, but to prevent them from carrying the same risk as the best opportunities.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-045",
+      "text": "The A-plus short is a trashy small-cap stock after a parabolic rally, but Goedeker protects himself by shorting only after a break and exiting immediately if the entry is wrong.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "loss_cutting",
+        "entry_validation",
+        "short_squeeze",
+        "discipline"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He refuses to add to a losing short; if the stock makes a new high after entry, he covers and waits for another breakdown.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Other traders in chat rooms added at higher prices as losses grew; Goedeker often covered after a small move against him.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He might retry a stock after later breakdowns, but in practice probably no more than three or four times before deciding it is too tricky.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-046",
+      "text": "Bull markets helped Goedeker\u2019s short-selling strategy because euphoric liquidity created the extreme small-cap overextensions that bear markets usually do not provide.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "market_regime",
+        "bull_market",
+        "opportunity_set",
+        "overtrading"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [],
+        "events": [
+          "2020 stimulus market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "In 2020, after stimulus began, small-cap stocks sometimes gapped up more than 1,000% and then failed late in the day.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The short seller needs overbought rallies to sell; bear markets often lack the speculative upward surges that create his best opportunities.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He warns that performance depends on what the market provides, so ambitious annual goals can push a trader into overtrading.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-047",
+      "text": "Goedeker\u2019s later shift to selling option premium worked because he adapted a dangerous strategy to his risk-manager temperament rather than treating option selling as a passive money machine.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "options_selling",
+        "risk_selection",
+        "strategy_transition",
+        "tail_risk"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [],
+        "events": [
+          "GameStop squeeze"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "He learned option selling in 2016 from a trader in a small chat room after agreeing to teach his own short-selling style in exchange.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He sells very deep out-of-the-money options on stable mega-cap stocks, with roughly 80% puts and 20% calls.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "A $1 million loss selling GameStop calls taught him not to sell options in stocks capable of extreme short squeezes.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-048",
+      "text": "His option risk control depends on fast hedging, avoiding dangerous names, and keeping only a fraction of total wealth exposed to the trading account.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "hedging",
+        "tail_risk",
+        "wealth_segregation",
+        "capital_survival"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker",
+          "President Trump"
+        ],
+        "places": [],
+        "events": [
+          "Liberation Day tariff announcement",
+          "October 19, 1987 crash"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "After President Trump\u2019s Liberation Day tariff announcement, he bought hundreds of June SPY puts at the next open to hedge his option portfolio.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He hedged when down only about $100,000, effectively locking in the loss before the market fell much further over the next two days.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He acknowledges an October 19, 1987-style crash could wipe out the trading account, but only about 10% of his assets are kept there.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-049",
+      "text": "Goedeker\u2019s consistency comes from accepting that his happiness no longer depends on maximizing annual profits, so preservation and rules dominate reaching for arbitrary P&L targets.",
+      "chapter": "Phil Goedeker",
+      "concepts": [
+        "capital_preservation",
+        "goal_setting",
+        "rule_following",
+        "humility"
+      ],
+      "entities": {
+        "people": [
+          "Phil Goedeker"
+        ],
+        "places": [
+          "Lake of the Ozarks"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He has had only one down year in 20 years of trading, a loss of about $30,000.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He sets low annual financial goals because the market, not the trader, determines how many A-plus opportunities appear.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "The one thing I will never say is that something can\u2019t happen.",
+          "speaker": "Phil Goedeker"
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-050",
+      "text": "Chiu\u2019s perfect academic record in Hong Kong and Cambridge initially hurt his trading because trading requires being wrong often, while school had trained him to expect correctness and structured progress.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "academic_success",
+        "resilience",
+        "probabilistic_thinking",
+        "self_talk"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu"
+        ],
+        "places": [
+          "Hong Kong",
+          "University of Cambridge"
+        ],
+        "events": [],
+        "works": [
+          "Depressive Illness: The Curse of the Strong"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He graduated among the top 50 Hong Kong students by citywide exam results and later completed Cambridge with perfect grades.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "High expectations led to low resilience; early losses produced negative self-talk because he had little experience being repeatedly wrong.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Structured academic achievement did not prepare him for trading\u2019s unstructured environment and probabilistic feedback.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-051",
+      "text": "Losing his Goldman trading book became a turning point because reduced P&L pressure let Chiu learn fundamentals, observe other traders, and rebuild from curiosity rather than fear.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "mentorship",
+        "ego_loss",
+        "learning_environment",
+        "process_orientation"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu"
+        ],
+        "places": [
+          "Goldman Sachs",
+          "London"
+        ],
+        "events": [],
+        "works": [
+          "Trading in the Zone"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "In 2010 and 2011 he was down just under $1 million each year while trying many methods without edge.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Goldman merged his book with a senior sugar trader\u2019s book and made him the junior trader, which initially felt humiliating.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Without direct book responsibility, he could absorb commodity fundamentals, historical analogies, spread logic, and trade-review discipline.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-052",
+      "text": "Chiu found a natural fit in calendar spreads and relative value because agricultural annual crop cycles create fundamentally anchored end-game values that outright trades often lack.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "spread_trading",
+        "commodity_fundamentals",
+        "relative_value",
+        "market_structure"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu"
+        ],
+        "places": [
+          "Goldman Sachs"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Annual crops require supply and demand to balance by the end of each crop year, making spread relationships between old crop and new crop contracts analytically tractable.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Markets such as coffee and cocoa have multi-year cycles, allowing imbalances to persist longer and making them less suited to his early framework.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He shifted away from options after concluding that option trading was too difficult a game for his temperament.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-053",
+      "text": "At Vitol, Chiu learned that commodity trading could support far larger risk, but a $10 million soybean meal spread loss taught him the danger of concave trades where potential loss exceeds potential gain.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "asymmetry",
+        "concave_trades",
+        "commodity_arbitrage",
+        "drawdown"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu"
+        ],
+        "places": [
+          "Vitol",
+          "Kansas City",
+          "Chicago"
+        ],
+        "events": [
+          "2016 soybean meal spread loss"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "The profitable 2016 Kansas City wheat versus Chicago wheat spread reached a boundary condition where commercial arbitrage limited further downside.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "The losing soybean meal old crop/new crop spread widened from his short near 14 to about 45 before he exited around 38.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "The soybean meal spread cost roughly $10 million and caused severe emotional stress before he recovered the year to positive P&L.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-054",
+      "text": "Going independent initially made Chiu emphasize convex spread trades with limited downside, but missing the 2019 corn short-spread opportunity revealed that maximizing return/risk had begun to suppress total profits.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "convexity",
+        "opportunity_cost",
+        "rule_revision",
+        "profit_maximization"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu"
+        ],
+        "places": [
+          "Chicago Board of Trade",
+          "Midwest"
+        ],
+        "events": [
+          "2019 corn planting scare",
+          "USDA Crop Production reports"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Convex agricultural bull spreads buy the nearby contract and sell the forward contract near full carry, where downside is limited and upside can be large.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In 2019, after wet Midwest planting fears, USDA reports showed better corn acreage and yield than expected, making the elevated July/December spread an attractive short.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "He skipped the trade because it was concave, then realized his rules were too conservative for his profit goals.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-055",
+      "text": "Chiu reincorporated concave trades by changing the timing rule: do not pick the top, wait for evidence the top is in, and trade closer to expiration when fair value exerts more force.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "timing",
+        "expiration_effects",
+        "conviction_stop",
+        "risk_asymmetry"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu"
+        ],
+        "places": [
+          "Russia",
+          "Ukraine",
+          "Chicago"
+        ],
+        "events": [
+          "2022 Russian invasion of Ukraine"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "After Russia\u2019s 2022 invasion of Ukraine, wheat surged more than 50%, but exports continued and US wheat priced itself out of demand, creating a short May/long July Chicago wheat setup.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He waited for weakness rather than selling the spike, then added as the spread drifted lower toward expiration.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He eventually held about 11,000 spreads; the May/July spread fell from his average near 15 to around -12.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-056",
+      "text": "Cognitive behavioral therapy changed Chiu\u2019s drawdown response by shifting identity from P&L achievement to values of growth, resilience, and courage.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "cognitive_behavioral_therapy",
+        "identity",
+        "emotional_regulation",
+        "resilience"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu",
+          "Charlie Munger"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "A 2021 drawdown exceeding 25% was roughly double any prior percentage drawdown and exposed unresolved emotional difficulty.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "CBT helped him identify the limiting belief that self-worth equaled accumulated achievement, then replace it with values-based identity.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "When I put on a trade, I either make money or learn.",
+          "speaker": "Kelvin Chiu"
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-057",
+      "text": "Chiu uses emotions as information rather than noise, distinguishing destructive fear from signal fear that can warn his subconscious has detected a shift before his conscious analysis catches up.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "intuition",
+        "emotion_as_signal",
+        "journaling",
+        "self_regulation"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu",
+          "George Soros"
+        ],
+        "places": [],
+        "events": [
+          "2023 corn spread loss"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "In a 2023 July/September corn spread, old-crop tightness gave way to new-crop drought fears, producing signal fear that he ignored before losing about 13%.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He reads unusual irritability as a warning that something in a position feels wrong, similar to Soros\u2019s reported backache when uncomfortable.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Exercise, meditation, yoga, ice baths, and journaling help center the emotional pendulum between overconfidence and desperation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-058",
+      "text": "Expanding beyond grains required Chiu to combine fundamentals with technical analysis because outright trades lack the fixed fair-value endpoint that made agricultural spreads easier to risk-manage.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "technical_analysis",
+        "fundamental_analysis",
+        "outright_trading",
+        "exogenous_shocks"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu",
+          "Peter Brandt",
+          "President Trump"
+        ],
+        "places": [],
+        "events": [
+          "COVID-19 pandemic",
+          "Liberation Day tariff announcement"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "For outright trades, technicals drive entry and exit timing, while fundamentals determine conviction and position size.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Fundamentals alone can justify adding to losers even when an exogenous shock such as COVID-19 or tariffs has changed the market.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He learned technical analysis from books, trend-following CTAs, and Peter Brandt\u2019s research.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-059",
+      "text": "Chiu\u2019s mature edge is sizing: hit rate and payoff matter, but the real performance jump comes from going large when conviction, market structure, and timing align.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "position_sizing",
+        "conviction",
+        "expected_value",
+        "dominant_factor"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu",
+          "George Soros",
+          "Stanley Druckenmiller"
+        ],
+        "places": [],
+        "events": [
+          "2023 corn trade"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He frames trading greatness as three variables: hit ratio, power, and sizing, with his edge concentrated in the third.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He explicitly connects this to the Soros-Druckenmiller idea of going for the jugular when the stars align.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "His 2023 corn example shows that even aligned stars can fail if the dominant factor changes, so signal fear and risk caps still matter.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-060",
+      "text": "As his assets grew, Chiu began building a multi-strategy platform because the agricultural spread methods that created financial success do not scale indefinitely.",
+      "chapter": "Kelvin Chiu",
+      "concepts": [
+        "scalability",
+        "multi_strategy",
+        "talent_allocation",
+        "opportunity_search"
+      ],
+      "entities": {
+        "people": [
+          "Kelvin Chiu",
+          "Ken Griffin",
+          "Steve Cohen",
+          "Israel Englander",
+          "Stanley Druckenmiller"
+        ],
+        "places": [
+          "Japan",
+          "China",
+          "India",
+          "Russia",
+          "Singapore"
+        ],
+        "events": [
+          "May 2025 Japanese equity opportunity"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He hired five traders, preferring self-funded traders with ingrained risk management and generalist traders who use technicals for risk control.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In May 2025 he identified Japanese small- and mid-cap equities as a generational opportunity driven by governance reforms, activism, and deep balance-sheet discounts.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He also liked uranium because AI power demand, China and India demand, supply issues, and Russian supply-chain control tightened the market.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-061",
+      "text": "Berry\u2019s early trading success was less about formal knowledge than a natural willingness to cut losers, a reflex he connected to video-game focus and stress handling.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "loss_cutting",
+        "gaming_mindset",
+        "early_edge",
+        "trading_floor_culture"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "LIFFE",
+          "London",
+          "Dublin",
+          "Rhinebeck",
+          "Clark University"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "After a brief LIFFE floor-clerk stint, he traded a breakout system from 2 a.m. to noon and was one of the few traders in the office with positive results.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The system required discretion on whether to take signals and when to exit; Berry\u2019s instinct was to avoid hope and cut losing trades.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "He disliked LIFFE\u2019s floor culture, including elbow trades, ridicule of new clerks, and harassment during exchange tours.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-062",
+      "text": "Berry\u2019s main trading method seeks short-term momentum or relative-value moves during the specific times of day when each market tends to trend rather than chop.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "time_of_day_effects",
+        "momentum",
+        "market_feel",
+        "execution_quality"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Positive Equity",
+          "Croatia",
+          "Dublin"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He monitors many markets but focuses on each only during windows when his experience says momentum setups are more likely.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He wants fantastic fill feeling trades: partial fills or immediate movement in his direction that confirm demand or supply.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He declined to disclose current 90% probability setups because colleagues were sensitive about protecting strategy details.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-063",
+      "text": "Scenario planning gives Berry an advantage in news-driven chaos because he has already mapped probable cross-market reactions before the headline hits.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "scenario_planning",
+        "news_trading",
+        "cross_market_analysis",
+        "preparedness"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry",
+          "President Trump"
+        ],
+        "places": [
+          "European Union",
+          "China",
+          "Taiwan",
+          "Russia",
+          "Ukraine"
+        ],
+        "events": [
+          "Russia-Ukraine war"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He considers advance scenarios such as 50%, 20%, or 10% US tariffs on the EU and their relative effects on bonds, US stocks, and European stocks.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "If the initial reaction is distorted, such as NASDAQ rising more than the S&P despite news being more bullish for the S&P, he can trade the spread.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He also thinks through possible market effects of China attacking Taiwan or the Russia-Ukraine war ending.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-064",
+      "text": "Berry\u2019s daily and monthly reviews convert experience into institutional memory, helping him diagnose whether poor results come from his execution or from a low-opportunity market.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "journaling",
+        "performance_review",
+        "metacognition",
+        "historical_database"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Positive Equity"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Each day he writes what trades he saw, took, missed, how he sized and managed them, and what his psychology was like.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He rereads the report the next morning and reviews the month to find inefficient trading, weak strategies, or needed sizing changes.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He also annotates charts around market-moving news to build a historical archive of market responses.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-065",
+      "text": "Constant innovation is central to Berry\u2019s longevity because short-term edges decay as technology, competition, or market structure changes.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "edge_decay",
+        "innovation",
+        "market_structure",
+        "adaptation"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Helsinki exchange",
+          "Xetra"
+        ],
+        "events": [
+          "2022 Russian invasion of Ukraine"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Obsolete edges included economic-news lag trades between NASDAQ and S&P, Nokia-led FESX trades, and S&P minis versus SPY counterparty tells.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "A VIX order-flow strategy that once produced roughly half his monthly P&L disappeared abruptly when the Ukraine war began in 2022.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He keeps markets on the corner of his screen for months to observe whether new viable strategies emerge.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-066",
+      "text": "Berry\u2019s equity consistency comes from grinding many small, low-risk trades with higher upside than downside rather than from a few large directional bets.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "consistency",
+        "risk_adjusted_returns",
+        "small_edges",
+        "volatility"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [],
+        "events": [
+          "2008 central bank rate cuts"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "Over 14 years he had only five losing months, four of which were trivial; the worst was \u20ac28,073, below his average monthly return.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "A four-central-bank rate-cut day in 2008 produced an exceptional \u20ac160,000-style win, but he describes that as the exception rather than the model.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The more volatile the market, the wider the stop and smaller the size, while the payoff potential increases.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-067",
+      "text": "His reluctance to scale much larger reflects both real capacity limits and a psychological ceiling, showing that smooth returns do not automatically translate into unlimited size.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "capacity_constraints",
+        "scalability",
+        "psychological_limits",
+        "capital_efficiency"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Positive Equity"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "His personal trading allocation was about \u20ac100,000 through 2023 and \u20ac200,000 thereafter, despite extreme percentage returns.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Some strategies have limited available volume, and he shares capacity with other Positive Equity traders he has taught.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Berry acknowledges that not scaling more is a fair criticism and may partly reflect what he believes he deserves.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-068",
+      "text": "Berry\u2019s three Cs - control, consistency, confidence - define both trainee development and his own recovery process after difficult periods.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "training_framework",
+        "risk_control",
+        "confidence",
+        "process_staging"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Positive Equity"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Trainees first aim to control P&L by limiting each trade\u2019s loss; only then can they pursue consistent profits and eventually confidence.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "When Berry loses control of P&L, he quits markets where he lacks control and trades only markets where he can go sideways until consistency returns.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Only after confidence returns does he increase size, seek home-run trades, and expand products.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-069",
+      "text": "Positive Equity\u2019s training model treats trading as a multi-year craft, using simulation, historical event study, risk rules, and self-discovery rather than selling quick riches.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "simulation_training",
+        "historical_perspective",
+        "deliberate_practice",
+        "edge_discovery"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Positive Equity",
+          "Croatia",
+          "Dublin"
+        ],
+        "events": [
+          "nonfarm payroll releases"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "Training typically lasts two to three years, with simulation often lasting nine to 18 months before live trading.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Trainees study how markets responded to nonfarm payrolls, inflation, rates, and historical shocks, then analyze their own simulated trades daily.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Shared strategy frameworks may account for 30%-40% of a trader\u2019s edge early on, but the rest must come from refinement and experimentation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-070",
+      "text": "Berry believes trader selection depends more on competitive personality, grit, and commitment than on preexisting trading skill, because skills can be taught but personality is harder to change.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "talent_selection",
+        "competitive_drive",
+        "personality_fit",
+        "loss_cutting"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry"
+        ],
+        "places": [
+          "Positive Equity"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "A candidates have succeeded in competitive settings, shown hard work and grit, and demonstrated commitment to a trading career.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "After tightening hiring standards, Positive Equity\u2019s success rate rose; Berry estimates average trainee success above 50%, though bad years may be near 30%.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He sees fear of trading and inability to cut losers early; one rejected trader later reportedly had a \u20ac245,000 losing day elsewhere.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-071",
+      "text": "Berry\u2019s closing caveat is that even an extraordinary track record requires sacrifice, odd hours, stress, and a supportive partner because the market can demand attention at any time.",
+      "chapter": "Jason Berry",
+      "concepts": [
+        "sacrifice",
+        "stress",
+        "career_longevity",
+        "market_dependence"
+      ],
+      "entities": {
+        "people": [
+          "Jason Berry",
+          "Vladimir Putin",
+          "President Trump"
+        ],
+        "places": [
+          "Ukraine"
+        ],
+        "events": [
+          "Russia-Ukraine war"
+        ],
+        "works": [
+          "Reminiscences of a Stock Operator"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He cites Putin attacking Ukraine in the middle of the night and Trump\u2019s market-moving posts near bedtime or waking hours as examples of the market\u2019s schedule.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He argues traders do not age out, they effort out, because staying in tune requires continuous screen time and adaptation.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He has nearly passed out from loss stress despite having no major losing periods in the formal record.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-072",
+      "text": "Sharkness entered trading through SMB\u2019s paid program with little market knowledge, but gaming habits, parental support, and a collaborative prop environment gave him enough runway to learn.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "prop_trading",
+        "mentorship",
+        "gaming_mindset",
+        "training_environment"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Gilberto Mendez"
+        ],
+        "places": [
+          "Ithaca College",
+          "Hoboken",
+          "SMB Capital",
+          "Kershner"
+        ],
+        "events": [],
+        "works": [
+          "Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "The SMB training program cost around $6,000, and he relied on his parents for living expenses while he trained.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The program taught basics, demo trading, and then small real trades, but collaboration and access to successful traders mattered more than the formal curriculum.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Gilberto Mendez, then SMB\u2019s top trader, taught him risk management, classic chart patterns, and the habit of checking multiple time frames.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-073",
+      "text": "His early profitability came from high-volume breakouts and parabolic shorts that fit his impatience because trades either worked quickly or were cut with very tight stops.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "breakout_trading",
+        "mean_reversion",
+        "tight_stops",
+        "impatience"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Peter To"
+        ],
+        "places": [
+          "SMB Capital"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He traded stocks moving a lot on high volume, using tick and intraday charts, with the expectation that valid breakouts should show profit almost immediately.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "For parabolic shorts, he looked for extreme daily moves but intraday reversal signals such as a fall below VWAP after moving more than one ADTR above it.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He became profitable after about 10 months, but his first profitable year was only about $40,000.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-074",
+      "text": "The SMB-Kershner merger changed Sharkness\u2019s beliefs about scale because seeing traders make $25,000-$50,000 a day expanded his view of what was possible.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "limiting_beliefs",
+        "social_learning",
+        "strategy_expansion",
+        "scaling"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Gilberto Mendez"
+        ],
+        "places": [
+          "SMB Capital",
+          "Kershner"
+        ],
+        "events": [
+          "SMB-Kershner merger"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Before the merger, he thought Mendez making about $2,000 a day was extraordinary; Kershner traders showed a much higher ceiling.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Trade-execution sharing let him study larger traders\u2019 actual orders and absorb strategies with more scaling potential.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He learned index rebalance trades, IPO open trades, end-of-day imbalances, news trades, and quick fades of unsupported early spikes.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-075",
+      "text": "Sharkness\u2019s multi-strategy, multi-timeframe style is unusual among great traders, but it fits his multitasking personality and is controlled by sizing rather than equal commitment to every idea.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "multitasking",
+        "position_sizing",
+        "opportunity_concentration",
+        "personality_fit"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness"
+        ],
+        "places": [
+          "SMB Capital"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He may monitor many strategies simultaneously, but usually only one has major size and therefore drives the year.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He estimates that perhaps 80% or more of profits come from trades where he deliberately sizes up.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He admits most profits in any year often come from only five or six trading days, so much activity is preparation or entertainment rather than direct profit.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-076",
+      "text": "Journaling gives Sharkness a mechanism for constant change by turning best trades, worst trades, mood, and execution errors into weekly and monthly process goals.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "journaling",
+        "process_goals",
+        "trading_psychology",
+        "self_improvement"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Mike Bellafiore",
+          "Dr. Brett Steenbarger"
+        ],
+        "places": [
+          "SMB Capital"
+        ],
+        "events": [],
+        "works": [
+          "Trading in the Zone"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "He uses Mike Bellafiore\u2019s playbook idea for the best trade each day and an anti-playbook for the worst trade.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Weekly and monthly reviews identify recurring mistakes such as overeagerness, exiting winners too soon, or taking trades without enough opportunity.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Work with Dr. Brett Steenbarger helped him address impatience, size up better setups, and focus on strengths as well as weaknesses.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-077",
+      "text": "Sharkness avoids rigid monetary targets because the market controls opportunity, but he uses motivational goals to push process improvement without forcing trades in bad regimes.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "goal_setting",
+        "process_orientation",
+        "market_opportunity",
+        "overtrading"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness"
+        ],
+        "places": [],
+        "events": [
+          "2022 drawdown",
+          "2020-2021 bull market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "He distinguishes annual dollar targets that can distort decisions from long-term motivational visions such as becoming one of the best traders.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Process goals can be concrete, such as pausing before exiting winners or checking whether a day truly offers his setups.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "The 2022 drawdown partly came from trying to maintain 2020-2021-style performance when the market stopped providing follow-through.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-078",
+      "text": "His losses in KBIO, AMC, and 2022 show different failure modes: adding to a losing squeeze, enduring large mark-to-market pain, and failing to adapt when follow-through disappears.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "short_squeeze",
+        "drawdown_recovery",
+        "regime_change",
+        "loss_avoidance"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Martin Shkreli",
+          "Andy Kershner"
+        ],
+        "places": [],
+        "events": [
+          "KBIO short squeeze",
+          "AMC 2020 rally",
+          "2022 bear market"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "KBIO rose after Martin Shkreli\u2019s reverse-merger plan, and Sharkness made the cardinal sin of adding to a losing short before losing about $150,000.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He was down about $3 million on an AMC short in 2020 before the stock collapsed and he made the money back.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "In 2022 he repeatedly took small losses in a market where stocks popped one day and failed the next, then cut size until consistency returned.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-079",
+      "text": "As his account grew, Sharkness adapted parabolic-short ideas with options and stock combinations so he could manage timing risk, volatility risk, and defined loss more flexibly.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "options_strategy",
+        "volatility",
+        "defined_risk",
+        "dynamic_hedging"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness"
+        ],
+        "places": [],
+        "events": [
+          "CRWV 2025 rally",
+          "SMCI 2024 trade"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "In CRWV he bought out-of-the-money calls while expecting a possible squeeze toward $200, planning to use profits and long-call protection before going net short.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He buys calls when volatility is cheaper, rolls them up after gains, and may sell puts after implied volatility spikes to offset long-volatility exposure.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "SMCI was his best 2024 trade: he initially made money on calls, lost some on early shorts, and eventually made most profits when the short worked.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-080",
+      "text": "Sharkness increasingly combines fundamentals, catalysts, sentiment, and technical timing because larger positions and longer holding periods require more than micro price action.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "catalyst_investing",
+        "fundamental_analysis",
+        "technical_timing",
+        "sentiment"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "President Trump"
+        ],
+        "places": [
+          "SMB Capital",
+          "Kershner"
+        ],
+        "events": [
+          "2025 tariff selloff"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Liquidia became a longer-term position after he researched its hypertension drug, competitor pressure, and legal commentary.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "The 2025 post-tariff selloff bounce was driven by panic after President Trump\u2019s tariff announcement, even though many stocks selling off were not directly harmed by tariffs.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Fundamentals identify catalysts and larger opportunities; technical analysis still times entries, exits, and position adjustments.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-081",
+      "text": "Collaboration remains a core edge for Sharkness because a team of traders expands idea coverage, challenges his process, and helps replace old strategies with new ones.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "collaboration",
+        "mentorship",
+        "idea_generation",
+        "team_learning"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Lance Breitstein"
+        ],
+        "places": [
+          "SMB Capital",
+          "Kershner"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He trains five or six traders, shares his rationale, and encourages independent thought rather than strict copying.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Mentees sometimes improve his process by asking why he did not add at a point that would have increased profits.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "He argues it is hard to be a lone wolf because no single trader has enough bandwidth to see every catalyst, chart, or theme.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-082",
+      "text": "Sharkness\u2019s advice is to start slowly, prove edge statistically and experientially, fit method to personality, and learn near exceptional traders who expand what one believes is possible.",
+      "chapter": "Kenny Sharkness",
+      "concepts": [
+        "mentor_selection",
+        "edge_validation",
+        "personality_fit",
+        "skill_development"
+      ],
+      "entities": {
+        "people": [
+          "Kenny Sharkness",
+          "Barry Ritholtz"
+        ],
+        "places": [
+          "SMB Capital"
+        ],
+        "events": [],
+        "works": [
+          "Masters in Business"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "New traders should trade small until they can consistently make money, because early size without edge converts learning into financial damage.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He recommends finding a mentor whose trading style aligns with the trader\u2019s personality rather than copying an incompatible method.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He believes many traders can become marginally profitable with enough work, but only a small subset have the information-processing traits for Market Wizard-level results.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-083",
+      "text": "Bandazian discovered his niche after a conventional event-driven analyst career when two fast headline trades revealed that his knowledge of corporate events could translate into direct P&L.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "career_path",
+        "event_driven_trading",
+        "opportunity_discovery",
+        "specialization"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr.",
+          "Jimmy Lee",
+          "Steve Heinemann"
+        ],
+        "places": [
+          "Fordham University",
+          "J.P. Morgan",
+          "Deutsche Bank",
+          "First New York Securities",
+          "National Bank of Canada"
+        ],
+        "events": [
+          "2008 financial crisis"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Before trading his own pad, he worked in syndicated finance at J.P. Morgan, equity capital markets, event-driven analysis, a hedge fund, and merger arbitrage.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "At First New York, he bought stocks within seconds of takeover-talk headlines and made months of former salary in minutes.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Those trades convinced him to stop middling event-driven portfolio ideas and focus on trading headlines and announcements.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-084",
+      "text": "His modern edge is not beating bots on simple headlines but interpreting nuanced deal information that requires prior research, legal context, and scenario-specific fair value.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "information_edge",
+        "deal_arbitrage",
+        "human_judgment",
+        "preparation"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr."
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He tracks 75 to 100 announced deals, asks what the next catalyst could be, and preplans how he will trade different possible releases.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Bots dominate one-line simple headlines, but they can misread SEC filings, stale news, regulatory details, or deal structures with multiple contingencies.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He has read merger agreements and proxy statements for nearly 20 years, giving him pattern recognition in deal mechanics.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-085",
+      "text": "Bandazian\u2019s risk aversion is the foundation of his no-down-month record because he uses both price stops and time stops that reflect how quickly his edge decays after news becomes widely known.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "risk_aversion",
+        "time_stop",
+        "loss_cutting",
+        "consistency"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr."
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He funded the original account with $25,000, withdrew millions over time, and recorded no down months over 11 years.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "A typical hard P&L stop is one unit, about $2,500; if a trade is not working after one to four minutes, he exits.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "Winners average around five minutes, losers are shorter, and about 85% of trades are winners or breakeven.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-086",
+      "text": "The bot-driven erosion of simple headline trading between 2016 and 2018 forced Bandazian to adapt toward situations where the market\u2019s first reaction is wrong, stale, or incomplete.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "edge_decay",
+        "market_microstructure",
+        "execution_control",
+        "adaptive_strategy"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr."
+        ],
+        "places": [
+          "European Union",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He reviews time and sales after missed or bad trades to determine whether someone got the information earlier and how price moved before Bloomberg carried the news.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "A headline about EU approval for a merger can be positive but irrelevant if US approval remains the binding obstacle; he may short the mistaken rally.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "He uses hotkeys with bid-plus limits rather than market orders, capping how far through the offer he will pay.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-087",
+      "text": "The Whitestone REIT trade illustrates how local legal structure and company history can beat a surface-level takeover interpretation.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "legal_context",
+        "activism",
+        "mispricing",
+        "event_reaction"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr."
+        ],
+        "places": [
+          "Maryland",
+          "Delaware"
+        ],
+        "events": [
+          "2024 Whitestone REIT activist interest"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "When a REIT-focused private equity firm bid $14 for WSR, the stock rallied and Bandazian shorted the move.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "His research showed WSR was incorporated in Maryland, where management could more easily reject activists, and had a history of ignoring bids.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "Within roughly 20 or 30 minutes, the market recognized the bid\u2019s weakness and the stock came back down.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-088",
+      "text": "The Twitter, Foot Locker, and Cigna-Humana examples show that Bandazian\u2019s profits come from knowing in advance what a release should mean and where the stock should trade.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "scenario_analysis",
+        "fair_value",
+        "sec_filings",
+        "deal_complexity"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr.",
+          "Elon Musk"
+        ],
+        "places": [],
+        "events": [
+          "Twitter 2022 13D filing",
+          "Foot Locker-Dick\u2019s Sporting Goods May 2025 deal",
+          "Cigna-Humana 2024 merger discussions"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "After Elon Musk\u2019s 13D on Twitter, Bandazian bought before the broader market digested the filing and offered stock near his estimated 10% discount to the bid.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In the Dick\u2019s Sporting Goods-Foot Locker deal, he recognized a buried cash-or-stock election detail that allowed FL to trade differently than a generic model implied.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "When Cigna said there would be no Humana deal, he shorted HUM based on his fair value estimate and the release.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-089",
+      "text": "Bandazian\u2019s process is labor-intensive because the edge requires being at the screen before, during, and after regular market hours, when many nuanced opportunities appear.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "vigilance",
+        "work_routine",
+        "pre_market_trading",
+        "attention"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr."
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "In recent years about two-thirds of his trading has occurred outside regular stock market hours.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "He checks news at 3:45 a.m., returns by 5:45 a.m. after the gym when possible, watches all day, and often reviews again from 7 p.m. to 8 p.m.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Alerts and scanners monitor companies on his list so he can run back to the desk if a release hits after hours.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-090",
+      "text": "The strategy does not scale much because the edge decays within minutes, many stocks lack depth, and Bandazian\u2019s own comfort with size is intentionally limited.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "scalability",
+        "liquidity",
+        "risk_tolerance",
+        "capacity_constraints"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr.",
+          "Peter Brandt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Unknown Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "He often needs to be first or among the first; adding too much size worsens execution and may exhaust the available liquidity.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "He could buy 200,000 shares of a liquid event stock like Intel, but his risk tolerance would more likely limit him to 20,000.",
+          "speaker": null
+        },
+        {
+          "type": "number",
+          "text": "He estimates a less risk-averse version of himself might make three or four times more, but he is not comfortable trading that way.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-091",
+      "text": "Bandazian\u2019s volunteer firefighting reveals a parallel ethic of service and quick action, but it also underscores that his trading style requires positions short enough to abandon the screen when life demands it.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "service",
+        "work_life_tradeoff",
+        "short_holding_period",
+        "risk_response"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr."
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "He has served as a volunteer firefighter for about 10 years.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Because most trades last minutes, he can exit if a life-or-death call comes in, while ignoring less urgent calls if a release is imminent.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "The firehouse provides communal purpose, while trading requires solitary concentration and strict attention to alerts.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-092",
+      "text": "Bandazian is trying to build a more sustainable and scalable semi-systematic macro strategy because his current edge may eventually be automated and his 16-hour workdays are hard to maintain.",
+      "chapter": "Rick Bandazian Jr.",
+      "concepts": [
+        "sustainability",
+        "automation_risk",
+        "macro_strategy",
+        "personality_fit"
+      ],
+      "entities": {
+        "people": [
+          "Rick Bandazian Jr.",
+          "Jason Shapiro",
+          "Jerome Powell"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Unknown Market Wizards",
+          "Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Jason Shapiro\u2019s interview in Unknown Market Wizards catalyzed his work on an offsides-positioning macro strategy.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "He expects algorithms may eventually encroach on even his current nuanced niche.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "His advice to new traders is to find a method that fits personality and to do something different from the crowd rather than compete in the most crowded obvious macro debates.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-093",
+      "text": "The Saint Peter speculator story frames markets as an arena where greed and FOMO can overpower reason even when the trader knows the rumor is self-created.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "fomo",
+        "self_deception",
+        "market_psychology",
+        "emotion_control"
+      ],
+      "entities": {
+        "people": [
+          "Saint Peter"
+        ],
+        "places": [
+          "heaven",
+          "hell"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "The speculator empties heaven\u2019s speculator section by shouting that tomorrow\u2019s closing prices are available in hell, then follows the crowd because the rumor might be true.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The fable turns self-deception into the core emotional hazard: traders can know better and still chase what they know is irrational.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-094",
+      "text": "Russo\u2019s Carvana loss illustrates the epilogue\u2019s central risk lesson: an emotional trade can be disastrous, but returning to rules can still prevent ruin.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "rule_adherence",
+        "emotional_trading",
+        "catastrophic_risk",
+        "loss_cutting"
+      ],
+      "entities": {
+        "people": [
+          "Simon Russo"
+        ],
+        "places": [],
+        "events": [
+          "Carvana earnings gap"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Russo went heavily short Carvana without his normal conditions and suffered a $50 million loss after bullish earnings.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Liquidating the position saved him because continuing to ignore his rules would have increased the loss manyfold and potentially wiped out the account.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-095",
+      "text": "Becoming a Market Wizard is limited by two filters: innate talent and emotional makeup on one side, and an extraordinary willingness to sacrifice time, energy, and other interests on the other.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "talent",
+        "sacrifice",
+        "mastery",
+        "career_selection"
+      ],
+      "entities": {
+        "people": [
+          "Jack D. Schwager",
+          "George F. Coyle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "The authors compare trading talent to elite athletic genes and skill: desire alone does not make someone world-class.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The traders in the book commit full-time, often spending market hours glued to screens and off-hours on research, review, and preparation.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "The authors explicitly say pursuing such a path is not advisable unless it reflects an innate desire and compulsion.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-096",
+      "text": "The book rejects the fantasy of quick and easy market wealth because the profiled traders love the craft itself, not merely the money trading can produce.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "intrinsic_motivation",
+        "craft",
+        "hard_work",
+        "realistic_expectations"
+      ],
+      "entities": {
+        "people": [
+          "Jack D. Schwager",
+          "George F. Coyle"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "For these traders, research, watching markets, and refining process are not chores but activities they enjoy enough to repeat for years.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Many people want the fortune of a Market Wizard without wanting the emotionally draining, all-consuming life required to earn it.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "The epilogue distinguishes a passion for trading from a desire to make a fast fortune.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-097",
+      "text": "Schwager uses his own life as a counterexample: he wanted to be a successful writer more than a trader, and his actions revealed that preference more clearly than his stated ambitions.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "revealed_preference",
+        "self_knowledge",
+        "commitment",
+        "vocational_fit"
+      ],
+      "entities": {
+        "people": [
+          "Jack D. Schwager",
+          "Ed Seykota"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "A Complete Guide to the Futures Markets",
+          "Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "He took a year\u2019s sabbatical to write A Complete Guide to the Futures Markets, but never devoted even a week to being a full-time trader.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The contrast shows that true desire is revealed by sustained commitment, not by wishing for an outcome.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "He connects this to Ed Seykota\u2019s statement that everyone gets what they want out of the markets.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-098",
+      "text": "The final instruction to readers is introspective rather than prescriptive: determine what role markets should play in one\u2019s own life, whether wizardry, profitable hobby, or simply lessons for better decision-making.",
+      "chapter": "Epilogue",
+      "concepts": [
+        "introspection",
+        "goal_alignment",
+        "individual_path",
+        "decision_making"
+      ],
+      "entities": {
+        "people": [
+          "Jack D. Schwager",
+          "George F. Coyle"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Market Wizards"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "The book\u2019s lessons are meant to help readers move toward their own market goals, not to guarantee that copying any trader will create similar results.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Some readers may be suited to attempt Market Wizard-level commitment; others may be better served by trading as a hobby or avoiding active trading entirely.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "market-wizards-the-next-generation-ch-001",
+      "title": "Kristjan Kullam\u00e4gi",
+      "summary": "Kullam\u00e4gi\u2019s path shows how a simple, rules-based methodology can produce extraordinary returns when it is paired with obsessive study, volatility-seeking, and strict risk limits. His worst losses came not from the setups themselves but from abandoning the market-environment filters and discipline that made the setups work.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-001",
+        "market-wizards-the-next-generation-002",
+        "market-wizards-the-next-generation-003",
+        "market-wizards-the-next-generation-004",
+        "market-wizards-the-next-generation-005",
+        "market-wizards-the-next-generation-006",
+        "market-wizards-the-next-generation-007",
+        "market-wizards-the-next-generation-008",
+        "market-wizards-the-next-generation-009",
+        "market-wizards-the-next-generation-010"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-002",
+      "title": "Lance Breitstein",
+      "summary": "Breitstein\u2019s chapter explains how intense process focus, mentorship, speed, and nuanced pattern recognition can make day trading viable for an exceptional trader, while also showing why scalability and health ultimately pushed him toward longer holding periods and a life beyond trading. His career turns on the distinction between high-probability short-term edge and the larger dollar opportunity of playing the right game.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-011",
+        "market-wizards-the-next-generation-012",
+        "market-wizards-the-next-generation-013",
+        "market-wizards-the-next-generation-014",
+        "market-wizards-the-next-generation-015",
+        "market-wizards-the-next-generation-016",
+        "market-wizards-the-next-generation-017",
+        "market-wizards-the-next-generation-018",
+        "market-wizards-the-next-generation-019",
+        "market-wizards-the-next-generation-020"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-003",
+      "title": "Simon Russo",
+      "summary": "Russo\u2019s chapter is a study in extreme mastery: the same focus, calm, and obsessive research that made him one of the most successful traders in the book also coexisted with catastrophic lapses whenever he ignored risk controls and selection rules. His success depends on waiting for obvious A-plus asymmetric opportunities, but his failures show that tiny rule violations can snowball into existential risk.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-021",
+        "market-wizards-the-next-generation-022",
+        "market-wizards-the-next-generation-023",
+        "market-wizards-the-next-generation-024",
+        "market-wizards-the-next-generation-025",
+        "market-wizards-the-next-generation-026",
+        "market-wizards-the-next-generation-027",
+        "market-wizards-the-next-generation-028",
+        "market-wizards-the-next-generation-029",
+        "market-wizards-the-next-generation-030"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-004",
+      "title": "Lukas Fr\u00f6hlich",
+      "summary": "Fr\u00f6hlich\u2019s chapter argues that trading success can require radical strategic metamorphosis as account size, market opportunity, and personal objectives change. His evolution from hyper-leveraged teenage blowups to small-cap shorts, mid-cap bubble longs, and contrarian long-term investing is held together by research, risk rules, and a willingness to stop using a strategy when its environment disappears.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-031",
+        "market-wizards-the-next-generation-032",
+        "market-wizards-the-next-generation-033",
+        "market-wizards-the-next-generation-034",
+        "market-wizards-the-next-generation-035",
+        "market-wizards-the-next-generation-036",
+        "market-wizards-the-next-generation-037",
+        "market-wizards-the-next-generation-038",
+        "market-wizards-the-next-generation-039",
+        "market-wizards-the-next-generation-040"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-005",
+      "title": "Phil Goedeker",
+      "summary": "Goedeker\u2019s chapter shows how an impatient trader can build a durable career by choosing methods that fit impatience while imposing almost reflexive loss cutting. His short-selling and option-selling success depends less on the generic strategies than on waiting for rare A-plus setups, sizing them differently, and eliminating trades that might produce a career-ending loss.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-041",
+        "market-wizards-the-next-generation-042",
+        "market-wizards-the-next-generation-043",
+        "market-wizards-the-next-generation-044",
+        "market-wizards-the-next-generation-045",
+        "market-wizards-the-next-generation-046",
+        "market-wizards-the-next-generation-047",
+        "market-wizards-the-next-generation-048",
+        "market-wizards-the-next-generation-049"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-006",
+      "title": "Kelvin Chiu",
+      "summary": "Chiu\u2019s chapter explains how a trader can evolve from fragile academic perfectionism into a high-return risk taker by reframing losses, studying market history, and learning when both positive and negative asymmetric trades are justified. His central edge shifts from commodity-spread structure to timing, sizing, emotional awareness, and the courage to act when conviction is highest.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-050",
+        "market-wizards-the-next-generation-051",
+        "market-wizards-the-next-generation-052",
+        "market-wizards-the-next-generation-053",
+        "market-wizards-the-next-generation-054",
+        "market-wizards-the-next-generation-055",
+        "market-wizards-the-next-generation-056",
+        "market-wizards-the-next-generation-057",
+        "market-wizards-the-next-generation-058",
+        "market-wizards-the-next-generation-059",
+        "market-wizards-the-next-generation-060"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-007",
+      "title": "Jason Berry",
+      "summary": "Berry\u2019s chapter shows that extreme consistency can come from very short-term edges, rigorous loss cutting, and constant innovation rather than from large directional bets. His process combines time-of-day knowledge, spread trading, scenario preparation, daily review, and a training culture built to replace eroding edges before they disappear.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-061",
+        "market-wizards-the-next-generation-062",
+        "market-wizards-the-next-generation-063",
+        "market-wizards-the-next-generation-064",
+        "market-wizards-the-next-generation-065",
+        "market-wizards-the-next-generation-066",
+        "market-wizards-the-next-generation-067",
+        "market-wizards-the-next-generation-068",
+        "market-wizards-the-next-generation-069",
+        "market-wizards-the-next-generation-070",
+        "market-wizards-the-next-generation-071"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-008",
+      "title": "Kenny Sharkness",
+      "summary": "Sharkness\u2019s chapter argues that constant change can be a strength when it is disciplined by journaling, collaboration, sizing, and personality fit. His many strategies across time frames work because he sizes only the best opportunities meaningfully, adapts to market regimes, and keeps learning from other traders rather than becoming attached to one static edge.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-072",
+        "market-wizards-the-next-generation-073",
+        "market-wizards-the-next-generation-074",
+        "market-wizards-the-next-generation-075",
+        "market-wizards-the-next-generation-076",
+        "market-wizards-the-next-generation-077",
+        "market-wizards-the-next-generation-078",
+        "market-wizards-the-next-generation-079",
+        "market-wizards-the-next-generation-080",
+        "market-wizards-the-next-generation-081",
+        "market-wizards-the-next-generation-082"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-009",
+      "title": "Rick Bandazian Jr.",
+      "summary": "Bandazian\u2019s chapter shows that even in markets dominated by bots, a human can still exploit niche event-driven inefficiencies when nuance, preparation, and speed matter more than raw headline reaction. His extraordinary consistency comes from extreme risk aversion, very short holding periods, time stops, and exhaustive deal-specific preparation, but the cost is near-constant vigilance.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-083",
+        "market-wizards-the-next-generation-084",
+        "market-wizards-the-next-generation-085",
+        "market-wizards-the-next-generation-086",
+        "market-wizards-the-next-generation-087",
+        "market-wizards-the-next-generation-088",
+        "market-wizards-the-next-generation-089",
+        "market-wizards-the-next-generation-090",
+        "market-wizards-the-next-generation-091",
+        "market-wizards-the-next-generation-092"
+      ]
+    },
+    {
+      "id": "market-wizards-the-next-generation-ch-010",
+      "title": "Epilogue",
+      "summary": "The epilogue distills the book into a warning that markets exploit ordinary human emotion, and that exceptional performance requires both systems to control those emotions and rare personal traits that most people do not possess. It closes by urging readers to decide what they truly want from markets rather than confusing admiration for Market Wizards with a realistic desire to live their lives.",
+      "claim_ids": [
+        "market-wizards-the-next-generation-093",
+        "market-wizards-the-next-generation-094",
+        "market-wizards-the-next-generation-095",
+        "market-wizards-the-next-generation-096",
+        "market-wizards-the-next-generation-097",
+        "market-wizards-the-next-generation-098"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 98,
+    "chapter_count": 10,
+    "indexed_at": "2026-07-02T17:37:24.721204Z"
+  }
+}

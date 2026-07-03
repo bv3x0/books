@@ -132,6 +132,9 @@ class Exporter:
             log.error("Exporter: No valid data to export")
             return None, None
 
+        self._apply_source_metadata(unified_data, results)
+        self._preserve_existing_collections(unified_data)
+
         # Add processing metadata
         unified_data["metadata"] = {
             "processed_at": datetime.utcnow().isoformat() + "Z",
@@ -225,6 +228,71 @@ class Exporter:
             f"Exporter: Merged {len(merged['chapters'])} total chapters (after deduplication)"
         )
         return merged
+
+    def _apply_source_metadata(self, data: dict, results: list) -> None:
+        """Override model-derived book metadata with deterministic source metadata."""
+        source_metadata = {}
+        for result in results:
+            file_metadata = result.get("file_metadata") or {}
+            candidate = file_metadata.get("source_metadata") or {}
+            for key in ("title", "author", "year"):
+                if not source_metadata.get(key) and candidate.get(key):
+                    source_metadata[key] = candidate[key]
+
+        if not source_metadata:
+            return
+
+        book = data.setdefault("book", {})
+        updated = []
+        for key in ("title", "author", "year"):
+            value = source_metadata.get(key)
+            if value:
+                book[key] = value
+                updated.append(key)
+
+        if updated:
+            log.info(
+                "Exporter: Applied source metadata for "
+                + ", ".join(sorted(updated))
+            )
+
+    def _preserve_existing_collections(self, data: dict) -> None:
+        """Carry forward curated collections when overwriting an existing note."""
+        book = data.setdefault("book", {})
+        if book.get("collections"):
+            return
+
+        collections = self._extract_existing_collections()
+        if collections:
+            book["collections"] = collections
+            log.info(
+                f"Exporter: Preserved existing collections: {', '.join(collections)}"
+            )
+
+    def _extract_existing_collections(self) -> list[str]:
+        if self.notes_suffix:
+            path = os.path.join(NOTES_DIR, f"{self.book_name}{self.notes_suffix}.md")
+        else:
+            path = get_notes_path(self.book_name)
+
+        if not os.path.exists(path):
+            return []
+
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                content = f.read()
+        except OSError:
+            return []
+
+        match = re.search(r"^- Collections:\s*(.+?)\s*$", content, re.MULTILINE)
+        if not match:
+            return []
+
+        return [
+            item.strip()
+            for item in match.group(1).split(",")
+            if item.strip()
+        ]
 
     def _normalize_concepts(self, data: dict) -> None:
         """Normalize all concept tags against the registry."""
@@ -453,6 +521,8 @@ class Exporter:
         if book.get("author"):
             lines.append(f"- Author: {book['author']}")
         lines.append(f"- Year: {book.get('year') or ''}")
+        if book.get("collections"):
+            lines.append(f"- Collections: {', '.join(book['collections'])}")
         lines.append(
             f"- Mode: {data.get('metadata', {}).get('mode', self.summary_mode)}"
         )
@@ -570,6 +640,7 @@ class Exporter:
                 "author": book.get("author"),
                 "year": book.get("year"),
                 "categories": validate_categories(book.get("categories", [])),
+                "collections": book.get("collections", []),
                 "thesis": book.get("thesis", ""),
             },
             "claims": claims,
@@ -654,9 +725,14 @@ class Exporter:
         if isinstance(sub_point, dict):
             text = self._truncate_text(sub_point.get("text", ""))
             speaker = (sub_point.get("speaker") or "").strip()
+            evidence_type = (sub_point.get("type") or "").strip()
             if text and speaker:
-                return f'"{text}" —{speaker}'
-            return text
+                formatted = f'"{text}" —{speaker}'
+            else:
+                formatted = text
+            if formatted and evidence_type:
+                return f"{evidence_type}: {formatted}"
+            return formatted
         if isinstance(sub_point, str):
             return self._truncate_text(sub_point)
         return self._truncate_text(str(sub_point))

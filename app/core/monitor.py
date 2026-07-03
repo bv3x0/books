@@ -1,13 +1,15 @@
 import time
 import json
 import os
+import subprocess
+import tempfile
 import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import urllib.parse
 import urllib.request
 import urllib.error
 from app.logger import log
-from app.config import INGEST_CONCURRENCY
+from app.config import BASE_DIR, INGEST_CONCURRENCY
 
 
 class JSONValidationError(Exception):
@@ -54,6 +56,8 @@ class Monitor:
             return "Gemini API"
         if self.provider == "openai":
             return "OpenAI Responses API"
+        if self.provider == "codex":
+            return "Codex CLI"
         return "Claude API"
 
     def _flatten_text_request(self, req_data: dict) -> str:
@@ -103,11 +107,245 @@ class Monitor:
 
         return text
 
+    @staticmethod
+    def _codex_output_schema() -> dict:
+        """Return a strict schema for Codex's final JSON summary object."""
+        return {
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "type": "object",
+            "required": ["book", "chapters"],
+            "additionalProperties": False,
+            "properties": {
+                "book": {
+                    "type": "object",
+                    "required": [
+                        "title",
+                        "author",
+                        "year",
+                        "thesis",
+                        "topics",
+                        "categories",
+                    ],
+                    "additionalProperties": False,
+                    "properties": {
+                        "title": {"type": "string"},
+                        "author": {"type": ["string", "null"]},
+                        "year": {"type": ["number", "null"]},
+                        "thesis": {"type": ["string", "null"]},
+                        "topics": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                        },
+                        "categories": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                        },
+                    },
+                },
+                "chapters": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "part",
+                            "title",
+                            "summary",
+                            "pull_quote",
+                            "key_points",
+                        ],
+                        "additionalProperties": False,
+                        "properties": {
+                            "part": {"type": ["string", "null"]},
+                            "title": {"type": "string"},
+                            "summary": {"type": ["string", "null"]},
+                            "pull_quote": {"type": ["string", "null"]},
+                            "key_points": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "required": [
+                                        "point",
+                                        "sub_points",
+                                        "concepts",
+                                        "entities",
+                                    ],
+                                    "additionalProperties": False,
+                                    "properties": {
+                                        "point": {"type": "string"},
+                                        "sub_points": {
+                                            "type": "array",
+                                            "items": {
+                                                "type": "object",
+                                                "required": ["type", "text", "speaker"],
+                                                "additionalProperties": False,
+                                                "properties": {
+                                                    "type": {
+                                                        "type": "string",
+                                                        "enum": [
+                                                            "example",
+                                                            "number",
+                                                            "mechanism",
+                                                            "quote",
+                                                            "contrast",
+                                                            "caveat",
+                                                            "source_detail",
+                                                        ],
+                                                    },
+                                                    "text": {"type": "string"},
+                                                    "speaker": {
+                                                        "type": ["string", "null"]
+                                                    },
+                                                },
+                                            },
+                                        },
+                                        "concepts": {
+                                            "type": "array",
+                                            "items": {"type": "string"},
+                                        },
+                                        "entities": {
+                                            "type": "object",
+                                            "required": [
+                                                "people",
+                                                "places",
+                                                "events",
+                                                "works",
+                                            ],
+                                            "additionalProperties": False,
+                                            "properties": {
+                                                "people": {
+                                                    "type": "array",
+                                                    "items": {"type": "string"},
+                                                },
+                                                "places": {
+                                                    "type": "array",
+                                                    "items": {"type": "string"},
+                                                },
+                                                "events": {
+                                                    "type": "array",
+                                                    "items": {"type": "string"},
+                                                },
+                                                "works": {
+                                                    "type": "array",
+                                                    "items": {"type": "string"},
+                                                },
+                                            },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                    },
+                },
+            },
+        }
+
+    @staticmethod
+    def _tail_text(text: str, limit: int = 2000) -> str:
+        text = (text or "").strip()
+        if len(text) <= limit:
+            return text
+        return text[-limit:]
+
+    def _call_codex(self, req_data: dict, chapter_num: int, total: int, retry_msg: str) -> tuple[str, dict]:
+        """Call local Codex exec as a structured-output summarization backend."""
+        prompt_content = self._flatten_text_request(req_data)
+        if not prompt_content:
+            raise ValueError(
+                "Codex mode only supports text inputs. "
+                "If this is a scanned PDF, rerun with --ocr to extract text."
+            )
+
+        api_label = self._api_label()
+        log.info(f"Calling {api_label} for chunk {chapter_num}{retry_msg}...")
+        print(f"⏳ Processing chunk {chapter_num}/{total}{retry_msg} with {api_label}...", flush=True)
+
+        max_tokens = req_data.get("max_tokens")
+        model = req_data["model"]
+        codex_prompt = (
+            "You are running as a non-interactive summarization backend.\n"
+            "Do not run shell commands, inspect local files, or use repository context.\n"
+            "Use only the source material and instructions below.\n"
+            "Return exactly one JSON object matching the requested schema.\n"
+            f"The downstream output budget is about {max_tokens} tokens; treat it as a ceiling, not a target.\n\n"
+            f"{prompt_content}"
+        )
+
+        timeout_seconds = int(os.getenv("SUMMARIZER_CODEX_TIMEOUT_SECONDS", "7200"))
+        with tempfile.TemporaryDirectory(prefix="summarizer-codex-") as temp_dir:
+            schema_path = os.path.join(temp_dir, "summary-schema.json")
+            output_path = os.path.join(temp_dir, "codex-output.json")
+            with open(schema_path, "w", encoding="utf-8") as f:
+                json.dump(self._codex_output_schema(), f)
+
+            cmd = [
+                "codex",
+                "exec",
+                "--model",
+                model,
+                "--sandbox",
+                "read-only",
+                "--ephemeral",
+                "--ignore-rules",
+                "--cd",
+                BASE_DIR,
+                "--output-schema",
+                schema_path,
+                "--output-last-message",
+                output_path,
+                "--color",
+                "never",
+                "-",
+            ]
+            env = os.environ.copy()
+            env.setdefault("NO_COLOR", "1")
+            env.setdefault("CLICOLOR", "0")
+
+            try:
+                result = subprocess.run(
+                    cmd,
+                    input=codex_prompt,
+                    text=True,
+                    capture_output=True,
+                    timeout=timeout_seconds,
+                    cwd=BASE_DIR,
+                    env=env,
+                )
+            except subprocess.TimeoutExpired as e:
+                raise RuntimeError(
+                    f"Codex CLI timed out after {timeout_seconds}s for chunk {chapter_num}"
+                ) from e
+
+            if result.returncode != 0:
+                detail = self._tail_text(result.stderr) or self._tail_text(result.stdout)
+                raise RuntimeError(
+                    f"Codex CLI failed for chunk {chapter_num} with exit code {result.returncode}: {detail}"
+                )
+
+            if not os.path.exists(output_path):
+                detail = self._tail_text(result.stderr) or self._tail_text(result.stdout)
+                raise RuntimeError(
+                    f"Codex CLI did not write an output file for chunk {chapter_num}: {detail}"
+                )
+
+            with open(output_path, "r", encoding="utf-8") as f:
+                response_text = f.read().strip()
+
+            if not response_text:
+                detail = self._tail_text(result.stderr) or self._tail_text(result.stdout)
+                raise RuntimeError(
+                    f"Codex CLI returned empty output for chunk {chapter_num}: {detail}"
+                )
+
+        return response_text, {}
+
     def _call_model(self, req_data: dict, chapter_num: int, total: int, retry_msg: str) -> tuple[str, dict]:
         """
         Call the configured model provider and return (response_text, usage_dict).
         """
         api_label = self._api_label()
+
+        if self.provider == "codex":
+            return self._call_codex(req_data, chapter_num, total, retry_msg)
 
         if self.provider == "gemini":
             prompt_content = self._flatten_text_request(req_data)
@@ -283,6 +521,7 @@ class Monitor:
                             "elapsed_seconds": round(elapsed, 2),
                             "response_length": response_length,
                             "use_unified": True,
+                            "file_metadata": file_metadata,
                             "model": req_data.get("model"),
                             "usage": normalized_usage,
                         }
@@ -324,6 +563,7 @@ class Monitor:
                 retry_count += 1
                 non_retryable = (
                     isinstance(e, ValueError)
+                    or "Codex CLI" in str(e)
                     or "Missing GOOGLE_API_KEY" in str(e)
                     or "Missing OPENAI_API_KEY" in str(e)
                 )

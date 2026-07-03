@@ -11,7 +11,14 @@ import re
 from app.config import INPUT_DIR, BOOKS_DIR
 from app.utils import natural_sort_key
 from app.logger import log
-from app.core.epub_processor import extract_epub_to_markdown, estimate_tokens, extract_toc_from_epub, parse_manual_toc, get_flat_toc
+from app.core.epub_processor import (
+    estimate_tokens,
+    extract_epub_metadata,
+    extract_epub_to_markdown,
+    extract_toc_from_epub,
+    get_flat_toc,
+    parse_manual_toc,
+)
 from app.core.pdf_processor import extract_pdf_to_markdown, prepare_pdf_as_base64, split_pdf_pages
 
 # Standard location for manual TOC file
@@ -180,6 +187,7 @@ class Stager:
 
         # Convert to flat list for backward compatibility (matching, validation)
         toc_flat = get_flat_toc(toc_structured) if toc_structured else []
+        source_metadata = extract_epub_metadata(file_path)
 
         return {
             "text": markdown,
@@ -189,6 +197,7 @@ class Stager:
             "filename": filename,
             "toc": toc_flat,  # Flat list for matching/validation
             "toc_structured": toc_structured,  # Structured list with parts/chapters
+            "source_metadata": source_metadata,
         }
     
     def _prepare_pdf(self, file_path: str, filename: str, use_vlm: bool = False, split_pages: bool = False) -> dict:
