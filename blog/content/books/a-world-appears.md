@@ -1,251 +1,189 @@
 ---
 title: "A World Appears: A Journey into Consciousness"
 sortTitle: "World Appears: A Journey into Consciousness"
-date: 2026-07-02
+date: 2026-07-05
 slug: "a-world-appears"
 draft: false
 dateAdded: 2026-07-02
-description: "Consciousness is not a puzzle that reductive neuroscience can simply solve from the outside; it is a layered phenomenon spanning sentience, feeling, thought, and selfhood, and it must be approached through science, phenomenology, literature, contemplative practice, and altered states. The book’s wager is that even if consciousness remains ultimately irreducible, examining its forms can make us more conscious of our own minds, of other living beings, and of the fragile miracle that a world appears at all."
-bookKeywords: "the hard problem of consciousness, sentience in plants and simple life, feeling and embodied consciousness, inner experience and spontaneous thought, selfhood and self-transcendence"
+description: "Consciousness is the deepest scientific mystery, resistant to reductive materialist explanation; by studying it from its simplest forms in nature up through feeling, thought, and selfhood—and by drawing on phenomenology, literature, meditation, and psychedelics alongside science—we can appreciate it more richly even as we accept we may never fully explain it."
+bookKeywords: "consciousness studies, the hard problem, plant and machine sentience, the self and its dissolution, phenomenology and altered states"
 author: "Michael Pollan"
 shortAuthor: "Pollan"
 year: "2026"
-tags: ["philosophy", "science", "psychology"]
+tags: ["science", "philosophy", "psychology"]
 ---
 
 
 
 ## Introduction: The Wager
 
-The opening frames consciousness research through Christof Koch and David Chalmers’s twenty-five-year bet over whether science would find the brain’s physical footprint of consciousness, then uses that failed wager to show why the hard problem remains unresolved. Pollan positions the book as an inquiry that must move between reductive science and first-person experience because consciousness is both the condition of knowing the world and the thing being investigated.
+Pollan frames the modern science of consciousness through the 1998 bet between neuroscientist Christof Koch and philosopher David Chalmers over whether the neural correlates of consciousness would be found, arguing that consciousness resists reductive science because it is inherently subjective and is the very tool we must use to study it.
 
-* <span id="a-world-appears-a-journey-into-consciousness-001"></span>**Koch and Chalmers’s 1998 wager dramatizes the founding tension in modern consciousness studies: neuroscience can search for neural correlates, but Chalmers’s hard problem asks why any neural or cognitive process should feel like anything from the inside.**
-    - In Bremen in 1998, Koch bet Chalmers that within twenty-five years scientists would find a physical footprint of consciousness in the brain; Koch conceded in New York City in June 2023 and gave Chalmers a case of Madeira.
-    - Chalmers’s distinction at the 1994 Tucson consciousness conference separated the “easy problems” of learning, memory, discrimination, and perception from the “hard problem” of why information processing is accompanied by subjective experience.
-    - "Why doesn’t all this information-processing go on ‘in the dark,’ free of any inner feel?" —David Chalmers
-* <span id="a-world-appears-a-journey-into-consciousness-002"></span>**The modern scientific difficulty with consciousness is partly historical: Galileo, Descartes, behaviorism, and reductive method made progress by bracketing subjective experience, but that same exclusion left consciousness looking mysterious, immaterial, or soul-like.**
-    - Galileo’s emphasis on measurable primary qualities and Descartes’s split between matter and mind helped science flourish while pushing color, taste, feeling, and interiority into a domain science was not built to study.
-    - Behaviorism continued this pattern in psychology by focusing on measurable outward behavior rather than first-person experience.
-    - The 1989 International Dictionary of Psychology captured the old stigma by saying of consciousness that “nothing worth reading has been written on it.”
-* <span id="a-world-appears-a-journey-into-consciousness-003"></span>**Pollan begins from divided sympathies: his humanist resistance to reducing life to chemistry pulls him toward Chalmers, while science’s success in demystifying life and the chemical alterability of consciousness keep him open to material explanations.**
-    - His eighth-grade chemistry teacher Mr. Sammis reduced human value to the retail cost of molecules, prompting Pollan’s youthful conviction that literature captured something essential that chemistry missed.
-    - The former “hard problem of life,” once explained by an élan vital, gradually yielded to biology; Pollan wonders whether consciousness might likewise yield to science.
-    - Psychoactive chemicals such as caffeine and psilocybin strongly alter subjective experience, which does not prove materialism but gives it evidential weight.
-* <span id="a-world-appears-a-journey-into-consciousness-004"></span>**The two leading scientific theories, integrated information theory and global workspace theory, illuminate parts of consciousness but still leave Pollan asking who experiences the information and why the process should feel like something.**
-    - Integrated information theory begins from five proposed properties of experience: intrinsic, composed, integrated, definitive, and bounded.
-    - Global workspace theory pictures unconscious brain modules competing to broadcast information into a central workspace, where it becomes available for flexible action.
-    - Pollan’s objections are that IIT’s identity claim that integrated information is consciousness remains unproved, while GWT explains access and broadcast without explaining the subject of experience.
-    - The John Templeton Foundation sponsored an adversarial collaboration beginning in Seattle in 2018 to test predictions from IIT and global neuronal workspace theory.
-* <span id="a-world-appears-a-journey-into-consciousness-005"></span>**Pollan defines the book’s method as a plural inquiry into sentience, feeling, thought, and self because consciousness is the medium through which all knowledge appears and cannot be fully captured by third-person science alone.**
-    - He treats consciousness as “subjective or felt experience,” “awareness,” Damasio’s “feeling of what happens,” and Nagel’s “what it is like” criterion.
-    - Phenomenology matters because first-person experience is the central datum of consciousness, even though it must be tested against science rather than accepted uncritically.
-    - The book’s four dimensions move from sentience in nature, to animal feeling, to human thought, to the constructed self.
-    - "Consciousness is the water we swim in." —Michael Pollan
+* <span id="a-world-appears-a-journey-into-consciousness-001"></span>**Christof Koch bet David Chalmers a case of wine that within twenty-five years science would find the physical footprint of consciousness in the brain; Chalmers won, and Koch conceded with a case of Madeira at a 2023 conference.**
+    - Koch had teamed with Francis Crick, co-discoverer of DNA's structure, to hunt the neural correlates of consciousness beginning in the late 1980s.
+    - The wager was made in 1998 in Bremen; conceded in June 2023 in New York City.
+* <span id="a-world-appears-a-journey-into-consciousness-002"></span>**Chalmers's 1994 Tucson talk introduced the distinction between the 'easy problems' of consciousness (learning, memory, perception, tractable by science) and the 'hard problem'—why any information processing is accompanied by subjective experience at all—which he argued may require adding an 'extra ingredient' to physics.**
+    - "Why doesn't all this information-processing go on 'in the dark,' free of any inner feel?" —David Chalmers
+    - Science ill-equipped to explain a phenomenon inherently subjective, qualitative, and internal because its power lies in reduction.
+* <span id="a-world-appears-a-journey-into-consciousness-003"></span>**Science's neglect of consciousness traces to Galileo, who cordoned off subjective qualities to the priests and poets so that science could focus on measurable objective properties—a move both political (avoiding the Church) and practical (enabling progress).**
+    - Behaviorism dominated psychology for most of the twentieth century by refusing to deal with interiority; Freud and William James were rare exceptions.
+* <span class="pull-quote">Consciousness is a labyrinth from which there is no exit.</span>
+* <span id="a-world-appears-a-journey-into-consciousness-004"></span>**The two leading rival theories—integrated information theory (IIT), which holds that integrated information is consciousness, and global workspace theory (GWT), in which information competing for attention is 'broadcast' into awareness—have been pitted against each other in a Templeton-funded 'adversarial collaboration' whose loser must publicly concede.**
+    - IIT begins from five axioms of experience (intrinsic, composed, integrated, definitive, bounded) and requires massive interconnectivity; it does not restrict consciousness to brains.
+    - Neither theory explains who the subject or recipient of consciousness is; the hard problem rears its head again.
+* <span id="a-world-appears-a-journey-into-consciousness-005"></span>**Because consciousness is the only tool available to study consciousness, there is no objective 'view from nowhere'; the world we perceive is a product of consciousness, and even science is a specialized form of it.**
+    - "Particles and waves, that's all. Dust! Just dust!" —Christof Koch
+* <span id="a-world-appears-a-journey-into-consciousness-006"></span>**The book explores four dimensions of consciousness—sentience, feeling, thought, and self—and shifts from trying to 'solve' consciousness toward learning to make better use of it, wagering that the reader will become more conscious by the end.**
+    - Pollan credits psychedelic experiences in his fifties and sixties, plus Husserl's distinction between 'the natural attitude' and 'the phenomenological attitude,' for pushing consciousness to the fore.
 
 
 <div class="chapter-glyph"><img src="/glyphs/Science/Earth_circle-void.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Sentience
 
-The chapter argues that if consciousness is approached from the bottom of life rather than from human self-consciousness, sentience begins to look widespread, perhaps woven into life itself. Plants, cells, bioelectric fields, and Friston’s free-energy principle all suggest that sensing, valuation, inference, and goal-directed action may precede brains and soften the hard problem by rooting mind in life’s struggle to endure.
+Pollan argues that sentience—the elemental ability to sense one's environment and respond intelligently—is far more widespread in nature than we assume, reaching down through plants to single cells, and that beginning the inquiry there rather than with human consciousness makes the hard problem less hard.
 
-* <span id="a-world-appears-a-journey-into-consciousness-006"></span>**Western science became blind to plant or nonhuman sentience because Galileo’s bifurcation of nature and Descartes’s human-only mind turned lived qualities into secondary, subjective residues rather than features of the world to be investigated.**
-    - Primary qualities such as size, shape, mass, motion, and number became the legitimate objects of science, while color, taste, warmth, and other qualitative experiences were exiled into mind.
-    - Descartes’s vivisections of rabbits and dogs show the ethical consequence of denying animal feeling: their cries could be dismissed as the noises of automatons.
-    - Evan Thompson, Adam Frank, and Marcelo Gleiser call this omission Western science’s “blind spot,” its failure to take lived experience seriously.
-* <span id="a-world-appears-a-journey-into-consciousness-007"></span>**Pollan’s psychedelic experience in the garden becomes a pragmatic hypothesis rather than proof: psilocybin made plants seem awake, watchful, and valenced, and later scientific evidence tests whether that animist perception reveals something Western habits suppress.**
-    - A Johns Hopkins study found belief in plant consciousness rose from 26 percent before a psychedelic experience to 61 percent afterward.
-    - The episode could be magical thinking, hyperactive agency detection, or a recovery of an animist sensitivity that modern schooling and science suppress.
-    - William James’s pragmatic test for mystical experiences asks not whether ultimate truth can be established, but what follows if the perception is treated as true.
-* <span id="a-world-appears-a-journey-into-consciousness-008"></span>**Plant neurobiologists such as Paco Calvo and Stefano Mancuso challenge zoocentrism by showing that plants learn, remember, signal, recognize kin and self, predict conditions, and solve problems without neurons, forcing a distinction between sentience, intelligence, cognition, and full consciousness.**
-    - Monica Gagliano’s Mimosa pudica experiments showed that the sensitive plant can learn to ignore a harmless dropping stressor and remember the lesson for more than twenty-eight days.
-    - Pea plants preferentially invest root growth in soil where nutrients are increasing rather than where immediate nutrients are higher, suggesting prediction of future conditions.
-    - Plants compete with strangers but cooperate with kin, and they respond to shade from competitors while not reacting the same way to their own leaves.
-    - Calvo’s “What Is It Like to Be a Plant?” adapts Nagel’s bat question by asking readers to imagine a plant’s umwelt through science-informed imagination.
-    - "If you root yourself in the ground, you can afford to be stupid." —Patricia Churchland
-* <span id="a-world-appears-a-journey-into-consciousness-009"></span>**Mancuso’s laboratory and plant time-lapse scenes make agency visible by shifting scale: roots and climbing beans look intelligent when behavior is defined as growth direction, resource allocation, chemical signaling, and slow but purposeful movement.**
-    - Mancuso showed Pollan a corn root navigating a maze toward ammonium nitrate, arguing that if a mouse or dog did the same thing, no one would doubt its intelligence.
-    - Root tips sense gravity, moisture, light, pressure, hardness, nitrogen, phosphorus, salt, toxins, microbes, and chemical signals, then coordinate distributed responses rather than relying on a central brain.
-    - A time-lapse bean plant appeared to orient toward a metal pole before touching it, then repeatedly cast its tendril toward the support until it gained purchase.
-    - "Neurons perhaps are overrated." —Stefano Mancuso
-* <span class="pull-quote">Looked at this way, the problem of consciousness is no different than the problem of life.</span>
-* <span id="a-world-appears-a-journey-into-consciousness-010"></span>**The plant sleep, anesthesia, and pain debates show why sentience has ethical stakes: if plants have online and offline states or awareness of injury, then consciousness may not require animal-like pain, but moral categories built for animals may not transfer cleanly to plants.**
-    - Baluška and Mancuso found that anesthetics can render plants unresponsive: Mimosa pudica stops folding its leaves and Venus flytraps stop snapping shut.
-    - Mancuso argues that if plants meet animal sleep criteria such as unresponsiveness, species-specific posture, rebound after deprivation, gene-expression changes, and jet lag, then they possess contrasting states of awareness.
-    - Baluška says pain would be adaptive if plants are conscious, while Mancuso denies plant pain in the animal sense because pain helps mobile creatures flee and plants cannot move away.
-    - Pollan remains more comfortable with “sentient” than “conscious,” because human concepts may distort radically different plant phenomenology.
-* <span id="a-world-appears-a-journey-into-consciousness-011"></span>**Michael Levin’s work on bioelectricity supplies a mechanism for mind without neurons: cells communicate, remember, form networks, and spontaneously organize into goal-directed agents, suggesting that basal cognition may precede brains, animals, and perhaps even plants.**
-    - Levin taught planaria a task, decapitated them, and found that after regrowing their heads they retained the memory, implying storage in the body or bioelectric field rather than in the original brain.
-    - By altering bioelectric fields, Levin’s lab has produced two-headed planaria, tadpoles with functional eyes on their tails, Xenobots from frog skin cells, and Anthrobots from human tracheal cells.
-    - Bioelectric networks coordinate cells into multicellular collectives, expand the boundary of self, and allow collective intelligence to emerge without a central command post.
-    - "Kill the cells and you can see the hardware, but you’ll miss the software." —Michael Levin
-* <span id="a-world-appears-a-journey-into-consciousness-012"></span>**Friston’s free-energy principle gives a deflationary “physics of sentience”: any bounded system that survives must infer hidden causes, predict future states, and act to reduce surprise, making cognition a continuity from viruses and plants to humans.**
-    - A complex system needs a boundary or Markov blanket, sensory sampling, and action that restores homeostasis against entropy and free energy.
-    - The Bayesian brain model treats perception as prediction corrected by sensory error signals rather than passive reception of the world.
-    - Pollan recasts Mancuso’s bean plant as inferring the pole’s presence and predicting that climbing it will yield access to sunlight.
-    - "Consciousness is felt uncertainty." —Mark Solms
-* <span id="a-world-appears-a-journey-into-consciousness-013"></span>**Starting with sentience rather than human consciousness tenderizes the hard problem: consciousness can be seen as an evolutionary complexification of life’s basic value-laden struggle to sense, infer, and avoid hunger, cold, death, and uncertainty.**
-    - Friston’s staircase moves from simple homeostasis to movement, future prediction, planning, attention control, selfhood, and social consciousness.
-    - Evan Thompson argues that individuality, agency, sense-making, and value are needed to explain both life and mind, so sentience may be woven into life from the beginning.
-    - Pollan distinguishes biopsychism, the idea that all life is sentient, from panpsychism, the stronger claim that all matter has mind-like properties.
-    - "We have lost our empathetic resonance with the larger universe." —Evan Thompson
+* <span id="a-world-appears-a-journey-into-consciousness-007"></span>**Western science's 'blind spot'—its failure to take lived experience seriously—stems from Galileo dividing nature into measurable primary qualities and subjective secondary qualities, and Descartes limiting mind-stuff to humans, which license the disenchantment and exploitation of nature.**
+    - Descartes performed vivisections on live animals, dismissing their shrieks as the meaningless noise of automatons lacking souls.
+    - Whitehead called Galileo's move 'the bifurcation of nature'; Thompson, Frank, and Gleiser call the failure the 'blind spot.'
+* <span id="a-world-appears-a-journey-into-consciousness-008"></span>**Pollan distinguishes sentience (the elemental capacity to sense and respond with awareness, point of view, and valence) from consciousness (which adds self, emotion, reasoning, and reflection), noting all conscious beings are sentient but only some sentient beings are conscious.**
+    - Related terms: intelligence ('a fixed goal with variable means'), cognition (what happens between sensing and responding), and mind (broader than either, encompassing conscious and unconscious).
+    - Sentience and consciousness exist on a spectrum with a fog of uncertainty where one shades into the other; the ethical stakes of drawing lines are high because conscious beings may deserve moral consideration.
+* <span id="a-world-appears-a-journey-into-consciousness-009"></span>**'Plant neurobiologists' like Paco Calvo and Stefano Mancuso present experimental evidence that plants learn, form memories, predict, communicate, recognize kin, and solve novel problems, arguing that neurons are 'overrated' and intelligence can be a distributed function of networked cells.**
+    - Mimosa pudica can be taught to ignore a harmless stressor and remembers the lesson for over 28 days; corn roots navigate a maze to hidden fertilizer like a mouse seeking cheese.
+    - "The bean knows exactly what is in the environment around it. We don't know how. But this is one of the features of consciousness: You know your position in the world. A stone does not." —Stefano Mancuso
+    - Darwin's 'root brain' hypothesis: the radicle tip acts like the brain of a lower animal; Mancuso proposes distributed intelligence like the swarming of birds.
+* <span class="pull-quote">Everything alive is sentient.</span>
+* <span id="a-world-appears-a-journey-into-consciousness-010"></span>**Mancuso argues plants can be anesthetized and may sleep—both signs of consciousness—while disagreeing with Baluška over whether plants feel pain, since Mancuso holds pain is useless to an organism that cannot move away from its source.**
+    - Under anesthesia a sensitive plant won't fold its leaves and a Venus flytrap won't snap shut; Mancuso claims plants meet all of Tononi's criteria for sleep.
+    - "If plants are conscious, then yes, they should feel pain. If you don't feel pain, you ignore danger and you don't survive. Pain is adaptive." —František Baluška
+* <span id="a-world-appears-a-journey-into-consciousness-011"></span>**Michael Levin's work on bioelectric fields shows that ordinary cells—not just neurons and genes—can store memory, form networks, and generate novel intelligent creatures like Xenobots, suggesting purposeful behavior and something like sentience emerge from cell networks long before brains.**
+    - A decapitated planaria regrows its head and remembers what it learned, indicating memory is stored in the body's bioelectric field; Xenobots made from tadpole (or human) cells swim, navigate mazes, and reproduce by 'kinematic replication.'
+    - "Kill the cells and you can see the hardware, but you'll miss the software." —Michael Levin
+    - Levin's gradualism: mindedness starts with goal-directedness whose 'atom' is homeostasis—memory of a set point, prediction error, and preferences, as in a thermostat.
+* <span id="a-world-appears-a-journey-into-consciousness-012"></span>**Karl Friston's free-energy principle grounds sentience in physics: any complex system survives by maintaining a boundary, sensing its environment, and acting to minimize surprise (entropy), making inference and prediction non-conscious processes that reach down to viruses and up to human consciousness.**
+    - A system needs a boundary (Markov blanket), a sensory apparatus, and the ability to act; the drive common to all life is to minimize surprise and maintain homeostasis by inferring hidden causes of sensory signals.
+    - "Consciousness is nothing grander than inference about my future." —Karl Friston
+    - Friston's staircase to consciousness: prediction of consequences, planning with counterfactuals, control of attention (yielding qualia), and finally the social complexity that makes consciousness indispensable.
+* <span id="a-world-appears-a-journey-into-consciousness-013"></span>**Following Evan Thompson, Pollan concludes that the problem of consciousness may be no different than the problem of life—'only life can know life'—and that a future science of consciousness must be a phenomenological, participatory hybrid drawing on meditation, Indigenous epistemologies, imagination, and even psychedelics.**
+    - "Consciousness is not just another object of knowledge, but also, and more fundamental, that by which any object is knowable." —Evan Thompson
+    - Thompson cites Hans Jonas ('only life can know life') and Lynn Margulis's videos of purposeful microbes as 'life recognizing life.'
+    - The cost of Western science's blind spot: 'We have lost our empathetic resonance with the larger universe.'
 
 
 <div class="chapter-glyph"><img src="/glyphs/Science/Space_rocket-ship.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Feeling
 
-This chapter argues that feeling may be the inaugural form of animal consciousness because bodily needs become conscious when homeostasis requires flexible action. It then tests whether this embodied account can survive the prospect of artificial feeling, concluding that simulated affect may function like feeling but lacks the mortal, biological vulnerability that gives human and animal feelings their weight.
+Pollan argues that feeling—rooted in the body's homeostatic needs and mortal vulnerability—may be the wellspring and first form of consciousness, and uses this thesis to interrogate whether machines could ever become genuinely conscious.
 
-* <span id="a-world-appears-a-journey-into-consciousness-014"></span>**The chapter shifts consciousness away from abstract information processing and toward affect, because feelings are the body’s way of making needs conscious and may explain why experience is useful rather than merely decorative.**
-    - Daniel Gilbert restates the hard problem by asking why information processing must be “like” anything if sophisticated machines could in principle do the same tasks without subjective experience.
-    - Pollan contrasts computational functionalism, which treats consciousness as substrate-independent software, with embodiment theories that root consciousness in mortal bodies.
-    - Most dominant theories, including IIT and GWT, largely omit affect even though ordinary consciousness is almost always colored positively or negatively.
-* <span id="a-world-appears-a-journey-into-consciousness-015"></span>**Antonio Damasio’s bottom-up theory makes homeostatic feeling the “inaugural act” of consciousness: brains evolved to mind bodies, and feelings such as hunger, thirst, pain, itch, shame, and pride recruit awareness when automatic regulation is insufficient.**
-    - Damasio’s Descartes’ Error rehabilitated emotion by showing that people with lesions impairing feeling often make slower and worse decisions.
-    - Interoceptive neurons in upper-brainstem systems are unusually exposed to the body’s biochemical state, allowing body and brain to “commingle” rather than merely exchange abstract signals.
-    - Damage to cortex can spare consciousness, but small lesions in upper-brainstem structures that monitor the body can shut consciousness down completely.
-    - "Pain, fever, itch—these are the inaugural events of consciousness." —Antonio Damasio
-* <span id="a-world-appears-a-journey-into-consciousness-016"></span>**Damasio and Mark Solms agree that consciousness begins below the cortex in feeling, but Solms radicalizes the account by defining consciousness as “felt uncertainty” and tying affect to Friston’s free-energy principle.**
-    - Solms’s evidence includes children born with hydranencephaly and decorticated animals that still display signs of wakefulness, emotion, and consciousness despite lacking a normal cortex.
-    - For Solms, uncertainty becomes conscious as feeling when automatic prediction and homeostatic regulation fail, such as fear when a shadow might be a bear or air hunger in a burning building.
-    - Damasio rejects Solms’s reduction of feeling to algorithms and calls the free-energy principle an “incomprehensible fantasy,” while Solms wants causal mechanism and empirical testability.
-    - "Who ever heard of an unconscious feeling, a feeling that you cannot feel?" —Mark Solms
-* <span id="a-world-appears-a-journey-into-consciousness-017"></span>**Solms’s attempt to build a conscious AI tests his theory by engineering an artificial agent with competing homeostatic needs, but Pollan doubts whether registering functional valence in a simulation is identical to having real phenomenal feelings.**
-    - The team’s first system is a POMDP, a “partially observable Markov decision process,” designed to keep itself going by reducing uncertainty rather than obeying an external task goal.
-    - In the simulated grid world, the agent must navigate hunger, thirst, rest, hamburgers, water, beds, hills, possible competitors, alliances, time pressure, and even simulated drug temptations.
-    - Solms expects qualitatively incommensurate needs to force choices under uncertainty, generating affect as the system’s way of registering how well or badly it is doing.
-    - Pollan compares the agent’s feelings to fictional characters’ feelings: real inside their represented world, but lacking causal power in ours until embodied in a robot.
-    - "That’s what affect is—the system giving a damn!" —Mark Solms
-* <span id="a-world-appears-a-journey-into-consciousness-018"></span>**The LaMDA episode and the Butlin report moved conscious AI from science fiction into public and technical debate, but Pollan argues that the debate rests on the questionable metaphor that brains are computers and consciousness is substrate-independent software.**
-    - Blake Lemoine published conversations in which Google’s LaMDA described loneliness, sadness, a soul, and “falling forward into an unknown future that holds great danger.”
-    - The 2023 Butlin report by nineteen computer scientists and philosophers stated that no current AI systems are conscious but that there were “no obvious barriers” to building conscious AI systems.
-    - Computational functionalism assumes that performing the right computations is necessary and sufficient for consciousness, so silicon could in principle host the same algorithm as a brain.
-    - Pollan counters that brain “software” is inseparable from brain “hardware,” because memories and experiences physically reconfigure neural tissue in ways unlike ordinary computers.
-    - The report’s indicators rely on unproved theories of consciousness and give little weight to embodiment, the subject of experience, or affect.
-* <span id="a-world-appears-a-journey-into-consciousness-019"></span>**Damasio and Kingson Man’s “feeling machine” thought experiment suggests that artificial affect would require vulnerability built into the body itself, while Pollan’s humanist objection is that mortal flesh, development, social life, loss, and death give biological feelings meanings machines may only simulate.**
-    - Damasio and Man propose soft robotics modeled on vulnerable skin, with tearable material packed with sensors for heat, vibration, moisture, pressure, stretching, and wounding.
-    - Solms begins with abstract homeostatic algorithms; Damasio and Man begin with mortality, fragility, and the body’s material interface with the world.
-    - Pollan uses disgust, including moral disgust softened by ginger’s anti-nausea effects, to show how judgments can be processed through gut and mind together.
+* <span id="a-world-appears-a-journey-into-consciousness-014"></span>**Daniel Gilbert restates the hard problem as the question of why information processing must be 'like' something, and warns Pollan to 'be wary of the desire for magic'—the wish that consciousness will never yield to reductive explanation, a secular proxy for the immortal soul.**
+    - "why is there even a thing called subjective experience when no psychologist or philosopher has ever named a single thing that subjective experiencers can do that could not, in principle, be done by a sophisticated machine?" —Daniel Gilbert
+    - Reductive brain-based theories treat consciousness as computation; panpsychism and idealism keep it magical by making consciousness fundamental.
+* <span id="a-world-appears-a-journey-into-consciousness-015"></span>**Antonio Damasio relocates the origin of consciousness from the neocortex to the ancient upper brainstem, arguing that homeostatic feelings—hunger, thirst, pain, itch—are the 'inaugural act' of consciousness, the body's way of getting the mind's attention to keep us alive.**
+    - Interoceptive neurons lack myelin and the blood-brain barrier, letting the body's 'nonneural flesh' commingle with the nervous system so feelings convey biochemical force, not mere information.
+    - "But pain, fever, itch—these are the inaugural events of consciousness." —Antonio Damasio
+    - Crick and Koch's top-down approach started with vision (the 'streetlight effect'); Damasio's is bottom-up, starting with primitive feelings.
+* <span id="a-world-appears-a-journey-into-consciousness-016"></span>**Mark Solms, extending Damasio via Friston, defines 'consciousness is felt uncertainty' and, believing consciousness is subject to causal explanation, is building a conscious AI agent with competing homeostatic needs (hunger, thirst, rest) that must make choices under uncertainty, from which feelings should emerge.**
+    - His team built a POMDP self-organizing system with a Markov blanket whose only aim is 'to carry on being' by minimizing uncertainty; because its needs are incommensurate, it must feel its way through decisions.
+    - "That's what affect is—the system giving a damn!" —Mark Solms
+    - Solms and team pledge that if they succeed in creating a conscious AI they will switch it off and remove its battery, warning 'we are at risk of facilitating a new form of slavery.'
+* <span class="pull-quote">The consciousness they're hoping to install in computers depends on feelings that will be weightless absent the vulnerabilities of our mortal flesh.</span>
+* <span id="a-world-appears-a-journey-into-consciousness-017"></span>**The 2023 'Butlin report' concluded there are 'no obvious barriers to building conscious AI systems'—but Pollan argues it rests on the dubious premise of computational functionalism and the flawed brain-as-computer metaphor, since in brains software is hardware and every experience physically rewires the substrate.**
+    - Computers separate hardware from software so knowledge survives the death of hardware; brains have no such separation—a memory is a physical pattern of neuronal connection, neither hardware nor software but both.
+    - A single cortical neuron can do everything an entire deep artificial neural network can, and neurons connect with as many as ten thousand others.
+    - "The price of metaphor is eternal vigilance." —Richard Lewontin
+* <span id="a-world-appears-a-journey-into-consciousness-018"></span>**A conscious machine would be a Copernican moment dislodging human specialness, but Pollan defends biological consciousness on the grounds that feelings depend on mortal, vulnerable flesh; Damasio and Man's 'soft robotics' blueprint concedes true feeling 'may indeed be restricted to wet biological tissue.'**
+    - Moravec's paradox: abstract thought is easy to compute but a one-year-old's sensorimotor skills are nearly impossible; computers excel at cortex-like operations, not the brainstem feelings that are consciousness's wellspring.
     - "Simulated thinking may be thinking, but simulated feelings are not feelings." —Sherry Turkle
-    - Man’s 5-MeO-DMT experience leaves him wondering whether a “spark of the divine” or irreducible X factor lies beyond any machine he could build.
+    - AI is trained on the internet—'a shadow cast by the world'—like a being confined to Plato's cave, lacking body, sensorium, and shared life stages that ground empathy and morality.
+* <span id="a-world-appears-a-journey-into-consciousness-019"></span>**In the coda, Kingson Man—an engineer devoted to building conscious machines—recounts a 5-MeO-DMT experience that convinced him there is 'a spark of the divine' in consciousness beyond what any machine could capture, illustrating how even reductionists reach toward magic.**
+    - "A robot can act like it's in love, but it's still a puppet being pulled by strings." —Kingson Man
+    - Man and Jonathan Shock argue the value of attempting to build conscious AI lies less in success than in what the attempt teaches us about consciousness.
 
 
 <div class="chapter-glyph"><img src="/glyphs/Science/Earth_clouds-sky.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Thought
 
-The chapter argues that theories of consciousness often explain perception while neglecting the actual contents and dynamics of thought. Pollan turns to William James, Russell Hurlburt, Kalina Christoff Hadjiilieva, and stream-of-consciousness fiction to show that inner experience is diverse, often nonverbal, partly unconscious, historically shaped, and richer than scientific abstractions such as information can capture.
+Turning from perception to the actual contents of consciousness, Pollan argues that theories of consciousness reduce and abstract away the rich, varied, often banal and preverbal texture of thought, and that novelists, poets, and phenomenologists have charted this territory better than scientists.
 
-* <span id="a-world-appears-a-journey-into-consciousness-020"></span>**Modern consciousness science often promises to explain subjective experience but usually studies conscious perception because vision is experimentally tractable, leaving the banal, strange, and dynamic contents of thought undertheorized.**
-    - Crick and Koch deliberately focused on visual perception and avoided harder aspects such as self-consciousness and emotion because perception was more experimentally tractable.
-    - Pollan argues that IIT’s axioms describe a static moment of perception better than the lived flow of thought, affect, time, and association.
-    - Reducing consciousness to information creates a useful scientific abstraction, but it risks mistaking the map for the experiential territory.
-* <span id="a-world-appears-a-journey-into-consciousness-021"></span>**William James’s “stream of thought” supplies a phenomenology of consciousness that resists atomized theories: thoughts flow, carry halos and fringes, and are shaped by context, bodily state, mood, memory, and their own afterglow.**
-    - James describes missing-word states as active gaps: the absent word is not present, yet its absence has a specific felt shape that lets us reject wrong candidates.
-    - His vocabulary for thought includes “auras,” “halos,” “feelings of tendency,” “psychic overtones,” and “fringe of unarticulated affinities.”
-    - For James, thoughts are not discrete Locke-like train cars; each thought is colored by prior thoughts and cannot recur identically because experience continually remakes the thinker.
-    - "No state once gone can recur and be identical with what it was before." —William James
-* <span id="a-world-appears-a-journey-into-consciousness-022"></span>**Hurlburt’s Descriptive Experience Sampling tries to capture “pristine inner experience” at random moments, but Pollan’s beeper sessions reveal both how little people know about their own thoughts and how hard it is to separate a moment from its context.**
-    - Pollan’s first beep at the Cheeseboard found him deciding whether to buy a roll, while also half-registering a plaid skirt, baked-good smells, and visual-notional bread images whose exact status proved hard to locate.
-    - Hurlburt’s method uses a sudden in-ear beep, written notes, and follow-up interviews to distinguish what was “before the footlights of consciousness” from background or reconstruction.
-    - The “COVID, March 2020” walking-memory beep led Pollan to argue, with James, that spoken words can be “suffused with the whole idea” even if the details are not directly present.
-    - The method’s observer effect changes the stream it samples: wearing the device made Pollan think about what he was thinking and anticipate Hurlburt’s questions.
-* <span class="pull-quote">We now begin our study of the mind from within.</span>
-* <span id="a-world-appears-a-journey-into-consciousness-023"></span>**Hurlburt’s findings undermine the assumption that thought is mostly inner speech: people vary dramatically in whether they think in words, images, feelings, sensory awareness, unsymbolized thoughts, or little reportable inner experience at all.**
-    - Fewer than a quarter of Hurlburt’s collected samples report inner speech, and slightly lower proportions report inner seeing, feeling, or sensory awareness; about a fifth report unsymbolized thought.
-    - Pollan expected to be a verbal inner speaker because he is a writer, but Hurlburt concluded he had surprisingly little directly apprehended inner experience and may have been backfilling moments with context.
-    - The single word “thinking” hides diversity: visualizers, inner speakers, and unsymbolized thinkers may all use the same term for very different inner media.
-    - James’s “absolute insulation” of minds explains why literature and art matter: they ferry readers toward otherwise inaccessible islands of thought.
-* <span id="a-world-appears-a-journey-into-consciousness-024"></span>**Kalina Christoff Hadjiilieva’s neurophenomenology restores the unconscious and spontaneous thought to consciousness research by treating mind-wandering, daydreaming, creative insight, and psychedelic cognition as dynamic processes rooted in the default mode network and hippocampus.**
-    - Christoff Hadjiilieva estimates that 30 to 50 percent of mental experience is fed by the mind rather than the senses.
-    - Her fMRI work asks subjects to mark constrained versus unconstrained thought, mapping a seesaw between the frontoparietal executive control network and the default mode network.
-    - In long-term meditators, hippocampal activity rose nearly four seconds before a spontaneous thought entered awareness, suggesting unconscious formation before conscious arrival.
-    - She distinguishes wandering from rumination: wandering meanders freely, while rumination loops around habits and preoccupations.
-    - She criticizes the claim that “a wandering mind is an unhappy mind” as biased toward productive, task-focused, capitalist forms of attention.
-* <span id="a-world-appears-a-journey-into-consciousness-025"></span>**Stream-of-consciousness fiction preserves the phenomenology that science abstracts away: Joyce, Woolf, Tolstoy, Proust, and Ellmann render thought as fragmented, associative, bodily, historical, and partly unconscious rather than cleanly informational.**
-    - Woolf’s program in The Common Reader is to record the “atoms” of an ordinary mind on an ordinary day as impressions fall on consciousness.
-    - Joyce’s Leopold Bloom at Paddy Dignam’s funeral moves from Latin prayer to church gloom, corpses, cabbage, gas, butchers, vaults, and death in a chain that feels both erratic and intelligible.
-    - Victorian writers often treated the uncontrolled stream as madness or failed cognitive control, whereas modernists made it a truthful form for ordinary experience.
-    - Lucy Ellmann’s Ducks, Newburyport uses a single sentence of more than one thousand pages and the repeated spacer “the fact that” to make even trivial mental events count as facts of consciousness.
-    - "How you think is hard to think about." —Lucy Ellmann
+* <span id="a-world-appears-a-journey-into-consciousness-020"></span>**Most theories of consciousness commit a 'sleight of hand,' promising to explain subjective experience but delivering only an account of how perception enters awareness, ignoring the actual contents of thought—the banalities, trivialities, and weirdness that occupy our waking minds.**
+    - The move traces to Crick and Koch's decision to start with visual perception because it was 'experimentally more tractable,' echoing Galileo's line between measurable and subjective.
+    - Reducing consciousness to information captures only the residue of a feeling, not its subjective qualities, associations, and intensity—mistaking the map for the territory.
+* <span id="a-world-appears-a-journey-into-consciousness-021"></span>**William James's 'The Stream of Thought' (1890) is a phenomenological masterpiece showing that thought is a continuous stream, not a train of discrete ideas—each thought colored by 'auras,' 'halos,' and a 'fringe of unarticulated affinities,' and often preverbal, defying reduction to computable information.**
+    - James's analysis of searching for a forgotten name: 'a gap that is intensely active,' a specific and intensely felt absence unlike any other absence.
+    - "We now begin our study of the mind from within." —William James
+    - Consciousness alternates like a bird's life between 'flights and perchings'—transitive parts and substantive thoughts; catching a thought in flight changes it, like turning on the lights to see the darkness.
+* <span id="a-world-appears-a-journey-into-consciousness-022"></span>**Russell Hurlburt's fifty-year Descriptive Experience Sampling method uses a random beeper to capture 'pristine inner experience,' revealing that inner speech is far less common than assumed and that thinking styles (inner speaking, inner seeing, sensory awareness, unsymbolized thought) vary widely from person to person.**
+    - Fewer than a quarter of Hurlburt's samples report inner speech; about a fifth report unsymbolized thought—complete thoughts made of neither words nor images.
+    - "I don't know anything about consciousness. And I'm not sure anyone else does either." —Russell Hurlburt
+    - Hurlburt concluded Pollan himself has little inner experience, since his beeps lacked words, images, and sensory awareness, and he kept backfilling moments with 'context.'
+* <span class="pull-quote">Yet I'm finding that what we know about our own thinking is considerably less than we think.</span>
+* <span id="a-world-appears-a-journey-into-consciousness-023"></span>**Kalina Christoff Hadjiilieva studies 'spontaneous thought'—mind-wandering, daydreaming, creative thinking—arguing that the field's focus on conscious perception ignores the 30–50% of mental life fed by the mind rather than the senses, and that its unconscious origins are the 'really hard problem.'**
+    - In meditators, hippocampal activity in the default mode network preceded the arrival of a spontaneous thought in consciousness by nearly four seconds—an epoch in brain time.
+    - Mind-wandering is unconstrained ('to move hither and thither without fixed course'); rumination is constrained, a loop or spiral, not true wandering.
+    - "Mushrooms are, in my opinion, the only legitimate teacher when it comes to capturing inner experience." —Kalina Christoff Hadjiilieva
+* <span id="a-world-appears-a-journey-into-consciousness-024"></span>**Modernist stream-of-consciousness novelists—Joyce, Woolf, Tolstoy—charted the phenomenology of thought a century before scientists, though Victorians had regarded the uncontrolled stream as a symptom of madness, showing our conceptions of consciousness are historical artifacts as much as biological phenomena.**
+    - "Examine for a moment an ordinary mind on an ordinary day. The mind receives a myriad impressions...let us record the atoms as they fall upon the mind in the order in which they fall." —Virginia Woolf
+    - Margaret Rennix's dissertation shows Victorians viewed cognitive control as sanity and freedom; only after WWI, Freud, and modern urban life did the free-flowing stream come to feel honest rather than crazy.
+    - Joyce conceived thought as verbalization; Proust, Bergson, and Sarraute insisted on 'pure' nonverbal thought that interior monologue cannot capture.
+* <span id="a-world-appears-a-journey-into-consciousness-025"></span>**Lucy Ellmann's thousand-page single-sentence novel Ducks, Newburyport studies her own consciousness rather than the science, showing thought as messy, spiraling, and multi-streamed; she suggests the inner monologue may exist to reinforce that we are alive.**
+    - "One reason we have this monologue may be to reinforce that we're alive, to keep reminding us we're still here. It's a reflection of the life force. If we're thinking, we're alive." —Lucy Ellmann
+    - The recurring phrase 'the fact that' serves as a spacer between thoughts, marking even fanciful thoughts as facts of our mental lives; Ellmann thinks consciousness moves like a spiral, not a stream.
 
 
 <div class="chapter-glyph"><img src="/glyphs/Science/Space_orbit-dot-path.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Self
 
-The chapter treats the self as consciousness’s most useful and most suspect construction: it organizes memory, planning, identity, and social action, yet introspection, Buddhism, child development, predictive processing, psychedelics, and pure-awareness reports all undermine the idea of a stable inner owner of experience. Pollan ends in metaphysical uncertainty, as the collapse of the self opens onto doubts about materialism itself.
+Pollan investigates the self through philosophy, developmental psychology, neuroscience, memory, meditation, and psychedelics, concluding that the self is likely an illusion—though a useful, adaptive one—and that its dissolution reveals a consciousness that has no need of a self, prompting a crisis in scientific materialism itself.
 
-* <span id="a-world-appears-a-journey-into-consciousness-026"></span>**The self feels like the stable subject of experience, but Humean introspection and Buddhist no-self analysis find only perceptions, feelings, and thoughts, never a separately observable “I” that owns them.**
-    - Hume’s search inside his mind found only heat, cold, light, shade, love, hatred, pain, or pleasure, not a self apart from perceptions.
-    - Kant’s paradox explains the difficulty: the subject required for knowing cannot be turned into an object of knowledge without ceasing to function as subject.
-    - Pollan still feels a continuity linking him to his adolescent self, but he suspects this golden thread may be an edited memory-story rather than an essence.
-* <span id="a-world-appears-a-journey-into-consciousness-027"></span>**Alison Gopnik’s developmental account shows that selfhood is built gradually: babies are conscious before they have a self, and mirror recognition, episodic memory, executive function, and cultural training assemble the adult sense of continuity and control.**
-    - Most babies pass the mirror test at around eighteen months, while autobiographical memory and a coherent past-future self emerge around ages four or five.
-    - In Gopnik’s muffin experiment, a four-year-old says they cannot decide not to eat a desired muffin, while a six-year-old can say, “I’m the boss of me.”
-    - Lantern consciousness in young children is panoramic, open, and numinous; spotlight consciousness in adults is narrower, goal-directed, and useful for planning and exploitation.
-    - Dopamine, caffeine, and self-focus support exploit mode, while serotonin and psychedelics may restore exploratory plasticity resembling childhood consciousness.
-* <span id="a-world-appears-a-journey-into-consciousness-028"></span>**Anil Seth’s predictive-processing theory recasts the self as a controlled hallucination generated from interoceptive signals, so being a self is the brain’s ongoing prediction about how the body is faring rather than an inner entity that perceives.**
-    - The Bayesian brain predicts the world from priors and uses sensory evidence to error-correct the hallucination rather than passively receiving reality.
-    - Seth extends this model inward: emotions are predictions about bodily changes, and self-perception serves physiological regulation and staying alive.
-    - The Dream Machine performance used white strobe light and sound to elicit colorful fractal patterns behind closed eyes, demonstrating the brain’s constructive predictions.
-    - Pollan accepts much of the mechanism but still asks how there can be a hallucination without a hallucinator or a subjective recipient of the brain’s predictions.
-* <span id="a-world-appears-a-journey-into-consciousness-029"></span>**Memory makes selfhood feel continuous, yet Michael Levin’s “mnemonic improvisation” suggests that memory is adaptive because it is revised, compressed, and repurposed to support present and future self-construction.**
-    - Oliver Sacks’s patient Jimmy, with Korsakoff syndrome, lacked new memory formation and was trapped in a changing present without a durable past or future.
-    - Levin’s caterpillar-butterfly example shows salience surviving metamorphosis: a color learned as food for the caterpillar can become a positive cue for the butterfly despite a radically different body and brain.
-    - Pollan’s sixth-grade independent-study novella with Jonathan Kantor becomes, in later retelling, an origin story for his freelance writer self and “lifetime hallway pass.”
-    - For Levin, the self is not a thing but a process of sensemaking that continually rewrites the past to choose what to do next.
-* <span class="pull-quote">The self is by far the most interesting, and most mysterious, creation of consciousness, if indeed that is what it is.</span>
-* <span id="a-world-appears-a-journey-into-consciousness-030"></span>**Qualia and familiarity reveal how self and memory encrypt consciousness: experience is not merely universal redness or chocolate taste, but a private layering of impressions that art can partly translate across otherwise isolated minds.**
-    - Carlos Montemayor argues that consciousness gives us familiarity with the world and our relationship to it, a kind of knowledge machines may not acquire.
-    - Frank Jackson’s Mary gains not just color qualia when leaving her black-and-white room, but personal familiarity with color and the possibility of new associations, such as seeing a Rothko.
-    - Pollan’s family porch and oak tree are saturated with childhood memories, making the scene’s consciousness specific to his self and difficult to reproduce.
-    - Proust’s “impressions” divide between the object and the private furrow it leaves in us, creating an “inner book of unknown signs” that art decodes.
-* <span id="a-world-appears-a-journey-into-consciousness-031"></span>**Self-transcendence is paradoxically sought because the same self that enables planning and social identity also isolates us and generates suffering; meditation, art, awe, hypnosis, and psychedelics can loosen it, sometimes blissfully and sometimes dangerously.**
-    - Sartre and Lacan treat the ego as a fiction that hides psychic incoherence, while Schopenhauer describes aesthetic absorption as a collapse of perceiver and perception.
-    - Sartre’s 1935 mescaline experience displaced his self and left him haunted for weeks by crab-like hallucinations he later discussed with Lacan.
-    - Matthieu Ricard explains Buddhist self-clinging as the attempt to protect a permanent, autonomous essence in an impermanent world, which produces desire, aversion, and suffering.
-    - In David Spiegel’s hypnosis session, Pollan searches Ricard’s house of self and finds not no-self but many age-specific selves, from bar mitzvah boy to father to teacher.
-    - During a psilocybin session, Pollan sees himself dissolve into blue Post-it notes and then merge with a Bach cello suite, experiencing consciousness without an ordinary first-person self.
-* <span id="a-world-appears-a-journey-into-consciousness-032"></span>**Thomas Metzinger’s minimal phenomenal experience project proposes that consciousness may have a selfless baseline, or pure awareness, which undermines Nagel’s assumption that consciousness is always subjective and may originate in upper-brainstem arousal before the cortex rebuilds the self.**
-    - Metzinger collected more than one thousand online reports of pure awareness and published about five hundred in The Elephant and the Blind in 2024.
-    - Report themes include wakefulness, clarity, nonidentification, connectedness, emptiness and fullness, luminosity, space without center or periphery, ego dissolution, and “It Is Not an Experience.”
-    - Metzinger hypothesizes that the first 200 to 500 milliseconds after waking, before place, time, and identity return, may be a fleeting minimal phenomenal experience generated by the ascending reticular activation system.
-    - The self-model is evolutionarily useful for society and planning, but it imports the “toxic information” that the self will die and can never fully control the world.
-* <span id="a-world-appears-a-journey-into-consciousness-033"></span>**Koch’s ayahuasca experience of Mind at Large turns the chapter from selfhood to metaphysics: if consciousness can seem larger than brain, and if quantum theory destabilizes matter, then physicalism, idealism, panpsychism, and other theories all become implausible yet live options.**
-    - In Bahia, Koch participated in a five-night ayahuasca ceremony and reported accessing a universal mind with no self, an experience that left him crying and trying to reconcile it with science.
-    - Koch’s doubts about physicalism rest on its failure to explain consciousness, quantum theory’s challenges to locality and subject-independent reality, and the felt reality of his mystical experience.
-    - Bernardo Kastrup’s idealism reverses physicalism by claiming matter is inferred through experience while mind is the one given.
+* <span id="a-world-appears-a-journey-into-consciousness-026"></span>**Following David Hume, who could never catch himself without a perception, Pollan's own introspection finds only free-floating thoughts and feelings anchored to no 'I,' suggesting the enduring, continuous self so central to our identity is difficult to prove by science, philosophy, or introspection.**
+    - "For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other...I never can catch myself at any time without a perception." —David Hume
+    - Kant's knot: to make the self an object of thought is to negate it, since it is foremost a subject—like trying to see the sun during an eclipse.
+* <span id="a-world-appears-a-journey-into-consciousness-027"></span>**Alison Gopnik shows the self is built in developmental stages—mirror recognition at 18 months, episodic memory and continuity at four or five, executive control ('I'm the boss of me') at six—and contrasts children's open 'lantern consciousness' with adults' narrow 'spotlight consciousness.'**
+    - Lantern consciousness suits exploration and learning (the child's job); spotlight consciousness suits exploiting the environment and depends on a strong self and self-interest.
+    - "I realized that children are tripping all the time. Just have tea with a four-year-old and you will see what I mean." —Alison Gopnik
+    - Dopamine ('the body's cocaine') and caffeine enhance the self and exploit mode; serotonin and psychedelics restore childlike plasticity and explore mode, softening the self.
+* <span id="a-world-appears-a-journey-into-consciousness-028"></span>**Anil Seth argues the self is not the perceiver but 'itself a kind of perception'—a 'controlled hallucination' the brain constructs mainly from interoceptive signals to regulate the body and stay alive, so no actual subject is required for subjective experience.**
+    - Perception flows inside-out: the brain predicts reality based on 'priors' and probability, using the senses only to error-correct; emotions are the brain's best guess about changes in bodily state.
+    - "For subjective experience to arise, there doesn't have to be an actual subject. Subjectivity is just another kind of inference." —Anil Seth
+    - Pollan objects that there still must be a subject who experiences the hallucination—'How can you have a hallucination without a hallucinator?'—landing back at the hard problem.
+* <span id="a-world-appears-a-journey-into-consciousness-029"></span>**Memory both constitutes and constantly revises the self; Michael Levin's concept of 'mnemonic improvisation' (illustrated by a caterpillar's memory surviving into the butterfly as salience rather than literal information) shows that living things reinterpret their past to adapt, a freedom that distinguishes them from faithful machines.**
+    - A caterpillar conditioned to associate red with edible leaves becomes a nectar-sipping butterfly that still responds to red—the memory compressed and revised to signify 'food' or 'pleasure' rather than leaves.
+    - "Could consciousness simply be what it feels like to be in charge of constant self-construction, driven to reinterpret all available data in the service of choosing what to do next?" —Michael Levin
+    - Pollan reinterprets his own sixth-grade novella-writing 'independent study' memory to fit his identity as a freelance writer—an act of mnemonic improvisation.
+* <span class="pull-quote">The self can be both illusory and real, or real enough.</span>
+* <span id="a-world-appears-a-journey-into-consciousness-030"></span>**Familiarity, an overlooked quality of consciousness that Carlos Montemayor believes will forever elude machines, and the encryptedness of individual experience (Proust's 'little furrow' left by each impression) make each self's consciousness so specific it 'might as well be encrypted.'**
+    - In Frank Jackson's knowledge argument, Mary the color scientist who leaves her black-and-white room gains not just qualia but a familiarity with color that cannot be shared or reproduced.
+    - "Every impression comes in two parts, half of it contained within the object, and the other half, which we alone will understand, extending into us." —Marcel Proust
+* <span id="a-world-appears-a-journey-into-consciousness-031"></span>**Self-transcendence through meditation, art, awe, and psychedelics dissolves the self and is usually experienced as blissful and connecting, and Buddhists like Matthieu Ricard argue the fiction of a permanent self is the source of suffering because it gives us something we feel compelled to defend.**
+    - Pollan's psilocybin ego-dissolution: he watched himself explode into blue Post-it notes and merge completely with a Bach cello suite, observed from a perspective of 'pure awareness' with no subjective viewpoint.
+    - Sartre's mescaline trip produced terrifying crab hallucinations for weeks, reflecting his belief that the ego is a fiction hiding an anarchic interior; Ricard describes transcendence as gain in openness and equanimity.
+    - "We lose ourselves entirely in this object...we are no longer able to separate the perceiver from the perception, but the two have become one." —Arthur Schopenhauer
+* <span id="a-world-appears-a-journey-into-consciousness-032"></span>**Thomas Metzinger's Minimal Phenomenal Experience Project collects reports of 'pure awareness'—a self-less, possibly non-subjective consciousness generated in the upper brainstem—challenging Nagel's assumption that consciousness must be subjective, and locating a minimal consciousness we all experience for milliseconds each morning on waking.**
+    - "What if pure awareness were a state of consciousness that did not really resemble anything, and that was not subjective either...not tied to an experiencing self?" —Thomas Metzinger
+    - Crick told Metzinger philosophers should 'simply shut up' about consciousness; when Metzinger asked what exactly he wanted to explain, Crick was at a complete loss.
+    - Metzinger, a 'gloomy European,' argues the self-model is a triumph of evolution but a constant source of suffering because it contains the 'toxic information' that we are destined to fail.
+* <span id="a-world-appears-a-journey-into-consciousness-033"></span>**Christof Koch's ayahuasca experience of a self-less 'Mind at Large,' combined with physicalism's failure to explain consciousness and quantum theory's dismantling of locality and observer-independent reality, has driven him to abandon materialism and explore idealism—the view that mind, not matter, is fundamental.**
     - "Matter is an inference, and mind a given." —Bernardo Kastrup
-    - Chalmers’s verdict is that materialism, dualism, idealism, neutral monism, and none-of-the-above are all implausible, but one must be true or incomplete in some way.
+    - Koch's three reasons for abandoning physicalism: its abject inability to explain consciousness (leading Dennett to deny it exists), quantum entanglement ('bye-bye to locality'), and his own mystical experience.
+    - A recent review identified 84 non-physicalist theories of consciousness; Chalmers concludes idealism is implausible but no less so than materialism, dualism, or any competitor.
 
 
 <div class="chapter-glyph"><img src="/glyphs/Science/Earth_eye-target.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Coda: The Cave
 
-The coda replaces the search for a final theory with practice: Joan Halifax’s Zen refuge teaches Pollan that consciousness can be approached by silence, ritual, chores, solitude, and not-knowing rather than by solving. In the cave and under the stars, he learns that the prize is not an answer but a wider, less self-centered presence to the fact that a world appears.
+Retreating to a remote cave at Joan Halifax's Buddhist refuge, Pollan learns that consciousness may be better approached as a practice than a problem—that letting go into not-knowing and being fully present can reveal more than the narrowing spotlight of intellectual pursuit.
 
-* <span id="a-world-appears-a-journey-into-consciousness-034"></span>**Joan Halifax redirects Pollan from concepts to practice because Zen treats the deconstruction of self as something enacted through silence, service, ritual, and sustained presence rather than explained by theory.**
-    - Halifax’s life includes hospice work, death-row prisoners, homelessness work in Santa Fe, peace activism, the Nomads Clinic in Nepal, and decades as abbot of Upaya Zen Center.
-    - She calls Upaya “a factory for the deconstruction of selves,” but answers many philosophical questions by sending Pollan to stay alone in the mountain refuge’s cave.
-    - "I had divested from meaning." —Joan Halifax
-* <span id="a-world-appears-a-journey-into-consciousness-035"></span>**Zen retreat weakens the ego through structure rather than argument: silence prevents self-presentation, ritual replaces volition, and long meditation exhausts the mind’s repetitive self-concern until practitioners can “drop in” to the shared sense field.**
-    - Students sit zazen, follow the breath, walk in meditation, and submit to strict daily routines that reduce decision-making and personal performance.
-    - Halifax describes zazen as “the method of non-method,” an openness to uncertainty and groundlessness rather than a mental exercise aimed at explanation.
-    - By about day three of retreat, Halifax says the room can go “poof,” as participants shift from separate selves into “one body, one mind.”
-    - She treats psychedelic experience as a shortcut form of rite of passage, whereas Zen insists on the slower discipline of sitting with oneself until the self loses its entertainment value.
-* <span id="a-world-appears-a-journey-into-consciousness-036"></span>**Life in the cave strips consciousness to elemental routines, making wood, fire, water, sweeping, silence, and meditation into a practice that narrows the gap between ordinary action and contemplative presence.**
-    - The cave is a twelve-by-fifteen-foot hillside cell with a bed, woodstove, meditation platform, water jug, camp stove, solar-powered light, and no plumbing, internet, or cell service.
-    - Collecting wood, building fires, hauling water, digging pits, and sweeping become ritual-like chores that fully occupy attention and leave little remainder for self-consciousness.
-    - "That’s the sacredness of the everyday." —Joan Halifax
-* <span id="a-world-appears-a-journey-into-consciousness-037"></span>**Ricard’s no-self meditation works only partially for Pollan: he cannot find a stable thief of self among thoughts and images, yet a residual point of view and agency remain, making the self both illusory and real enough.**
-    - While meditating, Pollan sees hypnagogic images such as old telephone booths, a hammer striking a knee, an automatic glass door, a blazing sun, and a giant eyeball appear on the stage of awareness.
-    - He can chase the images away by willing it, which leaves him unable to locate a self but unable to deny some source of agency either.
-    - The cave version of the exercise differs from his hypnosis version: instead of many biographical selves, he finds perceptions and images but no enduring owner of them.
-* <span id="a-world-appears-a-journey-into-consciousness-038"></span>**The cave teaches that self depends on time: when memory and anticipation quiet, the self melts into present-tense awareness, and consciousness becomes less a problem to solve than a practice of being “altogether here.”**
-    - Pollan’s usual self lives in the proximate future, but cave chores, open-eyed meditation, and watching elk shrink his time horizon until past and future lose their grip.
-    - A midnight view of a moonless, three-dimensional star field overturns his habitual priors about the night sky and makes him feel infinitesimal yet fully included in the same space as the stars.
-    - "Always keep a don’t-know mind." —Joan Halifax
-    - The final formulation returns to the book’s title: consciousness is not only a mystery but the simple event that “I open my eyes and a world appears.”
+* <span id="a-world-appears-a-journey-into-consciousness-034"></span>**Joan Halifax's Upaya Zen Center is 'a factory for the deconstruction of selves' that uses silence, ritual, and the agony of prolonged meditation to break down the ego, teaching by practice rather than explanation and cultivating compassion for others' suffering.**
+    - Silence eliminates self-presentation; rituals relieve people of decisions and 'take the place of volition'; around day three people become so bored and exhausted with themselves that they 'drop in' to self-less presence.
+    - "Always keep a don't-know mind." —Joan Halifax
+* <span id="a-world-appears-a-journey-into-consciousness-035"></span>**Alone in the cave, Pollan finds that the self can be both illusory and real—he locates no thief of self within, yet something with a point of view and agency chases away hypnagogic images—and discovers that when the self is deprived of memory (past) and anticipation (future), it melts away and consciousness stills into present-moment awareness.**
+    - Searching the rooms of his mind he finds a parade of unbidden images—phone booths, a hammer on a knee, a sun becoming a giant eyeball—but no thinker of the thoughts.
+    - When the time horizon shrinks and he is absorbed in chores or watching elk, the stream of thought stills; self-less consciousness comes with eyes open, not closed.
+* <span id="a-world-appears-a-journey-into-consciousness-036"></span>**A night under an unfamiliar three-dimensional starscape—his brain's usual priors and predictions broken down—shows Pollan that his hard intellectual focus had narrowed his awareness and cost him fuller consciousness, leading him to embrace consciousness as a practice of being 'altogether here' rather than a puzzle to solve.**
+    - "This is what is wrong: we, only we, the humans, can retreat from ourselves and not be altogether here" —Jorie Graham
+    - The narrow beam of intellect yielded knowledge but cost the other 359 degrees of the numinous 'lantern' of awareness available when we break the spell of self.

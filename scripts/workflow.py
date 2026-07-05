@@ -235,6 +235,8 @@ def add_command(args: argparse.Namespace) -> int:
         cmd.append("--gpt")
     if getattr(args, "codex", False):
         cmd.append("--codex")
+    if getattr(args, "sequential", False):
+        cmd.append("--sequential")
     if args.test:
         cmd.append("--test")
     if args.enrich:
@@ -456,6 +458,11 @@ def build_parser() -> argparse.ArgumentParser:
     add.add_argument("--gem", action="store_true", help="Use Gemini provider")
     add.add_argument("--gpt", action="store_true", help="Use OpenAI provider")
     add.add_argument("--codex", action="store_true", help="Use local Codex exec provider")
+    add.add_argument(
+        "--sequential",
+        action="store_true",
+        help="Force sequential Anthropic processing instead of default batch mode",
+    )
     add.add_argument(
         "--test",
         action="store_true",

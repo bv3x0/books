@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-02T22:15:18.635249Z",
+  "updated_at": "2026-07-05T20:01:30.482191Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -5611,8 +5611,7 @@
         "market-wizards-the-new-generation-evidence-packets": 2,
         "market-wizards-the-new-generation-balanced-evidence": 1,
         "market-wizards-the-new-generation-synthesis-points": 1,
-        "market-wizards-the-new-generation-editorial-synthesis": 1,
-        "a-world-appears": 2
+        "market-wizards-the-new-generation-editorial-synthesis": 1
       },
       "books": [
         "alchemical active imagination",
@@ -5641,10 +5640,9 @@
         "market-wizards-the-new-generation-evidence-packets",
         "market-wizards-the-new-generation-balanced-evidence",
         "market-wizards-the-new-generation-synthesis-points",
-        "market-wizards-the-new-generation-editorial-synthesis",
-        "a-world-appears"
+        "market-wizards-the-new-generation-editorial-synthesis"
       ],
-      "claim_count": 50
+      "claim_count": 48
     },
     "dream_consciousness": {
       "id": "dream_consciousness",
@@ -9022,15 +9020,17 @@
         "animus and anima": 1,
         "deschooling society": 1,
         "mystery teachings from the living earth": 1,
-        "orality-and-literacy": 1
+        "orality-and-literacy": 1,
+        "a-world-appears": 2
       },
       "books": [
         "animus and anima",
         "deschooling society",
         "mystery teachings from the living earth",
-        "orality-and-literacy"
+        "orality-and-literacy",
+        "a-world-appears"
       ],
-      "claim_count": 4
+      "claim_count": 6
     },
     "oral_tradition": {
       "id": "oral_tradition",
@@ -9279,16 +9279,14 @@
       "book_claims": {
         "anthropol": 2,
         "fanged noumena": 1,
-        "the light eaters": 1,
-        "a-world-appears": 1
+        "the light eaters": 1
       },
       "books": [
         "anthropol",
         "fanged noumena",
-        "the light eaters",
-        "a-world-appears"
+        "the light eaters"
       ],
-      "claim_count": 5
+      "claim_count": 4
     },
     "cognitive_bias": {
       "id": "cognitive_bias",
@@ -10907,8 +10905,7 @@
         "the-body-keeps-the-score": 1,
         "why we sleep": 1,
         "market-wizards-the-new-generation": 1,
-        "market-wizards-the-new-generation-evidence-packets": 1,
-        "a-world-appears": 2
+        "market-wizards-the-new-generation-evidence-packets": 1
       },
       "books": [
         "best loser wins",
@@ -10917,10 +10914,9 @@
         "the-body-keeps-the-score",
         "why we sleep",
         "market-wizards-the-new-generation",
-        "market-wizards-the-new-generation-evidence-packets",
-        "a-world-appears"
+        "market-wizards-the-new-generation-evidence-packets"
       ],
-      "claim_count": 9
+      "claim_count": 7
     },
     "technological_stagnation": {
       "id": "technological_stagnation",
@@ -14108,8 +14104,7 @@
         "kelly more than my share of it all": 1,
         "on the aesthetic education of man": 1,
         "the soul of the world": 2,
-        "the world as will and representation vol 2": 1,
-        "a-world-appears": 1
+        "the world as will and representation vol 2": 1
       },
       "books": [
         "confessions",
@@ -14117,10 +14112,9 @@
         "kelly more than my share of it all",
         "on the aesthetic education of man",
         "the soul of the world",
-        "the world as will and representation vol 2",
-        "a-world-appears"
+        "the world as will and representation vol 2"
       ],
-      "claim_count": 8
+      "claim_count": 7
     },
     "ascetic_piety": {
       "id": "ascetic_piety",
@@ -19005,18 +18999,16 @@
         "on the aesthetic education of man": 1,
         "the discarded image": 2,
         "the world as will and representation": 2,
-        "the world as will and representation vol 2": 4,
-        "a-world-appears": 1
+        "the world as will and representation vol 2": 4
       },
       "books": [
         "fooled by randomness",
         "on the aesthetic education of man",
         "the discarded image",
         "the world as will and representation",
-        "the world as will and representation vol 2",
-        "a-world-appears"
+        "the world as will and representation vol 2"
       ],
-      "claim_count": 11
+      "claim_count": 10
     },
     "sacred_language": {
       "id": "sacred_language",
@@ -19232,8 +19224,7 @@
         "the mask and face of contemporary spiritualism": 3,
         "the secret teachings of all ages": 1,
         "the world as will and representation": 2,
-        "the world as will and representation vol 2": 2,
-        "a-world-appears": 1
+        "the world as will and representation vol 2": 2
       },
       "books": [
         "confessions",
@@ -19245,10 +19236,9 @@
         "the mask and face of contemporary spiritualism",
         "the secret teachings of all ages",
         "the world as will and representation",
-        "the world as will and representation vol 2",
-        "a-world-appears"
+        "the world as will and representation vol 2"
       ],
-      "claim_count": 18
+      "claim_count": 17
     },
     "first_person_perspective": {
       "id": "first_person_perspective",
@@ -19380,8 +19370,7 @@
         "preface to plato": 1,
         "the cybernetic brain": 1,
         "the elephant in the brain": 1,
-        "the world as will and representation vol 2": 1,
-        "a-world-appears": 1
+        "the world as will and representation vol 2": 1
       },
       "books": [
         "anthropomorphics",
@@ -19391,10 +19380,9 @@
         "preface to plato",
         "the cybernetic brain",
         "the elephant in the brain",
-        "the world as will and representation vol 2",
-        "a-world-appears"
+        "the world as will and representation vol 2"
       ],
-      "claim_count": 14
+      "claim_count": 13
     },
     "language_evolution": {
       "id": "language_evolution",
@@ -21118,7 +21106,8 @@
         "the ascent of money": 1,
         "the black swan": 2,
         "the world as will and representation vol 2": 1,
-        "the zurich axioms": 1
+        "the zurich axioms": 1,
+        "a-world-appears": 1
       },
       "books": [
         "introduction-to-christianity",
@@ -21126,9 +21115,10 @@
         "the ascent of money",
         "the black swan",
         "the world as will and representation vol 2",
-        "the zurich axioms"
+        "the zurich axioms",
+        "a-world-appears"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "creative_autonomy": {
       "id": "creative_autonomy",
@@ -24689,14 +24679,16 @@
       "book_claims": {
         "memories-dreams-reflections": 1,
         "psychomagic": 1,
-        "the-body-keeps-the-score": 3
+        "the-body-keeps-the-score": 3,
+        "a-world-appears": 1
       },
       "books": [
         "memories-dreams-reflections",
         "psychomagic",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "a-world-appears"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "ego_dissolution": {
       "id": "ego_dissolution",
@@ -24708,7 +24700,7 @@
         "memories-dreams-reflections": 1,
         "revolt-against-the-modern-world": 1,
         "the reality of being": 2,
-        "a-world-appears": 1
+        "a-world-appears": 2
       },
       "books": [
         "memories-dreams-reflections",
@@ -24716,7 +24708,7 @@
         "the reality of being",
         "a-world-appears"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "cultural_attitudes": {
       "id": "cultural_attitudes",
@@ -24929,18 +24921,16 @@
         "muskism": 1,
         "signs and machines": 1,
         "the cybernetic brain": 1,
-        "the light eaters": 1,
-        "a-world-appears": 1
+        "the light eaters": 1
       },
       "books": [
         "michael-levin-major-talks",
         "muskism",
         "signs and machines",
         "the cybernetic brain",
-        "the light eaters",
-        "a-world-appears"
+        "the light eaters"
       ],
-      "claim_count": 8
+      "claim_count": 7
     },
     "morphological_plasticity": {
       "id": "morphological_plasticity",
@@ -28827,18 +28817,16 @@
         "occult philosophy in the elizabethan age": 1,
         "the discarded image": 1,
         "the world as will and representation vol 2": 1,
-        "things hidden since the foundation of the world": 1,
-        "a-world-appears": 1
+        "things hidden since the foundation of the world": 1
       },
       "books": [
         "europes tragedy",
         "occult philosophy in the elizabethan age",
         "the discarded image",
         "the world as will and representation vol 2",
-        "things hidden since the foundation of the world",
-        "a-world-appears"
+        "things hidden since the foundation of the world"
       ],
-      "claim_count": 6
+      "claim_count": 5
     },
     "religious_tradition": {
       "id": "religious_tradition",
@@ -31559,16 +31547,14 @@
       "book_claims": {
         "confessions": 1,
         "psychomagic": 1,
-        "the closing of the american mind": 1,
-        "a-world-appears": 1
+        "the closing of the american mind": 1
       },
       "books": [
         "confessions",
         "psychomagic",
-        "the closing of the american mind",
-        "a-world-appears"
+        "the closing of the american mind"
       ],
-      "claim_count": 4
+      "claim_count": 3
     },
     "shamanic_healing": {
       "id": "shamanic_healing",
@@ -33183,7 +33169,8 @@
         "revolt-against-the-modern-world": 1,
         "the art of doing science and engineering": 1,
         "the discarded image": 1,
-        "why we sleep": 1
+        "why we sleep": 1,
+        "a-world-appears": 1
       },
       "books": [
         "art of memory",
@@ -33192,9 +33179,10 @@
         "revolt-against-the-modern-world",
         "the art of doing science and engineering",
         "the discarded image",
-        "why we sleep"
+        "why we sleep",
+        "a-world-appears"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "mass_movement": {
       "id": "mass_movement",
@@ -35649,8 +35637,7 @@
         "the world as will and representation vol 2": 5,
         "mystery-of-the-grail-synthesis-points": 1,
         "mystery-of-the-grail-textured-synthesis": 1,
-        "mystery-of-the-grail-scoped-synthesis": 1,
-        "a-world-appears": 1
+        "mystery-of-the-grail-scoped-synthesis": 1
       },
       "books": [
         "anthropomorphics",
@@ -35663,10 +35650,9 @@
         "the world as will and representation vol 2",
         "mystery-of-the-grail-synthesis-points",
         "mystery-of-the-grail-textured-synthesis",
-        "mystery-of-the-grail-scoped-synthesis",
-        "a-world-appears"
+        "mystery-of-the-grail-scoped-synthesis"
       ],
-      "claim_count": 31
+      "claim_count": 30
     },
     "identity": {
       "id": "identity",
@@ -36725,16 +36711,14 @@
       "book_claims": {
         "beelzebubs tales": 1,
         "from bacteria to bach and back": 1,
-        "how artifacts afford": 2,
-        "a-world-appears": 1
+        "how artifacts afford": 2
       },
       "books": [
         "beelzebubs tales",
         "from bacteria to bach and back",
-        "how artifacts afford",
-        "a-world-appears"
+        "how artifacts afford"
       ],
-      "claim_count": 5
+      "claim_count": 4
     },
     "psychological_fragmentation": {
       "id": "psychological_fragmentation",
@@ -37145,16 +37129,14 @@
       "book_claims": {
         "beelzebubs tales": 1,
         "memories-dreams-reflections": 2,
-        "the world as will and representation vol 2": 2,
-        "a-world-appears": 1
+        "the world as will and representation vol 2": 2
       },
       "books": [
         "beelzebubs tales",
         "memories-dreams-reflections",
-        "the world as will and representation vol 2",
-        "a-world-appears"
+        "the world as will and representation vol 2"
       ],
-      "claim_count": 6
+      "claim_count": 5
     },
     "empirical_method": {
       "id": "empirical_method",
@@ -38831,18 +38813,16 @@
         "henry kaiser": 1,
         "introduction-to-christianity": 2,
         "out-of-body exploring": 1,
-        "the culture of narcissism": 1,
-        "a-world-appears": 1
+        "the culture of narcissism": 1
       },
       "books": [
         "confessions",
         "henry kaiser",
         "introduction-to-christianity",
         "out-of-body exploring",
-        "the culture of narcissism",
-        "a-world-appears"
+        "the culture of narcissism"
       ],
-      "claim_count": 7
+      "claim_count": 6
     },
     "cultural_decline": {
       "id": "cultural_decline",
@@ -39442,15 +39422,13 @@
       "related": [],
       "book_claims": {
         "sexual personae": 1,
-        "the culture of narcissism": 2,
-        "a-world-appears": 1
+        "the culture of narcissism": 2
       },
       "books": [
         "sexual personae",
-        "the culture of narcissism",
-        "a-world-appears"
+        "the culture of narcissism"
       ],
-      "claim_count": 4
+      "claim_count": 3
     },
     "patriarchy": {
       "id": "patriarchy",
@@ -39807,18 +39785,16 @@
         "horror of philosophy": 1,
         "ride the tiger": 1,
         "the cybernetic brain": 1,
-        "the magical revival": 1,
-        "a-world-appears": 1
+        "the magical revival": 1
       },
       "books": [
         "a vision",
         "horror of philosophy",
         "ride the tiger",
         "the cybernetic brain",
-        "the magical revival",
-        "a-world-appears"
+        "the magical revival"
       ],
-      "claim_count": 6
+      "claim_count": 5
     },
     "environmental_pressure": {
       "id": "environmental_pressure",
@@ -39932,7 +39908,8 @@
         "mystery teachings from the living earth": 1,
         "the art of doing science and engineering": 1,
         "the pattern on the stone": 2,
-        "the world as will and representation": 1
+        "the world as will and representation": 1,
+        "a-world-appears": 1
       },
       "books": [
         "beyond good and evil",
@@ -39940,9 +39917,10 @@
         "mystery teachings from the living earth",
         "the art of doing science and engineering",
         "the pattern on the stone",
-        "the world as will and representation"
+        "the world as will and representation",
+        "a-world-appears"
       ],
-      "claim_count": 8
+      "claim_count": 9
     },
     "protestantism": {
       "id": "protestantism",
@@ -40428,7 +40406,8 @@
         "mystery teachings from the living earth": 1,
         "parables for the virtual": 1,
         "skin in the game": 1,
-        "the cybernetic brain": 2
+        "the cybernetic brain": 2,
+        "a-world-appears": 1
       },
       "books": [
         "bronze age mindset",
@@ -40436,9 +40415,10 @@
         "mystery teachings from the living earth",
         "parables for the virtual",
         "skin in the game",
-        "the cybernetic brain"
+        "the cybernetic brain",
+        "a-world-appears"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "dualism": {
       "id": "dualism",
@@ -40453,8 +40433,7 @@
         "origins of the kabbalah": 2,
         "the world as will and representation vol 2": 1,
         "mystery-of-the-grail-synthesis-points": 1,
-        "mystery-of-the-grail-textured-synthesis": 2,
-        "a-world-appears": 2
+        "mystery-of-the-grail-textured-synthesis": 2
       },
       "books": [
         "confessions",
@@ -40463,10 +40442,9 @@
         "origins of the kabbalah",
         "the world as will and representation vol 2",
         "mystery-of-the-grail-synthesis-points",
-        "mystery-of-the-grail-textured-synthesis",
-        "a-world-appears"
+        "mystery-of-the-grail-textured-synthesis"
       ],
-      "claim_count": 11
+      "claim_count": 9
     },
     "jewish_kabbalah": {
       "id": "jewish_kabbalah",
@@ -42405,14 +42383,14 @@
       "book_claims": {
         "the adventure of consciousness": 1,
         "the secret teachings of all ages": 1,
-        "a-world-appears": 2
+        "a-world-appears": 1
       },
       "books": [
         "the adventure of consciousness",
         "the secret teachings of all ages",
         "a-world-appears"
       ],
-      "claim_count": 4
+      "claim_count": 3
     },
     "chakra_system": {
       "id": "chakra_system",
@@ -42495,18 +42473,16 @@
         "man and his symbols": 1,
         "structures": 2,
         "the discarded image": 2,
-        "the secret teachings of all ages": 1,
-        "a-world-appears": 2
+        "the secret teachings of all ages": 1
       },
       "books": [
         "generative energy",
         "man and his symbols",
         "structures",
         "the discarded image",
-        "the secret teachings of all ages",
-        "a-world-appears"
+        "the secret teachings of all ages"
       ],
-      "claim_count": 9
+      "claim_count": 7
     },
     "solar_mythology": {
       "id": "solar_mythology",
@@ -43571,14 +43547,16 @@
       "book_claims": {
         "lacan seminars i": 1,
         "man and his symbols": 1,
-        "the-body-keeps-the-score": 1
+        "the-body-keeps-the-score": 1,
+        "a-world-appears": 1
       },
       "books": [
         "lacan seminars i",
         "man and his symbols",
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "a-world-appears"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "symbolic_order": {
       "id": "symbolic_order",
@@ -44769,14 +44747,14 @@
       "book_claims": {
         "the reality of being": 2,
         "the tarot sadhu": 1,
-        "a-world-appears": 2
+        "a-world-appears": 1
       },
       "books": [
         "the reality of being",
         "the tarot sadhu",
         "a-world-appears"
       ],
-      "claim_count": 5
+      "claim_count": 4
     },
     "prayer": {
       "id": "prayer",
@@ -45726,17 +45704,15 @@
         "flatline constructs": 5,
         "on heroes": 1,
         "schizoposting": 1,
-        "sexual personae": 1,
-        "a-world-appears": 1
+        "sexual personae": 1
       },
       "books": [
         "flatline constructs",
         "on heroes",
         "schizoposting",
-        "sexual personae",
-        "a-world-appears"
+        "sexual personae"
       ],
-      "claim_count": 9
+      "claim_count": 8
     },
     "nation_building": {
       "id": "nation_building",
@@ -46676,13 +46652,15 @@
       "related": [],
       "book_claims": {
         "horror of philosophy": 1,
-        "memories-dreams-reflections": 1
+        "memories-dreams-reflections": 1,
+        "a-world-appears": 1
       },
       "books": [
         "horror of philosophy",
-        "memories-dreams-reflections"
+        "memories-dreams-reflections",
+        "a-world-appears"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "set_theory": {
       "id": "set_theory",
@@ -47922,15 +47900,13 @@
       "related": [],
       "book_claims": {
         "beyond good and evil": 3,
-        "thus spake zarathustra": 9,
-        "a-world-appears": 1
+        "thus spake zarathustra": 9
       },
       "books": [
         "beyond good and evil",
-        "thus spake zarathustra",
-        "a-world-appears"
+        "thus spake zarathustra"
       ],
-      "claim_count": 13
+      "claim_count": 12
     },
     "solitude_and_community": {
       "id": "solitude_and_community",
@@ -48678,15 +48654,17 @@
         "in search of the miraculous": 1,
         "the sickness unto death": 1,
         "the world as will and representation": 1,
-        "the world as will and representation vol 2": 4
+        "the world as will and representation vol 2": 4,
+        "a-world-appears": 1
       },
       "books": [
         "in search of the miraculous",
         "the sickness unto death",
         "the world as will and representation",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "a-world-appears"
       ],
-      "claim_count": 7
+      "claim_count": 8
     },
     "liturgical_practice": {
       "id": "liturgical_practice",
@@ -50416,17 +50394,15 @@
         "flatline constructs": 2,
         "michael-levin-major-talks": 1,
         "schizoposting": 1,
-        "zero to one": 3,
-        "a-world-appears": 2
+        "zero to one": 3
       },
       "books": [
         "flatline constructs",
         "michael-levin-major-talks",
         "schizoposting",
-        "zero to one",
-        "a-world-appears"
+        "zero to one"
       ],
-      "claim_count": 9
+      "claim_count": 7
     },
     "hybrid_systems": {
       "id": "hybrid_systems",
@@ -51664,13 +51640,15 @@
       "related": [],
       "book_claims": {
         "bronze age mindset": 2,
-        "catafalque": 1
+        "catafalque": 1,
+        "a-world-appears": 1
       },
       "books": [
         "bronze age mindset",
-        "catafalque"
+        "catafalque",
+        "a-world-appears"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "social_norms": {
       "id": "social_norms",
@@ -52704,15 +52682,17 @@
         "horror of philosophy 3": 1,
         "mind in motion": 3,
         "parables for the virtual": 1,
-        "the pattern on the stone": 1
+        "the pattern on the stone": 1,
+        "a-world-appears": 1
       },
       "books": [
         "horror of philosophy 3",
         "mind in motion",
         "parables for the virtual",
-        "the pattern on the stone"
+        "the pattern on the stone",
+        "a-world-appears"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "self_presentation": {
       "id": "self_presentation",
@@ -53037,18 +53017,16 @@
         "only the paranoid survive": 1,
         "market-wizards-the-new-generation": 6,
         "market-wizards-the-new-generation-evidence-packets": 1,
-        "market-wizards-the-new-generation-balanced-evidence": 1,
-        "a-world-appears": 1
+        "market-wizards-the-new-generation-balanced-evidence": 1
       },
       "books": [
         "mystery teachings from the living earth",
         "only the paranoid survive",
         "market-wizards-the-new-generation",
         "market-wizards-the-new-generation-evidence-packets",
-        "market-wizards-the-new-generation-balanced-evidence",
-        "a-world-appears"
+        "market-wizards-the-new-generation-balanced-evidence"
       ],
-      "claim_count": 12
+      "claim_count": 11
     },
     "specialization": {
       "id": "specialization",
@@ -56756,15 +56734,13 @@
       "related": [],
       "book_claims": {
         "the pattern on the stone": 1,
-        "why we sleep": 2,
-        "a-world-appears": 1
+        "why we sleep": 2
       },
       "books": [
         "the pattern on the stone",
-        "why we sleep",
-        "a-world-appears"
+        "why we sleep"
       ],
-      "claim_count": 4
+      "claim_count": 3
     },
     "memory_consolidation": {
       "id": "memory_consolidation",
@@ -57650,15 +57626,13 @@
       "related": [],
       "book_claims": {
         "flatline constructs": 1,
-        "horror of philosophy 3": 1,
-        "a-world-appears": 2
+        "horror of philosophy 3": 1
       },
       "books": [
         "flatline constructs",
-        "horror of philosophy 3",
-        "a-world-appears"
+        "horror of philosophy 3"
       ],
-      "claim_count": 4
+      "claim_count": 2
     },
     "pessimism": {
       "id": "pessimism",
@@ -57783,16 +57757,14 @@
       "book_claims": {
         "kabbalistic visions": 1,
         "on the aesthetic education of man": 1,
-        "the world as will and representation vol 2": 1,
-        "a-world-appears": 1
+        "the world as will and representation vol 2": 1
       },
       "books": [
         "kabbalistic visions",
         "on the aesthetic education of man",
-        "the world as will and representation vol 2",
-        "a-world-appears"
+        "the world as will and representation vol 2"
       ],
-      "claim_count": 4
+      "claim_count": 3
     },
     "subjectivity": {
       "id": "subjectivity",
@@ -58592,13 +58564,15 @@
       "related": [],
       "book_claims": {
         "the light eaters": 1,
-        "the world as will and representation vol 2": 1
+        "the world as will and representation vol 2": 1,
+        "a-world-appears": 1
       },
       "books": [
         "the light eaters",
-        "the world as will and representation vol 2"
+        "the world as will and representation vol 2",
+        "a-world-appears"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "category_error": {
       "id": "category_error",
@@ -60630,15 +60604,13 @@
       "related": [],
       "book_claims": {
         "beyond good and evil": 1,
-        "the cybernetic brain": 1,
-        "a-world-appears": 1
+        "the cybernetic brain": 1
       },
       "books": [
         "beyond good and evil",
-        "the cybernetic brain",
-        "a-world-appears"
+        "the cybernetic brain"
       ],
-      "claim_count": 3
+      "claim_count": 2
     },
     "counterculture": {
       "id": "counterculture",
@@ -60776,13 +60748,15 @@
       "related": [],
       "book_claims": {
         "in search of the miraculous": 3,
-        "the cybernetic brain": 2
+        "the cybernetic brain": 2,
+        "a-world-appears": 1
       },
       "books": [
         "in search of the miraculous",
-        "the cybernetic brain"
+        "the cybernetic brain",
+        "a-world-appears"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "citizen_empowerment": {
       "id": "citizen_empowerment",
@@ -61315,18 +61289,16 @@
         "schizoposting": 2,
         "market-wizards-the-new-generation-evidence-packets": 1,
         "market-wizards-the-new-generation-synthesis-points": 1,
-        "market-wizards-the-new-generation-editorial-synthesis": 1,
-        "a-world-appears": 1
+        "market-wizards-the-new-generation-editorial-synthesis": 1
       },
       "books": [
         "flatline constructs",
         "schizoposting",
         "market-wizards-the-new-generation-evidence-packets",
         "market-wizards-the-new-generation-synthesis-points",
-        "market-wizards-the-new-generation-editorial-synthesis",
-        "a-world-appears"
+        "market-wizards-the-new-generation-editorial-synthesis"
       ],
-      "claim_count": 9
+      "claim_count": 8
     },
     "gender_norms": {
       "id": "gender_norms",
@@ -66671,16 +66643,14 @@
       "book_claims": {
         "atomic habits": 1,
         "fooled by randomness": 1,
-        "mystery-of-the-grail-scoped-synthesis": 1,
-        "a-world-appears": 1
+        "mystery-of-the-grail-scoped-synthesis": 1
       },
       "books": [
         "atomic habits",
         "fooled by randomness",
-        "mystery-of-the-grail-scoped-synthesis",
-        "a-world-appears"
+        "mystery-of-the-grail-scoped-synthesis"
       ],
-      "claim_count": 4
+      "claim_count": 3
     },
     "peace_making": {
       "id": "peace_making",
@@ -150843,12 +150813,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "from bacteria to bach and back": 2
+        "from bacteria to bach and back": 2,
+        "a-world-appears": 1
       },
       "books": [
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "a-world-appears"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "evolutionary_algorithms": {
       "id": "evolutionary_algorithms",
@@ -163807,12 +163779,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "in search of the miraculous": 6
+        "in search of the miraculous": 6,
+        "a-world-appears": 1
       },
       "books": [
-        "in search of the miraculous"
+        "in search of the miraculous",
+        "a-world-appears"
       ],
-      "claim_count": 6
+      "claim_count": 7
     },
     "understanding_vs_faith": {
       "id": "understanding_vs_faith",
@@ -178267,14 +178241,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "lacan seminars i": 1,
-        "a-world-appears": 1
+        "lacan seminars i": 1
       },
       "books": [
-        "lacan seminars i",
-        "a-world-appears"
+        "lacan seminars i"
       ],
-      "claim_count": 2
+      "claim_count": 1
     },
     "full_speech": {
       "id": "full_speech",
@@ -180263,14 +180235,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "language machines": 1,
-        "a-world-appears": 1
+        "language machines": 1
       },
       "books": [
-        "language machines",
-        "a-world-appears"
+        "language machines"
       ],
-      "claim_count": 2
+      "claim_count": 1
     },
     "human_machine_divide": {
       "id": "human_machine_divide",
@@ -183195,14 +183165,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "man and his symbols": 1,
-        "a-world-appears": 1
+        "man and his symbols": 1
       },
       "books": [
-        "man and his symbols",
-        "a-world-appears"
+        "man and his symbols"
       ],
-      "claim_count": 2
+      "claim_count": 1
     },
     "archetypal_concepts": {
       "id": "archetypal_concepts",
@@ -188014,13 +187982,13 @@
       "related": [],
       "book_claims": {
         "michael-levin-major-talks": 2,
-        "a-world-appears": 1
+        "a-world-appears": 2
       },
       "books": [
         "michael-levin-major-talks",
         "a-world-appears"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "biological_competency": {
       "id": "biological_competency",
@@ -195678,13 +195646,13 @@
       "related": [],
       "book_claims": {
         "mystery teachings from the living earth": 2,
-        "a-world-appears": 2
+        "a-world-appears": 3
       },
       "books": [
         "mystery teachings from the living earth",
         "a-world-appears"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "systemic_correction": {
       "id": "systemic_correction",
@@ -248086,13 +248054,13 @@
       "related": [],
       "book_claims": {
         "revolt-against-the-modern-world": 1,
-        "a-world-appears": 2
+        "a-world-appears": 1
       },
       "books": [
         "revolt-against-the-modern-world",
         "a-world-appears"
       ],
-      "claim_count": 3
+      "claim_count": 2
     },
     "centralization": {
       "id": "centralization",
@@ -254105,14 +254073,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "ride the tiger": 1,
-        "a-world-appears": 1
+        "ride the tiger": 1
       },
       "books": [
-        "ride the tiger",
-        "a-world-appears"
+        "ride the tiger"
       ],
-      "claim_count": 2
+      "claim_count": 1
     },
     "death_and_freedom": {
       "id": "death_and_freedom",
@@ -339883,12 +339849,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the-body-keeps-the-score": 1
+        "the-body-keeps-the-score": 1,
+        "a-world-appears": 1
       },
       "books": [
-        "the-body-keeps-the-score"
+        "the-body-keeps-the-score",
+        "a-world-appears"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "community_connection": {
       "id": "community_connection",
@@ -368346,15 +368314,13 @@
       "related": [],
       "book_claims": {
         "market-wizards-the-new-generation": 1,
-        "market-wizards-the-new-generation-balanced-evidence": 1,
-        "a-world-appears": 1
+        "market-wizards-the-new-generation-balanced-evidence": 1
       },
       "books": [
         "market-wizards-the-new-generation",
-        "market-wizards-the-new-generation-balanced-evidence",
-        "a-world-appears"
+        "market-wizards-the-new-generation-balanced-evidence"
       ],
-      "claim_count": 3
+      "claim_count": 2
     },
     "volatility_harvesting": {
       "id": "volatility_harvesting",
@@ -372974,15 +372940,13 @@
       "related": [],
       "book_claims": {
         "market-wizards-the-new-generation-evidence-packets": 1,
-        "market-wizards-the-new-generation-balanced-evidence": 2,
-        "a-world-appears": 2
+        "market-wizards-the-new-generation-balanced-evidence": 2
       },
       "books": [
         "market-wizards-the-new-generation-evidence-packets",
-        "market-wizards-the-new-generation-balanced-evidence",
-        "a-world-appears"
+        "market-wizards-the-new-generation-balanced-evidence"
       ],
-      "claim_count": 5
+      "claim_count": 3
     },
     "pressure_response": {
       "id": "pressure_response",
@@ -373178,7 +373142,7 @@
         "market-wizards-the-new-generation-evidence-packets": 1,
         "market-wizards-the-new-generation-balanced-evidence": 1,
         "market-wizards-the-new-generation-synthesis-points": 1,
-        "a-world-appears": 2
+        "a-world-appears": 4
       },
       "books": [
         "market-wizards-the-new-generation-evidence-packets",
@@ -373186,7 +373150,7 @@
         "market-wizards-the-new-generation-synthesis-points",
         "a-world-appears"
       ],
-      "claim_count": 5
+      "claim_count": 7
     },
     "trade_setup": {
       "id": "trade_setup",
@@ -379888,6 +379852,34 @@
       ],
       "claim_count": 1
     },
+    "scientific_wager": {
+      "id": "scientific_wager",
+      "label": "Scientific Wager",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "reductive_science": {
+      "id": "reductive_science",
+      "label": "Reductive Science",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
     "hard_problem": {
       "id": "hard_problem",
       "label": "Hard Problem",
@@ -379895,16 +379887,30 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a-world-appears": 1
+        "a-world-appears": 2
       },
       "books": [
         "a-world-appears"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
-    "reductive_method": {
-      "id": "reductive_method",
-      "label": "Reductive Method",
+    "bifurcation_of_nature": {
+      "id": "bifurcation_of_nature",
+      "label": "Bifurcation Of Nature",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 2
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 2
+    },
+    "integrated_information_theory": {
+      "id": "integrated_information_theory",
+      "label": "Integrated Information Theory",
       "description": "",
       "aliases": [],
       "related": [],
@@ -379916,23 +379922,9 @@
       ],
       "claim_count": 1
     },
-    "psychedelic_experience": {
-      "id": "psychedelic_experience",
-      "label": "Psychedelic Experience",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "a-world-appears": 3
-      },
-      "books": [
-        "a-world-appears"
-      ],
-      "claim_count": 3
-    },
-    "theories_of_consciousness": {
-      "id": "theories_of_consciousness",
-      "label": "Theories Of Consciousness",
+    "global_workspace_theory": {
+      "id": "global_workspace_theory",
+      "label": "Global Workspace Theory",
       "description": "",
       "aliases": [],
       "related": [],
@@ -379944,9 +379936,9 @@
       ],
       "claim_count": 1
     },
-    "scientific_adversarialism": {
-      "id": "scientific_adversarialism",
-      "label": "Scientific Adversarialism",
+    "adversarial_collaboration": {
+      "id": "adversarial_collaboration",
+      "label": "Adversarial Collaboration",
       "description": "",
       "aliases": [],
       "related": [],
@@ -379958,9 +379950,23 @@
       ],
       "claim_count": 1
     },
-    "first_person_method": {
-      "id": "first_person_method",
-      "label": "First Person Method",
+    "view_from_nowhere": {
+      "id": "view_from_nowhere",
+      "label": "View From Nowhere",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "primary_and_secondary_qualities": {
+      "id": "primary_and_secondary_qualities",
+      "label": "Primary And Secondary Qualities",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380000,9 +380006,9 @@
       ],
       "claim_count": 1
     },
-    "ethics_of_consciousness": {
-      "id": "ethics_of_consciousness",
-      "label": "Ethics Of Consciousness",
+    "moral_consideration": {
+      "id": "moral_consideration",
+      "label": "Moral Consideration",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380063,12 +380069,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a-world-appears": 2
+        "a-world-appears": 1
       },
       "books": [
         "a-world-appears"
       ],
-      "claim_count": 2
+      "claim_count": 1
     },
     "predictive_processing": {
       "id": "predictive_processing",
@@ -380084,6 +380090,20 @@
       ],
       "claim_count": 2
     },
+    "inference": {
+      "id": "inference",
+      "label": "Inference",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
     "biopsychism": {
       "id": "biopsychism",
       "label": "Biopsychism",
@@ -380098,9 +380118,9 @@
       ],
       "claim_count": 1
     },
-    "evolution_of_consciousness": {
-      "id": "evolution_of_consciousness",
-      "label": "Evolution Of Consciousness",
+    "participatory_epistemology": {
+      "id": "participatory_epistemology",
+      "label": "Participatory Epistemology",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380112,9 +380132,9 @@
       ],
       "claim_count": 1
     },
-    "value": {
-      "id": "value",
-      "label": "Value",
+    "reductive_materialism": {
+      "id": "reductive_materialism",
+      "label": "Reductive Materialism",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380129,20 +380149,6 @@
     "interoception": {
       "id": "interoception",
       "label": "Interoception",
-      "description": "",
-      "aliases": [],
-      "related": [],
-      "book_claims": {
-        "a-world-appears": 2
-      },
-      "books": [
-        "a-world-appears"
-      ],
-      "claim_count": 2
-    },
-    "embodied_consciousness": {
-      "id": "embodied_consciousness",
-      "label": "Embodied Consciousness",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380175,12 +380181,12 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a-world-appears": 1
+        "a-world-appears": 2
       },
       "books": [
         "a-world-appears"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "synthetic_phenomenology": {
       "id": "synthetic_phenomenology",
@@ -380210,9 +380216,9 @@
       ],
       "claim_count": 1
     },
-    "brain_computer_metaphor": {
-      "id": "brain_computer_metaphor",
-      "label": "Brain Computer Metaphor",
+    "brain_as_computer_metaphor": {
+      "id": "brain_as_computer_metaphor",
+      "label": "Brain As Computer Metaphor",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380224,9 +380230,51 @@
       ],
       "claim_count": 1
     },
-    "scientific_abstraction": {
-      "id": "scientific_abstraction",
-      "label": "Scientific Abstraction",
+    "substrate_independence": {
+      "id": "substrate_independence",
+      "label": "Substrate Independence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "moravecs_paradox": {
+      "id": "moravecs_paradox",
+      "label": "Moravecs Paradox",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "vulnerability": {
+      "id": "vulnerability",
+      "label": "Vulnerability",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "psychedelic_insight": {
+      "id": "psychedelic_insight",
+      "label": "Psychedelic Insight",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380245,16 +380293,16 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a-world-appears": 2
+        "a-world-appears": 3
       },
       "books": [
         "a-world-appears"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
-    "mental_context": {
-      "id": "mental_context",
-      "label": "Mental Context",
+    "preverbal_thought": {
+      "id": "preverbal_thought",
+      "label": "Preverbal Thought",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380266,9 +380314,9 @@
       ],
       "claim_count": 1
     },
-    "cognitive_diversity": {
-      "id": "cognitive_diversity",
-      "label": "Cognitive Diversity",
+    "descriptive_experience_sampling": {
+      "id": "descriptive_experience_sampling",
+      "label": "Descriptive Experience Sampling",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380308,9 +380356,79 @@
       ],
       "claim_count": 1
     },
-    "literary_phenomenology": {
-      "id": "literary_phenomenology",
-      "label": "Literary Phenomenology",
+    "the_unconscious": {
+      "id": "the_unconscious",
+      "label": "The Unconscious",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "neurophenomenology": {
+      "id": "neurophenomenology",
+      "label": "Neurophenomenology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "literary_modernism": {
+      "id": "literary_modernism",
+      "label": "Literary Modernism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "cognitive_control": {
+      "id": "cognitive_control",
+      "label": "Cognitive Control",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "cultural_history_of_mind": {
+      "id": "cultural_history_of_mind",
+      "label": "Cultural History Of Mind",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "the_self": {
+      "id": "the_self",
+      "label": "The Self",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380336,23 +380454,65 @@
       ],
       "claim_count": 2
     },
-    "self_model": {
-      "id": "self_model",
-      "label": "Self Model",
+    "explore_exploit": {
+      "id": "explore_exploit",
+      "label": "Explore Exploit",
       "description": "",
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a-world-appears": 2
+        "a-world-appears": 1
       },
       "books": [
         "a-world-appears"
       ],
-      "claim_count": 2
+      "claim_count": 1
     },
-    "narrative_identity": {
-      "id": "narrative_identity",
-      "label": "Narrative Identity",
+    "lantern_and_spotlight_consciousness": {
+      "id": "lantern_and_spotlight_consciousness",
+      "label": "Lantern And Spotlight Consciousness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "controlled_hallucination": {
+      "id": "controlled_hallucination",
+      "label": "Controlled Hallucination",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "bayesian_brain": {
+      "id": "bayesian_brain",
+      "label": "Bayesian Brain",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "mnemonic_improvisation": {
+      "id": "mnemonic_improvisation",
+      "label": "Mnemonic Improvisation",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380392,9 +380552,9 @@
       ],
       "claim_count": 1
     },
-    "minimal_consciousness": {
-      "id": "minimal_consciousness",
-      "label": "Minimal Consciousness",
+    "individuality_of_consciousness": {
+      "id": "individuality_of_consciousness",
+      "label": "Individuality Of Consciousness",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380409,6 +380569,34 @@
     "pure_awareness": {
       "id": "pure_awareness",
       "label": "Pure Awareness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 2
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 2
+    },
+    "minimal_phenomenal_experience": {
+      "id": "minimal_phenomenal_experience",
+      "label": "Minimal Phenomenal Experience",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "self_model": {
+      "id": "self_model",
+      "label": "Self Model",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380434,9 +380622,9 @@
       ],
       "claim_count": 1
     },
-    "practice": {
-      "id": "practice",
-      "label": "Practice",
+    "quantum_consciousness": {
+      "id": "quantum_consciousness",
+      "label": "Quantum Consciousness",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380448,9 +380636,37 @@
       ],
       "claim_count": 1
     },
-    "ordinary_practice": {
-      "id": "ordinary_practice",
-      "label": "Ordinary Practice",
+    "metaphysical_crisis": {
+      "id": "metaphysical_crisis",
+      "label": "Metaphysical Crisis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "buddhist_practice": {
+      "id": "buddhist_practice",
+      "label": "Buddhist Practice",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "a-world-appears": 1
+      },
+      "books": [
+        "a-world-appears"
+      ],
+      "claim_count": 1
+    },
+    "self_and_time": {
+      "id": "self_and_time",
+      "label": "Self And Time",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380476,9 +380692,9 @@
       ],
       "claim_count": 1
     },
-    "awe": {
-      "id": "awe",
-      "label": "Awe",
+    "consciousness_as_practice": {
+      "id": "consciousness_as_practice",
+      "label": "Consciousness As Practice",
       "description": "",
       "aliases": [],
       "related": [],
@@ -380492,8 +380708,8 @@
     }
   },
   "stats": {
-    "total_concepts": 25943,
-    "total_claims": 45855,
+    "total_concepts": 25961,
+    "total_claims": 45851,
     "books_indexed": 157
   }
 }

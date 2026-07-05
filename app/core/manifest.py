@@ -220,6 +220,10 @@ class Manifest:
             location_label="file",
             extra_guidance=file_specific_guidance,
         )
+        expected_chapter_titles = self._chapter_titles_from_toc(
+            toc=toc,
+            toc_structured=toc_structured,
+        )
         
         user_content = f"""Here is the book content to outline:
 
@@ -240,7 +244,11 @@ class Manifest:
                 "estimated_tokens": file_data.get("estimated_tokens", 0),
                 "source_metadata": file_data.get("source_metadata", {}),
                 "use_unified": self.use_unified
-            }
+            },
+            "verification": {
+                "source_text": text_content,
+                "expected_chapter_titles": expected_chapter_titles,
+            },
         }
     
     def _create_combined_text_request(self, text_files: dict, prompt: str) -> dict:
@@ -289,6 +297,10 @@ class Manifest:
             toc_structured=toc_structured,
             location_label="book",
         )
+        expected_chapter_titles = self._chapter_titles_from_toc(
+            toc=toc,
+            toc_structured=toc_structured,
+        )
 
         user_content = f"""Here is the complete book content to outline:
 
@@ -309,7 +321,11 @@ class Manifest:
                 "estimated_tokens": total_tokens,
                 "source_metadata": source_metadata,
                 "use_unified": self.use_unified
-            }
+            },
+            "verification": {
+                "source_text": combined_text,
+                "expected_chapter_titles": expected_chapter_titles,
+            },
         }
     
     def _calculate_smart_chunk_size(self, total_tokens: int, chapter_count: int) -> int:
@@ -661,6 +677,38 @@ CRITICAL: Use ## headings ONLY for these {len(toc)} chapters.
 
         return ""
 
+    @staticmethod
+    def _chapter_titles_from_toc(
+        toc: list[str] | None = None,
+        toc_structured: list[tuple[str, str]] | None = None,
+    ) -> list[str]:
+        """Return chapter titles only, excluding part headings when structure is known."""
+        if toc_structured:
+            return [title for level, title in toc_structured if level == "chapter"]
+        return [title for title in (toc or []) if title]
+
+    @staticmethod
+    def _build_continuation_context(
+        source_metadata: dict,
+        previous_chapter_titles: list[str],
+    ) -> str:
+        context_lines = []
+        title = (source_metadata or {}).get("title")
+        author = (source_metadata or {}).get("author")
+        if title:
+            context_lines.append(f"Book title: {title}")
+        if author:
+            context_lines.append(f"Author: {author}")
+        if previous_chapter_titles:
+            earlier = "\n".join(f"- {chapter}" for chapter in previous_chapter_titles)
+            context_lines.append(
+                "Chapters already summarized elsewhere - do not re-cover:\n"
+                f"{earlier}"
+            )
+        if not context_lines:
+            return ""
+        return "BOOK CONTEXT FOR THIS CONTINUATION CHUNK:\n" + "\n".join(context_lines)
+
     def _create_chunked_requests(self, filename: str, file_data: dict, prompt: str) -> list:
         """
         Create multiple requests for oversized files by chunking at chapter boundaries.
@@ -717,6 +765,8 @@ CRITICAL: Use ## headings ONLY for these {len(toc)} chapters.
         log.info(f"Manifest: Split {filename} into {len(chunk_specs)} chunks")
 
         requests = []
+        source_metadata = file_data.get("source_metadata", {})
+        previous_chapter_titles: list[str] = []
         for i, chunk_spec in enumerate(chunk_specs, 1):
             chunk = chunk_spec["text"]
             chunk_tokens = estimate_tokens(chunk)
@@ -741,6 +791,10 @@ CRITICAL: Use ## headings ONLY for these {len(toc)} chapters.
                 toc=chunk_toc,
                 toc_structured=chunk_toc_structured,
                 location_label="chunk",
+            )
+            current_chapter_titles = self._chapter_titles_from_toc(
+                toc=chunk_toc,
+                toc_structured=chunk_toc_structured,
             )
             if not chapter_guidance:
                 chapter_guidance = """Could not extract TOC from this chunk. Use your judgment to identify actual chapters vs. subsections.
@@ -773,11 +827,21 @@ CRITICAL INSTRUCTIONS FOR CONTINUATION CHUNKS:
 - Do NOT add any introduction, title, overview, or concluding statements
 - Begin directly with the chapter outlines for chapters present in this section"""
 
+            continuation_context = ""
+            if i > 1:
+                continuation_context = self._build_continuation_context(
+                    source_metadata,
+                    previous_chapter_titles,
+                )
+
             # Keep chunk-local guidance with the user content; the shared prompt is
             # attached separately so Anthropic can cache it across requests.
-            chunk_prompt = f"""{continuity}
+            chunk_prompt_parts = [continuity]
+            if continuation_context:
+                chunk_prompt_parts.append(continuation_context)
+            chunk_prompt_parts.append(chapter_guidance)
+            chunk_prompt = "\n\n".join(chunk_prompt_parts)
 
-{chapter_guidance}"""
 
             user_content = f"""Here is part {i} of {len(chunk_specs)} of the book content:
 
@@ -804,9 +868,14 @@ CRITICAL INSTRUCTIONS FOR CONTINUATION CHUNKS:
                     },
                     "source_metadata": file_data.get("source_metadata", {}),
                     "use_unified": self.use_unified
-                }
+                },
+                "verification": {
+                    "source_text": chunk,
+                    "expected_chapter_titles": current_chapter_titles,
+                },
             }
             requests.append(request)
+            previous_chapter_titles.extend(current_chapter_titles)
 
         return requests
 

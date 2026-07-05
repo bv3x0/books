@@ -473,15 +473,13 @@ def estimate_tokens(text: str) -> int:
     char_count = len(text)
     word_count = len(text.split())
     
-    # Claude tokenizer efficiency varies by text type:
-    # - Academic text: ~3.5 chars/token
-    # - Fiction: ~4.2 chars/token  
-    # - Technical: ~3.2 chars/token
-    # Average: ~3.8 chars/token (better than 4.0 assumption)
+    # Claude tokenizer efficiency varies by text type. Opus 4.8's tokenizer can
+    # count the same source text more densely than Sonnet 4.6, so keep this
+    # deliberately conservative for chunk planning.
     
     # Use word count as secondary signal (avg 1.3 tokens per word)
-    char_estimate = char_count / 3.8
-    word_estimate = word_count * 1.3
+    char_estimate = char_count / 3.4
+    word_estimate = word_count * 1.4
     
     # Average the two estimates for better accuracy
     return int((char_estimate + word_estimate) / 2)

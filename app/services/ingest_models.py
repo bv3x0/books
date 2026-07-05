@@ -21,6 +21,7 @@ class IngestOptions:
     test_mode: bool = False
     enable_enrichment: bool = False
     enable_semantic_merge: bool = True
+    sequential: bool = False
 
 
 @dataclass(frozen=True)

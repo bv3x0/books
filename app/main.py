@@ -40,6 +40,8 @@ def build_parser() -> argparse.ArgumentParser:
                         help=f'Use OpenAI model ({GPT_MODEL_ID}) instead of Anthropic')
     parser.add_argument('--codex', action='store_true',
                         help=f'Use local Codex exec model ({CODEX_MODEL_ID}) instead of Anthropic')
+    parser.add_argument('--sequential', action='store_true',
+                        help='Force sequential Anthropic Messages API calls instead of default batch mode')
     parser.add_argument('--test', action='store_true',
                         help='Benchmark/QA mode: save notes-only output with provider suffix; skip canonical index, embeddings, and concept updates')
     parser.add_argument('--enrich', action='store_true',
@@ -71,6 +73,7 @@ def main():
         use_gemini=args.gem,
         use_gpt=args.gpt,
         use_codex=args.codex,
+        sequential=args.sequential,
         test_mode=args.test,
         enable_enrichment=args.enrich and not args.test,
         enable_semantic_merge=not args.no_semantic_merge,

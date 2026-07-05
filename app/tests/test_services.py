@@ -27,6 +27,7 @@ from app.core.epub_processor import chunk_markdown_by_chapters
 from app.core.exporter import Exporter
 from app.core.manifest import Manifest
 from app.core import monitor as monitor_module
+from app.core.verifier import FidelityVerifier
 from app.services import (
     book_management_service,
     evaluation_service,
@@ -950,6 +951,148 @@ class MonitorTests(unittest.TestCase):
         self.assertEqual(json.loads(response_text)["book"]["title"], "Test Book")
         self.assertEqual(usage, {})
 
+    def test_anthropic_batch_results_are_ordered_by_custom_id(self):
+        response_by_custom_id = {
+            "chunk-1": {
+                "book": {"title": "First"},
+                "chapters": [{"title": "Alpha", "key_points": []}],
+            },
+            "chunk-2": {
+                "book": {"title": "Second"},
+                "chapters": [{"title": "Beta", "key_points": []}],
+            },
+        }
+
+        class FakeBatches:
+            def __init__(self):
+                self.created_requests = None
+
+            def create(self, requests):
+                self.created_requests = requests
+                return SimpleNamespace(id="batch-1")
+
+            def retrieve(self, batch_id):
+                return SimpleNamespace(
+                    id=batch_id,
+                    processing_status="ended",
+                    request_counts={"succeeded": 2},
+                )
+
+            def results(self, batch_id):
+                del batch_id
+                for custom_id in ["chunk-2", "chunk-1"]:
+                    yield SimpleNamespace(
+                        custom_id=custom_id,
+                        result=SimpleNamespace(
+                            type="succeeded",
+                            message=SimpleNamespace(
+                                content=[
+                                    SimpleNamespace(
+                                        text=json.dumps(response_by_custom_id[custom_id])
+                                    )
+                                ],
+                                usage=SimpleNamespace(input_tokens=100, output_tokens=10),
+                            ),
+                        ),
+                    )
+
+        fake_batches = FakeBatches()
+        client = SimpleNamespace(messages=SimpleNamespace(batches=fake_batches))
+        monitor = monitor_module.Monitor(client=client, provider="anthropic")
+        with tempfile.NamedTemporaryFile(delete=False) as cache_file:
+            monitor.results_cache = cache_file.name
+        monitor._structured_outputs_checked = True
+        monitor._structured_outputs_supported = False
+        requests = [
+            {
+                "request": {
+                    "model": "claude-opus-4-8",
+                    "max_tokens": 1024,
+                    "messages": [{"role": "user", "content": f"chunk {i}"}],
+                },
+                "file_metadata": {"use_unified": True},
+            }
+            for i in range(2)
+        ]
+
+        job = monitor.submit_job(requests)
+
+        self.assertEqual(job.state, "SUCCEEDED")
+        self.assertEqual([result["index"] for result in job.results], [0, 1])
+        self.assertEqual([result["data"]["book"]["title"] for result in job.results], ["First", "Second"])
+        self.assertEqual(
+            [request["custom_id"] for request in fake_batches.created_requests],
+            ["chunk-1", "chunk-2"],
+        )
+        for request in fake_batches.created_requests:
+            self.assertNotIn("temperature", request["params"])
+            self.assertNotIn("thinking", request["params"])
+            self.assertEqual(request["params"]["model"], "claude-opus-4-8")
+        os.remove(monitor.results_cache)
+
+
+class FidelityVerifierTests(unittest.TestCase):
+    def test_quote_normalization_accepts_curly_quote_variants(self):
+        verifier = FidelityVerifier("sample", logs_dir=tempfile.gettempdir())
+        data = {
+            "chapters": [
+                {
+                    "title": "Alpha",
+                    "pull_quote": None,
+                    "key_points": [
+                        {
+                            "point": "Alpha makes the core claim.",
+                            "sub_points": [
+                                {
+                                    "type": "quote",
+                                    "text": "Schools teach students to confuse process with substance",
+                                    "speaker": "Illich",
+                                }
+                            ],
+                            "entities": {
+                                "people": ["Ivan Illich"],
+                                "places": [],
+                                "events": [],
+                                "works": [],
+                            },
+                        }
+                    ],
+                }
+            ]
+        }
+        source = '## Alpha\n\nIllich writes that "schools teach students to confuse process with substance."'
+
+        findings = verifier.verify_chunk(
+            data,
+            source_text=source,
+            expected_chapter_titles=["Alpha"],
+        )
+
+        self.assertNotIn("QUOTE_NOT_IN_SOURCE", {finding["type"] for finding in findings})
+
+    def test_verifier_flags_corrupt_quote_and_missing_chapter(self):
+        verifier = FidelityVerifier("sample", logs_dir=tempfile.gettempdir())
+        data = {
+            "chapters": [
+                {
+                    "title": "Alpha",
+                    "pull_quote": "This quote is not in the source at all",
+                    "key_points": [],
+                }
+            ]
+        }
+        source = "## Alpha\n\nThe real sentence is here.\n\n## Beta\n\nBeta has content."
+
+        findings = verifier.verify_chunk(
+            data,
+            source_text=source,
+            expected_chapter_titles=["Alpha", "Beta"],
+        )
+
+        finding_types = [finding["type"] for finding in findings]
+        self.assertIn("QUOTE_NOT_IN_SOURCE", finding_types)
+        self.assertIn("CHAPTER_MISSING", finding_types)
+
 
 class MaintenanceServiceTests(unittest.TestCase):
     def test_stream_command_maps_configured_return_code_to_warning(self):
@@ -1785,7 +1928,7 @@ class TocInjectionFallbackTests(unittest.TestCase):
 
     def test_simple_token_chunking_rebalances_tiny_tail_chunk(self):
         paragraph = ("word " * 200).strip()
-        tail_paragraph = ("word " * 120).strip()
+        tail_paragraph = ("word " * 80).strip()
         markdown = "\n\n".join(
             [paragraph, paragraph, paragraph, paragraph, tail_paragraph]
         )
@@ -1922,6 +2065,26 @@ class IngestReportingTests(unittest.TestCase):
         self.assertIn("cache write: 5,000", rendered)
         self.assertIn("cache read: 20,000", rendered)
 
+    def test_print_cost_estimate_applies_batch_multiplier(self):
+        results = [
+            {
+                "model": "claude-opus-4-8",
+                "usage": {
+                    "input_tokens": 1_000_000,
+                    "output_tokens": 100_000,
+                    "billing_multiplier": 0.5,
+                },
+            }
+        ]
+
+        output = StringIO()
+        with redirect_stdout(output):
+            print_cost_estimate(results)
+
+        rendered = output.getvalue()
+        self.assertIn("$3.7500", rendered)
+        self.assertIn("billing x0.5", rendered)
+
 
 class ExporterMetadataTests(unittest.TestCase):
     def _result(self, source_metadata=None):
@@ -2047,6 +2210,108 @@ class ExporterMetadataTests(unittest.TestCase):
 
         self.assertIn("- Collections: Magic, Jung", note)
         self.assertEqual(index["book"]["collections"], ["Magic", "Jung"])
+
+    def test_export_unified_includes_fidelity_failed_chunks_unless_strict(self):
+        def chunk_result(status: str, title: str) -> dict:
+            return {
+                "status": status,
+                "use_unified": True,
+                "file_metadata": {},
+                "data": {
+                    "book": {
+                        "title": "Sample",
+                        "author": "Writer",
+                        "year": None,
+                        "thesis": "A thesis.",
+                        "topics": ["mind"],
+                        "categories": ["science"],
+                    },
+                    "chapters": [
+                        {
+                            "part": None,
+                            "title": title,
+                            "summary": "Summary.",
+                            "pull_quote": None,
+                            "key_points": [
+                                {
+                                    "point": f"{title} preserves a concrete mechanism.",
+                                    "sub_points": [],
+                                    "concepts": ["consciousness"],
+                                    "entities": {
+                                        "people": [],
+                                        "places": [],
+                                        "events": [],
+                                        "works": [],
+                                    },
+                                }
+                            ],
+                        }
+                    ],
+                },
+            }
+
+        results = [
+            chunk_result("SUCCESS", "Alpha"),
+            chunk_result("FIDELITY_FAILED", "Beta"),
+        ]
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            notes_dir = Path(temp_dir) / "notes"
+            index_dir = Path(temp_dir) / "index"
+            notes_dir.mkdir()
+            index_dir.mkdir()
+
+            with (
+                mock.patch("app.core.exporter.NOTES_DIR", str(notes_dir)),
+                mock.patch("app.core.exporter.INDEX_DIR", str(index_dir)),
+                mock.patch(
+                    "app.core.exporter.get_notes_path",
+                    lambda name: str(notes_dir / f"{name}.md"),
+                ),
+                mock.patch(
+                    "app.core.exporter.get_index_path",
+                    lambda name: str(index_dir / f"{name}.json"),
+                ),
+                mock.patch.dict(os.environ, {"SUMMARIZER_FIDELITY_STRICT": ""}),
+            ):
+                exporter = Exporter(
+                    client=None,
+                    output_dir=temp_dir,
+                    book_name="sample",
+                    enable_embeddings=False,
+                    concept_registry=None,
+                )
+                exporter.export_unified(results)
+
+            default_note = (notes_dir / "sample.md").read_text(encoding="utf-8")
+            self.assertIn("## Alpha", default_note)
+            self.assertIn("## Beta", default_note)
+
+            with (
+                mock.patch("app.core.exporter.NOTES_DIR", str(notes_dir)),
+                mock.patch("app.core.exporter.INDEX_DIR", str(index_dir)),
+                mock.patch(
+                    "app.core.exporter.get_notes_path",
+                    lambda name: str(notes_dir / f"{name}.md"),
+                ),
+                mock.patch(
+                    "app.core.exporter.get_index_path",
+                    lambda name: str(index_dir / f"{name}.json"),
+                ),
+                mock.patch.dict(os.environ, {"SUMMARIZER_FIDELITY_STRICT": "1"}),
+            ):
+                exporter = Exporter(
+                    client=None,
+                    output_dir=temp_dir,
+                    book_name="sample",
+                    enable_embeddings=False,
+                    concept_registry=None,
+                )
+                exporter.export_unified(results)
+
+            strict_note = (notes_dir / "sample.md").read_text(encoding="utf-8")
+            self.assertIn("## Alpha", strict_note)
+            self.assertNotIn("## Beta", strict_note)
 
 
 class IngestPlanningFlowTests(unittest.TestCase):

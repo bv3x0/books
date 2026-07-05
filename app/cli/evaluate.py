@@ -17,6 +17,16 @@ if str(PROJECT_ROOT) not in sys.path:
 from app.services.evaluation_service import BookEvaluator
 
 
+def load_fidelity_report(book_name: str) -> dict | None:
+    report_path = PROJECT_ROOT / "app" / "logs" / f"{book_name}_fidelity.json"
+    if not report_path.exists():
+        return None
+    with open(report_path, "r", encoding="utf-8") as f:
+        report = json.load(f)
+    report["path"] = str(report_path)
+    return report
+
+
 def render_notes_report(metrics: dict) -> None:
     print("NOTES QUALITY ASSESSMENT")
     print("-" * 70)
@@ -105,6 +115,34 @@ def render_overall_report(metrics: dict) -> None:
     print()
 
 
+def render_fidelity_report(report: dict | None) -> None:
+    print("FIDELITY REPORT")
+    print("-" * 70)
+    if not report:
+        print("  No fidelity report found.\n")
+        return
+
+    summary = report.get("summary") or {}
+    print(f"Report:          {report.get('path')}")
+    print(f"Hard failures:   {report.get('hard_failures', 0)}")
+    if summary:
+        print("\nFindings:")
+        for finding_type, count in summary.items():
+            print(f"  {finding_type}: {count}")
+    else:
+        print("\nFindings:        none")
+
+    offenders = [
+        chunk for chunk in report.get("chunks", []) if chunk.get("findings")
+    ][:5]
+    if offenders:
+        print("\nChunks with findings:")
+        for chunk in offenders:
+            filename = chunk.get("filename") or f"chunk {chunk.get('index')}"
+            print(f"  {filename}: {len(chunk.get('findings') or [])}")
+    print()
+
+
 def render_concept_health(metrics: dict) -> None:
     print("CONCEPT REGISTRY HEALTH")
     print("-" * 70)
@@ -172,6 +210,7 @@ def render_report(book_name: str, evaluator: BookEvaluator, results: dict, inclu
 
     render_cost_report(results["cost"])
     render_overall_report(results["overall"])
+    render_fidelity_report(results.get("fidelity"))
 
     if include_concepts:
         render_concept_health(results.get("concept_health", {}))
@@ -195,6 +234,7 @@ def main() -> int:
 
     evaluator = BookEvaluator(args.book_name)
     results = evaluator.evaluate_all()
+    results["fidelity"] = load_fidelity_report(args.book_name)
 
     if args.concepts:
         results["concept_health"] = evaluator.evaluate_concept_health()

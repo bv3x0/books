@@ -25,6 +25,9 @@ def print_configuration(
     print(f"Split pages: {'enabled' if options.split_pages else 'disabled'}", flush=True)
     print(f"Provider: {settings.provider}", flush=True)
     print(f"Model: {settings.model_id}", flush=True)
+    if settings.provider == "anthropic":
+        mode = "sequential" if options.sequential else "batch"
+        print(f"Anthropic mode: {mode}", flush=True)
     print(f"Test mode: {'enabled' if options.test_mode else 'disabled'}", flush=True)
     print(
         f"Enrichment: {'enabled' if options.enable_enrichment else 'disabled (core mode)'}",
@@ -67,9 +70,18 @@ def print_cost_estimate(results: list) -> None:
             missing_usage += 1
             continue
 
+        billing_multiplier = usage.get("billing_multiplier") or result.get("billing_multiplier") or 1.0
+        try:
+            billing_multiplier = float(billing_multiplier)
+        except Exception:
+            billing_multiplier = 1.0
+        model_key = (model, billing_multiplier)
+
         model_totals = per_model.setdefault(
-            model,
+            model_key,
             {
+                "model": model,
+                "billing_multiplier": billing_multiplier,
                 "input_tokens": 0,
                 "output_tokens": 0,
                 "cached_input_tokens": 0,
@@ -88,7 +100,9 @@ def print_cost_estimate(results: list) -> None:
         print("  No token usage metadata available from provider.", flush=True)
         return
 
-    for model, totals in per_model.items():
+    for (_model, _billing_multiplier), totals in per_model.items():
+        model = totals["model"]
+        billing_multiplier = totals["billing_multiplier"]
         pricing = get_model_pricing(model)
         in_tokens = totals["input_tokens"]
         out_tokens = totals["output_tokens"]
@@ -118,6 +132,9 @@ def print_cost_estimate(results: list) -> None:
                 total_in_tokens = in_tokens
                 in_cost = (in_tokens / 1_000_000) * pricing["input"]
             out_cost = (out_tokens / 1_000_000) * pricing["output"]
+            if billing_multiplier != 1.0:
+                in_cost *= billing_multiplier
+                out_cost *= billing_multiplier
             model_cost = in_cost + out_cost
             totals["cost"] = model_cost
             priced_models += 1
@@ -126,6 +143,8 @@ def print_cost_estimate(results: list) -> None:
                 f"  {model}: input {total_in_tokens:,}, output {out_tokens:,} "
                 f"-> ${model_cost:.4f} (${in_cost:.4f} in + ${out_cost:.4f} out)"
             )
+            if billing_multiplier != 1.0:
+                line += f" [billing x{billing_multiplier:g}]"
             cache_details = []
             if cache_creation_in_tokens > 0:
                 cache_details.append(f"cache write: {cache_creation_in_tokens:,}")

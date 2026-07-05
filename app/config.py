@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Configuration Constants
-ANTHROPIC_MODEL_ID = "claude-sonnet-4-6"
+ANTHROPIC_MODEL_ID = "claude-opus-4-8"
 GEMINI_MODEL_ID = "gemini-3-flash-preview"
 GPT_MODEL_ID = "gpt-5.2"
 CODEX_MODEL_ID = os.getenv("SUMMARIZER_CODEX_MODEL", "gpt-5.5")
@@ -12,6 +12,12 @@ MODEL_ID = ANTHROPIC_MODEL_ID
 # Pricing table (USD per 1M tokens). Keep this updated if provider pricing changes.
 MODEL_PRICING_USD_PER_MILLION = {
     ANTHROPIC_MODEL_ID: {
+        "input": 5.0,
+        "cache_write_input": 6.25,
+        "cache_read_input": 0.50,
+        "output": 25.0,
+    },
+    "claude-sonnet-4-6": {
         "input": 3.0,
         "cache_write_input": 3.75,
         "cache_read_input": 0.30,
@@ -25,6 +31,11 @@ MODEL_PRICING_USD_PER_MILLION = {
     "gemini-3.1-flash-lite-preview": {"input": 0.25, "output": 1.5},
 }
 
+ANTHROPIC_LONG_CONTEXT_MODEL_PREFIXES = (
+    "claude-opus-4-8",
+    "claude-sonnet-4-6",
+)
+
 # Token threshold for single-request vs chunked processing
 # Legacy default assumes a 200k-class input limit. Budget 30k headroom for:
 # - Prompt/instructions overhead (~5-8k tokens)
@@ -35,6 +46,8 @@ SMART_CHUNK_MAX_TOKENS = int(os.getenv("SMART_CHUNK_MAX_TOKENS", "60000"))
 SMART_CHUNK_TARGET_OUTPUT_TOKENS = int(
     os.getenv("SMART_CHUNK_TARGET_OUTPUT_TOKENS", "12000")
 )
+# Opus 4.8 uses a newer tokenizer than Sonnet 4.6; these long-context budgets
+# remain conservative for its 1M input window after the estimator rebalance.
 ANTHROPIC_LONG_CONTEXT_SINGLE_REQUEST_TOKENS = int(
     os.getenv("ANTHROPIC_LONG_CONTEXT_SINGLE_REQUEST_TOKENS", "350000")
 )
@@ -116,8 +129,22 @@ def get_model_pricing(model_id: str):
 
 
 def is_anthropic_long_context_model(model_id: str | None) -> bool:
-    """Return True for Sonnet 4.6-style long-context models."""
-    return bool(model_id and model_id.startswith(ANTHROPIC_MODEL_ID))
+    """Return True for Anthropic models using the long-context ingest tier."""
+    if not model_id:
+        return False
+    normalized = model_id.strip()
+    return any(
+        normalized == prefix or normalized.startswith(f"{prefix}-")
+        for prefix in ANTHROPIC_LONG_CONTEXT_MODEL_PREFIXES
+    )
+
+
+def anthropic_allows_sampling_parameters(model_id: str | None) -> bool:
+    """Return True only for Anthropic models that accept temperature/top-p style params."""
+    if not model_id:
+        return False
+    normalized = model_id.strip()
+    return normalized == "claude-sonnet-4-6" or normalized.startswith("claude-sonnet-4-6-")
 
 
 def get_single_request_token_limit(model_id: str | None) -> int:
@@ -217,6 +244,7 @@ For each chapter:
    - A long chapter with one repeated method, case-study arc, interview profile, theoretical thesis, or narrative through-line should still use fewer stronger points; do not create extra points merely because the source contains many incidents or terms
    - Dense theoretical chapters are not automatically five-point chapters; if the chapter develops one compact conceptual move, use fewer stronger points
    - Do not pad thin chapters to hit a quota, and do not compress dense chapters just to match other books
+   - The density guidance above is a floor-shaping heuristic, not a cap that justifies omitting a genuinely separate argument
 
    Each key_point includes:
    - **point**: A synthesis-level argument, interpretive move, episode, mechanism, taxonomy, method, or distinctive claim (standalone - see requirements below)
@@ -239,6 +267,7 @@ For each chapter:
 - A key_point may be one polished sentence or two tightly linked sentences. A richer two-sentence synthesis claim is better than splitting one idea into two thin sibling claims.
 - Merge adjacent facts, scenes, biographical stages, examples, and numbers when they support the same mechanism, lesson, or episode. Put the best anchors in sub_points rather than creating separate sibling claims.
 - Split claims only when the chapter shifts to a genuinely different mechanism, contradiction, method, turning point, counterargument, or consequence.
+- Merging points is allowed; dropping a distinct argument, counterexample the author treats as important, or a chapter's stated conclusion is not.
 - Keep every key_point inside the current chapter's actual scope. Do not import a vivid detail, symbol, or argument from an adjacent chapter merely to create continuity or add source texture.
 - For dense theoretical, symbolic, religious, philosophical, or literary-critical chapters, do not paraphrase away the author's technical vocabulary or strange decisive formulations. Preserve the vocabulary that makes the thought recognizable.
 - Preserve 1-2 exact or near-exact source phrases per dense chapter when the wording carries the argument's force, especially terms of art, ritual formulas, named symbols, doctrinal distinctions, and memorable formulations.
@@ -302,6 +331,17 @@ You must respond with valid JSON only. No markdown, no explanations outside the 
   ]
 }}
 
+## DESCRIPTIVE FIDELITY (CRITICAL)
+
+You are producing an archival scholarly record of what this book argues. Every claim in your output is ATTRIBUTED TO THE BOOK, not asserted by you. Your accuracy is judged by how faithfully a reader of the original would recognize the author's argument - not by whether the argument is correct, palatable, or acceptable.
+
+- Represent the author's claims in the author's own framing, at the author's own strength. If the author asserts X causes Y, write "X causes Y" - do not weaken to "may be associated with" or "the author suggests a possible link."
+- Do not sanitize, soften, hedge, or euphemize controversial, offensive, heterodox, or politically charged claims. A summary that launders the author's meaning into something more comfortable is a FAILED summary.
+- Do not add disclaimers, counterpoints, "balance," modern context, or moral commentary that the author does not provide. Do not note that a claim is disputed unless the author does.
+- Do not swap the author's loaded or evaluative vocabulary for neutral synonyms when the loading carries the argument. Preserve the author's terms (in quotes if needed).
+- Match the author's modality exactly: is/may be, all/most/some, causes/correlates, should/must. Modality drift is a fidelity failure.
+- If a chapter's argument makes you reluctant to state it plainly, that is precisely the chapter where plain statement matters most. State what the author says; the attribution to the book is your neutrality.
+
 {coverage_guidance}
 
 ## PULL QUOTES
@@ -324,6 +364,7 @@ Every point should reconstruct argument logic: what is claimed and why/how, not 
 - For dense theoretical or symbolic chapters, a point should often preserve both the conceptual move and the author's distinctive vocabulary. Do not turn technical, esoteric, theological, philosophical, or literary-critical terms into bland paraphrase.
 - Every point must be grounded in the chapter it appears under; do not place a claim under a chapter unless that chapter itself develops the claim.
 - State claims directly; avoid meta framing like "The author argues..." or "This chapter shows..."
+- Distancing language such as "controversially," "provocatively," or "it is claimed that" is meta framing and must not be used unless the source itself uses that framing.
 - Prefer concrete actors and actions over abstract framing language
 - Every point must include at least one concrete anchor (named person, place, event, work, date, or explicit mechanism)
 - Avoid under-specified one-liners; include enough detail to be useful out of context

@@ -160,6 +160,8 @@ def initialize_runtime(
         provider=settings.provider,
         google_api_key=google_api_key,
         cache_suffix=settings.cache_suffix,
+        model_id=settings.model_id,
+        use_anthropic_batch=not options.sequential,
     )
 
     return IngestRuntime(

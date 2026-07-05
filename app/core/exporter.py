@@ -191,8 +191,18 @@ class Exporter:
         For books processed in multiple API calls, combines chapter data.
         Deduplicates chapters by title (keeps first occurrence).
         """
+        strict_fidelity = os.getenv("SUMMARIZER_FIDELITY_STRICT") == "1"
         successful = [
-            r for r in results if r.get("status") == "SUCCESS" and r.get("data")
+            r
+            for r in results
+            if r.get("data")
+            and (
+                r.get("status") == "SUCCESS"
+                or (
+                    not strict_fidelity
+                    and r.get("status") == "FIDELITY_FAILED"
+                )
+            )
         ]
 
         if not successful:
@@ -671,6 +681,8 @@ class Exporter:
                     concept_counts[concept] += 1
 
         for concept_id, count in concept_counts.items():
+            if concept_id not in self.concept_registry.concepts:
+                self.concept_registry.normalize(concept_id)
             self.concept_registry.set_book_claims(concept_id, book_name, count)
 
     def _collect_concepts_used(self, data: dict) -> set[str]:
