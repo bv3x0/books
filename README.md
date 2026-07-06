@@ -4,6 +4,10 @@ A PDF/EPUB book summarizer that generates detailed chapter outlines with structu
 
 ## TL;DR Workflow
 
+python3 scripts/workflow.py add "book-name" --yes --ship-daily
+^^ run ingest; only if it exits successfully, run ship --daily. That gives you the unattended “start it and walk away” workflow without making every ingest a publish
+
+
 ```bash
 # Best results: add one book, run smoke checks, repair vectors, publish, push, and sync Postgres
 python3 scripts/workflow.py add "book-name"
