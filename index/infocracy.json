@@ -1,0 +1,1044 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "Infocracy",
+    "author": "Byung-Chul Han",
+    "year": 2022,
+    "categories": [
+      "philosophy",
+      "political science",
+      "social science"
+    ],
+    "collections": [
+      "Byung-Chul Han"
+    ],
+    "thesis": "Under the information regime, digitalization exploits communication and freedom rather than bodies, replacing rational discourse and truth with viral information, fragmenting the public sphere and degenerating democracy into 'infocracy' - a data-driven postdemocracy in which surveillance and freedom coincide."
+  },
+  "claims": [
+    {
+      "id": "infocracy-001",
+      "text": "The information regime is a form of domination that exploits information and data rather than bodies and energies, using access to information for psychopolitical surveillance, control and prediction of behaviour rather than the possession of the means of production.",
+      "chapter": "The Information Regime",
+      "concepts": [
+        "surveillance_capitalism",
+        "biopolitics",
+        "technological_power"
+      ],
+      "entities": {
+        "people": [
+          "Michel Foucault"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "The disciplinary regime of industrial capitalism fabricates 'docile bodies' and drills humans into 'labouring cattle'; the information regime instead reduces human beings to 'consumer cattle that provide data'.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Information capitalism uses communication and interconnectedness, rendering obsolete disciplinary techniques of spatial isolation, strict work regulation and physical training; it seizes the psyche via psychopolitics rather than the body via biopolitics.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-002",
+      "text": "The disciplinary regime imposes panoptic visibility on isolated subjects, whereas the information regime produces visibility not through isolation but through interconnection, turning voluntary communication into surveillance.",
+      "chapter": "The Information Regime",
+      "concepts": [
+        "panopticon",
+        "self_exposure",
+        "voluntary_surveillance"
+      ],
+      "entities": {
+        "people": [
+          "George Orwell",
+          "Michel Foucault"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "1984"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Foucault's panopticon relies on 'a state of conscious and permanent visibility' and Orwell's 'Big Brother is watching you'; the information regime's subjects expose themselves out of inner need, seeking visibility (se produire, to present oneself).",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The more data we generate and the more intensely we communicate, the more efficient surveillance becomes; the mobile phone is a surveillance apparatus that exploits freedom and communication.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-003",
+      "text": "The information regime rules in the name of transparency, which Han defines as its systemic compulsion - everything must be available as information - so that people are imprisoned by information while domination itself remains invisible.",
+      "chapter": "The Information Regime",
+      "concepts": [
+        "transparency",
+        "arcanum",
+        "algorithmic_opacity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Apple flagship store New York",
+          "Kaaba, Mecca"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Apple's glass cube store in New York is a 'temple to transparency', the architectural counter-image of the Kaaba in Mecca (kaaba means 'cube'), whose black curtain and arcanum represent the opposite theo-political form of domination.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "The digital prison is transparent.",
+          "speaker": "Byung-Chul Han"
+        },
+        {
+          "type": "mechanism",
+          "text": "Transparency is only the front of an invisible process - 'the engine room of transparency lies in the dark' - as we surrender to the power of the algorithmic black box.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-004",
+      "text": "Information capitalism appropriates neoliberal power technologies that work through positive incentives, whispering and nudging rather than command, so that domination presents itself as freedom, communication and community and provokes no revolution.",
+      "chapter": "The Information Regime",
+      "concepts": [
+        "neoliberalism",
+        "psychopolitics",
+        "consumer_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "YouTube",
+          "Instagram"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Influencers on YouTube and Instagram embody neoliberal power: social media becomes a church where 'like is amen', 'sharing is communion' and 'consumption is salvation', with a digital Eucharist of staged consumption.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Being free under the information regime means being able to click, like and post; fingers are only an organ for making consumer choices, and 'the like prevents any thought of revolution' - consumption and revolution exclude each other.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-005",
+      "text": "Dataism is a totalitarianism without ideology: it pursues total knowledge not through ideological narration but through algorithmic computation of the given (datum), and by accessing a 'digital unconscious' it influences behaviour below the threshold of consciousness.",
+      "chapter": "The Information Regime",
+      "concepts": [
+        "dataism",
+        "totalitarianism",
+        "digital_unconscious"
+      ],
+      "entities": {
+        "people": [
+          "Gustave Le Bon",
+          "Hannah Arendt",
+          "Walter Benjamin",
+          "Carl Schmitt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Crowd: A Study of the Popular Mind",
+          "The Origins of Totalitarianism"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Classic totalitarianism (Le Bon, Arendt) breathes a soul into the masses through a narrative claiming total explanation; the information regime isolates people into a digital swarm that follows many influencers rather than one leader.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Extending Walter Benjamin's 'optical unconscious', Han calls big data and AI a 'digital magnifying glass' revealing a 'digital unconscious' of pre-reflexive, instinctual, emotive behaviour.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "Sovereign is he who has control over the information on the web.",
+          "speaker": "Byung-Chul Han (reformulating Carl Schmitt)"
+        }
+      ]
+    },
+    {
+      "id": "infocracy-006",
+      "text": "Democracy originated in book culture, whose printing press and reading public produced the coherent, rational discourse of the Enlightenment that is essential to the democratic public sphere.",
+      "chapter": "Infocracy",
+      "concepts": [
+        "public_sphere",
+        "print_culture",
+        "enlightenment_rationality"
+      ],
+      "entities": {
+        "people": [
+          "J\u00fcrgen Habermas",
+          "Abraham Lincoln",
+          "Stephen A. Douglas",
+          "Neil Postman"
+        ],
+        "places": [
+          "United States"
+        ],
+        "events": [
+          "Lincoln-Douglas debates 1854"
+        ],
+        "works": [
+          "The Structural Transformation of the Public Sphere",
+          "Amusing Ourselves to Death"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "The 1854 Lincoln-Douglas debates exemplify book-culture discourse: Douglas spoke three hours, Lincoln replied for three hours, Douglas spoke another hour, with an audience of extraordinary concentration discussing complex political facts.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Han draws on Habermas's The Structural Transformation of the Public Sphere and Neil Postman's claim that print culture produces 'a coherent, orderly arrangement of facts and ideas'.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-007",
+      "text": "Electronic mass media destroys book-based rational discourse and produces a mediacracy, telecracy and theatrocracy in which the principle of amusement and performance replace the quality of argument and hollow out political substance.",
+      "chapter": "Infocracy",
+      "concepts": [
+        "media_critique",
+        "infotainment",
+        "spectacle_politics"
+      ],
+      "entities": {
+        "people": [
+          "Ronald Reagan",
+          "Neil Postman",
+          "George Orwell",
+          "Aldous Huxley"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "1984",
+          "Brave New World"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "The election of the actor Ronald Reagan was the high point of mediacracy; in televised debates the candidate with the better self-presentation, not the better argument, wins.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Postman contrasts Orwell (control by inflicting pain) with Huxley (control by inflicting pleasure): 'Orwell feared that what we hate will ruin us. Huxley feared that what we love will ruin us.'",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Huxley's Brave New World is a 'palliative society' with soma and 'feelies', closer to the present than Orwell's surveillance state.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-008",
+      "text": "Under the information regime the touchscreen and smartphone replace the telescreen and television, turning passive spectators into active transmitters who compulsively produce and consume information, so that 'we communicate ourselves to death'.",
+      "chapter": "Infocracy",
+      "concepts": [
+        "digital_media",
+        "public_sphere_fragmentation",
+        "communication_compulsion"
+      ],
+      "entities": {
+        "people": [
+          "J\u00fcrgen Habermas"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Structural Transformation of the Public Sphere"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Digital media's rhizomatic, centreless structure replaces mass media's amphitheatrical structure, exerting centrifugal force that fragments the public sphere into private spaces and disperses attention.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Han updates Habermas (whose 1962 work could only address electronic mass media): the digital public sphere is threatened not by entertainment but by the viral proliferation of information, an 'infodemic'.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-009",
+      "text": "A phenomenology of information shows the democratic crisis begins at the cognitive level: information's fleeting relevance and 'appeal of surprise' pulverize time, displacing time-intensive practices of knowledge, experience, insight, discourse and rationality.",
+      "chapter": "Infocracy",
+      "concepts": [
+        "temporality",
+        "rationality_vs_intelligence",
+        "affective_communication"
+      ],
+      "entities": {
+        "people": [
+          "Niklas Luhmann"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Rational decisions require a long-term perspective extending into past and future; under the temporal pressure of accelerated communication we opt for intelligence, which aims at short-term solutions.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "In an information society it is no longer possible to speak of rational behaviour. At best it is intelligent.",
+          "speaker": "Niklas Luhmann"
+        },
+        {
+          "type": "contrast",
+          "text": "In affective communication it is not the better argument but the most exciting information that prevails; 'fake news is more interesting than fact'.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-010",
+      "text": "Psychometric profiling and micro-targeting enable data-driven psychopolitics that manipulates voters as 'voting cattle', fragmenting the public through invisible personalized 'dark ads' that unhinge society's self-observation.",
+      "chapter": "Infocracy",
+      "concepts": [
+        "psychopolitics",
+        "micro_targeting",
+        "voter_manipulation"
+      ],
+      "entities": {
+        "people": [
+          "Donald Trump"
+        ],
+        "places": [],
+        "events": [
+          "2016 US presidential election"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "Psychometric profiling outperforms a person's own friends or partner in predicting behaviour, and with enough data can exceed what we know about ourselves.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "We are thrilled that our revolutionary approach to data-driven communications played such an integral part in President-elect Donald Trump's extraordinary win.",
+          "speaker": "Cambridge Analytica"
+        },
+        {
+          "type": "contrast",
+          "text": "The disciplinary regime had only demographic information for biopolitics; the information regime has psychographic information for psychopolitics.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-011",
+      "text": "In infocracy the electoral battle degenerates from a mediacratic contest over performance into an information war waged with fake news, trolls, social bots and memes, in which the more intelligent algorithm rather than the better argument prevails and the infodemic is resistant to truth.",
+      "chapter": "Infocracy",
+      "concepts": [
+        "information_war",
+        "disinformation",
+        "viral_communication"
+      ],
+      "entities": {
+        "people": [
+          "Donald Trump",
+          "Cathy O'Neil",
+          "Alex Jones"
+        ],
+        "places": [
+          "Twitter",
+          "4chan"
+        ],
+        "events": [
+          "2016 US presidential election",
+          "2020 US presidential election"
+        ],
+        "works": [
+          "Infowars"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Trump, the first Twitter president, treated Twitter as an infocratic arena rather than a mediacratic stage; Alex Jones's conspiracy site is tellingly called Infowars, and he presents himself as an 'infowarrior'.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "At zero marginal cost, social bots create voices (Stimmen) that produce a mood (Stimmung); studies show even a small number of bots can turn the climate of opinion around and indirectly influence political decisions.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "We actually elected a meme as president.",
+          "speaker": "4chan user (quoted in Chicago Tribune)"
+        },
+        {
+          "type": "caveat",
+          "text": "Fake news is first of all information: it produces its effect before verification begins, so fighting the infodemic with truth is doomed to fail.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-012",
+      "text": "Real-time digital democracy is an illusion: the smartphone is not a mobile parliament but an apparatus of subjugation, and digital swarms of influencers and followers are commodified, de-politicized communities incapable of acting politically.",
+      "chapter": "The End of Communicative Action",
+      "concepts": [
+        "digital_democracy",
+        "depoliticization",
+        "commodification"
+      ],
+      "entities": {
+        "people": [
+          "Pierre L\u00e9vy"
+        ],
+        "places": [
+          "Pirate Party"
+        ],
+        "events": [],
+        "works": [
+          "Collective Intelligence"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Pierre L\u00e9vy's Collective Intelligence and the Pirate Party's LiquidFeedback imagined a real-time 'democracy of presence' more direct than direct democracy; in reality followers are trained into consumer cattle.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Smartphones serve as 'mobile shop windows' presenting private matters to others, accelerating the disintegration of the public sphere and producing consumption and communication zombies rather than mature citizens.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-013",
+      "text": "Discourse is a to-and-fro movement (discursus, walking around) that requires the presence of the other, so that my statement acquires discursive quality only through the voice of the other and the awareness that it may be challenged.",
+      "chapter": "The End of Communicative Action",
+      "concepts": [
+        "communicative_action",
+        "discourse",
+        "alterity"
+      ],
+      "entities": {
+        "people": [
+          "Hannah Arendt",
+          "J\u00fcrgen Habermas"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Arendt holds that political thinking is 'representative', making 'present to my mind the standpoints of those who are absent'; Habermas's communicative action requires actors to qualify statements in light of possible dispute.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Proceeding 'directly' or 'straight on' is discourse-blind; a statement without a question mark hanging over it has no discursive character.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-014",
+      "text": "The crisis of communicative action is fundamentally the disappearance of the other and a crisis of listening, driven by narcissistic self-indoctrination and loss of empathy that begins offline, not merely by algorithmic filter bubbles.",
+      "chapter": "The End of Communicative Action",
+      "concepts": [
+        "filter_bubble",
+        "narcissism",
+        "empathy_loss"
+      ],
+      "entities": {
+        "people": [
+          "Eli Pariser"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Eli Pariser blames the 'filter bubble' and the endless 'you loop' of internet personalization for destroying the public sphere and socially relevant topics that are 'the bedrock and raison d'etre of democracy'.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Han's key correction: the disintegration of the public sphere is not a purely technical problem; personalization contributes only a small part, and autopropagandizing begins offline through an atomized, narcissistic society deaf to the voice of the other.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-015",
+      "text": "Globalization and hyperculturalization dissolve the shared 'lifeworld' - Habermas's holistic background of taken-for-granted interpretive patterns - leading to defacticization and decontextualization that impede communication aimed at reaching understanding.",
+      "chapter": "The End of Communicative Action",
+      "concepts": [
+        "lifeworld",
+        "globalization",
+        "decontextualization"
+      ],
+      "entities": {
+        "people": [
+          "J\u00fcrgen Habermas"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "There are no longer conventional identities with prereflexive validity; the lifeworld becomes a project (eine Frage des Entwurfes) rather than something simply given, and digitalization accelerates its fragmentation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-016",
+      "text": "The defacticized lifeworld drives the tribalization of the internet, where information becomes a source of identity rather than knowledge and opinions become sacred, replacing discourse with belief and confession and producing irreconcilable identity wars.",
+      "chapter": "The End of Communicative Action",
+      "concepts": [
+        "tribalism",
+        "identity_politics",
+        "post_factual"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Contrary to filter bubble theory, digital tribes do encounter counter-information inside their bubbles but ignore it, because giving up convictions would mean a loss of identity; conspiracy theories serve as identity markers enabling delimitation and exclusion.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Tribal claims are absolute and post-factual, lacking communicative rationality (which requires fallible, criticizable, fact-related expressions); tribalism of right and left divides society into a 'dictatorship of tribal opinion and identity'.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "Listening is a political act insofar as it is what brings people together as a community in the first place.",
+          "speaker": "Byung-Chul Han"
+        }
+      ]
+    },
+    {
+      "id": "infocracy-017",
+      "text": "Dataists claim that society's complexity exceeds human 'bounded rationality', making communicative action obsolete and rendering big data and AI functionally equivalent to the disintegrating discursive public sphere.",
+      "chapter": "Digital Rationality",
+      "concepts": [
+        "dataism",
+        "bounded_rationality",
+        "communicative_action"
+      ],
+      "entities": {
+        "people": [
+          "J\u00fcrgen Habermas",
+          "Herbert Simon"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "I simply do not know what the equivalent to the communicative structures of the large-scale political public sphere... should look like in the digital world.",
+          "speaker": "J\u00fcrgen Habermas"
+        },
+        {
+          "type": "contrast",
+          "text": "Dataists would claim artificial intelligence is a 'better listener' than a human being, replacing discourse with data and machine learning.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-018",
+      "text": "Communicative rationality involves providing reasons, criticizability and learning from mistakes, whereas digital rationality does not reason but computes: algorithms are optimized rather than arguments improved, and machine learning replaces discursive learning by imitating arguments.",
+      "chapter": "Digital Rationality",
+      "concepts": [
+        "communicative_rationality",
+        "machine_learning",
+        "argumentation"
+      ],
+      "entities": {
+        "people": [
+          "J\u00fcrgen Habermas"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The concept of grounding is interwoven with that of learning.",
+          "speaker": "J\u00fcrgen Habermas"
+        },
+        {
+          "type": "mechanism",
+          "text": "From the dataist view, discourse is merely a slow, inefficient form of information processing and validity claims are products of insufficient information processing; digitalization creates more information than any discursive framework can capture.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-019",
+      "text": "Dataists believe big data affords an all-seeing 'god's-eye' view that makes discourse superfluous and enables a politics-free society administered by experts, replacing party democracy with an infocracy or 'digital postdemocracy' of data-driven systems management.",
+      "chapter": "Digital Rationality",
+      "concepts": [
+        "postdemocracy",
+        "systems_management",
+        "technocracy"
+      ],
+      "entities": {
+        "people": [
+          "Alex Pentland"
+        ],
+        "places": [
+          "MIT Human Dynamics Lab"
+        ],
+        "events": [],
+        "works": [
+          "Social Physics: How Social Networks Can Make Us Smarter"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "If we had a 'god's eye', an all-seeing view, then we could potentially arrive at a true understanding of how society works and take steps to fix our problems.",
+          "speaker": "Alex Pentland"
+        },
+        {
+          "type": "example",
+          "text": "Pentland argues only data can prevent mass death in a flu pandemic and that only privacy concerns stand in the way of civilizational progress; politics gives way to data-driven systems management promising the 'happiness of all'.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "When class conflicts and distributive injustice abate, dataists argue parties and ideologies become superfluous, replaced by experts and computer scientists who administer society.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-020",
+      "text": "Han identifies Rousseau as the first dataist because his 'arithmetic rationality' establishes the general will (volonte generale) as a purely mathematical operation that must exclude 'any communication' and prohibits political associations, approaching digital rationality.",
+      "chapter": "Digital Rationality",
+      "concepts": [
+        "general_will",
+        "arithmetic_rationality",
+        "anti_discourse"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Jacques Rousseau"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Social Contract"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "If the general will is to be clearly expressed, it is imperative that there should be no sectional associations in the state, and that every citizen should make up his own mind for himself.",
+          "speaker": "Jean-Jacques Rousseau"
+        },
+        {
+          "type": "mechanism",
+          "text": "In dataist terms: the more data there is, the less distorted the computed general will; discourse distorts the result, so Rousseau's statisticians are replaced by computer experts and AI.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-021",
+      "text": "Digital rationality rests on a behaviourism that discards the free autonomous individual, starting from the collective and 'social physics' and treating humans like bees or apes, which spells the end of democracy grounded in autonomy and the 'will to will'.",
+      "chapter": "Digital Rationality",
+      "concepts": [
+        "behaviourism",
+        "social_physics",
+        "autonomy"
+      ],
+      "entities": {
+        "people": [
+          "Alex Pentland",
+          "Shoshana Zuboff",
+          "B. F. Skinner",
+          "Michel Foucault"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Order of Things"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "It is time that we dropped the fiction of individuals as the unit of rationality.",
+          "speaker": "Alex Pentland"
+        },
+        {
+          "type": "example",
+          "text": "Pentland complements data mining with 'reality mining' using 'sociometers' to record behaviour down to bodily expression, promising to make society predictable and controllable.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Shoshana Zuboff rejects the dataist vision, insisting on 'sovereignty over one's own life' and 'the will to will'; to the dataist this sounds like a ghostly voice from a bygone era, echoing Foucault's death of man in The Order of Things.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-022",
+      "text": "A new nihilism, distinct from Nietzsche's nihilism of values, emerges when we lose faith in truth itself; truth is a binding social convention (signification of things) whose loss means the loss of a shared world and the disintegration of society.",
+      "chapter": "The Crisis of Truth",
+      "concepts": [
+        "nihilism",
+        "social_cohesion",
+        "genealogy_of_truth"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Nietzsche"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Nietzsche's critique deconstructs truth genealogically without denying it, showing truth as a moral convention that ends the 'state of war' (bellum omnium contra omnes) and holds society together.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Truth has a centripetal force that holds society together, while information has a centrifugal force that destroys social cohesion; the crisis arises from the disintegration of discourse into information.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-023",
+      "text": "Fake news is not lying but an attack on facts themselves that defacticizes reality: Trump is not a liar but a 'bullshitter' indifferent to truth, and such indifference poses a greater threat to truth than deliberate lying.",
+      "chapter": "The Crisis of Truth",
+      "concepts": [
+        "fake_news",
+        "defacticization",
+        "bullshit"
+      ],
+      "entities": {
+        "people": [
+          "Donald Trump",
+          "Harry Frankfurt",
+          "Stephen Colbert"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The New York Times"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "caveat",
+          "text": "A liar preserves his relation to truth and even validates it, since lying presupposes an intact distinction between truth and lie; the new nihilism instead undermines that distinction.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Han draws on Harry Frankfurt's concept of the 'bullshitter' but argues Frankfurt's explanation (bullshit from insufficient knowledge) fails to grasp a crisis that shakes belief in facts themselves; the 2005 term 'truthiness', coined by Stephen Colbert, expresses felt truth without objectivity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-024",
+      "text": "Totalitarian lying still upheld the authority of truth by constructing an enormous total lie presented as truth, whereas Trump's fake news lacks narrative continuity and is possible only under a de-ideologized information regime.",
+      "chapter": "The Crisis of Truth",
+      "concepts": [
+        "ideology",
+        "total_lie",
+        "propaganda"
+      ],
+      "entities": {
+        "people": [
+          "Hannah Arendt",
+          "Adolf Hitler",
+          "George Orwell",
+          "Donald Trump"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Origins of Totalitarianism",
+          "Mein Kampf",
+          "1984"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Arendt notes Hitler's 'enormous' lie that replaces the whole factual edifice; yet Hitler invoked 'eternal truth' and 'guardians of a higher truth' in Mein Kampf and defamed Jews as 'the great masters of lying'.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Orwell's Ministry of Truth destroys factual truth by continually revising the past, using Newspeak and slogans - 'War is peace. Freedom is slavery. Ignorance is strength.' - and even porn as a means of domination.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Trump's alternative facts do not congeal into an ideological narrative; the word 'truth' hardly crosses his lips.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-025",
+      "text": "The digital order undermines the solidity of the factual by making producibility universal, so that nothing is irreversible; the information society is a society of distrust and contingency in which truth, being narrative and exclusive, radically declines.",
+      "chapter": "The Crisis of Truth",
+      "concepts": [
+        "contingency",
+        "narrative",
+        "facticity"
+      ],
+      "entities": {
+        "people": [
+          "Niklas Luhmann",
+          "J\u00fcrgen Habermas"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Gospel of John"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Analogue photography authenticates the 'this-has-been' as the truth of photography, while digital photography destroys facticity by producing a reality that does not exist.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Han contrasts additive, cumulative information (which heaps up) with truth that does not form heaps; big data is opposed to the grand narrative - the numerical (numerique) and the narrative belong to fundamentally different orders.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Even the most diligent fact-check cannot produce truth, because truth is more than correctness; ultimately truth is a promise ('I am the way, the truth, and the life', John 14:6) that provides meaning and orientation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-026",
+      "text": "Democracy presupposes truthful speaking (parrhesia): drawing on Foucault, Han argues true democracy requires isegoria and parrhesia - the courageous, heroic care for truth exemplified by Socrates - which today has degenerated into everyone saying whatever is advantageous, threatening society's unity.",
+      "chapter": "The Crisis of Truth",
+      "concepts": [
+        "parrhesia",
+        "democratic_legitimacy",
+        "truth_telling"
+      ],
+      "entities": {
+        "people": [
+          "Michel Foucault",
+          "Polybius",
+          "Socrates",
+          "Plato",
+          "Donald Trump"
+        ],
+        "places": [
+          "Ancient Greece"
+        ],
+        "events": [],
+        "works": [
+          "The Republic"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "In order for there to be democracy there must be parrhesia. But conversely... parrhesia is one of the characteristic features of democracy.",
+          "speaker": "Michel Foucault"
+        },
+        {
+          "type": "example",
+          "text": "Socrates embodies courageous parrhesia, speaking the truth to his death; the power game (dunasteia) must remain constrained by parrhesia, whereas Trump exemplifies power that has lost all relation to it.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Plato's critique targets degenerate parrhesia producing a 'state bursting with freedom' and 'without unity'; his cave allegory shows the parrhesiast killed for bringing the light of truth.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "infocracy-027",
+      "text": "We are captives in a 'digital cave' held prisoner by information rather than myth, where the light of truth has died down; truth's durability and 'stability of being' give way to the fleetingness of information, so the regime of information supplants the regime of truth.",
+      "chapter": "The Crisis of Truth",
+      "concepts": [
+        "digital_cave",
+        "temporality_of_truth",
+        "information_regime"
+      ],
+      "entities": {
+        "people": [
+          "Plato",
+          "Hannah Arendt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Republic"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The cave of information has no outside... Truth does not buzz.",
+          "speaker": "Byung-Chul Han"
+        },
+        {
+          "type": "source_detail",
+          "text": "Arendt held that factual truths are 'stubborn' and resilient, giving us 'the ground on which we stand and the sky that stretches above us'; that terrestrial order has been eliminated by the digital order.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "In a totalitarian state built on a universal lie, speaking truth is revolutionary; in the post-factual information society the urgency of truth evaporates amid the buzz of information.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "infocracy-ch-001",
+      "title": "The Information Regime",
+      "summary": "Han argues that a new 'information regime' has replaced Foucault's disciplinary regime by exploiting information, communication and freedom rather than bodies and energies, so that surveillance and freedom coincide and domination becomes complete precisely because subjects feel free.",
+      "claim_ids": [
+        "infocracy-001",
+        "infocracy-002",
+        "infocracy-003",
+        "infocracy-004",
+        "infocracy-005"
+      ]
+    },
+    {
+      "id": "infocracy-ch-002",
+      "title": "Infocracy",
+      "summary": "Han traces democracy's degeneration from a book-based discursive public sphere through mediacracy/telecracy to infocracy, arguing that digital media's viral, fragmenting, affective information wars destroy rational discourse and are resistant to truth.",
+      "claim_ids": [
+        "infocracy-006",
+        "infocracy-007",
+        "infocracy-008",
+        "infocracy-009",
+        "infocracy-010",
+        "infocracy-011"
+      ]
+    },
+    {
+      "id": "infocracy-ch-003",
+      "title": "The End of Communicative Action",
+      "summary": "Han argues that digital 'communication without community' and a broader social atomization make the presence of the other disappear, replacing discourse and listening with self-referential echo chambers and sacred tribal identities that render communicative action impossible.",
+      "claim_ids": [
+        "infocracy-012",
+        "infocracy-013",
+        "infocracy-014",
+        "infocracy-015",
+        "infocracy-016"
+      ]
+    },
+    {
+      "id": "infocracy-ch-004",
+      "title": "Digital Rationality",
+      "summary": "Han sets out and critiques 'digital rationality' - the dataist claim that big data and AI are functionally equivalent to, and superior to, the discursive public sphere - showing it rests on a behaviourism that abolishes the free autonomous individual and ends democracy in a data-driven infocracy.",
+      "claim_ids": [
+        "infocracy-017",
+        "infocracy-018",
+        "infocracy-019",
+        "infocracy-020",
+        "infocracy-021"
+      ]
+    },
+    {
+      "id": "infocracy-ch-005",
+      "title": "The Crisis of Truth",
+      "summary": "Han diagnoses a 'new nihilism' in which fake news defacticizes reality and undermines the very distinction between truth and lie, arguing that truth's narrative, binding and durable character is dissolving into additive information and that democracy requires parrhesia, the courage of truth.",
+      "claim_ids": [
+        "infocracy-022",
+        "infocracy-023",
+        "infocracy-024",
+        "infocracy-025",
+        "infocracy-026",
+        "infocracy-027"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 27,
+    "chapter_count": 5,
+    "indexed_at": "2026-07-11T20:57:29.003890Z"
+  }
+}

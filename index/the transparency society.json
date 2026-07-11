@@ -1,0 +1,1257 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Transparency Society",
+    "author": "Byung-Chul Han",
+    "year": 2015,
+    "categories": [
+      "philosophy",
+      "social science",
+      "political science"
+    ],
+    "collections": [
+      "Byung-Chul Han"
+    ],
+    "thesis": "The contemporary demand for total transparency is a systemic compulsion that dismantles all negativity\u2014otherness, secrecy, distance, ritual, and mystery\u2014in favor of a smooth positivity that flattens human existence into calculable, exhibitable information and produces a totalitarian society of control, exhaustion, and pornographic exposure."
+  },
+  "claims": [
+    {
+      "id": "the-transparency-society-001",
+      "text": "The society of transparency is fundamentally a society of positivity that dismantles negativity: matters become transparent only when smoothed and leveled, shorn of all resistance from the Other, becoming an \"inferno of the same.\"",
+      "chapter": "The Society of Positivity",
+      "concepts": [
+        "social_control",
+        "otherness",
+        "conformity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Communication reaches maximum velocity when like responds to like; the negativity of alterity and foreignness disturbs the smooth communication of the Same, so transparency speeds the system by eliminating the Other and the Alien.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "New word for Gleichschaltung: Transparency.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Transparency as \"a society of positivity\" contrasted with a prior \"society of negativity\"",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-002",
+      "text": "Human existence is not transparent even to itself, so the ideology of \"postprivacy\" and interpersonal transparency is na\u00efve and destructive; the Other's very opacity keeps relationships alive.",
+      "chapter": "The Society of Positivity",
+      "concepts": [
+        "self_knowledge",
+        "privacy",
+        "intersubjectivity"
+      ],
+      "entities": {
+        "people": [
+          "Sigmund Freud",
+          "Georg Simmel",
+          "Richard Sennett",
+          "Wilhelm von Humboldt"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Following Freud, a rift runs through the psyche\u2014the id remains hidden from the ego\u2014rendering self-transparency impossible; a rift also gapes between people, making interpersonal transparency both impossible and undesirable.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "The mere fact of absolute knowledge, of full psychological exploration, sobers us even without prior intoxication, paralyzes the vitality of relations.",
+          "speaker": "Georg Simmel"
+        },
+        {
+          "type": "quote",
+          "text": "autonomy means accepting in the other what you do not understand, an opaque equality.",
+          "speaker": "Richard Sennett"
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-003",
+      "text": "A new Enlightenment is needed to defend the \"will to ignorance\": more information does not yield better decisions or truth, and thinking requires a gap or vacuum that the compulsion for transparency destroys.",
+      "chapter": "The Society of Positivity",
+      "concepts": [
+        "epistemic_authority",
+        "ignorance",
+        "enlightenment"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Nietzsche"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "You must understand that without such ignorance life itself would be impossible.",
+          "speaker": "Friedrich Nietzsche"
+        },
+        {
+          "type": "source_detail",
+          "text": "The German word for happiness (Gl\u00fcck) derives from the open space of a gap (Gel\u00fccke); a society that admits no gap would be a society without happiness.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Without a gap in knowledge, thinking degenerates into calculation; love without something hidden is pornography.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-004",
+      "text": "The society of positivity abandons dialectics and hermeneutics because both depend on negativity: Hegel's Spirit gains power only by tarrying with the negative, while transparency abolishes negativity to accelerate itself.",
+      "chapter": "The Society of Positivity",
+      "concepts": [
+        "dialectics",
+        "suffering",
+        "positivity"
+      ],
+      "entities": {
+        "people": [
+          "Hegel",
+          "Friedrich Nietzsche",
+          "Alain Badiou"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "In Praise of Love"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "only by looking the negative in the face and tarrying with it.",
+          "speaker": "Hegel"
+        },
+        {
+          "type": "mechanism",
+          "text": "For Nietzsche the soul owes its depth and strength to time spent with the negative; positivized love flattens into pleasant arousal, and suffering is displaced by exhaustion, fatigue, and depression born of an excess of positivity.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "The dating service Meetic's slogans \"Be in love without falling in love!\" and \"You don't have to suffer to be in love!\" exemplify love domesticated as consumption.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-005",
+      "text": "Theory and politics both depend on negativity, so transparency depoliticizes society: theory as a violent act of distinction cannot be replaced by data, and total transparency cripples politics, which requires the arcanum of secrecy.",
+      "chapter": "The Society of Positivity",
+      "concepts": [
+        "depoliticization",
+        "political_legitimacy",
+        "theory"
+      ],
+      "entities": {
+        "people": [
+          "Carl Schmitt"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "To every great politics belongs the \"arcanum.\" Everything takes place on stage (before an audience of Papagenos).",
+          "speaker": "Carl Schmitt"
+        },
+        {
+          "type": "example",
+          "text": "The Pirate Party, as a colorless \"antiparty\" of ideology-free opinions, continues the move toward the postpolitical and leaves the socio-economic framework untouched.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Facebook consistently refuses a \"Dislike\" button because negativity makes communication stall and cannot be exploited economically; without reference, politics deteriorates into referendum.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-006",
+      "text": "Transparency and truth are not identical: truth is a negative force that asserts itself by declaring all else false, whereas mere accumulation of information produces no truth and heightens rather than eliminates the absence of clarity.",
+      "chapter": "The Society of Positivity",
+      "concepts": [
+        "truth",
+        "information_overload"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Hyperinformation and hypercommunication attest to a lack of truth and being; more information does not eliminate the fundamental unclarity of the whole but intensifies it.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-007",
+      "text": "In the society of positivity things become commodities that must be displayed to be, so Benjamin's cult value\u2014rooted in existence and concealment\u2014disappears in favor of exhibition value, which exists only through the attention it produces.",
+      "chapter": "The Society of Exhibition",
+      "concepts": [
+        "commodification",
+        "aura",
+        "attention_economy"
+      ],
+      "entities": {
+        "people": [
+          "Walter Benjamin",
+          "Karl Marx"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Sacred objects gain cult value by being hidden\u2014covered images of the Madonna, divine statues only priests may approach\u2014whereas exhibition value accrues only insofar as objects are seen.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Exhibition value cannot be derived from the Marxian opposition of use value and exchange value: it reflects neither utility nor labor, only produced attention.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "finds its last refuge in the human countenance.",
+          "speaker": "Walter Benjamin"
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-008",
+      "text": "The auratic \"human countenance\" has become a transparent \"face\" of pure exhibition value, and digital photography\u2014without negative, developing, or the negativity of time\u2014erases becoming, aging, and death, so it says nothing.",
+      "chapter": "The Society of Exhibition",
+      "concepts": [
+        "temporality",
+        "transcendence",
+        "photography"
+      ],
+      "entities": {
+        "people": [
+          "Emmanuel Levinas",
+          "Roland Barthes",
+          "Andr\u00e9 Kert\u00e9sz"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Levinas deems the countenance a privileged site for transcendence via the Other, but the Facebook-and-Photoshop face is stripped of aura and inhabits the immanency of the Same; transparency stands opposed to transcendence.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "For Barthes the temporal substance of \"this-is-how-it-was\" is the essence of photography, making mourning (Trauer) its fundamental mood; the date inscribes mortality.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Barthes on Kert\u00e9sz's 1931 schoolboy Ernest: \"it is possible that Ernest ... is still living (but where? how? What a novel!).\"",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-009",
+      "text": "The society of exhibition is a society of pornography in which everything is turned outward and exposed, destroying dwelling, eros, and sex through overexposure and obscenity rather than obscurity.",
+      "chapter": "The Society of Exhibition",
+      "concepts": [
+        "pornography",
+        "embodiment",
+        "dwelling"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Paul Sartre",
+          "Martin Heidegger",
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "things visible do not come to an end in obscurity and silence\u2014instead they fade into the more visible than visible: obscenity.",
+          "speaker": "Jean Baudrillard"
+        },
+        {
+          "type": "mechanism",
+          "text": "Compulsive exhibition alienates the body: it becomes impossible to dwell within it, only to exhibit and exploit it, so \"Operation Sch\u00f6nheit\" (Operation Beauty) maximizes exhibition value through the tyranny of visibility.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Heidegger: dwelling originally means \"to be at peace\"; the thing, consisting solely of cult value, cannot be exhibited and vanishes.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-010",
+      "text": "Hypervisibility eliminates distance, converting perception into tactile contact between eye and image and thereby ending aesthetic contemplation, the gaze, and genuine proximity.",
+      "chapter": "The Society of Exhibition",
+      "concepts": [
+        "distance",
+        "aesthetic_contemplation",
+        "acceleration"
+      ],
+      "entities": {
+        "people": [
+          "Jean Baudrillard",
+          "Martin Heidegger"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "the total promiscuity of the look with what it sees.",
+          "speaker": "Jean Baudrillard"
+        },
+        {
+          "type": "contrast",
+          "text": "Lack of distance is not proximity but destroys it; Heidegger speaks of a \"pure nearness which sustains the distance,\" whereas transparency re-moves everything into uniform de-distantiation, neither near nor far.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Anesthetic hypercommunication reduces complexity to accelerate itself, so aestheticization becomes anesthetic and the \"Like\" requires no sustained contemplation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-011",
+      "text": "Pleasure and desire depend on the negativity of the secret, veil, and concealment, so compulsive transparency annihilates the play-space of eros; seduction uses ambiguous, equivocal signs that transparency and \"political correctness\" abolish.",
+      "chapter": "The Society of Evidence",
+      "concepts": [
+        "seduction",
+        "desire",
+        "ambiguity"
+      ],
+      "entities": {
+        "people": [
+          "Georg Simmel",
+          "Immanuel Kant"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Seducers use ambiguous speech because they do not feel accountable to norms of sincerity and symmetry.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Fantasy is \"self-activity\" (Simmel) requiring room for play; an object offered bare turns it off, while withdrawal and concealment kindle it.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "For Kant the imagination (Einbildungskraft) is based on play and is not self-transparent, whereas understanding (Verstand) is self-transparent and works with unambiguous concepts.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-012",
+      "text": "The holy and the space of desire are non-transparent: a minimal displacement gives things a halo of indistinctness, and desire (das Ding) is reached only indirectly, anamorphically, through privation and inaccessibility.",
+      "chapter": "The Society of Evidence",
+      "concepts": [
+        "the_sacred",
+        "desire",
+        "concealment"
+      ],
+      "entities": {
+        "people": [
+          "Giorgio Agamben",
+          "Ernst Bloch",
+          "Walter Benjamin",
+          "Jacques Lacan"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Coming Community"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Ernst Bloch's parable, told to Benjamin: the Kingdom of Peace requires displacing a cup, bush, or stone just a little, a change so difficult that the Messiah must come.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Lacan: courtly love is \"anamorphic\"; the Object-Lady (frouwe) forms a \"black hole\" reached only as \"the endless repeating of an interrupted gesture\"; \"What one finds in das Ding is the true secret.\"",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "The coming Kingdom of Peace will not be called a society of transparency. Transparency is not a state of peace.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-013",
+      "text": "Transparency demands symmetry and eliminates asymmetrical power, but power is not diabolical\u2014it is generative and, through its intransparency and strategic play, produces pleasure and desire.",
+      "chapter": "The Society of Evidence",
+      "concepts": [
+        "power",
+        "asymmetry",
+        "strategy"
+      ],
+      "entities": {
+        "people": [
+          "Michel Foucault"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "To exercise power over another, in a sort of open strategic game, where things could be reversed, that is not evil. That is part of love, passion, of sexual pleasure.",
+          "speaker": "Michel Foucault"
+        },
+        {
+          "type": "mechanism",
+          "text": "The freer and more open the play of guiding others' actions, the greater the pleasure; intransparency and incalculability are key to games of strategy.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-014",
+      "text": "Against the intrusive gaze Nietzsche defends masks, mystery, and cunning, and Augustine shows that concealment eroticizes knowledge: hidden meaning turns hermeneutics into erotics, whereas naked information flattens the Word.",
+      "chapter": "The Society of Evidence",
+      "concepts": [
+        "masks",
+        "hermeneutics",
+        "concealment"
+      ],
+      "entities": {
+        "people": [
+          "Friedrich Nietzsche",
+          "Augustine"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Holy Writ"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Every profound spirit needs a mask; even more, around every profound spirit a mask is growing continually.",
+          "speaker": "Friedrich Nietzsche"
+        },
+        {
+          "type": "source_detail",
+          "text": "Nietzsche: \"Ruse, better than force\" (List besser als Gewalt)\u2014cunning is suppler and less violent, while violence stands closer to truth and generates more \"evidence.\"",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "one may desire them all the more ardently for their being withheld\u2014so one may take even greater pleasure in finding what one longs for.",
+          "speaker": "Augustine"
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-015",
+      "text": "Beauty requires the inextricable joining of the veiling and the veiled; unveiled, it becomes inconspicuous, so no naked beauty exists\u2014naked nudity is at most sublime, pointing to the Creator, but never pornographic.",
+      "chapter": "The Society of Pornography",
+      "concepts": [
+        "beauty",
+        "the_sublime",
+        "concealment"
+      ],
+      "entities": {
+        "people": [
+          "Walter Benjamin",
+          "Immanuel Kant"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The beautiful is neither the veil nor the veiled object but rather the object in its veil.",
+          "speaker": "Walter Benjamin"
+        },
+        {
+          "type": "source_detail",
+          "text": "In Christian tradition nakedness has \"a theological signature\": before the Fall Adam and Eve wore a \"clothing of grace\" and \"clothing of light\"; sin exposed them.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "For Kant an object is sublime when it exceeds representation and the imagination; the sublime surpasses the beautiful.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-016",
+      "text": "Agamben wrongly extends the sublimity of the naked body into the pornographic and misses that exposure itself is pornographic: the face loaded with exhibition value to bursting shows nothing but its showing-itself and is obscene, not the site of a \"new erotic communication.\"",
+      "chapter": "The Society of Pornography",
+      "concepts": [
+        "pornography",
+        "grace",
+        "exhibition"
+      ],
+      "entities": {
+        "people": [
+          "Giorgio Agamben",
+          "Jean-Paul Sartre",
+          "Heinrich von Kleist"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On the Theater of Marionettes"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Look at this absolute, unforgivable absence of secrets!",
+          "speaker": "Giorgio Agamben (on the pornographic model)"
+        },
+        {
+          "type": "mechanism",
+          "text": "Grace occurs between object-oriented action and obscene nudity as free play of gestures escaping the economy of purpose; putting oneself on display makes grace disappear, as when Kleist's youth loses gracefulness before the mirror.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Contra Agamben, pornography does not merely neutralize a profanatory potential after the fact; the exposed face is already pornographic, its only content being the shameless show of the body on display.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-017",
+      "text": "The erotic differs essentially from the pornographic: it arises from the negativity of intermittence\u2014appearance-as-disappearance, where the garment gapes\u2014while the pornographic is smooth, uninterrupted, deictic positivity that infects and affects rather than allures.",
+      "chapter": "The Society of Pornography",
+      "concepts": [
+        "eroticism",
+        "negativity",
+        "seduction"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Jean Baudrillard",
+          "Giorgio Agamben"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "The erotic place is \"where the garment gapes,\" where skin \"flashes between two edges\"; the pornographic \"matheme of nudity\" is simply haecce!\u2014\"there is nothing other than this.\"",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "the intuition of something in the other that remains forever secret for him ... which nevertheless exercises a fascination upon me from behind its veil of secrecy.",
+          "speaker": "Jean Baudrillard"
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-018",
+      "text": "Barthes's distinction between studium and punctum shows that pornographic and media images are unary\u2014smooth, transparent, without rift\u2014so they can \"shout\" but not wound, offering only an object to \"like\" and turning visual culture into deculturalized spectacle.",
+      "chapter": "The Society of Pornography",
+      "concepts": [
+        "visual_culture",
+        "contemplation",
+        "spectacle"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Franz Kafka"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Camera Lucida"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Studium belongs to the order of \"I like / I don't like\" and to culturally coded reading; the punctum interrupts the continuum as a rift that injures and cannot be named.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "Like a shop window which shows only one illuminated piece of jewelry ... completely constituted by the presentation of only one thing: sex.",
+          "speaker": "Roland Barthes"
+        },
+        {
+          "type": "mechanism",
+          "text": "The punctum requires contemplative lingering and silence, revealing itself belatedly in recollection; pornographic images lack temporal distance, serving only immediate arousal, so the society of pornography is a society of the spectacle.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-019",
+      "text": "Applying Sartre's theory of obscenity to the social body, movements become obscene when stripped of narrativity and direction; hyperactivity and hyperacceleration accelerate for their own sake, spilling over their goal without really moving anything.",
+      "chapter": "The Society of Acceleration",
+      "concepts": [
+        "acceleration",
+        "obscenity",
+        "narrativity"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Paul Sartre",
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "For Sartre the body becomes obscene when reduced to the mere facticity of flesh, without reference, direction, or situation.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "Movement does not disappear as much into immobility as into speed and acceleration\u2014into the more mobile than movement.",
+          "speaker": "Jean Baudrillard"
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-020",
+      "text": "Only additive, narrative-free processes admit acceleration, so the society of transparency abolishes rituals and ceremonies: the processor merely counts (z\u00e4hlt) while the procession tells (erz\u00e4hlt), and pilgrimage, charged with narrative meaning, cannot be accelerated.",
+      "chapter": "The Society of Acceleration",
+      "concepts": [
+        "ritual",
+        "narrativity",
+        "thresholds"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "\"Processor,\" \"procession,\" and \"process\" all derive from Latin procedere (\"to step forward\"), yet only the procession carries narrative tension, scenography, and direction.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "The pilgrim travels toward a \"there\" (Dort) where salvation is expected and cannot hurry; the tourist stays in the here-and-now on empty, unremarkable passages, which is the obscene semantic impoverishment of space and time.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Meanings arise only at thresholds and transitions through obstacles; their negativity constitutes \"the topology of passion,\" while transparent space is smoothed, leveled, and semantically impoverished.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-021",
+      "text": "Memory is narrative and constantly rearranged, distinguishing it from additive storage; when memory is positivized into a data \"junkshop\" it can neither remember nor forget, and denarrativized time scatters into atomized, fragrance-less presences.",
+      "chapter": "The Society of Acceleration",
+      "concepts": [
+        "collective_memory",
+        "temporality",
+        "narrativity"
+      ],
+      "entities": {
+        "people": [
+          "Marcel Proust"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Memory is positivized into a \"junkshop\" or storage unit of \"used and worn-out symbols piled up any-old-how\"; stored data remains the same, so history is absent.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "For Proust immediate enjoyment is incapable of beauty; beauty appears only belatedly as reminiscence\u2014the quiet afterglow and phosphorescence of time\u2014whereas transparency does not phosphoresce.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "The crisis of our times is not acceleration but the scattering and dis-synchrony of temporality, so the remedy is not deceleration, which alone produces no tact, rhythm, or fragrance.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-022",
+      "text": "The eighteenth-century theatrum mundi used scenic distance and ritual signs to unburden the soul, but modernity abandons theatrical distance for intimacy, replacing representation with pornographic exhibition and the theater with a market where intimacies are sold.",
+      "chapter": "The Society of Intimacy",
+      "concepts": [
+        "public_sphere",
+        "intimacy",
+        "theatricality"
+      ],
+      "entities": {
+        "people": [
+          "Richard Sennett"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "theatricality has a special, hostile relation to intimacy; theatricality has an equally special, friendly relation to a strong public life.",
+          "speaker": "Richard Sennett"
+        },
+        {
+          "type": "mechanism",
+          "text": "According to the ideology of intimacy, social relations seem more real and authentic the closer they approach individuals' inner psychic needs, so transparency of the soul is sought by laying it bare.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-023",
+      "text": "Social media and personalized search create a distanceless intimate \"comfort zone\" that eliminates the outside and negativity, dismantling the public sphere and critical consciousness, while the tyranny of intimacy psychologizes politics so politicians are judged by their persons rather than their actions.",
+      "chapter": "The Society of Intimacy",
+      "concepts": [
+        "public_sphere",
+        "personalization",
+        "depoliticization"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "The internet offers users only pleasing sectors of the world where they encounter only themselves, privatizing the world and turning the public sphere into an exhibition space for publicizing personae.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "\"Person\" (persona) originally means \"mask,\" giving the voice sounding through it (per-sonare) form; the society of transparency works against all masks and symbolic appearance (Schein).",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-024",
+      "text": "The deritualized society of intimacy mistrusts ceremonial forms as inauthentic and eliminates objective play-space, producing narcissistic subjects who lack self-distance and, unable to escape or lose themselves, sink into depressive, borderless self-intimacy.",
+      "chapter": "The Society of Intimacy",
+      "concepts": [
+        "narcissism",
+        "ritual",
+        "self_distance"
+      ],
+      "entities": {
+        "people": [
+          "Richard Sennett"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The narcissist is not hungry for experiences, he is hungry for Experience.",
+          "speaker": "Richard Sennett"
+        },
+        {
+          "type": "contrast",
+          "text": "Experience (Erfahrung) means facing the Other, while Experiencing (Erlebnis) means encountering oneself everywhere; ritual's externalized expressive action de-individualizes and depsychologizes, offering escape from the self.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-025",
+      "text": "Plato's cave is constructed as a theater\u2014a world of narration with artificial firelight and scenic illusion\u2014opposed to the world of insight, so the allegory represents narrative versus cognitive modes of existence rather than mere modes of cognition.",
+      "chapter": "The Society of Information",
+      "concepts": [
+        "mimesis",
+        "truth",
+        "narrativity"
+      ],
+      "entities": {
+        "people": [
+          "Plato"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Republic"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "The low wall resembles \"a partition above which the exhibitors of puppet shows display their art\"; the prisoners are bound by scenic illusions and give themselves over to narration.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The light of truth denarrativizes the world: the sun annihilates mere appearance, replacing the play of mimesis and metamorphosis with \"working at truth,\" which is why Plato banishes the poet.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Like Plato's city, the society of transparency is a society without poets, seduction, or metamorphosis, setting hyperreal naked evidence against artifacts and antifacts.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-026",
+      "text": "Metaphysical light offers strong referentiality and generates negativity, hierarchy, and orientation (light/darkness, Good/Evil), whereas transparency is see-through without light\u2014a lightless, penetrating, homogenizing radiation lacking transcendence.",
+      "chapter": "The Society of Information",
+      "concepts": [
+        "transcendence",
+        "hierarchy",
+        "light_metaphysics"
+      ],
+      "entities": {
+        "people": [
+          "Plato"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Platonic sunlight streams from the Sun as the idea of the Good \"beyond Being,\" hierarchizing knowledge from likenesses through sensible things to the intelligible Ideas.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Transparency's medium is not illuminating light but intrusive, leveling radiation that suffuses everything and makes it see-through, generating no hierarchies or points of orientation.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-027",
+      "text": "The society of transparency is the society of information, which as positivized, operationalized language lacks all negativity; but Heidegger's \"Framing\" oriented to domination cannot explain today's exhibition, whose aim is attention (porno) rather than power (polemos).",
+      "chapter": "The Society of Information",
+      "concepts": [
+        "information",
+        "power",
+        "attention_economy"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Within Framing, speaking turns into information.",
+          "speaker": "Martin Heidegger"
+        },
+        {
+          "type": "contrast",
+          "text": "Heidegger's figures of order (commanding, imagining, producing) aim at power, but exhibiting and putting-on-display aim at attention; power and attention are not coextensive.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Today's media images are simulacra without reference, an accumulation (Ge-Menge) rather than a \"framing\"; only emptiness is entirely transparent, and the mass of information hides a noticeable emptiness while producing no truth.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-028",
+      "text": "Rousseau's Confessions inaugurate truth-as-avowal by demanding a \"crystalline heart\" that hides nothing, setting the discourse of the transparent heart against the theatrical eighteenth-century world of masks, poufs, beauty marks, and scenic play with appearances.",
+      "chapter": "The Society of Unveiling",
+      "concepts": [
+        "confession",
+        "authenticity",
+        "theatricality"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Jacques Rousseau",
+          "Jean Starobinski"
+        ],
+        "places": [
+          "Geneva"
+        ],
+        "events": [],
+        "works": [
+          "Confessions"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "I have bared my secret soul as Thou thyself hast seen it.",
+          "speaker": "Jean-Jacques Rousseau"
+        },
+        {
+          "type": "example",
+          "text": "Ladies' hairstyles (pouf) portrayed historical events or feelings, faces were staged with beauty marks (mouches) signifying passion or straightforwardness, and the body was \"a doll without a soul\" toyed with as appearance rather than expressing an inner heart.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Rousseau's \"dictatorship of the heart\": he criticizes the plan for a Geneva theater as an \"art of counterfeiting oneself,\" lacking transparency.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-029",
+      "text": "The morality of total transparency necessarily switches into tyranny: Rousseau's heroic project of tearing down veils escalates into a categorical imperative of self-exposure, small cities of mutual surveillance, and total control\u2014prefiguring today's pornographic, profit-driven digital panoptica.",
+      "chapter": "The Society of Unveiling",
+      "concepts": [
+        "surveillance",
+        "moral_tyranny",
+        "transparency"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Jacques Rousseau"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Confessions"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Never do or say anything that thou dost not wish everyone to see and hear.",
+          "speaker": "Jean-Jacques Rousseau"
+        },
+        {
+          "type": "example",
+          "text": "Rousseau praises the Roman who wanted a house built so that whatever occurred within could be seen; he prefers small cities where individuals are \"born censors of one another\" and \"the police can easily watch everyone.\"",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "The digital net is not subject to a moral imperative and lacks a heart; digital transparency is not cardiographic but pornographic, aiming at maximal profit and attention rather than moral purification.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-030",
+      "text": "We are not experiencing the end of the panopticon but the beginning of an aperspectival digital panopticon: unlike Bentham's central despotic gaze over isolated inmates, it works from everywhere through hypercommunication, and its inhabitants think they are free.",
+      "chapter": "The Society of Control",
+      "concepts": [
+        "surveillance",
+        "panopticon",
+        "control_society"
+      ],
+      "entities": {
+        "people": [
+          "Jeremy Bentham",
+          "Jean Baudrillard",
+          "David Brin"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The essence of it consists, then, in the centrality of the inspector's situation, combined with the well-known and most effectual contrivances for seeing without being seen.",
+          "speaker": "Jeremy Bentham"
+        },
+        {
+          "type": "mechanism",
+          "text": "Aperspectival penetrating illumination\u2014utter illumination of everyone from everywhere, which anyone can perform\u2014is more effective than perspectival surveillance; inhabitants network and communicate intensively rather than being isolated.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Benthamian inmates know they are watched, while digital-panopticon inhabitants believe themselves free.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-031",
+      "text": "The society of control perfects itself when subjects bare themselves not through outer constraint but through self-generated need, actively collaborating in their own surveillance\u2014so David Brin's utopia of mutual \"transparent society\" degrades into an inhuman society where everyone controls everyone.",
+      "chapter": "The Society of Control",
+      "concepts": [
+        "self_exposure",
+        "surveillance",
+        "freedom"
+      ],
+      "entities": {
+        "people": [
+          "David Brin"
+        ],
+        "places": [
+          "Google"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Can we stand living exposed to scrutiny, our secrets laid open, if in return we get flashlights of our own that we can shine on anyone?",
+          "speaker": "David Brin"
+        },
+        {
+          "type": "mechanism",
+          "text": "Pornographic putting-on-display and panoptic control complement each other; exhibitionism and voyeurism feed the net, and Google and social networks presenting themselves as spaces of freedom assume panoptic forms.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-032",
+      "text": "Transparency dismantles trust rather than creating it: trust presupposes a state between knowing and not-knowing, so the strident demand for transparency signals vanishing confidence and a faulty moral foundation, replacing morality as the new social imperative.",
+      "chapter": "The Society of Control",
+      "concepts": [
+        "trust",
+        "epistemic_authority",
+        "moral_order"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "If one knows everything in advance there is no need for trust; where transparency eliminates all not-knowing, no room for trust exists, so \"transparency dismantles trust.\"",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "The people have to believe in and trust their ruler; when they trust, they grant him a measure of freedom to act.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-transparency-society-033",
+      "text": "The society of transparency obeys the logic of the achievement society: the self-exploiting achievement-subject is simultaneously perpetrator and victim, and utter auto-illumination\u2014attended by a feeling of freedom\u2014functions more efficiently than externally imposed control, turning the transparent customer into the homo sacer of the digital panopticon.",
+      "chapter": "The Society of Control",
+      "concepts": [
+        "self_exploitation",
+        "achievement_society",
+        "commodification"
+      ],
+      "entities": {
+        "people": [
+          "Jeremy Bentham"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Auto-exploitation and auto-illumination are more efficient than allo-exploitation because a sensation of freedom attends the self-generated constraint; illumination is exploitation, maximizing economic efficiency.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Bentham's panopticon had a moral-biopolitical aim (\"morals reformed,\" \"health preserved\"), while today's compulsive transparency follows an economic imperative.",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "No genuine community or \"we\" forms; only additive gatherings and \"brand communities\" of isolated consumers emerge, lacking spirit, so surveillance now occurs through voluntary self-surrender rather than as an attack on freedom.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-transparency-society-ch-001",
+      "title": "The Society of Positivity",
+      "summary": "Transparency is not merely an anticorruption ideal but a systemic compulsion that dismantles negativity\u2014otherness, ambivalence, secrecy\u2014to operationalize and accelerate social processes, thereby reducing humans to functional elements and stabilizing the existing order.",
+      "claim_ids": [
+        "the-transparency-society-001",
+        "the-transparency-society-002",
+        "the-transparency-society-003",
+        "the-transparency-society-004",
+        "the-transparency-society-005",
+        "the-transparency-society-006"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-002",
+      "title": "The Society of Exhibition",
+      "summary": "In capitalism cult value gives way to exhibition value, so that everything\u2014including the human face\u2014must be displayed to exist, producing a pornographic society of hypervisibility that eliminates aura, distance, and aesthetic contemplation.",
+      "claim_ids": [
+        "the-transparency-society-007",
+        "the-transparency-society-008",
+        "the-transparency-society-009",
+        "the-transparency-society-010"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-003",
+      "title": "The Society of Evidence",
+      "summary": "Transparency is hostile to pleasure and desire because eros depends on the negativity of the secret, the veil, and asymmetry; evidence permits only deduction, not seduction, and the elimination of mystery and power turns the erotic into the pornographic.",
+      "claim_ids": [
+        "the-transparency-society-011",
+        "the-transparency-society-012",
+        "the-transparency-society-013",
+        "the-transparency-society-014"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-004",
+      "title": "The Society of Pornography",
+      "summary": "Against Agamben, exposure per se is pornographic: beauty and the erotic require the veil and the negativity of intermittence, and capitalism's maximization of exhibition value pornographies society by handing everything over to hypervisibility.",
+      "claim_ids": [
+        "the-transparency-society-015",
+        "the-transparency-society-016",
+        "the-transparency-society-017",
+        "the-transparency-society-018"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-005",
+      "title": "The Society of Acceleration",
+      "summary": "Acceleration is possible only for additive, denarrativized processes; the compulsion for transparency strips rituals, pilgrimages, thresholds, and memory of their narrativity, producing an obscene, directionless hyperactivity and the scattering of temporality rather than mere speed.",
+      "claim_ids": [
+        "the-transparency-society-019",
+        "the-transparency-society-020",
+        "the-transparency-society-021"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-006",
+      "title": "The Society of Intimacy",
+      "summary": "The decline of the theatrical public sphere in favor of an ideology of intimacy makes transparency a psychological formula\u2014one attained by baring the soul\u2014that psychologizes politics, dismantles the public sphere, and breeds distanceless narcissism.",
+      "claim_ids": [
+        "the-transparency-society-022",
+        "the-transparency-society-023",
+        "the-transparency-society-024"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-007",
+      "title": "The Society of Information",
+      "summary": "Plato's cave is a theater of narration opposed to the world of insight; today's transparency lacks both the transcendent, hierarchizing light of truth and symbolic appearance, replacing them with lightless, leveling radiation and a mass of referenceless information that produces neither truth nor clarity.",
+      "claim_ids": [
+        "the-transparency-society-025",
+        "the-transparency-society-026",
+        "the-transparency-society-027"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-008",
+      "title": "The Society of Unveiling",
+      "summary": "Rousseau's demand for a transparent \"heart\" marks the eighteenth-century paradigm shift from a theatrical world of masks to truth-as-avowal, and this morality of total transparency necessarily switches into tyranny, surveillance, and total control.",
+      "claim_ids": [
+        "the-transparency-society-028",
+        "the-transparency-society-029"
+      ]
+    },
+    {
+      "id": "the-transparency-society-ch-009",
+      "title": "The Society of Control",
+      "summary": "The digital panopticon is an aperspectival society of control in which people voluntarily bare and exhibit themselves, so transparency destroys trust and freedom, becoming a form of self-exploitation and control that transforms the citizen into the transparent, exploitable consumer.",
+      "claim_ids": [
+        "the-transparency-society-030",
+        "the-transparency-society-031",
+        "the-transparency-society-032",
+        "the-transparency-society-033"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 33,
+    "chapter_count": 9,
+    "indexed_at": "2026-07-11T20:57:29.868209Z"
+  }
+}

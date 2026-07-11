@@ -1,0 +1,1565 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "The Disappearance of Rituals: A Topology of the Present",
+    "author": "Byung-Chul Han",
+    "year": 2020,
+    "categories": [
+      "philosophy",
+      "social science",
+      "political science"
+    ],
+    "collections": [
+      "Byung-Chul Han"
+    ],
+    "thesis": "Rituals are symbolic techniques of making oneself at home in the world that produce community without communication, and their disappearance under the neoliberal compulsion of production, authenticity, and communication is dissolving community and producing a narcissistic, atomized, disenchanted society."
+  },
+  "claims": [
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-001",
+      "text": "Han sketches a genealogy of the disappearance of rituals which he explicitly refuses to interpret as an emancipatory process, using rituals as a diagnostic background to expose the erosion of community and collective narcissism of the present.",
+      "chapter": "Preliminary Remark",
+      "concepts": [
+        "ritual",
+        "collective_narcissism",
+        "institutional_critique"
+      ],
+      "entities": {
+        "people": [
+          "Byung-Chul Han"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "caveat",
+          "text": "The essay is not animated by a desire to return to ritual, and avoids nostalgia.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-002",
+      "text": "Rituals are symbolic acts that produce a community without communication, whereas today communication without community prevails; symbolic perception is recognition of the permanent that shears the world of contingency and gives it durability.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "symbolic_perception",
+        "community",
+        "recognition"
+      ],
+      "entities": {
+        "people": [
+          "Hans-Georg Gadamer",
+          "Aristophanes",
+          "Plato",
+          "Mary Douglas"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Symposium"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "The symbol (Greek symbolon) originally referred to the tessera hospitalis, a clay tablet broken in two as a sign of recognition between guest-friends.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In Plato's Symposium, Aristophanes' myth holds that humans, split by Zeus, are symbola longing for their other half; symb\u00e1llein means 'to bring together.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-003",
+      "text": "Rituals render time habitable the way a house renders space habitable, structuring and furnishing time; today time lacks solid structure and disintegrates into an erratic stream of point-like presences that rushes off and cannot be dwelt in.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "duration",
+        "dwelling",
+        "time"
+      ],
+      "entities": {
+        "people": [
+          "Antoine de Saint-Exup\u00e9ry",
+          "Hannah Arendt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Citadelle"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "And our immemorial rites are in Time what the dwelling is in Space.",
+          "speaker": "Antoine de Saint-Exup\u00e9ry"
+        },
+        {
+          "type": "source_detail",
+          "text": "Han's term for making oneself at home in the world is Einhausung; the loss of duration produces a 'de-housing' (Enthausung).",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-004",
+      "text": "The compulsion of production robs things of endurance to force more consumption, so that things (and the world) are used up rather than used; a smartphone is a 'non-thing' because it lacks the self-sameness that stabilizes life.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "consumption",
+        "reification",
+        "emotional_capitalism"
+      ],
+      "entities": {
+        "people": [
+          "Hannah Arendt"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "In ritual, things are not consumed (verbraucht) but used (gebraucht) and can become old; under production we behave as consumers and in return things consume us.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Emotions, being infinitely consumable unlike things, open a new field of infinite consumption; the emotionalization and aestheticization of commodities strengthens the narcissistic relation to self.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-005",
+      "text": "Symbolic perception is being replaced by serial perception\u2014the constant registering of the new\u2014which is extensive, shallow, and incapable of duration, producing attention deficit and binge watching; deep attention itself emerged from ritual and religious practice.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "attention",
+        "serial_perception",
+        "digital_communication"
+      ],
+      "entities": {
+        "people": [
+          "Nicolas Malebranche"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "'Religion' derives from relegere (to take note); Malebranche called attention the natural prayer of the soul; today the soul does not pray but permanently produces itself.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Symbolic perception is intensive; serial perception is extensive. Digital communication establishes only connections, not relationships.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-006",
+      "text": "Repetition, unlike routine, creates intensity and founds duration; it discovers intensity in the bland and unprepossessing, whereas the neoliberal chase for the new only produces variations of the same and deteriorates into routine.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "repetition",
+        "duration",
+        "innovation_critique"
+      ],
+      "entities": {
+        "people": [
+          "S\u00f8ren Kierkegaard",
+          "Peter Handke"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Repetition is clothing that never becomes worn, that fits snugly and comfortably, that neither pulls nor hangs too loosely.",
+          "speaker": "S\u00f8ren Kierkegaard"
+        },
+        {
+          "type": "mechanism",
+          "text": "The old is 'the daily bread that satisfies through blessing'; the compulsion to reject routines produces more routines because the new quickly fades into routine.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-007",
+      "text": "Rituals are embodied, resonant, collective processes: they create a communal body (K\u00f6rperschaft), objective collective feelings, and axes of resonance, whereas digital communication is disembodied, affect-based, and fills echo chambers where we hear only ourselves.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "resonance",
+        "embodiment",
+        "collective_emotion"
+      ],
+      "entities": {
+        "people": [
+          "Hartmut Rosa"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Hartmut Rosa's resonance operates on vertical (gods/cosmos), horizontal (social community), and diagonal (things) axes; where resonance disappears completely, depression arises.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Collective feelings (e.g., mourning where the community is the subject that mourns) consolidate community; Twitter is an affective medium producing affective politics that displaces time-intensive reason.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-008",
+      "text": "The compulsion of production becomes the compulsion of self-production (producere = to make visible, sich produzieren = to play to the gallery) and of performance, in which the ego-libido drives the narcissistic subject to exploit itself until it breaks down into depression or burnout.",
+      "chapter": "The Compulsion of Production",
+      "concepts": [
+        "self_production",
+        "performance",
+        "burnout",
+        "narcissism"
+      ],
+      "entities": {
+        "people": [
+          "Sigmund Freud",
+          "Roland Barthes"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "In labour the ego need not take centre stage, but in performance the ego produces itself; Freud associated ego-libido with the death drive, so the performing subject optimizes itself to death.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "In a society governed by ritual there is no depression because the soul is absorbed and emptied by ritual forms; depression is based on an excessive relation to self.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Roland Barthes: ceremony 'protects like a house' and mourning acts 'like a varnish' against the atrocious burns of mourning.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-009",
+      "text": "Against Charles Taylor, who grants authenticity a 'moral force' compatible with community, Han argues authenticity is the enemy of community: its market value effaces all other values, so form and content coincide in the self and society is atomized.",
+      "chapter": "The Compulsion of Authenticity",
+      "concepts": [
+        "authenticity",
+        "community",
+        "atomization"
+      ],
+      "entities": {
+        "people": [
+          "Charles Taylor"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Being true to myself means being true to my own originality, and that is something only I can articulate and discover.",
+          "speaker": "Charles Taylor"
+        },
+        {
+          "type": "mechanism",
+          "text": "The cult of authenticity shifts the question of identity from society to the individual and makes self-production a permanent activity.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-010",
+      "text": "Authenticity is a neoliberal form of production: presenting freedom and self-realization as self-fulfilment, it turns the whole person into a highly efficient site of self-exploitation and produces narcissistic introspection and a pornographic society of intimacy and exposure.",
+      "chapter": "The Compulsion of Authenticity",
+      "concepts": [
+        "neoliberalism",
+        "self_exploitation",
+        "narcissism"
+      ],
+      "entities": {
+        "people": [
+          "Charles Taylor"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Han calls the resulting exposure 'the nudism of the soul,' which lends society a pornographic character.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-011",
+      "text": "The eighteenth-century public space was a ritual theatre in which the body was a soulless dressed puppet decorated with signs, but the nineteenth century's discovery of work replaced theatrical presentation with a culture of interiority, and today's pornographic fashion displays more flesh than form.",
+      "chapter": "The Compulsion of Authenticity",
+      "concepts": [
+        "theatricality",
+        "public_sphere",
+        "fashion"
+      ],
+      "entities": {
+        "people": [
+          "Johan Huizinga",
+          "Richard Sennett"
+        ],
+        "places": [],
+        "events": [
+          "French Revolution"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Coiffures were designed as scenes (pouf \u00e0 la circonstance, pouf au sentiment) and beauty spots (mouches) turned the face into a stage; this face is utterly remote from the face presented on Facebook.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "There is no more striking symptom of the decline of the play-factor than the disappearance of everything imaginative, fanciful, fantastic from men's dress after the French Revolution.",
+          "speaker": "Johan Huizinga"
+        },
+        {
+          "type": "example",
+          "text": "Today's tattoos lack symbolic power and point only to the bearer's uniqueness; the body becomes an advertising space and 'the neoliberal hell of the same is populated with tattooed clones.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-012",
+      "text": "A 'ritual turn' would re-establish the priority of forms: the body moves the spirit and the medium produces the message, so polite as-if rituals produce beautiful souls, whereas the cult of authenticity, distrusting formed behaviour as inauthentic, brutalizes society.",
+      "chapter": "The Compulsion of Authenticity",
+      "concepts": [
+        "priority_of_forms",
+        "politeness",
+        "civility"
+      ],
+      "entities": {
+        "people": [
+          "Alain",
+          "William James"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Polite behaviour can strongly influence our thoughts. And miming graciousness, kindness and happiness is of considerable help in combating ill humor.",
+          "speaker": "Alain (\u00c9mile-Auguste Chartier)"
+        },
+        {
+          "type": "source_detail",
+          "text": "Culture is made up of 'as-if rituals'; a ritual of politeness is an objective act resembling a magical invocation, not an expression of subjective feeling.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-013",
+      "text": "Collective narcissism disenchants and profanes culture and art, replacing magic, seductive form, and the holy seriousness of play with transparency, discourse, and the profane seriousness of work; a re-enchantment of the world would counteract collective narcissism.",
+      "chapter": "The Compulsion of Authenticity",
+      "concepts": [
+        "disenchantment",
+        "collective_narcissism",
+        "aesthetics"
+      ],
+      "entities": {
+        "people": [
+          "Sigmund Freud"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Skyfall",
+          "La Grande Bouffe"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "James Bond films have become more serious and less playful; Skyfall ends not with amorous play but with Bond receiving his next assignment from M.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Since the late 1980s art spaces shifted from looking like Catholic churches full of colourful forms to being 'deeply Protestant,' focusing on content and the written word.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The disenchantment of art replaces the magic signifier with the profane signified, seductive form with discursive meaning and transparency.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-014",
+      "text": "The neoliberal imperative of optimization and performance permits no completion, subordinating all areas of life including education (life-long learning as life-long production) and dissolving the 'We' capable of joint action into self-exploiting entrepreneurs of the self.",
+      "chapter": "Rituals of Closure",
+      "concepts": [
+        "closure",
+        "optimization",
+        "flexibility"
+      ],
+      "entities": {
+        "people": [
+          "Richard Sennett"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "The isolated subject of performance exploits itself most efficiently when it remains flexible and open to everything; ties and bonds as forms of closure are ruthlessly destroyed.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Richard Sennett: continual escalation of expectations so present behavior is never fulfilling is a lack of 'closure'; completion is avoided because a finished object would exist independently of the self.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-015",
+      "text": "Globalization and digital networks de-site (ent-orten) the world into a global market and an off-site (Ab-Ort), because a site is a form of closure that permits dwelling, whereas one cannot dwell on the Internet but only surf it, like a tourist circulating through a de-sited world.",
+      "chapter": "Rituals of Closure",
+      "concepts": [
+        "site",
+        "globalization",
+        "dwelling"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "A site (Ort) is a form of closure; the global market is an 'off-site' (Ab-Ort) and the Internet is an off-site too.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-016",
+      "text": "P\u00e9ter N\u00e1das's ancient wild pear tree exemplifies a ritually closed place that produces a community without communication: collective consciousness, common listening, and one continuously repeated great story, where everyone says much less than everyone knows.",
+      "chapter": "Rituals of Closure",
+      "concepts": [
+        "narrative",
+        "community",
+        "closure"
+      ],
+      "entities": {
+        "people": [
+          "P\u00e9ter N\u00e1das"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Behutsame Ortsbestimmung",
+          "Der eigene Tod"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "They do not have opinions on this or that, but incessantly tell just one great story.",
+          "speaker": "P\u00e9ter N\u00e1das"
+        },
+        {
+          "type": "mechanism",
+          "text": "A narrative is a form of closure with beginning and end; information is additive, not narrative, and can only be endlessly accumulated. In the companion essay 'Der eigene Tod,' death becomes birth, forming a cyclical closure enclosed by over 150 photographs of the tree.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "Today, there are no chosen trees, and the song of the village has faded.",
+          "speaker": "P\u00e9ter N\u00e1das"
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-017",
+      "text": "Culture is a form of closure that founds an including, not excluding, identity: following Hegel, spirit acquires the power to realize itself only through its 'inherent heterogeneity,' so the invoked Leitkultur that mindlessly excludes the foreign is devoid of spirit, while global hyper-culture equally excludes the foreign and produces a 'hell of the same.'",
+      "chapter": "Rituals of Closure",
+      "concepts": [
+        "cultural_identity",
+        "heterogeneity",
+        "hell_of_the_same"
+      ],
+      "entities": {
+        "people": [
+          "G. W. F. Hegel",
+          "Gilles Deleuze",
+          "Prometheus"
+        ],
+        "places": [
+          "Ancient Greece",
+          "Caucasus"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "the rudiments of Greek civilization are connected with the advent of foreigners.",
+          "speaker": "G. W. F. Hegel"
+        },
+        {
+          "type": "contrast",
+          "text": "Deleuze's rhizome of the endless conjunction 'and \u2026 and \u2026' uproots the verb 'to be' (the verb for a site); this hyper-cultural logic of the And is ultimately destructive, a cancerous proliferation of the same.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-018",
+      "text": "The abolition of rituals removes autonomous time (Eigenzeit) and the rites of passage that give form to life's essential transitions, so we age without growing old and remain infantile consumers; thresholds that speak and transform are erased by seamless production, leaving only the hell of the same.",
+      "chapter": "Rituals of Closure",
+      "concepts": [
+        "autonomous_time",
+        "rites_of_passage",
+        "threshold"
+      ],
+      "entities": {
+        "people": [
+          "Hans-Georg Gadamer"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Gadamer: childhood, youth, maturity, old age, and death are basic forms of autonomous time, discontinuous and not clock time.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Information and commodities prefer a world without thresholds because unresisting smoothness accelerates circulation; temporally intense transitions disintegrate into speedy passages and endless clicks.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-019",
+      "text": "Sabbath rest (menuchah) does not follow creation but completes it and is God's very nature, so subordinating rest to work ignores the divine; the Sabbath demands silence, closed mouth and eyes, and produces a community without communication.",
+      "chapter": "Festivals and Religion",
+      "concepts": [
+        "sacred_rest",
+        "silence",
+        "community"
+      ],
+      "entities": {
+        "people": [
+          "Rashi",
+          "Franz Rosenzweig"
+        ],
+        "places": [],
+        "events": [
+          "Sabbath"
+        ],
+        "works": [
+          "Book of Genesis"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "After the six days of creation, what was still missing from the universe? Menuchah [inoperativity, rest]. The Sabbath came, the menuchah came, and the universe was complete.",
+          "speaker": "Rashi"
+        },
+        {
+          "type": "source_detail",
+          "text": "The verb myein, 'to initiate,' means etymologically 'to close'\u2014the eyes and above all the mouth; at the sacred rites the herald would 'command silence' (epitattei ten siopen).",
+          "speaker": null
+        },
+        {
+          "type": "caveat",
+          "text": "Franz Rosenzweig calls the Sabbath the 'holiday of the Creation' and of completion, in which man rests his tongue from everyday chit-chat and learns silence and listening.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-020",
+      "text": "Rest and work are divided by an ontological and theological difference: rest transcends work rather than recovering from it, and the circular alternation of festival (assembly) and work (dispersion) expresses the rhythm of social life, so today's perpetual production eliminates sacred silence and desecrates life.",
+      "chapter": "Festivals and Religion",
+      "concepts": [
+        "sacred_profane",
+        "festival",
+        "rest"
+      ],
+      "entities": {
+        "people": [
+          "\u00c9mile Durkheim"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Durkheim: work is an eminent profane activity; society revivifies its sense of itself only by assembling, and the rhythm of religious life expresses the rhythm of social life.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "When rest becomes recovery from work it loses its ontological value and degenerates into a derivative of work.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-021",
+      "text": "A festival is celebrated (begehen) because it stands there like a building in standing-still, exalted time (Hoch-Zeit), and is the origin of art, which affords life durability; the compulsion of work erodes durability so that life becomes radically transient.",
+      "chapter": "Festivals and Religion",
+      "concepts": [
+        "festival",
+        "art",
+        "leisure"
+      ],
+      "entities": {
+        "people": [
+          "Hans-Georg Gadamer",
+          "Friedrich H\u00f6lderlin"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The essence of our temporal experience of art is in learning how to tarry in this way.",
+          "speaker": "Hans-Georg Gadamer"
+        },
+        {
+          "type": "example",
+          "text": "For H\u00f6lderlin the festival is a 'bridal festival,' an exalted time humans spend with the gods, in which the gods embody the intensities of human life.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Schools of higher education (Hoch-Schule) share the exalted-time root; Greek schol\u00e9 means leisure, but universities have become factories of human capital pursuing professional training rather than formative education (Bildung).",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-022",
+      "text": "Capitalism is not a religion because, understood as religare (that which binds), it lacks the force to assemble; money individualizes and isolates, capital never rests, and by totalizing the profane capitalism merely counts (z\u00e4hlt) rather than narrates (erz\u00e4hlt), producing a hell of the same.",
+      "chapter": "Festivals and Religion",
+      "concepts": [
+        "capitalism_as_religion",
+        "narrative",
+        "hell_of_the_same"
+      ],
+      "entities": {
+        "people": [
+          "Giorgio Agamben",
+          "Martin Heidegger"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Christianity is largely narrative\u2014Easter, Whitsun, Christmas give days meaning within an overall narrative; capitalism deprives time of meaning and reduces it to labour time so all days resemble each other.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Against Agamben, who equates pilgrims and tourists, Han insists tourists travel through non-sites emptied of meaning while pilgrims are bound to sites that assemble; sites are profaned into sights that one merely passes by.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Han's closing formula: 'Capitalism dislikes silence'\u2014silence would be the degree zero of production and, in the post-industrial age, of communication.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-023",
+      "text": "Following Bataille, Han distinguishes strong play (sovereign, free from utility, risking life) from weak play (recreation serving production); the neoliberal subject of performance is an 'absolute slave' who voluntarily exploits itself in the absence of a master.",
+      "chapter": "A Game of Life and Death",
+      "concepts": [
+        "sovereignty",
+        "strong_play",
+        "expenditure"
+      ],
+      "entities": {
+        "people": [
+          "Georges Bataille",
+          "James George Frazer"
+        ],
+        "places": [
+          "Calicut",
+          "Quilcare"
+        ],
+        "events": [],
+        "works": [
+          "The Golden Bough"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Frazer's 'Great Sacrifice' at Calicut: every twelfth year swordsmen, having taken their last meal, charge down a lane of spears to die\u2014not for a crown but to prove their dauntless valour, a useless sacrifice of life embodying expenditure and play.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "A 'soldier' literally means one in someone's pay\u2014a wage earner who trades his life and fears death\u2014whereas the sovereign warrior is a player; sacrificium creates sacred things and presupposes a de-production (Ent-Produktion).",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-024",
+      "text": "Capitalist production banishes death from life\u2014capital acts as a guarantee against death by accumulating time\u2014so the age of production is a time without festival dominated by irreversible growth; the antidote is the symbolic exchange with death, in which death is an aspect of life exchanged in ritual feasting.",
+      "chapter": "A Game of Life and Death",
+      "concepts": [
+        "symbolic_exchange",
+        "death",
+        "capital"
+      ],
+      "entities": {
+        "people": [
+          "Georges Bataille",
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The removal of death from life, that is the very operation of the economic \u2026 Life returned to death: the very operation of the symbolic.",
+          "speaker": "Jean Baudrillard"
+        },
+        {
+          "type": "mechanism",
+          "text": "Archaic societies do not sharply distinguish life and death; initiation is a second birth following the death of a life-phase, and festivals as expenditure imply symbolic exchange with death.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-025",
+      "text": "Sovereign suicide (Freitod)\u2014chosen in a state of grace or extreme pleasure, not depression\u2014is the most radical rejection of the society of production and an act of cultural resistance, undoing capitalism's separation of death from life; the art of life means eliminating psychology and playing.",
+      "chapter": "A Game of Life and Death",
+      "concepts": [
+        "suicide",
+        "cultural_resistance",
+        "art_of_living"
+      ],
+      "entities": {
+        "people": [
+          "Werner Schroeter",
+          "Michel Foucault",
+          "Juvenal"
+        ],
+        "places": [
+          "Porto"
+        ],
+        "events": [],
+        "works": [
+          "La Nuit de chien"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "To look death in the face is an anarchist feeling dangerous to established society.",
+          "speaker": "Werner Schroeter"
+        },
+        {
+          "type": "quote",
+          "text": "One should work on one's suicide all one's life.",
+          "speaker": "Michel Foucault"
+        },
+        {
+          "type": "contrast",
+          "text": "A depressed person's suicide (Suizid) is a forced death from exhaustion because he can no longer produce; only under neoliberal relations of production is such a death possible.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "losing the reasons to live for the sake of staying alive",
+          "speaker": "Juvenal"
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-026",
+      "text": "Hegel's dialectic of master and slave begins as a duel between a sovereign player who risks death for glory and a worker who chooses survival, and Hegel\u2014as a philosopher of modernity for whom spirit works\u2014sides with the slave, having no access to the freedom of the player who despises work.",
+      "chapter": "The End of History",
+      "concepts": [
+        "master_slave_dialectic",
+        "work",
+        "play"
+      ],
+      "entities": {
+        "people": [
+          "G. W. F. Hegel"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Phenomenology of Spirit"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "The master is a free strong player prepared to stake his life; the slave prefers survival and subordinates himself to work.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-027",
+      "text": "Marx and Koj\u00e8ve hold to the primacy of work as the essence of man and the motor of history, making the worker the sole subject of history; Lafargue's counter-tract The Right to Be Lazy invokes the free Greek's contempt for work and demands 'Rights of Laziness.'",
+      "chapter": "The End of History",
+      "concepts": [
+        "labour",
+        "history",
+        "idleness"
+      ],
+      "entities": {
+        "people": [
+          "Karl Marx",
+          "Alexandre Koj\u00e8ve",
+          "Paul Lafargue"
+        ],
+        "places": [
+          "Ancient Greece"
+        ],
+        "events": [],
+        "works": [
+          "The Right to Be Lazy"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "This creative education of Man by work (Bildung) creates History \u2013 i.e., human Time. Work is Time.",
+          "speaker": "Alexandre Koj\u00e8ve"
+        },
+        {
+          "type": "quote",
+          "text": "O Laziness, mother of the arts and noble virtues, be thou the balm of human anguish!",
+          "speaker": "Paul Lafargue"
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-028",
+      "text": "Koj\u00e8ve first located the end of history in the American way of life as a return to animality, but after visiting Japan he saw a thoroughly ritualized post-historical society of 'ruthless aesthetization'\u2014a coming ritual society without truth or transcendence, governed by beautiful semblance (der sch\u00f6ne Schein) in place of religion.",
+      "chapter": "The End of History",
+      "concepts": [
+        "end_of_history",
+        "aestheticization",
+        "ritual_society"
+      ],
+      "entities": {
+        "people": [
+          "Alexandre Koj\u00e8ve",
+          "Friedrich Nietzsche"
+        ],
+        "places": [
+          "Japan",
+          "United States"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Instead of risking their lives in battle, they have suspended it in the ceremonial",
+          "speaker": "Alexandre Koj\u00e8ve"
+        },
+        {
+          "type": "source_detail",
+          "text": "Nietzsche: where historical man spoke of true and false, there are only 'levels of appearance' and lighter and darker shades of appearance\u2014different valeurs.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-029",
+      "text": "Poetry and wit are luxuries of the signifier\u2014the poetic is 'the insurrection of language against its own laws'\u2014in which language plays rather than works, whereas the working language of information, fully absorbed by the signified, is disenchanted and cannot be enjoyed.",
+      "chapter": "The Empire of Signs",
+      "concepts": [
+        "signifier",
+        "poetic_language",
+        "disenchantment"
+      ],
+      "entities": {
+        "people": [
+          "Immanuel Kant",
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Kant calls wit (den Witz) an 'intellectual luxury' that deviates from the 'business' of meaning production; wit lets language 'play dumber than it actually is' through delirious contiguity.",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Magic spells convey no meaning; they are empty signs that appear magical, like doors that lead nowhere\u2014what is mysterious is the signifier without the signified.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-030",
+      "text": "Barthes idealizes ritualized Japan as an empire of signs where the overabundance of the signifier dominates: haikus produce no meaning, Japanese packaging makes the luxurious envelope more important than the trivial content, and 'the liturgy of emptiness dispels the capitalist economy of the commodity.'",
+      "chapter": "The Empire of Signs",
+      "concepts": [
+        "overabundance_of_signifier",
+        "ritual",
+        "depsychologization"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "G. W. F. Hegel"
+        ],
+        "places": [
+          "Japan"
+        ],
+        "events": [],
+        "works": [
+          "Empire of Signs"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "old pond a frog jumps into the sound of water",
+          "speaker": "Bash\u014d"
+        },
+        {
+          "type": "contrast",
+          "text": "The kimono veils the body with signifiers, opposed to the pornographic body which is unveiled to reveal only the naked signified, the sexual organ (das Geschlecht).",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In the Japanese tea ceremony participants are truly de-psychologized: ritual gesture replaces communication, the soul falls silent, and a community without communication emerges.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-031",
+      "text": "Ritual society is a society of rules and signifiers without signified\u2014based on a passion for rules and a giddiness born of ceremony rather than the satisfaction of desire\u2014so it is incompatible with capitalism, which is based on the economy of desire.",
+      "chapter": "The Empire of Signs",
+      "concepts": [
+        "passion_for_rules",
+        "ritual",
+        "desire"
+      ],
+      "entities": {
+        "people": [
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "games, the sphere of play, reveal a passion for rules, a giddiness born of rules, and a force that comes from ceremony, and not desire.",
+          "speaker": "Jean Baudrillard"
+        },
+        {
+          "type": "contrast",
+          "text": "Rules rest on agreement and lack transcendent foundation and are merely obeyed; the law presupposes a transcendent authority (God) and morality presupposes an internalizing, self-perfecting soul.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-032",
+      "text": "Politeness is pure empty form, art rather than morality, fully outside without inner heart\u2014one is 'fully form, fully outside'\u2014and this empire of signs that de-internalizes the self is opposed to today's moralizing yet increasingly brutal empire of exposed souls, demanding a defence of an ethics of beautiful forms.",
+      "chapter": "The Empire of Signs",
+      "concepts": [
+        "politeness",
+        "ethics_of_form",
+        "moralization"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes"
+        ],
+        "places": [
+          "Japan"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "The Japanese present is a signifier without signified, a box that may contain nothing\u2014a pure gift suspended between two disappearances, in which greediness is erased.",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "The gift is alone: it is touched neither by generosity nor by gratitude, the soul does not contaminate it",
+          "speaker": "Roland Barthes"
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-033",
+      "text": "In archaic cultures war was ritual play: strict rules forbidding certain weapons, agreed time and place, marked battlefields, and exchange of civilities that presupposed acknowledging the enemy as an equal opponent; ritualization 'raised the tone' by harnessing violence within form.",
+      "chapter": "From Duelling to Drone Wars",
+      "concepts": [
+        "ritual_combat",
+        "reciprocity",
+        "honour"
+      ],
+      "entities": {
+        "people": [
+          "Johan Huizinga",
+          "Carl Schmitt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Homo Ludens"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Huizinga (Homo Ludens): compacts deposited in the temple of Artemis, missiles forbidden, only sword and lance allowed, the battle-ground marked with wooden pegs.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "The duel derives from trial by combat, has a sacral dimension blending dike (right) and tyche (fate), meticulously ensures symmetry, and restores honour regardless of outcome; the chivalric code makes it dishonourable to kill an enemy underhandedly.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-034",
+      "text": "Clausewitz defines war as a duel writ large and as the continuation of political intercourse by other means, so rules leave space for politics afterward; modern wars, being battles of production led by fearful soldier-slaves, lack the character of play, following the formula that the compulsion of production destroys play.",
+      "chapter": "From Duelling to Drone Wars",
+      "concepts": [
+        "war_as_duel",
+        "production",
+        "play"
+      ],
+      "entities": {
+        "people": [
+          "Carl von Clausewitz",
+          "Georges Bataille",
+          "Walter Benjamin"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "On War"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "War is nothing but a duel on a larger scale.",
+          "speaker": "Carl von Clausewitz"
+        },
+        {
+          "type": "quote",
+          "text": "the pathological excess of riches that cannot be endlessly accumulated is expended by slaves who are afraid of death and cannot play",
+          "speaker": "Georges Bataille"
+        },
+        {
+          "type": "source_detail",
+          "text": "Benjamin derives imperialist war's horrors from the discrepancy between enormous means of production and their inadequate use.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-035",
+      "text": "Because the medium is the message, asymmetric means of destruction (fighter planes, drones) transform the enemy from an equal opponent (iustus hostis) into a criminal to be destroyed, so technological superiority becomes moral superiority and targeted killing becomes a form of policing.",
+      "chapter": "From Duelling to Drone Wars",
+      "concepts": [
+        "asymmetry",
+        "medium_is_the_message",
+        "enemy"
+      ],
+      "entities": {
+        "people": [
+          "Marshall McLuhan",
+          "Carl Schmitt"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The superior force considers its superiority in weaponry to be proof of its iusta causa and declares the enemy to be a criminal.",
+          "speaker": "Carl Schmitt"
+        },
+        {
+          "type": "example",
+          "text": "Even hunting preserves reciprocity: the animal must be killed face-to-face, addressed, never killed asleep, its eyes never injured so it retains its gaze\u2014'the other, after all, is the gaze.'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-036",
+      "text": "Drone warfare is the pinnacle of asymmetry that renders war obsolete: it dispenses with reciprocity, dissolves the opponent into data, and produces death mechanically as work, so that drone pilots work shifts and receive scorecards\u2014dataistically transparent killing diametrically opposed to ritual combat.",
+      "chapter": "From Duelling to Drone Wars",
+      "concepts": [
+        "drone_warfare",
+        "dataism",
+        "production_of_death"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "We kill people based on metadata.",
+          "speaker": "former director of the US National Security Agency"
+        },
+        {
+          "type": "mechanism",
+          "text": "A screen is not an opponent; killing becomes a data-driven operation that is pornographic and obscene, carried out under the merciless guidance of data streams.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-037",
+      "text": "In the ancient world knowledge transfer was play: sacral riddle-solving competitions vivified myth, and early Greek philosophy was agonistic and polemical, its 'problems' (problemata) being questions posed to snare an opponent, reflecting a cosmic strife of primordial oppositions.",
+      "chapter": "From Myth to Dataism",
+      "concepts": [
+        "agonistic_knowledge",
+        "myth",
+        "play"
+      ],
+      "entities": {
+        "people": [
+          "Johan Huizinga",
+          "Zeno of Elea",
+          "Heraclitus",
+          "Empedocles",
+          "Plato",
+          "Socrates",
+          "Callicles"
+        ],
+        "places": [
+          "Ancient Greece"
+        ],
+        "events": [],
+        "works": [
+          "Symposium",
+          "Gorgias"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Huizinga locates philosophy's origin in ritual riddle-games; Zeno attacks with aporias and Heraclitus treats nature as a griphos (enigma), with war as father of all.",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Plato's Symposium is structured as a ritual competition of speeches praising Eros with Dionysus as judge; the Gorgias resembles a duel where only winning or losing is possible.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-038",
+      "text": "Plato inaugurates the transition from myth to truth, and from play to work, distancing philosophy from the sophists' frivolity; the Enlightenment intensifies this mistrust, with Kant subordinating play to work and centring knowledge on an autonomous subject whose a priori forms master its production.",
+      "chapter": "From Myth to Dataism",
+      "concepts": [
+        "myth_to_truth",
+        "subject_autonomy",
+        "play_subordinated"
+      ],
+      "entities": {
+        "people": [
+          "Plato",
+          "Socrates",
+          "Immanuel Kant",
+          "Nicolaus Copernicus"
+        ],
+        "places": [],
+        "events": [
+          "Enlightenment"
+        ],
+        "works": [
+          "Critique of Pure Reason"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Kant prefers the pictorial arts to music because they conduct a 'business' serving the understanding, whereas music 'merely plays with sensations'; play must serve the production of knowledge.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Kant's 'Copernican revolution' makes objects conform to the subject's faculty of intuition, establishing the human subject as master of the production of knowledge.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-039",
+      "text": "The dataistic turn supersedes the Copernican anthropological turn: the human being cedes sovereignty to data, knowledge is produced mechanically by faster, non-thinking processors, and the human is reduced to a calculable data set\u2014representing not a continuation but the end of the Enlightenment.",
+      "chapter": "From Myth to Dataism",
+      "concepts": [
+        "dataism",
+        "transparency",
+        "end_of_enlightenment"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger",
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Transparency, the imperative of dataism, is a compulsion of production that makes data free rather than humans, coinciding total communication with total surveillance as an efficient domination presenting itself as freedom.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Algorithms count but do not recount; thinking is erotic and squiggly, given wings by Eros, whereas calculation is naked, pornographic, and linear. Thinking is play to the core.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-040",
+      "text": "Seduction is a ritual game structured like a duel, based on the exteriority of the other (extimacy) and a fantasy of the other, and independent of gender difference; sex by contrast is a natural function, and intimate love ends play by beginning psychology and confession.",
+      "chapter": "From Seduction to Porn",
+      "concepts": [
+        "seduction",
+        "ritual_play",
+        "exteriority_of_other"
+      ],
+      "entities": {
+        "people": [
+          "S\u00f8ren Kierkegaard",
+          "Michel Foucault"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Seducer's Diary"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "You feint a high quarte, as the fencer says, and then lunge instantaneously",
+          "speaker": "S\u00f8ren Kierkegaard"
+        },
+        {
+          "type": "quote",
+          "text": "to wield power over the other in a sort of open-ended strategic game where the situation may be reversed is not evil; it's a part of love, of passion and sexual pleasure.",
+          "speaker": "Michel Foucault"
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-041",
+      "text": "Porn marks the end of seduction by effacing the other and delivering narcissistic pleasure through immediate consumption of a naked object; it is a phenomenon of transparency and unambiguousness that, like political correctness, destroys the ambiguity and secrecy essential to erotic seduction.",
+      "chapter": "From Seduction to Porn",
+      "concepts": [
+        "pornography",
+        "transparency",
+        "ambiguity"
+      ],
+      "entities": {
+        "people": [
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "The positivity of the unambiguous only allows sequential processes; reading acquires a pornographic form as a progressive unveiling of truth as though it were a sexual organ, which poems resist because they play with fuzzy edges.",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Political correctness requests transparency and lack of ambiguity so as to neutralize seduction's rhetorical and emotional halo.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-042",
+      "text": "The compulsion of production takes hold of sexuality itself, turning the body into a sexual machine and forcing the visible production of the genitals and even ejaculation; seduction and production are incompatible, so ours is 'a culture of premature ejaculation.'",
+      "chapter": "From Seduction to Porn",
+      "concepts": [
+        "production",
+        "sexuality",
+        "pornographic_body"
+      ],
+      "entities": {
+        "people": [
+          "Jean Baudrillard"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Ours is a culture of premature ejaculation.",
+          "speaker": "Jean Baudrillard"
+        },
+        {
+          "type": "mechanism",
+          "text": "Communication, language, the body, and sounds all become pornographic when they cease to play and only function or convey information; the digital audio setting 'In your face' pours sound directly into the face like a facial.",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-043",
+      "text": "We live in a post-sexual age in which the excessive visibility and pornographic overproduction of sex ends sex; what destroys sexuality is not the negativity of prohibition but the positivity of overproduction\u2014the excess of positivity that is making society sick.",
+      "chapter": "From Seduction to Porn",
+      "concepts": [
+        "post_sexual",
+        "excess_of_positivity",
+        "overproduction"
+      ],
+      "entities": {
+        "people": [
+          "Lars von Trier"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Nymphomaniac"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Lars von Trier's Nymphomaniac heralds the post-sexual age, showing sexuality in no seductive way but forcing prolonged looking at unattractive flesh; Han coins 'carography' (from caro, meat) for pornography intensified to the point of meat.",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "The pathology of today's society is a 'too much,' not a 'too little' of positivity.",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-001",
+      "title": "Preliminary Remark",
+      "summary": "Han states the essay uses rituals not as an object of nostalgic return but as a background against which the pathologies of the present\u2014above all the erosion of community and collective narcissism\u2014can be seen more clearly.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-001"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-002",
+      "title": "The Compulsion of Production",
+      "summary": "Rituals are symbolic techniques of making oneself at home in the world that stabilize life through repetition and duration, but the neoliberal compulsion of production erodes durability, replaces symbolic with serial perception, and produces communication without community.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-002",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-003",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-004",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-005",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-006",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-007",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-008"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-003",
+      "title": "The Compulsion of Authenticity",
+      "summary": "Contrary to Charles Taylor's defense, the cult of authenticity is the enemy of community because it shifts identity from society to the self and functions as a neoliberal mode of self-exploitation, dissolving ritual theatrical forms of public life into a pornographic exposure of the private.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-009",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-010",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-011",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-012",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-013"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-004",
+      "title": "Rituals of Closure",
+      "summary": "The neoliberal imperative of endless optimization abolishes all forms of closure\u2014completion, sites, bonds, thresholds, autonomous time\u2014turning life into a purely additive process, whereas rituals of closure stabilize life and give form to its essential transitions.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-014",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-015",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-016",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-017",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-018"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-005",
+      "title": "Festivals and Religion",
+      "summary": "Rest, silence, and festival belong to the sacred sphere and complete creation, but capitalism totalizes production and profane labour, erasing the distinction between sacred and profane and producing a hell of the same because it merely counts rather than narrates.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-019",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-020",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-021",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-022"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-006",
+      "title": "A Game of Life and Death",
+      "summary": "Strong play risks life and is characterized by sovereignty, but a society obsessed with production reduces humans to soldier-slaves who fear death, banishing death from life; suicide and the symbolic exchange with death are the most radical rejections of the society of production.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-023",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-024",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-025"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-007",
+      "title": "The End of History",
+      "summary": "Hegel, Marx, and Koj\u00e8ve all elevate work to the motor of history and side with the worker-slave over the sovereign player, but Koj\u00e8ve's late encounter with a ritualized Japan foreshadows a post-historical ritual society governed by beautiful semblance rather than truth.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-026",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-027",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-028"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-008",
+      "title": "The Empire of Signs",
+      "summary": "Ritual, poetry, and Japanese ceremony are characterized by an overabundance of the signifier that shines without producing meaning, constituting an empire of signs governed by a passion for rules rather than moralizing inwardness\u2014the opposite of today's empire of self-producing souls.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-029",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-030",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-031",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-032"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-009",
+      "title": "From Duelling to Drone Wars",
+      "summary": "Ritual combat\u2014archaic war, duelling, hunting\u2014imposes strict rules, symmetry, and reciprocity that recognize the enemy as an equal player, but modern and especially drone warfare replaces this playful reciprocity with asymmetric, mechanical, dataistic production of death.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-033",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-034",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-035",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-036"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-010",
+      "title": "From Myth to Dataism",
+      "summary": "Knowledge transfer originally took the playful, agonistic form of ritual riddle-solving, but Plato inaugurated the transition from myth to truth (play to work), and today the dataistic turn ends the Enlightenment's autonomous knowing subject by producing knowledge mechanically through calculation rather than narrative thinking.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-037",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-038",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-039"
+      ]
+    },
+    {
+      "id": "the-disappearance-of-rituals-a-topology-of-the-pre-ch-011",
+      "title": "From Seduction to Porn",
+      "summary": "Seduction is a ritual game based on the negativity of the secret, illusion, and the exteriority of the other, but the compulsion of production and transparency replaces it with pornographic overproduction that effaces the other and, through excess positivity, kills sexuality itself.",
+      "claim_ids": [
+        "the-disappearance-of-rituals-a-topology-of-the-pre-040",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-041",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-042",
+        "the-disappearance-of-rituals-a-topology-of-the-pre-043"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 43,
+    "chapter_count": 11,
+    "indexed_at": "2026-07-11T21:42:00.831604Z"
+  }
+}

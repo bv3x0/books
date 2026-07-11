@@ -1,0 +1,1793 @@
+{
+  "version": "2.2",
+  "book": {
+    "title": "In the Swarm: Digital Prospects",
+    "author": "Han, Byung-Chul; Butler, Erik",
+    "year": 2017,
+    "categories": [
+      "philosophy",
+      "social science",
+      "technology & engineering"
+    ],
+    "collections": [
+      "Byung-Chul Han"
+    ],
+    "thesis": "Digital media abolish distance, respect, negativity, and the possibility of genuine action, dissolving the classical crowd into an isolated, narcissistic digital swarm and transforming society into a transparent, self-exploiting regime of psychopolitical control."
+  },
+  "claims": [
+    {
+      "id": "in-the-swarm-digital-prospects-001",
+      "text": "Respect presupposes a distanced look\u2014the 'pathos of distance'\u2014and digital communication, by abolishing spatial and mental distance, replaces respectful looking-away (respectare) with the voyeuristic staring of spectacle (spectare), destroying both the private and public/civil sphere.",
+      "chapter": "No Respect",
+      "concepts": [
+        "distance",
+        "public_sphere",
+        "privacy"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Camera Lucida"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "source_detail",
+          "text": "Latin respectare ('to look back') versus spectare (voyeuristic gazing without deference)",
+          "speaker": null
+        },
+        {
+          "type": "quote",
+          "text": "that zone of space, of time, where I am not an image, an object",
+          "speaker": "Roland Barthes"
+        },
+        {
+          "type": "example",
+          "text": "Google Glass turns the human eye itself into a camera, so that no zone remains where 'I am not an image'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-002",
+      "text": "Respect is tied to names, so the anonymous, source-detached communication of digital media dismantles respect, trust (defined as 'faith in the name'), and responsibility on a massive scale.",
+      "chapter": "No Respect",
+      "concepts": [
+        "anonymity",
+        "trust",
+        "affect"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Angry letters to the editor are 'named' analog events and their slow composition dissipates immediate agitation, whereas digital communication enables affective discharge right away, making it a 'medium of affect'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-003",
+      "text": "Shitstorms are a 'communicative reflux' that swells where hierarchies flatten and power weakens; because power (like charisma) increases the probability of a quiet 'yes' and produces silence as room for action, the best shield against shitstorms is auratic charisma.",
+      "chapter": "No Respect",
+      "concepts": [
+        "political_legitimacy",
+        "power",
+        "communication"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Power reduces communicative entropy: 'yes' is quiet, 'no' is loud, and an authoritative pronouncement eliminates noise in one stroke; noise is the acoustic cue that power is faltering",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-004",
+      "text": "Sovereignty must be redefined for the digital age: Carl Schmitt's dictum that 'sovereign is he who decides on the exception' becomes, translated into acoustic and digital terms, the capacity to produce absolute quiet and command the uncontrollable waves of the Net.",
+      "chapter": "No Respect",
+      "concepts": [
+        "sovereignty",
+        "state_of_exception"
+      ],
+      "entities": {
+        "people": [
+          "Carl Schmitt"
+        ],
+        "places": [],
+        "events": [
+          "First World War",
+          "Second World War"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "After the Second World War, in view of my own death, I now say: 'Sovereign is he who commands the waves of space.'",
+          "speaker": "Carl Schmitt"
+        },
+        {
+          "type": "example",
+          "text": "In old age Schmitt, who feared waves his whole life, had radio and television removed from his house",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-005",
+      "text": "Outrage society is scandal society that lacks 'bearing'\u2014the measured stance and distance that constitute the civil sphere\u2014because waves of outrage are fractious, hysterical, and ephemeral, and the outraged do not form a stable 'we' concerned with society but act only for themselves.",
+      "chapter": "Outrage Society",
+      "concepts": [
+        "public_sphere",
+        "collective_identity"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Waves of outrage 'well up abruptly\u2014and they dissipate just as soon,' like smart mobs, lacking the stability and continuity needed for civil exchange",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-006",
+      "text": "The epic 'rage' (menin) that opens The Iliad is the heroic medium of action\u2014it structures and animates narrative and produces the future\u2014whereas digital outrage cannot be sung, admits neither action nor narration, and is a scattered affective condition devoid of the mass or gravitation necessary to generate a future.",
+      "chapter": "Outrage Society",
+      "concepts": [
+        "narrative_construction",
+        "affect",
+        "collective_action"
+      ],
+      "entities": {
+        "people": [
+          "Homer",
+          "Achilles"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Iliad"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Rage\u2014Goddess, sing the rage of Peleus' son Achilles.",
+          "speaker": "Homer"
+        },
+        {
+          "type": "mechanism",
+          "text": "Rage in the strong sense is the capacity to interrupt existing conditions and bring about new ones, while today's distraction and dissipation prevent this epic energy from arising",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-007",
+      "text": "Le Bon defined modernity as the 'ERA OF CROWDS' in which the 'divine right of the masses' replaces the divine right of kings and threatens the destruction of civilization; today a comparable crisis of transition is occasioned by the digital revolution, but the new mass takes the radically different form of the digital swarm.",
+      "chapter": "In the Swarm",
+      "concepts": [
+        "crowd_psychology",
+        "political_legitimacy",
+        "modernity"
+      ],
+      "entities": {
+        "people": [
+          "Gustave Le Bon"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Crowd: A Study of the Popular Mind"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The age we are about to enter will in truth be the ERA OF CROWDS.",
+          "speaker": "Gustave Le Bon"
+        },
+        {
+          "type": "source_detail",
+          "text": "Le Bon: crowds founded syndicates 'before which the authorities capitulate one after the other' and unions regulating labor and wages",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-008",
+      "text": "The digital swarm is not a mass because it has no soul or spirit to fuse isolated individuals into an active 'we'; it is a 'gathering without assembly\u2014a crowd without interiority,' whose members retain a private profile they endlessly optimize and act as scattered hikikomori before screens.",
+      "chapter": "In the Swarm",
+      "concepts": [
+        "digital_swarm",
+        "narcissism",
+        "collective_identity"
+      ],
+      "entities": {
+        "people": [
+          "Marshall McLuhan"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "McLuhan's 'mass man' is a psychically erased 'nobody,' whereas Homo digitalis is an 'anonymous somebody' who exhibits himself and vies for attention",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Electronic media such as radio assemble human beings; digital media isolate them",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-009",
+      "text": "Digital swarms are volatile, carnivalesque, and nonbinding, and unlike the resolute, ideologically unified crowd of organized labor that 'marches in one direction' and takes on relations of domination, they lack the resolve for collective action, so their shitstorms strike individual persons rather than questioning dominant power relations.",
+      "chapter": "In the Swarm",
+      "concepts": [
+        "collective_action",
+        "power",
+        "digital_swarm"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Organized labor consists of enduring 'formations' with a single spirit; digital groupings are 'fleeting patterns' like animal swarms",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Only when a crowd is resolute about shared action does power arise: 'The mass is power'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-010",
+      "text": "Hardt and Negri's revolutionary 'multitude' opposing 'empire' rests on antiquated categories of class struggle and fails to recognize the logic of self-exploitation, in which the achievement subject is perpetrator and victim in one, no one rules the empire, and exploitation now occurs without any domination.",
+      "chapter": "In the Swarm",
+      "concepts": [
+        "self_exploitation",
+        "neoliberalism",
+        "colonial_economics"
+      ],
+      "entities": {
+        "people": [
+          "Michael Hardt",
+          "Antonio Negri",
+          "Saint Francis of Assisi",
+          "Karl Marx"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Empire",
+          "Multitude"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The multitude is the real productive force of our social world, whereas Empire is a mere apparatus of capture \u2026 a vampire regime of accumulated dead labor",
+          "speaker": "Hardt and Negri"
+        },
+        {
+          "type": "mechanism",
+          "text": "'Socius has yielded to solus': egoization and atomization shrink the space for collective action and block any counterpower to the capitalist order",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Self-exploitation is far more efficient than allo-exploitation because a feeling of freedom accompanies it",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-011",
+      "text": "Digital media demediate communication\u2014everyone becomes producer and transmitter\u2014so 'windows with doors' open only onto other windows rather than a public space, rendering journalists, the erstwhile 'priests of opinion,' anachronistic and ending the era of representation in favor of direct presence or copresentation.",
+      "chapter": "Demediatization",
+      "concepts": [
+        "mediation",
+        "representation",
+        "epistemic_authority"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Germany"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Radio's amphitheatrical structure has a center of emission and permits only unilateral communication, whereas the Internet's topology has no such center of power",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Germany's Pirate Party owed its initial success to the demediatizing demand for more participation and transparency",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-012",
+      "text": "Demediatization threatens representative democracy and produces cultural massification: representatives become barriers rather than transmitters, and the collapse of the difference between 'I am my readership' and 'I am my votership' heralds the end of the politician who walks ahead of constituents with a vision, causing the future\u2014the time of the political\u2014to disappear.",
+      "chapter": "Demediatization",
+      "concepts": [
+        "representation",
+        "political_legitimacy",
+        "cultural_change"
+      ],
+      "entities": {
+        "people": [
+          "Bella Andre"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "I can write the exact book my readers want. I am my readership.",
+          "speaker": "Bella Andre"
+        },
+        {
+          "type": "mechanism",
+          "text": "Representation as a filter enables the exclusive and cultivates language and culture; demediatization flattens and vulgarizes them",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-013",
+      "text": "Strategic politics requires confidentiality, closed spaces, and the ability to let things 'ripen,' so total transparency imposes a short-term present-tense temporality, produces a panoptic compulsion to conform (a 'Gleichschaltung of communication'), and constitutes a normative paradigm shift that redefines Being.",
+      "chapter": "Demediatization",
+      "concepts": [
+        "transparency",
+        "conformity",
+        "temporality"
+      ],
+      "entities": {
+        "people": [
+          "Ole von Beust"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Constant media observation has made it impossible for us to discuss provocative or unpopular topics and positions openly in a confidential setting.",
+          "speaker": "Ole von Beust"
+        },
+        {
+          "type": "caveat",
+          "text": "The demand for transparency reaches beyond participation or freedom of information to a normative claim declaring what is and has to be",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-014",
+      "text": "Genuine writing, like thinking and action, is a lonesome, exclusive expedition into the unknown that brings forth the singular, whereas collective transparent writing is merely additive noise; the medium of thinking is quiet, and digital communication's noise produces a literary and spiritual crisis.",
+      "chapter": "Demediatization",
+      "concepts": [
+        "singularity",
+        "noise",
+        "intellectual_labor"
+      ],
+      "entities": {
+        "people": [
+          "Dirk von Gehlen",
+          "Peter Handke",
+          "Martin Heidegger",
+          "Michel Butor"
+        ],
+        "places": [
+          "Europe"
+        ],
+        "events": [],
+        "works": [
+          "Eine neue Version ist verf\u00fcgbar"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "There's a tide of publications but an intellectual standstill. The reason is a crisis of communication. The new means of communication are remarkable, but they cause tremendous noise.",
+          "speaker": "Michel Butor"
+        },
+        {
+          "type": "source_detail",
+          "text": "Heidegger: the 'beat of the wing' of Eros touches him whenever he ventures onto untrodden paths",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-015",
+      "text": "The horse Clever Hans, thought to do arithmetic, was actually reading subtle nuances in the facial expressions and body language of onlookers, demonstrating that the verbal component of communication is slight and that nonverbal, tactile, multilayered perception constitutes human communication\u2014precisely what digital media strip away.",
+      "chapter": "Clever Hans",
+      "concepts": [
+        "nonverbal_communication",
+        "embodiment"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Germany"
+        ],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "A scientific committee found Hans stopped stamping when he felt onlookers' involuntary tension before the decisive hoofbeat",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "'Tactility' here means not physical contact but the multidimensionality of human perception across the visual field and other senses",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-016",
+      "text": "Digital communication restructures the Lacanian triad by dismantling the real and totalizing the imaginary: the smartphone renews the mirror stage as a narcissistic space, erases negativity, degrades complex and long-range thinking, and prolongs only the 'same' through seamless liking.",
+      "chapter": "Clever Hans",
+      "concepts": [
+        "narcissism",
+        "negativity",
+        "imaginary"
+      ],
+      "entities": {
+        "people": [
+          "Jacques Lacan"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Experience as irruption of the other interrupts imaginary self-mirroring, but digital positivity minimizes such experience",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-017",
+      "text": "The self-possessed 'counterpart' that looks back at and implicates the beholder is vanishing, because for Sartre and Lacan the gaze\u2014the other within the image, the resistant punctum\u2014undermines the eye's feast, while touchscreen tapping, swiping, and pinching eliminate the distance that constitutes the other's otherness.",
+      "chapter": "Clever Hans",
+      "concepts": [
+        "the_gaze",
+        "otherness",
+        "distance"
+      ],
+      "entities": {
+        "people": [
+          "Jean-Paul Sartre",
+          "Jacques Lacan"
+        ],
+        "places": [],
+        "events": [
+          "tenth anniversary of Skype"
+        ],
+        "works": [
+          "Being and Nothingness",
+          "The Four Fundamental Concepts of Psychoanalysis"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "the look will be given just as well on occasion when there is a rustling of branches, or the sound of a footstep followed by silence",
+          "speaker": "Jean-Paul Sartre"
+        },
+        {
+          "type": "contrast",
+          "text": "Skype creates asymmetrical gazes: looking into the eyes on screen makes the other think you are looking down, so 'we are constantly staring past one another'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-018",
+      "text": "Desire requires the opaque, shadowed countenance and the negativity of the break where light gleams, so the flat, uniform, transparent touchscreen and the exhibited Facebook 'face'\u2014which lacks a gaze and reserve\u2014mean the end of desire, replacing the 'chains of love' with the 'hell of freedom.'",
+      "chapter": "Clever Hans",
+      "concepts": [
+        "desire",
+        "transparency",
+        "negativity"
+      ],
+      "entities": {
+        "people": [
+          "Leonardo da Vinci",
+          "Roland Barthes"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Camera Lucida"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Do not unveil me, if freedom is dear to you, for my visage is love's prison.",
+          "speaker": "Leonardo da Vinci"
+        },
+        {
+          "type": "contrast",
+          "text": "A face that exhibits itself and vies for attention is not a countenance; the intentionality of exhibition destroys the interiority and reserve that characterize the gaze",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-019",
+      "text": "Images have become not just likenesses but models (Vorbilder) that seem more alive and beautiful than a reality now experienced as defective, effecting an 'iconic reversal'; consumable, domesticated images destroy the iconic value, madness, and truth of the image.",
+      "chapter": "Flight into the Image",
+      "concepts": [
+        "iconoclasm",
+        "the_imaginary",
+        "optimization"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Camera Lucida"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Look how gloomy they are! nowadays the images are livelier than the people.",
+          "speaker": "Roland Barthes"
+        },
+        {
+          "type": "source_detail",
+          "text": "Illusion as Ein-Bild-ung: evolution itself may be constitutively based on the imaginary",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-020",
+      "text": "Images screen the viewer from the shock of the real, as shown by 'Paris syndrome' and by Hitchcock's Rear Window, where the uncanny 'gaze from the real' destroys the photographer's visual feast; digital 'windows' screen us from the real more effectively than film because they rest on a generalized imaginary and admit no irruption of the other.",
+      "chapter": "Flight into the Image",
+      "concepts": [
+        "the_real",
+        "the_imaginary",
+        "spectatorship"
+      ],
+      "entities": {
+        "people": [
+          "Alfred Hitchcock",
+          "James Stewart"
+        ],
+        "places": [
+          "Paris"
+        ],
+        "events": [],
+        "works": [
+          "Rear Window"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Paris syndrome afflicts mainly Japanese tourists with hallucinations and depersonalization from the gap between idealized image and dirty reality, prompting compulsive photo-taking as defense",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "In Rear Window the wheelchair-bound photographer Jeff (James Stewart) tries to blind the killer with a flash\u2014to banish him into the image\u2014but fails, and the 'rear window' becomes a 'real window'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-021",
+      "text": "The analog photograph 'suffers from time' as passion\u2014it is mortal, fading and vanishing like a living organism\u2014whereas the digital image knows no age, destiny, or death and is 'defactifying' the world, its hallmark being permanent presence, an enduring now in which growing, aging, birth, and death are erased.",
+      "chapter": "Flight into the Image",
+      "concepts": [
+        "temporality",
+        "negativity",
+        "mortality"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Camera Lucida"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Attacked by light, by humidity, it fades, weakens, vanishes.",
+          "speaker": "Roland Barthes"
+        },
+        {
+          "type": "mechanism",
+          "text": "The negativity of wilting is inscribed in budding, just as the negativity of shadow lies within glancing light; the digital neither blossoms nor gleams",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-022",
+      "text": "Arendt grounds action in natality as the capacity to make a radical new beginning (initium), a 'miracle' bestowing faith and hope, but the digital age of the undead\u2014postnatal and postmortal, postpolitical and postmetaphysical\u2014reduces us to 'bare life' in which automatic processes annihilate freedom of action.",
+      "chapter": "From the Hand to the Finger",
+      "concepts": [
+        "action",
+        "natality",
+        "bare_life"
+      ],
+      "entities": {
+        "people": [
+          "Hannah Arendt"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Human Condition"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "A child has been born unto us.",
+          "speaker": "Hannah Arendt (citing the Gospels)"
+        },
+        {
+          "type": "mechanism",
+          "text": "Natality grounds political thought and mortality sparks metaphysical thinking; a life without birth or death is neither political nor metaphysical",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-023",
+      "text": "Flusser's prophecy of 'manual atrophy'\u2014the fingering Homo ludens liberated from matter into leisure and play\u2014is false, because he ignores the performance principle that turns play back into labor, so manual atrophy is followed by 'digital arthritis' and the utopia of leisure yields a dystopia of achievement and self-exploitation.",
+      "chapter": "From the Hand to the Finger",
+      "concepts": [
+        "self_exploitation",
+        "performance",
+        "positivity"
+      ],
+      "entities": {
+        "people": [
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Medienkultur"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Action requires resistance and is animated by negation (its pro is also a contra), but the society of positivity avoids all resistance and does away with action, leaving only varying 'conditions of the same'",
+          "speaker": null
+        },
+        {
+          "type": "contrast",
+          "text": "Players now dope and exploit themselves until they are destroyed; work approaches play only as self-destructive game",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-024",
+      "text": "Because digital devices are mobile, they transform every space into a workplace and all time into working hours, converting the freedom of movement into a fatal compulsion to work everywhere and turning the workplace into a portable labor camp; even leisure, deceleration, and sleep become products or phases of belabored temporality.",
+      "chapter": "From the Hand to the Finger",
+      "concepts": [
+        "neoliberalism",
+        "temporality",
+        "labor"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "In the machine age immobile machines kept working time separable from non-work; digital devices have mobilized work itself",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The smartphone radiates a compulsion to communicate, and more communication means more capital, accelerating the circulation of capital",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-025",
+      "text": "The word 'digital' points to the counting finger (digitus), so digital culture totalizes counting, addition, and the countable\u2014friends and affection are counted as likes\u2014whereas history means 'recounting' as narrative account, and whatever resists being counted ceases to be.",
+      "chapter": "From the Hand to the Finger",
+      "concepts": [
+        "quantification",
+        "narrative_construction"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "A timeline is additive, not narrative: it recounts no story of a life and provides no biography, unlike real friendship, which is an account",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-026",
+      "text": "For Heidegger the 'properly acting hand' is the writing, thinking hand, the medium of Being, so the typewriter and, worse, digital apparatuses cause 'manual atrophy' and the oblivion of Being, making thought itself deteriorate, since 'all the work of the hand is rooted in thinking.'",
+      "chapter": "From Farming to Hunting",
+      "concepts": [
+        "ontology",
+        "embodiment",
+        "intellectual_labor"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger"
+        ],
+        "places": [
+          "Black Forest"
+        ],
+        "events": [],
+        "works": [
+          "Parmenides",
+          "What Is Called Thinking?",
+          "The Origin of the Work of Art"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "The typewriter veils the essence of writing and of the script. It withdraws from man the essential rank of the hand.",
+          "speaker": "Martin Heidegger"
+        },
+        {
+          "type": "source_detail",
+          "text": "Heidegger conceives logos as the 'reading hand of a farmer' (lesende Hand eines Bauern) gleaning what has ripened",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-027",
+      "text": "Heidegger's terrestrial order of earth, God, and truth is defined by concealment, self-seclusion, and negativity\u2014truth must be torn from concealment and has a 'heart'\u2014whereas the digital order totalizes transparency, and information, as pure positivity and exteriority, lacks any inner space in which to withdraw or conceal itself.",
+      "chapter": "From Farming to Hunting",
+      "concepts": [
+        "transparency",
+        "negativity",
+        "truth"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger",
+          "Vincent Van Gogh"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Off the Beaten Track"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Information is cumulative and additive like snow drifts, whereas truth is exclusive and selective; there is no 'mass of truth'",
+          "speaker": null
+        },
+        {
+          "type": "source_detail",
+          "text": "Heidegger's earth is 'essentially undisclosable' and 'essentially self-secluding,' alien to information",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-028",
+      "text": "The real historical line runs not between settlers and nomads but between farmers and hunters: today we no longer cultivate soil but hunt, scouring the Net like a digital game preserve as impatient, mobile information hunters who 'go for it' instead of letting things ripen and whose temporality is total presence.",
+      "chapter": "From Farming to Hunting",
+      "concepts": [
+        "transparency",
+        "power",
+        "temporality"
+      ],
+      "entities": {
+        "people": [
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Farmer bearings of patience, renunciation, reserve, and Gelassenheit do not belong to the hunter, who lurks instead of waiting and captures prey with every click\u2014yet by mouse, without danger",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Mass media like radio create asymmetrical, power-laden communication, whereas symmetrical digital communication makes power relations hard to establish; power veils itself in interiority and secrecy while the digital is deinteriorizing",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-029",
+      "text": "Google Glass replaces the Paleolithic hunter's spear by connecting the eye directly to the Internet, totalizing the hunter's efficient way of seeing so that seeing and grasping the world coincide and Being falls into one with information\u2014if something is not information, it is not\u2014while real joy of the senses is precisely inefficient, lingering among things without preying on them.",
+      "chapter": "From Farming to Hunting",
+      "concepts": [
+        "efficiency",
+        "perception",
+        "information"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Google Glass is not Heideggerian 'equipment' ready-to-hand, since one does not take it in hand; it becomes part of the body",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-030",
+      "text": "Digital media complete the shift from the thrown Heideggerian subject ('one cast under' the nomos of the earth) to the self-casting, self-optimizing 'project,' since the digital is a 'medium of projection' and the forms life assumes depend on prevailing media.",
+      "chapter": "From Subject to Project",
+      "concepts": [
+        "subjectivity",
+        "self_optimization",
+        "mediation"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger",
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Medienkultur"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "We are no longer subjects in a given, objective world but projects of alternative worlds. \u2026 We know we are dreaming.",
+          "speaker": "Vil\u00e9m Flusser"
+        },
+        {
+          "type": "source_detail",
+          "text": "Flusser founds his 'new anthropology' on Judeo-Christianity, which 'sees only dust in human being,' dissolving subject and object into a 'node of intersecting virtualities'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-031",
+      "text": "Flusser's 'messianism of networking'\u2014telematics as a technology of neighbor-love, empathy, and Pentecostal communion abolishing the isolated self\u2014has proven false: digital communication has made the 'we' deteriorate, destroyed the public sphere, heightened isolation, and revealed itself as a narcissistic ego machine rather than a dialogical medium.",
+      "chapter": "From Subject to Project",
+      "concepts": [
+        "narcissism",
+        "networking",
+        "public_sphere"
+      ],
+      "entities": {
+        "people": [
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [
+          "S\u00e3o Paulo"
+        ],
+        "events": [],
+        "works": [
+          "Kommunikologie"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "I believe telematics is a technology of loving one's neighbor, a technology for carrying out Judeo-Christianity. The basis of telematics is empathy.",
+          "speaker": "Vil\u00e9m Flusser"
+        },
+        {
+          "type": "contrast",
+          "text": "The prevailing network topology is not selfless points and intersections but 'narcissistic islands of egos'",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-032",
+      "text": "The subject's liberation into a self-project is a new figure of constraint in which freedom itself entails pressure through performance, self-optimization, and autoexploitation; Flusser misses this fatal dialectic whereby more freedom means more coercion, so the achievement subject exploits itself to collapse and the self becomes a projectile turned against itself, often ending in suicide.",
+      "chapter": "From Subject to Project",
+      "concepts": [
+        "self_exploitation",
+        "freedom_as_constraint",
+        "achievement_society"
+      ],
+      "entities": {
+        "people": [
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Freedom, the very antitype of compulsion, now brings forth compulsion, marking the end of freedom in a dead-end street where we move neither forward nor backward",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-033",
+      "text": "The digital turn dispels the nomos of the earth\u2014the terrestrial order of solidity, walls, borders, and stable 'character'\u2014in favor of the 'sea,' where firm lines cannot be engraved, since flexible Homo digitalis lacks character (charassein: to engrave, imprint) and the digital totalizes purely additive calculation.",
+      "chapter": "The Nomos of the Earth",
+      "concepts": [
+        "terrestrial_order",
+        "character",
+        "calculation"
+      ],
+      "entities": {
+        "people": [
+          "Carl Schmitt",
+          "Martin Heidegger"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Nomos of the Earth",
+          "The Orphic Hymns"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "Heavenly Nomos, who arranges / The stars and sets a fair limit / Between the earth and the waters of the sea",
+          "speaker": "Orphic Hymn"
+        },
+        {
+          "type": "source_detail",
+          "text": "Carl Schmitt praised the earth's solidity for enabling clear demarcations, against the sea where firm lines cannot be engraved",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-034",
+      "text": "Terrestrial categories of action, thinking, and truth are being replaced by digital ones: action yields to decisionless 'operations' (atomized 'actomes' lacking existential breadth), thinking gives way to surprise-proof calculation, and truth\u2014which lives from the negativity of exclusion and the decision positing true against false as an account\u2014is replaced by non-narrative transparency, a 'lightless radiation.'",
+      "chapter": "The Nomos of the Earth",
+      "concepts": [
+        "action",
+        "truth",
+        "transparency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Light is a directed, narrative medium that shows ways, whereas transparency makes things see-through without illuminating",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-035",
+      "text": "Digitality abolishes negativity across every domain\u2014love (tied to the tension of hate), the friend/enemy distinction, and the 'pain of the nearness of the remote'\u2014reducing them to positive accumulation like the like button, because Spirit awakens and lives only through the negativity of the other and its infinite pain, so the phenomenology of the digital is a 'Phenomenology of Like.'",
+      "chapter": "The Nomos of the Earth",
+      "concepts": [
+        "negativity",
+        "spirit",
+        "dialectics"
+      ],
+      "entities": {
+        "people": [
+          "G. W. F. Hegel",
+          "Carl Schmitt",
+          "Martin Heidegger"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Phenomenology of Spirit",
+          "Philosophy of Mind"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "endure infinite pain, the negation of its individual immediacy",
+          "speaker": "G. W. F. Hegel"
+        },
+        {
+          "type": "mechanism",
+          "text": "Digitality replaces closeness/remoteness with mere crowding, a positive quantity lacking the negativity that defines nearness; without pain and the other, no experience or insight can occur",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-036",
+      "text": "Kafka held that letters are an inhuman medium feeding ghosts that suck communication dry, and railways and telephones only invented more ghost-food; digital media\u2014the Internet, smartphones, Twitter, Google Glass\u2014are a new, more gluttonous, shameless, and noisier generation of ghosts that reach 'beyond human power.'",
+      "chapter": "Digital Ghosts",
+      "concepts": [
+        "mediation",
+        "spectrality",
+        "internet_of_things"
+      ],
+      "entities": {
+        "people": [
+          "Franz Kafka",
+          "E. M. Forster"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Letters to Milena",
+          "The Machine Stops"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "They will not starve, but we will perish.",
+          "speaker": "Franz Kafka"
+        },
+        {
+          "type": "example",
+          "text": "The Internet of Things brings new ghosts as formerly mute physical objects begin to talk and communicate without human involvement; E. M. Forster's 'The Machine Stops' anticipates the resulting catastrophe",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-037",
+      "text": "The history of communication is the progressive illumination of stone (silicon from silex, 'pebble'): stone, Heidegger's 'mere thing' that withdraws from visibility and presses down denying penetration, belongs to the concealed terrestrial order, but today things give way to information\u2014the pure positivity that feeds ghosts and makes the environment softer, foggier, and more spectral.",
+      "chapter": "Digital Ghosts",
+      "concepts": [
+        "spectrality",
+        "information",
+        "contagion"
+      ],
+      "entities": {
+        "people": [
+          "Martin Heidegger",
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Origin of the Work of Art"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "a mere thing, a stone, has no light within itself",
+          "speaker": "Martin Heidegger"
+        },
+        {
+          "type": "mechanism",
+          "text": "Digital communication becomes viral and contagious on an emotive, posthermeneutic register, spreading without reading or the weight of meaning\u2014infection no other, sluggish medium like writing can effect",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-038",
+      "text": "The secret belongs to the terrestrial order and loves silence and hidden nooks, differentiating the mysterious from the noisy, spectacle-dependent ghostly; transparency society therefore has a dark flipside of spectral spaces that defy transparency\u2014dark pools, high-speed trading between algorithms, unpredictable flash crashes, and the anonymous 'digital deep sea' of Tor.",
+      "chapter": "Digital Ghosts",
+      "concepts": [
+        "secrecy",
+        "transparency",
+        "spectrality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "example",
+          "text": "Dark pools are anonymous financial transactions and high-speed trading is commerce between ghosts\u2014algorithms fighting each other beyond human power and without supervision",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The more transparency increases, the more the darkness grows",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-039",
+      "text": "Benjamin's cinematic 'shock' as an immunoreaction no longer characterizes perception, because a low immune threshold accelerates the flow of information: immunosuppression lets massive quantities of information penetrate without defense, promoting circulation of information and capital while dulling the senses.",
+      "chapter": "Information Fatigue",
+      "concepts": [
+        "immunology",
+        "consumption",
+        "information"
+      ],
+      "entities": {
+        "people": [
+          "Walter Benjamin"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "A strong immune system stifles communication and slows information; liking promotes it, so consumption is totalized and immunological recoil eliminated",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "Repulsive images like Fear Factor are made consumable rather than triggering shock",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-040",
+      "text": "Information fatigue syndrome (IFS), coined by David Lewis in 1996 and now affecting everyone, deteriorates analytic skills, because analysis and thinking require the negativity of disregarding the inessential\u2014discernment, discrimination, and exclusive selection\u2014which the swelling tide of information interferes with, so more information yields worse judgment and no truth.",
+      "chapter": "Information Fatigue",
+      "concepts": [
+        "negativity",
+        "judgment",
+        "information_overload"
+      ],
+      "entities": {
+        "people": [
+          "David Lewis"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "The term IFS was coined by British psychologist David Lewis in 1996, initially for people processing vast job information",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "The negativity of omission and forgetting is productive; past a point information becomes deformative and communication merely cumulative, not communicative",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-041",
+      "text": "IFS includes symptoms of narcissistic depression and an inability to bear responsibility: overwrought self-reference (aggravated by Twitter and Facebook) makes the subject hear only echoes of itself and drown in itself, while responsibility\u2014which binds and stabilizes the future through promise and trust\u2014is undermined by media that promote nonbindingness, arbitrariness, and the absolute precedence of a disposable present.",
+      "chapter": "Information Fatigue",
+      "concepts": [
+        "narcissism",
+        "responsibility",
+        "temporality"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "The totalization of the present degrades the future into an optimized present and destroys time-giving acts like taking responsibility and making promises",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-042",
+      "text": "Barthes made photography the 'emanation of the referent,' whose truth lies in its inseparable, faithful bond to a real object\u2014like a condemned man glued to a corpse\u2014so that a pipe is 'always and intractably a pipe,' anchored for him in the invisible photograph of his mother as guardian of truth.",
+      "chapter": "The Crisis of Representation",
+      "concepts": [
+        "representation",
+        "referentiality",
+        "truth"
+      ],
+      "entities": {
+        "people": [
+          "Roland Barthes",
+          "Ren\u00e9 Magritte",
+          "Gustave Le Bon"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Camera Lucida",
+          "Ceci n'est pas une pipe",
+          "The Crowd"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "It is as if the Photograph always carries its referent with itself.",
+          "speaker": "Roland Barthes"
+        },
+        {
+          "type": "source_detail",
+          "text": "Barthes had Magritte's Ceci n'est pas une pipe in mind while claiming photography's tautological truth",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-043",
+      "text": "Digital hyperphotography detaches representation from real reference, ending the time of representation and marking the end of the real: it presents self-referential hyperreality by collecting quotes from the real and mixing them with the imaginary, so that like Magritte's painting, it represents nothing but presents.",
+      "chapter": "The Crisis of Representation",
+      "concepts": [
+        "hyperreality",
+        "representation",
+        "the_imaginary"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Digital photography approaches painting again\u2014Ceci n'est pas une pipe\u2014no longer pointing to a real referent",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-044",
+      "text": "The crisis of photographic representation has a political corollary: whereas Le Bon's parliamentary representatives were strong flunkies genuinely advocating the working masses' interests, the political-economic system has become self-referential, so representatives count as 'agents of the system' rather than of the people, while the masses fall apart into isolated hikikomori who constitute no public sphere.",
+      "chapter": "The Crisis of Representation",
+      "concepts": [
+        "representation",
+        "public_sphere",
+        "political_legitimacy"
+      ],
+      "entities": {
+        "people": [
+          "Gustave Le Bon"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The Crowd"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "caveat",
+          "text": "The crisis could be surmounted only by tying the system back to real referents\u2014human beings",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Han asks whether a 'SmartPolicy' where the like button replaces the ballot, and democracy without discourse, is conceivable once ideologies crumble into individual opinions",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-045",
+      "text": "Flusser envisioned the interactive QUBE (Question Your Tube) television system as enabling a 'deideologized' direct village democracy where existential decisions break into instantaneous 'atomic decisions' (actomes), politicians are replaced by administrating experts, and leisure coincides with political engagement.",
+      "chapter": "From Citizen to Consumer",
+      "concepts": [
+        "direct_democracy",
+        "technological_utopianism"
+      ],
+      "entities": {
+        "people": [
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "Medienkultur"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "For QUBE subscribers, leisure is already the site of effective decisions.",
+          "speaker": "Vil\u00e9m Flusser"
+        },
+        {
+          "type": "source_detail",
+          "text": "QUBE let viewers choose onscreen clothing or vote for a school principal with a keystroke",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-046",
+      "text": "A genuine political decision is always an existential decision beset by a 'temporal and existential abyss,' doubt, and wavering, so Flusser's 'instantaneously effective' atomic decisions sink to the level of nonbinding consumer purchases, suspending the very difference between voting and buying on the QUBE screen.",
+      "chapter": "From Citizen to Consumer",
+      "concepts": [
+        "decision",
+        "existential_choice",
+        "consumerism"
+      ],
+      "entities": {
+        "people": [
+          "Vil\u00e9m Flusser"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "On QUBE 'leisure' amounts to shopping and the subject is not Homo ludens but Homo economicus",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-047",
+      "text": "In the digital agora where polling place and market, polis and economy collapse into one, voters behave like consumers who buy per personal inclination ('Like' is their motto) and lack the communal responsibility that defines citizens, so government resembles marketing\u2014polls as market research, data mining sounding voters' moods\u2014and we become passive users rather than active citizens.",
+      "chapter": "From Citizen to Consumer",
+      "concepts": [
+        "consumerism",
+        "citizenship",
+        "political_legitimacy"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Negative climates of opinion are eliminated by more attractive offers, and campaign ads fuse with commercials",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-048",
+      "text": "Readily and rapidly obtainable information discredits trust as an 'act of faith' that made relationships possible amid nonknowledge, so following the logic of efficiency the society switches from trust to control, and Big Brother cedes the throne to Big Data as the total recording of life completes transparency society.",
+      "chapter": "The Recorded Life",
+      "concepts": [
+        "trust",
+        "surveillance",
+        "transparency"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Every click is stored and every step traced; digital life is reflected point for point in the Net, replacing trust with complete control",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-049",
+      "text": "Unlike Bentham's Panopticon, where isolated inmates could not communicate, the digital panopticon achieves total control through networking and hypercommunication, and its inhabitants are not prisoners but voluntary self-illuminators whose autoillumination\u2014more efficient than allo-illumination\u2014merges pornographic exhibition with panoptic control once freedom and control prove indistinguishable.",
+      "chapter": "The Recorded Life",
+      "concepts": [
+        "panopticon",
+        "self_exposure",
+        "control"
+      ],
+      "entities": {
+        "people": [
+          "Jeremy Bentham"
+        ],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "contrast",
+          "text": "Bentham's dividing walls imposed isolation for improvement; the digital panopticon controls through intensive communication instead",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Control society completes when inhabitants communicate out of inner need rather than external constraint, the urge to display replacing the fear of exposure",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-050",
+      "text": "Surveillance is an inherent feature of digital communication, so the state and market merge as firms like Acxiom, Google, and Facebook operate like secret services using the same algorithms and personnel, and Google Glass\u2014turning the human eye into a surveillance camera\u2014perfects Bentham's Panopticon, making everyone Big Brother and prisoner at once.",
+      "chapter": "The Recorded Life",
+      "concepts": [
+        "surveillance",
+        "big_data",
+        "control"
+      ],
+      "entities": {
+        "people": [
+          "Sergey Brin"
+        ],
+        "places": [
+          "United States",
+          "Arkansas"
+        ],
+        "events": [
+          "September 11, 2001 attacks"
+        ],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "number",
+          "text": "Acxiom holds personal data on some three hundred million U.S. citizens\u2014practically all of them\u2014and gave authorities data on eleven suspects after September 11, 2001",
+          "speaker": null
+        },
+        {
+          "type": "example",
+          "text": "SCHUFA's slogan 'Wir schaffen Vertrauen' ('We create trust') is cynicism, since such firms abolish trust and replace it with control",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "RFID chips make objects autonomous transmitters, so the Internet of Things has everyday objects logging our lives down to the last detail",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-051",
+      "text": "Foucault's biopower, replacing the sovereign's power of death since the seventeenth century, incites and optimizes life but seizes only external factors like reproduction, mortality, and health\u2014like Bentham's Panopticon it observes outer behavior while inmates' thoughts remain hidden\u2014and cannot penetrate or mold the psyche of the population.",
+      "chapter": "Psychopolitics",
+      "concepts": [
+        "biopower",
+        "discipline",
+        "population"
+      ],
+      "entities": {
+        "people": [
+          "Michel Foucault",
+          "Jeremy Bentham"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The History of Sexuality"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "incite, reinforce, control, monitor, optimize, and organize the forces under it",
+          "speaker": "Michel Foucault"
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-052",
+      "text": "A paradigm shift replaces biopower with psychopower: the digital panopticon engineers a transparency society along psychopolitical lines, and because it is aperspectival rather than tied to Big Brother's optical perspective, digital surveillance can read and control thoughts and intervene in psychological processes themselves.",
+      "chapter": "Psychopolitics",
+      "concepts": [
+        "psychopower",
+        "transparency",
+        "control"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "works": []
+      },
+      "sub_points": [
+        {
+          "type": "mechanism",
+          "text": "Psychopower is more efficient because it watches, controls, and influences human beings from inside rather than outside",
+          "speaker": null
+        }
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-053",
+      "text": "Chris Anderson's 'The End of Theory' claims Big Data makes theoretical models superfluous because correlation replaces causality ('the numbers speak for themselves'), and just as the camera revealed the optical unconscious, data mining discloses the collective 'digital unconscious,' so digital psychopolitics\u2014with direct access to the future social behavior of the masses\u2014assumes totalitarian traits, handing us over to programming and control.",
+      "chapter": "Psychopolitics",
+      "concepts": [
+        "big_data",
+        "collective_unconscious",
+        "psychopower"
+      ],
+      "entities": {
+        "people": [
+          "Chris Anderson",
+          "Walter Benjamin"
+        ],
+        "places": [],
+        "events": [],
+        "works": [
+          "The End of Theory",
+          "Wired",
+          "The Work of Art in the Age of Its Technological Reproducibility"
+        ]
+      },
+      "sub_points": [
+        {
+          "type": "quote",
+          "text": "With enough data, the numbers speak for themselves.",
+          "speaker": "Chris Anderson"
+        },
+        {
+          "type": "source_detail",
+          "text": "Benjamin: 'It is through the camera that we first discover the optical unconscious, just as we discover the instinctual unconscious through psychoanalysis'",
+          "speaker": null
+        },
+        {
+          "type": "mechanism",
+          "text": "Data mining lays hold of and steers the unconscious logic governing the masses' behavior, ending the era of biopolitics",
+          "speaker": null
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "in-the-swarm-digital-prospects-ch-001",
+      "title": "No Respect",
+      "summary": "Respect, etymologically 'to look back,' requires distance (the 'pathos of distance'), and because digital communication abolishes distance it destroys respect, the private sphere, and the public/civil sphere, paving the way for anonymous shitstorms that flare where power and authority have weakened.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-001",
+        "in-the-swarm-digital-prospects-002",
+        "in-the-swarm-digital-prospects-003",
+        "in-the-swarm-digital-prospects-004"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-002",
+      "title": "Outrage Society",
+      "summary": "Waves of digital outrage efficiently mobilize attention but are too fluid, volatile, and self-centered to shape public discourse, and unlike the epic 'rage' (menin) that opens The Iliad, digital anger is a mere affective condition without the mass or gravitation to produce action or a future.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-005",
+        "in-the-swarm-digital-prospects-006"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-003",
+      "title": "In the Swarm",
+      "summary": "The new digital mass is not Le Bon's soul-bearing 'crowd' but a 'digital swarm' of isolated, profile-bearing individuals who lack a common spirit, voice, or resolve, and therefore cannot generate the collective political power (or a revolutionary 'multitude') capable of challenging domination.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-007",
+        "in-the-swarm-digital-prospects-008",
+        "in-the-swarm-digital-prospects-009",
+        "in-the-swarm-digital-prospects-010"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-004",
+      "title": "Demediatization",
+      "summary": "Digital media eliminate intermediaries and representation in favor of immediate 'presence,' abolishing priestly opinion classes and threatening representative democracy, but because strategic politics and genuine writing require confidentiality, distance, and quiet, total transparency produces conformity, noise, and an intellectual standstill.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-011",
+        "in-the-swarm-digital-prospects-012",
+        "in-the-swarm-digital-prospects-013",
+        "in-the-swarm-digital-prospects-014"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-005",
+      "title": "Clever Hans",
+      "summary": "Because human communication is overwhelmingly nonverbal and tactile\u2014as the horse Clever Hans revealed by reading body language\u2014digital media strip communication of tactility, physicality, and the resistant 'gaze of the other,' totalizing the imaginary and destroying negativity, desire, and the opaque countenance.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-015",
+        "in-the-swarm-digital-prospects-016",
+        "in-the-swarm-digital-prospects-017",
+        "in-the-swarm-digital-prospects-018"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-006",
+      "title": "Flight into the Image",
+      "summary": "We flee into optimized images that now function as models (Vorbilder) making reality seem defective, but this domestication strips images of their inherent madness and truth; digital images, unlike analog photographs that suffer the negativity of time, are a timeless, defactifying medium that screens us from the shock of the real.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-019",
+        "in-the-swarm-digital-prospects-020",
+        "in-the-swarm-digital-prospects-021"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-007",
+      "title": "From the Hand to the Finger",
+      "summary": "Arendtian action as radical new beginning (initium) is being annihilated by an alliance of digital and capitalist machines; Flusser's utopia of the fingering Homo ludens is false, because the performance principle turns play into self-exploiting labor, mobilizes work everywhere, and reduces history's 'recounting' to mere counting.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-022",
+        "in-the-swarm-digital-prospects-023",
+        "in-the-swarm-digital-prospects-024",
+        "in-the-swarm-digital-prospects-025"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-008",
+      "title": "From Farming to Hunting",
+      "summary": "Heidegger's 'reading' farmer's hand belongs to a terrestrial order of concealment, truth, dwelling, and Gelassenheit that is diametrically opposed to the digital storm of transparency; today humans have become impatient information hunters who, with tools like Google Glass, seize prey with every click and look, totalizing efficiency and abolishing lingering perception.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-026",
+        "in-the-swarm-digital-prospects-027",
+        "in-the-swarm-digital-prospects-028",
+        "in-the-swarm-digital-prospects-029"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-009",
+      "title": "From Subject to Project",
+      "summary": "Digital media complete the transformation of the 'thrown' Heideggerian subject into a self-designing, self-optimizing 'project,' but Flusser's messianic vision of networking as Judeo-Christian neighbor-love is disproven: digital communication is a narcissistic ego machine, and the freedom of the self-project becomes a fatal compulsion in which the achievement subject turns into a projectile against itself.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-030",
+        "in-the-swarm-digital-prospects-031",
+        "in-the-swarm-digital-prospects-032"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-010",
+      "title": "The Nomos of the Earth",
+      "summary": "The digital turn abandons the terrestrial order (nomos) of solid foundations, borders, character, secrecy, and negativity for a 'sea' where firm lines cannot be engraved, replacing action with automatic 'operations,' thinking with calculation, truth with transparency, and love with the positive accumulation of 'likes'\u2014because Spirit is pain and the digital knows no dialectical negativity.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-033",
+        "in-the-swarm-digital-prospects-034",
+        "in-the-swarm-digital-prospects-035"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-011",
+      "title": "Digital Ghosts",
+      "summary": "Following Kafka's claim that letters feed ghosts that will make us perish, digital media breed a new generation of more gluttonous digital ghosts that dissolve solid 'things' into spectral information and viral contagion, while transparency society's dark flipside opens spectral, uncontrollable spaces like dark pools, flash crashes, and Tor.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-036",
+        "in-the-swarm-digital-prospects-037",
+        "in-the-swarm-digital-prospects-038"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-012",
+      "title": "Information Fatigue",
+      "summary": "Immunosuppression allows massive unfiltered information to penetrate us, causing information fatigue syndrome whose symptoms\u2014deteriorating analysis, narcissistic depression, and inability to bear responsibility\u2014show that more information does not yield better judgment, truth, or light, because thinking, meaning, and responsibility all require the negativity of exclusion, omission, and bindingness.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-039",
+        "in-the-swarm-digital-prospects-040",
+        "in-the-swarm-digital-prospects-041"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-013",
+      "title": "The Crisis of Representation",
+      "summary": "For Barthes photography's truth was its inseparable bond to a real referent ('emanation of the referent'), but digital hyperphotography severs representation from reference and presents self-referential hyperreality; the parallel political crisis is a self-referential system of representatives who serve the system rather than isolated, apolitical individuals, raising the question whether democracy is even conceivable without discourse.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-042",
+        "in-the-swarm-digital-prospects-043",
+        "in-the-swarm-digital-prospects-044"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-014",
+      "title": "From Citizen to Consumer",
+      "summary": "Flusser's 1970s dream of QUBE-style 'direct village democracy'\u2014breaking existential decisions into instantaneous 'atomic decisions' and fusing leisure with political engagement\u2014has become reality in digital voting, but a genuine political decision is always existential, so when voting and shopping collapse onto the same screen the citizen with communal responsibility degenerates into a responsibility-free consumer.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-045",
+        "in-the-swarm-digital-prospects-046",
+        "in-the-swarm-digital-prospects-047"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-015",
+      "title": "The Recorded Life",
+      "summary": "In the digital panopticon readily available information makes trust obsolete and replaces it with control, so transparency society becomes a surveillance society in which inhabitants illuminate themselves voluntarily; freedom and control become indistinguishable, and firms like Acxiom, Google, and Facebook merge with the surveillance state, perfecting Bentham's Panopticon.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-048",
+        "in-the-swarm-digital-prospects-049",
+        "in-the-swarm-digital-prospects-050"
+      ]
+    },
+    {
+      "id": "in-the-swarm-digital-prospects-ch-016",
+      "title": "Psychopolitics",
+      "summary": "Foucault's biopower administered only external biological factors and could not penetrate the psyche, but digital surveillance enables a new psychopolitics that reads and steers the collective unconscious from inside; by disclosing the 'digital unconscious' through data mining, Big Data (as Anderson's 'end of theory' shows) lets psychopower assume totalitarian control over the future social behavior of the masses.",
+      "claim_ids": [
+        "in-the-swarm-digital-prospects-051",
+        "in-the-swarm-digital-prospects-052",
+        "in-the-swarm-digital-prospects-053"
+      ]
+    }
+  ],
+  "stats": {
+    "claim_count": 53,
+    "chapter_count": 16,
+    "indexed_at": "2026-07-11T20:57:28.760316Z"
+  }
+}
