@@ -13,6 +13,9 @@ from typing import Any
 
 HARD_FAILURE_TYPES = {"QUOTE_NOT_IN_SOURCE", "CHAPTER_MISSING"}
 
+# Word tokens used for token-level grounding comparisons.
+_TOKEN_RE = re.compile(r"[a-z0-9]+(?:'[a-z0-9]+)?")
+
 
 def _normalize_text(text: str) -> str:
     replacements = {
@@ -25,8 +28,30 @@ def _normalize_text(text: str) -> str:
         ord("\u2212"): "-",
     }
     text = (text or "").translate(replacements)
+    # Drop markdown emphasis markers injected by the EPUB->markdown extractor
+    # (e.g. "*homo sacer of itself*", "_word_"). They are never part of the
+    # quoted prose, so leaving them in produces false QUOTE_NOT_IN_SOURCE hits.
+    text = text.replace("*", "").replace("_", "").replace("`", "")
+    text = text.casefold()
+    # Strip inline footnote/endnote reference digits glued to a word
+    # (e.g. "the sound of water7"). These are extraction artifacts. Only digits
+    # directly following a letter are removed, so standalone numbers, years, and
+    # mid-token digits (e.g. "h2o") are preserved.
+    text = re.sub(r"(?<=[a-z])\d+(?=\b)", "", text)
     text = re.sub(r"\s+", " ", text)
-    return text.casefold().strip()
+    return text.strip()
+
+
+def _is_contiguous_token_sublist(needle: list[str], haystack: list[str]) -> bool:
+    """True if ``needle`` appears as a contiguous run of tokens in ``haystack``."""
+    if not needle or len(needle) > len(haystack):
+        return False
+    first = needle[0]
+    span = len(needle)
+    for idx in range(len(haystack) - span + 1):
+        if haystack[idx] == first and haystack[idx : idx + span] == needle:
+            return True
+    return False
 
 
 def _normalize_title(title: str) -> str:
@@ -40,11 +65,20 @@ def _quote_matches_source(quote: str, source_text: str, min_ratio: float = 0.85)
         return True
     if quote_norm in source_norm:
         return True
+
+    quote_tokens = _TOKEN_RE.findall(quote_norm)
+    source_tokens = _TOKEN_RE.findall(source_norm)
+
+    # Contiguous token-subsequence match: tolerates punctuation, footnote and
+    # emphasis differences that survive normalization. Also rescues short quotes
+    # (e.g. "death is its motor" vs "... death is its motor,") that the length
+    # guard below would otherwise reject outright.
+    if _is_contiguous_token_sublist(quote_tokens, source_tokens):
+        return True
+
     if len(quote_norm) < 20 or len(source_norm) < len(quote_norm):
         return False
 
-    quote_tokens = re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)?", quote_norm)
-    source_tokens = re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)?", source_norm)
     fragments = [
         fragment.strip()
         for fragment in re.split(r"[.!?;:,]+", quote_norm)
@@ -75,9 +109,12 @@ def _quote_matches_source(quote: str, source_text: str, min_ratio: float = 0.85)
     )[:5]
     if quote_tokens and source_tokens and distinctive_tokens:
         for token in distinctive_tokens:
+            # Cap occurrences scanned per token. Books that repeat a key term
+            # dozens of times (e.g. "contemplativa") pushed the real match past
+            # the old cap of 30, causing silent false negatives.
             token_positions = [
                 idx for idx, source_token in enumerate(source_tokens) if source_token == token
-            ][:30]
+            ][:250]
             for token_index in token_positions:
                 start = max(0, token_index - len(quote_tokens) - 8)
                 end = min(
