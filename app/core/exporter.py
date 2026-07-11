@@ -48,6 +48,7 @@ class Exporter:
         update_concepts=True,
         notes_suffix="",
         cache_suffix="",
+        collections=(),
     ):
         """
         Initialize the Exporter.
@@ -83,6 +84,7 @@ class Exporter:
         self.export_index = export_index
         self.update_concepts = update_concepts and export_index
         self.notes_suffix = notes_suffix.strip()
+        self.collections = list(collections)
         self.last_notes_path = None
         self.last_index_path = None
 
@@ -133,6 +135,9 @@ class Exporter:
             return None, None
 
         self._apply_source_metadata(unified_data, results)
+        if self.collections:
+            unified_data.setdefault("book", {})["collections"] = self.collections
+            log.info(f"Exporter: Applied collections: {', '.join(self.collections)}")
         self._preserve_existing_collections(unified_data)
 
         # Add processing metadata

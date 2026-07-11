@@ -1279,6 +1279,7 @@ class IngestServiceInteractionTests(unittest.TestCase):
                         {
                             "book": "digital cash",
                             "source_dir": "books/batches/digital-cash",
+                            "collections": ["Money", "Author Series"],
                         }
                     ]
                 ),
@@ -1295,6 +1296,24 @@ class IngestServiceInteractionTests(unittest.TestCase):
         self.assertEqual(job.book, "digital cash")
         self.assertEqual(job.source_paths.source_dir, str(source_dir.resolve()))
         self.assertEqual(job.source_paths.toc_path, str((source_dir / "toc.txt").resolve()))
+        self.assertEqual(job.collections, ("Money", "Author Series"))
+
+    def test_load_batch_request_rejects_invalid_collections(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            manifest_path = root / "batch-ingest.json"
+            manifest_path.write_text(
+                json.dumps(
+                    [{"book": "digital cash", "source_dir": "a", "collections": "Money"}]
+                ),
+                encoding="utf-8",
+            )
+
+            with self.assertRaisesRegex(ValueError, "invalid 'collections'"):
+                ingest_service.load_batch_request(
+                    str(manifest_path),
+                    ingest_service.IngestOptions(use_manual_toc=True),
+                )
 
     def test_load_batch_request_rejects_duplicate_book_keys(self):
         with tempfile.TemporaryDirectory() as temp_dir:
@@ -2210,6 +2229,41 @@ class ExporterMetadataTests(unittest.TestCase):
 
         self.assertIn("- Collections: Magic, Jung", note)
         self.assertEqual(index["book"]["collections"], ["Magic", "Jung"])
+
+    def test_export_unified_applies_manifest_collections(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            notes_dir = Path(temp_dir) / "notes"
+            index_dir = Path(temp_dir) / "index"
+            notes_dir.mkdir()
+            index_dir.mkdir()
+
+            with (
+                mock.patch("app.core.exporter.NOTES_DIR", str(notes_dir)),
+                mock.patch("app.core.exporter.INDEX_DIR", str(index_dir)),
+                mock.patch(
+                    "app.core.exporter.get_notes_path",
+                    lambda name: str(notes_dir / f"{name}.md"),
+                ),
+                mock.patch(
+                    "app.core.exporter.get_index_path",
+                    lambda name: str(index_dir / f"{name}.json"),
+                ),
+            ):
+                exporter = Exporter(
+                    client=None,
+                    output_dir=temp_dir,
+                    book_name="sample",
+                    enable_embeddings=False,
+                    concept_registry=None,
+                    collections=("Byung-Chul Han",),
+                )
+                exporter.export_unified(self._result())
+
+            note = (notes_dir / "sample.md").read_text(encoding="utf-8")
+            index = json.loads((index_dir / "sample.json").read_text(encoding="utf-8"))
+
+        self.assertIn("- Collections: Byung-Chul Han", note)
+        self.assertEqual(index["book"]["collections"], ["Byung-Chul Han"])
 
     def test_export_unified_includes_fidelity_failed_chunks_unless_strict(self):
         def chunk_result(status: str, title: str) -> dict:

@@ -44,6 +44,7 @@ class IngestJob:
     book: str
     options: IngestOptions
     source_paths: IngestSourcePaths
+    collections: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)

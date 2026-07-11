@@ -221,11 +221,22 @@ def load_batch_request(manifest_path: str, options: IngestOptions) -> BatchInges
         source_dir = _resolve_manifest_relative_path(manifest_file.parent, raw_source_dir)
         toc_path = _resolve_batch_toc_path(entry, source_dir, options, manifest_file.parent)
 
+        raw_collections = entry.get("collections", [])
+        if not isinstance(raw_collections, list) or any(
+            not isinstance(item, str) or not item.strip() for item in raw_collections
+        ):
+            raise ValueError(
+                f"Batch manifest entry '{book}' has invalid 'collections'; "
+                "expected a list of non-empty strings."
+            )
+        collections = tuple(dict.fromkeys(item.strip() for item in raw_collections))
+
         jobs.append(
             IngestJob(
                 book=book,
                 options=replace(options, book=book),
                 source_paths=IngestSourcePaths(source_dir=source_dir, toc_path=toc_path),
+                collections=collections,
             )
         )
 
@@ -332,6 +343,7 @@ def _write_processed_job(
         processed_job.job.source_paths,
         concept_registry,
         enable_semantic_merge,
+        processed_job.job.collections,
     )
     return _export_results(
         exporter,

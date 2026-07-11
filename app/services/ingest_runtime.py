@@ -226,6 +226,7 @@ def initialize_exporter(
     source_paths: IngestSourcePaths,
     concept_registry,
     enable_semantic_merge: bool,
+    collections: tuple[str, ...] = (),
 ):
     """Initialize exporter for the serialized write phase."""
     from app.core.exporter import Exporter
@@ -243,6 +244,7 @@ def initialize_exporter(
         update_concepts=not options.test_mode,
         notes_suffix=settings.notes_suffix,
         cache_suffix=settings.cache_suffix,
+        collections=collections,
     )
 
     if (

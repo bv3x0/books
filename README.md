@@ -200,7 +200,8 @@ Create a manifest that points each book slug to its folder:
 [
   {
     "book": "digital cash",
-    "source_dir": "books/batches/digital-cash"
+    "source_dir": "books/batches/digital-cash",
+    "collections": ["Author Series"]
   },
   {
     "book": "mirror worlds",
@@ -221,6 +222,7 @@ Notes:
 - the wrapper defaults to `--toc`, so it will automatically use `source_dir/toc.txt` when present
 - `app/main.py` only infers `source_dir/toc.txt` when you pass `--toc`
 - if you want to override the inferred TOC path, add `"toc_path": "relative/or/absolute/path.txt"` to a manifest entry
+- optional `collections` are written into the canonical note and index metadata during ingest
 - batch runs process books in manifest order and serialize writes to `notes/`, `index/`, concepts, and vectors
 
 **When to use `--ocr`:** For scanned or degraded PDFs where standard text extraction produces garbled output. Uses Granite-Docling VLM running locally via MLX (~6 sec/page on Apple Silicon).
