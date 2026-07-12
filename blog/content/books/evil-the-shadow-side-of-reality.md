@@ -1,7 +1,7 @@
 ---
 title: "Evil: The Shadow Side of Reality"
 sortTitle: "Evil: The Shadow Side of Reality"
-date: 2026-03-12
+date: 2026-07-11
 slug: "evil-the-shadow-side-of-reality"
 draft: false
 dateAdded: 2026-02-28
@@ -11,7 +11,7 @@ author: "John A. Sanford"
 shortAuthor: "Sanford"
 year: "1981"
 tags: ["religion", "psychology", "philosophy"]
-collections: ["Christianity", "Jung"]
+collections: ["Christianity", "Carl Jung"]
 ---
 
 
@@ -38,7 +38,7 @@ What counts as good or evil is relative to the observer's standpoint—egocentri
     - A recovered alcoholic's dream of intercourse with a 'great con man' revealed that by silently returning an erased tape she had 'become possessed by her lying side,' prompting her to confess.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-connected.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cross-christian.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Problem of Evil in Mythology
 
@@ -61,7 +61,7 @@ A survey of world mythologies—Egyptian, Norse, Persian, Greek, and American In
     - Psychology urges not a forced goodness but consciousness—living from an inner Center that keeps balance, so that moral values are grounded in self-knowledge rather than ideals we cannot keep.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_sacred-heart-flame.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Problem of Evil in the Old Testament
 
@@ -83,7 +83,7 @@ In the Old Testament, Yahweh Himself is the source of both good and evil, Satan 
     - Balaam's conversation with the angel—analogous to active imagination or dream dialogue—resulted in a realignment of his will with the Divine Will, raising his level of consciousness.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-constellation.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Role of the Devil and Evil in the New Testament
 
@@ -107,7 +107,7 @@ The New Testament presents two distinct and incompatible theologies of evil: the
     - Hindu philosophy offers a contrast: it treats good and evil as illusions in God and saves the soul through divorce from ego desires rather than through moral combat against an evil principle, resulting in a radically different psychological orientation.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-outline.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_vessel-jar.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Shadow
 
@@ -136,7 +136,7 @@ The Shadow is the inevitable dark side of the personality—those qualities excl
     - The General Confession in the 1928 Episcopal Book of Common Prayer—'We have done those things which we ought not to have done; And there is no health in us'—is a collective acknowledgment that the Shadow exists, though it does not lead to its specific recognition.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-detailed.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Jesus, Paul, and the Shadow
 
@@ -165,7 +165,7 @@ Jesus' teaching calls for the growth of psychological consciousness and honest c
     - Jesus' way is a 'narrow gate'—only one person can pass through at a time—because the recognition of one's personal Shadow and growth in consciousness is inherently individual, never collective or mass-produced.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-dynamic.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Problem of the Shadow and Evil in The Strange Case of Dr. Jekyll and Mr. Hyde
 
@@ -195,7 +195,7 @@ Stevenson's novelette—whose central mystery was provided directly by the uncon
     - Jung wrote that only two things protect the soul from evil's power: a soul filled with a power greater than evil, or containment in a warm human community—isolation is the condition that most enables possession.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_rain-weather.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Earth_fire-flame.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Devil in Post-Biblical Mythology and Folklore
 
@@ -221,7 +221,7 @@ The post-biblical figure of Lucifer and the devil in popular folklore are psycho
     - This taxonomy establishes that much of what we call evil is relative and can be transformed through conscious integration—but this does not permit complacency, since intrinsic or archetypal evil is also real and can possess and destroy a soul.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Space_star-detailed.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Ontology of Evil
 

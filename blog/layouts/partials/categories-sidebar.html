@@ -8,7 +8,7 @@
 {{- $hasCollections := and $featured $collections -}}
 {{/* Sidebar-only display labels, keyed by lowercased collection name. */}}
 {{/* Does not change the underlying collection titles, slugs, or URLs. */}}
-{{- $labels := dict "gurdjieff" "G. I. Gurdjieff" "jung" "Carl Jung" -}}
+{{- $labels := dict "gurdjieff" "G. I. Gurdjieff" -}}
 
 {{ if or (gt (len $latestBooks) 0) $hasCollections }}
 <aside id="categories-sidebar" class="toc-sidebar" aria-label="Site navigation">

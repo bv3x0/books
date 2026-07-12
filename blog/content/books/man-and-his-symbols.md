@@ -1,7 +1,7 @@
 ---
 title: "Man and His Symbols"
 sortTitle: "Man and His Symbols"
-date: 2026-03-24
+date: 2026-07-11
 slug: "man-and-his-symbols"
 draft: false
 dateAdded: 2026-03-24
@@ -11,7 +11,7 @@ author: "Carl G. Jung, M.-L. von Franz, Joseph L. Henderson, Aniela Jaffé, Jola
 shortAuthor: "Jacobi"
 year: "1964"
 tags: ["psychology", "social science", "philosophy"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -47,7 +47,7 @@ Jung argues that the unconscious psyche communicates through spontaneous symbols
     - Modern man's gods and demons have not disappeared at all; they have merely got new names. They keep him on the run with restlessness, vague apprehensions, psychological complications, an insatiable need for pills, alcohol, tobacco, food—and, above all, a large array of neuroses.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-dynamic.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-conflict.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Ancient Myths and Modern Man
 
@@ -74,7 +74,7 @@ Henderson demonstrates that the hero myth, initiation archetypes, and transcende
     - A devout Catholic woman's fantasy series ended with a vision of red crosses on gold disks—which she later understood as her need to reconcile Christian devotion (red crosses) with pre-Christian mystery religion (gold disks) in her new life.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_two-people-standing.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Process of Individuation
 
@@ -101,7 +101,7 @@ Von Franz explains that individuation—the lifelong process by which the ego co
     - Numbers appear to be a tangible connection between the spheres of matter and psyche: they are both spontaneous products of the unconscious (like other archetypal symbols) and qualities inherent in outer physical objects that exist independently of the mind.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_fire-flame.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_brain-tangled.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Symbolism in the Visual Arts
 
@@ -124,7 +124,7 @@ Jaffé traces the persistent presence of archetypal symbols—the stone, the ani
     - The admission of modern art to Christian churches—Matisse's chapel at Vence, Bazaine's windows at Audincourt—signals that the compensatory chthonic spirit that once stood against Christianity may now be entering into creative collaboration with it.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-dancing-wave.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Symbols in an Individual Analysis
 
@@ -147,7 +147,7 @@ Jacobi presents the nine-month Jungian analysis of a 25-year-old Swiss engineer 
     - Henry offered the naked Negro a box of matches as his gift—choosing correctly from the floor something thrown away—symbolically combining a civilized product with his own primitivity and male strength, after which all six male figures (four friends, Negro, servant) celebrated together in joyous communion.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_figure-working.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Earth_two-people-standing.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Conclusion: Science and the Unconscious
 

@@ -4,7 +4,7 @@
 - Thesis: The animus and anima are archetypal figures bridging personal consciousness and the collective unconscious, and a woman's psychological development requires her to consciously integrate the masculine-intellectual animus principle rather than remaining possessed by it or projecting it onto men.
 - Topics: Jungian archetypes of animus and anima, feminine psychology and masculine-intellectual principle, elemental beings in mythology and folklore as anima projections, integration of unconscious contrasexual components, relationship between consciousness and the unconscious
 - Categories: psychology, philosophy, social science
-- Collections: Jung
+- Collections: Carl Jung
 - Author: Emma Jung
 - Year: 1957
 - Mode: full

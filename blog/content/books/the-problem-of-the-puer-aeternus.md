@@ -1,7 +1,7 @@
 ---
 title: "The Problem of the Puer Aeternus"
 sortTitle: "Problem of the Puer Aeternus"
-date: 2026-03-12
+date: 2026-07-11
 slug: "the-problem-of-the-puer-aeternus"
 draft: false
 dateAdded: 2026-02-28
@@ -11,7 +11,7 @@ author: "Marie-Louise von Franz"
 shortAuthor: "Franz"
 year: "1970"
 tags: ["psychology", "literary criticism", "philosophy"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -45,7 +45,7 @@ Von Franz introduces the puer aeternus as a psychological type characterized by 
     - The genuine challenge is not eliminating the childhood world of inner aliveness but finding a way to carry it into adult life without losing it to either infantile regression or bitter disenchantment.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-dynamic.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 2
 
@@ -74,7 +74,7 @@ Von Franz examines the opening encounter of The Little Prince—the sheep reques
     - Goethe also accepted the role of Weimar administrator, sitting in his office reading taxation requests when he would have preferred to ride away—enacting the inferior thinking function rather than just praising earthly duty in his fiction.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_figure-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 10
 
@@ -100,7 +100,7 @@ Von Franz interprets the novel The Kingdom Without Space through its central con
     - Von Franz invokes the French saying 'Les savants ne sont pas curieux' (scholars are not curious) to capture how the demonic power-drive infiltrates even the highest intellectual activities, turning knowledge into a means of domination.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 11
 
@@ -128,7 +128,7 @@ Von Franz continues her interpretation of The Kingdom Without Space, analyzing t
     - Largactyl and Serpasil (early antipsychotic drugs) can suppress the emotional excess without touching the underlying structural problem, leaving patients in a 'whitened tomb' persona-existence that is itself a form of madness—ordered on the surface, unchanged beneath.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Earth_figure-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 12
 
@@ -154,7 +154,7 @@ Von Franz completes her analysis of The Kingdom Without Space, examining the cru
     - The book's tragedy is that psychic reality is never recognized as a third dimension between physical reality and mere fantasy; von Spät and Fo are fought out as external projections rather than as inner psychological forces, so the resolution must be projected into metaphysics rather than found in individual consciousness.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_arrow-forward-to.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 3
 
@@ -186,7 +186,7 @@ Von Franz examines Saint-Exupéry's psychological weaknesses through symbols in 
     - People who hide their childish side in analysis do so not from dishonesty but because they know contact with it will make them cry, ending conversation—yet this is precisely the spot that must be reached for genuine development.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-contemplation.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 4
 
@@ -214,7 +214,7 @@ Von Franz analyzes the extinct volcano, the six planetary shadow figures, the go
     - The fox's teaching, which should have created an adult conflict between earth-obligations and Beyond-obligations, instead liberates the little prince from earth entirely—showing how deeply the death-pull operates against grounding even when the conscious lesson points toward relationship.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Literary Criticism/Life_pen-feather.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 5
 
@@ -242,7 +242,7 @@ Von Franz follows the little prince's return toward death, analyzing the well ep
     - The sheep on the asteroid symbolizes the danger that collective adaptation, refused on the outside, will consume the very inner nucleus of individuation—the rose—from within, when the puer lacks the muzzle of conscious containment.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-dynamic.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 6
 
@@ -266,7 +266,7 @@ Von Franz presents a case study of a thirty-one-year-old puer aeternus—a paint
     - The synchronistic correspondence of letters was convincing in a way analysis alone was not, because it carried the quality of meaningfulness the patient could not dismiss intellectually—the irrational impressed him where the rational had only made him angry.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_clouds-sky.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-leaping.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 7
 
@@ -294,7 +294,7 @@ Von Franz interprets the patient's second major dream—a slow fall into a split
     - Man's most ancient and paralyzing fear appears to be the unknown; the inability to know in advance what is coming triggers panic that causes the hasty turn to left or right—the rational choice that forecloses the living paradox.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-leaping.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 8
 
@@ -331,7 +331,7 @@ Von Franz analyzes the concluding imagery of a patient's dream—skull, stagnant
     - Red Cross statistics from WWII showed that the more primitive the person, the higher the suicide rate in imprisonment; Bushmen cannot be imprisoned more than three days before fading away for psychological reasons.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_chain-cycle.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Lecture 9
 
@@ -365,7 +365,7 @@ Von Franz introduces Bruno Goetz's prophetic 1919 novel 'The Kingdom Without Spa
     - The town name 'Schimmelberg' (White Horse Mountain) evokes Wotan's eight-legged horse Sleipnir and the Germanic myth that the god retired to a mountain and will reappear to reestablish his eternal empire—a mythological template for the collective fantasy the novel explores.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Publisher's Note to the Third Edition
 

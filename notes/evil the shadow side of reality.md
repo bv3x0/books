@@ -4,7 +4,7 @@
 - Thesis: Evil, examined through the lens of Jungian Analytical Psychology and Judaeo-Christian tradition, is not simply an external force to be rejected but a necessary aspect of reality whose recognition and integration is essential for psychological wholeness and genuine moral development.
 - Topics: Jungian psychology and the Shadow, Christian theology and the problem of evil, mythology and personifications of evil, persona versus authentic selfhood, ontology and the privatio boni doctrine
 - Categories: religion, psychology, philosophy
-- Collections: Christianity, Jung
+- Collections: Christianity, Carl Jung
 - Author: John A. Sanford
 - Year: 1981
 - Mode: quick

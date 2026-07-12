@@ -4,7 +4,7 @@
 - Thesis: The puer aeternus—the man identified with the archetype of eternal youth—suffers from an unresolved mother complex that keeps him in adolescent psychology, preventing genuine commitment to life, work, and relationship; this problem is analyzed through literary interpretation and case material to reveal both its personal and cultural dimensions.
 - Topics: puer aeternus archetype, mother complex, Jungian psychology, literary analysis, individuation
 - Categories: psychology, literary criticism, philosophy
-- Collections: Jung
+- Collections: Carl Jung
 - Author: Marie-Louise von Franz
 - Year: 1970
 - Mode: quick

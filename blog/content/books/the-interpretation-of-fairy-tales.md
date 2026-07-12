@@ -1,7 +1,7 @@
 ---
 title: "The Interpretation of Fairy Tales"
 sortTitle: "Interpretation of Fairy Tales"
-date: 2026-03-12
+date: 2026-07-11
 slug: "the-interpretation-of-fairy-tales"
 draft: false
 dateAdded: 2026-02-28
@@ -11,7 +11,7 @@ author: "Marie-Louise von Franz"
 shortAuthor: "Franz"
 year: "1970"
 tags: ["psychology", "literary criticism", "philosophy"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -46,7 +46,7 @@ Fairy tales represent the purest expression of collective unconscious processes 
     - The fairy tale is like the skeleton—the most basic and eternal nucleus—while local sagas are the flesh; fairy tales are abstractions from local sagas, condensed into a crystallized, memorable form.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-couple.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Fairy Tales, Myths, and Other Archetypal Stories
 
@@ -70,7 +70,7 @@ This chapter distinguishes fairy tales from myths, legends, liturgical texts, ri
     - According to Laurens van der Post, about eighty percent of Bushman tales are animal tales, supporting the hypothesis that this is the oldest narrative stratum.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_clouds-sky.png" alt="" role="presentation" loading="lazy"></div>
 
 ## A Method of Psychological Interpretation
 
@@ -93,7 +93,7 @@ This chapter presents the step-by-step Jungian method for interpreting fairy tal
     - The criterion for a good interpretation is not absolute truth but whether it satisfies—whether one's own dreams agree with it and make no further demands, which signals one has reached one's own limit of digestion.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-couple.png" alt="" role="presentation" loading="lazy"></div>
 
 ## A Tale Interpreted: "The Three Feathers"
 
@@ -120,7 +120,7 @@ Applying the method to the Grimm tale 'The Three Feathers,' this chapter interpr
     - The steps and human construction found underground—not a natural cavity—indicate that the feminine principle was once more conscious in European culture (Celtic, Germanic goddess cults; medieval Mariology and Troubadour Eros) and has since regressed.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ## "The Three Feathers" Continued
 
@@ -143,7 +143,7 @@ This chapter continues the interpretation of 'The Three Feathers,' analyzing the
     - In 'The Three Feathers,' the three tests (carpet, ring, bride) each have the same rhythmic structure; then the fourth event—jumping through the ring—is qualitatively different: it is no longer another test of the same kind but a demonstration of a new dimension of being.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-couple.png" alt="" role="presentation" loading="lazy"></div>
 
 ## "The Three Feathers" Completed
 
@@ -166,7 +166,7 @@ The final chapter on 'The Three Feathers' analyzes the anima's jump through the 
     - When the old God-image binds the anima to the past, a rift opens between the new conscious attitude and the older layer from which the anima comes—which is why, as the Grimm Brothers observed, there is a germ of truth in connecting fairy tales with paganism.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_figure-thinking.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Shadow, Anima, and Animus in Fairy Tales
 

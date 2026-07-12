@@ -1,7 +1,7 @@
 ---
 title: "Catafalque: Carl Jung and the End of Humanity"
 sortTitle: "Catafalque: Carl Jung and the End of Humanity"
-date: 2026-03-24
+date: 2026-07-11
 slug: "catafalque"
 draft: false
 dateAdded: 2026-03-24
@@ -11,7 +11,7 @@ author: "Peter Kingsley"
 shortAuthor: "Kingsley"
 year: "2018"
 tags: ["philosophy", "biography & autobiography", "religion"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -41,7 +41,7 @@ Jung was not primarily a psychologist but a prophet and mystic who deliberately 
     - His answer was not a return to conventional religion but a descent into the depths where the living connection to the sacred could still be found, beneath the layers of civilization's repression.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_stars-connected.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_pen-quill.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Back to the Source
 
@@ -68,7 +68,7 @@ The ultimate source of Jung's visionary knowledge was the tradition of the ancie
     - The pattern repeats with Jung: what began as a prophetic transmission is converted into a school, a method, a set of credentials — and the living fire is extinguished in the process.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_earth-full.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Sunset Way
 
@@ -95,7 +95,7 @@ The path to genuine knowledge in the ancient tradition required a journey to the
     - The possibility that Kingsley holds out is that the very crisis of the West is an invitation to the same descent that the ancient tradition prescribed for individuals: a death that makes possible a genuine rebirth at a deeper level of reality.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Religion/Space_lunar-cycle-row.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Religion/Life_cross-christian.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Catafalque
 

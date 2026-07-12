@@ -4,7 +4,7 @@
 - Thesis: Alchemy represents a profound psychological tradition that anticipated modern depth psychology by centuries, serving as both primitive chemistry and a symbolic system for exploring the collective unconscious and the process of individuation.
 - Topics: alchemical symbolism, collective unconscious, individuation process, synchronicity, medieval magic
 - Categories: psychology, philosophy, history
-- Collections: Jung
+- Collections: Carl Jung
 - Author: Marie-Louise von Franz
 - Year: 1979
 - Mode: quick

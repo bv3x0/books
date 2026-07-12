@@ -6,7 +6,7 @@
 - Categories: psychology, social science, philosophy
 - Author: Carl G. Jung, M.-L. von Franz, Joseph L. Henderson, Aniela Jaffé, Jolande Jacobi
 - Year: 1964
-- Collections: Jung
+- Collections: Carl Jung
 - Mode: quick
 
 ## Approaching the Unconscious

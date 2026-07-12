@@ -1,7 +1,7 @@
 ---
 title: "Alchemical Active Imagination"
 sortTitle: "Alchemical Active Imagination"
-date: 2026-03-12
+date: 2026-07-11
 slug: "alchemical-active-imagination"
 draft: false
 dateAdded: 2026-02-02
@@ -11,7 +11,7 @@ author: "Marie-Louise von Franz"
 shortAuthor: "Franz"
 year: "1979"
 tags: ["psychology", "philosophy", "history"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -42,7 +42,7 @@ Western alchemy emerged around the first century CE from the fusion of Greek rat
     - Economic costs were enormous: buying land, building equipment, bribing authorities, hiring assistants for round-the-clock fire maintenance
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_two-people-standing.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_flood-destruction.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Divine Power in Matter
 
@@ -65,7 +65,7 @@ Christianity created an unresolved tension between official doctrine and the alc
     - Published twenty-six Paracelsus treatises in Latin translation and added his own commentaries between 1565-1578
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_earth-globe-grid.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Problem of the Body and the Redemption of the Christian Shadow
 
@@ -93,7 +93,7 @@ Dorn's alchemical psychology divides human nature into animus (conscious will), 
     - This gives the ego 'peace of mind' and 'a certain quietness and constancy' with access to inner information
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_trident-symbol.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Earth_globe-earth.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Mind and Body in the Castle of Philosophical Love
 
@@ -121,7 +121,7 @@ Through active imagination dialogues, Dorn shows the process of unification as s
     - Current splits are created by the unconscious 'in order to increase consciousness' and reunite opposites on higher level
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Medieval Magic and Modern Synchronicity
 
@@ -149,7 +149,7 @@ Dorn's belief in magical virtus - the power to influence matter through spiritua
     - This represents 'compartmental psychology' - admitting experience while denying its scientific implications
 
 
-<div class="chapter-glyph"><img src="/glyphs/History/Earth_windmill.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/History/Space_earth-globe-grid.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Vir Unus / Unus Mundus
 

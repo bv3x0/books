@@ -4,7 +4,7 @@
 - Thesis: Jung's life was primarily determined by his inner experiences and encounters with the unconscious, which he considers more meaningful than external events in understanding the development of his psychological theories and spiritual insights.
 - Topics: analytical psychology, unconscious experiences, religious visions, dream interpretation, individuation process
 - Categories: psychology, biography & autobiography, philosophy
-- Collections: Jung
+- Collections: Carl Jung
 - Author: C. G. Jung
 - Year: 1961
 - Mode: quick

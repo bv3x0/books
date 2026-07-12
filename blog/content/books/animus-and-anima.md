@@ -1,7 +1,7 @@
 ---
 title: "Animus and Anima"
 sortTitle: "Animus and Anima"
-date: 2026-03-12
+date: 2026-07-11
 slug: "animus-and-anima"
 draft: false
 dateAdded: 2026-03-01
@@ -11,7 +11,7 @@ author: "Emma Jung"
 shortAuthor: "Jung"
 year: "1957"
 tags: ["psychology", "philosophy", "social science"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -56,7 +56,7 @@ Emma Jung examines the animus as the masculine-intellectual principle within wom
     - Only when the masculine entity becomes an integrated part of the soul and carries on its proper function there is it possible for a woman to be truly a woman in the higher sense, and at the same time to fulfil her individual human destiny.
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-reaching.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Social Science/Life_person-couple.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Anima as an Elemental Being
 

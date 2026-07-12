@@ -6,7 +6,7 @@
 - Categories: philosophy, biography & autobiography, religion
 - Author: Peter Kingsley
 - Year: 2018
-- Collections: Jung
+- Collections: Carl Jung
 - Mode: quick
 
 ## Mystical Fool

@@ -4,7 +4,7 @@
 - Thesis: Fairy tales are the purest expression of collective unconscious processes and represent archetypes in their simplest form; by interpreting them through Jungian psychological methods, we can understand the fundamental patterns of the human psyche, all of which ultimately circumambulate the central symbol of the Self.
 - Topics: Jungian psychology, fairy tale interpretation, archetypes, collective unconscious, individuation
 - Categories: psychology, literary criticism, philosophy
-- Collections: Jung
+- Collections: Carl Jung
 - Author: Marie-Louise von Franz
 - Year: 1970
 - Mode: quick

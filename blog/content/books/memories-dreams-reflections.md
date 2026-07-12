@@ -1,7 +1,7 @@
 ---
 title: "Memories, Dreams, Reflections"
 sortTitle: "Memories, Dreams, Reflections"
-date: 2026-03-12
+date: 2026-07-11
 slug: "memories-dreams-reflections"
 draft: false
 dateAdded: 2026-02-03
@@ -11,7 +11,7 @@ author: "C. G. Jung"
 shortAuthor: "Jung"
 year: "1961"
 tags: ["psychology", "biography & autobiography", "philosophy"]
-collections: ["Jung"]
+collections: ["Carl Jung"]
 ---
 
 
@@ -38,7 +38,7 @@ Aniela Jaffé explains the origins and methodology of Jung's autobiography, emph
     - As a scientist, Jung is an empiricist who consciously restricts himself to what may be demonstrated and supported by evidence
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_microscope-lens.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Prologue
 
@@ -62,7 +62,7 @@ Jung declares that his life represents the self-realization of the unconscious a
     - "My encounters with the 'other' reality, my bouts with the unconscious, are indelibly engraved upon my memory" —Jung
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-couple.png" alt="" role="presentation" loading="lazy"></div>
 
 ## First Years
 
@@ -91,7 +91,7 @@ Jung recounts his earliest memories from childhood, including profound religious
     - "The manikin was a kabir, wrapped in his little cloak, hidden in the kista, and provided with a supply of life-force, the oblong black stone" —Jung
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_pen-quill.png" alt="" role="presentation" loading="lazy"></div>
 
 ## School Years
 
@@ -123,7 +123,7 @@ Jung describes his transition from village life to Basel Gymnasium, his academic
     - "All at once I understood the tragedy of his profession and his life. He was struggling with a death whose existence he could not admit" —Jung
 
 
-<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_person-brain-thinking.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Student Years
 
@@ -155,7 +155,7 @@ Jung describes his university years studying medicine, his father's death, his d
     - He was moved by the childish hope of finding people who would be able to share his ecstasies and could grasp his 'transvaluation of all values'
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Psychiatric Activities
 
@@ -187,7 +187,7 @@ Jung's psychiatric work at Burghölzli hospital led him to investigate the inner
     - "I have had mainly women patients, who often entered into the work with extraordinary conscientiousness, understanding, and intelligence" —the author
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Sigmund Freud
 
@@ -223,7 +223,7 @@ Jung's relationship with Freud began with admiration for his groundbreaking work
     - For two months I was unable to touch my pen, so tormented was I by the conflict
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_tree-plant-growth.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_hand-reaching.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Confrontation with the Unconscious
 
@@ -263,7 +263,7 @@ Following his break with Freud, Jung underwent a profound psychological crisis f
     - As soon as I took up the pen, the whole ghostly assemblage evaporated
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_zodiac-calendar.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_moon-phases.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Work
 
@@ -303,7 +303,7 @@ Jung's scientific work developed systematically from his early association exper
     - The moment I touched bottom, I reached the bounds of scientific understanding, the transcendental, the nature of the archetype per se
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Biography & Autobiography/Life_dollar-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ## The Tower
 
@@ -340,7 +340,7 @@ Jung built his tower at Bollingen as a concrete expression of his psychological 
     - "That is the doom of Germany" —Jakob Burckhardt
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_person-worship.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_active-figure.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Kenya and Uganda
 
@@ -376,7 +376,7 @@ Jung's 1925-1926 journey to East Africa provided profound insights into primitiv
     - We have largely lost the capacity for letting the unconscious speak to us
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Earth_tree-of-life-globe.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Travels
 
@@ -397,7 +397,7 @@ Jung's travels to various cultures provided him with comparative perspectives on
     - The Indian's goal is not moral perfection but the condition of nirdvandva - liberation from opposites
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_star-ring-galaxy.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Visions
 
@@ -420,7 +420,7 @@ During his 1944 near-death experience, Jung had extraordinary visions that gave 
     - Most of his principal works were written only after this illness
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Earth_two-figures-together.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_eye-open.png" alt="" role="presentation" loading="lazy"></div>
 
 ## On Life after Death
 
@@ -444,7 +444,7 @@ Jung explores the possibility of life after death through psychological and myth
     - Without conscious reflection, the world would not be - it becomes the phenomenal world only through consciousness
 
 
-<div class="chapter-glyph"><img src="/glyphs/Psychology/Earth_figure-thinking.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Philosophy/Life_moon-crescent.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Late Thoughts
 
@@ -469,7 +469,7 @@ In his final reflections, Jung presents his mature understanding of the God-imag
     - Love ceases not - whether he speaks with the tongues of angels, or traces the life of the cell to its uttermost source
 
 
-<div class="chapter-glyph"><img src="/glyphs/Philosophy/Space_crescent-moon.png" alt="" role="presentation" loading="lazy"></div>
+<div class="chapter-glyph"><img src="/glyphs/Psychology/Life_person-sprawled.png" alt="" role="presentation" loading="lazy"></div>
 
 ## Retrospect
 
