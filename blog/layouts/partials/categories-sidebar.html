@@ -6,6 +6,9 @@
 {{- $collections := site.Taxonomies.collections -}}
 {{- $featured := sort site.Data.collections -}}
 {{- $hasCollections := and $featured $collections -}}
+{{/* Sidebar-only display labels, keyed by lowercased collection name. */}}
+{{/* Does not change the underlying collection titles, slugs, or URLs. */}}
+{{- $labels := dict "gurdjieff" "G. I. Gurdjieff" "jung" "Carl Jung" -}}
 
 {{ if or (gt (len $latestBooks) 0) $hasCollections }}
 <aside id="categories-sidebar" class="toc-sidebar" aria-label="Site navigation">
@@ -23,7 +26,7 @@
       {{- $slug := . | urlize }}
       <li>
         <a href="/collections/{{ $slug }}/"{{ if eq $.Title . }} class="active"{{ end }}>
-          {{ . }}
+          {{ index $labels $name | default . }}
           <span class="category-count">({{ len $pages }})</span>
         </a>
       </li>
