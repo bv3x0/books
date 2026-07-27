@@ -1,10 +1,10 @@
-# Vita Contemplativa - a praise of inactivity
+# Vita Contemplativa: A Praise of Inactivity
 
 ## Metadata
 - Thesis: The contemporary crisis of meaning stems from the disintegration of being under the compulsion to act, produce, and communicate; only a recovery of contemplative inactivity—festivals, listening, wonder, and lingering—can restore being, community, and a reconciled relationship with nature.
 - Topics: inactivity and contemplation, the crisis of being and meaning, critique of the performance society, festivals, ritual, and the Sabbath, reconciliation of humans and nature
 - Categories: philosophy, social science
-- Author: Byung-Chal Han
+- Author: Byung-Chul Han
 - Year: 2022
 - Collections: Byung-Chul Han
 - Mode: quick

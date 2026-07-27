@@ -1,7 +1,7 @@
 ---
-title: "The agony of eros"
-sortTitle: "agony of eros"
-date: 2026-07-11
+title: "The Agony of Eros"
+sortTitle: "Agony of Eros"
+date: 2026-07-27
 slug: "the-agony-of-eros"
 draft: false
 dateAdded: 2026-07-11

@@ -4,7 +4,7 @@
 - Thesis: Contemporary culture has smoothed beauty into pure positivity — a frictionless object of the 'Like' stripped of all negativity, otherness, and truth — and beauty can only be saved by restoring to it the negativity, veiling, injury, disaster, and transcendence through which it commits us to the other.
 - Topics: aesthetics of the smooth, negativity and positivity, digital culture and consumption, beauty and truth, eroticism versus pornography
 - Categories: philosophy, social science, art
-- Author: Han, Byung-Chul; Steuer, Daniel
+- Author: Byung-Chul Han
 - Year: 2017
 - Collections: Byung-Chul Han
 - Mode: quick

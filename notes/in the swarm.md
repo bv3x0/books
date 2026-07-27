@@ -4,7 +4,7 @@
 - Thesis: Digital media abolish distance, respect, negativity, and the possibility of genuine action, dissolving the classical crowd into an isolated, narcissistic digital swarm and transforming society into a transparent, self-exploiting regime of psychopolitical control.
 - Topics: digital media theory, respect and distance, the crowd versus the digital swarm, transparency and surveillance, negativity and the loss of the other
 - Categories: philosophy, social science, technology & engineering
-- Author: Han, Byung-Chul; Butler, Erik
+- Author: Byung-Chul Han
 - Year: 2017
 - Collections: Byung-Chul Han
 - Mode: quick

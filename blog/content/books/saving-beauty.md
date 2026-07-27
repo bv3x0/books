@@ -1,14 +1,14 @@
 ---
 title: "Saving Beauty"
 sortTitle: "Saving Beauty"
-date: 2026-07-11
+date: 2026-07-27
 slug: "saving-beauty"
 draft: false
 dateAdded: 2026-07-11
 description: "Contemporary culture has smoothed beauty into pure positivity — a frictionless object of the 'Like' stripped of all negativity, otherness, and truth — and beauty can only be saved by restoring to it the negativity, veiling, injury, disaster, and transcendence through which it commits us to the other."
 bookKeywords: "aesthetics of the smooth, negativity and positivity, digital culture and consumption, beauty and truth, eroticism versus pornography"
-author: "Han, Byung-Chul; Steuer, Daniel"
-shortAuthor: "Daniel"
+author: "Byung-Chul Han"
+shortAuthor: "Han"
 year: "2017"
 tags: ["philosophy", "social science", "art"]
 collections: ["Byung-Chul Han"]

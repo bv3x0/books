@@ -4,7 +4,7 @@
 - Thesis: Power is not fundamentally coercion or repression but a phenomenon of form and mediation through which the ego continues itself in the alter, achieving maximum stability precisely when it produces freedom rather than violence; the highest power is silent, taken-for-granted, and shines in its own absence.
 - Topics: power and freedom, mediation and continuity of self, semantics of power, subjectivity and ipseity, friendliness as the other of power
 - Categories: philosophy, political science, social science
-- Author: HAN, BYUNG-CHUL.
+- Author: Byung-Chul Han
 - Year: 2018
 - Collections: Byung-Chul Han
 - Mode: quick

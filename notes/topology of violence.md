@@ -4,7 +4,7 @@
 - Thesis: Violence never disappears but is protean, shifting from the visible macro-physical violence of negativity (sovereignty, discipline, the friend/enemy antagonism) to an invisible micro-physical violence of positivity, in which the free, self-exploiting achievement-subject becomes perpetrator and victim at once, producing depression and burnout.
 - Topics: violence and power, the achievement society and self-exploitation, negativity versus positivity, sovereignty, discipline, and biopolitics, transparency and communication
 - Categories: philosophy, social science, political science
-- Author: Han, Byung-Chul; DeMarco, Amanda
+- Author: Byung-Chul Han
 - Year: 2018
 - Collections: Byung-Chul Han
 - Mode: quick

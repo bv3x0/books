@@ -1,4 +1,4 @@
-# The agony of eros
+# The Agony of Eros
 
 ## Metadata
 - Thesis: The crisis of love today derives not from too many others or unlimited choice but from the erosion of the Other and the narcissification of the Self, as the neoliberal achievement society flattens everything into the consumable Same and eliminates the negativity, atopia, and self-renunciation that eros requires.

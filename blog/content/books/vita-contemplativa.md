@@ -1,13 +1,13 @@
 ---
-title: "Vita Contemplativa - a praise of inactivity"
-sortTitle: "Vita Contemplativa - a praise of inactivity"
-date: 2026-07-11
+title: "Vita Contemplativa: A Praise of Inactivity"
+sortTitle: "Vita Contemplativa: A Praise of Inactivity"
+date: 2026-07-27
 slug: "vita-contemplativa"
 draft: false
 dateAdded: 2026-07-11
 description: "The contemporary crisis of meaning stems from the disintegration of being under the compulsion to act, produce, and communicate; only a recovery of contemplative inactivity—festivals, listening, wonder, and lingering—can restore being, community, and a reconciled relationship with nature."
 bookKeywords: "inactivity and contemplation, the crisis of being and meaning, critique of the performance society, festivals, ritual, and the Sabbath, reconciliation of humans and nature"
-author: "Byung-Chal Han"
+author: "Byung-Chul Han"
 shortAuthor: "Han"
 year: "2022"
 tags: ["philosophy", "social science"]

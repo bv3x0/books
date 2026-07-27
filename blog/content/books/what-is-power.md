@@ -1,14 +1,14 @@
 ---
 title: "What Is Power?"
 sortTitle: "What Is Power?"
-date: 2026-07-11
+date: 2026-07-27
 slug: "what-is-power"
 draft: false
 dateAdded: 2026-07-11
 description: "Power is not fundamentally coercion or repression but a phenomenon of form and mediation through which the ego continues itself in the alter, achieving maximum stability precisely when it produces freedom rather than violence; the highest power is silent, taken-for-granted, and shines in its own absence."
 bookKeywords: "power and freedom, mediation and continuity of self, semantics of power, subjectivity and ipseity, friendliness as the other of power"
-author: "HAN, BYUNG-CHUL."
-shortAuthor: "BYUNG-CHUL."
+author: "Byung-Chul Han"
+shortAuthor: "Han"
 year: "2018"
 tags: ["philosophy", "political science", "social science"]
 collections: ["Byung-Chul Han"]

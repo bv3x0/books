@@ -1,14 +1,14 @@
 ---
 title: "In the Swarm: Digital Prospects"
 sortTitle: "In the Swarm: Digital Prospects"
-date: 2026-07-11
+date: 2026-07-27
 slug: "in-the-swarm"
 draft: false
 dateAdded: 2026-07-11
 description: "Digital media abolish distance, respect, negativity, and the possibility of genuine action, dissolving the classical crowd into an isolated, narcissistic digital swarm and transforming society into a transparent, self-exploiting regime of psychopolitical control."
 bookKeywords: "digital media theory, respect and distance, the crowd versus the digital swarm, transparency and surveillance, negativity and the loss of the other"
-author: "Han, Byung-Chul; Butler, Erik"
-shortAuthor: "Erik"
+author: "Byung-Chul Han"
+shortAuthor: "Han"
 year: "2017"
 tags: ["philosophy", "social science", "technology & engineering"]
 collections: ["Byung-Chul Han"]

@@ -1,14 +1,14 @@
 ---
 title: "Topology of Violence"
 sortTitle: "Topology of Violence"
-date: 2026-07-11
+date: 2026-07-27
 slug: "topology-of-violence"
 draft: false
 dateAdded: 2026-07-11
 description: "Violence never disappears but is protean, shifting from the visible macro-physical violence of negativity (sovereignty, discipline, the friend/enemy antagonism) to an invisible micro-physical violence of positivity, in which the free, self-exploiting achievement-subject becomes perpetrator and victim at once, producing depression and burnout."
 bookKeywords: "violence and power, the achievement society and self-exploitation, negativity versus positivity, sovereignty, discipline, and biopolitics, transparency and communication"
-author: "Han, Byung-Chul; DeMarco, Amanda"
-shortAuthor: "Amanda"
+author: "Byung-Chul Han"
+shortAuthor: "Han"
 year: "2018"
 tags: ["philosophy", "social science", "political science"]
 collections: ["Byung-Chul Han"]
