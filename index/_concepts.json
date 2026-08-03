@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-11T21:50:12.948610Z",
+  "updated_at": "2026-08-03T13:49:15.716501Z",
   "concepts": {
     "guerrilla_warfare": {
       "id": "guerrilla_warfare",
@@ -3108,15 +3108,17 @@
         "a secret history of christianity": 1,
         "circles of power": 1,
         "mystery teachings from the living earth": 1,
-        "psychomagic": 2
+        "psychomagic": 2,
+        "the great crash of 1929": 1
       },
       "books": [
         "a secret history of christianity",
         "circles of power",
         "mystery teachings from the living earth",
-        "psychomagic"
+        "psychomagic",
+        "the great crash of 1929"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "parabolic_teaching": {
       "id": "parabolic_teaching",
@@ -10577,16 +10579,18 @@
         "boom": 3,
         "the ascent of money": 2,
         "the zurich axioms": 2,
-        "zero to one": 1
+        "zero to one": 1,
+        "the great crash of 1929": 3
       },
       "books": [
         "best loser wins",
         "boom",
         "the ascent of money",
         "the zurich axioms",
-        "zero to one"
+        "zero to one",
+        "the great crash of 1929"
       ],
-      "claim_count": 9
+      "claim_count": 12
     },
     "trend_following": {
       "id": "trend_following",
@@ -13246,13 +13250,15 @@
       "related": [],
       "book_claims": {
         "braudel-vol1": 2,
-        "elon-musk": 1
+        "elon-musk": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "braudel-vol1",
-        "elon-musk"
+        "elon-musk",
+        "the great crash of 1929"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "commercial_development": {
       "id": "commercial_development",
@@ -14172,7 +14178,8 @@
         "hyperculture": 1,
         "saving beauty": 1,
         "the scent of time": 3,
-        "the transparency society": 1
+        "the transparency society": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "beelzebubs tales",
@@ -14186,9 +14193,10 @@
         "hyperculture",
         "saving beauty",
         "the scent of time",
-        "the transparency society"
+        "the transparency society",
+        "the great crash of 1929"
       ],
-      "claim_count": 18
+      "claim_count": 19
     },
     "devotional_practice": {
       "id": "devotional_practice",
@@ -16434,7 +16442,8 @@
         "the ascent of money": 3,
         "the black swan": 1,
         "the concept of acceleration": 1,
-        "zero to one": 1
+        "zero to one": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "elon-musk",
@@ -16442,9 +16451,10 @@
         "the ascent of money",
         "the black swan",
         "the concept of acceleration",
-        "zero to one"
+        "zero to one",
+        "the great crash of 1929"
       ],
-      "claim_count": 9
+      "claim_count": 10
     },
     "software_development": {
       "id": "software_development",
@@ -18219,7 +18229,8 @@
         "the sickness unto death": 2,
         "the world as will and representation vol 2": 1,
         "things hidden since the foundation of the world": 1,
-        "thus spake zarathustra": 2
+        "thus spake zarathustra": 2,
+        "the great crash of 1929": 1
       },
       "books": [
         "beelzebubs tales",
@@ -18234,9 +18245,10 @@
         "the sickness unto death",
         "the world as will and representation vol 2",
         "things hidden since the foundation of the world",
-        "thus spake zarathustra"
+        "thus spake zarathustra",
+        "the great crash of 1929"
       ],
-      "claim_count": 28
+      "claim_count": 29
     },
     "psychological_dissociation": {
       "id": "psychological_dissociation",
@@ -18866,7 +18878,8 @@
         "the palliative society": 1,
         "the scent of time": 2,
         "the transparency society": 2,
-        "what is power": 1
+        "what is power": 1,
+        "the great crash of 1929": 2
       },
       "books": [
         "anthropomorphics",
@@ -18908,9 +18921,10 @@
         "the palliative society",
         "the scent of time",
         "the transparency society",
-        "what is power"
+        "what is power",
+        "the great crash of 1929"
       ],
-      "claim_count": 63
+      "claim_count": 65
     },
     "aesthetic_experience": {
       "id": "aesthetic_experience",
@@ -28558,13 +28572,15 @@
       "related": [],
       "book_claims": {
         "occult philosophy in the elizabethan age": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "occult philosophy in the elizabethan age",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the great crash of 1929"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "institutional_formation": {
       "id": "institutional_formation",
@@ -28695,16 +28711,18 @@
         "occult philosophy in the elizabethan age": 1,
         "the discarded image": 1,
         "the world as will and representation vol 2": 1,
-        "things hidden since the foundation of the world": 1
+        "things hidden since the foundation of the world": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "europes tragedy",
         "occult philosophy in the elizabethan age",
         "the discarded image",
         "the world as will and representation vol 2",
-        "things hidden since the foundation of the world"
+        "things hidden since the foundation of the world",
+        "the great crash of 1929"
       ],
-      "claim_count": 5
+      "claim_count": 6
     },
     "religious_tradition": {
       "id": "religious_tradition",
@@ -32146,13 +32164,15 @@
       "related": [],
       "book_claims": {
         "revolt-against-the-modern-world": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "revolt-against-the-modern-world",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the great crash of 1929"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "slavery": {
       "id": "slavery",
@@ -33643,16 +33663,18 @@
         "muskism": 1,
         "the ascent of money": 1,
         "through the eye of a needle": 1,
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the great crash of 1929": 3
       },
       "books": [
         "europes tragedy",
         "muskism",
         "the ascent of money",
         "through the eye of a needle",
-        "unqualified reservations"
+        "unqualified reservations",
+        "the great crash of 1929"
       ],
-      "claim_count": 5
+      "claim_count": 8
     },
     "fat_tails": {
       "id": "fat_tails",
@@ -60060,13 +60082,15 @@
       "related": [],
       "book_claims": {
         "elon-musk": 1,
-        "muskism": 1
+        "muskism": 1,
+        "the great crash of 1929": 2
       },
       "books": [
         "elon-musk",
-        "muskism"
+        "muskism",
+        "the great crash of 1929"
       ],
-      "claim_count": 2
+      "claim_count": 4
     },
     "social_media_psychology": {
       "id": "social_media_psychology",
@@ -60280,15 +60304,17 @@
         "antifragile": 1,
         "muskism": 1,
         "poor charlies almanack": 1,
-        "skin in the game": 1
+        "skin in the game": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "antifragile",
         "muskism",
         "poor charlies almanack",
-        "skin in the game"
+        "skin in the game",
+        "the great crash of 1929"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "founder_mythology": {
       "id": "founder_mythology",
@@ -62189,14 +62215,16 @@
       "book_claims": {
         "henry kaiser": 1,
         "the ascent of money": 1,
-        "the zurich axioms": 1
+        "the zurich axioms": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "henry kaiser",
         "the ascent of money",
-        "the zurich axioms"
+        "the zurich axioms",
+        "the great crash of 1929"
       ],
-      "claim_count": 3
+      "claim_count": 4
     },
     "relationship_banking": {
       "id": "relationship_banking",
@@ -63278,15 +63306,17 @@
         "antifragile": 1,
         "how the world really works": 1,
         "the black swan": 2,
-        "the zurich axioms": 2
+        "the zurich axioms": 2,
+        "the great crash of 1929": 2
       },
       "books": [
         "antifragile",
         "how the world really works",
         "the black swan",
-        "the zurich axioms"
+        "the zurich axioms",
+        "the great crash of 1929"
       ],
-      "claim_count": 6
+      "claim_count": 8
     },
     "collective_behavior": {
       "id": "collective_behavior",
@@ -64222,13 +64252,15 @@
       "related": [],
       "book_claims": {
         "poor charlies almanack": 3,
-        "skin in the game": 1
+        "skin in the game": 1,
+        "the great crash of 1929": 1
       },
       "books": [
         "poor charlies almanack",
-        "skin in the game"
+        "skin in the game",
+        "the great crash of 1929"
       ],
-      "claim_count": 4
+      "claim_count": 5
     },
     "sunk_cost_fallacy": {
       "id": "sunk_cost_fallacy",
@@ -68301,12 +68333,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "a disease in the public mind": 1
+        "a disease in the public mind": 1,
+        "the great crash of 1929": 1
       },
       "books": [
-        "a disease in the public mind"
+        "a disease in the public mind",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "gradual_awakening": {
       "id": "gradual_awakening",
@@ -95695,12 +95729,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "beelzebubs tales": 2
+        "beelzebubs tales": 2,
+        "the great crash of 1929": 1
       },
       "books": [
-        "beelzebubs tales"
+        "beelzebubs tales",
+        "the great crash of 1929"
       ],
-      "claim_count": 2
+      "claim_count": 3
     },
     "cosmic_engineering": {
       "id": "cosmic_engineering",
@@ -98963,12 +98999,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "beelzebubs tales": 1
+        "beelzebubs tales": 1,
+        "the great crash of 1929": 1
       },
       "books": [
-        "beelzebubs tales"
+        "beelzebubs tales",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "cultural_degradation": {
       "id": "cultural_degradation",
@@ -138801,12 +138839,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "europes tragedy": 1
+        "europes tragedy": 1,
+        "the great crash of 1929": 1
       },
       "books": [
-        "europes tragedy"
+        "europes tragedy",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "diplomatic_manipulation": {
       "id": "diplomatic_manipulation",
@@ -149913,12 +149953,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "from bacteria to bach and back": 1
+        "from bacteria to bach and back": 1,
+        "the great crash of 1929": 2
       },
       "books": [
-        "from bacteria to bach and back"
+        "from bacteria to bach and back",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "functional_explanation": {
       "id": "functional_explanation",
@@ -184919,12 +184961,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "market-wizards-the-new-generation-editorial-synthesis": 1
+        "market-wizards-the-new-generation-editorial-synthesis": 1,
+        "the great crash of 1929": 4
       },
       "books": [
-        "market-wizards-the-new-generation-editorial-synthesis"
+        "market-wizards-the-new-generation-editorial-synthesis",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 5
     },
     "risk_reflex": {
       "id": "risk_reflex",
@@ -231239,12 +231283,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "philosopher-in-the-valley": 1
+        "philosopher-in-the-valley": 1,
+        "the great crash of 1929": 3
       },
       "books": [
-        "philosopher-in-the-valley"
+        "philosopher-in-the-valley",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 4
     },
     "tech_industry_politics": {
       "id": "tech_industry_politics",
@@ -280923,12 +280969,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the ascent of money": 1
+        "the ascent of money": 1,
+        "the great crash of 1929": 2
       },
       "books": [
-        "the ascent of money"
+        "the ascent of money",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 3
     },
     "sovereign_wealth_funds": {
       "id": "sovereign_wealth_funds",
@@ -295957,12 +296005,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the hard thing about hard things": 1
+        "the hard thing about hard things": 1,
+        "the great crash of 1929": 1
       },
       "books": [
-        "the hard thing about hard things"
+        "the hard thing about hard things",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "business_fragility": {
       "id": "business_fragility",
@@ -338095,12 +338145,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "the zurich axioms": 1
+        "the zurich axioms": 1,
+        "the great crash of 1929": 1
       },
       "books": [
-        "the zurich axioms"
+        "the zurich axioms",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "loss_management": {
       "id": "loss_management",
@@ -356429,12 +356481,14 @@
       "aliases": [],
       "related": [],
       "book_claims": {
-        "unqualified reservations": 1
+        "unqualified reservations": 1,
+        "the great crash of 1929": 1
       },
       "books": [
-        "unqualified reservations"
+        "unqualified reservations",
+        "the great crash of 1929"
       ],
-      "claim_count": 1
+      "claim_count": 2
     },
     "political_feasibility": {
       "id": "political_feasibility",
@@ -376547,11 +376601,837 @@
         "what is power"
       ],
       "claim_count": 1
+    },
+    "speculative_bubble": {
+      "id": "speculative_bubble",
+      "label": "Speculative Bubble",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "official_reassurance": {
+      "id": "official_reassurance",
+      "label": "Official Reassurance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "self_delusion": {
+      "id": "self_delusion",
+      "label": "Self Delusion",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "speculative_mania": {
+      "id": "speculative_mania",
+      "label": "Speculative Mania",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "gold_standard": {
+      "id": "gold_standard",
+      "label": "Gold Standard",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "regulatory_dilemma": {
+      "id": "regulatory_dilemma",
+      "label": "Regulatory Dilemma",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "policy_paralysis": {
+      "id": "policy_paralysis",
+      "label": "Policy Paralysis",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "institutional_incompetence": {
+      "id": "institutional_incompetence",
+      "label": "Institutional Incompetence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "policy_effectiveness": {
+      "id": "policy_effectiveness",
+      "label": "Policy Effectiveness",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "market_intervention": {
+      "id": "market_intervention",
+      "label": "Market Intervention",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 3
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 3
+    },
+    "institutional_defiance": {
+      "id": "institutional_defiance",
+      "label": "Institutional Defiance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "laissez_faire": {
+      "id": "laissez_faire",
+      "label": "Laissez Faire",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "regulatory_abdication": {
+      "id": "regulatory_abdication",
+      "label": "Regulatory Abdication",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "investment_trust": {
+      "id": "investment_trust",
+      "label": "Investment Trust",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 3
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 3
+    },
+    "securities_speculation": {
+      "id": "securities_speculation",
+      "label": "Securities Speculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "mass_speculation": {
+      "id": "mass_speculation",
+      "label": "Mass Speculation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "financial_genius": {
+      "id": "financial_genius",
+      "label": "Financial Genius",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "reverse_leverage": {
+      "id": "reverse_leverage",
+      "label": "Reverse Leverage",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "financial_pyramid": {
+      "id": "financial_pyramid",
+      "label": "Financial Pyramid",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "official_optimism": {
+      "id": "official_optimism",
+      "label": "Official Optimism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "media_corruption": {
+      "id": "media_corruption",
+      "label": "Media Corruption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "financial_journalism": {
+      "id": "financial_journalism",
+      "label": "Financial Journalism",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "pool_operations": {
+      "id": "pool_operations",
+      "label": "Pool Operations",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "market_peak": {
+      "id": "market_peak",
+      "label": "Market Peak",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "turning_point": {
+      "id": "turning_point",
+      "label": "Turning Point",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "speculative_collapse": {
+      "id": "speculative_collapse",
+      "label": "Speculative Collapse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "financial_panic": {
+      "id": "financial_panic",
+      "label": "Financial Panic",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "market_liquidity": {
+      "id": "market_liquidity",
+      "label": "Market Liquidity",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "organized_support": {
+      "id": "organized_support",
+      "label": "Organized Support",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "banker_prestige": {
+      "id": "banker_prestige",
+      "label": "Banker Prestige",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 3
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 3
+    },
+    "incantation": {
+      "id": "incantation",
+      "label": "Incantation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "market_liquidation": {
+      "id": "market_liquidation",
+      "label": "Market Liquidation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "power_and_reputation": {
+      "id": "power_and_reputation",
+      "label": "Power And Reputation",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "economic_deterioration": {
+      "id": "economic_deterioration",
+      "label": "Economic Deterioration",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "historical_myth": {
+      "id": "historical_myth",
+      "label": "Historical Myth",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "embezzlement": {
+      "id": "embezzlement",
+      "label": "Embezzlement",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "the_bezzle": {
+      "id": "the_bezzle",
+      "label": "The Bezzle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "business_cycle": {
+      "id": "business_cycle",
+      "label": "Business Cycle",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "fiscal_policy": {
+      "id": "fiscal_policy",
+      "label": "Fiscal Policy",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "economic_stimulus": {
+      "id": "economic_stimulus",
+      "label": "Economic Stimulus",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "political_ritual": {
+      "id": "political_ritual",
+      "label": "Political Ritual",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "prolonged_depression": {
+      "id": "prolonged_depression",
+      "label": "Prolonged Depression",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "reputational_collapse": {
+      "id": "reputational_collapse",
+      "label": "Reputational Collapse",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "insider_trading": {
+      "id": "insider_trading",
+      "label": "Insider Trading",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "corporate_corruption": {
+      "id": "corporate_corruption",
+      "label": "Corporate Corruption",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 2
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 2
+    },
+    "tax_avoidance": {
+      "id": "tax_avoidance",
+      "label": "Tax Avoidance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "symbolic_evil": {
+      "id": "symbolic_evil",
+      "label": "Symbolic Evil",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "class_stigma": {
+      "id": "class_stigma",
+      "label": "Class Stigma",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "speculative_psychology": {
+      "id": "speculative_psychology",
+      "label": "Speculative Psychology",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "market_mood": {
+      "id": "market_mood",
+      "label": "Market Mood",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "savings": {
+      "id": "savings",
+      "label": "Savings",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "income_inequality": {
+      "id": "income_inequality",
+      "label": "Income Inequality",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "banking_fragility": {
+      "id": "banking_fragility",
+      "label": "Banking Fragility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "foreign_balance": {
+      "id": "foreign_balance",
+      "label": "Foreign Balance",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "balanced_budget_dogma": {
+      "id": "balanced_budget_dogma",
+      "label": "Balanced Budget Dogma",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "economic_fragility": {
+      "id": "economic_fragility",
+      "label": "Economic Fragility",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "financial_reform": {
+      "id": "financial_reform",
+      "label": "Financial Reform",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "political_incentives": {
+      "id": "political_incentives",
+      "label": "Political Incentives",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
+    },
+    "speculative_recurrence": {
+      "id": "speculative_recurrence",
+      "label": "Speculative Recurrence",
+      "description": "",
+      "aliases": [],
+      "related": [],
+      "book_claims": {
+        "the great crash of 1929": 1
+      },
+      "books": [
+        "the great crash of 1929"
+      ],
+      "claim_count": 1
     }
   },
   "stats": {
-    "total_concepts": 25745,
-    "total_claims": 44851,
-    "books_indexed": 164
+    "total_concepts": 25804,
+    "total_claims": 44969,
+    "books_indexed": 165
   }
 }
